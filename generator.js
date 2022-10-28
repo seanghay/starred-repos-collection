@@ -29,11 +29,6 @@ const topics = Object.keys(sortedMap);
 let markdown = '# Starred Repos Collection\n\n';
 
 markdown += "Organize your starred repos on GitHub into searchable topics.\n\n";
-markdown += "## Table of contents\n\n"
-
-for (const topic of topics) {
-  markdown += ` - ${topic}\n`;
-}
 
 markdown += "\n"
 
