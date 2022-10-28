@@ -7,7 +7,6 @@ await fs.mkdir('data', { recursive: true })
 
 const auth = process.env.GH_TOKEN;
 const username = process.env.GH_LOGIN;
-
 const octokit = new Octokit({ auth });
 
 const iterator = octokit.paginate.iterator(octokit.rest.activity.listReposStarredByUser, {
