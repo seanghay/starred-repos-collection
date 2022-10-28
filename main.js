@@ -12,7 +12,7 @@ const octokit = new Octokit({ auth });
 const iterator = octokit.paginate.iterator(octokit.rest.activity.listReposStarredByUser, {
   username,
   per_page: 100
-})
+});
 
 let index = 0; 
 
