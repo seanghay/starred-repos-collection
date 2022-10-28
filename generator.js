@@ -49,16 +49,16 @@ for (const [topic, repos] of sortedEntries) {
 
   for (const repo of repos) {
     markdown += `#### [${repo.full_name}](${repo.html_url}) \n\n`;
+    markdown += `⭐️ ${millify(repo.stargazers_count)} \n\n`;
 
     if (repo.description) {
       markdown += `${repo.description} \n\n`;
     }
 
     if (repo.homepage) {
-      markdown += `[${repo.homepage}](${repo.homepage})`
+      markdown += `[${repo.homepage}](${repo.homepage})\n\n`
     }
 
-    markdown += `⭐️ ${millify(repo.stargazers_count)} \n\n`;
     
     if (repo.language) {
       markdown += `[\`${repo.language}\`](./docs/languages.md#${slugify(repo.language.toLowerCase())}) \n\n`;
@@ -88,16 +88,16 @@ for (const language in languages) {
   const repos = languages[language];
   for (const repo of repos) {
     markdown += `#### [${repo.full_name}](${repo.html_url}) \n\n`;
+    markdown += `⭐️ ${millify(repo.stargazers_count)} \n\n`;
 
     if (repo.description) {
       markdown += `${repo.description} \n\n`;
     }
-    
+
     if (repo.homepage) {
-      markdown += `[${repo.homepage}](${repo.homepage})`
+      markdown += `[${repo.homepage}](${repo.homepage})\n\n`
     }
 
-    markdown += `⭐️ ${millify(repo.stargazers_count)} \n\n`;
     markdown += `--- \n\n`;
   }
 }
