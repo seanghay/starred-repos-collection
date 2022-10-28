@@ -79,8 +79,8 @@ for (const language in languages) {
 markdown += `\n\n --- \n\n`;
 
 for (const language in languages) {
-  const slug = slugify(language.toLowerCase())
-  markdown += `## [${language}][${slug}]\n\n`;
+  markdown += `## ${language}\n\n`;
+
   const repos = languages[language];
   for (const repo of repos) {
     markdown += `#### [${repo.full_name}](${repo.html_url}) \n\n`;

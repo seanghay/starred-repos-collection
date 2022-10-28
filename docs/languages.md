@@ -4,7 +4,7 @@
 
  --- 
 
-## [C#][c]
+## C#
 
 #### [DapperLib/Dapper](https://github.com/DapperLib/Dapper) 
 
@@ -60,7 +60,7 @@ A Terminal Emulator based on UWP and web technologies.
 
 --- 
 
-## [C++][c++]
+## C++
 
 #### [275288698/Android-as_video_player](https://github.com/275288698/Android-as_video_player) 
 
@@ -646,7 +646,7 @@ android 读取摄像头和麦克风,使用rtmp推流
 
 --- 
 
-## [C][c]
+## C
 
 #### [CainKernel/CainPlayer](https://github.com/CainKernel/CainPlayer) 
 
@@ -936,7 +936,7 @@ Android上基于FFmpeg开发的视频处理框架，简单易用，体积小，�
 
 --- 
 
-## [CMake][cmake]
+## CMake
 
 #### [chase-moskal/webp-hero](https://github.com/chase-moskal/webp-hero) 
 
@@ -954,7 +954,7 @@ A template CMake project to get you started with C++ and tooling
 
 --- 
 
-## [CSS][css]
+## CSS
 
 #### [AllToMP3/alltomp3-app](https://github.com/AllToMP3/alltomp3-app) 
 
@@ -996,7 +996,7 @@ Example Chat Application using RxJS and Angular 2
 
 --- 
 
-## [Clojure][clojure]
+## Clojure
 
 #### [frankiesardo/icepick](https://github.com/frankiesardo/icepick) 
 
@@ -1006,7 +1006,7 @@ Android Instance State made easy
 
 --- 
 
-## [CoffeeScript][coffeescript]
+## CoffeeScript
 
 #### [basecamp/trix](https://github.com/basecamp/trix) 
 
@@ -1024,7 +1024,7 @@ a node internal (in-memory) caching module
 
 --- 
 
-## [Dart][dart]
+## Dart
 
 #### [LinusU/flutter_web_auth](https://github.com/LinusU/flutter_web_auth) 
 
@@ -1118,7 +1118,7 @@ retrofit.dart is an dio client generator using source_gen and inspired by Choppe
 
 --- 
 
-## [Dockerfile][dockerfile]
+## Dockerfile
 
 #### [appleboy/ssh-action](https://github.com/appleboy/ssh-action) 
 
@@ -1152,7 +1152,7 @@ An optimized docker image includes Android, Kotlin, Flutter sdk.
 
 --- 
 
-## [Elixir][elixir]
+## Elixir
 
 #### [plausible/analytics](https://github.com/plausible/analytics) 
 
@@ -1162,7 +1162,7 @@ Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alt
 
 --- 
 
-## [FreeMarker][freemarker]
+## FreeMarker
 
 #### [mozilla/send](https://github.com/mozilla/send) 
 
@@ -1172,7 +1172,7 @@ Simple, private file sharing from the makers of Firefox
 
 --- 
 
-## [GLSL][glsl]
+## GLSL
 
 #### [SaschaWillems/Vulkan](https://github.com/SaschaWillems/Vulkan) 
 
@@ -1198,7 +1198,7 @@ This repo is for glsl shaders converted by hand from libretro's common-shaders r
 
 --- 
 
-## [Go][go]
+## Go
 
 #### [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) 
 
@@ -1692,7 +1692,7 @@ A cloud-native Go microservices framework with cli tool for productivity.
 
 --- 
 
-## [Groovy][groovy]
+## Groovy
 
 #### [gradle/gradle](https://github.com/gradle/gradle) 
 
@@ -1710,7 +1710,7 @@ Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packa
 
 --- 
 
-## [HTML][html]
+## HTML
 
 #### [AnthumChris/fetch-progress-indicators](https://github.com/AnthumChris/fetch-progress-indicators) 
 
@@ -1896,7 +1896,7 @@ A functional HTML/CSS/JS editor in less than 400 bytes
 
 --- 
 
-## [Haskell][haskell]
+## Haskell
 
 #### [github/semantic](https://github.com/github/semantic) 
 
@@ -1922,7 +1922,7 @@ Carthage cache for S3, Minio, Ceph, Google Storage, Artifactory and many others
 
 --- 
 
-## [Java][java]
+## Java
 
 #### [385841539/RecycleviewStaggered](https://github.com/385841539/RecycleviewStaggered) 
 
@@ -5854,19 +5854,19 @@ An android library that allows to use Lottie and create the bottom navigation.
 
 --- 
 
-#### [xenione/tab-digit](https://github.com/xenione/tab-digit) 
-
-A Flip Digit Libray 
-
-⭐️ 596 
-
---- 
-
 #### [xiangcman/LayoutManager-FlowLayout](https://github.com/xiangcman/LayoutManager-FlowLayout) 
 
 快速利用RecyclerView的LayoutManager搭建流式布局 
 
 ⭐️ 659 
+
+--- 
+
+#### [xenione/tab-digit](https://github.com/xenione/tab-digit) 
+
+A Flip Digit Libray 
+
+⭐️ 596 
 
 --- 
 
@@ -6214,7 +6214,7 @@ ZXing ("Zebra Crossing") barcode scanning library for Java, Android
 
 --- 
 
-## [JavaScript][javascript]
+## JavaScript
 
 #### [11ty/eleventy](https://github.com/11ty/eleventy) 
 
@@ -8896,19 +8896,19 @@ Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 
 --- 
 
-#### [upscayl/upscayl](https://github.com/upscayl/upscayl) 
-
-🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy. 
-
-⭐️ 5.9K 
-
---- 
-
 #### [unshiftio/url-parse](https://github.com/unshiftio/url-parse) 
 
 Small footprint URL parser that works seamlessly across Node.js and browser environments. 
 
 ⭐️ 982 
+
+--- 
+
+#### [upscayl/upscayl](https://github.com/upscayl/upscayl) 
+
+🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy. 
+
+⭐️ 5.9K 
 
 --- 
 
@@ -9104,7 +9104,7 @@ Low Quality Image Placeholders (LQIP) Module for Node
 
 --- 
 
-## [Jinja][jinja]
+## Jinja
 
 #### [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) 
 
@@ -9114,7 +9114,7 @@ Deploy a Production Ready Kubernetes Cluster
 
 --- 
 
-## [Jupyter Notebook][jupyter-notebook]
+## Jupyter Notebook
 
 #### [facebookresearch/DensePose](https://github.com/facebookresearch/DensePose) 
 
@@ -9154,7 +9154,7 @@ Various experimental NLP tasks for Khmer language
 
 --- 
 
-## [Kotlin][kotlin]
+## Kotlin
 
 #### [10clouds/FluidBottomNavigation-android](https://github.com/10clouds/FluidBottomNavigation-android) 
 
@@ -13258,7 +13258,7 @@ An android image compression library.
 
 --- 
 
-## [Lua][lua]
+## Lua
 
 #### [apache/apisix](https://github.com/apache/apisix) 
 
@@ -13268,7 +13268,7 @@ The Cloud-Native API Gateway
 
 --- 
 
-## [Makefile][makefile]
+## Makefile
 
 #### [silnrsi/khmerlbdict](https://github.com/silnrsi/khmerlbdict) 
 
@@ -13278,7 +13278,7 @@ Khmer wordlist for line and word breaking
 
 --- 
 
-## [Objective-C++][objective-c++]
+## Objective-C++
 
 #### [KhronosGroup/MoltenVK](https://github.com/KhronosGroup/MoltenVK) 
 
@@ -13288,7 +13288,7 @@ MoltenVK is a Vulkan Portability implementation. It layers a subset of the high-
 
 --- 
 
-## [Objective-C][objective-c]
+## Objective-C
 
 #### [JonyFang/FFPopup](https://github.com/JonyFang/FFPopup) 
 
@@ -13338,7 +13338,7 @@ Freely painted area in a video, the software will automatically be cut out.
 
 --- 
 
-## [PHP][php]
+## PHP
 
 #### [AlexWhiter/GarminRelatedStuff](https://github.com/AlexWhiter/GarminRelatedStuff) 
 
@@ -13420,7 +13420,7 @@ A fully featured full text search engine written in PHP
 
 --- 
 
-## [Perl][perl]
+## Perl
 
 #### [bookkojot/mp4fixer](https://github.com/bookkojot/mp4fixer) 
 
@@ -13438,7 +13438,7 @@ khPOS (Khmer Part-of-Speech) Corpus for Khmer NLP Research and Developments
 
 --- 
 
-## [Python][python]
+## Python
 
 #### [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager) 
 
@@ -13884,7 +13884,7 @@ Command-line program to download videos from YouTube.com and other video sites
 
 --- 
 
-## [Red][red]
+## Red
 
 #### [red/red](https://github.com/red/red) 
 
@@ -13894,7 +13894,7 @@ Red is a next-generation programming language strongly inspired by Rebol, but wi
 
 --- 
 
-## [Ruby][ruby]
+## Ruby
 
 #### [Homebrew/homebrew-autoupdate](https://github.com/Homebrew/homebrew-autoupdate) 
 
@@ -13990,7 +13990,7 @@ Normalize emails like J.oh.n+sneaky@gmail.com into john@gmail.com
 
 --- 
 
-## [Rust][rust]
+## Rust
 
 #### [Brooooooklyn/canvas](https://github.com/Brooooooklyn/canvas) 
 
@@ -14512,7 +14512,7 @@ A modern text editor for the terminal written in Rust
 
 --- 
 
-## [SCSS][scss]
+## SCSS
 
 #### [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) 
 
@@ -14546,7 +14546,7 @@ The Less Formal CSS Framework
 
 --- 
 
-## [Shell][shell]
+## Shell
 
 #### [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) 
 
@@ -14674,7 +14674,7 @@ A boilerplate, for running Prisma behind a graphql endpoint, inside Docker
 
 --- 
 
-## [Smarty][smarty]
+## Smarty
 
 #### [MinimalCompact/thumbor](https://github.com/MinimalCompact/thumbor) 
 
@@ -14684,7 +14684,7 @@ The quickest way to run thumbor.
 
 --- 
 
-## [Svelte][svelte]
+## Svelte
 
 #### [rogchap/wombat](https://github.com/rogchap/wombat) 
 
@@ -14694,7 +14694,7 @@ Cross platform gRPC client
 
 --- 
 
-## [Swift][swift]
+## Swift
 
 #### [Actomaton/Actomaton](https://github.com/Actomaton/Actomaton) 
 
@@ -15382,7 +15382,7 @@ Swipable tab and menu View and ViewController.
 
 --- 
 
-## [TypeScript][typescript]
+## TypeScript
 
 #### [APKLab/APKLab](https://github.com/APKLab/APKLab) 
 
@@ -16544,19 +16544,19 @@ Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access 
 
 --- 
 
-#### [hayd/deno-udd](https://github.com/hayd/deno-udd) 
-
-Update Deno Dependencies - update dependency urls to their latest published versions 
-
-⭐️ 242 
-
---- 
-
 #### [hayes/pothos](https://github.com/hayes/pothos) 
 
 Pothos GraphQL is library for creating GraphQL schemas in typescript using a strongly typed code first approach 
 
 ⭐️ 1.3K 
+
+--- 
+
+#### [hayd/deno-udd](https://github.com/hayd/deno-udd) 
+
+Update Deno Dependencies - update dependency urls to their latest published versions 
+
+⭐️ 242 
 
 --- 
 
@@ -17994,6 +17994,22 @@ List any node_modules 📦 dir in your system and how heavy they are. You can th
 
 --- 
 
+#### [vueuse/schema-org](https://github.com/vueuse/schema-org) 
+
+🔎  Quick and easy Schema.org graphs for Vue. With zero runtime and SSR 
+
+⭐️ 288 
+
+--- 
+
+#### [vueuse/vue-chemistry](https://github.com/vueuse/vue-chemistry) 
+
+Reactified JavaScript functions for Vue 
+
+⭐️ 323 
+
+--- 
+
 #### [vuejs/core](https://github.com/vuejs/core) 
 
 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. 
@@ -18039,22 +18055,6 @@ ES / TypeScript decorator for class-style Vue components.
 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. 
 
 ⭐️ 200.3K 
-
---- 
-
-#### [vueuse/schema-org](https://github.com/vueuse/schema-org) 
-
-🔎  Quick and easy Schema.org graphs for Vue. With zero runtime and SSR 
-
-⭐️ 288 
-
---- 
-
-#### [vueuse/vue-chemistry](https://github.com/vueuse/vue-chemistry) 
-
-Reactified JavaScript functions for Vue 
-
-⭐️ 323 
 
 --- 
 
@@ -18138,7 +18138,7 @@ ADB in your browser
 
 --- 
 
-## [V][v]
+## V
 
 #### [vlang/v](https://github.com/vlang/v) 
 
@@ -18148,7 +18148,7 @@ Simple, fast, safe, compiled language for developing maintainable software. Comp
 
 --- 
 
-## [Vim Script][vim-script]
+## Vim Script
 
 #### [github/copilot.vim](https://github.com/github/copilot.vim) 
 
@@ -18158,7 +18158,7 @@ Neovim plugin for GitHub Copilot
 
 --- 
 
-## [Vue][vue]
+## Vue
 
 #### [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) 
 
@@ -18312,7 +18312,7 @@ Notice: This project has been merged into the upstream package. https://github.c
 
 --- 
 
-## [WebAssembly][webassembly]
+## WebAssembly
 
 #### [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) 
 
@@ -18322,7 +18322,7 @@ A TypeScript-like language for WebAssembly.
 
 --- 
 
-## [Zig][zig]
+## Zig
 
 #### [oven-sh/bun](https://github.com/oven-sh/bun) 
 
