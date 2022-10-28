@@ -27,7 +27,7 @@ for await (const file of stream) {
   if (repo.language) {
     const items = languagesCollections.get(repo.language) || [];
     items.push(repo);
-    languagesCollections.set(repo.language, items) 
+    languagesCollections.set(repo.language, items)
   }
 
 }
@@ -40,7 +40,6 @@ let markdown = '# Starred Repos Collection\n\n';
 
 markdown += `> **Note**\n> last upated at \`${new Date().toISOString()}\`\n\n`;
 
-
 markdown += "Organize your starred repos on GitHub into searchable topics.\n\n";
 markdown += "\n"
 
@@ -50,13 +49,21 @@ for (const [topic, repos] of sortedEntries) {
 
   for (const repo of repos) {
     markdown += `#### [${repo.full_name}](${repo.html_url}) \n\n`;
-    
+
     if (repo.description) {
       markdown += `${repo.description} \n\n`;
     }
-    
+
+    if (repo.homepage) {
+      markdown += `[${repo.homepage}](${repo.homepage})`
+    }
+
     markdown += `⭐️ ${millify(repo.stargazers_count)} \n\n`;
-    markdown += `\`${repo.language}\` \n\n`;
+    
+    if (repo.language) {
+      markdown += `[\`${repo.language}\`](./docs/languages.md#${slugify(repo.language.toLowerCase())}) \n\n`;
+    }
+
     markdown += `--- \n\n`;
   }
 
@@ -81,11 +88,15 @@ for (const language in languages) {
   const repos = languages[language];
   for (const repo of repos) {
     markdown += `#### [${repo.full_name}](${repo.html_url}) \n\n`;
-    
+
     if (repo.description) {
       markdown += `${repo.description} \n\n`;
     }
     
+    if (repo.homepage) {
+      markdown += `[${repo.homepage}](${repo.homepage})`
+    }
+
     markdown += `⭐️ ${millify(repo.stargazers_count)} \n\n`;
     markdown += `--- \n\n`;
   }
