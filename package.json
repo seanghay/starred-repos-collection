@@ -1,0 +1,25 @@
+{
+  "name": "starred-repos-collection",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Organize your starred repos on GitHub",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {},
+  "keywords": [
+    "github",
+    "octokit",
+    "stars",
+    "starred"
+  ],
+  "author": {
+    "name": "Seanghay Yath",
+    "email": "seanghay.dev@gmail.com",
+    "url": "https://github.com/seanghay"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "octokit": "^2.0.10"
+  }
+}

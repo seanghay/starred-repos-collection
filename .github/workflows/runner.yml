@@ -1,0 +1,10 @@
+name: runner
+
+on: push
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        run: node main.js
