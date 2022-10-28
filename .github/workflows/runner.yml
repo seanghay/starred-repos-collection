@@ -35,4 +35,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "chore: dataset update"
-          file_pattern: "./data/**/*.json **/*.md"
+          file_pattern: "./data/**/*.json ./docs/*.md *.md"
