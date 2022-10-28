@@ -5,6 +5,8 @@ on: push
 jobs:
   download:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
       - uses: actions/checkout@v3
       
@@ -18,3 +20,6 @@ jobs:
         
       - name: exec
         run: node main.js
+        env: 
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_LOGIN: ${{ github.repository_owner }}
