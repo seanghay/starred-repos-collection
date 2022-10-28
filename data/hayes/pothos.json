@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/hayes/pothos.git",
   "svn_url": "https://github.com/hayes/pothos",
   "homepage": "https://pothos-graphql.dev",
-  "size": 94763,
+  "size": 94875,
   "stargazers_count": 1308,
   "watchers_count": 1308,
   "language": "TypeScript",
@@ -111,5 +111,6 @@
     "push": false,
     "triage": false,
     "pull": false
-  }
+  },
+  "_index": 835
 }

@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/authelia/authelia.git",
   "svn_url": "https://github.com/authelia/authelia",
   "homepage": "https://www.authelia.com",
-  "size": 32504,
+  "size": 32388,
   "stargazers_count": 14515,
   "watchers_count": 14515,
   "language": "Go",
@@ -129,5 +129,6 @@
     "push": false,
     "triage": false,
     "pull": false
-  }
+  },
+  "_index": 561
 }

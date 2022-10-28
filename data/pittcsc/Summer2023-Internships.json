@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pittcsc/Summer2023-Internships/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pittcsc/Summer2023-Internships/deployments",
   "created_at": "2020-05-23T20:53:18Z",
-  "updated_at": "2022-10-28T04:44:40Z",
+  "updated_at": "2022-10-28T05:52:35Z",
   "pushed_at": "2022-10-27T21:43:43Z",
   "git_url": "git://github.com/pittcsc/Summer2023-Internships.git",
   "ssh_url": "git@github.com:pittcsc/Summer2023-Internships.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/pittcsc/Summer2023-Internships",
   "homepage": "",
   "size": 2601,
-  "stargazers_count": 14602,
-  "watchers_count": 14602,
+  "stargazers_count": 14603,
+  "watchers_count": 14603,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -100,7 +100,7 @@
   "visibility": "public",
   "forks": 1565,
   "open_issues": 0,
-  "watchers": 14602,
+  "watchers": 14603,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -108,5 +108,6 @@
     "push": false,
     "triage": false,
     "pull": false
-  }
+  },
+  "_index": 271
 }

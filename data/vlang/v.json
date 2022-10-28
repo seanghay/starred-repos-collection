@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/vlang/v/deployments",
   "created_at": "2019-02-08T02:57:06Z",
   "updated_at": "2022-10-28T02:20:37Z",
-  "pushed_at": "2022-10-28T04:00:09Z",
+  "pushed_at": "2022-10-28T05:52:20Z",
   "git_url": "git://github.com/vlang/v.git",
   "ssh_url": "git@github.com:vlang/v.git",
   "clone_url": "https://github.com/vlang/v.git",
@@ -115,5 +115,6 @@
     "push": false,
     "triage": false,
     "pull": false
-  }
+  },
+  "_index": 1736
 }

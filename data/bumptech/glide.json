@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/bumptech/glide.git",
   "svn_url": "https://github.com/bumptech/glide",
   "homepage": "https://bumptech.github.io/glide/",
-  "size": 94940,
+  "size": 94955,
   "stargazers_count": 33072,
   "watchers_count": 33072,
   "language": "Java",
@@ -114,5 +114,6 @@
     "push": false,
     "triage": false,
     "pull": false
-  }
+  },
+  "_index": 2205
 }
