@@ -39,14 +39,6 @@ let markdown = '# Starred Repos Collection\n\n';
 markdown += "Organize your starred repos on GitHub into searchable topics.\n\n";
 markdown += "\n"
 
-markdown += `## Languages \n\n`;
-
-for (const language in languages) {
-  markdown += `\`${language}\` `;
-}
-
-markdown += `\n\n--- \n\n`;
-
 for (const [topic, repos] of sortedEntries) {
 
   markdown += `## ${topic} \n\n`;
