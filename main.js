@@ -6,7 +6,7 @@ import { Octokit } from 'octokit';
 await fs.mkdir('data', { recursive: true })
 
 const auth = process.env.GH_TOKEN;
-const username = process.env.GH_USERNAME;
+const username = process.env.GH_LOGIN;
 
 const octokit = new Octokit({ auth });
 

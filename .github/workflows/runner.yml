@@ -22,4 +22,4 @@ jobs:
         run: node main.js
         env: 
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_LOGIN: seanghay
+          GH_LOGIN: ${{ github.repository_owner }}
