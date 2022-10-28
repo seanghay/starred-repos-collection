@@ -14,14 +14,19 @@ const iterator = octokit.paginate.iterator(octokit.rest.activity.listReposStarre
   per_page: 100
 })
 
+let index = 0; 
+
 for await (const response of iterator) {
   for (const repo of response.data) {
     if (!repo) continue;
     const [owner, name] = repo.full_name.split('/');
     const dir = path.join('data', owner);
     const filepath = path.join(dir, `${name}.json`)
+
+    repo._index = index; 
     await fs.mkdir(dir, { recursive: true });
     await fs.writeFile(filepath, JSON.stringify(repo, null, 2), 'utf-8')
     console.log(`write to ${filepath}`);
+    index++;
   }
 }
