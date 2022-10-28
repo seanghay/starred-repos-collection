@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/robolectric/robolectric/deployments",
   "created_at": "2010-08-28T00:28:25Z",
   "updated_at": "2022-10-27T07:35:28Z",
-  "pushed_at": "2022-10-28T04:35:43Z",
+  "pushed_at": "2022-10-28T04:58:31Z",
   "git_url": "git://github.com/robolectric/robolectric.git",
   "ssh_url": "git@github.com:robolectric/robolectric.git",
   "clone_url": "https://github.com/robolectric/robolectric.git",
@@ -85,7 +85,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 685,
+  "open_issues_count": 684,
   "license": {
     "key": "other",
     "name": "Other",
@@ -104,7 +104,7 @@
   ],
   "visibility": "public",
   "forks": 1319,
-  "open_issues": 685,
+  "open_issues": 684,
   "watchers": 5551,
   "default_branch": "master",
   "permissions": {

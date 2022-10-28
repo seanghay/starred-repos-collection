@@ -81,7 +81,7 @@
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": true,
-  "forks_count": 751,
+  "forks_count": 752,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,7 +104,7 @@
     "pino"
   ],
   "visibility": "public",
-  "forks": 751,
+  "forks": 752,
   "open_issues": 98,
   "watchers": 10305,
   "default_branch": "master",

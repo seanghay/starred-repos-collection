@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/appwrite/appwrite.git",
   "svn_url": "https://github.com/appwrite/appwrite",
   "homepage": "https://appwrite.io",
-  "size": 210172,
+  "size": 210205,
   "stargazers_count": 26733,
   "watchers_count": 26733,
   "language": "TypeScript",

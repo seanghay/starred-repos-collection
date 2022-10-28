@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/bumptech/glide/deployments",
   "created_at": "2013-07-08T22:52:33Z",
   "updated_at": "2022-10-28T02:21:21Z",
-  "pushed_at": "2022-10-27T01:18:34Z",
+  "pushed_at": "2022-10-28T04:53:37Z",
   "git_url": "git://github.com/bumptech/glide.git",
   "ssh_url": "git@github.com:bumptech/glide.git",
   "clone_url": "https://github.com/bumptech/glide.git",
@@ -85,7 +85,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 378,
+  "open_issues_count": 376,
   "license": {
     "key": "other",
     "name": "Other",
@@ -105,7 +105,7 @@
   ],
   "visibility": "public",
   "forks": 5998,
-  "open_issues": 378,
+  "open_issues": 376,
   "watchers": 33072,
   "default_branch": "master",
   "permissions": {
