@@ -17,8 +17,10 @@ const iterator = octokit.paginate.iterator(octokit.rest.activity.listReposStarre
 
 for await (const response of iterator) {
   for (const repo of response.data) {
-    const dir = path.join('data', repo.owner.login);
-    const filepath = path.join(dir, `${repo.name}.json`)
+    if (!repo) continue;
+    const [owner, name] = repo.full_name.split('/');
+    const dir = path.join('data', owner);
+    const filepath = path.join(dir, `${name}.json`)
     await fs.mkdir(dir, { recursive: true });
     await fs.writeFile(filepath, JSON.stringify(repo, null, 2), 'utf-8')
     console.log(`write to ${filepath}`);
