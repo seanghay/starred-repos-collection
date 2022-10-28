@@ -1,5 +1,8 @@
 # Starred Repos Collection
 
+> **Note**
+> last upated at `2022-10-28T06:20:09.951Z`
+
 Organize your starred repos on GitHub into searchable topics.
 
 
@@ -2231,16 +2234,6 @@ In-browser code editor (version 5, legacy)
 
 --- 
 
-#### [coltoscosmin/FileUtils](https://github.com/coltoscosmin/FileUtils) 
-
-File Utility for Android. It solves the issue when getting file path from Uri pointing to Downloads folder. 
-
-⭐️ 121 
-
-`Java` 
-
---- 
-
 #### [commaai/openpilot](https://github.com/commaai/openpilot) 
 
 openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models. 
@@ -2248,6 +2241,16 @@ openpilot is an open source driver assistance system. openpilot performs the fun
 ⭐️ 36.3K 
 
 `Python` 
+
+--- 
+
+#### [coltoscosmin/FileUtils](https://github.com/coltoscosmin/FileUtils) 
+
+File Utility for Android. It solves the issue when getting file path from Uri pointing to Downloads folder. 
+
+⭐️ 121 
+
+`Java` 
 
 --- 
 
@@ -8295,16 +8298,6 @@ Stepper Touch for Android based on MaterialUp submission
 
 --- 
 
-#### [DevAhamed/MultiViewAdapter](https://github.com/DevAhamed/MultiViewAdapter) 
-
-Easily create complex recyclerview adapters in android 
-
-⭐️ 822 
-
-`Java` 
-
---- 
-
 #### [DevSrSouza/svg-to-compose](https://github.com/DevSrSouza/svg-to-compose) 
 
 Converts SVG and Android Vector Drawable in Jetpack Compose code 
@@ -8312,6 +8305,16 @@ Converts SVG and Android Vector Drawable in Jetpack Compose code
 ⭐️ 231 
 
 `Kotlin` 
+
+--- 
+
+#### [DevAhamed/MultiViewAdapter](https://github.com/DevAhamed/MultiViewAdapter) 
+
+Easily create complex recyclerview adapters in android 
+
+⭐️ 822 
+
+`Java` 
 
 --- 
 
@@ -38757,16 +38760,6 @@ Realm is a mobile database: a replacement for SQLite & ORMs
 
 --- 
 
-#### [sql-js/sql.js](https://github.com/sql-js/sql.js) 
-
-A javascript library to run SQLite on the web.   
-
-⭐️ 10.7K 
-
-`JavaScript` 
-
---- 
-
 #### [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) 
 
 Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:  
@@ -38774,6 +38767,16 @@ Official home of the DB Browser for SQLite (DB4S) project. Previously known as "
 ⭐️ 17.2K 
 
 `C++` 
+
+--- 
+
+#### [sql-js/sql.js](https://github.com/sql-js/sql.js) 
+
+A javascript library to run SQLite on the web.   
+
+⭐️ 10.7K 
+
+`JavaScript` 
 
 --- 
 
@@ -119119,16 +119122,6 @@ Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with
 
 --- 
 
-#### [sql-js/sql.js](https://github.com/sql-js/sql.js) 
-
-A javascript library to run SQLite on the web.   
-
-⭐️ 10.7K 
-
-`JavaScript` 
-
---- 
-
 #### [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) 
 
 Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:  
@@ -119136,6 +119129,16 @@ Official home of the DB Browser for SQLite (DB4S) project. Previously known as "
 ⭐️ 17.2K 
 
 `C++` 
+
+--- 
+
+#### [sql-js/sql.js](https://github.com/sql-js/sql.js) 
+
+A javascript library to run SQLite on the web.   
+
+⭐️ 10.7K 
+
+`JavaScript` 
 
 --- 
 

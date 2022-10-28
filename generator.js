@@ -35,7 +35,12 @@ for await (const file of stream) {
 const sortedEntries = [...topicsCollection.entries()].sort();
 const languages = Object.fromEntries([...languagesCollections.entries()].sort());
 
+
 let markdown = '# Starred Repos Collection\n\n';
+
+markdown += `> **Note**\n> last upated at \`${new Date().toISOString()}\`\n\n`;
+
+
 markdown += "Organize your starred repos on GitHub into searchable topics.\n\n";
 markdown += "\n"
 
