@@ -28,8 +28,11 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_LOGIN: ${{ github.repository_owner }}
       
+      - name: generate docs
+        run: node generate.js
+
       - name: commit and push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "chore: dataset update"
-          file_pattern: "./data/**/*.json"
+          file_pattern: "./data/**/*.json **/*.md"
