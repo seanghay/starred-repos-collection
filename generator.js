@@ -1,3 +1,4 @@
+import slugify from 'slugify'
 import { millify } from 'millify'
 import fs from 'node:fs/promises'
 import _ from 'lodash'
@@ -71,13 +72,15 @@ await fs.mkdir('docs', { recursive: true });
 markdown = "# Languages\n\n"
 
 for (const language in languages) {
-  markdown += `\`${language}\` `;
+  const slug = slugify(language)
+  markdown += `[\`${language}\`](#${slug}) `;
 }
 
 markdown += `\n\n --- \n\n`;
 
 for (const language in languages) {
-  markdown += `## ${language}\n\n`;
+  const slug = slugify(language)
+  markdown += `## [${language}][${slug}]\n\n`;
   const repos = languages[language];
   for (const repo of repos) {
     markdown += `#### [${repo.full_name}](${repo.html_url}) \n\n`;
@@ -85,7 +88,7 @@ for (const language in languages) {
     if (repo.description) {
       markdown += `${repo.description} \n\n`;
     }
- 
+    
     markdown += `⭐️ ${millify(repo.stargazers_count)} \n\n`;
     markdown += `--- \n\n`;
   }

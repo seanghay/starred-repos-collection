@@ -23,6 +23,7 @@
     "fast-glob": "^3.2.12",
     "lodash": "^4.17.21",
     "millify": "^5.0.1",
-    "octokit": "^2.0.10"
+    "octokit": "^2.0.10",
+    "slugify": "^1.6.5"
   }
 }
