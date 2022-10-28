@@ -5,7 +5,9 @@ Organize your starred repos on GitHub into searchable topics.
 
 ## Languages 
 
-`C#` `C++` `C` `CMake` `CSS` `Clojure` `CoffeeScript` `Dart` `Dockerfile` `Elixir` `FreeMarker` `GLSL` `Go` `Groovy` `HTML` `Haskell` `Java` `JavaScript` `Jinja` `Jupyter Notebook` `Kotlin` `Lua` `Makefile` `Objective-C++` `Objective-C` `PHP` `Perl` `Python` `Red` `Ruby` `Rust` `SCSS` `Shell` `Smarty` `Svelte` `Swift` `TypeScript` `V` `Vim Script` `Vue` `WebAssembly` `Zig` --- 
+`C#` `C++` `C` `CMake` `CSS` `Clojure` `CoffeeScript` `Dart` `Dockerfile` `Elixir` `FreeMarker` `GLSL` `Go` `Groovy` `HTML` `Haskell` `Java` `JavaScript` `Jinja` `Jupyter Notebook` `Kotlin` `Lua` `Makefile` `Objective-C++` `Objective-C` `PHP` `Perl` `Python` `Red` `Ruby` `Rust` `SCSS` `Shell` `Smarty` `Svelte` `Swift` `TypeScript` `V` `Vim Script` `Vue` `WebAssembly` `Zig` 
+
+--- 
 
 ## 1-wire 
 
@@ -10317,6 +10319,16 @@ Reactive implementation of Presentation Model pattern in Android.
 
 --- 
 
+#### [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) 
+
+A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.  
+
+⭐️ 9.4K 
+
+`TypeScript` 
+
+--- 
+
 #### [donkingliang/ConsecutiveScroller](https://github.com/donkingliang/ConsecutiveScroller) 
 
 ConsecutiveScrollerLayout是Android下支持多个滑动布局(RecyclerView、WebView、ScrollView等)和普通控件(TextView、ImageView、LinearLayou、自定义View等)持续连贯滑动的容器,它使所有的子View像一个整体一样连续顺畅滑动。并且支持布局吸顶功能。 
@@ -10344,16 +10356,6 @@ Android的标签列表控件。可以设置标签的选中效果。 可以设置
 ⭐️ 954 
 
 `Java` 
-
---- 
-
-#### [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) 
-
-A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.  
-
-⭐️ 9.4K 
-
-`TypeScript` 
 
 --- 
 
@@ -12887,6 +12889,16 @@ Color picker library for Android
 
 --- 
 
+#### [skyfe79/AndroidGLKit](https://github.com/skyfe79/AndroidGLKit) 
+
+AndroidGLKit provides OpenGL ES 2.0 boilerplate codes for Android. 
+
+⭐️ 22 
+
+`Java` 
+
+--- 
+
 #### [skydoves/AndroidRibbon](https://github.com/skydoves/AndroidRibbon) 
 
 :ribbon: A fancy and beautiful ribbon with shimmer effects for Android. 
@@ -13024,16 +13036,6 @@ Color picker library for Android
 ⭐️ 347 
 
 `Kotlin` 
-
---- 
-
-#### [skyfe79/AndroidGLKit](https://github.com/skyfe79/AndroidGLKit) 
-
-AndroidGLKit provides OpenGL ES 2.0 boilerplate codes for Android. 
-
-⭐️ 22 
-
-`Java` 
 
 --- 
 
@@ -129389,21 +129391,21 @@ An extremely intuitive, small, and fast functional reactive stream library for J
 
 --- 
 
-#### [szokodiakos/typegoose](https://github.com/szokodiakos/typegoose) 
-
-Typegoose - Define Mongoose models using TypeScript classes. 
-
-⭐️ 1.2K 
-
-`TypeScript` 
-
---- 
-
 #### [syumai/dejs](https://github.com/syumai/dejs) 
 
 ejs template engine for deno. 
 
 ⭐️ 132 
+
+`TypeScript` 
+
+--- 
+
+#### [szokodiakos/typegoose](https://github.com/szokodiakos/typegoose) 
+
+Typegoose - Define Mongoose models using TypeScript classes. 
+
+⭐️ 1.2K 
 
 `TypeScript` 
 
@@ -129479,21 +129481,21 @@ The react library to build dashboards fast.
 
 --- 
 
-#### [typeorm/typeorm](https://github.com/typeorm/typeorm) 
-
-ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms. 
-
-⭐️ 29.6K 
-
-`TypeScript` 
-
---- 
-
 #### [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) 
 
 Collection of TypeScript type challenges with online judge 
 
 ⭐️ 26.2K 
+
+`TypeScript` 
+
+--- 
+
+#### [typeorm/typeorm](https://github.com/typeorm/typeorm) 
+
+ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms. 
+
+⭐️ 29.6K 
 
 `TypeScript` 
 

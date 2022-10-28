@@ -42,12 +42,9 @@ markdown += `## Languages \n\n`;
 
 for (const language in languages) {
   markdown += `\`${language}\` `;
-
 }
 
-
-markdown += `--- \n\n`;
-
+markdown += `\n\n--- \n\n`;
 
 for (const [topic, repos] of sortedEntries) {
 
@@ -62,15 +59,36 @@ for (const [topic, repos] of sortedEntries) {
     
     markdown += `⭐️ ${millify(repo.stargazers_count)} \n\n`;
     markdown += `\`${repo.language}\` \n\n`;
-
-    
-
     markdown += `--- \n\n`;
   }
 
 }
 
 await fs.writeFile('readme.md', markdown, 'utf-8');
+await fs.mkdir('docs', { recursive: true });
 
-// console.log(markdown)
+// generate language page
+markdown = "# Languages\n\n"
 
+for (const language in languages) {
+  markdown += `\`${language}\` `;
+}
+
+markdown += `\n\n --- \n\n`;
+
+for (const language in languages) {
+  markdown += `## ${language}\n\n`;
+  const repos = languages[language];
+  for (const repo of repos) {
+    markdown += `#### [${repo.full_name}](${repo.html_url}) \n\n`;
+    
+    if (repo.description) {
+      markdown += `${repo.description} \n\n`;
+    }
+ 
+    markdown += `⭐️ ${millify(repo.stargazers_count)} \n\n`;
+    markdown += `--- \n\n`;
+  }
+}
+
+await fs.writeFile('./docs/languages.md', markdown, 'utf-8');
