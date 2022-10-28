@@ -30,18 +30,17 @@ markdown += "Organize your starred repos on GitHub into searchable topics.\n\n";
 markdown += "\n"
 
 for (const [topic, repos] of sortedEntries) {
+  
   markdown += `## ${topic} \n\n`;
 
   for (const repo of repos) {
     markdown += `#### [${repo.full_name}](${repo.html_url}) \n\n`;
     markdown += `\`${repo.language}\` \n\n`;
     markdown += `${repo.description} \n\n`;
+    markdown += `--- \n\n`;
   }
 
-  markdown += `--- \n\n`;
 }
-
-
 
 await fs.writeFile('readme.md', markdown, 'utf-8');
 
