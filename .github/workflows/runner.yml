@@ -1,6 +1,6 @@
 name: runner
 
-on: push
+on: [push, workflow_dispatch]
 
 jobs:
   download:
