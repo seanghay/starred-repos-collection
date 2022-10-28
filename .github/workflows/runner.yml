@@ -7,4 +7,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      
+      - name: Use Node.js v16
+        uses: actions/setup-node@v2
+        with:
+          node-version: v16
+      
+      - name: install dependencies
+        run: npm install
+        
+      - name: exec
         run: node main.js
