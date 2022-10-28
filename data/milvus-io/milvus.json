@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/milvus-io/milvus.git",
   "svn_url": "https://github.com/milvus-io/milvus",
   "homepage": "https://milvus.io",
-  "size": 132196,
+  "size": 132203,
   "stargazers_count": 14071,
   "watchers_count": 14071,
   "language": "Go",

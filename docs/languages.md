@@ -74,7 +74,7 @@ Android Studio Video Player
 
 Simple C++ Image Steganography tool to encrypt and hide files insde images using Least-Significant-Bit encoding. 
 
-⭐️ 491 
+⭐️ 492 
 
 --- 
 
@@ -178,7 +178,7 @@ WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime 
 
 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. 
 
-⭐️ 21.7K 
+⭐️ 21.8K 
 
 --- 
 
@@ -4496,7 +4496,7 @@ Use ViewPagers in Bottom Sheets!
 
 仿淘宝首页热点新闻滚动，类中奖滚动，自动滚动文字、View、跑马灯 
 
-⭐️ 421 
+⭐️ 422 
 
 --- 
 
@@ -5452,7 +5452,7 @@ Dex to Java decompiler
 
 A drop-in replacement for GLSurfaceView that can be used to record to an mp4 movie. 
 
-⭐️ 142 
+⭐️ 143 
 
 --- 
 
@@ -5854,19 +5854,19 @@ An android library that allows to use Lottie and create the bottom navigation.
 
 --- 
 
-#### [xiangcman/LayoutManager-FlowLayout](https://github.com/xiangcman/LayoutManager-FlowLayout) 
-
-快速利用RecyclerView的LayoutManager搭建流式布局 
-
-⭐️ 659 
-
---- 
-
 #### [xenione/tab-digit](https://github.com/xenione/tab-digit) 
 
 A Flip Digit Libray 
 
 ⭐️ 596 
+
+--- 
+
+#### [xiangcman/LayoutManager-FlowLayout](https://github.com/xiangcman/LayoutManager-FlowLayout) 
+
+快速利用RecyclerView的LayoutManager搭建流式布局 
+
+⭐️ 659 
 
 --- 
 
@@ -8488,7 +8488,7 @@ detects the presence of the on-screen software keyboard on touch-enabled browser
 
 Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. 
 
-⭐️ 26.9K 
+⭐️ 27K 
 
 --- 
 
@@ -8756,7 +8756,7 @@ Unofficial Instagram Desktop App.
 
 Material design icons for vue.js 
 
-⭐️ 80 
+⭐️ 81 
 
 --- 
 
@@ -8820,7 +8820,7 @@ The next open source file uploader for web browsers :dog:
 
 camaro is an utility to transform XML to JSON, using Node.js binding to native XML parser pugixml, one of the fastest XML parser around. 
 
-⭐️ 475 
+⭐️ 476 
 
 --- 
 
@@ -9758,7 +9758,7 @@ Kotlin source code documentation management tool
 
 Immutable persistent collections for Kotlin 
 
-⭐️ 725 
+⭐️ 726 
 
 --- 
 
@@ -9884,7 +9884,7 @@ Kotlin Library for Async Data Loading and Caching
 
 TimetableLayout is a RecyclerView.LayoutManager to display the timetable for Android. 
 
-⭐️ 753 
+⭐️ 754 
 
 --- 
 
@@ -11610,7 +11610,7 @@ A Viewholderless Adapter for RecyclerView, who supports builtin diffing, states 
 
 An android navigation bar widget 
 
-⭐️ 724 
+⭐️ 725 
 
 --- 
 
@@ -11930,7 +11930,7 @@ Small, smart and generic adapter for recycler view with easy and advanced data t
 
 Yet another barcode scanner for Android 
 
-⭐️ 724 
+⭐️ 725 
 
 --- 
 
@@ -14260,7 +14260,7 @@ Search engine library for Meilisearch ⚡️
 
 A framework for building compiled Node.js add-ons in Rust via Node-API 
 
-⭐️ 2.9K 
+⭐️ 3K 
 
 --- 
 
@@ -16544,19 +16544,19 @@ Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access 
 
 --- 
 
-#### [hayes/pothos](https://github.com/hayes/pothos) 
-
-Pothos GraphQL is library for creating GraphQL schemas in typescript using a strongly typed code first approach 
-
-⭐️ 1.3K 
-
---- 
-
 #### [hayd/deno-udd](https://github.com/hayd/deno-udd) 
 
 Update Deno Dependencies - update dependency urls to their latest published versions 
 
 ⭐️ 242 
+
+--- 
+
+#### [hayes/pothos](https://github.com/hayes/pothos) 
+
+Pothos GraphQL is library for creating GraphQL schemas in typescript using a strongly typed code first approach 
+
+⭐️ 1.3K 
 
 --- 
 
@@ -17068,7 +17068,7 @@ A progressive Node.js framework for building efficient, scalable, and enterprise
 
 Serve static websites (SPA's) using Nest framework (node.js) 🥦 
 
-⭐️ 309 
+⭐️ 310 
 
 --- 
 
@@ -17696,7 +17696,7 @@ BullMQ - Premium Message Queue for NodeJS based on Redis
 
 A library for setting up JavaScript objects as test data 
 
-⭐️ 591 
+⭐️ 592 
 
 --- 
 
@@ -17982,7 +17982,7 @@ A Vite-native test framework. It's fast!
 
 VS Code extension for Vitest 
 
-⭐️ 422 
+⭐️ 423 
 
 --- 
 
@@ -17991,22 +17991,6 @@ VS Code extension for Vitest
 List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹 
 
 ⭐️ 6.3K 
-
---- 
-
-#### [vueuse/schema-org](https://github.com/vueuse/schema-org) 
-
-🔎  Quick and easy Schema.org graphs for Vue. With zero runtime and SSR 
-
-⭐️ 288 
-
---- 
-
-#### [vueuse/vue-chemistry](https://github.com/vueuse/vue-chemistry) 
-
-Reactified JavaScript functions for Vue 
-
-⭐️ 323 
 
 --- 
 
@@ -18055,6 +18039,22 @@ ES / TypeScript decorator for class-style Vue components.
 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. 
 
 ⭐️ 200.3K 
+
+--- 
+
+#### [vueuse/schema-org](https://github.com/vueuse/schema-org) 
+
+🔎  Quick and easy Schema.org graphs for Vue. With zero runtime and SSR 
+
+⭐️ 288 
+
+--- 
+
+#### [vueuse/vue-chemistry](https://github.com/vueuse/vue-chemistry) 
+
+Reactified JavaScript functions for Vue 
+
+⭐️ 323 
 
 --- 
 
