@@ -1,3 +1,4 @@
+import { millify } from 'millify'
 import fs from 'node:fs/promises'
 import _ from 'lodash'
 import fg from 'fast-glob';
@@ -34,7 +35,7 @@ for (const [topic, repos] of sortedEntries) {
 
   for (const repo of repos) {
     markdown += `#### [${repo.full_name}](${repo.html_url}) \n\n`;
-    markdown += `⭐️ ${repo.stargazers_count} \n\n`;
+    markdown += `⭐️ ${millify(repo.stargazers_count)} \n\n`;
     markdown += `\`${repo.language}\` \n\n`;
 
     if (repo.description) {
