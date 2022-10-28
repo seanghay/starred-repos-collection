@@ -3,12 +3,6 @@
 Organize your starred repos on GitHub into searchable topics.
 
 
-## Languages 
-
-`C#` `C++` `C` `CMake` `CSS` `Clojure` `CoffeeScript` `Dart` `Dockerfile` `Elixir` `FreeMarker` `GLSL` `Go` `Groovy` `HTML` `Haskell` `Java` `JavaScript` `Jinja` `Jupyter Notebook` `Kotlin` `Lua` `Makefile` `Objective-C++` `Objective-C` `PHP` `Perl` `Python` `Red` `Ruby` `Rust` `SCSS` `Shell` `Smarty` `Svelte` `Swift` `TypeScript` `V` `Vim Script` `Vue` `WebAssembly` `Zig` 
-
---- 
-
 ## 1-wire 
 
 #### [rwaldron/johnny-five](https://github.com/rwaldron/johnny-five) 
@@ -2511,7 +2505,7 @@ Android轮播图控件，支持任何View的轮播，而不仅仅是图片(Image
 
 The fastest TypeScript type checker in the world 
 
-⭐️ 303 
+⭐️ 304 
 
 `null` 
 
@@ -4965,7 +4959,7 @@ Normalize emails like J.oh.n+sneaky@gmail.com into john@gmail.com
 
 A drop-in replacement for GLSurfaceView that can be used to record to an mp4 movie. 
 
-⭐️ 142 
+⭐️ 143 
 
 `Java` 
 
@@ -5223,7 +5217,7 @@ A curated list of resources for learning about http://www.keycloak.org
 
 A library for setting up JavaScript objects as test data 
 
-⭐️ 591 
+⭐️ 592 
 
 `TypeScript` 
 
@@ -5843,21 +5837,21 @@ Generate meshes from signed distance functions and constructive solid geometry o
 
 --- 
 
-#### [xiangcman/LayoutManager-FlowLayout](https://github.com/xiangcman/LayoutManager-FlowLayout) 
-
-快速利用RecyclerView的LayoutManager搭建流式布局 
-
-⭐️ 659 
-
-`Java` 
-
---- 
-
 #### [xenione/tab-digit](https://github.com/xenione/tab-digit) 
 
 A Flip Digit Libray 
 
 ⭐️ 596 
+
+`Java` 
+
+--- 
+
+#### [xiangcman/LayoutManager-FlowLayout](https://github.com/xiangcman/LayoutManager-FlowLayout) 
+
+快速利用RecyclerView的LayoutManager搭建流式布局 
+
+⭐️ 659 
 
 `Java` 
 
@@ -7195,7 +7189,7 @@ The most complete Android advanced route knowledge map ⭐️你想要的最全 
 
 Simple C++ Image Steganography tool to encrypt and hide files insde images using Least-Significant-Bit encoding. 
 
-⭐️ 491 
+⭐️ 492 
 
 `C++` 
 
@@ -7899,7 +7893,7 @@ Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 
 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. 
 
-⭐️ 21.7K 
+⭐️ 21.8K 
 
 `C++` 
 
@@ -8955,7 +8949,7 @@ EditDrawableText - An EditText which makes your Drawable Clickable
 
 TimetableLayout is a RecyclerView.LayoutManager to display the timetable for Android. 
 
-⭐️ 753 
+⭐️ 754 
 
 `Kotlin` 
 
@@ -11303,7 +11297,7 @@ A Viewholderless Adapter for RecyclerView, who supports builtin diffing, states 
 
 An android navigation bar widget 
 
-⭐️ 724 
+⭐️ 725 
 
 `Kotlin` 
 
@@ -11573,7 +11567,7 @@ Android library to observe scroll events on scrollable views.
 
 仿淘宝首页热点新闻滚动，类中奖滚动，自动滚动文字、View、跑马灯 
 
-⭐️ 421 
+⭐️ 422 
 
 `Java` 
 
@@ -11693,7 +11687,7 @@ Small, smart and generic adapter for recycler view with easy and advanced data t
 
 Yet another barcode scanner for Android 
 
-⭐️ 724 
+⭐️ 725 
 
 `Kotlin` 
 
@@ -12059,16 +12053,6 @@ An Android tool to compresses your GIFs into lightweight MP4 video using fast, h
 
 --- 
 
-#### [ncapdevi/FragNav](https://github.com/ncapdevi/FragNav) 
-
-An Android library for managing multiple stacks of fragments 
-
-⭐️ 1.5K 
-
-`Kotlin` 
-
---- 
-
 #### [naver/android-imagecropview](https://github.com/naver/android-imagecropview) 
 
 android image crop library 
@@ -12076,6 +12060,16 @@ android image crop library
 ⭐️ 247 
 
 `Java` 
+
+--- 
+
+#### [ncapdevi/FragNav](https://github.com/ncapdevi/FragNav) 
+
+An Android library for managing multiple stacks of fragments 
+
+⭐️ 1.5K 
+
+`Kotlin` 
 
 --- 
 
@@ -14163,7 +14157,7 @@ A lightweight Android material bottom navigation bar library
 
 Yet another barcode scanner for Android 
 
-⭐️ 724 
+⭐️ 725 
 
 `Kotlin` 
 
@@ -15275,7 +15269,7 @@ EditDrawableText - An EditText which makes your Drawable Clickable
 
 TimetableLayout is a RecyclerView.LayoutManager to display the timetable for Android. 
 
-⭐️ 753 
+⭐️ 754 
 
 `Kotlin` 
 
@@ -23517,7 +23511,7 @@ AutoGluon: AutoML for Image, Text, and Tabular Data
 
 仿淘宝首页热点新闻滚动，类中奖滚动，自动滚动文字、View、跑马灯 
 
-⭐️ 421 
+⭐️ 422 
 
 `Java` 
 
@@ -24915,7 +24909,7 @@ Process execution for humans
 
 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. 
 
-⭐️ 21.7K 
+⭐️ 21.8K 
 
 `C++` 
 
@@ -25833,7 +25827,7 @@ A lightweight Android material bottom navigation bar library
 
 An android navigation bar widget 
 
-⭐️ 724 
+⭐️ 725 
 
 `Kotlin` 
 
@@ -26055,7 +26049,7 @@ Yet another material bottom bar library for Android
 
 An android navigation bar widget 
 
-⭐️ 724 
+⭐️ 725 
 
 `Kotlin` 
 
@@ -27485,7 +27479,7 @@ Nix, the purely functional package manager
 
 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. 
 
-⭐️ 21.7K 
+⭐️ 21.8K 
 
 `C++` 
 
@@ -27929,7 +27923,7 @@ A custom pagination library for Mongoose with customizable labels.
 
 camaro is an utility to transform XML to JSON, using Node.js binding to native XML parser pugixml, one of the fastest XML parser around. 
 
-⭐️ 475 
+⭐️ 476 
 
 `JavaScript` 
 
@@ -31915,7 +31909,7 @@ A port of kotlin-stdlib for Dart/Flutter including immutable collections (KtList
 
 Immutable persistent collections for Kotlin 
 
-⭐️ 725 
+⭐️ 726 
 
 `Kotlin` 
 
@@ -33605,21 +33599,21 @@ The modern photo and video editor for your iPhone / iPad app. A fully customiz
 
 --- 
 
-#### [vueuse/vue-chemistry](https://github.com/vueuse/vue-chemistry) 
-
-Reactified JavaScript functions for Vue 
-
-⭐️ 323 
-
-`TypeScript` 
-
---- 
-
 #### [vuejs/pinia](https://github.com/vuejs/pinia) 
 
 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support 
 
 ⭐️ 9.1K 
+
+`TypeScript` 
+
+--- 
+
+#### [vueuse/vue-chemistry](https://github.com/vueuse/vue-chemistry) 
+
+Reactified JavaScript functions for Vue 
+
+⭐️ 323 
 
 `TypeScript` 
 
@@ -36321,7 +36315,7 @@ Main TON monorepo
 
 Simple C++ Image Steganography tool to encrypt and hide files insde images using Least-Significant-Bit encoding. 
 
-⭐️ 491 
+⭐️ 492 
 
 `C++` 
 
@@ -37543,7 +37537,7 @@ FlipTimerView library for Android
 
 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. 
 
-⭐️ 21.7K 
+⭐️ 21.8K 
 
 `C++` 
 
@@ -37911,7 +37905,7 @@ GitHub's VS Code themes
 
 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. 
 
-⭐️ 21.7K 
+⭐️ 21.8K 
 
 `C++` 
 
@@ -39493,7 +39487,7 @@ Free universal database tool and SQL client
 
 Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. 
 
-⭐️ 26.9K 
+⭐️ 27K 
 
 `JavaScript` 
 
@@ -39563,7 +39557,7 @@ A {Windows, macOS, Linux} client recreating the functionality of the Sony Headph
 
 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. 
 
-⭐️ 21.7K 
+⭐️ 21.8K 
 
 `C++` 
 
@@ -41841,7 +41835,7 @@ Ghidra is a software reverse engineering (SRE) framework
 
 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. 
 
-⭐️ 21.7K 
+⭐️ 21.8K 
 
 `C++` 
 
@@ -42337,16 +42331,6 @@ A docker sidecar container to forward all traffic to local docker host or any ot
 
 --- 
 
-#### [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) 
-
-A curated list for awesome kubernetes sources :ship::tada: 
-
-⭐️ 13.2K 
-
-`Shell` 
-
---- 
-
 #### [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) 
 
 App source + Nix packages + Docker = Image 
@@ -42354,6 +42338,16 @@ App source + Nix packages + Docker = Image
 ⭐️ 1.2K 
 
 `Rust` 
+
+--- 
+
+#### [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) 
+
+A curated list for awesome kubernetes sources :ship::tada: 
+
+⭐️ 13.2K 
+
+`Shell` 
 
 --- 
 
@@ -45869,7 +45863,7 @@ A javascript library to run SQLite on the web.
 
 camaro is an utility to transform XML to JSON, using Node.js binding to native XML parser pugixml, one of the fastest XML parser around. 
 
-⭐️ 475 
+⭐️ 476 
 
 `JavaScript` 
 
@@ -46111,7 +46105,7 @@ Convert and detect character encoding in JavaScript
 
 Simple C++ Image Steganography tool to encrypt and hide files insde images using Least-Significant-Bit encoding. 
 
-⭐️ 491 
+⭐️ 492 
 
 `C++` 
 
@@ -48655,7 +48649,7 @@ Open Source Feature Flagging and Remote Config Service. Host on-prem or use our 
 
 Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. 
 
-⭐️ 26.9K 
+⭐️ 27K 
 
 `JavaScript` 
 
@@ -51271,7 +51265,7 @@ A simple solution for implementing Backdrop pattern for Android
 
 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. 
 
-⭐️ 21.7K 
+⭐️ 21.8K 
 
 `C++` 
 
@@ -58569,7 +58563,7 @@ Node.js Video Library / MP4 & FLV parser / MP4 builder / HLS muxer
 
 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. 
 
-⭐️ 21.7K 
+⭐️ 21.8K 
 
 `C++` 
 
@@ -58921,7 +58915,7 @@ WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime 
 
 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. 
 
-⭐️ 21.7K 
+⭐️ 21.8K 
 
 `C++` 
 
@@ -59417,16 +59411,6 @@ Jetpack Compose Android Color Picker 🎨
 
 --- 
 
-#### [grafana/loki](https://github.com/grafana/loki) 
-
-Like Prometheus, but for logs. 
-
-⭐️ 17.4K 
-
-`Go` 
-
---- 
-
 #### [gradle/gradle](https://github.com/gradle/gradle) 
 
 Adaptable, fast automation for all 
@@ -59434,6 +59418,16 @@ Adaptable, fast automation for all
 ⭐️ 14K 
 
 `Groovy` 
+
+--- 
+
+#### [grafana/loki](https://github.com/grafana/loki) 
+
+Like Prometheus, but for logs. 
+
+⭐️ 17.4K 
+
+`Go` 
 
 --- 
 
@@ -59661,7 +59655,7 @@ A markdown parser and compiler. Built for speed.
 
 Yet another barcode scanner for Android 
 
-⭐️ 724 
+⭐️ 725 
 
 `Kotlin` 
 
@@ -60059,7 +60053,7 @@ Android library to handle runtime permission through Kotlin coroutines and Lived
 
 Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. 
 
-⭐️ 26.9K 
+⭐️ 27K 
 
 `JavaScript` 
 
@@ -61191,7 +61185,7 @@ Yet another extension to manipulate colors easily in Swift and SwiftUI
 
 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. 
 
-⭐️ 21.7K 
+⭐️ 21.8K 
 
 `C++` 
 
@@ -63147,7 +63141,7 @@ Beautiful & consistent icon toolkit made by the community. Open-source project a
 
 Material design icons for vue.js 
 
-⭐️ 80 
+⭐️ 81 
 
 `JavaScript` 
 
@@ -64999,7 +64993,7 @@ The Functional toolkit for Kotlin HTTP applications. http4k provides a simple an
 
 Immutable persistent collections for Kotlin 
 
-⭐️ 725 
+⭐️ 726 
 
 `Kotlin` 
 
@@ -65031,7 +65025,7 @@ Create, calculate, and format money in JavaScript and TypeScript.
 
 Immutable persistent collections for Kotlin 
 
-⭐️ 725 
+⭐️ 726 
 
 `Kotlin` 
 
@@ -67257,7 +67251,7 @@ Simple WhatsApp clone just for training purposes - Course Angular Native at www.
 
 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. 
 
-⭐️ 21.7K 
+⭐️ 21.8K 
 
 `C++` 
 
@@ -68247,7 +68241,7 @@ Insanely easy way to define clickable links within a TextView.
 
 仿淘宝首页热点新闻滚动，类中奖滚动，自动滚动文字、View、跑马灯 
 
-⭐️ 421 
+⭐️ 422 
 
 `Java` 
 
@@ -70011,7 +70005,7 @@ small javascript library for scribbling on an svg element
 
 A framework for building compiled Node.js add-ons in Rust via Node-API 
 
-⭐️ 2.9K 
+⭐️ 3K 
 
 `Rust` 
 
@@ -70031,7 +70025,7 @@ A progressive Node.js framework for building efficient, scalable, and enterprise
 
 Serve static websites (SPA's) using Nest framework (node.js) 🥦 
 
-⭐️ 309 
+⭐️ 310 
 
 `TypeScript` 
 
@@ -70261,7 +70255,7 @@ ScrollOut detects changes in scroll for reveal, parallax, and CSS Variable effec
 
 Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. 
 
-⭐️ 26.9K 
+⭐️ 27K 
 
 `JavaScript` 
 
@@ -71841,7 +71835,7 @@ An Embedded NoSQL, Transactional Database Engine
 
 camaro is an utility to transform XML to JSON, using Node.js binding to native XML parser pugixml, one of the fastest XML parser around. 
 
-⭐️ 475 
+⭐️ 476 
 
 `JavaScript` 
 
@@ -73365,7 +73359,7 @@ KotlinX multiplatform date/time library
 
 Immutable persistent collections for Kotlin 
 
-⭐️ 725 
+⭐️ 726 
 
 `Kotlin` 
 
@@ -73473,7 +73467,7 @@ EditDrawableText - An EditText which makes your Drawable Clickable
 
 TimetableLayout is a RecyclerView.LayoutManager to display the timetable for Android. 
 
-⭐️ 753 
+⭐️ 754 
 
 `Kotlin` 
 
@@ -74623,7 +74617,7 @@ VideoEditor SDK: A fully customizable video editor for your app.
 
 An android navigation bar widget 
 
-⭐️ 724 
+⭐️ 725 
 
 `Kotlin` 
 
@@ -74783,7 +74777,7 @@ Framework for quickly creating connected applications in Kotlin with minimal eff
 
 仿淘宝首页热点新闻滚动，类中奖滚动，自动滚动文字、View、跑马灯 
 
-⭐️ 421 
+⭐️ 422 
 
 `Java` 
 
@@ -76135,7 +76129,7 @@ Display code with syntax highlighting :sparkles: in native way.
 
 Yet another barcode scanner for Android 
 
-⭐️ 724 
+⭐️ 725 
 
 `Kotlin` 
 
@@ -78387,7 +78381,7 @@ ANDROID. ChipsLayoutManager (SpanLayoutManager, FlowLayoutManager). A custom lay
 
 TimetableLayout is a RecyclerView.LayoutManager to display the timetable for Android. 
 
-⭐️ 753 
+⭐️ 754 
 
 `Kotlin` 
 
@@ -82533,7 +82527,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. 
 
-⭐️ 26.9K 
+⭐️ 27K 
 
 `JavaScript` 
 
@@ -83489,7 +83483,7 @@ A library to bring fully animated Material Design components to pre-Lolipop Andr
 
 Material design icons for vue.js 
 
-⭐️ 80 
+⭐️ 81 
 
 `JavaScript` 
 
@@ -84085,7 +84079,7 @@ International phone number input field for Android with emoji flags
 
 Material design icons for vue.js 
 
-⭐️ 80 
+⭐️ 81 
 
 `JavaScript` 
 
@@ -84171,7 +84165,7 @@ Angular wrapper for Material Design (Web) Components
 
 Material design icons for vue.js 
 
-⭐️ 80 
+⭐️ 81 
 
 `JavaScript` 
 
@@ -84487,7 +84481,7 @@ Set of Kotlin APIs to make graphics math easier to write.
 
 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. 
 
-⭐️ 21.7K 
+⭐️ 21.8K 
 
 `C++` 
 
@@ -84721,7 +84715,7 @@ Crack hashes in seconds.
 
 Material design icons for vue.js 
 
-⭐️ 80 
+⭐️ 81 
 
 `JavaScript` 
 
@@ -84733,7 +84727,7 @@ Material design icons for vue.js
 
 Material design icons for vue.js 
 
-⭐️ 80 
+⭐️ 81 
 
 `JavaScript` 
 
@@ -86069,7 +86063,7 @@ Visual Studio Code
 
 Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. 
 
-⭐️ 26.9K 
+⭐️ 27K 
 
 `JavaScript` 
 
@@ -87763,7 +87757,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. 
 
-⭐️ 26.9K 
+⭐️ 27K 
 
 `JavaScript` 
 
@@ -87775,7 +87769,7 @@ Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with
 
 Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. 
 
-⭐️ 26.9K 
+⭐️ 27K 
 
 `JavaScript` 
 
@@ -87893,7 +87887,7 @@ UltraViewPager is an extension for ViewPager to provide multiple features in a s
 
 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. 
 
-⭐️ 21.7K 
+⭐️ 21.8K 
 
 `C++` 
 
@@ -89079,7 +89073,7 @@ requery - modern SQL based query & persistence for Java / Kotlin / Android
 
 Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. 
 
-⭐️ 26.9K 
+⭐️ 27K 
 
 `JavaScript` 
 
@@ -89183,7 +89177,7 @@ High performance skia binding to Node.js. Zero system dependencies and pure npm 
 
 A framework for building compiled Node.js add-ons in Rust via Node-API 
 
-⭐️ 2.9K 
+⭐️ 3K 
 
 `Rust` 
 
@@ -89205,7 +89199,7 @@ High performance skia binding to Node.js. Zero system dependencies and pure npm 
 
 A framework for building compiled Node.js add-ons in Rust via Node-API 
 
-⭐️ 2.9K 
+⭐️ 3K 
 
 `Rust` 
 
@@ -89447,7 +89441,7 @@ android 4.4以上沉浸式状态栏和沉浸式导航栏管理，适配横竖屏
 
 An android navigation bar widget 
 
-⭐️ 724 
+⭐️ 725 
 
 `Kotlin` 
 
@@ -89809,7 +89803,7 @@ Graphs for Everyone
 
 A framework for building compiled Node.js add-ons in Rust via Node-API 
 
-⭐️ 2.9K 
+⭐️ 3K 
 
 `Rust` 
 
@@ -90135,7 +90129,7 @@ A progressive Node.js framework for building efficient, scalable, and enterprise
 
 Serve static websites (SPA's) using Nest framework (node.js) 🥦 
 
-⭐️ 309 
+⭐️ 310 
 
 `TypeScript` 
 
@@ -91265,7 +91259,7 @@ Free and source-available fair-code licensed workflow automation tool. Easily au
 
 A framework for building compiled Node.js add-ons in Rust via Node-API 
 
-⭐️ 2.9K 
+⭐️ 3K 
 
 `Rust` 
 
@@ -91295,7 +91289,7 @@ A progressive Node.js framework for building efficient, scalable, and enterprise
 
 Serve static websites (SPA's) using Nest framework (node.js) 🥦 
 
-⭐️ 309 
+⭐️ 310 
 
 `TypeScript` 
 
@@ -91457,7 +91451,7 @@ High performance skia binding to Node.js. Zero system dependencies and pure npm 
 
 A framework for building compiled Node.js add-ons in Rust via Node-API 
 
-⭐️ 2.9K 
+⭐️ 3K 
 
 `Rust` 
 
@@ -91515,7 +91509,7 @@ RFC-7234 compliant caching for any `fetch` implementation
 
 Serve static websites (SPA's) using Nest framework (node.js) 🥦 
 
-⭐️ 309 
+⭐️ 310 
 
 `TypeScript` 
 
@@ -92285,7 +92279,7 @@ GitHub Flavored Markdown ¦ Native bindings for cmark-gfm, GitHub's fork of cmar
 
 A framework for building compiled Node.js add-ons in Rust via Node-API 
 
-⭐️ 2.9K 
+⭐️ 3K 
 
 `Rust` 
 
@@ -92325,7 +92319,7 @@ A progressive Node.js framework for building efficient, scalable, and enterprise
 
 Serve static websites (SPA's) using Nest framework (node.js) 🥦 
 
-⭐️ 309 
+⭐️ 310 
 
 `TypeScript` 
 
@@ -92575,7 +92569,7 @@ Wiki.js | A modern and powerful wiki app built on Node.js
 
 Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. 
 
-⭐️ 26.9K 
+⭐️ 27K 
 
 `JavaScript` 
 
@@ -96415,7 +96409,7 @@ ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, M
 
 Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. 
 
-⭐️ 26.9K 
+⭐️ 27K 
 
 `JavaScript` 
 
@@ -96501,7 +96495,7 @@ A CRUD framework for full stack TypeScript
 
 Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. 
 
-⭐️ 26.9K 
+⭐️ 27K 
 
 `JavaScript` 
 
@@ -98005,7 +97999,7 @@ User input masking library repo.
 
 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. 
 
-⭐️ 21.7K 
+⭐️ 21.8K 
 
 `C++` 
 
@@ -98085,7 +98079,7 @@ Free and Open-source Headless CMS and Application Framework built with TypeScrip
 
 Simple C++ Image Steganography tool to encrypt and hide files insde images using Least-Significant-Bit encoding. 
 
-⭐️ 491 
+⭐️ 492 
 
 `C++` 
 
@@ -101369,7 +101363,7 @@ A CRUD framework for full stack TypeScript
 
 Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. 
 
-⭐️ 26.9K 
+⭐️ 27K 
 
 `JavaScript` 
 
@@ -101635,7 +101629,7 @@ Kotlin Flow version of rx-preferences -- Coroutines support for Android SharedPr
 
 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. 
 
-⭐️ 21.7K 
+⭐️ 21.8K 
 
 `C++` 
 
@@ -102873,7 +102867,7 @@ Powerful, elegant and flexible test framework for Kotlin with additional asserti
 
 Material design icons for vue.js 
 
-⭐️ 80 
+⭐️ 81 
 
 `JavaScript` 
 
@@ -103289,7 +103283,7 @@ Webpack 5 starter that supports Pug, SASS, ES6 ES7 ES8 ES9 ES10 ES11 ES12, Vanil
 
 camaro is an utility to transform XML to JSON, using Node.js binding to native XML parser pugixml, one of the fastest XML parser around. 
 
-⭐️ 475 
+⭐️ 476 
 
 `JavaScript` 
 
@@ -106559,7 +106553,7 @@ Kotlin Coroutines binding APIs for Android UI widgets from the platform and supp
 
 TimetableLayout is a RecyclerView.LayoutManager to display the timetable for Android. 
 
-⭐️ 753 
+⭐️ 754 
 
 `Kotlin` 
 
@@ -108485,7 +108479,7 @@ ShaderView is an Android View that makes it easy to use GLSL shaders for your ap
 
 Yet another barcode scanner for Android 
 
-⭐️ 724 
+⭐️ 725 
 
 `Kotlin` 
 
@@ -109355,7 +109349,7 @@ A {Windows, macOS, Linux} client recreating the functionality of the Sony Headph
 
 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. 
 
-⭐️ 21.7K 
+⭐️ 21.8K 
 
 `C++` 
 
@@ -111141,7 +111135,7 @@ A lightning-fast search engine that fits effortlessly into your apps, websites, 
 
 A framework for building compiled Node.js add-ons in Rust via Node-API 
 
-⭐️ 2.9K 
+⭐️ 3K 
 
 `Rust` 
 
@@ -114963,7 +114957,7 @@ NocoBase is a scalability-first, open-source no-code/low-code platform to build 
 
 Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. 
 
-⭐️ 26.9K 
+⭐️ 27K 
 
 `JavaScript` 
 
@@ -115173,7 +115167,7 @@ Track your favorite TV shows and movies on Android devices.
 
 Serve static websites (SPA's) using Nest framework (node.js) 🥦 
 
-⭐️ 309 
+⭐️ 310 
 
 `TypeScript` 
 
@@ -115717,7 +115711,7 @@ Crack hashes in seconds.
 
 Simple C++ Image Steganography tool to encrypt and hide files insde images using Least-Significant-Bit encoding. 
 
-⭐️ 491 
+⭐️ 492 
 
 `C++` 
 
@@ -117787,7 +117781,7 @@ A free and open source code snippets manager for developers
 
 Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. 
 
-⭐️ 26.9K 
+⭐️ 27K 
 
 `JavaScript` 
 
@@ -118911,7 +118905,7 @@ requery - modern SQL based query & persistence for Java / Kotlin / Android
 
 Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. 
 
-⭐️ 26.9K 
+⭐️ 27K 
 
 `JavaScript` 
 
@@ -119119,7 +119113,7 @@ Ergonomic bindings to SQLite for Rust
 
 Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. 
 
-⭐️ 26.9K 
+⭐️ 27K 
 
 `JavaScript` 
 
@@ -120043,7 +120037,7 @@ Spoon is a metaprogramming library to analyze and transform Java source code. :s
 
 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. 
 
-⭐️ 21.7K 
+⭐️ 21.8K 
 
 `C++` 
 
@@ -120303,7 +120297,7 @@ Custom status view for Android.
 
 Simple C++ Image Steganography tool to encrypt and hide files insde images using Least-Significant-Bit encoding. 
 
-⭐️ 491 
+⭐️ 492 
 
 `C++` 
 
@@ -120315,7 +120309,7 @@ Simple C++ Image Steganography tool to encrypt and hide files insde images using
 
 Simple C++ Image Steganography tool to encrypt and hide files insde images using Least-Significant-Bit encoding. 
 
-⭐️ 491 
+⭐️ 492 
 
 `C++` 
 
@@ -124877,7 +124871,7 @@ Android Sample Clean Architecture App written in Kotlin
 
 VS Code extension for Vitest 
 
-⭐️ 422 
+⭐️ 423 
 
 `TypeScript` 
 
@@ -126899,7 +126893,7 @@ Iroha - A simple, enterprise-grade decentralized ledger
 
 Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. 
 
-⭐️ 26.9K 
+⭐️ 27K 
 
 `JavaScript` 
 
@@ -127053,7 +127047,7 @@ VideoEditor SDK: A fully customizable video editor for your app.
 
 camaro is an utility to transform XML to JSON, using Node.js binding to native XML parser pugixml, one of the fastest XML parser around. 
 
-⭐️ 475 
+⭐️ 476 
 
 `JavaScript` 
 
@@ -129205,7 +129199,7 @@ A progressive Node.js framework for building efficient, scalable, and enterprise
 
 Serve static websites (SPA's) using Nest framework (node.js) 🥦 
 
-⭐️ 309 
+⭐️ 310 
 
 `TypeScript` 
 
@@ -129355,7 +129349,7 @@ A sample auth module with Prisma 2 and Nexus
 
 Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. 
 
-⭐️ 26.9K 
+⭐️ 27K 
 
 `JavaScript` 
 
@@ -135207,7 +135201,7 @@ A simple and customizable Android full-screen image viewer with shared image tra
 
 仿淘宝首页热点新闻滚动，类中奖滚动，自动滚动文字、View、跑马灯 
 
-⭐️ 421 
+⭐️ 422 
 
 `Java` 
 
@@ -135781,7 +135775,7 @@ A painkiller for your Android apps
 
 仿淘宝首页热点新闻滚动，类中奖滚动，自动滚动文字、View、跑马灯 
 
-⭐️ 421 
+⭐️ 422 
 
 `Java` 
 
@@ -136471,7 +136465,7 @@ Visual Studio Code Extension for Swift
 
 VS Code extension for Vitest 
 
-⭐️ 422 
+⭐️ 423 
 
 `TypeScript` 
 
@@ -136553,7 +136547,7 @@ Visual Studio Code Extension for Swift
 
 VS Code extension for Vitest 
 
-⭐️ 422 
+⭐️ 423 
 
 `TypeScript` 
 
@@ -136997,7 +136991,7 @@ Drag Zone component for @vuejs
 
 Material design icons for vue.js 
 
-⭐️ 80 
+⭐️ 81 
 
 `JavaScript` 
 
@@ -137040,26 +137034,6 @@ Notice: This project has been merged into the upstream package. https://github.c
 ⭐️ 68 
 
 `Vue` 
-
---- 
-
-#### [vueuse/schema-org](https://github.com/vueuse/schema-org) 
-
-🔎  Quick and easy Schema.org graphs for Vue. With zero runtime and SSR 
-
-⭐️ 288 
-
-`TypeScript` 
-
---- 
-
-#### [vueuse/vue-chemistry](https://github.com/vueuse/vue-chemistry) 
-
-Reactified JavaScript functions for Vue 
-
-⭐️ 323 
-
-`TypeScript` 
 
 --- 
 
@@ -137108,6 +137082,26 @@ Vite & Vue powered static site generator.
 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. 
 
 ⭐️ 200.3K 
+
+`TypeScript` 
+
+--- 
+
+#### [vueuse/schema-org](https://github.com/vueuse/schema-org) 
+
+🔎  Quick and easy Schema.org graphs for Vue. With zero runtime and SSR 
+
+⭐️ 288 
+
+`TypeScript` 
+
+--- 
+
+#### [vueuse/vue-chemistry](https://github.com/vueuse/vue-chemistry) 
+
+Reactified JavaScript functions for Vue 
+
+⭐️ 323 
 
 `TypeScript` 
 
@@ -137457,7 +137451,7 @@ Drag Zone component for @vuejs
 
 Material design icons for vue.js 
 
-⭐️ 80 
+⭐️ 81 
 
 `JavaScript` 
 
@@ -137529,7 +137523,7 @@ A cross-platform framework using Vue.js
 
 Material design icons for vue.js 
 
-⭐️ 80 
+⭐️ 81 
 
 `JavaScript` 
 
@@ -137705,7 +137699,7 @@ Drag Zone component for @vuejs
 
 Material design icons for vue.js 
 
-⭐️ 80 
+⭐️ 81 
 
 `JavaScript` 
 
@@ -137789,7 +137783,7 @@ Drag Zone component for @vuejs
 
 Material design icons for vue.js 
 
-⭐️ 80 
+⭐️ 81 
 
 `JavaScript` 
 
@@ -137811,7 +137805,7 @@ Material design icons for vue.js
 
 Material design icons for vue.js 
 
-⭐️ 80 
+⭐️ 81 
 
 `JavaScript` 
 
@@ -138211,7 +138205,7 @@ A javascript library to run SQLite on the web.
 
 camaro is an utility to transform XML to JSON, using Node.js binding to native XML parser pugixml, one of the fastest XML parser around. 
 
-⭐️ 475 
+⭐️ 476 
 
 `JavaScript` 
 
@@ -139083,7 +139077,7 @@ Emscripten: An LLVM-to-WebAssembly Compiler
 
 camaro is an utility to transform XML to JSON, using Node.js binding to native XML parser pugixml, one of the fastest XML parser around. 
 
-⭐️ 475 
+⭐️ 476 
 
 `JavaScript` 
 
@@ -140391,7 +140385,7 @@ A circular ImageView for Android
 
 An android navigation bar widget 
 
-⭐️ 724 
+⭐️ 725 
 
 `Kotlin` 
 
@@ -140641,7 +140635,7 @@ A {Windows, macOS, Linux} client recreating the functionality of the Sony Headph
 
 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. 
 
-⭐️ 21.7K 
+⭐️ 21.8K 
 
 `C++` 
 
@@ -141751,7 +141745,7 @@ Give a custom shape to any android view, Material Design 2 ready
 
 camaro is an utility to transform XML to JSON, using Node.js binding to native XML parser pugixml, one of the fastest XML parser around. 
 
-⭐️ 475 
+⭐️ 476 
 
 `JavaScript` 
 
@@ -141773,7 +141767,7 @@ camaro is an utility to transform XML to JSON, using Node.js binding to native X
 
 camaro is an utility to transform XML to JSON, using Node.js binding to native XML parser pugixml, one of the fastest XML parser around. 
 
-⭐️ 475 
+⭐️ 476 
 
 `JavaScript` 
 
@@ -141785,7 +141779,7 @@ camaro is an utility to transform XML to JSON, using Node.js binding to native X
 
 camaro is an utility to transform XML to JSON, using Node.js binding to native XML parser pugixml, one of the fastest XML parser around. 
 
-⭐️ 475 
+⭐️ 476 
 
 `JavaScript` 
 
@@ -141821,7 +141815,7 @@ More than 100 powerful ESLint rules
 
 camaro is an utility to transform XML to JSON, using Node.js binding to native XML parser pugixml, one of the fastest XML parser around. 
 
-⭐️ 475 
+⭐️ 476 
 
 `JavaScript` 
 
@@ -142623,7 +142617,7 @@ A javascript library that lets you add stories EVERYWHERE.
 
 Yet another barcode scanner for Android 
 
-⭐️ 724 
+⭐️ 725 
 
 `Kotlin` 
 
