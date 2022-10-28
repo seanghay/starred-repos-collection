@@ -159,16 +159,6 @@ An open-source JavaScript library for world-class 3D globes and maps :earth_amer
 
 ## Uncategorized 
 
-#### [385841539/RecycleviewStaggered](https://github.com/385841539/RecycleviewStaggered) 
-
-recycleview进阶用法，实现复杂页面，包含瀑布流，同时解决复杂布局嵌套卡顿，内存泄漏情况 
-
-⭐️ 538 
-
-`Java` 
-
---- 
-
 #### [275288698/Android-as_video_player](https://github.com/275288698/Android-as_video_player) 
 
 Android Studio Video Player 
@@ -176,6 +166,16 @@ Android Studio Video Player
 ⭐️ 11 
 
 `C++` 
+
+--- 
+
+#### [385841539/RecycleviewStaggered](https://github.com/385841539/RecycleviewStaggered) 
+
+recycleview进阶用法，实现复杂页面，包含瀑布流，同时解决复杂布局嵌套卡顿，内存泄漏情况 
+
+⭐️ 538 
+
+`Java` 
 
 --- 
 
@@ -2853,16 +2853,6 @@ A utility class to make it easier to test emissions on kotlin's Flow Type over t
 
 --- 
 
-#### [futuredapp/Sonar](https://github.com/futuredapp/Sonar) 
-
-Radar style view written in swift 
-
-⭐️ 126 
-
-`Swift` 
-
---- 
-
 #### [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) 
 
 Full-sized drag & drop event calendar 
@@ -2870,6 +2860,16 @@ Full-sized drag & drop event calendar
 ⭐️ 15.6K 
 
 `TypeScript` 
+
+--- 
+
+#### [futuredapp/Sonar](https://github.com/futuredapp/Sonar) 
+
+Radar style view written in swift 
+
+⭐️ 126 
+
+`Swift` 
 
 --- 
 
@@ -4101,21 +4101,21 @@ A fast, minimal browser that protects your privacy
 
 --- 
 
-#### [mistamek/Android-drawable-preview-plugin](https://github.com/mistamek/Android-drawable-preview-plugin) 
-
-Android studio plugin for preview drawables 
-
-⭐️ 449 
-
-`Kotlin` 
-
---- 
-
 #### [miso01/SingleRowCalendar](https://github.com/miso01/SingleRowCalendar) 
 
 Android library for horizontal single row calendar. With this library, you aren't attached to library built-in UI. You can create really beautiful and customizable UI and use selection features without hands getting dirty with RecyclerView and SelectionTracker. 
 
 ⭐️ 270 
+
+`Kotlin` 
+
+--- 
+
+#### [mistamek/Android-drawable-preview-plugin](https://github.com/mistamek/Android-drawable-preview-plugin) 
+
+Android studio plugin for preview drawables 
+
+⭐️ 449 
 
 `Kotlin` 
 
@@ -4201,16 +4201,6 @@ Audit trail log service
 
 --- 
 
-#### [netlify/build-image](https://github.com/netlify/build-image) 
-
-This is the build image used for running automated builds 
-
-⭐️ 486 
-
-`Shell` 
-
---- 
-
 #### [netty/netty](https://github.com/netty/netty) 
 
 Netty project - an event-driven asynchronous network application framework 
@@ -4218,6 +4208,16 @@ Netty project - an event-driven asynchronous network application framework
 ⭐️ 30.2K 
 
 `Java` 
+
+--- 
+
+#### [netlify/build-image](https://github.com/netlify/build-image) 
+
+This is the build image used for running automated builds 
+
+⭐️ 486 
+
+`Shell` 
 
 --- 
 
@@ -5923,16 +5923,6 @@ Android widget for selecting a range of values.
 
 --- 
 
-#### [yargs/yargs-parser](https://github.com/yargs/yargs-parser) 
-
-:muscle: the mighty option parser used by yargs 
-
-⭐️ 423 
-
-`JavaScript` 
-
---- 
-
 #### [yaochangliang159/Android-TabView](https://github.com/yaochangliang159/Android-TabView) 
 
 这是一个封装了android常用的底部导航栏+fragment的库，用这个库，我们可以几行代码就搞定大多数APP的主界面的布局 
@@ -5940,6 +5930,16 @@ Android widget for selecting a range of values.
 ⭐️ 227 
 
 `Java` 
+
+--- 
+
+#### [yargs/yargs-parser](https://github.com/yargs/yargs-parser) 
+
+:muscle: the mighty option parser used by yargs 
+
+⭐️ 423 
+
+`JavaScript` 
 
 --- 
 
@@ -8411,16 +8411,6 @@ Android custom view that loads a circular progress indicator using ImageView or 
 
 --- 
 
-#### [G00fY2/quickie](https://github.com/G00fY2/quickie) 
-
-📷🔍 Android QR code scanning library 
-
-⭐️ 222 
-
-`Kotlin` 
-
---- 
-
 #### [FutureMind/recycler-fast-scroll](https://github.com/FutureMind/recycler-fast-scroll) 
 
 Provides fast scroll and section idexer for recycler view 
@@ -8428,6 +8418,16 @@ Provides fast scroll and section idexer for recycler view
 ⭐️ 482 
 
 `Java` 
+
+--- 
+
+#### [G00fY2/quickie](https://github.com/G00fY2/quickie) 
+
+📷🔍 Android QR code scanning library 
+
+⭐️ 222 
+
+`Kotlin` 
 
 --- 
 
@@ -55715,19 +55715,19 @@ Run your GitHub Actions locally 🚀
 
 --- 
 
-#### [polidog/slack-wifi-status](https://github.com/polidog/slack-wifi-status) 
-
-⭐️ 12 
-
-`Go` 
-
---- 
-
 #### [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) 
 
 Open Source realtime backend in 1 file 
 
 ⭐️ 15.1K 
+
+`Go` 
+
+--- 
+
+#### [polidog/slack-wifi-status](https://github.com/polidog/slack-wifi-status) 
+
+⭐️ 12 
 
 `Go` 
 
@@ -66521,16 +66521,6 @@ A simple zero-config tool to make locally trusted development certificates with 
 
 --- 
 
-#### [FluidGroup/NextGrowingTextView](https://github.com/FluidGroup/NextGrowingTextView) 
-
-📝 The next in the generations of 'growing textviews' optimized for iOS 8 and above. 
-
-⭐️ 1.7K 
-
-`Swift` 
-
---- 
-
 #### [Flank/flank](https://github.com/Flank/flank) 
 
 :speedboat: Massively parallel Android and iOS test runner for Firebase Test Lab 
@@ -66538,6 +66528,16 @@ A simple zero-config tool to make locally trusted development certificates with 
 ⭐️ 607 
 
 `Kotlin` 
+
+--- 
+
+#### [FluidGroup/NextGrowingTextView](https://github.com/FluidGroup/NextGrowingTextView) 
+
+📝 The next in the generations of 'growing textviews' optimized for iOS 8 and above. 
+
+⭐️ 1.7K 
+
+`Swift` 
 
 --- 
 

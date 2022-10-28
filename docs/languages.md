@@ -1,10 +1,10 @@
 # Languages
 
-[`C#`](#C) [`C++`](#C++) [`C`](#C) [`CMake`](#CMake) [`CSS`](#CSS) [`Clojure`](#Clojure) [`CoffeeScript`](#CoffeeScript) [`Dart`](#Dart) [`Dockerfile`](#Dockerfile) [`Elixir`](#Elixir) [`FreeMarker`](#FreeMarker) [`GLSL`](#GLSL) [`Go`](#Go) [`Groovy`](#Groovy) [`HTML`](#HTML) [`Haskell`](#Haskell) [`Java`](#Java) [`JavaScript`](#JavaScript) [`Jinja`](#Jinja) [`Jupyter Notebook`](#Jupyter-Notebook) [`Kotlin`](#Kotlin) [`Lua`](#Lua) [`Makefile`](#Makefile) [`Objective-C++`](#Objective-C++) [`Objective-C`](#Objective-C) [`PHP`](#PHP) [`Perl`](#Perl) [`Python`](#Python) [`Red`](#Red) [`Ruby`](#Ruby) [`Rust`](#Rust) [`SCSS`](#SCSS) [`Shell`](#Shell) [`Smarty`](#Smarty) [`Svelte`](#Svelte) [`Swift`](#Swift) [`TypeScript`](#TypeScript) [`V`](#V) [`Vim Script`](#Vim-Script) [`Vue`](#Vue) [`WebAssembly`](#WebAssembly) [`Zig`](#Zig) 
+[`C#`](#c) [`C++`](#c++) [`C`](#c) [`CMake`](#cmake) [`CSS`](#css) [`Clojure`](#clojure) [`CoffeeScript`](#coffeescript) [`Dart`](#dart) [`Dockerfile`](#dockerfile) [`Elixir`](#elixir) [`FreeMarker`](#freemarker) [`GLSL`](#glsl) [`Go`](#go) [`Groovy`](#groovy) [`HTML`](#html) [`Haskell`](#haskell) [`Java`](#java) [`JavaScript`](#javascript) [`Jinja`](#jinja) [`Jupyter Notebook`](#jupyter-notebook) [`Kotlin`](#kotlin) [`Lua`](#lua) [`Makefile`](#makefile) [`Objective-C++`](#objective-c++) [`Objective-C`](#objective-c) [`PHP`](#php) [`Perl`](#perl) [`Python`](#python) [`Red`](#red) [`Ruby`](#ruby) [`Rust`](#rust) [`SCSS`](#scss) [`Shell`](#shell) [`Smarty`](#smarty) [`Svelte`](#svelte) [`Swift`](#swift) [`TypeScript`](#typescript) [`V`](#v) [`Vim Script`](#vim-script) [`Vue`](#vue) [`WebAssembly`](#webassembly) [`Zig`](#zig) 
 
  --- 
 
-## [C#][C]
+## [C#][c]
 
 #### [DapperLib/Dapper](https://github.com/DapperLib/Dapper) 
 
@@ -60,7 +60,7 @@ A Terminal Emulator based on UWP and web technologies.
 
 --- 
 
-## [C++][C++]
+## [C++][c++]
 
 #### [275288698/Android-as_video_player](https://github.com/275288698/Android-as_video_player) 
 
@@ -646,7 +646,7 @@ android 读取摄像头和麦克风,使用rtmp推流
 
 --- 
 
-## [C][C]
+## [C][c]
 
 #### [CainKernel/CainPlayer](https://github.com/CainKernel/CainPlayer) 
 
@@ -936,7 +936,7 @@ Android上基于FFmpeg开发的视频处理框架，简单易用，体积小，�
 
 --- 
 
-## [CMake][CMake]
+## [CMake][cmake]
 
 #### [chase-moskal/webp-hero](https://github.com/chase-moskal/webp-hero) 
 
@@ -954,7 +954,7 @@ A template CMake project to get you started with C++ and tooling
 
 --- 
 
-## [CSS][CSS]
+## [CSS][css]
 
 #### [AllToMP3/alltomp3-app](https://github.com/AllToMP3/alltomp3-app) 
 
@@ -996,7 +996,7 @@ Example Chat Application using RxJS and Angular 2
 
 --- 
 
-## [Clojure][Clojure]
+## [Clojure][clojure]
 
 #### [frankiesardo/icepick](https://github.com/frankiesardo/icepick) 
 
@@ -1006,7 +1006,7 @@ Android Instance State made easy
 
 --- 
 
-## [CoffeeScript][CoffeeScript]
+## [CoffeeScript][coffeescript]
 
 #### [basecamp/trix](https://github.com/basecamp/trix) 
 
@@ -1024,7 +1024,7 @@ a node internal (in-memory) caching module
 
 --- 
 
-## [Dart][Dart]
+## [Dart][dart]
 
 #### [LinusU/flutter_web_auth](https://github.com/LinusU/flutter_web_auth) 
 
@@ -1118,7 +1118,7 @@ retrofit.dart is an dio client generator using source_gen and inspired by Choppe
 
 --- 
 
-## [Dockerfile][Dockerfile]
+## [Dockerfile][dockerfile]
 
 #### [appleboy/ssh-action](https://github.com/appleboy/ssh-action) 
 
@@ -1152,7 +1152,7 @@ An optimized docker image includes Android, Kotlin, Flutter sdk.
 
 --- 
 
-## [Elixir][Elixir]
+## [Elixir][elixir]
 
 #### [plausible/analytics](https://github.com/plausible/analytics) 
 
@@ -1162,7 +1162,7 @@ Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alt
 
 --- 
 
-## [FreeMarker][FreeMarker]
+## [FreeMarker][freemarker]
 
 #### [mozilla/send](https://github.com/mozilla/send) 
 
@@ -1172,7 +1172,7 @@ Simple, private file sharing from the makers of Firefox
 
 --- 
 
-## [GLSL][GLSL]
+## [GLSL][glsl]
 
 #### [SaschaWillems/Vulkan](https://github.com/SaschaWillems/Vulkan) 
 
@@ -1198,7 +1198,7 @@ This repo is for glsl shaders converted by hand from libretro's common-shaders r
 
 --- 
 
-## [Go][Go]
+## [Go][go]
 
 #### [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) 
 
@@ -1590,17 +1590,17 @@ A Cloud Native Buildpack for Node
 
 --- 
 
-#### [polidog/slack-wifi-status](https://github.com/polidog/slack-wifi-status) 
-
-⭐️ 12 
-
---- 
-
 #### [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) 
 
 Open Source realtime backend in 1 file 
 
 ⭐️ 15.1K 
+
+--- 
+
+#### [polidog/slack-wifi-status](https://github.com/polidog/slack-wifi-status) 
+
+⭐️ 12 
 
 --- 
 
@@ -1692,7 +1692,7 @@ A cloud-native Go microservices framework with cli tool for productivity.
 
 --- 
 
-## [Groovy][Groovy]
+## [Groovy][groovy]
 
 #### [gradle/gradle](https://github.com/gradle/gradle) 
 
@@ -1710,7 +1710,7 @@ Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packa
 
 --- 
 
-## [HTML][HTML]
+## [HTML][html]
 
 #### [AnthumChris/fetch-progress-indicators](https://github.com/AnthumChris/fetch-progress-indicators) 
 
@@ -1896,7 +1896,7 @@ A functional HTML/CSS/JS editor in less than 400 bytes
 
 --- 
 
-## [Haskell][Haskell]
+## [Haskell][haskell]
 
 #### [github/semantic](https://github.com/github/semantic) 
 
@@ -1922,21 +1922,21 @@ Carthage cache for S3, Minio, Ceph, Google Storage, Artifactory and many others
 
 --- 
 
-## [Java][Java]
-
-#### [3llomi/CircularStatusView](https://github.com/3llomi/CircularStatusView) 
-
-A Simple View that draws portions of a Circle depending on a number , just like what WhatsApp has done for Status 
-
-⭐️ 81 
-
---- 
+## [Java][java]
 
 #### [385841539/RecycleviewStaggered](https://github.com/385841539/RecycleviewStaggered) 
 
 recycleview进阶用法，实现复杂页面，包含瀑布流，同时解决复杂布局嵌套卡顿，内存泄漏情况 
 
 ⭐️ 538 
+
+--- 
+
+#### [3llomi/CircularStatusView](https://github.com/3llomi/CircularStatusView) 
+
+A Simple View that draws portions of a Circle depending on a number , just like what WhatsApp has done for Status 
+
+⭐️ 81 
 
 --- 
 
@@ -2060,19 +2060,19 @@ The missing Android blurring library. Fast blur-behind layout that parallels iOS
 
 --- 
 
-#### [Carbs0126/ExpandableTextView](https://github.com/Carbs0126/ExpandableTextView) 
-
-an ExpandableTextView on Android platform which can shrink TextView height if its line count is greater than a certain number, it also can toggle state between expand and shrink  
-
-⭐️ 532 
-
---- 
-
 #### [CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) 
 
 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。  
 
 ⭐️ 17.9K 
+
+--- 
+
+#### [Carbs0126/ExpandableTextView](https://github.com/Carbs0126/ExpandableTextView) 
+
+an ExpandableTextView on Android platform which can shrink TextView height if its line count is greater than a certain number, it also can toggle state between expand and shrink  
+
+⭐️ 532 
 
 --- 
 
@@ -2640,19 +2640,19 @@ A Reactive MVP Framework which is Slick to use
 
 --- 
 
-#### [MannaYang/AudioVideoCodec](https://github.com/MannaYang/AudioVideoCodec) 
-
-一款视频录像机，支持AudioRecord录音、MediaCodec输出AAC、MediaMuxer合成音频视频并输出mp4，支持自动对焦、屏幕亮度调节、录制视频时长监听、手势缩放调整焦距等 
-
-⭐️ 136 
-
---- 
-
 #### [Manabu-GT/EtsyBlur](https://github.com/Manabu-GT/EtsyBlur) 
 
 EtsyBlur is an Android library that allows developers to easily add a glass-like blur effect implemented in the  Etsy app. 
 
 ⭐️ 757 
+
+--- 
+
+#### [MannaYang/AudioVideoCodec](https://github.com/MannaYang/AudioVideoCodec) 
+
+一款视频录像机，支持AudioRecord录音、MediaCodec输出AAC、MediaMuxer合成音频视频并输出mp4，支持自动对焦、屏幕亮度调节、录制视频时长监听、手势缩放调整焦距等 
+
+⭐️ 136 
 
 --- 
 
@@ -3514,6 +3514,14 @@ A control/container with an arrow for Android, which can be fully customized by 
 
 --- 
 
+#### [crazycodeboy/TakePhoto](https://github.com/crazycodeboy/TakePhoto) 
+
+一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库 
+
+⭐️ 7.2K 
+
+--- 
+
 #### [crazysunj/CardSlideView](https://github.com/crazysunj/CardSlideView) 
 
 一行代码实现ViewPager卡片效果，比ViewPager2更强大，底层同样是RecyclerView 
@@ -3527,14 +3535,6 @@ A control/container with an arrow for Android, which can be fully customized by 
 [开源项目] 一款程序员日常放松的App，基于Material Design + MVP-Clean + Weex + Flutter + RxJava2 + Retrofit + Dagger2 + Glide + Okhttp + MTRVA + BRVAH + 炫酷控件 + 炫酷动画 
 
 ⭐️ 301 
-
---- 
-
-#### [crazycodeboy/TakePhoto](https://github.com/crazycodeboy/TakePhoto) 
-
-一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库 
-
-⭐️ 7.2K 
 
 --- 
 
@@ -5774,6 +5774,14 @@ Standalone Android widget for picking a single date, multiple date, and range of
 
 --- 
 
+#### [woxblom/DragListView](https://github.com/woxblom/DragListView) 
+
+Drag and drop to reorder items in a list, grid or board for Android. Based on RecyclerView. Also supports swiping items in a list. 
+
+⭐️ 655 
+
+--- 
+
 #### [wuapnjie/PuzzleView](https://github.com/wuapnjie/PuzzleView) 
 
 Android Jigsaw puzzle support,inspired by Instagram's layout. 
@@ -5787,14 +5795,6 @@ Android Jigsaw puzzle support,inspired by Instagram's layout.
 [No more support] A view which can add sticker and zoom,drag,delete it 
 
 ⭐️ 1.2K 
-
---- 
-
-#### [woxblom/DragListView](https://github.com/woxblom/DragListView) 
-
-Drag and drop to reorder items in a list, grid or board for Android. Based on RecyclerView. Also supports swiping items in a list. 
-
-⭐️ 655 
 
 --- 
 
@@ -5950,19 +5950,19 @@ A common RecyclerView divider , supports the LinearLayoutManager and the GridLay
 
 --- 
 
-#### [yasharpm/InstaCropper](https://github.com/yasharpm/InstaCropper) 
-
-A View for cropping images that is similar to Instagram's crop which allows a range of aspect ratios instead of a solid ratio. Also an Activity for cropping is included. 
-
-⭐️ 377 
-
---- 
-
 #### [yarolegovich/DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView) 
 
 A scrollable list of items that centers the current element and provides easy-to-use APIs for cool item animations. 
 
 ⭐️ 5.6K 
+
+--- 
+
+#### [yasharpm/InstaCropper](https://github.com/yasharpm/InstaCropper) 
+
+A View for cropping images that is similar to Instagram's crop which allows a range of aspect ratios instead of a solid ratio. Also an Activity for cropping is included. 
+
+⭐️ 377 
 
 --- 
 
@@ -6142,19 +6142,19 @@ Southeast Asia Natural Language Processing [Thai Vietnamese Khmer Lao Burmese(My
 
 --- 
 
-#### [zhongjihao/AVMediaCodecMP4](https://github.com/zhongjihao/AVMediaCodecMP4) 
-
-Android平台Camera采集预览nv21格式数据，AudioRecord采集音频pcm数据，使用MediaCodec分别进行h264和AAC硬编码，通过MediaMuxer合成MP4 
-
-⭐️ 98 
-
---- 
-
 #### [zhihu/Matisse](https://github.com/zhihu/Matisse) 
 
 :fireworks: A well-designed local image and video selector for Android 
 
 ⭐️ 12.3K 
+
+--- 
+
+#### [zhongjihao/AVMediaCodecMP4](https://github.com/zhongjihao/AVMediaCodecMP4) 
+
+Android平台Camera采集预览nv21格式数据，AudioRecord采集音频pcm数据，使用MediaCodec分别进行h264和AAC硬编码，通过MediaMuxer合成MP4 
+
+⭐️ 98 
 
 --- 
 
@@ -6214,7 +6214,7 @@ ZXing ("Zebra Crossing") barcode scanning library for Java, Android
 
 --- 
 
-## [JavaScript][JavaScript]
+## [JavaScript][javascript]
 
 #### [11ty/eleventy](https://github.com/11ty/eleventy) 
 
@@ -8332,19 +8332,19 @@ Power Assert in JavaScript. Provides descriptive assertion messages through stan
 
 --- 
 
-#### [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme) 
-
-GitHub's VS Code themes 
-
-⭐️ 1.6K 
-
---- 
-
 #### [preactjs/wmr](https://github.com/preactjs/wmr) 
 
 👩‍🚀 The tiny all-in-one development tool for modern web apps. 
 
 ⭐️ 4.7K 
+
+--- 
+
+#### [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme) 
+
+GitHub's VS Code themes 
+
+⭐️ 1.6K 
 
 --- 
 
@@ -8896,19 +8896,19 @@ Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 
 --- 
 
-#### [unshiftio/url-parse](https://github.com/unshiftio/url-parse) 
-
-Small footprint URL parser that works seamlessly across Node.js and browser environments. 
-
-⭐️ 982 
-
---- 
-
 #### [upscayl/upscayl](https://github.com/upscayl/upscayl) 
 
 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy. 
 
 ⭐️ 5.9K 
+
+--- 
+
+#### [unshiftio/url-parse](https://github.com/unshiftio/url-parse) 
+
+Small footprint URL parser that works seamlessly across Node.js and browser environments. 
+
+⭐️ 982 
 
 --- 
 
@@ -9104,7 +9104,7 @@ Low Quality Image Placeholders (LQIP) Module for Node
 
 --- 
 
-## [Jinja][Jinja]
+## [Jinja][jinja]
 
 #### [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) 
 
@@ -9114,7 +9114,7 @@ Deploy a Production Ready Kubernetes Cluster
 
 --- 
 
-## [Jupyter Notebook][Jupyter-Notebook]
+## [Jupyter Notebook][jupyter-notebook]
 
 #### [facebookresearch/DensePose](https://github.com/facebookresearch/DensePose) 
 
@@ -9154,7 +9154,7 @@ Various experimental NLP tasks for Khmer language
 
 --- 
 
-## [Kotlin][Kotlin]
+## [Kotlin][kotlin]
 
 #### [10clouds/FluidBottomNavigation-android](https://github.com/10clouds/FluidBottomNavigation-android) 
 
@@ -11254,19 +11254,19 @@ Library with swipe to dismiss Activity gesture implementation
 
 --- 
 
-#### [gantonious/MaterialDayPicker](https://github.com/gantonious/MaterialDayPicker) 
-
-An elegant day of the week picker inspired by Google's clock app 
-
-⭐️ 58 
-
---- 
-
 #### [galex/name-that-color-intellij-plugin](https://github.com/galex/name-that-color-intellij-plugin) 
 
 This plugin lets you insert a name for a color you copy-paste or type in an android resource file. 
 
 ⭐️ 168 
+
+--- 
+
+#### [gantonious/MaterialDayPicker](https://github.com/gantonious/MaterialDayPicker) 
+
+An elegant day of the week picker inspired by Google's clock app 
+
+⭐️ 58 
 
 --- 
 
@@ -12028,19 +12028,19 @@ Markdown renderer for Kotlin Multiplatform Projects (Android, Desktop), using Co
 
 --- 
 
-#### [mistamek/Android-drawable-preview-plugin](https://github.com/mistamek/Android-drawable-preview-plugin) 
-
-Android studio plugin for preview drawables 
-
-⭐️ 449 
-
---- 
-
 #### [miso01/SingleRowCalendar](https://github.com/miso01/SingleRowCalendar) 
 
 Android library for horizontal single row calendar. With this library, you aren't attached to library built-in UI. You can create really beautiful and customizable UI and use selection features without hands getting dirty with RecyclerView and SelectionTracker. 
 
 ⭐️ 270 
+
+--- 
+
+#### [mistamek/Android-drawable-preview-plugin](https://github.com/mistamek/Android-drawable-preview-plugin) 
+
+Android studio plugin for preview drawables 
+
+⭐️ 449 
 
 --- 
 
@@ -13258,7 +13258,7 @@ An android image compression library.
 
 --- 
 
-## [Lua][Lua]
+## [Lua][lua]
 
 #### [apache/apisix](https://github.com/apache/apisix) 
 
@@ -13268,7 +13268,7 @@ The Cloud-Native API Gateway
 
 --- 
 
-## [Makefile][Makefile]
+## [Makefile][makefile]
 
 #### [silnrsi/khmerlbdict](https://github.com/silnrsi/khmerlbdict) 
 
@@ -13278,7 +13278,7 @@ Khmer wordlist for line and word breaking
 
 --- 
 
-## [Objective-C++][Objective-C++]
+## [Objective-C++][objective-c++]
 
 #### [KhronosGroup/MoltenVK](https://github.com/KhronosGroup/MoltenVK) 
 
@@ -13288,7 +13288,7 @@ MoltenVK is a Vulkan Portability implementation. It layers a subset of the high-
 
 --- 
 
-## [Objective-C][Objective-C]
+## [Objective-C][objective-c]
 
 #### [JonyFang/FFPopup](https://github.com/JonyFang/FFPopup) 
 
@@ -13338,7 +13338,7 @@ Freely painted area in a video, the software will automatically be cut out.
 
 --- 
 
-## [PHP][PHP]
+## [PHP][php]
 
 #### [AlexWhiter/GarminRelatedStuff](https://github.com/AlexWhiter/GarminRelatedStuff) 
 
@@ -13420,7 +13420,7 @@ A fully featured full text search engine written in PHP
 
 --- 
 
-## [Perl][Perl]
+## [Perl][perl]
 
 #### [bookkojot/mp4fixer](https://github.com/bookkojot/mp4fixer) 
 
@@ -13438,7 +13438,7 @@ khPOS (Khmer Part-of-Speech) Corpus for Khmer NLP Research and Developments
 
 --- 
 
-## [Python][Python]
+## [Python][python]
 
 #### [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager) 
 
@@ -13884,7 +13884,7 @@ Command-line program to download videos from YouTube.com and other video sites
 
 --- 
 
-## [Red][Red]
+## [Red][red]
 
 #### [red/red](https://github.com/red/red) 
 
@@ -13894,7 +13894,7 @@ Red is a next-generation programming language strongly inspired by Rebol, but wi
 
 --- 
 
-## [Ruby][Ruby]
+## [Ruby][ruby]
 
 #### [Homebrew/homebrew-autoupdate](https://github.com/Homebrew/homebrew-autoupdate) 
 
@@ -13990,7 +13990,7 @@ Normalize emails like J.oh.n+sneaky@gmail.com into john@gmail.com
 
 --- 
 
-## [Rust][Rust]
+## [Rust][rust]
 
 #### [Brooooooklyn/canvas](https://github.com/Brooooooklyn/canvas) 
 
@@ -14512,7 +14512,7 @@ A modern text editor for the terminal written in Rust
 
 --- 
 
-## [SCSS][SCSS]
+## [SCSS][scss]
 
 #### [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) 
 
@@ -14546,7 +14546,7 @@ The Less Formal CSS Framework
 
 --- 
 
-## [Shell][Shell]
+## [Shell][shell]
 
 #### [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) 
 
@@ -14674,7 +14674,7 @@ A boilerplate, for running Prisma behind a graphql endpoint, inside Docker
 
 --- 
 
-## [Smarty][Smarty]
+## [Smarty][smarty]
 
 #### [MinimalCompact/thumbor](https://github.com/MinimalCompact/thumbor) 
 
@@ -14684,7 +14684,7 @@ The quickest way to run thumbor.
 
 --- 
 
-## [Svelte][Svelte]
+## [Svelte][svelte]
 
 #### [rogchap/wombat](https://github.com/rogchap/wombat) 
 
@@ -14694,7 +14694,7 @@ Cross platform gRPC client
 
 --- 
 
-## [Swift][Swift]
+## [Swift][swift]
 
 #### [Actomaton/Actomaton](https://github.com/Actomaton/Actomaton) 
 
@@ -15382,7 +15382,7 @@ Swipable tab and menu View and ViewController.
 
 --- 
 
-## [TypeScript][TypeScript]
+## [TypeScript][typescript]
 
 #### [APKLab/APKLab](https://github.com/APKLab/APKLab) 
 
@@ -18138,7 +18138,7 @@ ADB in your browser
 
 --- 
 
-## [V][V]
+## [V][v]
 
 #### [vlang/v](https://github.com/vlang/v) 
 
@@ -18148,7 +18148,7 @@ Simple, fast, safe, compiled language for developing maintainable software. Comp
 
 --- 
 
-## [Vim Script][Vim-Script]
+## [Vim Script][vim-script]
 
 #### [github/copilot.vim](https://github.com/github/copilot.vim) 
 
@@ -18158,7 +18158,7 @@ Neovim plugin for GitHub Copilot
 
 --- 
 
-## [Vue][Vue]
+## [Vue][vue]
 
 #### [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) 
 
@@ -18312,7 +18312,7 @@ Notice: This project has been merged into the upstream package. https://github.c
 
 --- 
 
-## [WebAssembly][WebAssembly]
+## [WebAssembly][webassembly]
 
 #### [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) 
 
@@ -18322,7 +18322,7 @@ A TypeScript-like language for WebAssembly.
 
 --- 
 
-## [Zig][Zig]
+## [Zig][zig]
 
 #### [oven-sh/bun](https://github.com/oven-sh/bun) 
 

@@ -72,14 +72,14 @@ await fs.mkdir('docs', { recursive: true });
 markdown = "# Languages\n\n"
 
 for (const language in languages) {
-  const slug = slugify(language)
+  const slug = slugify(language.toLowerCase())
   markdown += `[\`${language}\`](#${slug}) `;
 }
 
 markdown += `\n\n --- \n\n`;
 
 for (const language in languages) {
-  const slug = slugify(language)
+  const slug = slugify(language.toLowerCase())
   markdown += `## [${language}][${slug}]\n\n`;
   const repos = languages[language];
   for (const repo of repos) {
