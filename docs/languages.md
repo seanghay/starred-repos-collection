@@ -2312,19 +2312,19 @@ Annotation processing and dependency injection for Java/Android
 
 --- 
 
-#### [CameraKit/blurkit-android](https://github.com/CameraKit/blurkit-android) 
-
-⭐️ 3.6K 
-
-The missing Android blurring library. Fast blur-behind layout that parallels iOS. 
-
---- 
-
 #### [CainKernel/CainCamera](https://github.com/CainKernel/CainCamera) 
 
 ⭐️ 2.6K 
 
 CainCamera is an Android Project to learn about development of beauty camera, image and short video 
+
+--- 
+
+#### [CameraKit/blurkit-android](https://github.com/CameraKit/blurkit-android) 
+
+⭐️ 3.6K 
+
+The missing Android blurring library. Fast blur-behind layout that parallels iOS. 
 
 --- 
 
@@ -2418,14 +2418,6 @@ Library for animating images with continuous scrolling effects
 
 --- 
 
-#### [DSAppTeam/PanelSwitchHelper](https://github.com/DSAppTeam/PanelSwitchHelper) 
-
-⭐️ 2.1K 
-
-:heavy_check_mark:  A framework that helps the keyboard smoothly transition to the function panel    一个帮助键盘平稳过渡到功能面板的框架，支持动画无缝衔接，支持 activity/fragment/dialog/dialogFragment/popupWindow 容器，支持IM/直播/视频播放/信息流评论等场景，支持全屏模式。 
-
---- 
-
 #### [CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) 
 
 ⭐️ 23.2K 
@@ -2433,6 +2425,14 @@ Library for animating images with continuous scrolling effects
 BRVAH:Powerful and flexible RecyclerAdapter 
 
 [http://www.recyclerview.org/](http://www.recyclerview.org/)
+
+--- 
+
+#### [DSAppTeam/PanelSwitchHelper](https://github.com/DSAppTeam/PanelSwitchHelper) 
+
+⭐️ 2.1K 
+
+:heavy_check_mark:  A framework that helps the keyboard smoothly transition to the function panel    一个帮助键盘平稳过渡到功能面板的框架，支持动画无缝衔接，支持 activity/fragment/dialog/dialogFragment/popupWindow 容器，支持IM/直播/视频播放/信息流评论等场景，支持全屏模式。 
 
 --- 
 
@@ -2552,17 +2552,17 @@ Provides fast scroll and section idexer for recycler view
 
 --- 
 
+#### [Gavin-ZYX/StickyDecoration](https://github.com/Gavin-ZYX/StickyDecoration) 
+
+⭐️ 1K 
+
+--- 
+
 #### [GautamChibde/android-audio-visualizer](https://github.com/GautamChibde/android-audio-visualizer) 
 
 ⭐️ 591 
 
  :musical_score: :musical_keyboard: :musical_note: Audio visualisation for android MediaPlayer :sound: 
-
---- 
-
-#### [Gavin-ZYX/StickyDecoration](https://github.com/Gavin-ZYX/StickyDecoration) 
-
-⭐️ 1K 
 
 --- 
 
@@ -5854,16 +5854,6 @@ Control Ambient modes for Sony headphones on connection. Kill Sony Headphones Co
 
 --- 
 
-#### [skyfe79/AndroidGLKit](https://github.com/skyfe79/AndroidGLKit) 
-
-⭐️ 22 
-
-AndroidGLKit provides OpenGL ES 2.0 boilerplate codes for Android. 
-
-[https://github.com/skyfe79/AndroidGLKit](https://github.com/skyfe79/AndroidGLKit)
-
---- 
-
 #### [skydoves/ColorPickerView](https://github.com/skydoves/ColorPickerView) 
 
 ⭐️ 1.3K 
@@ -5877,6 +5867,16 @@ AndroidGLKit provides OpenGL ES 2.0 boilerplate codes for Android.
 ⭐️ 364 
 
 :truck: Android processing library for managing  SharedPreferences persistence efficiently and structurally. 
+
+--- 
+
+#### [skyfe79/AndroidGLKit](https://github.com/skyfe79/AndroidGLKit) 
+
+⭐️ 22 
+
+AndroidGLKit provides OpenGL ES 2.0 boilerplate codes for Android. 
+
+[https://github.com/skyfe79/AndroidGLKit](https://github.com/skyfe79/AndroidGLKit)
 
 --- 
 
@@ -6676,6 +6676,14 @@ ZXing ("Zebra Crossing") barcode scanning library for Java, Android
 
 ## JavaScript
 
+#### [1995parham/github-do-not-ban-us](https://github.com/1995parham/github-do-not-ban-us) 
+
+⭐️ 11.9K 
+
+GitHub do not ban us from open source world :iran: 
+
+--- 
+
 #### [11ty/eleventy](https://github.com/11ty/eleventy) 
 
 ⭐️ 13.1K 
@@ -6683,14 +6691,6 @@ ZXing ("Zebra Crossing") barcode scanning library for Java, Android
 A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML. 
 
 [https://www.11ty.dev/](https://www.11ty.dev/)
-
---- 
-
-#### [1995parham/github-do-not-ban-us](https://github.com/1995parham/github-do-not-ban-us) 
-
-⭐️ 11.9K 
-
-GitHub do not ban us from open source world :iran: 
 
 --- 
 
@@ -11668,19 +11668,19 @@ Android Multiple Pulse Animation
 
 --- 
 
-#### [armcha/ColoredShadowImageView](https://github.com/armcha/ColoredShadowImageView) 
-
-⭐️ 464 
-
-ColoredShadowImageView allows you to create a beautiful shadow around the image based on corresponding area colors. 
-
---- 
-
 #### [aritraroy/Flashbar](https://github.com/aritraroy/Flashbar) 
 
 ⭐️ 1.7K 
 
 ⚡️A highly customizable, powerful and easy-to-use alerting library for Android. 
+
+--- 
+
+#### [armcha/ColoredShadowImageView](https://github.com/armcha/ColoredShadowImageView) 
+
+⭐️ 464 
+
+ColoredShadowImageView allows you to create a beautiful shadow around the image based on corresponding area colors. 
 
 --- 
 
@@ -11894,19 +11894,19 @@ A small testing library for kotlinx.coroutines Flow
 
 --- 
 
-#### [cats-oss/android-tab-animation](https://github.com/cats-oss/android-tab-animation) 
-
-⭐️ 99 
-
-Easily create TabLayout.Tab animations that sync with the scrolling progress of ViewPager 
-
---- 
-
 #### [cdsap/Talaiot](https://github.com/cdsap/Talaiot) 
 
 ⭐️ 518 
 
 Simple and extensible plugin to track task times in your Gradle Project. 
+
+--- 
+
+#### [cats-oss/android-tab-animation](https://github.com/cats-oss/android-tab-animation) 
+
+⭐️ 99 
+
+Easily create TabLayout.Tab animations that sync with the scrolling progress of ViewPager 
 
 --- 
 
@@ -18884,16 +18884,6 @@ Node.js Open CLI Framework. Built by Salesforce.
 
 --- 
 
-#### [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) 
-
-⭐️ 5.7K 
-
-Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better. 
-
-[https://www.npmjs.com/package/concurrently](https://www.npmjs.com/package/concurrently)
-
---- 
-
 #### [onury/accesscontrol](https://github.com/onury/accesscontrol) 
 
 ⭐️ 1.9K 
@@ -18901,6 +18891,16 @@ Run commands concurrently. Like `npm run watch-js & npm run watch-less` but bett
 Role and Attribute based Access Control for Node.js 
 
 [https://onury.io/accesscontrol](https://onury.io/accesscontrol)
+
+--- 
+
+#### [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) 
+
+⭐️ 5.7K 
+
+Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better. 
+
+[https://www.npmjs.com/package/concurrently](https://www.npmjs.com/package/concurrently)
 
 --- 
 

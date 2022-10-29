@@ -32,48 +32,10 @@ for await (const file of stream) {
 
 }
 
-const sortedEntries = [...topicsCollection.entries()].sort();
 const languages = Object.fromEntries([...languagesCollections.entries()].sort());
 
-
-let markdown = '# Starred Repos Collection\n\n';
-
-markdown += `> **Note**\n> last upated at \`${new Date().toISOString()}\`\n\n`;
-
-markdown += "Organize your starred repos on GitHub into searchable topics.\n\n";
-markdown += "\n"
-
-for (const [topic, repos] of sortedEntries) {
-
-  markdown += `## ${topic} \n\n`;
-
-  for (const repo of repos) {
-    markdown += `#### [${repo.full_name}](${repo.html_url}) \n\n`;
-    markdown += `⭐️ ${millify(repo.stargazers_count)} \n\n`;
-
-    if (repo.description) {
-      markdown += `${repo.description} \n\n`;
-    }
-
-    if (repo.homepage) {
-      markdown += `[${repo.homepage}](${repo.homepage})\n\n`
-    }
-
-    
-    if (repo.language) {
-      markdown += `[\`${repo.language}\`](./docs/languages.md#${slugify(repo.language.toLowerCase())}) \n\n`;
-    }
-
-    markdown += `--- \n\n`;
-  }
-
-}
-
-await fs.writeFile('readme.md', markdown, 'utf-8');
-await fs.mkdir('docs', { recursive: true });
-
 // generate language page
-markdown = "# Languages\n\n"
+let markdown = "# Languages\n\n"
 
 for (const language in languages) {
   const slug = slugify(language.toLowerCase())
