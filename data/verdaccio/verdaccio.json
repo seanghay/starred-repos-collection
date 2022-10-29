@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/verdaccio/verdaccio/releases{/id}",
   "deployments_url": "https://api.github.com/repos/verdaccio/verdaccio/deployments",
   "created_at": "2016-04-15T16:21:12Z",
-  "updated_at": "2022-10-28T04:00:20Z",
-  "pushed_at": "2022-10-27T06:18:57Z",
+  "updated_at": "2022-10-29T02:46:23Z",
+  "pushed_at": "2022-10-29T00:19:28Z",
   "git_url": "git://github.com/verdaccio/verdaccio.git",
   "ssh_url": "git@github.com:verdaccio/verdaccio.git",
   "clone_url": "https://github.com/verdaccio/verdaccio.git",
   "svn_url": "https://github.com/verdaccio/verdaccio",
   "homepage": "https://www.verdaccio.org/",
-  "size": 267555,
-  "stargazers_count": 14030,
-  "watchers_count": 14030,
+  "size": 267631,
+  "stargazers_count": 14034,
+  "watchers_count": 14034,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -85,7 +85,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 58,
+  "open_issues_count": 59,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -118,8 +118,8 @@
   ],
   "visibility": "public",
   "forks": 1256,
-  "open_issues": 58,
-  "watchers": 14030,
+  "open_issues": 59,
+  "watchers": 14034,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 174
+  "_index": 176
 }

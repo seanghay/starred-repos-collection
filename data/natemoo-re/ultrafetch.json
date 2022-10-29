@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/natemoo-re/ultrafetch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/natemoo-re/ultrafetch/deployments",
   "created_at": "2021-12-12T14:31:35Z",
-  "updated_at": "2022-10-17T22:50:27Z",
+  "updated_at": "2022-10-28T21:20:15Z",
   "pushed_at": "2022-08-02T14:33:11Z",
   "git_url": "git://github.com/natemoo-re/ultrafetch.git",
   "ssh_url": "git@github.com:natemoo-re/ultrafetch.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/natemoo-re/ultrafetch",
   "homepage": "",
   "size": 195,
-  "stargazers_count": 175,
-  "watchers_count": 175,
+  "stargazers_count": 176,
+  "watchers_count": 176,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -103,7 +103,7 @@
   "visibility": "public",
   "forks": 4,
   "open_issues": 2,
-  "watchers": 175,
+  "watchers": 176,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 168
+  "_index": 170
 }

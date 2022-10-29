@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/vueuse/schema-org/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vueuse/schema-org/deployments",
   "created_at": "2022-03-28T08:30:32Z",
-  "updated_at": "2022-10-19T06:43:42Z",
+  "updated_at": "2022-10-29T02:57:45Z",
   "pushed_at": "2022-10-13T03:30:13Z",
   "git_url": "git://github.com/vueuse/schema-org.git",
   "ssh_url": "git@github.com:vueuse/schema-org.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/vueuse/schema-org",
   "homepage": "https://vue-schema-org.netlify.app",
   "size": 4176,
-  "stargazers_count": 288,
-  "watchers_count": 288,
+  "stargazers_count": 290,
+  "watchers_count": 290,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -97,7 +97,7 @@
   "visibility": "public",
   "forks": 18,
   "open_issues": 3,
-  "watchers": 288,
+  "watchers": 290,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -106,5 +106,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 307
+  "_index": 309
 }

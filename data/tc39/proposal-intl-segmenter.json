@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tc39/proposal-intl-segmenter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tc39/proposal-intl-segmenter/deployments",
   "created_at": "2016-08-26T05:40:33Z",
-  "updated_at": "2022-10-17T11:00:00Z",
+  "updated_at": "2022-10-28T23:08:49Z",
   "pushed_at": "2022-01-21T20:50:03Z",
   "git_url": "git://github.com/tc39/proposal-intl-segmenter.git",
   "ssh_url": "git@github.com:tc39/proposal-intl-segmenter.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/tc39/proposal-intl-segmenter",
   "homepage": "https://tc39.github.io/proposal-intl-segmenter/",
   "size": 195,
-  "stargazers_count": 128,
-  "watchers_count": 128,
+  "stargazers_count": 129,
+  "watchers_count": 129,
   "language": "HTML",
   "has_issues": true,
   "has_projects": false,
@@ -94,7 +94,7 @@
   "visibility": "public",
   "forks": 22,
   "open_issues": 12,
-  "watchers": 128,
+  "watchers": 129,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -103,5 +103,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 688
+  "_index": 690
 }

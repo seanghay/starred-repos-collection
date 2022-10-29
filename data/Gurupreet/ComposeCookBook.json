@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Gurupreet/ComposeCookBook/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Gurupreet/ComposeCookBook/deployments",
   "created_at": "2020-09-06T07:41:44Z",
-  "updated_at": "2022-10-28T04:14:47Z",
+  "updated_at": "2022-10-28T06:56:10Z",
   "pushed_at": "2022-10-05T11:17:58Z",
   "git_url": "git://github.com/Gurupreet/ComposeCookBook.git",
   "ssh_url": "git@github.com:Gurupreet/ComposeCookBook.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Gurupreet/ComposeCookBook",
   "homepage": "",
   "size": 78263,
-  "stargazers_count": 4676,
-  "watchers_count": 4676,
+  "stargazers_count": 4677,
+  "watchers_count": 4677,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 593,
   "open_issues": 16,
-  "watchers": 4676,
+  "watchers": 4677,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1019
+  "_index": 1021
 }

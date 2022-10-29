@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/kutlugsahin/ngx-smooth-dnd/deployments",
   "created_at": "2018-04-05T22:33:39Z",
   "updated_at": "2022-10-10T11:45:45Z",
-  "pushed_at": "2022-09-08T03:47:52Z",
+  "pushed_at": "2022-10-28T22:38:16Z",
   "git_url": "git://github.com/kutlugsahin/ngx-smooth-dnd.git",
   "ssh_url": "git@github.com:kutlugsahin/ngx-smooth-dnd.git",
   "clone_url": "https://github.com/kutlugsahin/ngx-smooth-dnd.git",
   "svn_url": "https://github.com/kutlugsahin/ngx-smooth-dnd",
   "homepage": null,
-  "size": 8433,
+  "size": 8578,
   "stargazers_count": 160,
   "watchers_count": 160,
   "language": "TypeScript",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2270
+  "_index": 2272
 }

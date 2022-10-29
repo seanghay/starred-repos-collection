@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/Tencent/tinker/deployments",
   "created_at": "2016-09-06T06:57:52Z",
   "updated_at": "2022-10-27T21:17:38Z",
-  "pushed_at": "2022-10-22T19:18:29Z",
+  "pushed_at": "2022-10-28T08:13:12Z",
   "git_url": "git://github.com/Tencent/tinker.git",
   "ssh_url": "git@github.com:Tencent/tinker.git",
   "clone_url": "https://github.com/Tencent/tinker.git",
   "svn_url": "https://github.com/Tencent/tinker",
   "homepage": "",
-  "size": 6937,
+  "size": 6938,
   "stargazers_count": 16594,
   "watchers_count": 16594,
   "language": "Java",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1665
+  "_index": 1667
 }

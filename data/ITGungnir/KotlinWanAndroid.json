@@ -81,7 +81,7 @@
   "has_downloads": true,
   "has_wiki": true,
   "has_pages": false,
-  "forks_count": 25,
+  "forks_count": 26,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -112,7 +112,7 @@
     "wanandroid"
   ],
   "visibility": "public",
-  "forks": 25,
+  "forks": 26,
   "open_issues": 1,
   "watchers": 259,
   "default_branch": "master",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1867
+  "_index": 1869
 }

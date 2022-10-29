@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/jaredsburrows/android-gif-example/deployments",
   "created_at": "2016-06-20T04:47:57Z",
   "updated_at": "2022-10-17T23:32:30Z",
-  "pushed_at": "2022-10-25T13:54:35Z",
+  "pushed_at": "2022-10-28T16:06:04Z",
   "git_url": "git://github.com/jaredsburrows/android-gif-example.git",
   "ssh_url": "git@github.com:jaredsburrows/android-gif-example.git",
   "clone_url": "https://github.com/jaredsburrows/android-gif-example.git",
   "svn_url": "https://github.com/jaredsburrows/android-gif-example",
   "homepage": "",
-  "size": 1758,
+  "size": 1761,
   "stargazers_count": 375,
   "watchers_count": 375,
   "language": "Kotlin",
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1564
+  "_index": 1566
 }

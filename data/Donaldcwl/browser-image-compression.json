@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Donaldcwl/browser-image-compression/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Donaldcwl/browser-image-compression/deployments",
   "created_at": "2017-07-23T20:20:51Z",
-  "updated_at": "2022-10-27T14:59:01Z",
+  "updated_at": "2022-10-28T10:28:02Z",
   "pushed_at": "2022-08-28T15:01:30Z",
   "git_url": "git://github.com/Donaldcwl/browser-image-compression.git",
   "ssh_url": "git@github.com:Donaldcwl/browser-image-compression.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Donaldcwl/browser-image-compression",
   "homepage": "",
   "size": 6054,
-  "stargazers_count": 758,
-  "watchers_count": 758,
+  "stargazers_count": 759,
+  "watchers_count": 759,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 110,
   "open_issues": 26,
-  "watchers": 758,
+  "watchers": 759,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 223
+  "_index": 225
 }

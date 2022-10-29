@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/TanStack/query/releases{/id}",
   "deployments_url": "https://api.github.com/repos/TanStack/query/deployments",
   "created_at": "2019-09-10T19:23:58Z",
-  "updated_at": "2022-10-28T03:22:17Z",
-  "pushed_at": "2022-10-28T06:08:52Z",
+  "updated_at": "2022-10-28T23:08:44Z",
+  "pushed_at": "2022-10-28T19:59:34Z",
   "git_url": "git://github.com/TanStack/query.git",
   "ssh_url": "git@github.com:TanStack/query.git",
   "clone_url": "https://github.com/TanStack/query.git",
   "svn_url": "https://github.com/TanStack/query",
   "homepage": "https://tanstack.com/query",
-  "size": 31732,
-  "stargazers_count": 30657,
-  "watchers_count": 30657,
+  "size": 31763,
+  "stargazers_count": 30674,
+  "watchers_count": 30674,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 1867,
   "open_issues": 32,
-  "watchers": 30657,
+  "watchers": 30674,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1134
+  "_index": 1136
 }

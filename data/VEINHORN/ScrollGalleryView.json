@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/VEINHORN/ScrollGalleryView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/VEINHORN/ScrollGalleryView/deployments",
   "created_at": "2015-08-05T14:14:35Z",
-  "updated_at": "2022-09-01T10:02:06Z",
+  "updated_at": "2022-10-28T22:19:58Z",
   "pushed_at": "2021-12-09T09:13:21Z",
   "git_url": "git://github.com/VEINHORN/ScrollGalleryView.git",
   "ssh_url": "git@github.com:VEINHORN/ScrollGalleryView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/VEINHORN/ScrollGalleryView",
   "homepage": "",
   "size": 4218,
-  "stargazers_count": 526,
-  "watchers_count": 526,
+  "stargazers_count": 527,
+  "watchers_count": 527,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 153,
   "open_issues": 30,
-  "watchers": 526,
+  "watchers": 527,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1116
+  "_index": 1118
 }
