@@ -81,11 +81,11 @@
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": false,
-  "forks_count": 349,
+  "forks_count": 348,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 68,
+  "open_issues_count": 69,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -104,8 +104,8 @@
     "infrastructure"
   ],
   "visibility": "public",
-  "forks": 349,
-  "open_issues": 68,
+  "forks": 348,
+  "open_issues": 69,
   "watchers": 3008,
   "default_branch": "main",
   "permissions": {

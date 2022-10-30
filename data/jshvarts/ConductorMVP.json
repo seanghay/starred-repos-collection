@@ -81,7 +81,7 @@
   "has_downloads": true,
   "has_wiki": true,
   "has_pages": false,
-  "forks_count": 33,
+  "forks_count": 32,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,7 +110,7 @@
     "rxjava2"
   ],
   "visibility": "public",
-  "forks": 33,
+  "forks": 32,
   "open_issues": 1,
   "watchers": 195,
   "default_branch": "master",

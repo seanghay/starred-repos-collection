@@ -81,7 +81,7 @@
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": false,
-  "forks_count": 244,
+  "forks_count": 243,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -119,7 +119,7 @@
     "proxy"
   ],
   "visibility": "public",
-  "forks": 244,
+  "forks": 243,
   "open_issues": 38,
   "watchers": 2800,
   "default_branch": "develop",

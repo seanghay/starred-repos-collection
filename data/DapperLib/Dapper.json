@@ -81,7 +81,7 @@
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": true,
-  "forks_count": 3571,
+  "forks_count": 3569,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,7 +102,7 @@
     "sql"
   ],
   "visibility": "public",
-  "forks": 3571,
+  "forks": 3569,
   "open_issues": 384,
   "watchers": 15461,
   "default_branch": "main",

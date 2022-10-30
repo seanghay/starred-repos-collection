@@ -81,7 +81,7 @@
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": true,
-  "forks_count": 803,
+  "forks_count": 802,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,7 +102,7 @@
     "openid-connect"
   ],
   "visibility": "public",
-  "forks": 803,
+  "forks": 802,
   "open_issues": 151,
   "watchers": 2264,
   "default_branch": "master",

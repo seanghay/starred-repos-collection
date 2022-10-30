@@ -81,7 +81,7 @@
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": true,
-  "forks_count": 1162,
+  "forks_count": 1161,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -101,7 +101,7 @@
     "kotlin-multiplatform"
   ],
   "visibility": "public",
-  "forks": 1162,
+  "forks": 1161,
   "open_issues": 87,
   "watchers": 8144,
   "default_branch": "master",

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Tencent/tinker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Tencent/tinker/deployments",
   "created_at": "2016-09-06T06:57:52Z",
-  "updated_at": "2022-10-27T21:17:38Z",
+  "updated_at": "2022-10-29T16:06:00Z",
   "pushed_at": "2022-10-28T08:13:12Z",
   "git_url": "git://github.com/Tencent/tinker.git",
   "ssh_url": "git@github.com:Tencent/tinker.git",
@@ -81,11 +81,11 @@
   "has_downloads": true,
   "has_wiki": true,
   "has_pages": false,
-  "forks_count": 3313,
+  "forks_count": 3312,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 479,
+  "open_issues_count": 481,
   "license": {
     "key": "other",
     "name": "Other",
@@ -103,8 +103,8 @@
     "wechat"
   ],
   "visibility": "public",
-  "forks": 3313,
-  "open_issues": 479,
+  "forks": 3312,
+  "open_issues": 481,
   "watchers": 16594,
   "default_branch": "dev",
   "permissions": {

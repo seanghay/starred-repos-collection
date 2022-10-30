@@ -81,7 +81,7 @@
   "has_downloads": true,
   "has_wiki": true,
   "has_pages": false,
-  "forks_count": 224,
+  "forks_count": 223,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "yamllint"
   ],
   "visibility": "public",
-  "forks": 224,
+  "forks": 223,
   "open_issues": 98,
   "watchers": 2146,
   "default_branch": "master",

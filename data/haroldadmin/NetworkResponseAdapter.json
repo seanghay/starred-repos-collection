@@ -81,7 +81,7 @@
   "has_downloads": true,
   "has_wiki": true,
   "has_pages": true,
-  "forks_count": 48,
+  "forks_count": 49,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "retrofit"
   ],
   "visibility": "public",
-  "forks": 48,
+  "forks": 49,
   "open_issues": 3,
   "watchers": 512,
   "default_branch": "master",

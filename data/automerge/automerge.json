@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/automerge/automerge/releases{/id}",
   "deployments_url": "https://api.github.com/repos/automerge/automerge/deployments",
   "created_at": "2017-04-19T15:25:24Z",
-  "updated_at": "2022-10-29T02:41:22Z",
+  "updated_at": "2022-10-29T19:24:12Z",
   "pushed_at": "2022-10-07T16:45:31Z",
   "git_url": "git://github.com/automerge/automerge.git",
   "ssh_url": "git@github.com:automerge/automerge.git",

@@ -81,7 +81,7 @@
   "has_downloads": true,
   "has_wiki": true,
   "has_pages": false,
-  "forks_count": 92,
+  "forks_count": 91,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,7 +110,7 @@
     "wildcard"
   ],
   "visibility": "public",
-  "forks": 92,
+  "forks": 91,
   "open_issues": 27,
   "watchers": 1849,
   "default_branch": "master",

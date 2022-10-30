@@ -81,7 +81,7 @@
   "has_downloads": true,
   "has_wiki": true,
   "has_pages": true,
-  "forks_count": 1310,
+  "forks_count": 1309,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "websocket"
   ],
   "visibility": "public",
-  "forks": 1310,
+  "forks": 1309,
   "open_issues": 9,
   "watchers": 8064,
   "default_branch": "main",

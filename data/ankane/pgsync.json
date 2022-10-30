@@ -81,7 +81,7 @@
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": false,
-  "forks_count": 156,
+  "forks_count": 155,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -100,7 +100,7 @@
     "postgresql"
   ],
   "visibility": "public",
-  "forks": 156,
+  "forks": 155,
   "open_issues": 7,
   "watchers": 2484,
   "default_branch": "master",

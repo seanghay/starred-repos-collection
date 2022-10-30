@@ -81,7 +81,7 @@
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": true,
-  "forks_count": 116,
+  "forks_count": 115,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -111,7 +111,7 @@
     "xcuitest"
   ],
   "visibility": "public",
-  "forks": 116,
+  "forks": 115,
   "open_issues": 52,
   "watchers": 607,
   "default_branch": "master",
