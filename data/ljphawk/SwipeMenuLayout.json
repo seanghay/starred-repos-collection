@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ljphawk/SwipeMenuLayout/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ljphawk/SwipeMenuLayout/deployments",
   "created_at": "2019-06-09T13:05:15Z",
-  "updated_at": "2022-10-28T02:13:34Z",
+  "updated_at": "2022-10-30T11:07:48Z",
   "pushed_at": "2019-08-04T11:25:21Z",
   "git_url": "git://github.com/ljphawk/SwipeMenuLayout.git",
   "ssh_url": "git@github.com:ljphawk/SwipeMenuLayout.git",
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1646
+  "_index": 1647
 }

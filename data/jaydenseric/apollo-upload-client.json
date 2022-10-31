@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/jaydenseric/apollo-upload-client/deployments",
   "created_at": "2017-02-24T01:52:30Z",
   "updated_at": "2022-10-20T19:50:44Z",
-  "pushed_at": "2022-07-11T23:33:32Z",
+  "pushed_at": "2022-10-30T23:29:36Z",
   "git_url": "git://github.com/jaydenseric/apollo-upload-client.git",
   "ssh_url": "git@github.com:jaydenseric/apollo-upload-client.git",
   "clone_url": "https://github.com/jaydenseric/apollo-upload-client.git",
@@ -81,11 +81,11 @@
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": false,
-  "forks_count": 158,
+  "forks_count": 159,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2,
+  "open_issues_count": 3,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -101,8 +101,8 @@
     "react-native"
   ],
   "visibility": "public",
-  "forks": 158,
-  "open_issues": 2,
+  "forks": 159,
+  "open_issues": 3,
   "watchers": 1415,
   "default_branch": "master",
   "permissions": {
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1203
+  "_index": 1204
 }

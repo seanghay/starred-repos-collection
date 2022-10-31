@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/acro5piano/typed-graphqlify/releases{/id}",
   "deployments_url": "https://api.github.com/repos/acro5piano/typed-graphqlify/deployments",
   "created_at": "2018-12-18T19:46:09Z",
-  "updated_at": "2022-10-08T07:32:33Z",
+  "updated_at": "2022-10-30T21:54:35Z",
   "pushed_at": "2022-10-01T16:02:25Z",
   "git_url": "git://github.com/acro5piano/typed-graphqlify.git",
   "ssh_url": "git@github.com:acro5piano/typed-graphqlify.git",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2144
+  "_index": 2145
 }

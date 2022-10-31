@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/minio/mc/releases{/id}",
   "deployments_url": "https://api.github.com/repos/minio/mc/deployments",
   "created_at": "2015-01-16T02:56:51Z",
-  "updated_at": "2022-10-29T17:24:58Z",
-  "pushed_at": "2022-10-29T21:08:36Z",
+  "updated_at": "2022-10-31T03:05:02Z",
+  "pushed_at": "2022-10-30T23:45:21Z",
   "git_url": "git://github.com/minio/mc.git",
   "ssh_url": "git@github.com:minio/mc.git",
   "clone_url": "https://github.com/minio/mc.git",
   "svn_url": "https://github.com/minio/mc",
   "homepage": "https://min.io/download",
-  "size": 18812,
-  "stargazers_count": 2278,
-  "watchers_count": 2278,
+  "size": 18874,
+  "stargazers_count": 2279,
+  "watchers_count": 2279,
   "language": "Go",
   "has_issues": true,
   "has_projects": false,
@@ -85,7 +85,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 38,
+  "open_issues_count": 36,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -108,8 +108,8 @@
   ],
   "visibility": "public",
   "forks": 437,
-  "open_issues": 38,
-  "watchers": 2278,
+  "open_issues": 36,
+  "watchers": 2279,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 608
+  "_index": 609
 }

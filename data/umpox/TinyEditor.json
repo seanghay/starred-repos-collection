@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/umpox/TinyEditor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/umpox/TinyEditor/deployments",
   "created_at": "2016-12-20T18:35:16Z",
-  "updated_at": "2022-10-16T07:58:53Z",
+  "updated_at": "2022-10-30T18:07:33Z",
   "pushed_at": "2018-10-02T19:01:19Z",
   "git_url": "git://github.com/umpox/TinyEditor.git",
   "ssh_url": "git@github.com:umpox/TinyEditor.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/umpox/TinyEditor",
   "homepage": "tiny-editor-umpox.vercel.app",
   "size": 5,
-  "stargazers_count": 2329,
-  "watchers_count": 2329,
+  "stargazers_count": 2330,
+  "watchers_count": 2330,
   "language": "HTML",
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 150,
   "open_issues": 16,
-  "watchers": 2329,
+  "watchers": 2330,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2228
+  "_index": 2229
 }

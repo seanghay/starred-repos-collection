@@ -81,7 +81,7 @@
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": true,
-  "forks_count": 306,
+  "forks_count": 305,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,7 +109,7 @@
     "schema-generator"
   ],
   "visibility": "public",
-  "forks": 306,
+  "forks": 305,
   "open_issues": 29,
   "watchers": 1508,
   "default_branch": "master",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 782
+  "_index": 783
 }

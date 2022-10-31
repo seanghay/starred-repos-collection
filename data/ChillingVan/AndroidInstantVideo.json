@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ChillingVan/AndroidInstantVideo/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ChillingVan/AndroidInstantVideo/deployments",
   "created_at": "2017-04-15T01:22:14Z",
-  "updated_at": "2022-10-23T15:45:53Z",
+  "updated_at": "2022-10-30T13:14:04Z",
   "pushed_at": "2020-03-07T07:12:51Z",
   "git_url": "git://github.com/ChillingVan/AndroidInstantVideo.git",
   "ssh_url": "git@github.com:ChillingVan/AndroidInstantVideo.git",
@@ -73,15 +73,15 @@
   "svn_url": "https://github.com/ChillingVan/AndroidInstantVideo",
   "homepage": "",
   "size": 929,
-  "stargazers_count": 664,
-  "watchers_count": 664,
+  "stargazers_count": 665,
+  "watchers_count": 665,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
   "has_downloads": true,
   "has_wiki": true,
   "has_pages": false,
-  "forks_count": 185,
+  "forks_count": 186,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,9 +103,9 @@
     "video"
   ],
   "visibility": "public",
-  "forks": 185,
+  "forks": 186,
   "open_issues": 5,
-  "watchers": 664,
+  "watchers": 665,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1631
+  "_index": 1632
 }

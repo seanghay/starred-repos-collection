@@ -81,7 +81,7 @@
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": true,
-  "forks_count": 1136,
+  "forks_count": 1135,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,7 +108,7 @@
     "svg"
   ],
   "visibility": "public",
-  "forks": 1136,
+  "forks": 1135,
   "open_issues": 746,
   "watchers": 4156,
   "default_branch": "master",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2277
+  "_index": 2278
 }

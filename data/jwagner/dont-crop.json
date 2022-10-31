@@ -81,7 +81,7 @@
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": false,
-  "forks_count": 1,
+  "forks_count": 2,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,7 +104,7 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 1,
+  "forks": 2,
   "open_issues": 0,
   "watchers": 84,
   "default_branch": "main",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 390
+  "_index": 391
 }

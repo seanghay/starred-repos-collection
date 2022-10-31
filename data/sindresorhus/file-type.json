@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/file-type/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/file-type/deployments",
   "created_at": "2014-04-24T10:58:09Z",
-  "updated_at": "2022-10-28T07:41:40Z",
+  "updated_at": "2022-10-30T19:39:25Z",
   "pushed_at": "2022-08-24T19:44:27Z",
   "git_url": "git://github.com/sindresorhus/file-type.git",
   "ssh_url": "git@github.com:sindresorhus/file-type.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sindresorhus/file-type",
   "homepage": "",
   "size": 87051,
-  "stargazers_count": 2799,
-  "watchers_count": 2799,
+  "stargazers_count": 2800,
+  "watchers_count": 2800,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 290,
   "open_issues": 16,
-  "watchers": 2799,
+  "watchers": 2800,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 279
+  "_index": 280
 }

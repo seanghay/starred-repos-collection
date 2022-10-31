@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/orizens/ngx-infinite-scroll/releases{/id}",
   "deployments_url": "https://api.github.com/repos/orizens/ngx-infinite-scroll/deployments",
   "created_at": "2016-02-05T09:19:39Z",
-  "updated_at": "2022-10-23T19:08:39Z",
+  "updated_at": "2022-10-31T01:36:35Z",
   "pushed_at": "2022-08-27T19:35:31Z",
   "git_url": "git://github.com/orizens/ngx-infinite-scroll.git",
   "ssh_url": "git@github.com:orizens/ngx-infinite-scroll.git",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2275
+  "_index": 2276
 }

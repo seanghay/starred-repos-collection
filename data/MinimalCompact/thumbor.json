@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/MinimalCompact/thumbor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/MinimalCompact/thumbor/deployments",
   "created_at": "2018-07-01T19:40:19Z",
-  "updated_at": "2022-10-14T14:46:47Z",
+  "updated_at": "2022-10-30T19:41:35Z",
   "pushed_at": "2022-06-28T10:27:58Z",
   "git_url": "git://github.com/MinimalCompact/thumbor.git",
   "ssh_url": "git@github.com:MinimalCompact/thumbor.git",
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 418
+  "_index": 419
 }

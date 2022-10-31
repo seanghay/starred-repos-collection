@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/cefsharp/CefSharp.git",
   "svn_url": "https://github.com/cefsharp/CefSharp",
   "homepage": "http://cefsharp.github.io/",
-  "size": 284667,
+  "size": 284674,
   "stargazers_count": 9002,
   "watchers_count": 9002,
   "language": "C#",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2335
+  "_index": 2336
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fairyglade/ly/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fairyglade/ly/deployments",
   "created_at": "2017-05-23T18:02:53Z",
-  "updated_at": "2022-10-30T02:20:50Z",
+  "updated_at": "2022-10-31T03:05:14Z",
   "pushed_at": "2022-10-05T08:30:19Z",
   "git_url": "git://github.com/fairyglade/ly.git",
   "ssh_url": "git@github.com:fairyglade/ly.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/fairyglade/ly",
   "homepage": "",
   "size": 209,
-  "stargazers_count": 3401,
-  "watchers_count": 3401,
+  "stargazers_count": 3410,
+  "watchers_count": 3410,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -100,7 +100,7 @@
   "visibility": "public",
   "forks": 247,
   "open_issues": 113,
-  "watchers": 3401,
+  "watchers": 3410,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1253
+  "_index": 1254
 }

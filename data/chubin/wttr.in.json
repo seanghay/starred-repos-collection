@@ -65,27 +65,27 @@
   "releases_url": "https://api.github.com/repos/chubin/wttr.in/releases{/id}",
   "deployments_url": "https://api.github.com/repos/chubin/wttr.in/deployments",
   "created_at": "2015-12-26T21:03:43Z",
-  "updated_at": "2022-10-30T01:18:34Z",
-  "pushed_at": "2022-10-27T02:23:01Z",
+  "updated_at": "2022-10-30T18:48:38Z",
+  "pushed_at": "2022-10-30T19:55:28Z",
   "git_url": "git://github.com/chubin/wttr.in.git",
   "ssh_url": "git@github.com:chubin/wttr.in.git",
   "clone_url": "https://github.com/chubin/wttr.in.git",
   "svn_url": "https://github.com/chubin/wttr.in",
   "homepage": "https://wttr.in",
   "size": 1549,
-  "stargazers_count": 19695,
-  "watchers_count": 19695,
+  "stargazers_count": 19698,
+  "watchers_count": 19698,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
   "has_downloads": true,
   "has_wiki": true,
   "has_pages": false,
-  "forks_count": 944,
+  "forks_count": 945,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 211,
+  "open_issues_count": 213,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -110,9 +110,9 @@
     "weather-information"
   ],
   "visibility": "public",
-  "forks": 944,
-  "open_issues": 211,
-  "watchers": 19695,
+  "forks": 945,
+  "open_issues": 213,
+  "watchers": 19698,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 859
+  "_index": 860
 }

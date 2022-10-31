@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/domoritz/leaflet-locatecontrol.git",
   "svn_url": "https://github.com/domoritz/leaflet-locatecontrol",
   "homepage": "https://domoritz.github.io/leaflet-locatecontrol/demo/",
-  "size": 4277,
+  "size": 4286,
   "stargazers_count": 647,
   "watchers_count": 647,
   "language": "JavaScript",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 937
+  "_index": 938
 }
