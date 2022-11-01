@@ -81,11 +81,11 @@
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": false,
-  "forks_count": 497,
+  "forks_count": 498,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 568,
+  "open_issues_count": 567,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,8 +105,8 @@
     "vue"
   ],
   "visibility": "public",
-  "forks": 497,
-  "open_issues": 568,
+  "forks": 498,
+  "open_issues": 567,
   "watchers": 8355,
   "default_branch": "master",
   "permissions": {
