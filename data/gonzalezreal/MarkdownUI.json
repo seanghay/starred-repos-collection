@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/gonzalezreal/MarkdownUI/deployments",
   "created_at": "2020-12-03T11:39:17Z",
   "updated_at": "2022-10-31T14:34:23Z",
-  "pushed_at": "2022-10-30T19:13:10Z",
+  "pushed_at": "2022-11-01T20:13:04Z",
   "git_url": "git://github.com/gonzalezreal/MarkdownUI.git",
   "ssh_url": "git@github.com:gonzalezreal/MarkdownUI.git",
   "clone_url": "https://github.com/gonzalezreal/MarkdownUI.git",
   "svn_url": "https://github.com/gonzalezreal/MarkdownUI",
   "homepage": "",
-  "size": 16059,
+  "size": 16312,
   "stargazers_count": 845,
   "watchers_count": 845,
   "language": "Swift",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 978
+  "_index": 979
 }

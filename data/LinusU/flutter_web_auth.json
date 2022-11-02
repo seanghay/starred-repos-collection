@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/LinusU/flutter_web_auth/releases{/id}",
   "deployments_url": "https://api.github.com/repos/LinusU/flutter_web_auth/deployments",
   "created_at": "2019-03-15T15:27:00Z",
-  "updated_at": "2022-10-29T02:45:28Z",
-  "pushed_at": "2022-10-18T15:54:51Z",
+  "updated_at": "2022-11-01T10:55:20Z",
+  "pushed_at": "2022-11-01T10:17:18Z",
   "git_url": "git://github.com/LinusU/flutter_web_auth.git",
   "ssh_url": "git@github.com:LinusU/flutter_web_auth.git",
   "clone_url": "https://github.com/LinusU/flutter_web_auth.git",
   "svn_url": "https://github.com/LinusU/flutter_web_auth",
   "homepage": "",
-  "size": 9815,
-  "stargazers_count": 160,
-  "watchers_count": 160,
+  "size": 9819,
+  "stargazers_count": 162,
+  "watchers_count": 162,
   "language": "Dart",
   "has_issues": true,
   "has_projects": true,
@@ -85,7 +85,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 56,
+  "open_issues_count": 26,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,8 +104,8 @@
   ],
   "visibility": "public",
   "forks": 116,
-  "open_issues": 56,
-  "watchers": 160,
+  "open_issues": 26,
+  "watchers": 162,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 659
+  "_index": 660
 }

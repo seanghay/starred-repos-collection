@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wmonk/create-react-app-typescript/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wmonk/create-react-app-typescript/deployments",
   "created_at": "2016-12-10T18:34:32Z",
-  "updated_at": "2022-10-23T14:41:53Z",
+  "updated_at": "2022-11-01T03:33:10Z",
   "pushed_at": "2019-08-21T21:31:39Z",
   "git_url": "git://github.com/wmonk/create-react-app-typescript.git",
   "ssh_url": "git@github.com:wmonk/create-react-app-typescript.git",
@@ -73,15 +73,15 @@
   "svn_url": "https://github.com/wmonk/create-react-app-typescript",
   "homepage": "",
   "size": 5040,
-  "stargazers_count": 3740,
-  "watchers_count": 3740,
+  "stargazers_count": 3739,
+  "watchers_count": 3739,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
   "has_downloads": true,
   "has_wiki": true,
   "has_pages": false,
-  "forks_count": 509,
+  "forks_count": 510,
   "mirror_url": null,
   "archived": true,
   "disabled": false,
@@ -98,9 +98,9 @@
     "webpack"
   ],
   "visibility": "public",
-  "forks": 509,
+  "forks": 510,
   "open_issues": 119,
-  "watchers": 3740,
+  "watchers": 3739,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2302
+  "_index": 2303
 }

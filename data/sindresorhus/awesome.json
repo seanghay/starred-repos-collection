@@ -65,27 +65,27 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/awesome/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/awesome/deployments",
   "created_at": "2014-07-11T13:42:37Z",
-  "updated_at": "2022-11-01T03:26:40Z",
-  "pushed_at": "2022-10-29T12:48:41Z",
+  "updated_at": "2022-11-02T02:51:19Z",
+  "pushed_at": "2022-11-01T14:38:18Z",
   "git_url": "git://github.com/sindresorhus/awesome.git",
   "ssh_url": "git@github.com:sindresorhus/awesome.git",
   "clone_url": "https://github.com/sindresorhus/awesome.git",
   "svn_url": "https://github.com/sindresorhus/awesome",
   "homepage": "",
   "size": 1437,
-  "stargazers_count": 224321,
-  "watchers_count": 224321,
+  "stargazers_count": 224433,
+  "watchers_count": 224433,
   "language": null,
   "has_issues": true,
   "has_projects": false,
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": true,
-  "forks_count": 24375,
+  "forks_count": 24379,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 53,
+  "open_issues_count": 54,
   "license": {
     "key": "cc0-1.0",
     "name": "Creative Commons Zero v1.0 Universal",
@@ -104,9 +104,9 @@
     "unicorns"
   ],
   "visibility": "public",
-  "forks": 24375,
-  "open_issues": 53,
-  "watchers": 224321,
+  "forks": 24379,
+  "open_issues": 54,
+  "watchers": 224433,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 243
+  "_index": 244
 }

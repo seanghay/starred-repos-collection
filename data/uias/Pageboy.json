@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/uias/Pageboy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/uias/Pageboy/deployments",
   "created_at": "2017-01-04T10:38:00Z",
-  "updated_at": "2022-10-30T10:14:27Z",
+  "updated_at": "2022-11-01T09:20:00Z",
   "pushed_at": "2022-09-20T12:44:06Z",
   "git_url": "git://github.com/uias/Pageboy.git",
   "ssh_url": "git@github.com:uias/Pageboy.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/uias/Pageboy",
   "homepage": "",
   "size": 10085,
-  "stargazers_count": 1761,
-  "watchers_count": 1761,
+  "stargazers_count": 1762,
+  "watchers_count": 1762,
   "language": "Swift",
   "has_issues": true,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 133,
   "open_issues": 34,
-  "watchers": 1761,
+  "watchers": 1762,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 743
+  "_index": 744
 }

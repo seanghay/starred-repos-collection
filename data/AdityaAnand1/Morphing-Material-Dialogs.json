@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/AdityaAnand1/Morphing-Material-Dialogs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/AdityaAnand1/Morphing-Material-Dialogs/deployments",
   "created_at": "2017-08-12T12:03:04Z",
-  "updated_at": "2022-10-16T13:10:48Z",
+  "updated_at": "2022-11-01T15:21:42Z",
   "pushed_at": "2021-07-22T23:14:45Z",
   "git_url": "git://github.com/AdityaAnand1/Morphing-Material-Dialogs.git",
   "ssh_url": "git@github.com:AdityaAnand1/Morphing-Material-Dialogs.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/AdityaAnand1/Morphing-Material-Dialogs",
   "homepage": "https://adi.bio",
   "size": 7838,
-  "stargazers_count": 890,
-  "watchers_count": 890,
+  "stargazers_count": 891,
+  "watchers_count": 891,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 65,
   "open_issues": 6,
-  "watchers": 890,
+  "watchers": 891,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1408
+  "_index": 1409
 }

@@ -65,23 +65,23 @@
   "releases_url": "https://api.github.com/repos/nuxt/nuxt.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nuxt/nuxt.js/deployments",
   "created_at": "2016-10-26T11:18:47Z",
-  "updated_at": "2022-11-01T01:50:52Z",
-  "pushed_at": "2022-10-31T23:29:46Z",
+  "updated_at": "2022-11-02T03:16:14Z",
+  "pushed_at": "2022-11-02T00:09:19Z",
   "git_url": "git://github.com/nuxt/nuxt.js.git",
   "ssh_url": "git@github.com:nuxt/nuxt.js.git",
   "clone_url": "https://github.com/nuxt/nuxt.js.git",
   "svn_url": "https://github.com/nuxt/nuxt.js",
   "homepage": "https://nuxtjs.org",
-  "size": 45225,
-  "stargazers_count": 41528,
-  "watchers_count": 41528,
+  "size": 45313,
+  "stargazers_count": 41535,
+  "watchers_count": 41535,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
   "has_downloads": true,
   "has_wiki": true,
   "has_pages": false,
-  "forks_count": 3304,
+  "forks_count": 3305,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,9 +109,9 @@
     "web-app"
   ],
   "visibility": "public",
-  "forks": 3304,
+  "forks": 3305,
   "open_issues": 510,
-  "watchers": 41528,
+  "watchers": 41535,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 284
+  "_index": 285
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/RobotsAndPencils/XcodesApp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/RobotsAndPencils/XcodesApp/deployments",
   "created_at": "2020-11-25T03:51:02Z",
-  "updated_at": "2022-11-01T02:33:32Z",
+  "updated_at": "2022-11-02T02:17:12Z",
   "pushed_at": "2022-10-31T17:35:18Z",
   "git_url": "git://github.com/RobotsAndPencils/XcodesApp.git",
   "ssh_url": "git@github.com:RobotsAndPencils/XcodesApp.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/RobotsAndPencils/XcodesApp",
   "homepage": "",
   "size": 8843,
-  "stargazers_count": 4228,
-  "watchers_count": 4228,
+  "stargazers_count": 4238,
+  "watchers_count": 4238,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -85,7 +85,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 55,
+  "open_issues_count": 56,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 172,
-  "open_issues": 55,
-  "watchers": 4228,
+  "open_issues": 56,
+  "watchers": 4238,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 915
+  "_index": 916
 }

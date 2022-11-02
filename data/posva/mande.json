@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/posva/mande/deployments",
   "created_at": "2020-05-17T19:40:26Z",
   "updated_at": "2022-10-29T06:53:37Z",
-  "pushed_at": "2022-10-31T20:22:12Z",
+  "pushed_at": "2022-11-01T05:44:54Z",
   "git_url": "git://github.com/posva/mande.git",
   "ssh_url": "git@github.com:posva/mande.git",
   "clone_url": "https://github.com/posva/mande.git",
@@ -81,7 +81,7 @@
   "has_downloads": true,
   "has_wiki": true,
   "has_pages": true,
-  "forks_count": 28,
+  "forks_count": 29,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "promise"
   ],
   "visibility": "public",
-  "forks": 28,
+  "forks": 29,
   "open_issues": 9,
   "watchers": 709,
   "default_branch": "main",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 771
+  "_index": 772
 }

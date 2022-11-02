@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/willowtreeapps/Hyperion-Android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/willowtreeapps/Hyperion-Android/deployments",
   "created_at": "2017-05-26T18:14:51Z",
-  "updated_at": "2022-10-19T02:51:45Z",
-  "pushed_at": "2022-10-27T21:23:08Z",
+  "updated_at": "2022-11-01T11:33:58Z",
+  "pushed_at": "2022-11-01T23:49:56Z",
   "git_url": "git://github.com/willowtreeapps/Hyperion-Android.git",
   "ssh_url": "git@github.com:willowtreeapps/Hyperion-Android.git",
   "clone_url": "https://github.com/willowtreeapps/Hyperion-Android.git",
   "svn_url": "https://github.com/willowtreeapps/Hyperion-Android",
   "homepage": "",
-  "size": 1337,
-  "stargazers_count": 1840,
-  "watchers_count": 1840,
+  "size": 1339,
+  "stargazers_count": 1841,
+  "watchers_count": 1841,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -85,7 +85,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 57,
+  "open_issues_count": 56,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,8 +109,8 @@
   ],
   "visibility": "public",
   "forks": 135,
-  "open_issues": 57,
-  "watchers": 1840,
+  "open_issues": 56,
+  "watchers": 1841,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 877
+  "_index": 878
 }

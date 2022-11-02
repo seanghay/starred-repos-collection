@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/noppefoxwolf/DebugMenu/releases{/id}",
   "deployments_url": "https://api.github.com/repos/noppefoxwolf/DebugMenu/deployments",
   "created_at": "2020-12-06T15:06:04Z",
-  "updated_at": "2022-09-28T15:51:45Z",
+  "updated_at": "2022-11-01T04:00:51Z",
   "pushed_at": "2022-07-09T07:34:29Z",
   "git_url": "git://github.com/noppefoxwolf/DebugMenu.git",
   "ssh_url": "git@github.com:noppefoxwolf/DebugMenu.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/noppefoxwolf/DebugMenu",
   "homepage": null,
   "size": 10176,
-  "stargazers_count": 93,
-  "watchers_count": 93,
+  "stargazers_count": 94,
+  "watchers_count": 94,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -100,7 +100,7 @@
   "visibility": "public",
   "forks": 5,
   "open_issues": 0,
-  "watchers": 93,
+  "watchers": 94,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 683
+  "_index": 684
 }

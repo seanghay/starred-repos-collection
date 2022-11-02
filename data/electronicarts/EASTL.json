@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/electronicarts/EASTL/releases{/id}",
   "deployments_url": "https://api.github.com/repos/electronicarts/EASTL/deployments",
   "created_at": "2015-12-15T21:04:13Z",
-  "updated_at": "2022-10-31T08:29:17Z",
+  "updated_at": "2022-11-02T02:41:19Z",
   "pushed_at": "2022-10-25T15:30:22Z",
   "git_url": "git://github.com/electronicarts/EASTL.git",
   "ssh_url": "git@github.com:electronicarts/EASTL.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/electronicarts/EASTL",
   "homepage": "",
   "size": 4138,
-  "stargazers_count": 6752,
-  "watchers_count": 6752,
+  "stargazers_count": 6756,
+  "watchers_count": 6756,
   "language": "C++",
   "has_issues": true,
   "has_projects": false,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 803,
   "open_issues": 72,
-  "watchers": 6752,
+  "watchers": 6756,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1884
+  "_index": 1885
 }

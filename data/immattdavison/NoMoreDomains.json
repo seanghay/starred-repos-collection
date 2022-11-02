@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/immattdavison/NoMoreDomains/deployments",
   "created_at": "2022-09-21T14:33:41Z",
   "updated_at": "2022-10-31T20:38:43Z",
-  "pushed_at": "2022-10-31T22:58:21Z",
+  "pushed_at": "2022-11-01T16:39:26Z",
   "git_url": "git://github.com/immattdavison/NoMoreDomains.git",
   "ssh_url": "git@github.com:immattdavison/NoMoreDomains.git",
   "clone_url": "https://github.com/immattdavison/NoMoreDomains.git",
   "svn_url": "https://github.com/immattdavison/NoMoreDomains",
   "homepage": "",
-  "size": 251,
+  "size": 256,
   "stargazers_count": 58,
   "watchers_count": 58,
   "language": "JavaScript",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 54
+  "_index": 55
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ponchio/untrunc/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ponchio/untrunc/deployments",
   "created_at": "2013-05-16T19:04:43Z",
-  "updated_at": "2022-11-01T00:59:54Z",
+  "updated_at": "2022-11-01T04:14:00Z",
   "pushed_at": "2022-10-28T13:55:54Z",
   "git_url": "git://github.com/ponchio/untrunc.git",
   "ssh_url": "git@github.com:ponchio/untrunc.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ponchio/untrunc",
   "homepage": null,
   "size": 311,
-  "stargazers_count": 1214,
-  "watchers_count": 1214,
+  "stargazers_count": 1215,
+  "watchers_count": 1215,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -100,7 +100,7 @@
   "visibility": "public",
   "forks": 197,
   "open_issues": 151,
-  "watchers": 1214,
+  "watchers": 1215,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1206
+  "_index": 1207
 }

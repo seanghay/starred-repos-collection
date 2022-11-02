@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/vuejs/vue-cli/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vuejs/vue-cli/deployments",
   "created_at": "2015-12-26T23:11:20Z",
-  "updated_at": "2022-11-01T03:11:17Z",
+  "updated_at": "2022-11-01T10:23:41Z",
   "pushed_at": "2022-10-28T19:10:14Z",
   "git_url": "git://github.com/vuejs/vue-cli.git",
   "ssh_url": "git@github.com:vuejs/vue-cli.git",
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2232
+  "_index": 2233
 }

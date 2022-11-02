@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ye-kyaw-thu/khPOS/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ye-kyaw-thu/khPOS/deployments",
   "created_at": "2017-12-06T00:42:19Z",
-  "updated_at": "2022-10-24T13:17:17Z",
+  "updated_at": "2022-11-02T03:13:14Z",
   "pushed_at": "2022-05-13T05:43:20Z",
   "git_url": "git://github.com/ye-kyaw-thu/khPOS.git",
   "ssh_url": "git@github.com:ye-kyaw-thu/khPOS.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ye-kyaw-thu/khPOS",
   "homepage": null,
   "size": 48211,
-  "stargazers_count": 13,
-  "watchers_count": 13,
+  "stargazers_count": 14,
+  "watchers_count": 14,
   "language": "Perl",
   "has_issues": true,
   "has_projects": true,
@@ -94,7 +94,7 @@
   "visibility": "public",
   "forks": 6,
   "open_issues": 0,
-  "watchers": 13,
+  "watchers": 14,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -103,5 +103,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 21
+  "_index": 22
 }

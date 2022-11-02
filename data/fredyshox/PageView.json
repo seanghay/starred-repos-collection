@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fredyshox/PageView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fredyshox/PageView/deployments",
   "created_at": "2020-02-09T00:31:06Z",
-  "updated_at": "2022-10-27T06:35:39Z",
+  "updated_at": "2022-11-01T06:21:12Z",
   "pushed_at": "2022-04-28T13:32:23Z",
   "git_url": "git://github.com/fredyshox/PageView.git",
   "ssh_url": "git@github.com:fredyshox/PageView.git",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 649
+  "_index": 650
 }

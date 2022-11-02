@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/JakeWharton/butterknife/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JakeWharton/butterknife/deployments",
   "created_at": "2013-03-05T08:18:59Z",
-  "updated_at": "2022-10-30T11:09:04Z",
+  "updated_at": "2022-11-01T06:11:27Z",
   "pushed_at": "2022-03-08T16:26:04Z",
   "git_url": "git://github.com/JakeWharton/butterknife.git",
   "ssh_url": "git@github.com:JakeWharton/butterknife.git",
@@ -73,15 +73,15 @@
   "svn_url": "https://github.com/JakeWharton/butterknife",
   "homepage": "http://jakewharton.github.io/butterknife/",
   "size": 3909,
-  "stargazers_count": 25678,
-  "watchers_count": 25678,
+  "stargazers_count": 25681,
+  "watchers_count": 25681,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": true,
-  "forks_count": 4695,
+  "forks_count": 4696,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -98,9 +98,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 4695,
+  "forks": 4696,
   "open_issues": 115,
-  "watchers": 25678,
+  "watchers": 25681,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1369
+  "_index": 1370
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/bevacqua/hash-sum/deployments",
   "created_at": "2015-07-14T17:55:54Z",
   "updated_at": "2022-10-28T01:21:56Z",
-  "pushed_at": "2022-08-05T22:51:47Z",
+  "pushed_at": "2022-11-01T20:17:34Z",
   "git_url": "git://github.com/bevacqua/hash-sum.git",
   "ssh_url": "git@github.com:bevacqua/hash-sum.git",
   "clone_url": "https://github.com/bevacqua/hash-sum.git",
   "svn_url": "https://github.com/bevacqua/hash-sum",
   "homepage": "https://ponyfoo.com",
-  "size": 17,
+  "size": 30,
   "stargazers_count": 271,
   "watchers_count": 271,
   "language": "JavaScript",
@@ -85,7 +85,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 6,
+  "open_issues_count": 7,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -99,7 +99,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 22,
-  "open_issues": 6,
+  "open_issues": 7,
   "watchers": 271,
   "default_branch": "master",
   "permissions": {
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 150
+  "_index": 151
 }

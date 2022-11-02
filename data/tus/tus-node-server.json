@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/tus/tus-node-server/deployments",
   "created_at": "2015-10-08T16:23:03Z",
   "updated_at": "2022-10-22T03:59:56Z",
-  "pushed_at": "2022-11-01T03:01:14Z",
+  "pushed_at": "2022-11-01T17:33:32Z",
   "git_url": "git://github.com/tus/tus-node-server.git",
   "ssh_url": "git@github.com:tus/tus-node-server.git",
   "clone_url": "https://github.com/tus/tus-node-server.git",
   "svn_url": "https://github.com/tus/tus-node-server",
   "homepage": "https://tus.io/",
-  "size": 37389,
+  "size": 37948,
   "stargazers_count": 516,
   "watchers_count": 516,
   "language": "JavaScript",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 987
+  "_index": 988
 }

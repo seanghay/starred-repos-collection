@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/elastic/logstash/releases{/id}",
   "deployments_url": "https://api.github.com/repos/elastic/logstash/deployments",
   "created_at": "2010-11-18T01:31:50Z",
-  "updated_at": "2022-10-31T15:00:54Z",
-  "pushed_at": "2022-10-31T17:44:48Z",
+  "updated_at": "2022-11-01T16:22:21Z",
+  "pushed_at": "2022-11-01T23:01:15Z",
   "git_url": "git://github.com/elastic/logstash.git",
   "ssh_url": "git@github.com:elastic/logstash.git",
   "clone_url": "https://github.com/elastic/logstash.git",
   "svn_url": "https://github.com/elastic/logstash",
   "homepage": "https://www.elastic.co/products/logstash",
-  "size": 122286,
-  "stargazers_count": 13123,
-  "watchers_count": 13123,
+  "size": 122310,
+  "stargazers_count": 13127,
+  "watchers_count": 13127,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -85,7 +85,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1968,
+  "open_issues_count": 1969,
   "license": {
     "key": "other",
     "name": "Other",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 3370,
-  "open_issues": 1968,
-  "watchers": 13123,
+  "open_issues": 1969,
+  "watchers": 13127,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 920
+  "_index": 921
 }

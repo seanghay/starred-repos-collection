@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/clauderic/dnd-kit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/clauderic/dnd-kit/deployments",
   "created_at": "2020-11-26T00:46:52Z",
-  "updated_at": "2022-10-31T16:04:40Z",
+  "updated_at": "2022-11-02T02:53:12Z",
   "pushed_at": "2022-10-31T09:57:44Z",
   "git_url": "git://github.com/clauderic/dnd-kit.git",
   "ssh_url": "git@github.com:clauderic/dnd-kit.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/clauderic/dnd-kit",
   "homepage": "http://dndkit.com",
   "size": 5981,
-  "stargazers_count": 5978,
-  "watchers_count": 5978,
+  "stargazers_count": 5988,
+  "watchers_count": 5988,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 314,
   "open_issues": 169,
-  "watchers": 5978,
+  "watchers": 5988,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 139
+  "_index": 140
 }

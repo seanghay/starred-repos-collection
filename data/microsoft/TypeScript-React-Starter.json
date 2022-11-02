@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/microsoft/TypeScript-React-Starter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microsoft/TypeScript-React-Starter/deployments",
   "created_at": "2017-05-09T19:54:45Z",
-  "updated_at": "2022-10-30T08:32:41Z",
+  "updated_at": "2022-11-01T23:22:46Z",
   "pushed_at": "2019-08-23T00:06:50Z",
   "git_url": "git://github.com/microsoft/TypeScript-React-Starter.git",
   "ssh_url": "git@github.com:microsoft/TypeScript-React-Starter.git",
@@ -81,7 +81,7 @@
   "has_downloads": true,
   "has_wiki": true,
   "has_pages": false,
-  "forks_count": 1210,
+  "forks_count": 1211,
   "mirror_url": null,
   "archived": true,
   "disabled": false,
@@ -98,7 +98,7 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 1210,
+  "forks": 1211,
   "open_issues": 200,
   "watchers": 11001,
   "default_branch": "master",
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2314
+  "_index": 2315
 }

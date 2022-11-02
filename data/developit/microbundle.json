@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/developit/microbundle/releases{/id}",
   "deployments_url": "https://api.github.com/repos/developit/microbundle/deployments",
   "created_at": "2017-12-11T21:51:02Z",
-  "updated_at": "2022-10-31T12:32:25Z",
+  "updated_at": "2022-11-02T02:25:44Z",
   "pushed_at": "2022-09-18T07:28:29Z",
   "git_url": "git://github.com/developit/microbundle.git",
   "ssh_url": "git@github.com:developit/microbundle.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/developit/microbundle",
   "homepage": "https://npm.im/microbundle",
   "size": 2078,
-  "stargazers_count": 7322,
-  "watchers_count": 7322,
+  "stargazers_count": 7324,
+  "watchers_count": 7324,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -85,7 +85,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 77,
+  "open_issues_count": 76,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 376,
-  "open_issues": 77,
-  "watchers": 7322,
+  "open_issues": 76,
+  "watchers": 7324,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1100
+  "_index": 1101
 }

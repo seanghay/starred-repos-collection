@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/unjs/ipx/deployments",
   "created_at": "2017-12-10T10:04:59Z",
   "updated_at": "2022-11-01T03:02:23Z",
-  "pushed_at": "2022-10-31T11:52:36Z",
+  "pushed_at": "2022-11-01T21:29:43Z",
   "git_url": "git://github.com/unjs/ipx.git",
   "ssh_url": "git@github.com:unjs/ipx.git",
   "clone_url": "https://github.com/unjs/ipx.git",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 456
+  "_index": 457
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/divan/txqr/releases{/id}",
   "deployments_url": "https://api.github.com/repos/divan/txqr/deployments",
   "created_at": "2018-11-11T17:58:15Z",
-  "updated_at": "2022-10-31T22:47:26Z",
+  "updated_at": "2022-11-02T01:16:21Z",
   "pushed_at": "2019-01-10T10:45:20Z",
   "git_url": "git://github.com/divan/txqr.git",
   "ssh_url": "git@github.com:divan/txqr.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/divan/txqr",
   "homepage": null,
   "size": 15930,
-  "stargazers_count": 2749,
-  "watchers_count": 2749,
+  "stargazers_count": 2751,
+  "watchers_count": 2751,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -100,7 +100,7 @@
   "visibility": "public",
   "forks": 159,
   "open_issues": 11,
-  "watchers": 2749,
+  "watchers": 2751,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1604
+  "_index": 1605
 }
