@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/execa/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/execa/deployments",
   "created_at": "2015-12-05T22:57:03Z",
-  "updated_at": "2022-11-01T17:07:13Z",
+  "updated_at": "2022-11-02T22:08:27Z",
   "pushed_at": "2022-08-07T19:09:40Z",
   "git_url": "git://github.com/sindresorhus/execa.git",
   "ssh_url": "git@github.com:sindresorhus/execa.git",
@@ -73,15 +73,15 @@
   "svn_url": "https://github.com/sindresorhus/execa",
   "homepage": "",
   "size": 486,
-  "stargazers_count": 4963,
-  "watchers_count": 4963,
+  "stargazers_count": 4965,
+  "watchers_count": 4965,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": false,
-  "forks_count": 193,
+  "forks_count": 194,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,9 +109,9 @@
     "streams"
   ],
   "visibility": "public",
-  "forks": 193,
+  "forks": 194,
   "open_issues": 29,
-  "watchers": 4963,
+  "watchers": 4965,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 442
+  "_index": 443
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Redocly/redoc/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Redocly/redoc/deployments",
   "created_at": "2015-10-30T12:53:02Z",
-  "updated_at": "2022-11-02T02:21:42Z",
+  "updated_at": "2022-11-02T10:13:33Z",
   "pushed_at": "2022-10-31T18:46:02Z",
   "git_url": "git://github.com/Redocly/redoc.git",
   "ssh_url": "git@github.com:Redocly/redoc.git",
@@ -73,15 +73,15 @@
   "svn_url": "https://github.com/Redocly/redoc",
   "homepage": "https://redocly.github.io/redoc/",
   "size": 54550,
-  "stargazers_count": 18794,
-  "watchers_count": 18794,
+  "stargazers_count": 18798,
+  "watchers_count": 18798,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": true,
-  "forks_count": 2042,
+  "forks_count": 2043,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,9 +110,9 @@
     "swagger"
   ],
   "visibility": "public",
-  "forks": 2042,
+  "forks": 2043,
   "open_issues": 383,
-  "watchers": 18794,
+  "watchers": 18798,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 84
+  "_index": 85
 }

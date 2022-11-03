@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/LinusU/flutter_web_auth/deployments",
   "created_at": "2019-03-15T15:27:00Z",
   "updated_at": "2022-11-01T10:55:20Z",
-  "pushed_at": "2022-11-01T10:17:18Z",
+  "pushed_at": "2022-11-02T16:17:46Z",
   "git_url": "git://github.com/LinusU/flutter_web_auth.git",
   "ssh_url": "git@github.com:LinusU/flutter_web_auth.git",
   "clone_url": "https://github.com/LinusU/flutter_web_auth.git",
   "svn_url": "https://github.com/LinusU/flutter_web_auth",
   "homepage": "",
-  "size": 9819,
+  "size": 9833,
   "stargazers_count": 162,
   "watchers_count": 162,
   "language": "Dart",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 660
+  "_index": 661
 }

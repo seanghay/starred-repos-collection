@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Tencent/PatrickStar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Tencent/PatrickStar/deployments",
   "created_at": "2021-04-02T09:17:36Z",
-  "updated_at": "2022-11-01T08:12:07Z",
+  "updated_at": "2022-11-02T09:22:02Z",
   "pushed_at": "2022-06-17T09:38:21Z",
   "git_url": "git://github.com/Tencent/PatrickStar.git",
   "ssh_url": "git@github.com:Tencent/PatrickStar.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Tencent/PatrickStar",
   "homepage": "",
   "size": 3608,
-  "stargazers_count": 623,
-  "watchers_count": 623,
+  "stargazers_count": 624,
+  "watchers_count": 624,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 53,
   "open_issues": 7,
-  "watchers": 623,
+  "watchers": 624,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 524
+  "_index": 525
 }

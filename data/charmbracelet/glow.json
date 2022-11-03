@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/charmbracelet/glow/releases{/id}",
   "deployments_url": "https://api.github.com/repos/charmbracelet/glow/deployments",
   "created_at": "2019-11-04T23:34:55Z",
-  "updated_at": "2022-11-02T02:48:33Z",
+  "updated_at": "2022-11-03T01:11:12Z",
   "pushed_at": "2022-11-01T02:04:35Z",
   "git_url": "git://github.com/charmbracelet/glow.git",
   "ssh_url": "git@github.com:charmbracelet/glow.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/charmbracelet/glow",
   "homepage": "",
   "size": 2744,
-  "stargazers_count": 10425,
-  "watchers_count": 10425,
+  "stargazers_count": 10433,
+  "watchers_count": 10433,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 218,
   "open_issues": 77,
-  "watchers": 10425,
+  "watchers": 10433,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1063
+  "_index": 1064
 }

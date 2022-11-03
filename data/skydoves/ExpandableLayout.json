@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/skydoves/ExpandableLayout/releases{/id}",
   "deployments_url": "https://api.github.com/repos/skydoves/ExpandableLayout/deployments",
   "created_at": "2019-09-29T07:56:22Z",
-  "updated_at": "2022-10-26T14:25:38Z",
+  "updated_at": "2022-11-02T06:31:02Z",
   "pushed_at": "2021-05-12T14:16:24Z",
   "git_url": "git://github.com/skydoves/ExpandableLayout.git",
   "ssh_url": "git@github.com:skydoves/ExpandableLayout.git",
@@ -73,15 +73,15 @@
   "svn_url": "https://github.com/skydoves/ExpandableLayout",
   "homepage": "",
   "size": 374,
-  "stargazers_count": 705,
-  "watchers_count": 705,
+  "stargazers_count": 706,
+  "watchers_count": 706,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": false,
-  "forks_count": 51,
+  "forks_count": 52,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "skydoves"
   ],
   "visibility": "public",
-  "forks": 51,
+  "forks": 52,
   "open_issues": 12,
-  "watchers": 705,
+  "watchers": 706,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1767
+  "_index": 1768
 }

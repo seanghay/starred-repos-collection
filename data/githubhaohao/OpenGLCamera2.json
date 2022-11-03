@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/githubhaohao/OpenGLCamera2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/githubhaohao/OpenGLCamera2/deployments",
   "created_at": "2019-10-22T09:15:28Z",
-  "updated_at": "2022-11-01T07:24:56Z",
+  "updated_at": "2022-11-03T02:23:10Z",
   "pushed_at": "2022-06-29T10:18:43Z",
   "git_url": "git://github.com/githubhaohao/OpenGLCamera2.git",
   "ssh_url": "git@github.com:githubhaohao/OpenGLCamera2.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/githubhaohao/OpenGLCamera2",
   "homepage": "",
   "size": 97332,
-  "stargazers_count": 772,
-  "watchers_count": 772,
+  "stargazers_count": 775,
+  "watchers_count": 775,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 174,
   "open_issues": 4,
-  "watchers": 772,
+  "watchers": 775,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 805
+  "_index": 806
 }

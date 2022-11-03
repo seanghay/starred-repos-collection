@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/charliegerard/safe-space/releases{/id}",
   "deployments_url": "https://api.github.com/repos/charliegerard/safe-space/deployments",
   "created_at": "2020-08-16T12:56:36Z",
-  "updated_at": "2022-10-14T12:30:58Z",
+  "updated_at": "2022-11-02T09:52:35Z",
   "pushed_at": "2021-06-24T16:59:05Z",
   "git_url": "git://github.com/charliegerard/safe-space.git",
   "ssh_url": "git@github.com:charliegerard/safe-space.git",
@@ -73,15 +73,15 @@
   "svn_url": "https://github.com/charliegerard/safe-space",
   "homepage": "",
   "size": 19267,
-  "stargazers_count": 463,
-  "watchers_count": 463,
+  "stargazers_count": 464,
+  "watchers_count": 464,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
   "has_downloads": true,
   "has_wiki": true,
   "has_pages": false,
-  "forks_count": 14,
+  "forks_count": 13,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "tfjs"
   ],
   "visibility": "public",
-  "forks": 14,
+  "forks": 13,
   "open_issues": 4,
-  "watchers": 463,
+  "watchers": 464,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1112
+  "_index": 1113
 }

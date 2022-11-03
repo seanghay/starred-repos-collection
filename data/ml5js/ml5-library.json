@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ml5js/ml5-library/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ml5js/ml5-library/deployments",
   "created_at": "2017-10-03T20:45:07Z",
-  "updated_at": "2022-10-31T23:56:09Z",
+  "updated_at": "2022-11-03T02:00:02Z",
   "pushed_at": "2022-10-29T10:12:33Z",
   "git_url": "git://github.com/ml5js/ml5-library.git",
   "ssh_url": "git@github.com:ml5js/ml5-library.git",
@@ -73,15 +73,15 @@
   "svn_url": "https://github.com/ml5js/ml5-library",
   "homepage": "https://ml5js.org",
   "size": 381315,
-  "stargazers_count": 5791,
-  "watchers_count": 5791,
+  "stargazers_count": 5795,
+  "watchers_count": 5795,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
   "has_downloads": true,
   "has_wiki": true,
   "has_pages": false,
-  "forks_count": 819,
+  "forks_count": 822,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "p5xjs"
   ],
   "visibility": "public",
-  "forks": 819,
+  "forks": 822,
   "open_issues": 272,
-  "watchers": 5791,
+  "watchers": 5795,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2195
+  "_index": 2196
 }

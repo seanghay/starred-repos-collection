@@ -81,11 +81,11 @@
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": true,
-  "forks_count": 800,
+  "forks_count": 799,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 33,
+  "open_issues_count": 32,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -98,8 +98,8 @@
     "williamchart"
   ],
   "visibility": "public",
-  "forks": 800,
-  "open_issues": 33,
+  "forks": 799,
+  "open_issues": 32,
   "watchers": 4911,
   "default_branch": "master",
   "permissions": {
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 636
+  "_index": 637
 }

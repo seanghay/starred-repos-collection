@@ -65,23 +65,23 @@
   "releases_url": "https://api.github.com/repos/codex-team/editor.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/codex-team/editor.js/deployments",
   "created_at": "2015-11-28T20:56:35Z",
-  "updated_at": "2022-11-02T02:49:03Z",
-  "pushed_at": "2022-11-01T17:27:14Z",
+  "updated_at": "2022-11-03T02:37:07Z",
+  "pushed_at": "2022-11-02T11:55:24Z",
   "git_url": "git://github.com/codex-team/editor.js.git",
   "ssh_url": "git@github.com:codex-team/editor.js.git",
   "clone_url": "https://github.com/codex-team/editor.js.git",
   "svn_url": "https://github.com/codex-team/editor.js",
   "homepage": "https://editorjs.io",
-  "size": 16685,
-  "stargazers_count": 20560,
-  "watchers_count": 20560,
+  "size": 16687,
+  "stargazers_count": 20577,
+  "watchers_count": 20577,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": false,
-  "forks_count": 1609,
+  "forks_count": 1610,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,9 +108,9 @@
     "wysiwyg"
   ],
   "visibility": "public",
-  "forks": 1609,
+  "forks": 1610,
   "open_issues": 459,
-  "watchers": 20560,
+  "watchers": 20577,
   "default_branch": "next",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1957
+  "_index": 1958
 }

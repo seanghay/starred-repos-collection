@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/electron-userland/electron-builder/releases{/id}",
   "deployments_url": "https://api.github.com/repos/electron-userland/electron-builder/deployments",
   "created_at": "2015-05-21T07:45:02Z",
-  "updated_at": "2022-11-02T00:39:32Z",
-  "pushed_at": "2022-11-02T00:22:43Z",
+  "updated_at": "2022-11-02T03:25:01Z",
+  "pushed_at": "2022-11-03T02:10:06Z",
   "git_url": "git://github.com/electron-userland/electron-builder.git",
   "ssh_url": "git@github.com:electron-userland/electron-builder.git",
   "clone_url": "https://github.com/electron-userland/electron-builder.git",
   "svn_url": "https://github.com/electron-userland/electron-builder",
   "homepage": "https://www.electron.build",
-  "size": 132523,
+  "size": 132621,
   "stargazers_count": 12388,
   "watchers_count": 12388,
   "language": "TypeScript",
@@ -81,11 +81,11 @@
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": false,
-  "forks_count": 1597,
+  "forks_count": 1598,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 298,
+  "open_issues_count": 296,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -119,8 +119,8 @@
     "squirrel"
   ],
   "visibility": "public",
-  "forks": 1597,
-  "open_issues": 298,
+  "forks": 1598,
+  "open_issues": 296,
   "watchers": 12388,
   "default_branch": "master",
   "permissions": {
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 570
+  "_index": 571
 }

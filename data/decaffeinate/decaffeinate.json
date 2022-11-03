@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/decaffeinate/decaffeinate.git",
   "svn_url": "https://github.com/decaffeinate/decaffeinate",
   "homepage": "https://decaffeinate-project.org/",
-  "size": 9915,
+  "size": 9910,
   "stargazers_count": 2688,
   "watchers_count": 2688,
   "language": "TypeScript",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 198
+  "_index": 199
 }

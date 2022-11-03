@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/parcel-bundler/watcher.git",
   "svn_url": "https://github.com/parcel-bundler/watcher",
   "homepage": "",
-  "size": 2037,
+  "size": 2065,
   "stargazers_count": 393,
   "watchers_count": 393,
   "language": "C++",
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 586
+  "_index": 587
 }

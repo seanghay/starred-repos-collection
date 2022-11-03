@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/google/ksp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/ksp/deployments",
   "created_at": "2020-09-22T18:59:42Z",
-  "updated_at": "2022-11-01T08:22:55Z",
-  "pushed_at": "2022-11-01T20:51:49Z",
+  "updated_at": "2022-11-02T21:29:48Z",
+  "pushed_at": "2022-11-03T02:06:43Z",
   "git_url": "git://github.com/google/ksp.git",
   "ssh_url": "git@github.com:google/ksp.git",
   "clone_url": "https://github.com/google/ksp.git",
   "svn_url": "https://github.com/google/ksp",
   "homepage": "https://github.com/google/ksp",
-  "size": 20046,
-  "stargazers_count": 1850,
-  "watchers_count": 1850,
+  "size": 20060,
+  "stargazers_count": 1852,
+  "watchers_count": 1852,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -85,7 +85,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 174,
+  "open_issues_count": 167,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,8 +99,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 177,
-  "open_issues": 174,
-  "watchers": 1850,
+  "open_issues": 167,
+  "watchers": 1852,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 967
+  "_index": 968
 }

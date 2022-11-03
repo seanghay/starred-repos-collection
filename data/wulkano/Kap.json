@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wulkano/Kap/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wulkano/Kap/deployments",
   "created_at": "2016-08-10T19:37:08Z",
-  "updated_at": "2022-11-02T01:41:33Z",
+  "updated_at": "2022-11-02T22:34:17Z",
   "pushed_at": "2022-10-27T19:11:38Z",
   "git_url": "git://github.com/wulkano/Kap.git",
   "ssh_url": "git@github.com:wulkano/Kap.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wulkano/Kap",
   "homepage": "https://getkap.co",
   "size": 24604,
-  "stargazers_count": 15791,
-  "watchers_count": 15791,
+  "stargazers_count": 15795,
+  "watchers_count": 15795,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -85,7 +85,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 172,
+  "open_issues_count": 173,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -115,8 +115,8 @@
   ],
   "visibility": "public",
   "forks": 786,
-  "open_issues": 172,
-  "watchers": 15791,
+  "open_issues": 173,
+  "watchers": 15795,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 966
+  "_index": 967
 }

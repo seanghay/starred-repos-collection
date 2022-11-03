@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/zxing/zxing/releases{/id}",
   "deployments_url": "https://api.github.com/repos/zxing/zxing/deployments",
   "created_at": "2011-10-12T14:07:27Z",
-  "updated_at": "2022-11-02T02:37:19Z",
-  "pushed_at": "2022-11-02T03:12:53Z",
+  "updated_at": "2022-11-03T00:41:54Z",
+  "pushed_at": "2022-11-02T03:20:08Z",
   "git_url": "git://github.com/zxing/zxing.git",
   "ssh_url": "git@github.com:zxing/zxing.git",
   "clone_url": "https://github.com/zxing/zxing.git",
   "svn_url": "https://github.com/zxing/zxing",
   "homepage": "",
-  "size": 241223,
-  "stargazers_count": 30339,
-  "watchers_count": 30339,
+  "size": 241439,
+  "stargazers_count": 30344,
+  "watchers_count": 30344,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 9259,
   "open_issues": 6,
-  "watchers": 30339,
+  "watchers": 30344,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1743
+  "_index": 1744
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/7thSamurai/steganography/releases{/id}",
   "deployments_url": "https://api.github.com/repos/7thSamurai/steganography/deployments",
   "created_at": "2022-10-18T18:40:17Z",
-  "updated_at": "2022-11-01T19:26:01Z",
+  "updated_at": "2022-11-02T22:57:58Z",
   "pushed_at": "2022-10-29T20:06:44Z",
   "git_url": "git://github.com/7thSamurai/steganography.git",
   "ssh_url": "git@github.com:7thSamurai/steganography.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/7thSamurai/steganography",
   "homepage": "",
   "size": 1233,
-  "stargazers_count": 611,
-  "watchers_count": 611,
+  "stargazers_count": 619,
+  "watchers_count": 619,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 26,
   "open_issues": 0,
-  "watchers": 611,
+  "watchers": 619,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 6
+  "_index": 7
 }

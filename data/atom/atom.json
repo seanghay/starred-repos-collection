@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/atom/atom/releases{/id}",
   "deployments_url": "https://api.github.com/repos/atom/atom/deployments",
   "created_at": "2012-01-20T18:18:21Z",
-  "updated_at": "2022-11-02T01:05:09Z",
+  "updated_at": "2022-11-02T23:13:23Z",
   "pushed_at": "2022-11-01T21:14:41Z",
   "git_url": "git://github.com/atom/atom.git",
   "ssh_url": "git@github.com:atom/atom.git",
@@ -73,15 +73,15 @@
   "svn_url": "https://github.com/atom/atom",
   "homepage": "https://atom.io",
   "size": 330247,
-  "stargazers_count": 58653,
-  "watchers_count": 58653,
+  "stargazers_count": 58656,
+  "watchers_count": 58656,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": false,
-  "forks_count": 18033,
+  "forks_count": 18038,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,9 +106,9 @@
     "windows"
   ],
   "visibility": "public",
-  "forks": 18033,
+  "forks": 18038,
   "open_issues": 961,
-  "watchers": 58653,
+  "watchers": 58656,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2145
+  "_index": 2146
 }

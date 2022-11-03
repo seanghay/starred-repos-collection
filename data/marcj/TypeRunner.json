@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/marcj/TypeRunner/releases{/id}",
   "deployments_url": "https://api.github.com/repos/marcj/TypeRunner/deployments",
   "created_at": "2022-08-02T05:24:26Z",
-  "updated_at": "2022-11-02T03:05:22Z",
-  "pushed_at": "2022-10-26T09:03:11Z",
+  "updated_at": "2022-11-03T00:25:45Z",
+  "pushed_at": "2022-11-02T19:02:53Z",
   "git_url": "git://github.com/marcj/TypeRunner.git",
   "ssh_url": "git@github.com:marcj/TypeRunner.git",
   "clone_url": "https://github.com/marcj/TypeRunner.git",
   "svn_url": "https://github.com/marcj/TypeRunner",
   "homepage": "",
-  "size": 1851,
-  "stargazers_count": 2282,
-  "watchers_count": 2282,
+  "size": 2118,
+  "stargazers_count": 2292,
+  "watchers_count": 2292,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -85,8 +85,14 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 7,
-  "license": null,
+  "open_issues_count": 6,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
   "allow_forking": true,
   "is_template": false,
   "web_commit_signoff_required": false,
@@ -96,8 +102,8 @@
   ],
   "visibility": "public",
   "forks": 35,
-  "open_issues": 7,
-  "watchers": 2282,
+  "open_issues": 6,
+  "watchers": 2292,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -106,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 14
+  "_index": 15
 }

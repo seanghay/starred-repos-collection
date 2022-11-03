@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/beurtschipper/Depix/releases{/id}",
   "deployments_url": "https://api.github.com/repos/beurtschipper/Depix/deployments",
   "created_at": "2020-12-06T12:39:08Z",
-  "updated_at": "2022-11-02T02:16:25Z",
+  "updated_at": "2022-11-02T15:01:41Z",
   "pushed_at": "2022-09-07T17:09:00Z",
   "git_url": "git://github.com/beurtschipper/Depix.git",
   "ssh_url": "git@github.com:beurtschipper/Depix.git",
@@ -73,15 +73,15 @@
   "svn_url": "https://github.com/beurtschipper/Depix",
   "homepage": null,
   "size": 847,
-  "stargazers_count": 22893,
-  "watchers_count": 22893,
+  "stargazers_count": 22896,
+  "watchers_count": 22896,
   "language": "Python",
   "has_issues": false,
   "has_projects": true,
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": false,
-  "forks_count": 2787,
+  "forks_count": 2788,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -98,9 +98,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 2787,
+  "forks": 2788,
   "open_issues": 6,
-  "watchers": 22893,
+  "watchers": 22896,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1011
+  "_index": 1012
 }

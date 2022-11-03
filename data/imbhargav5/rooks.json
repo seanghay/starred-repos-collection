@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/imbhargav5/rooks/releases{/id}",
   "deployments_url": "https://api.github.com/repos/imbhargav5/rooks/deployments",
   "created_at": "2018-11-08T16:14:39Z",
-  "updated_at": "2022-11-01T08:41:56Z",
+  "updated_at": "2022-11-02T17:20:17Z",
   "pushed_at": "2022-11-01T06:15:47Z",
   "git_url": "git://github.com/imbhargav5/rooks.git",
   "ssh_url": "git@github.com:imbhargav5/rooks.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/imbhargav5/rooks",
   "homepage": "https://react-hooks.org",
   "size": 18774,
-  "stargazers_count": 2605,
-  "watchers_count": 2605,
+  "stargazers_count": 2607,
+  "watchers_count": 2607,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 191,
   "open_issues": 26,
-  "watchers": 2605,
+  "watchers": 2607,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 472
+  "_index": 473
 }

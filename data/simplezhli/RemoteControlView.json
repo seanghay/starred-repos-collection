@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/simplezhli/RemoteControlView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/simplezhli/RemoteControlView/deployments",
   "created_at": "2018-03-07T01:20:14Z",
-  "updated_at": "2022-09-26T06:22:49Z",
+  "updated_at": "2022-11-02T03:40:20Z",
   "pushed_at": "2020-03-24T05:17:04Z",
   "git_url": "git://github.com/simplezhli/RemoteControlView.git",
   "ssh_url": "git@github.com:simplezhli/RemoteControlView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/simplezhli/RemoteControlView",
   "homepage": null,
   "size": 5314,
-  "stargazers_count": 405,
-  "watchers_count": 405,
+  "stargazers_count": 406,
+  "watchers_count": 406,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 78,
   "open_issues": 0,
-  "watchers": 405,
+  "watchers": 406,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1641
+  "_index": 1642
 }

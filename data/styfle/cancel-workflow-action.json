@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/styfle/cancel-workflow-action/releases{/id}",
   "deployments_url": "https://api.github.com/repos/styfle/cancel-workflow-action/deployments",
   "created_at": "2020-02-02T00:01:51Z",
-  "updated_at": "2022-11-02T01:41:21Z",
+  "updated_at": "2022-11-03T02:35:43Z",
   "pushed_at": "2022-10-13T22:14:26Z",
   "git_url": "git://github.com/styfle/cancel-workflow-action.git",
   "ssh_url": "git@github.com:styfle/cancel-workflow-action.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/styfle/cancel-workflow-action",
   "homepage": "https://github.com/marketplace/actions/cancel-workflow-action",
   "size": 523,
-  "stargazers_count": 826,
-  "watchers_count": 826,
+  "stargazers_count": 827,
+  "watchers_count": 827,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 98,
   "open_issues": 11,
-  "watchers": 826,
+  "watchers": 827,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 67
+  "_index": 68
 }

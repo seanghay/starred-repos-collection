@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/enricocid/VectorifyDaHome/deployments",
   "created_at": "2019-07-31T14:23:01Z",
   "updated_at": "2022-10-12T09:47:48Z",
-  "pushed_at": "2022-11-01T21:27:43Z",
+  "pushed_at": "2022-11-02T21:39:08Z",
   "git_url": "git://github.com/enricocid/VectorifyDaHome.git",
   "ssh_url": "git@github.com:enricocid/VectorifyDaHome.git",
   "clone_url": "https://github.com/enricocid/VectorifyDaHome.git",
   "svn_url": "https://github.com/enricocid/VectorifyDaHome",
   "homepage": "",
-  "size": 47110,
+  "size": 47113,
   "stargazers_count": 193,
   "watchers_count": 193,
   "language": "Kotlin",
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1374
+  "_index": 1375
 }
