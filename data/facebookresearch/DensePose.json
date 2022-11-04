@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/facebookresearch/DensePose/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookresearch/DensePose/deployments",
   "created_at": "2018-06-04T18:52:54Z",
-  "updated_at": "2022-11-01T00:54:37Z",
+  "updated_at": "2022-11-03T07:14:40Z",
   "pushed_at": "2021-08-31T18:43:46Z",
   "git_url": "git://github.com/facebookresearch/DensePose.git",
   "ssh_url": "git@github.com:facebookresearch/DensePose.git",

@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/javalin/javalin/releases{/id}",
   "deployments_url": "https://api.github.com/repos/javalin/javalin/deployments",
   "created_at": "2017-04-02T20:01:28Z",
-  "updated_at": "2022-11-03T01:04:22Z",
-  "pushed_at": "2022-10-31T21:15:47Z",
+  "updated_at": "2022-11-03T22:23:12Z",
+  "pushed_at": "2022-11-03T20:39:07Z",
   "git_url": "git://github.com/javalin/javalin.git",
   "ssh_url": "git@github.com:javalin/javalin.git",
   "clone_url": "https://github.com/javalin/javalin.git",
@@ -85,7 +85,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 16,
+  "open_issues_count": 17,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -109,7 +109,7 @@
   ],
   "visibility": "public",
   "forks": 504,
-  "open_issues": 16,
+  "open_issues": 17,
   "watchers": 6117,
   "default_branch": "master",
   "permissions": {

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/youlookwhat/ByRecyclerView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/youlookwhat/ByRecyclerView/deployments",
   "created_at": "2019-08-20T13:34:28Z",
-  "updated_at": "2022-10-27T05:21:50Z",
+  "updated_at": "2022-11-03T13:58:34Z",
   "pushed_at": "2022-10-23T02:51:55Z",
   "git_url": "git://github.com/youlookwhat/ByRecyclerView.git",
   "ssh_url": "git@github.com:youlookwhat/ByRecyclerView.git",
@@ -85,7 +85,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 7,
+  "open_issues_count": 8,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -109,7 +109,7 @@
   ],
   "visibility": "public",
   "forks": 123,
-  "open_issues": 7,
+  "open_issues": 8,
   "watchers": 639,
   "default_branch": "master",
   "permissions": {
