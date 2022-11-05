@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fatedier/frp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fatedier/frp/deployments",
   "created_at": "2015-12-21T15:24:59Z",
-  "updated_at": "2022-11-04T02:19:21Z",
+  "updated_at": "2022-11-05T02:42:08Z",
   "pushed_at": "2022-10-31T07:46:46Z",
   "git_url": "git://github.com/fatedier/frp.git",
   "ssh_url": "git@github.com:fatedier/frp.git",
@@ -73,15 +73,15 @@
   "svn_url": "https://github.com/fatedier/frp",
   "homepage": "",
   "size": 25652,
-  "stargazers_count": 61460,
-  "watchers_count": 61460,
+  "stargazers_count": 61483,
+  "watchers_count": 61483,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": false,
-  "forks_count": 10794,
+  "forks_count": 10798,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,9 +108,9 @@
     "tunnel"
   ],
   "visibility": "public",
-  "forks": 10794,
+  "forks": 10798,
   "open_issues": 101,
-  "watchers": 61460,
+  "watchers": 61483,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 203
+  "_index": 207
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/windicss/windicss/releases{/id}",
   "deployments_url": "https://api.github.com/repos/windicss/windicss/deployments",
   "created_at": "2020-12-29T07:17:33Z",
-  "updated_at": "2022-11-03T21:01:22Z",
+  "updated_at": "2022-11-04T17:05:43Z",
   "pushed_at": "2022-10-05T05:48:39Z",
   "git_url": "git://github.com/windicss/windicss.git",
   "ssh_url": "git@github.com:windicss/windicss.git",
@@ -81,11 +81,11 @@
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": false,
-  "forks_count": 157,
+  "forks_count": 156,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 216,
+  "open_issues_count": 215,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,8 +107,8 @@
     "windi-css"
   ],
   "visibility": "public",
-  "forks": 157,
-  "open_issues": 216,
+  "forks": 156,
+  "open_issues": 215,
   "watchers": 5831,
   "default_branch": "main",
   "permissions": {
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 914
+  "_index": 918
 }

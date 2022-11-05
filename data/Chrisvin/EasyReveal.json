@@ -81,7 +81,7 @@
   "has_downloads": true,
   "has_wiki": true,
   "has_pages": true,
-  "forks_count": 22,
+  "forks_count": 23,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,7 +107,7 @@
     "reveal-animations"
   ],
   "visibility": "public",
-  "forks": 22,
+  "forks": 23,
   "open_issues": 1,
   "watchers": 353,
   "default_branch": "master",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1633
+  "_index": 1637
 }

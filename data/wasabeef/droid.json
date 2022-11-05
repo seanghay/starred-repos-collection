@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wasabeef/droid/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wasabeef/droid/deployments",
   "created_at": "2019-11-10T06:23:02Z",
-  "updated_at": "2022-08-17T01:47:59Z",
+  "updated_at": "2022-11-04T09:39:27Z",
   "pushed_at": "2022-11-01T06:07:57Z",
   "git_url": "git://github.com/wasabeef/droid.git",
   "ssh_url": "git@github.com:wasabeef/droid.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wasabeef/droid",
   "homepage": "",
   "size": 39793,
-  "stargazers_count": 116,
-  "watchers_count": 116,
+  "stargazers_count": 117,
+  "watchers_count": 117,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 6,
   "open_issues": 1,
-  "watchers": 116,
+  "watchers": 117,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1639
+  "_index": 1643
 }

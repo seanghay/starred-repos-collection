@@ -81,7 +81,7 @@
   "has_downloads": true,
   "has_wiki": true,
   "has_pages": false,
-  "forks_count": 179,
+  "forks_count": 180,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,7 +110,7 @@
     "vue-i18n"
   ],
   "visibility": "public",
-  "forks": 179,
+  "forks": 180,
   "open_issues": 136,
   "watchers": 2515,
   "default_branch": "main",
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1074
+  "_index": 1078
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/autonomousapps/gradle-glossary/releases{/id}",
   "deployments_url": "https://api.github.com/repos/autonomousapps/gradle-glossary/deployments",
   "created_at": "2021-11-07T03:52:46Z",
-  "updated_at": "2022-10-27T08:28:40Z",
+  "updated_at": "2022-11-04T07:46:48Z",
   "pushed_at": "2022-10-26T11:45:53Z",
   "git_url": "git://github.com/autonomousapps/gradle-glossary.git",
   "ssh_url": "git@github.com:autonomousapps/gradle-glossary.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/autonomousapps/gradle-glossary",
   "homepage": "",
   "size": 24,
-  "stargazers_count": 106,
-  "watchers_count": 106,
+  "stargazers_count": 107,
+  "watchers_count": 107,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -100,7 +100,7 @@
   "visibility": "public",
   "forks": 6,
   "open_issues": 2,
-  "watchers": 106,
+  "watchers": 107,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 513
+  "_index": 517
 }

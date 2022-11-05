@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jaredsburrows/android-gif-example/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jaredsburrows/android-gif-example/deployments",
   "created_at": "2016-06-20T04:47:57Z",
-  "updated_at": "2022-10-17T23:32:30Z",
+  "updated_at": "2022-11-04T03:17:03Z",
   "pushed_at": "2022-11-02T16:02:22Z",
   "git_url": "git://github.com/jaredsburrows/android-gif-example.git",
   "ssh_url": "git@github.com:jaredsburrows/android-gif-example.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jaredsburrows/android-gif-example",
   "homepage": "",
   "size": 1766,
-  "stargazers_count": 375,
-  "watchers_count": 375,
+  "stargazers_count": 374,
+  "watchers_count": 374,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -118,7 +118,7 @@
   "visibility": "public",
   "forks": 49,
   "open_issues": 3,
-  "watchers": 375,
+  "watchers": 374,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1569
+  "_index": 1573
 }

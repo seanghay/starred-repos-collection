@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/json-path/JsonPath/releases{/id}",
   "deployments_url": "https://api.github.com/repos/json-path/JsonPath/deployments",
   "created_at": "2011-01-24T13:19:19Z",
-  "updated_at": "2022-11-03T21:15:56Z",
+  "updated_at": "2022-11-04T19:37:04Z",
   "pushed_at": "2022-10-31T21:54:02Z",
   "git_url": "git://github.com/json-path/JsonPath.git",
   "ssh_url": "git@github.com:json-path/JsonPath.git",
@@ -73,15 +73,15 @@
   "svn_url": "https://github.com/json-path/JsonPath",
   "homepage": "",
   "size": 2576,
-  "stargazers_count": 7437,
-  "watchers_count": 7437,
+  "stargazers_count": 7442,
+  "watchers_count": 7442,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": false,
-  "forks_count": 1442,
+  "forks_count": 1443,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -98,9 +98,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 1442,
+  "forks": 1443,
   "open_issues": 306,
-  "watchers": 7437,
+  "watchers": 7442,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1160
+  "_index": 1164
 }

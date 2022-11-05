@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/NordicSemiconductor/Android-BLE-Library/releases{/id}",
   "deployments_url": "https://api.github.com/repos/NordicSemiconductor/Android-BLE-Library/deployments",
   "created_at": "2017-12-18T14:17:43Z",
-  "updated_at": "2022-11-03T18:45:43Z",
-  "pushed_at": "2022-11-03T14:54:09Z",
+  "updated_at": "2022-11-04T16:08:10Z",
+  "pushed_at": "2022-11-04T11:39:40Z",
   "git_url": "git://github.com/NordicSemiconductor/Android-BLE-Library.git",
   "ssh_url": "git@github.com:NordicSemiconductor/Android-BLE-Library.git",
   "clone_url": "https://github.com/NordicSemiconductor/Android-BLE-Library.git",
   "svn_url": "https://github.com/NordicSemiconductor/Android-BLE-Library",
   "homepage": "",
-  "size": 1576,
-  "stargazers_count": 1391,
-  "watchers_count": 1391,
+  "size": 1586,
+  "stargazers_count": 1392,
+  "watchers_count": 1392,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -85,7 +85,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 15,
+  "open_issues_count": 14,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -99,8 +99,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 318,
-  "open_issues": 15,
-  "watchers": 1391,
+  "open_issues": 14,
+  "watchers": 1392,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 778
+  "_index": 782
 }

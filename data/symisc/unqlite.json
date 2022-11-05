@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/symisc/unqlite/releases{/id}",
   "deployments_url": "https://api.github.com/repos/symisc/unqlite/deployments",
   "created_at": "2014-08-08T15:03:23Z",
-  "updated_at": "2022-11-04T01:51:45Z",
+  "updated_at": "2022-11-04T16:56:27Z",
   "pushed_at": "2022-09-10T12:04:24Z",
   "git_url": "git://github.com/symisc/unqlite.git",
   "ssh_url": "git@github.com:symisc/unqlite.git",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 223
+  "_index": 227
 }

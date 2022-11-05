@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/styfle/cancel-workflow-action.git",
   "svn_url": "https://github.com/styfle/cancel-workflow-action",
   "homepage": "https://github.com/marketplace/actions/cancel-workflow-action",
-  "size": 523,
+  "size": 527,
   "stargazers_count": 827,
   "watchers_count": 827,
   "language": "TypeScript",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 68
+  "_index": 72
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/doczjs/docz/releases{/id}",
   "deployments_url": "https://api.github.com/repos/doczjs/docz/deployments",
   "created_at": "2018-03-17T04:24:10Z",
-  "updated_at": "2022-11-02T08:06:22Z",
+  "updated_at": "2022-11-04T23:10:35Z",
   "pushed_at": "2022-09-23T22:42:47Z",
   "git_url": "git://github.com/doczjs/docz.git",
   "ssh_url": "git@github.com:doczjs/docz.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/doczjs/docz",
   "homepage": "https://docz.site",
   "size": 10072,
-  "stargazers_count": 22949,
-  "watchers_count": 22949,
+  "stargazers_count": 22951,
+  "watchers_count": 22951,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 1483,
   "open_issues": 103,
-  "watchers": 22949,
+  "watchers": 22951,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2205
+  "_index": 2209
 }

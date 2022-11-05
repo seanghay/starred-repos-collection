@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/zouhir/lqip/releases{/id}",
   "deployments_url": "https://api.github.com/repos/zouhir/lqip/deployments",
   "created_at": "2017-06-24T10:17:56Z",
-  "updated_at": "2022-10-30T17:48:21Z",
+  "updated_at": "2022-11-04T20:14:40Z",
   "pushed_at": "2022-02-11T00:20:26Z",
   "git_url": "git://github.com/zouhir/lqip.git",
   "ssh_url": "git@github.com:zouhir/lqip.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/zouhir/lqip",
   "homepage": null,
   "size": 1453,
-  "stargazers_count": 395,
-  "watchers_count": 395,
+  "stargazers_count": 396,
+  "watchers_count": 396,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -94,7 +94,7 @@
   "visibility": "public",
   "forks": 31,
   "open_issues": 14,
-  "watchers": 395,
+  "watchers": 396,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -103,5 +103,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 542
+  "_index": 546
 }

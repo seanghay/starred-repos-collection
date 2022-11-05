@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/immattdavison/NoMoreDomains/releases{/id}",
   "deployments_url": "https://api.github.com/repos/immattdavison/NoMoreDomains/deployments",
   "created_at": "2022-09-21T14:33:41Z",
-  "updated_at": "2022-11-02T15:45:58Z",
-  "pushed_at": "2022-11-02T14:04:42Z",
+  "updated_at": "2022-11-04T06:14:01Z",
+  "pushed_at": "2022-11-04T16:28:55Z",
   "git_url": "git://github.com/immattdavison/NoMoreDomains.git",
   "ssh_url": "git@github.com:immattdavison/NoMoreDomains.git",
   "clone_url": "https://github.com/immattdavison/NoMoreDomains.git",
   "svn_url": "https://github.com/immattdavison/NoMoreDomains",
   "homepage": "",
   "size": 262,
-  "stargazers_count": 57,
-  "watchers_count": 57,
+  "stargazers_count": 56,
+  "watchers_count": 56,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -85,7 +85,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 10,
+  "open_issues_count": 11,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 57,
-  "open_issues": 10,
-  "watchers": 57,
+  "open_issues": 11,
+  "watchers": 56,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 56
+  "_index": 60
 }

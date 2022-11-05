@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/dotenv-org/dotenv-vault/deployments",
   "created_at": "2022-03-14T08:08:01Z",
   "updated_at": "2022-11-04T01:16:04Z",
-  "pushed_at": "2022-11-04T00:19:47Z",
+  "pushed_at": "2022-11-05T00:30:54Z",
   "git_url": "git://github.com/dotenv-org/dotenv-vault.git",
   "ssh_url": "git@github.com:dotenv-org/dotenv-vault.git",
   "clone_url": "https://github.com/dotenv-org/dotenv-vault.git",
@@ -81,11 +81,11 @@
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": false,
-  "forks_count": 14,
+  "forks_count": 15,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 20,
+  "open_issues_count": 21,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -115,8 +115,8 @@
     "vault"
   ],
   "visibility": "public",
-  "forks": 14,
-  "open_issues": 20,
+  "forks": 15,
+  "open_issues": 21,
   "watchers": 387,
   "default_branch": "master",
   "permissions": {
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 340
+  "_index": 344
 }
