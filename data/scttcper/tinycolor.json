@@ -81,7 +81,7 @@
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": false,
-  "forks_count": 25,
+  "forks_count": 26,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -101,7 +101,7 @@
     "tinycolor"
   ],
   "visibility": "public",
-  "forks": 25,
+  "forks": 26,
   "open_issues": 3,
   "watchers": 328,
   "default_branch": "master",

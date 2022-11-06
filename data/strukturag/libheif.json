@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/strukturag/libheif/releases{/id}",
   "deployments_url": "https://api.github.com/repos/strukturag/libheif/deployments",
   "created_at": "2017-12-21T14:06:21Z",
-  "updated_at": "2022-11-04T12:57:32Z",
+  "updated_at": "2022-11-05T13:44:41Z",
   "pushed_at": "2022-10-29T10:19:26Z",
   "git_url": "git://github.com/strukturag/libheif.git",
   "ssh_url": "git@github.com:strukturag/libheif.git",

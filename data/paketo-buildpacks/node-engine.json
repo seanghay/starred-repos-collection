@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/paketo-buildpacks/node-engine.git",
   "svn_url": "https://github.com/paketo-buildpacks/node-engine",
   "homepage": "",
-  "size": 6234,
+  "size": 5832,
   "stargazers_count": 16,
   "watchers_count": 16,
   "language": "Go",

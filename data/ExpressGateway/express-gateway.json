@@ -81,7 +81,7 @@
   "has_downloads": true,
   "has_wiki": true,
   "has_pages": false,
-  "forks_count": 326,
+  "forks_count": 328,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -111,7 +111,7 @@
     "service-discovery"
   ],
   "visibility": "public",
-  "forks": 326,
+  "forks": 328,
   "open_issues": 56,
   "watchers": 2736,
   "default_branch": "master",
