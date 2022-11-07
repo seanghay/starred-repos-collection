@@ -81,11 +81,11 @@
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": false,
-  "forks_count": 30,
+  "forks_count": 31,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 44,
+  "open_issues_count": 46,
   "license": {
     "key": "other",
     "name": "Other",
@@ -103,8 +103,8 @@
     "ui"
   ],
   "visibility": "public",
-  "forks": 30,
-  "open_issues": 44,
+  "forks": 31,
+  "open_issues": 46,
   "watchers": 504,
   "default_branch": "main",
   "permissions": {

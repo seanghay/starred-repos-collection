@@ -81,7 +81,7 @@
   "has_downloads": true,
   "has_wiki": true,
   "has_pages": false,
-  "forks_count": 49,
+  "forks_count": 50,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "nuxt-module"
   ],
   "visibility": "public",
-  "forks": 49,
+  "forks": 50,
   "open_issues": 51,
   "watchers": 853,
   "default_branch": "main",

@@ -81,7 +81,7 @@
   "has_downloads": true,
   "has_wiki": true,
   "has_pages": true,
-  "forks_count": 18,
+  "forks_count": 19,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,7 +102,7 @@
     "swift"
   ],
   "visibility": "public",
-  "forks": 18,
+  "forks": 19,
   "open_issues": 3,
   "watchers": 229,
   "default_branch": "develop",
