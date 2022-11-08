@@ -81,7 +81,8 @@
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": false,
-  "forks_count": 178,
+  "has_discussions": false,
+  "forks_count": 177,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -116,7 +117,7 @@
     "wordpress-site"
   ],
   "visibility": "public",
-  "forks": 178,
+  "forks": 177,
   "open_issues": 141,
   "watchers": 964,
   "default_branch": "master",

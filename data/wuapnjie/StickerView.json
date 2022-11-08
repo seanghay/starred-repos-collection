@@ -81,7 +81,8 @@
   "has_downloads": true,
   "has_wiki": true,
   "has_pages": false,
-  "forks_count": 307,
+  "has_discussions": false,
+  "forks_count": 308,
   "mirror_url": null,
   "archived": true,
   "disabled": false,
@@ -103,7 +104,7 @@
     "stickerview"
   ],
   "visibility": "public",
-  "forks": 307,
+  "forks": 308,
   "open_issues": 102,
   "watchers": 1220,
   "default_branch": "master",

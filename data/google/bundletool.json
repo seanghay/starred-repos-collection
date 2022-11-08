@@ -81,7 +81,8 @@
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": false,
-  "forks_count": 337,
+  "has_discussions": false,
+  "forks_count": 338,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +104,7 @@
     "android-testing"
   ],
   "visibility": "public",
-  "forks": 337,
+  "forks": 338,
   "open_issues": 37,
   "watchers": 2823,
   "default_branch": "master",

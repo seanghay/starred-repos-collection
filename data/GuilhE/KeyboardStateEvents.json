@@ -81,7 +81,8 @@
   "has_downloads": true,
   "has_wiki": true,
   "has_pages": true,
-  "forks_count": 9,
+  "has_discussions": false,
+  "forks_count": 10,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,7 +106,7 @@
     "livedata"
   ],
   "visibility": "public",
-  "forks": 9,
+  "forks": 10,
   "open_issues": 0,
   "watchers": 145,
   "default_branch": "master",
