@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/PaulWoitaschek/Voice/releases{/id}",
   "deployments_url": "https://api.github.com/repos/PaulWoitaschek/Voice/deployments",
   "created_at": "2014-08-02T22:01:39Z",
-  "updated_at": "2022-11-07T14:02:41Z",
-  "pushed_at": "2022-11-07T18:52:59Z",
+  "updated_at": "2022-11-08T11:09:04Z",
+  "pushed_at": "2022-11-08T23:24:49Z",
   "git_url": "git://github.com/PaulWoitaschek/Voice.git",
   "ssh_url": "git@github.com:PaulWoitaschek/Voice.git",
   "clone_url": "https://github.com/PaulWoitaschek/Voice.git",
   "svn_url": "https://github.com/PaulWoitaschek/Voice",
   "homepage": "",
-  "size": 116337,
-  "stargazers_count": 1773,
-  "watchers_count": 1773,
+  "size": 116345,
+  "stargazers_count": 1774,
+  "watchers_count": 1774,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 100,
+  "open_issues_count": 106,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -108,8 +108,8 @@
   ],
   "visibility": "public",
   "forks": 334,
-  "open_issues": 100,
-  "watchers": 1773,
+  "open_issues": 106,
+  "watchers": 1774,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1743
+  "_index": 1746
 }

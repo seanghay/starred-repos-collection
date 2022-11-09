@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 5,
+  "forks_count": 6,
   "mirror_url": null,
   "archived": true,
   "disabled": false,
@@ -109,7 +109,7 @@
     "swaggerui"
   ],
   "visibility": "public",
-  "forks": 5,
+  "forks": 6,
   "open_issues": 13,
   "watchers": 27,
   "default_branch": "main",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1579
+  "_index": 1582
 }

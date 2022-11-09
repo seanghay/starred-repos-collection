@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/google/orbit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/orbit/deployments",
   "created_at": "2017-09-21T14:28:35Z",
-  "updated_at": "2022-11-05T18:18:32Z",
-  "pushed_at": "2022-11-07T19:07:22Z",
+  "updated_at": "2022-11-08T22:12:28Z",
+  "pushed_at": "2022-11-08T16:10:46Z",
   "git_url": "git://github.com/google/orbit.git",
   "ssh_url": "git@github.com:google/orbit.git",
   "clone_url": "https://github.com/google/orbit.git",
   "svn_url": "https://github.com/google/orbit",
   "homepage": "https://orbitprofiler.com/",
-  "size": 154284,
+  "size": 154328,
   "stargazers_count": 2856,
   "watchers_count": 2856,
   "language": "C++",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 39,
+  "open_issues_count": 36,
   "license": {
     "key": "bsd-2-clause",
     "name": "BSD 2-Clause \"Simplified\" License",
@@ -110,7 +110,7 @@
   ],
   "visibility": "public",
   "forks": 296,
-  "open_issues": 39,
+  "open_issues": 36,
   "watchers": 2856,
   "default_branch": "main",
   "permissions": {
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1215
+  "_index": 1218
 }

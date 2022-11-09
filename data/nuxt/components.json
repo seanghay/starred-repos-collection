@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nuxt/components/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nuxt/components/deployments",
   "created_at": "2020-02-26T09:55:21Z",
-  "updated_at": "2022-10-21T18:37:01Z",
+  "updated_at": "2022-11-08T17:39:07Z",
   "pushed_at": "2022-09-25T12:11:46Z",
   "git_url": "git://github.com/nuxt/components.git",
   "ssh_url": "git@github.com:nuxt/components.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nuxt/components",
   "homepage": "",
   "size": 1374,
-  "stargazers_count": 853,
-  "watchers_count": 853,
+  "stargazers_count": 854,
+  "watchers_count": 854,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 50,
   "open_issues": 51,
-  "watchers": 853,
+  "watchers": 854,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 699
+  "_index": 702
 }

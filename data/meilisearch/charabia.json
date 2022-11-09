@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/meilisearch/charabia/releases{/id}",
   "deployments_url": "https://api.github.com/repos/meilisearch/charabia/deployments",
   "created_at": "2020-10-06T13:00:37Z",
-  "updated_at": "2022-11-02T11:12:51Z",
-  "pushed_at": "2022-11-02T09:10:42Z",
+  "updated_at": "2022-11-08T23:21:30Z",
+  "pushed_at": "2022-11-08T15:48:44Z",
   "git_url": "git://github.com/meilisearch/charabia.git",
   "ssh_url": "git@github.com:meilisearch/charabia.git",
   "clone_url": "https://github.com/meilisearch/charabia.git",
   "svn_url": "https://github.com/meilisearch/charabia",
   "homepage": null,
-  "size": 1480,
-  "stargazers_count": 105,
-  "watchers_count": 105,
+  "size": 1481,
+  "stargazers_count": 108,
+  "watchers_count": 108,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -103,7 +103,7 @@
   "visibility": "public",
   "forks": 49,
   "open_issues": 10,
-  "watchers": 105,
+  "watchers": 108,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 488
+  "_index": 491
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/saket/FluidKeyboardResize/releases{/id}",
   "deployments_url": "https://api.github.com/repos/saket/FluidKeyboardResize/deployments",
   "created_at": "2018-09-30T13:40:00Z",
-  "updated_at": "2022-11-02T23:03:37Z",
+  "updated_at": "2022-11-08T22:41:07Z",
   "pushed_at": "2019-06-14T19:49:07Z",
   "git_url": "git://github.com/saket/FluidKeyboardResize.git",
   "ssh_url": "git@github.com:saket/FluidKeyboardResize.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/saket/FluidKeyboardResize",
   "homepage": "",
   "size": 262,
-  "stargazers_count": 634,
-  "watchers_count": 634,
+  "stargazers_count": 636,
+  "watchers_count": 636,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 41,
+  "forks_count": 42,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,9 +103,9 @@
     "keyboard"
   ],
   "visibility": "public",
-  "forks": 41,
+  "forks": 42,
   "open_issues": 4,
-  "watchers": 634,
+  "watchers": 636,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2131
+  "_index": 2134
 }

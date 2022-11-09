@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/eslint-plugin-unicorn/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/eslint-plugin-unicorn/deployments",
   "created_at": "2016-04-09T07:48:04Z",
-  "updated_at": "2022-11-07T19:59:53Z",
-  "pushed_at": "2022-11-07T14:03:03Z",
+  "updated_at": "2022-11-08T12:59:53Z",
+  "pushed_at": "2022-11-08T17:00:16Z",
   "git_url": "git://github.com/sindresorhus/eslint-plugin-unicorn.git",
   "ssh_url": "git@github.com:sindresorhus/eslint-plugin-unicorn.git",
   "clone_url": "https://github.com/sindresorhus/eslint-plugin-unicorn.git",
   "svn_url": "https://github.com/sindresorhus/eslint-plugin-unicorn",
   "homepage": "",
-  "size": 3921,
-  "stargazers_count": 2834,
-  "watchers_count": 2834,
+  "size": 3980,
+  "stargazers_count": 2836,
+  "watchers_count": 2836,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 319,
+  "open_issues_count": 312,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -110,8 +110,8 @@
   ],
   "visibility": "public",
   "forks": 317,
-  "open_issues": 319,
-  "watchers": 2834,
+  "open_issues": 312,
+  "watchers": 2836,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 70
+  "_index": 73
 }

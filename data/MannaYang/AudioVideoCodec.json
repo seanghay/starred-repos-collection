@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/MannaYang/AudioVideoCodec/releases{/id}",
   "deployments_url": "https://api.github.com/repos/MannaYang/AudioVideoCodec/deployments",
   "created_at": "2019-08-01T07:59:26Z",
-  "updated_at": "2022-11-07T08:45:32Z",
+  "updated_at": "2022-11-08T23:28:21Z",
   "pushed_at": "2020-04-02T06:14:58Z",
   "git_url": "git://github.com/MannaYang/AudioVideoCodec.git",
   "ssh_url": "git@github.com:MannaYang/AudioVideoCodec.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/MannaYang/AudioVideoCodec",
   "homepage": "",
   "size": 46904,
-  "stargazers_count": 138,
-  "watchers_count": 138,
+  "stargazers_count": 140,
+  "watchers_count": 140,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -120,7 +120,7 @@
   "visibility": "public",
   "forks": 29,
   "open_issues": 1,
-  "watchers": 138,
+  "watchers": 140,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1682
+  "_index": 1685
 }
