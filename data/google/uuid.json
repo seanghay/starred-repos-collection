@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/uuid/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/uuid/deployments",
   "created_at": "2016-02-12T22:17:59Z",
-  "updated_at": "2022-11-07T16:21:07Z",
+  "updated_at": "2022-11-09T20:22:15Z",
   "pushed_at": "2022-10-12T21:27:26Z",
   "git_url": "git://github.com/google/uuid.git",
   "ssh_url": "git@github.com:google/uuid.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/uuid",
   "homepage": "",
   "size": 148,
-  "stargazers_count": 3955,
-  "watchers_count": 3955,
+  "stargazers_count": 3959,
+  "watchers_count": 3959,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 328,
   "open_issues": 26,
-  "watchers": 3955,
+  "watchers": 3959,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 860
+  "_index": 861
 }

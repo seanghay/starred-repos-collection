@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/getmeli/meli/releases{/id}",
   "deployments_url": "https://api.github.com/repos/getmeli/meli/deployments",
   "created_at": "2020-11-30T13:56:42Z",
-  "updated_at": "2022-11-07T16:32:39Z",
+  "updated_at": "2022-11-10T01:04:28Z",
   "pushed_at": "2022-03-25T19:10:30Z",
   "git_url": "git://github.com/getmeli/meli.git",
   "ssh_url": "git@github.com:getmeli/meli.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/getmeli/meli",
   "homepage": "",
   "size": 2963,
-  "stargazers_count": 2245,
-  "watchers_count": 2245,
+  "stargazers_count": 2244,
+  "watchers_count": 2244,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -115,7 +115,7 @@
   "visibility": "public",
   "forks": 78,
   "open_issues": 36,
-  "watchers": 2245,
+  "watchers": 2244,
   "default_branch": "beta",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 12
+  "_index": 13
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/envault/envault/deployments",
   "created_at": "2020-05-06T11:40:47Z",
   "updated_at": "2022-10-28T13:59:55Z",
-  "pushed_at": "2022-11-08T23:45:53Z",
+  "pushed_at": "2022-11-09T09:20:29Z",
   "git_url": "git://github.com/envault/envault.git",
   "ssh_url": "git@github.com:envault/envault.git",
   "clone_url": "https://github.com/envault/envault.git",
   "svn_url": "https://github.com/envault/envault",
   "homepage": "",
-  "size": 19602,
+  "size": 19792,
   "stargazers_count": 484,
   "watchers_count": 484,
   "language": "PHP",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1,
+  "open_issues_count": 0,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -102,7 +102,7 @@
   ],
   "visibility": "public",
   "forks": 58,
-  "open_issues": 1,
+  "open_issues": 0,
   "watchers": 484,
   "default_branch": "main",
   "permissions": {
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 627
+  "_index": 628
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/RazrFalcon/svgcleaner/releases{/id}",
   "deployments_url": "https://api.github.com/repos/RazrFalcon/svgcleaner/deployments",
   "created_at": "2012-01-05T11:03:27Z",
-  "updated_at": "2022-11-07T21:42:17Z",
+  "updated_at": "2022-11-09T12:47:13Z",
   "pushed_at": "2021-10-30T13:53:34Z",
   "git_url": "git://github.com/RazrFalcon/svgcleaner.git",
   "ssh_url": "git@github.com:RazrFalcon/svgcleaner.git",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1024
+  "_index": 1025
 }

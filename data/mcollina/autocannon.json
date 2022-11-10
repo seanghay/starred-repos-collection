@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mcollina/autocannon/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mcollina/autocannon/deployments",
   "created_at": "2016-03-31T17:18:21Z",
-  "updated_at": "2022-11-08T15:55:59Z",
+  "updated_at": "2022-11-09T21:22:05Z",
   "pushed_at": "2022-10-19T19:14:07Z",
   "git_url": "git://github.com/mcollina/autocannon.git",
   "ssh_url": "git@github.com:mcollina/autocannon.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mcollina/autocannon",
   "homepage": "",
   "size": 1353,
-  "stargazers_count": 6436,
-  "watchers_count": 6436,
+  "stargazers_count": 6439,
+  "watchers_count": 6439,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 304,
   "open_issues": 33,
-  "watchers": 6436,
+  "watchers": 6439,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 134
+  "_index": 135
 }

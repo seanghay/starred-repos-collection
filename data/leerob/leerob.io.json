@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/leerob/leerob.io/releases{/id}",
   "deployments_url": "https://api.github.com/repos/leerob/leerob.io/deployments",
   "created_at": "2018-12-16T18:22:37Z",
-  "updated_at": "2022-11-08T22:12:51Z",
+  "updated_at": "2022-11-09T21:50:20Z",
   "pushed_at": "2022-11-06T13:33:39Z",
   "git_url": "git://github.com/leerob/leerob.io.git",
   "ssh_url": "git@github.com:leerob/leerob.io.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/leerob/leerob.io",
   "homepage": "https://leerob.io",
   "size": 188121,
-  "stargazers_count": 4387,
-  "watchers_count": 4387,
+  "stargazers_count": 4391,
+  "watchers_count": 4391,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 832,
+  "forks_count": 834,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,9 +109,9 @@
     "vercel"
   ],
   "visibility": "public",
-  "forks": 832,
+  "forks": 834,
   "open_issues": 10,
-  "watchers": 4387,
+  "watchers": 4391,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1016
+  "_index": 1017
 }

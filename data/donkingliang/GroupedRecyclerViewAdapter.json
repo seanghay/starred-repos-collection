@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/donkingliang/GroupedRecyclerViewAdapter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/donkingliang/GroupedRecyclerViewAdapter/deployments",
   "created_at": "2017-03-22T12:55:01Z",
-  "updated_at": "2022-11-08T06:08:13Z",
+  "updated_at": "2022-11-09T17:36:53Z",
   "pushed_at": "2022-08-13T02:01:28Z",
   "git_url": "git://github.com/donkingliang/GroupedRecyclerViewAdapter.git",
   "ssh_url": "git@github.com:donkingliang/GroupedRecyclerViewAdapter.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/donkingliang/GroupedRecyclerViewAdapter",
   "homepage": "",
   "size": 2904,
-  "stargazers_count": 1474,
-  "watchers_count": 1474,
+  "stargazers_count": 1475,
+  "watchers_count": 1475,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 207,
   "open_issues": 20,
-  "watchers": 1474,
+  "watchers": 1475,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1566
+  "_index": 1567
 }

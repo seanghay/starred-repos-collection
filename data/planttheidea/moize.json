@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/planttheidea/moize/deployments",
   "created_at": "2016-12-11T12:52:39Z",
   "updated_at": "2022-11-01T17:25:16Z",
-  "pushed_at": "2022-09-28T14:42:37Z",
+  "pushed_at": "2022-11-09T11:37:33Z",
   "git_url": "git://github.com/planttheidea/moize.git",
   "ssh_url": "git@github.com:planttheidea/moize.git",
   "clone_url": "https://github.com/planttheidea/moize.git",
   "svn_url": "https://github.com/planttheidea/moize",
   "homepage": "https://planttheidea.github.io/moize/",
-  "size": 6393,
+  "size": 6560,
   "stargazers_count": 777,
   "watchers_count": 777,
   "language": "TypeScript",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 8
+  "_index": 9
 }

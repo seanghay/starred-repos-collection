@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/alangpierce/sucrase/releases{/id}",
   "deployments_url": "https://api.github.com/repos/alangpierce/sucrase/deployments",
   "created_at": "2017-10-03T16:54:00Z",
-  "updated_at": "2022-11-09T02:59:17Z",
-  "pushed_at": "2022-10-08T08:02:11Z",
+  "updated_at": "2022-11-09T22:39:23Z",
+  "pushed_at": "2022-11-09T09:35:28Z",
   "git_url": "git://github.com/alangpierce/sucrase.git",
   "ssh_url": "git@github.com:alangpierce/sucrase.git",
   "clone_url": "https://github.com/alangpierce/sucrase.git",
   "svn_url": "https://github.com/alangpierce/sucrase",
   "homepage": "https://sucrase.io",
-  "size": 16728,
-  "stargazers_count": 4941,
-  "watchers_count": 4941,
+  "size": 16829,
+  "stargazers_count": 4945,
+  "watchers_count": 4945,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 73,
+  "open_issues_count": 75,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 126,
-  "open_issues": 73,
-  "watchers": 4941,
+  "open_issues": 75,
+  "watchers": 4945,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 205
+  "_index": 206
 }

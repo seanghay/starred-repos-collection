@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bilibili/ijkplayer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bilibili/ijkplayer/deployments",
   "created_at": "2013-06-03T04:12:04Z",
-  "updated_at": "2022-11-08T15:37:47Z",
+  "updated_at": "2022-11-10T02:37:32Z",
   "pushed_at": "2022-10-16T07:24:49Z",
   "git_url": "git://github.com/bilibili/ijkplayer.git",
   "ssh_url": "git@github.com:bilibili/ijkplayer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/bilibili/ijkplayer",
   "homepage": "",
   "size": 8283,
-  "stargazers_count": 30885,
-  "watchers_count": 30885,
+  "stargazers_count": 30891,
+  "watchers_count": 30891,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2781,
+  "open_issues_count": 2782,
   "license": {
     "key": "gpl-2.0",
     "name": "GNU General Public License v2.0",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 7891,
-  "open_issues": 2781,
-  "watchers": 30885,
+  "open_issues": 2782,
+  "watchers": 30891,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2096
+  "_index": 2097
 }

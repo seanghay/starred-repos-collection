@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/starship/starship/releases{/id}",
   "deployments_url": "https://api.github.com/repos/starship/starship/deployments",
   "created_at": "2019-04-02T03:23:12Z",
-  "updated_at": "2022-11-09T02:46:11Z",
-  "pushed_at": "2022-11-09T01:17:53Z",
+  "updated_at": "2022-11-10T02:55:20Z",
+  "pushed_at": "2022-11-09T18:42:33Z",
   "git_url": "git://github.com/starship/starship.git",
   "ssh_url": "git@github.com:starship/starship.git",
   "clone_url": "https://github.com/starship/starship.git",
   "svn_url": "https://github.com/starship/starship",
   "homepage": "https://starship.rs",
-  "size": 30143,
-  "stargazers_count": 30197,
-  "watchers_count": 30197,
+  "size": 30124,
+  "stargazers_count": 30234,
+  "watchers_count": 30234,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1258,
+  "forks_count": 1266,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 484,
+  "open_issues_count": 487,
   "license": {
     "key": "isc",
     "name": "ISC License",
@@ -102,7 +102,6 @@
     "fish",
     "fish-prompt",
     "fish-theme",
-    "hacktoberfest",
     "oh-my-zsh",
     "powershell",
     "rust",
@@ -113,9 +112,9 @@
     "zsh-theme"
   ],
   "visibility": "public",
-  "forks": 1258,
-  "open_issues": 484,
-  "watchers": 30197,
+  "forks": 1266,
+  "open_issues": 487,
+  "watchers": 30234,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1234
+  "_index": 1235
 }
