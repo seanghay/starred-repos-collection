@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/thi-ng/umbrella/releases{/id}",
   "deployments_url": "https://api.github.com/repos/thi-ng/umbrella/deployments",
   "created_at": "2018-01-24T02:31:44Z",
-  "updated_at": "2022-11-11T02:33:20Z",
+  "updated_at": "2022-11-12T02:18:22Z",
   "pushed_at": "2022-11-08T07:14:35Z",
   "git_url": "git://github.com/thi-ng/umbrella.git",
   "ssh_url": "git@github.com:thi-ng/umbrella.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/thi-ng/umbrella",
   "homepage": "https://thi.ng",
   "size": 136377,
-  "stargazers_count": 2633,
-  "watchers_count": 2633,
+  "stargazers_count": 2634,
+  "watchers_count": 2634,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -122,7 +122,7 @@
   "visibility": "public",
   "forks": 111,
   "open_issues": 58,
-  "watchers": 2633,
+  "watchers": 2634,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1028
+  "_index": 1030
 }

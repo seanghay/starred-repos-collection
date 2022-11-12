@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Yalantis/StarWars.Android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Yalantis/StarWars.Android/deployments",
   "created_at": "2015-12-14T08:50:11Z",
-  "updated_at": "2022-10-26T06:46:07Z",
+  "updated_at": "2022-11-11T05:28:30Z",
   "pushed_at": "2022-09-22T09:35:33Z",
   "git_url": "git://github.com/Yalantis/StarWars.Android.git",
   "ssh_url": "git@github.com:Yalantis/StarWars.Android.git",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1904
+  "_index": 1906
 }

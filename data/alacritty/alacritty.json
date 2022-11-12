@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/alacritty/alacritty/releases{/id}",
   "deployments_url": "https://api.github.com/repos/alacritty/alacritty/deployments",
   "created_at": "2016-02-18T05:02:30Z",
-  "updated_at": "2022-11-11T01:35:00Z",
-  "pushed_at": "2022-11-10T18:21:58Z",
+  "updated_at": "2022-11-12T02:48:45Z",
+  "pushed_at": "2022-11-11T10:27:05Z",
   "git_url": "git://github.com/alacritty/alacritty.git",
   "ssh_url": "git@github.com:alacritty/alacritty.git",
   "clone_url": "https://github.com/alacritty/alacritty.git",
   "svn_url": "https://github.com/alacritty/alacritty",
   "homepage": "https://alacritty.org",
-  "size": 12212,
-  "stargazers_count": 42924,
-  "watchers_count": 42924,
+  "size": 12201,
+  "stargazers_count": 42953,
+  "watchers_count": 42953,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2538,
+  "forks_count": 2543,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 321,
+  "open_issues_count": 318,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -110,9 +110,9 @@
     "windows"
   ],
   "visibility": "public",
-  "forks": 2538,
-  "open_issues": 321,
-  "watchers": 42924,
+  "forks": 2543,
+  "open_issues": 318,
+  "watchers": 42953,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 106
+  "_index": 108
 }

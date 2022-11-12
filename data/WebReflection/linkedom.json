@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/WebReflection/linkedom/releases{/id}",
   "deployments_url": "https://api.github.com/repos/WebReflection/linkedom/deployments",
   "created_at": "2020-12-13T16:51:36Z",
-  "updated_at": "2022-11-11T00:58:23Z",
+  "updated_at": "2022-11-11T20:53:34Z",
   "pushed_at": "2022-11-05T09:37:53Z",
   "git_url": "git://github.com/WebReflection/linkedom.git",
   "ssh_url": "git@github.com:WebReflection/linkedom.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/WebReflection/linkedom",
   "homepage": "https://webreflection.medium.com/linkedom-a-jsdom-alternative-53dd8f699311",
   "size": 5225,
-  "stargazers_count": 1030,
-  "watchers_count": 1030,
+  "stargazers_count": 1032,
+  "watchers_count": 1032,
   "language": "HTML",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 12,
+  "open_issues_count": 11,
   "license": {
     "key": "isc",
     "name": "ISC License",
@@ -104,8 +104,8 @@
   ],
   "visibility": "public",
   "forks": 46,
-  "open_issues": 12,
-  "watchers": 1030,
+  "open_issues": 11,
+  "watchers": 1032,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 303
+  "_index": 305
 }

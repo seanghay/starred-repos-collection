@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/GoodieBag/Pinview/releases{/id}",
   "deployments_url": "https://api.github.com/repos/GoodieBag/Pinview/deployments",
   "created_at": "2017-01-11T11:10:31Z",
-  "updated_at": "2022-10-27T02:40:36Z",
+  "updated_at": "2022-11-11T21:50:26Z",
   "pushed_at": "2022-03-17T10:41:29Z",
   "git_url": "git://github.com/GoodieBag/Pinview.git",
   "ssh_url": "git@github.com:GoodieBag/Pinview.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/GoodieBag/Pinview",
   "homepage": "",
   "size": 288,
-  "stargazers_count": 712,
-  "watchers_count": 712,
+  "stargazers_count": 711,
+  "watchers_count": 711,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 113,
   "open_issues": 39,
-  "watchers": 712,
+  "watchers": 711,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 929
+  "_index": 931
 }

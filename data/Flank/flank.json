@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/Flank/flank/deployments",
   "created_at": "2017-03-07T16:32:27Z",
   "updated_at": "2022-11-09T03:07:54Z",
-  "pushed_at": "2022-11-08T17:42:57Z",
+  "pushed_at": "2022-11-11T21:10:42Z",
   "git_url": "git://github.com/Flank/flank.git",
   "ssh_url": "git@github.com:Flank/flank.git",
   "clone_url": "https://github.com/Flank/flank.git",
   "svn_url": "https://github.com/Flank/flank",
   "homepage": "https://firebase.community/",
-  "size": 65129,
+  "size": 65156,
   "stargazers_count": 609,
   "watchers_count": 609,
   "language": "Kotlin",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1569
+  "_index": 1571
 }

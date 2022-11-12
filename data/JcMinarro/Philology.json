@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/JcMinarro/Philology/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JcMinarro/Philology/deployments",
   "created_at": "2018-06-30T12:44:01Z",
-  "updated_at": "2022-11-10T04:30:09Z",
+  "updated_at": "2022-11-11T06:24:48Z",
   "pushed_at": "2021-03-26T13:52:48Z",
   "git_url": "git://github.com/JcMinarro/Philology.git",
   "ssh_url": "git@github.com:JcMinarro/Philology.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/JcMinarro/Philology",
   "homepage": "",
   "size": 302,
-  "stargazers_count": 497,
-  "watchers_count": 497,
+  "stargazers_count": 496,
+  "watchers_count": 496,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 38,
   "open_issues": 15,
-  "watchers": 497,
+  "watchers": 496,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1685
+  "_index": 1687
 }

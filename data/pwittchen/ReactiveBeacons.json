@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pwittchen/ReactiveBeacons/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pwittchen/ReactiveBeacons/deployments",
   "created_at": "2015-09-25T15:44:33Z",
-  "updated_at": "2022-09-04T15:50:39Z",
+  "updated_at": "2022-11-11T12:31:25Z",
   "pushed_at": "2020-08-19T08:52:11Z",
   "git_url": "git://github.com/pwittchen/ReactiveBeacons.git",
   "ssh_url": "git@github.com:pwittchen/ReactiveBeacons.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/pwittchen/ReactiveBeacons",
   "homepage": "",
   "size": 552,
-  "stargazers_count": 167,
-  "watchers_count": 167,
+  "stargazers_count": 166,
+  "watchers_count": 166,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -116,7 +116,7 @@
   "visibility": "public",
   "forks": 39,
   "open_issues": 18,
-  "watchers": 167,
+  "watchers": 166,
   "default_branch": "RxJava2.x",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1698
+  "_index": 1700
 }

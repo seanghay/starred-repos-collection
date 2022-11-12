@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/dinerojs/dinero.js/deployments",
   "created_at": "2018-03-10T23:56:04Z",
   "updated_at": "2022-11-11T02:11:49Z",
-  "pushed_at": "2022-11-09T14:08:28Z",
+  "pushed_at": "2022-11-11T22:42:02Z",
   "git_url": "git://github.com/dinerojs/dinero.js.git",
   "ssh_url": "git@github.com:dinerojs/dinero.js.git",
   "clone_url": "https://github.com/dinerojs/dinero.js.git",
   "svn_url": "https://github.com/dinerojs/dinero.js",
   "homepage": "https://v2.dinerojs.com/docs",
-  "size": 6696,
+  "size": 6683,
   "stargazers_count": 5716,
   "watchers_count": 5716,
   "language": "TypeScript",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 288
+  "_index": 290
 }

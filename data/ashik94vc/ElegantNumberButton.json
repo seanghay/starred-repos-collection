@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ashik94vc/ElegantNumberButton/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ashik94vc/ElegantNumberButton/deployments",
   "created_at": "2016-08-10T13:48:49Z",
-  "updated_at": "2022-09-23T17:47:40Z",
+  "updated_at": "2022-11-11T07:28:56Z",
   "pushed_at": "2021-07-03T04:22:18Z",
   "git_url": "git://github.com/ashik94vc/ElegantNumberButton.git",
   "ssh_url": "git@github.com:ashik94vc/ElegantNumberButton.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ashik94vc/ElegantNumberButton",
   "homepage": "",
   "size": 675,
-  "stargazers_count": 180,
-  "watchers_count": 180,
+  "stargazers_count": 179,
+  "watchers_count": 179,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 61,
   "open_issues": 21,
-  "watchers": 180,
+  "watchers": 179,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1253
+  "_index": 1255
 }

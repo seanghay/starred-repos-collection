@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/sillsdev/khmer-character-specification/deployments",
   "created_at": "2019-05-02T06:45:32Z",
   "updated_at": "2022-08-15T14:46:23Z",
-  "pushed_at": "2022-09-14T09:35:15Z",
+  "pushed_at": "2022-11-11T04:56:15Z",
   "git_url": "git://github.com/sillsdev/khmer-character-specification.git",
   "ssh_url": "git@github.com:sillsdev/khmer-character-specification.git",
   "clone_url": "https://github.com/sillsdev/khmer-character-specification.git",
   "svn_url": "https://github.com/sillsdev/khmer-character-specification",
   "homepage": null,
-  "size": 124532,
+  "size": 124533,
   "stargazers_count": 14,
   "watchers_count": 14,
   "language": "Python",
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 395
+  "_index": 397
 }

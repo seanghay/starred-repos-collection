@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/vijayrawatsan/android-json-form-wizard/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vijayrawatsan/android-json-form-wizard/deployments",
   "created_at": "2015-05-19T15:15:44Z",
-  "updated_at": "2022-04-26T14:19:14Z",
+  "updated_at": "2022-11-11T10:33:56Z",
   "pushed_at": "2017-10-01T00:37:27Z",
   "git_url": "git://github.com/vijayrawatsan/android-json-form-wizard.git",
   "ssh_url": "git@github.com:vijayrawatsan/android-json-form-wizard.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/vijayrawatsan/android-json-form-wizard",
   "homepage": "",
   "size": 740,
-  "stargazers_count": 356,
-  "watchers_count": 356,
+  "stargazers_count": 355,
+  "watchers_count": 355,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 100,
   "open_issues": 22,
-  "watchers": 356,
+  "watchers": 355,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1330
+  "_index": 1332
 }

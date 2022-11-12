@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/vuejs/apollo/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vuejs/apollo/deployments",
   "created_at": "2016-09-18T18:44:06Z",
-  "updated_at": "2022-11-09T15:16:53Z",
-  "pushed_at": "2022-11-10T11:15:19Z",
+  "updated_at": "2022-11-11T08:52:38Z",
+  "pushed_at": "2022-11-11T10:32:24Z",
   "git_url": "git://github.com/vuejs/apollo.git",
   "ssh_url": "git@github.com:vuejs/apollo.git",
   "clone_url": "https://github.com/vuejs/apollo.git",
   "svn_url": "https://github.com/vuejs/apollo",
   "homepage": "http://apollo.vuejs.org",
   "size": 6269,
-  "stargazers_count": 5729,
-  "watchers_count": 5729,
+  "stargazers_count": 5730,
+  "watchers_count": 5730,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 491,
+  "forks_count": 492,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 234,
+  "open_issues_count": 235,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,9 +106,9 @@
     "vuejs2"
   ],
   "visibility": "public",
-  "forks": 491,
-  "open_issues": 234,
-  "watchers": 5729,
+  "forks": 492,
+  "open_issues": 235,
+  "watchers": 5730,
   "default_branch": "v4",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1609
+  "_index": 1611
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/theapache64/create-compose-app/releases{/id}",
   "deployments_url": "https://api.github.com/repos/theapache64/create-compose-app/deployments",
   "created_at": "2021-05-15T09:28:18Z",
-  "updated_at": "2022-10-27T11:56:57Z",
+  "updated_at": "2022-11-11T16:12:12Z",
   "pushed_at": "2022-08-28T12:09:25Z",
   "git_url": "git://github.com/theapache64/create-compose-app.git",
   "ssh_url": "git@github.com:theapache64/create-compose-app.git",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 675
+  "_index": 677
 }

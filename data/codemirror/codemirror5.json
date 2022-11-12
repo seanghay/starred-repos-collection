@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/codemirror/codemirror5/releases{/id}",
   "deployments_url": "https://api.github.com/repos/codemirror/codemirror5/deployments",
   "created_at": "2011-01-14T13:44:03Z",
-  "updated_at": "2022-11-10T20:47:13Z",
+  "updated_at": "2022-11-12T01:44:11Z",
   "pushed_at": "2022-11-03T19:18:23Z",
   "git_url": "git://github.com/codemirror/codemirror5.git",
   "ssh_url": "git@github.com:codemirror/codemirror5.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/codemirror/codemirror5",
   "homepage": "http://codemirror.net/5/",
   "size": 18997,
-  "stargazers_count": 25455,
-  "watchers_count": 25455,
+  "stargazers_count": 25460,
+  "watchers_count": 25460,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 4964,
   "open_issues": 408,
-  "watchers": 25455,
+  "watchers": 25460,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1277
+  "_index": 1279
 }
