@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ffmpegwasm/ffmpeg.wasm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ffmpegwasm/ffmpeg.wasm/deployments",
   "created_at": "2019-10-16T11:21:16Z",
-  "updated_at": "2022-11-11T21:43:03Z",
+  "updated_at": "2022-11-12T07:45:55Z",
   "pushed_at": "2022-10-21T05:18:00Z",
   "git_url": "git://github.com/ffmpegwasm/ffmpeg.wasm.git",
   "ssh_url": "git@github.com:ffmpegwasm/ffmpeg.wasm.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ffmpegwasm/ffmpeg.wasm",
   "homepage": "https://ffmpegwasm.netlify.app",
   "size": 7868,
-  "stargazers_count": 8927,
-  "watchers_count": 8927,
+  "stargazers_count": 8928,
+  "watchers_count": 8928,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 465,
   "open_issues": 184,
-  "watchers": 8927,
+  "watchers": 8928,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1317
+  "_index": 1320
 }

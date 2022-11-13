@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nestjsx/crud/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nestjsx/crud/deployments",
   "created_at": "2018-05-18T20:03:38Z",
-  "updated_at": "2022-11-11T12:40:59Z",
+  "updated_at": "2022-11-12T20:21:18Z",
   "pushed_at": "2022-10-13T19:34:25Z",
   "git_url": "git://github.com/nestjsx/crud.git",
   "ssh_url": "git@github.com:nestjsx/crud.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nestjsx/crud",
   "homepage": "https://github.com/nestjsx/crud/wiki",
   "size": 2758,
-  "stargazers_count": 3270,
-  "watchers_count": 3270,
+  "stargazers_count": 3272,
+  "watchers_count": 3272,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 411,
+  "forks_count": 410,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 411,
+  "forks": 410,
   "open_issues": 275,
-  "watchers": 3270,
+  "watchers": 3272,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 955
+  "_index": 958
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/rsify/pico/deployments",
   "created_at": "2020-03-21T01:20:48Z",
   "updated_at": "2022-11-11T18:51:59Z",
-  "pushed_at": "2022-09-08T03:20:49Z",
+  "pushed_at": "2022-11-12T07:54:44Z",
   "git_url": "git://github.com/rsify/pico.git",
   "ssh_url": "git@github.com:rsify/pico.git",
   "clone_url": "https://github.com/rsify/pico.git",
   "svn_url": "https://github.com/rsify/pico",
   "homepage": "",
-  "size": 2315,
+  "size": 2475,
   "stargazers_count": 1860,
   "watchers_count": 1860,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 16,
+  "open_issues_count": 17,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,7 +108,7 @@
   ],
   "visibility": "public",
   "forks": 37,
-  "open_issues": 16,
+  "open_issues": 17,
   "watchers": 1860,
   "default_branch": "master",
   "permissions": {
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1239
+  "_index": 1242
 }

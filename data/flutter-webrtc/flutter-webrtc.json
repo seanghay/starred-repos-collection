@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/flutter-webrtc/flutter-webrtc/releases{/id}",
   "deployments_url": "https://api.github.com/repos/flutter-webrtc/flutter-webrtc/deployments",
   "created_at": "2018-03-07T02:26:03Z",
-  "updated_at": "2022-11-11T10:07:18Z",
-  "pushed_at": "2022-11-12T02:28:36Z",
+  "updated_at": "2022-11-12T13:25:51Z",
+  "pushed_at": "2022-11-12T07:23:14Z",
   "git_url": "git://github.com/flutter-webrtc/flutter-webrtc.git",
   "ssh_url": "git@github.com:flutter-webrtc/flutter-webrtc.git",
   "clone_url": "https://github.com/flutter-webrtc/flutter-webrtc.git",
   "svn_url": "https://github.com/flutter-webrtc/flutter-webrtc",
   "homepage": "",
-  "size": 147105,
-  "stargazers_count": 3301,
-  "watchers_count": 3301,
+  "size": 147150,
+  "stargazers_count": 3302,
+  "watchers_count": 3302,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 313,
+  "open_issues_count": 312,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -110,8 +110,8 @@
   ],
   "visibility": "public",
   "forks": 873,
-  "open_issues": 313,
-  "watchers": 3301,
+  "open_issues": 312,
+  "watchers": 3302,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 670
+  "_index": 673
 }

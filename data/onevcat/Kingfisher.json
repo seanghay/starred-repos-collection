@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/onevcat/Kingfisher/releases{/id}",
   "deployments_url": "https://api.github.com/repos/onevcat/Kingfisher/deployments",
   "created_at": "2015-04-06T14:26:21Z",
-  "updated_at": "2022-11-11T14:25:58Z",
-  "pushed_at": "2022-11-11T17:10:29Z",
+  "updated_at": "2022-11-13T01:09:05Z",
+  "pushed_at": "2022-11-12T14:37:23Z",
   "git_url": "git://github.com/onevcat/Kingfisher.git",
   "ssh_url": "git@github.com:onevcat/Kingfisher.git",
   "clone_url": "https://github.com/onevcat/Kingfisher.git",
   "svn_url": "https://github.com/onevcat/Kingfisher",
   "homepage": "",
-  "size": 5646,
+  "size": 5703,
   "stargazers_count": 20735,
   "watchers_count": 20735,
   "language": "Swift",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 76,
+  "open_issues_count": 75,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -110,7 +110,7 @@
   ],
   "visibility": "public",
   "forks": 2343,
-  "open_issues": 76,
+  "open_issues": 75,
   "watchers": 20735,
   "default_branch": "master",
   "permissions": {
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1100
+  "_index": 1103
 }
