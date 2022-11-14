@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/plausible/analytics/releases{/id}",
   "deployments_url": "https://api.github.com/repos/plausible/analytics/deployments",
   "created_at": "2018-12-04T22:33:36Z",
-  "updated_at": "2022-11-13T02:14:07Z",
+  "updated_at": "2022-11-14T01:09:20Z",
   "pushed_at": "2022-11-12T06:19:12Z",
   "git_url": "git://github.com/plausible/analytics.git",
   "ssh_url": "git@github.com:plausible/analytics.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/plausible/analytics",
   "homepage": "https://plausible.io",
   "size": 71768,
-  "stargazers_count": 12991,
-  "watchers_count": 12991,
+  "stargazers_count": 12998,
+  "watchers_count": 12998,
   "language": "Elixir",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 657,
+  "forks_count": 656,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -118,9 +118,9 @@
     "website-stats"
   ],
   "visibility": "public",
-  "forks": 657,
+  "forks": 656,
   "open_issues": 46,
-  "watchers": 12991,
+  "watchers": 12998,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 283
+  "_index": 285
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/apihero-run/jsonhero-web/releases{/id}",
   "deployments_url": "https://api.github.com/repos/apihero-run/jsonhero-web/deployments",
   "created_at": "2022-03-01T09:33:29Z",
-  "updated_at": "2022-11-13T02:52:30Z",
+  "updated_at": "2022-11-14T02:52:40Z",
   "pushed_at": "2022-10-26T17:19:40Z",
   "git_url": "git://github.com/apihero-run/jsonhero-web.git",
   "ssh_url": "git@github.com:apihero-run/jsonhero-web.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/apihero-run/jsonhero-web",
   "homepage": "https://jsonhero.io",
   "size": 58560,
-  "stargazers_count": 5438,
-  "watchers_count": 5438,
+  "stargazers_count": 5443,
+  "watchers_count": 5443,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 236,
+  "forks_count": 238,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,9 +109,9 @@
     "viewer"
   ],
   "visibility": "public",
-  "forks": 236,
+  "forks": 238,
   "open_issues": 43,
-  "watchers": 5438,
+  "watchers": 5443,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 342
+  "_index": 344
 }

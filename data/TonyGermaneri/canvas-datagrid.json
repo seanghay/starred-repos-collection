@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/TonyGermaneri/canvas-datagrid/releases{/id}",
   "deployments_url": "https://api.github.com/repos/TonyGermaneri/canvas-datagrid/deployments",
   "created_at": "2016-11-28T12:14:50Z",
-  "updated_at": "2022-11-11T05:21:21Z",
-  "pushed_at": "2022-11-10T01:17:27Z",
+  "updated_at": "2022-11-13T03:51:33Z",
+  "pushed_at": "2022-11-13T23:22:57Z",
   "git_url": "git://github.com/TonyGermaneri/canvas-datagrid.git",
   "ssh_url": "git@github.com:TonyGermaneri/canvas-datagrid.git",
   "clone_url": "https://github.com/TonyGermaneri/canvas-datagrid.git",
   "svn_url": "https://github.com/TonyGermaneri/canvas-datagrid",
   "homepage": "",
-  "size": 52096,
-  "stargazers_count": 1154,
-  "watchers_count": 1154,
+  "size": 52311,
+  "stargazers_count": 1155,
+  "watchers_count": 1155,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 135,
+  "open_issues_count": 136,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 165,
-  "open_issues": 135,
-  "watchers": 1154,
+  "open_issues": 136,
+  "watchers": 1155,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 530
+  "_index": 532
 }

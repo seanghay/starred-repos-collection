@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/SilenceLove/HXPHPicker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/SilenceLove/HXPHPicker/deployments",
   "created_at": "2020-12-30T06:20:24Z",
-  "updated_at": "2022-11-10T07:08:36Z",
+  "updated_at": "2022-11-13T19:03:16Z",
   "pushed_at": "2022-11-12T07:11:38Z",
   "git_url": "git://github.com/SilenceLove/HXPHPicker.git",
   "ssh_url": "git@github.com:SilenceLove/HXPHPicker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/SilenceLove/HXPHPicker",
   "homepage": "",
   "size": 43590,
-  "stargazers_count": 278,
-  "watchers_count": 278,
+  "stargazers_count": 279,
+  "watchers_count": 279,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 62,
   "open_issues": 20,
-  "watchers": 278,
+  "watchers": 279,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 573
+  "_index": 575
 }

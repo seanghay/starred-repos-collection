@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/laravel/laravel/releases{/id}",
   "deployments_url": "https://api.github.com/repos/laravel/laravel/deployments",
   "created_at": "2011-06-08T03:06:08Z",
-  "updated_at": "2022-11-13T02:00:49Z",
+  "updated_at": "2022-11-13T23:17:48Z",
   "pushed_at": "2022-11-12T17:11:02Z",
   "git_url": "git://github.com/laravel/laravel.git",
   "ssh_url": "git@github.com:laravel/laravel.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/laravel/laravel",
   "homepage": "https://laravel.com",
   "size": 10512,
-  "stargazers_count": 71429,
-  "watchers_count": 71429,
+  "stargazers_count": 71436,
+  "watchers_count": 71436,
   "language": "PHP",
   "has_issues": false,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 23102,
+  "forks_count": 23103,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -97,9 +97,9 @@
     "php"
   ],
   "visibility": "public",
-  "forks": 23102,
+  "forks": 23103,
   "open_issues": 33,
-  "watchers": 71429,
+  "watchers": 71436,
   "default_branch": "9.x",
   "permissions": {
     "admin": false,
@@ -108,5 +108,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2304
+  "_index": 2306
 }

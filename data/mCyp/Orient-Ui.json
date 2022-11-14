@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mCyp/Orient-Ui/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mCyp/Orient-Ui/deployments",
   "created_at": "2019-08-08T01:07:23Z",
-  "updated_at": "2022-11-11T10:07:05Z",
+  "updated_at": "2022-11-13T10:49:04Z",
   "pushed_at": "2021-01-23T08:25:37Z",
   "git_url": "git://github.com/mCyp/Orient-Ui.git",
   "ssh_url": "git@github.com:mCyp/Orient-Ui.git",
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1316
+  "_index": 1318
 }

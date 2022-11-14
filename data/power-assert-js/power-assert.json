@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/power-assert-js/power-assert/releases{/id}",
   "deployments_url": "https://api.github.com/repos/power-assert-js/power-assert/deployments",
   "created_at": "2013-08-21T03:35:26Z",
-  "updated_at": "2022-11-08T06:40:40Z",
+  "updated_at": "2022-11-13T15:08:49Z",
   "pushed_at": "2022-11-09T21:59:54Z",
   "git_url": "git://github.com/power-assert-js/power-assert.git",
   "ssh_url": "git@github.com:power-assert-js/power-assert.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/power-assert-js/power-assert",
   "homepage": "",
   "size": 2931,
-  "stargazers_count": 2757,
-  "watchers_count": 2757,
+  "stargazers_count": 2756,
+  "watchers_count": 2756,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 69,
   "open_issues": 40,
-  "watchers": 2757,
+  "watchers": 2756,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 392
+  "_index": 394
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/logaretm/villus/releases{/id}",
   "deployments_url": "https://api.github.com/repos/logaretm/villus/deployments",
   "created_at": "2019-12-22T20:52:31Z",
-  "updated_at": "2022-11-03T10:35:39Z",
-  "pushed_at": "2022-11-13T01:29:03Z",
+  "updated_at": "2022-11-13T22:34:33Z",
+  "pushed_at": "2022-11-13T14:17:58Z",
   "git_url": "git://github.com/logaretm/villus.git",
   "ssh_url": "git@github.com:logaretm/villus.git",
   "clone_url": "https://github.com/logaretm/villus.git",
   "svn_url": "https://github.com/logaretm/villus",
   "homepage": "https://villus.logaretm.com/",
-  "size": 4159,
-  "stargazers_count": 615,
-  "watchers_count": 615,
+  "size": 4160,
+  "stargazers_count": 614,
+  "watchers_count": 614,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 12,
+  "open_issues_count": 10,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -110,8 +110,8 @@
   ],
   "visibility": "public",
   "forks": 26,
-  "open_issues": 12,
-  "watchers": 615,
+  "open_issues": 10,
+  "watchers": 614,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1570
+  "_index": 1572
 }
