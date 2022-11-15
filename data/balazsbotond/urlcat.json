@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/balazsbotond/urlcat/deployments",
   "created_at": "2020-09-15T20:55:10Z",
   "updated_at": "2022-11-12T00:09:36Z",
-  "pushed_at": "2022-11-12T01:52:21Z",
+  "pushed_at": "2022-11-14T23:06:58Z",
   "git_url": "git://github.com/balazsbotond/urlcat.git",
   "ssh_url": "git@github.com:balazsbotond/urlcat.git",
   "clone_url": "https://github.com/balazsbotond/urlcat.git",
   "svn_url": "https://github.com/balazsbotond/urlcat",
   "homepage": "https://urlcat.dev",
-  "size": 2690,
+  "size": 1496,
   "stargazers_count": 1511,
   "watchers_count": 1511,
   "language": "TypeScript",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1101
+  "_index": 1105
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/keycloak/keycloak/releases{/id}",
   "deployments_url": "https://api.github.com/repos/keycloak/keycloak/deployments",
   "created_at": "2013-07-02T13:38:51Z",
-  "updated_at": "2022-11-14T02:31:21Z",
-  "pushed_at": "2022-11-13T22:03:58Z",
+  "updated_at": "2022-11-15T01:53:32Z",
+  "pushed_at": "2022-11-15T01:18:31Z",
   "git_url": "git://github.com/keycloak/keycloak.git",
   "ssh_url": "git@github.com:keycloak/keycloak.git",
   "clone_url": "https://github.com/keycloak/keycloak.git",
   "svn_url": "https://github.com/keycloak/keycloak",
   "homepage": "https://www.keycloak.org",
-  "size": 187909,
-  "stargazers_count": 14064,
-  "watchers_count": 14064,
+  "size": 187904,
+  "stargazers_count": 14084,
+  "watchers_count": 14084,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1425,
+  "open_issues_count": 1424,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -104,8 +104,8 @@
   ],
   "visibility": "public",
   "forks": 4862,
-  "open_issues": 1425,
-  "watchers": 14064,
+  "open_issues": 1424,
+  "watchers": 14084,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 352
+  "_index": 356
 }

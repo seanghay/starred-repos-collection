@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/material-components/material-components-android-compose-theme-adapter/deployments",
   "created_at": "2020-07-20T14:43:12Z",
   "updated_at": "2022-11-07T09:40:50Z",
-  "pushed_at": "2022-11-11T14:53:57Z",
+  "pushed_at": "2022-11-14T06:32:04Z",
   "git_url": "git://github.com/material-components/material-components-android-compose-theme-adapter.git",
   "ssh_url": "git@github.com:material-components/material-components-android-compose-theme-adapter.git",
   "clone_url": "https://github.com/material-components/material-components-android-compose-theme-adapter.git",
   "svn_url": "https://github.com/material-components/material-components-android-compose-theme-adapter",
   "homepage": "https://material-components.github.io/material-components-android-compose-theme-adapter/",
-  "size": 5307,
+  "size": 4116,
   "stargazers_count": 399,
   "watchers_count": 399,
   "language": "Kotlin",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 10,
+  "open_issues_count": 9,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 41,
-  "open_issues": 10,
+  "open_issues": 9,
   "watchers": 399,
   "default_branch": "develop",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1084
+  "_index": 1088
 }

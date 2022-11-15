@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/FredKSchott/snowpack.git",
   "svn_url": "https://github.com/FredKSchott/snowpack",
   "homepage": "https://www.snowpack.dev",
-  "size": 82158,
+  "size": 82259,
   "stargazers_count": 19746,
   "watchers_count": 19746,
   "language": "JavaScript",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 985,
+  "forks_count": 984,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,7 +99,7 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 985,
+  "forks": 984,
   "open_issues": 397,
   "watchers": 19746,
   "default_branch": "main",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2121
+  "_index": 2125
 }

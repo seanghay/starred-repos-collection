@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/qingmei2/RxImagePicker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/qingmei2/RxImagePicker/deployments",
   "created_at": "2018-01-08T11:27:25Z",
-  "updated_at": "2022-10-24T09:59:00Z",
+  "updated_at": "2022-11-14T17:23:58Z",
   "pushed_at": "2022-05-13T02:02:52Z",
   "git_url": "git://github.com/qingmei2/RxImagePicker.git",
   "ssh_url": "git@github.com:qingmei2/RxImagePicker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/qingmei2/RxImagePicker",
   "homepage": "",
   "size": 20825,
-  "stargazers_count": 1168,
-  "watchers_count": 1168,
+  "stargazers_count": 1167,
+  "watchers_count": 1167,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 153,
   "open_issues": 20,
-  "watchers": 1168,
+  "watchers": 1167,
   "default_branch": "2.x",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1404
+  "_index": 1408
 }

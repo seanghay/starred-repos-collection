@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/showdownjs/showdown/releases{/id}",
   "deployments_url": "https://api.github.com/repos/showdownjs/showdown/deployments",
   "created_at": "2008-11-13T21:39:21Z",
-  "updated_at": "2022-11-13T22:33:30Z",
-  "pushed_at": "2022-11-10T01:53:01Z",
+  "updated_at": "2022-11-14T17:17:41Z",
+  "pushed_at": "2022-11-14T18:47:37Z",
   "git_url": "git://github.com/showdownjs/showdown.git",
   "ssh_url": "git@github.com:showdownjs/showdown.git",
   "clone_url": "https://github.com/showdownjs/showdown.git",
   "svn_url": "https://github.com/showdownjs/showdown",
   "homepage": "http://www.showdownjs.com/",
-  "size": 7694,
-  "stargazers_count": 12898,
-  "watchers_count": 12898,
+  "size": 7700,
+  "stargazers_count": 12903,
+  "watchers_count": 12903,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1575,
+  "forks_count": 1574,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 168,
+  "open_issues_count": 166,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,9 +109,9 @@
     "showdown"
   ],
   "visibility": "public",
-  "forks": 1575,
-  "open_issues": 168,
-  "watchers": 12898,
+  "forks": 1574,
+  "open_issues": 166,
+  "watchers": 12903,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1138
+  "_index": 1142
 }
