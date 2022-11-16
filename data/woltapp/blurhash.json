@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/woltapp/blurhash/releases{/id}",
   "deployments_url": "https://api.github.com/repos/woltapp/blurhash/deployments",
   "created_at": "2019-06-26T10:45:33Z",
-  "updated_at": "2022-11-15T02:44:29Z",
+  "updated_at": "2022-11-15T18:14:58Z",
   "pushed_at": "2022-11-09T11:31:56Z",
   "git_url": "git://github.com/woltapp/blurhash.git",
   "ssh_url": "git@github.com:woltapp/blurhash.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/woltapp/blurhash",
   "homepage": "https://blurha.sh",
   "size": 12565,
-  "stargazers_count": 12169,
-  "watchers_count": 12169,
+  "stargazers_count": 12176,
+  "watchers_count": 12176,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 272,
+  "forks_count": 273,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 36,
+  "open_issues_count": 37,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 272,
-  "open_issues": 36,
-  "watchers": 12169,
+  "forks": 273,
+  "open_issues": 37,
+  "watchers": 12176,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1231
+  "_index": 1236
 }

@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/mingchen/docker-android-build-box/deployments",
   "created_at": "2016-10-26T23:20:09Z",
   "updated_at": "2022-11-13T13:47:59Z",
-  "pushed_at": "2022-07-24T00:48:28Z",
+  "pushed_at": "2022-11-15T08:30:52Z",
   "git_url": "git://github.com/mingchen/docker-android-build-box.git",
   "ssh_url": "git@github.com:mingchen/docker-android-build-box.git",
   "clone_url": "https://github.com/mingchen/docker-android-build-box.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 174,
+  "forks_count": 175,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 4,
+  "open_issues_count": 6,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,8 +109,8 @@
     "pipeline"
   ],
   "visibility": "public",
-  "forks": 174,
-  "open_issues": 4,
+  "forks": 175,
+  "open_issues": 6,
   "watchers": 381,
   "default_branch": "master",
   "permissions": {
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 27
+  "_index": 33
 }

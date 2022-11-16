@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/swimlane/ngx-charts/releases{/id}",
   "deployments_url": "https://api.github.com/repos/swimlane/ngx-charts/deployments",
   "created_at": "2016-07-22T15:58:41Z",
-  "updated_at": "2022-11-14T17:07:24Z",
-  "pushed_at": "2022-11-11T11:45:48Z",
+  "updated_at": "2022-11-16T01:25:08Z",
+  "pushed_at": "2022-11-15T22:21:09Z",
   "git_url": "git://github.com/swimlane/ngx-charts.git",
   "ssh_url": "git@github.com:swimlane/ngx-charts.git",
   "clone_url": "https://github.com/swimlane/ngx-charts.git",
   "svn_url": "https://github.com/swimlane/ngx-charts",
   "homepage": "https://swimlane.github.io/ngx-charts/",
   "size": 57414,
-  "stargazers_count": 4163,
-  "watchers_count": 4163,
+  "stargazers_count": 4165,
+  "watchers_count": 4165,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 1138,
   "open_issues": 753,
-  "watchers": 4163,
+  "watchers": 4165,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2299
+  "_index": 2304
 }

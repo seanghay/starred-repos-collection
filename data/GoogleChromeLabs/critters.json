@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/GoogleChromeLabs/critters/deployments",
   "created_at": "2018-05-30T18:01:01Z",
   "updated_at": "2022-11-13T14:29:11Z",
-  "pushed_at": "2022-08-08T13:23:12Z",
+  "pushed_at": "2022-11-15T08:41:04Z",
   "git_url": "git://github.com/GoogleChromeLabs/critters.git",
   "ssh_url": "git@github.com:GoogleChromeLabs/critters.git",
   "clone_url": "https://github.com/GoogleChromeLabs/critters.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 95,
+  "forks_count": 96,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 32,
+  "open_issues_count": 33,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -105,8 +105,8 @@
     "webpack-plugin"
   ],
   "visibility": "public",
-  "forks": 95,
-  "open_issues": 32,
+  "forks": 96,
+  "open_issues": 33,
   "watchers": 3159,
   "default_branch": "main",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2268
+  "_index": 2273
 }

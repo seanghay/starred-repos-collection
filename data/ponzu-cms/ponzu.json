@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ponzu-cms/ponzu/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ponzu-cms/ponzu/deployments",
   "created_at": "2016-09-17T03:30:07Z",
-  "updated_at": "2022-11-14T01:16:02Z",
+  "updated_at": "2022-11-15T04:12:23Z",
   "pushed_at": "2021-05-02T21:48:49Z",
   "git_url": "git://github.com/ponzu-cms/ponzu.git",
   "ssh_url": "git@github.com:ponzu-cms/ponzu.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ponzu-cms/ponzu",
   "homepage": "https://docs.ponzu-cms.org",
   "size": 3611,
-  "stargazers_count": 5495,
-  "watchers_count": 5495,
+  "stargazers_count": 5496,
+  "watchers_count": 5496,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 413,
   "open_issues": 30,
-  "watchers": 5495,
+  "watchers": 5496,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 772
+  "_index": 777
 }

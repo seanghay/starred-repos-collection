@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/mantinedev/mantine/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mantinedev/mantine/deployments",
   "created_at": "2021-01-07T14:02:19Z",
-  "updated_at": "2022-11-15T02:20:38Z",
-  "pushed_at": "2022-11-14T22:57:24Z",
+  "updated_at": "2022-11-15T23:37:45Z",
+  "pushed_at": "2022-11-15T22:51:01Z",
   "git_url": "git://github.com/mantinedev/mantine.git",
   "ssh_url": "git@github.com:mantinedev/mantine.git",
   "clone_url": "https://github.com/mantinedev/mantine.git",
   "svn_url": "https://github.com/mantinedev/mantine",
   "homepage": "https://mantine.dev",
-  "size": 333188,
-  "stargazers_count": 15722,
-  "watchers_count": 15722,
+  "size": 333193,
+  "stargazers_count": 15740,
+  "watchers_count": 15740,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 1027,
+  "forks_count": 1029,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 47,
+  "open_issues_count": 50,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,9 +106,9 @@
     "uikit"
   ],
   "visibility": "public",
-  "forks": 1027,
-  "open_issues": 47,
-  "watchers": 15722,
+  "forks": 1029,
+  "open_issues": 50,
+  "watchers": 15740,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 188
+  "_index": 193
 }

@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/meilisearch/charabia/releases{/id}",
   "deployments_url": "https://api.github.com/repos/meilisearch/charabia/deployments",
   "created_at": "2020-10-06T13:00:37Z",
-  "updated_at": "2022-11-14T05:44:27Z",
-  "pushed_at": "2022-11-12T04:02:37Z",
+  "updated_at": "2022-11-15T13:58:39Z",
+  "pushed_at": "2022-11-15T15:26:12Z",
   "git_url": "git://github.com/meilisearch/charabia.git",
   "ssh_url": "git@github.com:meilisearch/charabia.git",
   "clone_url": "https://github.com/meilisearch/charabia.git",
   "svn_url": "https://github.com/meilisearch/charabia",
   "homepage": null,
-  "size": 1481,
+  "size": 1484,
   "stargazers_count": 110,
   "watchers_count": 110,
   "language": "Rust",
@@ -97,9 +97,7 @@
   "allow_forking": true,
   "is_template": false,
   "web_commit_signoff_required": false,
-  "topics": [
-    "hacktoberfest"
-  ],
+  "topics": [],
   "visibility": "public",
   "forks": 49,
   "open_issues": 9,
@@ -112,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 503
+  "_index": 508
 }

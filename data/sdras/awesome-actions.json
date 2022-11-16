@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sdras/awesome-actions/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sdras/awesome-actions/deployments",
   "created_at": "2018-10-17T17:53:45Z",
-  "updated_at": "2022-11-15T00:49:29Z",
+  "updated_at": "2022-11-16T02:10:32Z",
   "pushed_at": "2022-11-02T16:17:57Z",
   "git_url": "git://github.com/sdras/awesome-actions.git",
   "ssh_url": "git@github.com:sdras/awesome-actions.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sdras/awesome-actions",
   "homepage": "",
   "size": 1083,
-  "stargazers_count": 20197,
-  "watchers_count": 20197,
+  "stargazers_count": 20205,
+  "watchers_count": 20205,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1304,
+  "forks_count": 1305,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 106,
+  "open_issues_count": 105,
   "license": {
     "key": "cc0-1.0",
     "name": "Creative Commons Zero v1.0 Universal",
@@ -108,9 +108,9 @@
     "github-actions"
   ],
   "visibility": "public",
-  "forks": 1304,
-  "open_issues": 106,
-  "watchers": 20197,
+  "forks": 1305,
+  "open_issues": 105,
+  "watchers": 20205,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 624
+  "_index": 629
 }

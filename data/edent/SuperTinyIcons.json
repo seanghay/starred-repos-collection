@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/edent/SuperTinyIcons/releases{/id}",
   "deployments_url": "https://api.github.com/repos/edent/SuperTinyIcons/deployments",
   "created_at": "2017-04-13T23:28:34Z",
-  "updated_at": "2022-11-12T07:51:35Z",
-  "pushed_at": "2022-11-15T00:19:15Z",
+  "updated_at": "2022-11-15T20:37:24Z",
+  "pushed_at": "2022-11-15T10:52:09Z",
   "git_url": "git://github.com/edent/SuperTinyIcons.git",
   "ssh_url": "git@github.com:edent/SuperTinyIcons.git",
   "clone_url": "https://github.com/edent/SuperTinyIcons.git",
   "svn_url": "https://github.com/edent/SuperTinyIcons",
   "homepage": "",
-  "size": 8035,
-  "stargazers_count": 13662,
-  "watchers_count": 13662,
+  "size": 8056,
+  "stargazers_count": 13664,
+  "watchers_count": 13664,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 820,
+  "forks_count": 821,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 26,
+  "open_issues_count": 25,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,9 +106,9 @@
     "tiny-social-icons"
   ],
   "visibility": "public",
-  "forks": 820,
-  "open_issues": 26,
-  "watchers": 13662,
+  "forks": 821,
+  "open_issues": 25,
+  "watchers": 13664,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1311
+  "_index": 1316
 }

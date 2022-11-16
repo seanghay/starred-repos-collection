@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Kotlin/kotlinx.coroutines/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Kotlin/kotlinx.coroutines/deployments",
   "created_at": "2016-06-22T13:49:21Z",
-  "updated_at": "2022-11-14T20:14:14Z",
-  "pushed_at": "2022-11-14T16:24:27Z",
+  "updated_at": "2022-11-15T18:09:00Z",
+  "pushed_at": "2022-11-15T17:29:15Z",
   "git_url": "git://github.com/Kotlin/kotlinx.coroutines.git",
   "ssh_url": "git@github.com:Kotlin/kotlinx.coroutines.git",
   "clone_url": "https://github.com/Kotlin/kotlinx.coroutines.git",
   "svn_url": "https://github.com/Kotlin/kotlinx.coroutines",
   "homepage": "",
-  "size": 33061,
-  "stargazers_count": 11417,
-  "watchers_count": 11417,
+  "size": 33062,
+  "stargazers_count": 11421,
+  "watchers_count": 11421,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1667,
+  "forks_count": 1670,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 265,
+  "open_issues_count": 264,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -103,9 +103,9 @@
     "kotlin"
   ],
   "visibility": "public",
-  "forks": 1667,
-  "open_issues": 265,
-  "watchers": 11417,
+  "forks": 1670,
+  "open_issues": 264,
+  "watchers": 11421,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1923
+  "_index": 1928
 }

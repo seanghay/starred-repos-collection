@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Tinder/Scarlet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Tinder/Scarlet/deployments",
   "created_at": "2018-05-29T17:23:18Z",
-  "updated_at": "2022-11-14T09:04:11Z",
+  "updated_at": "2022-11-15T06:41:59Z",
   "pushed_at": "2022-08-20T12:58:39Z",
   "git_url": "git://github.com/Tinder/Scarlet.git",
   "ssh_url": "git@github.com:Tinder/Scarlet.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Tinder/Scarlet",
   "homepage": "",
   "size": 1523,
-  "stargazers_count": 2993,
-  "watchers_count": 2993,
+  "stargazers_count": 2995,
+  "watchers_count": 2995,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 228,
   "open_issues": 93,
-  "watchers": 2993,
+  "watchers": 2995,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1001
+  "_index": 1006
 }

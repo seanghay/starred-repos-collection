@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/NginxProxyManager/nginx-proxy-manager/releases{/id}",
   "deployments_url": "https://api.github.com/repos/NginxProxyManager/nginx-proxy-manager/deployments",
   "created_at": "2017-12-20T23:01:16Z",
-  "updated_at": "2022-11-15T01:44:58Z",
-  "pushed_at": "2022-11-14T21:54:51Z",
+  "updated_at": "2022-11-16T02:03:33Z",
+  "pushed_at": "2022-11-16T01:05:03Z",
   "git_url": "git://github.com/NginxProxyManager/nginx-proxy-manager.git",
   "ssh_url": "git@github.com:NginxProxyManager/nginx-proxy-manager.git",
   "clone_url": "https://github.com/NginxProxyManager/nginx-proxy-manager.git",
   "svn_url": "https://github.com/NginxProxyManager/nginx-proxy-manager",
   "homepage": "https://nginxproxymanager.com",
   "size": 8219,
-  "stargazers_count": 9974,
-  "watchers_count": 9974,
+  "stargazers_count": 9989,
+  "watchers_count": 9989,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1216,
+  "forks_count": 1218,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 754,
+  "open_issues_count": 756,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -102,9 +102,9 @@
     "nginx-proxy"
   ],
   "visibility": "public",
-  "forks": 1216,
-  "open_issues": 754,
-  "watchers": 9974,
+  "forks": 1218,
+  "open_issues": 756,
+  "watchers": 9989,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 784
+  "_index": 789
 }

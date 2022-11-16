@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/leizongmin/js-xss/releases{/id}",
   "deployments_url": "https://api.github.com/repos/leizongmin/js-xss/deployments",
   "created_at": "2012-09-18T14:05:07Z",
-  "updated_at": "2022-11-15T02:43:57Z",
+  "updated_at": "2022-11-15T18:51:38Z",
   "pushed_at": "2022-08-16T13:54:52Z",
   "git_url": "git://github.com/leizongmin/js-xss.git",
   "ssh_url": "git@github.com:leizongmin/js-xss.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/leizongmin/js-xss",
   "homepage": "http://jsxss.com",
   "size": 3673,
-  "stargazers_count": 4720,
-  "watchers_count": 4720,
+  "stargazers_count": 4723,
+  "watchers_count": 4723,
   "language": "HTML",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 49,
+  "open_issues_count": 50,
   "license": {
     "key": "other",
     "name": "Other",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 623,
-  "open_issues": 49,
-  "watchers": 4720,
+  "open_issues": 50,
+  "watchers": 4723,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 598
+  "_index": 603
 }

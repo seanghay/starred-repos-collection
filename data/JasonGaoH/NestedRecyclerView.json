@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/JasonGaoH/NestedRecyclerView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JasonGaoH/NestedRecyclerView/deployments",
   "created_at": "2019-08-15T09:38:52Z",
-  "updated_at": "2022-11-14T12:53:14Z",
+  "updated_at": "2022-11-15T14:51:37Z",
   "pushed_at": "2022-04-15T16:10:16Z",
   "git_url": "git://github.com/JasonGaoH/NestedRecyclerView.git",
   "ssh_url": "git@github.com:JasonGaoH/NestedRecyclerView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/JasonGaoH/NestedRecyclerView",
   "homepage": "",
   "size": 3682,
-  "stargazers_count": 611,
-  "watchers_count": 611,
+  "stargazers_count": 612,
+  "watchers_count": 612,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -99,7 +99,7 @@
   "visibility": "public",
   "forks": 85,
   "open_issues": 17,
-  "watchers": 611,
+  "watchers": 612,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -108,5 +108,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1435
+  "_index": 1440
 }
