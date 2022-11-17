@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 34,
+  "forks_count": 35,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -117,7 +117,7 @@
     "xcode"
   ],
   "visibility": "public",
-  "forks": 34,
+  "forks": 35,
   "open_issues": 19,
   "watchers": 836,
   "default_branch": "main",
