@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/automerge/automerge/releases{/id}",
   "deployments_url": "https://api.github.com/repos/automerge/automerge/deployments",
   "created_at": "2017-04-19T15:25:24Z",
-  "updated_at": "2022-11-16T08:52:55Z",
+  "updated_at": "2022-11-18T01:46:54Z",
   "pushed_at": "2022-11-10T08:46:43Z",
   "git_url": "git://github.com/automerge/automerge.git",
   "ssh_url": "git@github.com:automerge/automerge.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/automerge/automerge",
   "homepage": "http://automerge.org/",
   "size": 3875,
-  "stargazers_count": 14023,
-  "watchers_count": 14023,
+  "stargazers_count": 14025,
+  "watchers_count": 14025,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 4056,
   "open_issues": 72,
-  "watchers": 14023,
+  "watchers": 14025,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1105
+  "_index": 1106
 }

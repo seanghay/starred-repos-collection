@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/AlexandrGraschenkov/QRCodes/releases{/id}",
   "deployments_url": "https://api.github.com/repos/AlexandrGraschenkov/QRCodes/deployments",
   "created_at": "2018-11-24T12:56:38Z",
-  "updated_at": "2022-10-05T11:13:07Z",
+  "updated_at": "2022-11-17T16:34:39Z",
   "pushed_at": "2020-12-10T07:07:20Z",
   "git_url": "git://github.com/AlexandrGraschenkov/QRCodes.git",
   "ssh_url": "git@github.com:AlexandrGraschenkov/QRCodes.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/AlexandrGraschenkov/QRCodes",
   "homepage": null,
   "size": 7505,
-  "stargazers_count": 63,
-  "watchers_count": 63,
+  "stargazers_count": 64,
+  "watchers_count": 64,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 20,
   "open_issues": 1,
-  "watchers": 63,
+  "watchers": 64,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 679
+  "_index": 680
 }

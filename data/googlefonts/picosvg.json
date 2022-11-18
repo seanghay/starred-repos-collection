@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/googlefonts/picosvg/releases{/id}",
   "deployments_url": "https://api.github.com/repos/googlefonts/picosvg/deployments",
   "created_at": "2020-04-04T19:25:03Z",
-  "updated_at": "2022-10-26T05:46:02Z",
-  "pushed_at": "2022-11-16T18:42:33Z",
+  "updated_at": "2022-11-17T11:40:56Z",
+  "pushed_at": "2022-11-17T15:46:10Z",
   "git_url": "git://github.com/googlefonts/picosvg.git",
   "ssh_url": "git@github.com:googlefonts/picosvg.git",
   "clone_url": "https://github.com/googlefonts/picosvg.git",
   "svn_url": "https://github.com/googlefonts/picosvg",
   "homepage": null,
-  "size": 807,
-  "stargazers_count": 92,
-  "watchers_count": 92,
+  "size": 808,
+  "stargazers_count": 93,
+  "watchers_count": 93,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 8,
   "open_issues": 22,
-  "watchers": 92,
+  "watchers": 93,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 144
+  "_index": 145
 }

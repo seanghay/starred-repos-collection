@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/viktorstrate/prisma-server-docker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/viktorstrate/prisma-server-docker/deployments",
   "created_at": "2018-08-28T19:39:30Z",
-  "updated_at": "2022-07-17T17:37:27Z",
+  "updated_at": "2022-11-18T00:49:20Z",
   "pushed_at": "2018-08-28T20:01:56Z",
   "git_url": "git://github.com/viktorstrate/prisma-server-docker.git",
   "ssh_url": "git@github.com:viktorstrate/prisma-server-docker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/viktorstrate/prisma-server-docker",
   "homepage": "",
   "size": 42,
-  "stargazers_count": 27,
-  "watchers_count": 27,
+  "stargazers_count": 28,
+  "watchers_count": 28,
   "language": "Shell",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 11,
   "open_issues": 1,
-  "watchers": 27,
+  "watchers": 28,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1074
+  "_index": 1075
 }

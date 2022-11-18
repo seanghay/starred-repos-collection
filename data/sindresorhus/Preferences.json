@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/Preferences/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/Preferences/deployments",
   "created_at": "2018-06-29T13:05:08Z",
-  "updated_at": "2022-11-16T23:20:06Z",
+  "updated_at": "2022-11-17T13:57:15Z",
   "pushed_at": "2022-09-22T10:16:21Z",
   "git_url": "git://github.com/sindresorhus/Preferences.git",
   "ssh_url": "git@github.com:sindresorhus/Preferences.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sindresorhus/Preferences",
   "homepage": "",
   "size": 7339,
-  "stargazers_count": 1186,
-  "watchers_count": 1186,
+  "stargazers_count": 1187,
+  "watchers_count": 1187,
   "language": "Swift",
   "has_issues": true,
   "has_projects": false,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 72,
   "open_issues": 23,
-  "watchers": 1186,
+  "watchers": 1187,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 287
+  "_index": 288
 }

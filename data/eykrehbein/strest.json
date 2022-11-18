@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/eykrehbein/strest/releases{/id}",
   "deployments_url": "https://api.github.com/repos/eykrehbein/strest/deployments",
   "created_at": "2018-09-08T11:33:38Z",
-  "updated_at": "2022-11-10T17:04:03Z",
+  "updated_at": "2022-11-18T02:28:06Z",
   "pushed_at": "2020-03-14T20:41:19Z",
   "git_url": "git://github.com/eykrehbein/strest.git",
   "ssh_url": "git@github.com:eykrehbein/strest.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/eykrehbein/strest",
   "homepage": "",
   "size": 319,
-  "stargazers_count": 1742,
-  "watchers_count": 1742,
+  "stargazers_count": 1743,
+  "watchers_count": 1743,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 59,
   "open_issues": 21,
-  "watchers": 1742,
+  "watchers": 1743,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2231
+  "_index": 2232
 }

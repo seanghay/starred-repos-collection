@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/FredKSchott/snowpack/releases{/id}",
   "deployments_url": "https://api.github.com/repos/FredKSchott/snowpack/deployments",
   "created_at": "2019-02-26T15:45:38Z",
-  "updated_at": "2022-11-17T00:45:03Z",
+  "updated_at": "2022-11-17T15:16:34Z",
   "pushed_at": "2022-11-14T02:48:34Z",
   "git_url": "git://github.com/FredKSchott/snowpack.git",
   "ssh_url": "git@github.com:FredKSchott/snowpack.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2130
+  "_index": 2131
 }

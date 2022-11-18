@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/robolectric/robolectric/releases{/id}",
   "deployments_url": "https://api.github.com/repos/robolectric/robolectric/deployments",
   "created_at": "2010-08-28T00:28:25Z",
-  "updated_at": "2022-11-14T07:39:59Z",
-  "pushed_at": "2022-11-16T22:54:24Z",
+  "updated_at": "2022-11-17T11:39:09Z",
+  "pushed_at": "2022-11-18T02:31:53Z",
   "git_url": "git://github.com/robolectric/robolectric.git",
   "ssh_url": "git@github.com:robolectric/robolectric.git",
   "clone_url": "https://github.com/robolectric/robolectric.git",
   "svn_url": "https://github.com/robolectric/robolectric",
   "homepage": "http://robolectric.org",
-  "size": 54002,
-  "stargazers_count": 5559,
-  "watchers_count": 5559,
+  "size": 54035,
+  "stargazers_count": 5560,
+  "watchers_count": 5560,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 1325,
   "open_issues": 676,
-  "watchers": 5559,
+  "watchers": 5560,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1679
+  "_index": 1680
 }

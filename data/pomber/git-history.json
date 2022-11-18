@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pomber/git-history/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pomber/git-history/deployments",
   "created_at": "2019-02-04T21:00:39Z",
-  "updated_at": "2022-11-17T00:49:42Z",
+  "updated_at": "2022-11-17T04:28:30Z",
   "pushed_at": "2022-09-01T08:39:51Z",
   "git_url": "git://github.com/pomber/git-history.git",
   "ssh_url": "git@github.com:pomber/git-history.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/pomber/git-history",
   "homepage": "https://githistory.xyz/",
   "size": 33136,
-  "stargazers_count": 13134,
-  "watchers_count": 13134,
+  "stargazers_count": 13135,
+  "watchers_count": 13135,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 538,
+  "forks_count": 539,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -111,9 +111,9 @@
     "vscode-extension"
   ],
   "visibility": "public",
-  "forks": 538,
+  "forks": 539,
   "open_issues": 73,
-  "watchers": 13134,
+  "watchers": 13135,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2155
+  "_index": 2156
 }

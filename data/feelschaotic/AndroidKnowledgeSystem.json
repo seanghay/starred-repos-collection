@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/feelschaotic/AndroidKnowledgeSystem/releases{/id}",
   "deployments_url": "https://api.github.com/repos/feelschaotic/AndroidKnowledgeSystem/deployments",
   "created_at": "2019-01-06T06:26:11Z",
-  "updated_at": "2022-11-11T09:47:14Z",
+  "updated_at": "2022-11-17T06:35:37Z",
   "pushed_at": "2022-03-08T14:19:36Z",
   "git_url": "git://github.com/feelschaotic/AndroidKnowledgeSystem.git",
   "ssh_url": "git@github.com:feelschaotic/AndroidKnowledgeSystem.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/feelschaotic/AndroidKnowledgeSystem",
   "homepage": "https://feelschaotic.gitbook.io/android-knowledge-system/",
   "size": 41031,
-  "stargazers_count": 2989,
-  "watchers_count": 2989,
+  "stargazers_count": 2990,
+  "watchers_count": 2990,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 10,
+  "open_issues_count": 11,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -100,8 +100,8 @@
   ],
   "visibility": "public",
   "forks": 461,
-  "open_issues": 10,
-  "watchers": 2989,
+  "open_issues": 11,
+  "watchers": 2990,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1332
+  "_index": 1333
 }
