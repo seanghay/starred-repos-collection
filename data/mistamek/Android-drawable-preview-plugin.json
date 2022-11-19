@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mistamek/Android-drawable-preview-plugin/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mistamek/Android-drawable-preview-plugin/deployments",
   "created_at": "2018-05-14T18:16:28Z",
-  "updated_at": "2022-11-09T12:58:48Z",
+  "updated_at": "2022-11-18T17:54:19Z",
   "pushed_at": "2022-06-17T14:03:08Z",
   "git_url": "git://github.com/mistamek/Android-drawable-preview-plugin.git",
   "ssh_url": "git@github.com:mistamek/Android-drawable-preview-plugin.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mistamek/Android-drawable-preview-plugin",
   "homepage": null,
   "size": 4353,
-  "stargazers_count": 450,
-  "watchers_count": 450,
+  "stargazers_count": 449,
+  "watchers_count": 449,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 25,
   "open_issues": 0,
-  "watchers": 450,
+  "watchers": 449,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2243
+  "_index": 2244
 }

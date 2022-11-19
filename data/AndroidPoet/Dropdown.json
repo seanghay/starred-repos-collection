@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/AndroidPoet/Dropdown/deployments",
   "created_at": "2022-04-25T01:28:25Z",
   "updated_at": "2022-11-18T02:02:10Z",
-  "pushed_at": "2022-09-24T12:13:52Z",
+  "pushed_at": "2022-11-18T14:46:39Z",
   "git_url": "git://github.com/AndroidPoet/Dropdown.git",
   "ssh_url": "git@github.com:AndroidPoet/Dropdown.git",
   "clone_url": "https://github.com/AndroidPoet/Dropdown.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 4,
+  "forks_count": 5,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 0,
+  "open_issues_count": 1,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -108,8 +108,8 @@
     "menubar"
   ],
   "visibility": "public",
-  "forks": 4,
-  "open_issues": 0,
+  "forks": 5,
+  "open_issues": 1,
   "watchers": 177,
   "default_branch": "master",
   "permissions": {
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 346
+  "_index": 347
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Sanster/lama-cleaner/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Sanster/lama-cleaner/deployments",
   "created_at": "2021-11-15T14:16:40Z",
-  "updated_at": "2022-11-18T02:35:39Z",
+  "updated_at": "2022-11-19T02:32:03Z",
   "pushed_at": "2022-11-17T14:20:42Z",
   "git_url": "git://github.com/Sanster/lama-cleaner.git",
   "ssh_url": "git@github.com:Sanster/lama-cleaner.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Sanster/lama-cleaner",
   "homepage": "",
   "size": 10568,
-  "stargazers_count": 4465,
-  "watchers_count": 4465,
+  "stargazers_count": 4562,
+  "watchers_count": 4562,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 359,
+  "forks_count": 363,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 34,
+  "open_issues_count": 37,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -107,9 +107,9 @@
     "zits"
   ],
   "visibility": "public",
-  "forks": 359,
-  "open_issues": 34,
-  "watchers": 4465,
+  "forks": 363,
+  "open_issues": 37,
+  "watchers": 4562,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 25
+  "_index": 26
 }

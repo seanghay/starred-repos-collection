@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/Netflix/atlas/deployments",
   "created_at": "2014-08-05T05:23:04Z",
   "updated_at": "2022-11-15T16:41:32Z",
-  "pushed_at": "2022-11-14T17:19:44Z",
+  "pushed_at": "2022-11-18T04:10:49Z",
   "git_url": "git://github.com/Netflix/atlas.git",
   "ssh_url": "git@github.com:Netflix/atlas.git",
   "clone_url": "https://github.com/Netflix/atlas.git",
   "svn_url": "https://github.com/Netflix/atlas",
   "homepage": "",
-  "size": 90699,
+  "size": 90821,
   "stargazers_count": 3158,
   "watchers_count": 3158,
   "language": "Scala",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 22
+  "_index": 23
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/dolthub/dolt/releases{/id}",
   "deployments_url": "https://api.github.com/repos/dolthub/dolt/deployments",
   "created_at": "2019-07-24T17:46:25Z",
-  "updated_at": "2022-11-17T19:58:19Z",
-  "pushed_at": "2022-11-18T00:20:07Z",
+  "updated_at": "2022-11-18T23:03:37Z",
+  "pushed_at": "2022-11-19T01:04:16Z",
   "git_url": "git://github.com/dolthub/dolt.git",
   "ssh_url": "git@github.com:dolthub/dolt.git",
   "clone_url": "https://github.com/dolthub/dolt.git",
   "svn_url": "https://github.com/dolthub/dolt",
   "homepage": "",
-  "size": 123253,
-  "stargazers_count": 13383,
-  "watchers_count": 13383,
+  "size": 123266,
+  "stargazers_count": 13391,
+  "watchers_count": 13391,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 269,
+  "open_issues_count": 264,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -118,8 +118,8 @@
   ],
   "visibility": "public",
   "forks": 380,
-  "open_issues": 269,
-  "watchers": 13383,
+  "open_issues": 264,
+  "watchers": 13391,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 948
+  "_index": 949
 }

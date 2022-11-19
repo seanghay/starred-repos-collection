@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/andrewjapar/rangedatepicker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/andrewjapar/rangedatepicker/deployments",
   "created_at": "2020-01-08T13:51:02Z",
-  "updated_at": "2022-11-10T04:08:03Z",
+  "updated_at": "2022-11-18T09:06:32Z",
   "pushed_at": "2020-09-06T15:38:00Z",
   "git_url": "git://github.com/andrewjapar/rangedatepicker.git",
   "ssh_url": "git@github.com:andrewjapar/rangedatepicker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/andrewjapar/rangedatepicker",
   "homepage": "",
   "size": 12491,
-  "stargazers_count": 112,
-  "watchers_count": 112,
+  "stargazers_count": 111,
+  "watchers_count": 111,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 21,
+  "forks_count": 20,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "single-datepicker"
   ],
   "visibility": "public",
-  "forks": 21,
+  "forks": 20,
   "open_issues": 10,
-  "watchers": 112,
+  "watchers": 111,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1489
+  "_index": 1490
 }

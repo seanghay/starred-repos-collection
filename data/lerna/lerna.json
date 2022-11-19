@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/lerna/lerna/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lerna/lerna/deployments",
   "created_at": "2015-12-04T09:36:55Z",
-  "updated_at": "2022-11-18T01:26:58Z",
-  "pushed_at": "2022-11-17T11:33:32Z",
+  "updated_at": "2022-11-18T23:59:33Z",
+  "pushed_at": "2022-11-18T20:19:39Z",
   "git_url": "git://github.com/lerna/lerna.git",
   "ssh_url": "git@github.com:lerna/lerna.git",
   "clone_url": "https://github.com/lerna/lerna.git",
   "svn_url": "https://github.com/lerna/lerna",
   "homepage": "https://lerna.js.org",
   "size": 22270,
-  "stargazers_count": 33898,
-  "watchers_count": 33898,
+  "stargazers_count": 33909,
+  "watchers_count": 33909,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2259,
+  "forks_count": 2260,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 433,
+  "open_issues_count": 436,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,9 +105,9 @@
     "publishing"
   ],
   "visibility": "public",
-  "forks": 2259,
-  "open_issues": 433,
-  "watchers": 33898,
+  "forks": 2260,
+  "open_issues": 436,
+  "watchers": 33909,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2275
+  "_index": 2276
 }

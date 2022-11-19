@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/adonisjs/core/releases{/id}",
   "deployments_url": "https://api.github.com/repos/adonisjs/core/deployments",
   "created_at": "2015-08-15T17:03:54Z",
-  "updated_at": "2022-11-17T05:41:48Z",
+  "updated_at": "2022-11-19T00:51:18Z",
   "pushed_at": "2022-11-13T08:38:10Z",
   "git_url": "git://github.com/adonisjs/core.git",
   "ssh_url": "git@github.com:adonisjs/core.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/adonisjs/core",
   "homepage": "https://adonisjs.com",
   "size": 5411,
-  "stargazers_count": 13228,
-  "watchers_count": 13228,
+  "stargazers_count": 13235,
+  "watchers_count": 13235,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 3,
+  "open_issues_count": 5,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,8 +109,8 @@
   ],
   "visibility": "public",
   "forks": 596,
-  "open_issues": 3,
-  "watchers": 13228,
+  "open_issues": 5,
+  "watchers": 13235,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 386
+  "_index": 387
 }

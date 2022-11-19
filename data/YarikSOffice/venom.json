@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/YarikSOffice/venom/releases{/id}",
   "deployments_url": "https://api.github.com/repos/YarikSOffice/venom/deployments",
   "created_at": "2020-04-12T20:12:50Z",
-  "updated_at": "2022-11-14T08:44:52Z",
+  "updated_at": "2022-11-18T10:55:20Z",
   "pushed_at": "2022-09-24T20:51:00Z",
   "git_url": "git://github.com/YarikSOffice/venom.git",
   "ssh_url": "git@github.com:YarikSOffice/venom.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/YarikSOffice/venom",
   "homepage": "",
   "size": 4292,
-  "stargazers_count": 261,
-  "watchers_count": 261,
+  "stargazers_count": 262,
+  "watchers_count": 262,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 9,
   "open_issues": 5,
-  "watchers": 261,
+  "watchers": 262,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 806
+  "_index": 807
 }

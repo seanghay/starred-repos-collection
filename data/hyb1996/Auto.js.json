@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/hyb1996/Auto.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hyb1996/Auto.js/deployments",
   "created_at": "2017-01-27T01:01:16Z",
-  "updated_at": "2022-11-18T02:08:53Z",
+  "updated_at": "2022-11-19T00:42:18Z",
   "pushed_at": "2022-10-28T08:45:29Z",
   "git_url": "git://github.com/hyb1996/Auto.js.git",
   "ssh_url": "git@github.com:hyb1996/Auto.js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/hyb1996/Auto.js",
   "homepage": "https://pro.autojs.org",
   "size": 130105,
-  "stargazers_count": 12243,
-  "watchers_count": 12243,
+  "stargazers_count": 12247,
+  "watchers_count": 12247,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 88,
+  "open_issues_count": 89,
   "license": {
     "key": "other",
     "name": "Other",
@@ -110,8 +110,8 @@
   ],
   "visibility": "public",
   "forks": 3805,
-  "open_issues": 88,
-  "watchers": 12243,
+  "open_issues": 89,
+  "watchers": 12247,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1268
+  "_index": 1269
 }

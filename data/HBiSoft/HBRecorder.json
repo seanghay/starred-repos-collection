@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/HBiSoft/HBRecorder/releases{/id}",
   "deployments_url": "https://api.github.com/repos/HBiSoft/HBRecorder/deployments",
   "created_at": "2019-08-14T07:11:00Z",
-  "updated_at": "2022-11-16T04:12:07Z",
+  "updated_at": "2022-11-18T13:09:16Z",
   "pushed_at": "2022-08-17T11:25:14Z",
   "git_url": "git://github.com/HBiSoft/HBRecorder.git",
   "ssh_url": "git@github.com:HBiSoft/HBRecorder.git",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1436
+  "_index": 1437
 }
