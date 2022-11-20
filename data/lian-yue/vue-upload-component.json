@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lian-yue/vue-upload-component/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lian-yue/vue-upload-component/deployments",
   "created_at": "2016-05-20T02:07:39Z",
-  "updated_at": "2022-11-18T08:57:28Z",
+  "updated_at": "2022-11-19T08:23:12Z",
   "pushed_at": "2022-11-11T06:00:37Z",
   "git_url": "git://github.com/lian-yue/vue-upload-component.git",
   "ssh_url": "git@github.com:lian-yue/vue-upload-component.git",
