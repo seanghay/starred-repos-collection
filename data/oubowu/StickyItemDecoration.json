@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/oubowu/StickyItemDecoration/releases{/id}",
   "deployments_url": "https://api.github.com/repos/oubowu/StickyItemDecoration/deployments",
   "created_at": "2017-01-09T15:45:46Z",
-  "updated_at": "2022-11-16T14:30:19Z",
+  "updated_at": "2022-11-20T13:51:26Z",
   "pushed_at": "2020-05-21T11:46:15Z",
   "git_url": "git://github.com/oubowu/StickyItemDecoration.git",
   "ssh_url": "git@github.com:oubowu/StickyItemDecoration.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/oubowu/StickyItemDecoration",
   "homepage": "",
   "size": 123,
-  "stargazers_count": 852,
-  "watchers_count": 852,
+  "stargazers_count": 853,
+  "watchers_count": 853,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -103,7 +103,7 @@
   "visibility": "public",
   "forks": 89,
   "open_issues": 9,
-  "watchers": 852,
+  "watchers": 853,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1498
+  "_index": 1500
 }

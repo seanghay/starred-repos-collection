@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/huzhenjie/RichTextEditor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/huzhenjie/RichTextEditor/deployments",
   "created_at": "2016-08-15T02:08:31Z",
-  "updated_at": "2022-11-02T04:11:25Z",
+  "updated_at": "2022-11-20T16:04:02Z",
   "pushed_at": "2018-02-11T12:26:35Z",
   "git_url": "git://github.com/huzhenjie/RichTextEditor.git",
   "ssh_url": "git@github.com:huzhenjie/RichTextEditor.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/huzhenjie/RichTextEditor",
   "homepage": "",
   "size": 3244,
-  "stargazers_count": 192,
-  "watchers_count": 192,
+  "stargazers_count": 191,
+  "watchers_count": 191,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 40,
   "open_issues": 10,
-  "watchers": 192,
+  "watchers": 191,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1197
+  "_index": 1199
 }

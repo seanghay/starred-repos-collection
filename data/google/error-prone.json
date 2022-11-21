@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/error-prone/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/error-prone/deployments",
   "created_at": "2014-08-21T23:26:50Z",
-  "updated_at": "2022-11-19T03:58:32Z",
+  "updated_at": "2022-11-20T12:30:45Z",
   "pushed_at": "2022-11-18T13:17:07Z",
   "git_url": "git://github.com/google/error-prone.git",
   "ssh_url": "git@github.com:google/error-prone.git",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1084
+  "_index": 1086
 }

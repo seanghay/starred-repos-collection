@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/tjoskar/ng-lazyload-image/deployments",
   "created_at": "2016-02-20T09:30:48Z",
   "updated_at": "2022-11-15T09:25:57Z",
-  "pushed_at": "2022-11-15T22:20:52Z",
+  "pushed_at": "2022-11-20T18:22:47Z",
   "git_url": "git://github.com/tjoskar/ng-lazyload-image.git",
   "ssh_url": "git@github.com:tjoskar/ng-lazyload-image.git",
   "clone_url": "https://github.com/tjoskar/ng-lazyload-image.git",
   "svn_url": "https://github.com/tjoskar/ng-lazyload-image",
   "homepage": "https://naughty-bose-ec1cfc.netlify.com",
-  "size": 3118,
+  "size": 3471,
   "stargazers_count": 756,
   "watchers_count": 756,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 25,
+  "open_issues_count": 24,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,7 +103,7 @@
   ],
   "visibility": "public",
   "forks": 144,
-  "open_issues": 25,
+  "open_issues": 24,
   "watchers": 756,
   "default_branch": "main",
   "permissions": {
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2307
+  "_index": 2309
 }

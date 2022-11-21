@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ChiliLabs/ChiliPhotoPicker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ChiliLabs/ChiliPhotoPicker/deployments",
   "created_at": "2019-10-15T09:15:26Z",
-  "updated_at": "2022-11-15T12:49:31Z",
+  "updated_at": "2022-11-20T20:46:41Z",
   "pushed_at": "2021-01-14T12:50:19Z",
   "git_url": "git://github.com/ChiliLabs/ChiliPhotoPicker.git",
   "ssh_url": "git@github.com:ChiliLabs/ChiliPhotoPicker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ChiliLabs/ChiliPhotoPicker",
   "homepage": "",
   "size": 4650,
-  "stargazers_count": 388,
-  "watchers_count": 388,
+  "stargazers_count": 389,
+  "watchers_count": 389,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 43,
   "open_issues": 17,
-  "watchers": 388,
+  "watchers": 389,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1610
+  "_index": 1612
 }

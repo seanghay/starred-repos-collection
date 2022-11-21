@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/aiyaapp/AiyaEffectsAndroid/releases{/id}",
   "deployments_url": "https://api.github.com/repos/aiyaapp/AiyaEffectsAndroid/deployments",
   "created_at": "2017-03-09T01:46:41Z",
-  "updated_at": "2022-11-02T08:00:28Z",
+  "updated_at": "2022-11-20T05:58:33Z",
   "pushed_at": "2021-07-09T03:00:52Z",
   "git_url": "git://github.com/aiyaapp/AiyaEffectsAndroid.git",
   "ssh_url": "git@github.com:aiyaapp/AiyaEffectsAndroid.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/aiyaapp/AiyaEffectsAndroid",
   "homepage": "http://www.aiyaapp.com/product/bbtx",
   "size": 409410,
-  "stargazers_count": 981,
-  "watchers_count": 981,
+  "stargazers_count": 982,
+  "watchers_count": 982,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -102,7 +102,7 @@
   "visibility": "public",
   "forks": 294,
   "open_issues": 11,
-  "watchers": 981,
+  "watchers": 982,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -111,5 +111,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1799
+  "_index": 1801
 }

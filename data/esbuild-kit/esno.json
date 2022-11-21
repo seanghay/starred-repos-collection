@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/esbuild-kit/esno/releases{/id}",
   "deployments_url": "https://api.github.com/repos/esbuild-kit/esno/deployments",
   "created_at": "2020-08-05T06:37:14Z",
-  "updated_at": "2022-11-18T10:12:34Z",
+  "updated_at": "2022-11-20T11:49:28Z",
   "pushed_at": "2022-09-21T02:41:30Z",
   "git_url": "git://github.com/esbuild-kit/esno.git",
   "ssh_url": "git@github.com:esbuild-kit/esno.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/esbuild-kit/esno",
   "homepage": "https://github.com/esbuild-kit/tsx",
   "size": 91,
-  "stargazers_count": 1225,
-  "watchers_count": 1225,
+  "stargazers_count": 1228,
+  "watchers_count": 1228,
   "language": "TypeScript",
   "has_issues": false,
   "has_projects": true,
@@ -102,7 +102,7 @@
   "visibility": "public",
   "forks": 23,
   "open_issues": 0,
-  "watchers": 1225,
+  "watchers": 1228,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -111,5 +111,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 457
+  "_index": 459
 }

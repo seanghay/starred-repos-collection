@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/rollup/plugins/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rollup/plugins/deployments",
   "created_at": "2019-08-21T15:02:50Z",
-  "updated_at": "2022-11-18T10:34:52Z",
+  "updated_at": "2022-11-20T20:18:17Z",
   "pushed_at": "2022-11-19T16:18:07Z",
   "git_url": "git://github.com/rollup/plugins.git",
   "ssh_url": "git@github.com:rollup/plugins.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/rollup/plugins",
   "homepage": null,
   "size": 6314,
-  "stargazers_count": 2877,
-  "watchers_count": 2877,
+  "stargazers_count": 2879,
+  "watchers_count": 2879,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 459,
   "open_issues": 53,
-  "watchers": 2877,
+  "watchers": 2879,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 680
+  "_index": 682
 }

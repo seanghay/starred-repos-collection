@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/wooorm/markdown-table/deployments",
   "created_at": "2014-10-04T17:30:06Z",
   "updated_at": "2022-10-10T08:23:34Z",
-  "pushed_at": "2022-09-01T02:33:35Z",
+  "pushed_at": "2022-11-20T16:48:59Z",
   "git_url": "git://github.com/wooorm/markdown-table.git",
   "ssh_url": "git@github.com:wooorm/markdown-table.git",
   "clone_url": "https://github.com/wooorm/markdown-table.git",
   "svn_url": "https://github.com/wooorm/markdown-table",
   "homepage": "",
-  "size": 138,
+  "size": 145,
   "stargazers_count": 225,
   "watchers_count": 225,
   "language": "JavaScript",
@@ -96,7 +96,7 @@
   },
   "allow_forking": true,
   "is_template": false,
-  "web_commit_signoff_required": false,
+  "web_commit_signoff_required": true,
   "topics": [
     "ascii",
     "gfm",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 279
+  "_index": 281
 }

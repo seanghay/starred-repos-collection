@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/vatson/rollup-plugin-vuetify/deployments",
   "created_at": "2019-08-21T22:23:54Z",
   "updated_at": "2022-01-12T05:36:18Z",
-  "pushed_at": "2022-09-25T21:32:24Z",
+  "pushed_at": "2022-11-20T07:41:00Z",
   "git_url": "git://github.com/vatson/rollup-plugin-vuetify.git",
   "ssh_url": "git@github.com:vatson/rollup-plugin-vuetify.git",
   "clone_url": "https://github.com/vatson/rollup-plugin-vuetify.git",
   "svn_url": "https://github.com/vatson/rollup-plugin-vuetify",
   "homepage": "",
-  "size": 377,
+  "size": 382,
   "stargazers_count": 19,
   "watchers_count": 19,
   "language": "JavaScript",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 456
+  "_index": 458
 }

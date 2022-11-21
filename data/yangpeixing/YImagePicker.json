@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 173,
+  "forks_count": 172,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,7 +108,7 @@
     "redbook-imagepicker"
   ],
   "visibility": "public",
-  "forks": 173,
+  "forks": 172,
   "open_issues": 60,
   "watchers": 1145,
   "default_branch": "master",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1413
+  "_index": 1415
 }

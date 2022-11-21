@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/beakerbrowser/beaker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/beakerbrowser/beaker/deployments",
   "created_at": "2016-05-25T21:51:48Z",
-  "updated_at": "2022-11-18T14:15:19Z",
+  "updated_at": "2022-11-20T20:34:12Z",
   "pushed_at": "2022-11-11T21:25:28Z",
   "git_url": "git://github.com/beakerbrowser/beaker.git",
   "ssh_url": "git@github.com:beakerbrowser/beaker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/beakerbrowser/beaker",
   "homepage": "https://beakerbrowser.com/",
   "size": 42481,
-  "stargazers_count": 6649,
-  "watchers_count": 6649,
+  "stargazers_count": 6651,
+  "watchers_count": 6651,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 573,
+  "forks_count": 574,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,9 +109,9 @@
     "web"
   ],
   "visibility": "public",
-  "forks": 573,
+  "forks": 574,
   "open_issues": 218,
-  "watchers": 6649,
+  "watchers": 6651,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2348
+  "_index": 2350
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tc39/proposal-temporal/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tc39/proposal-temporal/deployments",
   "created_at": "2017-03-12T01:50:08Z",
-  "updated_at": "2022-11-19T23:43:24Z",
+  "updated_at": "2022-11-21T01:09:25Z",
   "pushed_at": "2022-11-18T15:19:44Z",
   "git_url": "git://github.com/tc39/proposal-temporal.git",
   "ssh_url": "git@github.com:tc39/proposal-temporal.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/tc39/proposal-temporal",
   "homepage": "https://tc39.es/proposal-temporal/docs/",
   "size": 94437,
-  "stargazers_count": 2615,
-  "watchers_count": 2615,
+  "stargazers_count": 2618,
+  "watchers_count": 2618,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 132,
+  "forks_count": 133,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 132,
+  "forks": 133,
   "open_issues": 137,
-  "watchers": 2615,
+  "watchers": 2618,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 235
+  "_index": 237
 }

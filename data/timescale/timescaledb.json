@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/timescale/timescaledb/releases{/id}",
   "deployments_url": "https://api.github.com/repos/timescale/timescaledb/deployments",
   "created_at": "2017-03-07T20:03:41Z",
-  "updated_at": "2022-11-19T23:14:24Z",
-  "pushed_at": "2022-11-19T14:42:36Z",
+  "updated_at": "2022-11-21T02:09:46Z",
+  "pushed_at": "2022-11-20T18:36:34Z",
   "git_url": "git://github.com/timescale/timescaledb.git",
   "ssh_url": "git@github.com:timescale/timescaledb.git",
   "clone_url": "https://github.com/timescale/timescaledb.git",
   "svn_url": "https://github.com/timescale/timescaledb",
   "homepage": "https://www.timescale.com/",
   "size": 29651,
-  "stargazers_count": 14052,
-  "watchers_count": 14052,
+  "stargazers_count": 14056,
+  "watchers_count": 14056,
   "language": "C",
   "has_issues": true,
   "has_projects": false,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 742,
   "open_issues": 437,
-  "watchers": 14052,
+  "watchers": 14056,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 80
+  "_index": 82
 }

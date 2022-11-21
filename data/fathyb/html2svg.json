@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fathyb/html2svg/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fathyb/html2svg/deployments",
   "created_at": "2022-11-11T09:23:58Z",
-  "updated_at": "2022-11-19T14:50:00Z",
+  "updated_at": "2022-11-21T02:00:07Z",
   "pushed_at": "2022-11-18T09:48:11Z",
   "git_url": "git://github.com/fathyb/html2svg.git",
   "ssh_url": "git@github.com:fathyb/html2svg.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/fathyb/html2svg",
   "homepage": "",
   "size": 71,
-  "stargazers_count": 551,
-  "watchers_count": 551,
+  "stargazers_count": 560,
+  "watchers_count": 560,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 9,
   "open_issues": 3,
-  "watchers": 551,
+  "watchers": 560,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 11
+  "_index": 13
 }

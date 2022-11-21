@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/iron-fish/ironfish/releases{/id}",
   "deployments_url": "https://api.github.com/repos/iron-fish/ironfish/deployments",
   "created_at": "2021-03-31T21:26:37Z",
-  "updated_at": "2022-11-19T19:19:56Z",
-  "pushed_at": "2022-11-19T22:28:17Z",
+  "updated_at": "2022-11-20T05:17:42Z",
+  "pushed_at": "2022-11-20T18:29:04Z",
   "git_url": "git://github.com/iron-fish/ironfish.git",
   "ssh_url": "git@github.com:iron-fish/ironfish.git",
   "clone_url": "https://github.com/iron-fish/ironfish.git",
   "svn_url": "https://github.com/iron-fish/ironfish",
   "homepage": "https://ironfish.network",
-  "size": 481261,
-  "stargazers_count": 706,
-  "watchers_count": 706,
+  "size": 481268,
+  "stargazers_count": 707,
+  "watchers_count": 707,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 207,
+  "open_issues_count": 208,
   "license": {
     "key": "mpl-2.0",
     "name": "Mozilla Public License 2.0",
@@ -104,8 +104,8 @@
   ],
   "visibility": "public",
   "forks": 359,
-  "open_issues": 207,
-  "watchers": 706,
+  "open_issues": 208,
+  "watchers": 707,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 497
+  "_index": 499
 }
