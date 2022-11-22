@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/khmerlang/Khmerlang-Keyboard/releases{/id}",
   "deployments_url": "https://api.github.com/repos/khmerlang/Khmerlang-Keyboard/deployments",
   "created_at": "2020-03-01T03:17:26Z",
-  "updated_at": "2022-07-03T02:55:21Z",
+  "updated_at": "2022-11-21T04:46:56Z",
   "pushed_at": "2022-05-22T03:37:35Z",
   "git_url": "git://github.com/khmerlang/Khmerlang-Keyboard.git",
   "ssh_url": "git@github.com:khmerlang/Khmerlang-Keyboard.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/khmerlang/Khmerlang-Keyboard",
   "homepage": "https://play.google.com/store/apps/details?id=com.rathanak.khmerroman",
   "size": 53749,
-  "stargazers_count": 19,
-  "watchers_count": 19,
+  "stargazers_count": 20,
+  "watchers_count": 20,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 0,
   "open_issues": 0,
-  "watchers": 19,
+  "watchers": 20,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 275
+  "_index": 280
 }

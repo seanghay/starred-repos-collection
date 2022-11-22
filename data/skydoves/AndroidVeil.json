@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/skydoves/AndroidVeil/releases{/id}",
   "deployments_url": "https://api.github.com/repos/skydoves/AndroidVeil/deployments",
   "created_at": "2018-10-31T06:08:30Z",
-  "updated_at": "2022-11-19T20:13:35Z",
+  "updated_at": "2022-11-21T03:20:07Z",
   "pushed_at": "2022-09-18T10:17:06Z",
   "git_url": "git://github.com/skydoves/AndroidVeil.git",
   "ssh_url": "git@github.com:skydoves/AndroidVeil.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/skydoves/AndroidVeil",
   "homepage": "",
   "size": 4891,
-  "stargazers_count": 1167,
-  "watchers_count": 1167,
+  "stargazers_count": 1168,
+  "watchers_count": 1168,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 91,
   "open_issues": 5,
-  "watchers": 1167,
+  "watchers": 1168,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1575
+  "_index": 1580
 }

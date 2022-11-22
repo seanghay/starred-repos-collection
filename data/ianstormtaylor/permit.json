@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ianstormtaylor/permit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ianstormtaylor/permit/deployments",
   "created_at": "2018-04-19T00:43:11Z",
-  "updated_at": "2022-11-13T23:12:34Z",
+  "updated_at": "2022-11-21T03:36:51Z",
   "pushed_at": "2022-10-30T20:29:42Z",
   "git_url": "git://github.com/ianstormtaylor/permit.git",
   "ssh_url": "git@github.com:ianstormtaylor/permit.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ianstormtaylor/permit",
   "homepage": "",
   "size": 686,
-  "stargazers_count": 1668,
-  "watchers_count": 1668,
+  "stargazers_count": 1669,
+  "watchers_count": 1669,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 68,
   "open_issues": 8,
-  "watchers": 1668,
+  "watchers": 1669,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2326
+  "_index": 2331
 }

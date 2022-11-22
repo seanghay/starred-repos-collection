@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ramonszo/zuck.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ramonszo/zuck.js/deployments",
   "created_at": "2017-04-16T10:23:03Z",
-  "updated_at": "2022-11-20T04:37:39Z",
+  "updated_at": "2022-11-21T21:00:56Z",
   "pushed_at": "2022-11-10T05:10:05Z",
   "git_url": "git://github.com/ramonszo/zuck.js.git",
   "ssh_url": "git@github.com:ramonszo/zuck.js.git",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1544
+  "_index": 1549
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/android/architecture-components-samples/releases{/id}",
   "deployments_url": "https://api.github.com/repos/android/architecture-components-samples/deployments",
   "created_at": "2017-05-09T21:09:14Z",
-  "updated_at": "2022-11-20T18:33:24Z",
-  "pushed_at": "2022-10-25T19:28:44Z",
+  "updated_at": "2022-11-21T08:10:19Z",
+  "pushed_at": "2022-11-21T10:15:54Z",
   "git_url": "git://github.com/android/architecture-components-samples.git",
   "ssh_url": "git@github.com:android/architecture-components-samples.git",
   "clone_url": "https://github.com/android/architecture-components-samples.git",
   "svn_url": "https://github.com/android/architecture-components-samples",
   "homepage": "https://d.android.com/arch",
-  "size": 21402,
-  "stargazers_count": 22396,
-  "watchers_count": 22396,
+  "size": 21412,
+  "stargazers_count": 22395,
+  "watchers_count": 22395,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 178,
+  "open_issues_count": 179,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 8251,
-  "open_issues": 178,
-  "watchers": 22396,
+  "open_issues": 179,
+  "watchers": 22395,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2136
+  "_index": 2141
 }

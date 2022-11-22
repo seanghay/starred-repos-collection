@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/googlefonts/nanoemoji/releases{/id}",
   "deployments_url": "https://api.github.com/repos/googlefonts/nanoemoji/deployments",
   "created_at": "2020-04-04T19:39:13Z",
-  "updated_at": "2022-11-17T11:41:13Z",
-  "pushed_at": "2022-11-18T16:09:12Z",
+  "updated_at": "2022-11-21T18:38:43Z",
+  "pushed_at": "2022-11-21T18:36:32Z",
   "git_url": "git://github.com/googlefonts/nanoemoji.git",
   "ssh_url": "git@github.com:googlefonts/nanoemoji.git",
   "clone_url": "https://github.com/googlefonts/nanoemoji.git",
   "svn_url": "https://github.com/googlefonts/nanoemoji",
   "homepage": null,
-  "size": 1106,
-  "stargazers_count": 146,
-  "watchers_count": 146,
+  "size": 1117,
+  "stargazers_count": 147,
+  "watchers_count": 147,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 37,
+  "open_issues_count": 36,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 15,
-  "open_issues": 37,
-  "watchers": 146,
+  "open_issues": 36,
+  "watchers": 147,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 147
+  "_index": 152
 }

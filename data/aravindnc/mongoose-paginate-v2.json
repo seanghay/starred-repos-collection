@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/aravindnc/mongoose-paginate-v2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/aravindnc/mongoose-paginate-v2/deployments",
   "created_at": "2018-07-17T17:27:11Z",
-  "updated_at": "2022-11-19T12:37:28Z",
+  "updated_at": "2022-11-21T22:29:49Z",
   "pushed_at": "2022-09-08T02:36:55Z",
   "git_url": "git://github.com/aravindnc/mongoose-paginate-v2.git",
   "ssh_url": "git@github.com:aravindnc/mongoose-paginate-v2.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/aravindnc/mongoose-paginate-v2",
   "homepage": "https://www.npmjs.com/package/mongoose-paginate-v2",
   "size": 1016,
-  "stargazers_count": 435,
-  "watchers_count": 435,
+  "stargazers_count": 436,
+  "watchers_count": 436,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -122,7 +122,7 @@
   "visibility": "public",
   "forks": 75,
   "open_issues": 13,
-  "watchers": 435,
+  "watchers": 436,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 483
+  "_index": 488
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/styfle/cancel-workflow-action/deployments",
   "created_at": "2020-02-02T00:01:51Z",
   "updated_at": "2022-11-20T03:33:53Z",
-  "pushed_at": "2022-11-16T03:54:16Z",
+  "pushed_at": "2022-11-21T18:01:32Z",
   "git_url": "git://github.com/styfle/cancel-workflow-action.git",
   "ssh_url": "git@github.com:styfle/cancel-workflow-action.git",
   "clone_url": "https://github.com/styfle/cancel-workflow-action.git",
   "svn_url": "https://github.com/styfle/cancel-workflow-action",
   "homepage": "https://github.com/marketplace/actions/cancel-workflow-action",
-  "size": 524,
+  "size": 530,
   "stargazers_count": 833,
   "watchers_count": 833,
   "language": "TypeScript",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 99,
+  "forks_count": 100,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 11,
+  "open_issues_count": 12,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,8 +103,8 @@
     "workflows"
   ],
   "visibility": "public",
-  "forks": 99,
-  "open_issues": 11,
+  "forks": 100,
+  "open_issues": 12,
   "watchers": 833,
   "default_branch": "main",
   "permissions": {
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 96
+  "_index": 101
 }

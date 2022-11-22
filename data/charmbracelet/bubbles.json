@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/charmbracelet/bubbles/releases{/id}",
   "deployments_url": "https://api.github.com/repos/charmbracelet/bubbles/deployments",
   "created_at": "2020-01-18T15:43:23Z",
-  "updated_at": "2022-11-20T18:56:52Z",
+  "updated_at": "2022-11-21T13:36:21Z",
   "pushed_at": "2022-11-20T18:49:24Z",
   "git_url": "git://github.com/charmbracelet/bubbles.git",
   "ssh_url": "git@github.com:charmbracelet/bubbles.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/charmbracelet/bubbles",
   "homepage": "",
   "size": 463,
-  "stargazers_count": 2789,
-  "watchers_count": 2789,
+  "stargazers_count": 2790,
+  "watchers_count": 2790,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 101,
+  "forks_count": 100,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "tui"
   ],
   "visibility": "public",
-  "forks": 101,
+  "forks": 100,
   "open_issues": 64,
-  "watchers": 2789,
+  "watchers": 2790,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 188
+  "_index": 193
 }

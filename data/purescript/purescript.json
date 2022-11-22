@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/purescript/purescript/releases{/id}",
   "deployments_url": "https://api.github.com/repos/purescript/purescript/deployments",
   "created_at": "2013-09-30T05:29:23Z",
-  "updated_at": "2022-11-20T00:20:25Z",
+  "updated_at": "2022-11-22T00:30:29Z",
   "pushed_at": "2022-11-21T02:19:22Z",
   "git_url": "git://github.com/purescript/purescript.git",
   "ssh_url": "git@github.com:purescript/purescript.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/purescript/purescript",
   "homepage": "https://www.purescript.org",
   "size": 12934,
-  "stargazers_count": 7930,
-  "watchers_count": 7930,
+  "stargazers_count": 7931,
+  "watchers_count": 7931,
   "language": "Haskell",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 566,
+  "forks_count": 565,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "typed-language"
   ],
   "visibility": "public",
-  "forks": 566,
+  "forks": 565,
   "open_issues": 275,
-  "watchers": 7930,
+  "watchers": 7931,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2274
+  "_index": 2279
 }

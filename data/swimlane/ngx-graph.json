@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/swimlane/ngx-graph/releases{/id}",
   "deployments_url": "https://api.github.com/repos/swimlane/ngx-graph/deployments",
   "created_at": "2017-02-23T17:18:33Z",
-  "updated_at": "2022-11-21T00:10:46Z",
+  "updated_at": "2022-11-21T12:50:59Z",
   "pushed_at": "2022-11-17T18:35:05Z",
   "git_url": "git://github.com/swimlane/ngx-graph.git",
   "ssh_url": "git@github.com:swimlane/ngx-graph.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/swimlane/ngx-graph",
   "homepage": "https://swimlane.github.io/ngx-graph",
   "size": 33067,
-  "stargazers_count": 829,
-  "watchers_count": 829,
+  "stargazers_count": 830,
+  "watchers_count": 830,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 262,
   "open_issues": 54,
-  "watchers": 829,
+  "watchers": 830,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2307
+  "_index": 2312
 }
