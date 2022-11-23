@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/Plutoberth/SonyHeadphonesClient/deployments",
   "created_at": "2020-08-03T12:10:43Z",
   "updated_at": "2022-11-21T12:40:28Z",
-  "pushed_at": "2022-06-24T16:04:18Z",
+  "pushed_at": "2022-11-22T21:43:05Z",
   "git_url": "git://github.com/Plutoberth/SonyHeadphonesClient.git",
   "ssh_url": "git@github.com:Plutoberth/SonyHeadphonesClient.git",
   "clone_url": "https://github.com/Plutoberth/SonyHeadphonesClient.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 54,
+  "forks_count": 55,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 22,
+  "open_issues_count": 23,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,8 +109,8 @@
     "windows"
   ],
   "visibility": "public",
-  "forks": 54,
-  "open_issues": 22,
+  "forks": 55,
+  "open_issues": 23,
   "watchers": 580,
   "default_branch": "master",
   "permissions": {
