@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/alexjlockwood/ShapeShifter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/alexjlockwood/ShapeShifter/deployments",
   "created_at": "2016-12-24T18:51:19Z",
-  "updated_at": "2022-11-21T17:31:06Z",
+  "updated_at": "2022-11-23T04:51:55Z",
   "pushed_at": "2022-03-22T18:48:46Z",
   "git_url": "git://github.com/alexjlockwood/ShapeShifter.git",
   "ssh_url": "git@github.com:alexjlockwood/ShapeShifter.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/alexjlockwood/ShapeShifter",
   "homepage": "https://shapeshifter.design",
   "size": 15751,
-  "stargazers_count": 3817,
-  "watchers_count": 3817,
+  "stargazers_count": 3818,
+  "watchers_count": 3818,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 199,
   "open_issues": 183,
-  "watchers": 3817,
+  "watchers": 3818,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2223
+  "_index": 2224
 }

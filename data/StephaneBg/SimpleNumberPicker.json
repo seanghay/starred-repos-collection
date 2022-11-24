@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/StephaneBg/SimpleNumberPicker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/StephaneBg/SimpleNumberPicker/deployments",
   "created_at": "2017-03-08T11:50:40Z",
-  "updated_at": "2021-12-21T08:37:22Z",
+  "updated_at": "2022-11-23T13:32:38Z",
   "pushed_at": "2019-09-03T19:48:02Z",
   "git_url": "git://github.com/StephaneBg/SimpleNumberPicker.git",
   "ssh_url": "git@github.com:StephaneBg/SimpleNumberPicker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/StephaneBg/SimpleNumberPicker",
   "homepage": "",
   "size": 275,
-  "stargazers_count": 182,
-  "watchers_count": 182,
+  "stargazers_count": 183,
+  "watchers_count": 183,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 25,
   "open_issues": 1,
-  "watchers": 182,
+  "watchers": 183,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1959
+  "_index": 1960
 }

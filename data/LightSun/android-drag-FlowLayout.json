@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/LightSun/android-drag-FlowLayout/releases{/id}",
   "deployments_url": "https://api.github.com/repos/LightSun/android-drag-FlowLayout/deployments",
   "created_at": "2016-08-07T02:10:43Z",
-  "updated_at": "2022-11-18T17:54:04Z",
+  "updated_at": "2022-11-23T11:05:00Z",
   "pushed_at": "2020-03-09T09:40:51Z",
   "git_url": "git://github.com/LightSun/android-drag-FlowLayout.git",
   "ssh_url": "git@github.com:LightSun/android-drag-FlowLayout.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/LightSun/android-drag-FlowLayout",
   "homepage": null,
   "size": 4441,
-  "stargazers_count": 713,
-  "watchers_count": 713,
+  "stargazers_count": 712,
+  "watchers_count": 712,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 112,
   "open_issues": 1,
-  "watchers": 713,
+  "watchers": 712,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1350
+  "_index": 1351
 }

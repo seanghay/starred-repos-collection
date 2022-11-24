@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/polygonplanet/encoding.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/polygonplanet/encoding.js/deployments",
   "created_at": "2014-09-13T13:25:52Z",
-  "updated_at": "2022-11-21T09:29:34Z",
+  "updated_at": "2022-11-23T16:46:54Z",
   "pushed_at": "2022-04-13T14:51:07Z",
   "git_url": "git://github.com/polygonplanet/encoding.js.git",
   "ssh_url": "git@github.com:polygonplanet/encoding.js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/polygonplanet/encoding.js",
   "homepage": "",
   "size": 1664,
-  "stargazers_count": 461,
-  "watchers_count": 461,
+  "stargazers_count": 462,
+  "watchers_count": 462,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -114,7 +114,7 @@
   "visibility": "public",
   "forks": 115,
   "open_issues": 3,
-  "watchers": 461,
+  "watchers": 462,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1231
+  "_index": 1232
 }

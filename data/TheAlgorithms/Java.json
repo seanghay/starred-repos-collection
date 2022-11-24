@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/TheAlgorithms/Java/releases{/id}",
   "deployments_url": "https://api.github.com/repos/TheAlgorithms/Java/deployments",
   "created_at": "2016-07-16T10:21:02Z",
-  "updated_at": "2022-11-23T01:57:00Z",
-  "pushed_at": "2022-11-20T14:32:46Z",
+  "updated_at": "2022-11-24T02:21:02Z",
+  "pushed_at": "2022-11-23T13:37:45Z",
   "git_url": "git://github.com/TheAlgorithms/Java.git",
   "ssh_url": "git@github.com:TheAlgorithms/Java.git",
   "clone_url": "https://github.com/TheAlgorithms/Java.git",
   "svn_url": "https://github.com/TheAlgorithms/Java",
   "homepage": "",
   "size": 3200,
-  "stargazers_count": 49068,
-  "watchers_count": 49068,
+  "stargazers_count": 49078,
+  "watchers_count": 49078,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 16242,
+  "forks_count": 16246,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,9 +110,9 @@
     "sorting-algorithms"
   ],
   "visibility": "public",
-  "forks": 16242,
+  "forks": 16246,
   "open_issues": 171,
-  "watchers": 49068,
+  "watchers": 49078,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1760
+  "_index": 1761
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/FeatureProbe/FeatureProbe/releases{/id}",
   "deployments_url": "https://api.github.com/repos/FeatureProbe/FeatureProbe/deployments",
   "created_at": "2022-05-26T01:37:50Z",
-  "updated_at": "2022-11-21T03:55:16Z",
+  "updated_at": "2022-11-23T07:20:20Z",
   "pushed_at": "2022-11-18T11:16:01Z",
   "git_url": "git://github.com/FeatureProbe/FeatureProbe.git",
   "ssh_url": "git@github.com:FeatureProbe/FeatureProbe.git",
@@ -79,14 +79,14 @@
   "has_issues": true,
   "has_projects": false,
   "has_downloads": true,
-  "has_wiki": true,
+  "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
   "forks_count": 23,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 21,
+  "open_issues_count": 24,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -118,7 +118,7 @@
   ],
   "visibility": "public",
   "forks": 23,
-  "open_issues": 21,
+  "open_issues": 24,
   "watchers": 363,
   "default_branch": "main",
   "permissions": {
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 157
+  "_index": 158
 }

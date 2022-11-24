@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/awesome/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/awesome/deployments",
   "created_at": "2014-07-11T13:42:37Z",
-  "updated_at": "2022-11-23T02:31:11Z",
-  "pushed_at": "2022-11-22T17:54:05Z",
+  "updated_at": "2022-11-24T02:18:07Z",
+  "pushed_at": "2022-11-23T17:40:35Z",
   "git_url": "git://github.com/sindresorhus/awesome.git",
   "ssh_url": "git@github.com:sindresorhus/awesome.git",
   "clone_url": "https://github.com/sindresorhus/awesome.git",
   "svn_url": "https://github.com/sindresorhus/awesome",
   "homepage": "",
   "size": 1521,
-  "stargazers_count": 226937,
-  "watchers_count": 226937,
+  "stargazers_count": 227161,
+  "watchers_count": 227161,
   "language": null,
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 24492,
+  "forks_count": 24507,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "unicorns"
   ],
   "visibility": "public",
-  "forks": 24492,
+  "forks": 24507,
   "open_issues": 51,
-  "watchers": 226937,
+  "watchers": 227161,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 278
+  "_index": 279
 }

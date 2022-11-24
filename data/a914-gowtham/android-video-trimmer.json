@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 89,
+  "forks_count": 90,
   "mirror_url": null,
   "archived": true,
   "disabled": false,
@@ -118,7 +118,7 @@
     "videocompressor"
   ],
   "visibility": "public",
-  "forks": 89,
+  "forks": 90,
   "open_issues": 37,
   "watchers": 257,
   "default_branch": "master",
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1093
+  "_index": 1094
 }

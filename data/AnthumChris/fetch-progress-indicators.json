@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/AnthumChris/fetch-progress-indicators/releases{/id}",
   "deployments_url": "https://api.github.com/repos/AnthumChris/fetch-progress-indicators/deployments",
   "created_at": "2018-02-21T19:56:53Z",
-  "updated_at": "2022-11-19T14:42:40Z",
+  "updated_at": "2022-11-23T22:48:10Z",
   "pushed_at": "2020-05-02T02:25:13Z",
   "git_url": "git://github.com/AnthumChris/fetch-progress-indicators.git",
   "ssh_url": "git@github.com:AnthumChris/fetch-progress-indicators.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/AnthumChris/fetch-progress-indicators",
   "homepage": "https://fetch-progress.anthum.com/",
   "size": 303,
-  "stargazers_count": 274,
-  "watchers_count": 274,
+  "stargazers_count": 275,
+  "watchers_count": 275,
   "language": "HTML",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 30,
   "open_issues": 5,
-  "watchers": 274,
+  "watchers": 275,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 930
+  "_index": 931
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/web-starter-kit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/web-starter-kit/deployments",
   "created_at": "2014-04-07T08:45:18Z",
-  "updated_at": "2022-11-22T14:47:08Z",
+  "updated_at": "2022-11-23T15:23:55Z",
   "pushed_at": "2022-08-19T12:21:19Z",
   "git_url": "git://github.com/google/web-starter-kit.git",
   "ssh_url": "git@github.com:google/web-starter-kit.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 3141,
+  "forks_count": 3140,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,7 +99,7 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 3141,
+  "forks": 3140,
   "open_issues": 87,
   "watchers": 18455,
   "default_branch": "master",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2307
+  "_index": 2308
 }

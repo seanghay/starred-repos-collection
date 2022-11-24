@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/GoodieBag/Pinview/releases{/id}",
   "deployments_url": "https://api.github.com/repos/GoodieBag/Pinview/deployments",
   "created_at": "2017-01-11T11:10:31Z",
-  "updated_at": "2022-11-16T05:38:23Z",
+  "updated_at": "2022-11-23T20:20:28Z",
   "pushed_at": "2022-03-17T10:41:29Z",
   "git_url": "git://github.com/GoodieBag/Pinview.git",
   "ssh_url": "git@github.com:GoodieBag/Pinview.git",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 954
+  "_index": 955
 }
