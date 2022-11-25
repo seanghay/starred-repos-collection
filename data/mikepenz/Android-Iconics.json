@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mikepenz/Android-Iconics/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mikepenz/Android-Iconics/deployments",
   "created_at": "2014-11-01T19:43:56Z",
-  "updated_at": "2022-11-23T15:41:07Z",
+  "updated_at": "2022-11-24T09:10:01Z",
   "pushed_at": "2022-09-30T11:51:07Z",
   "git_url": "git://github.com/mikepenz/Android-Iconics.git",
   "ssh_url": "git@github.com:mikepenz/Android-Iconics.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mikepenz/Android-Iconics",
   "homepage": "https://mikepenz.dev",
   "size": 16119,
-  "stargazers_count": 5024,
-  "watchers_count": 5024,
+  "stargazers_count": 5025,
+  "watchers_count": 5025,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -122,7 +122,7 @@
   "visibility": "public",
   "forks": 634,
   "open_issues": 3,
-  "watchers": 5024,
+  "watchers": 5025,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1253
+  "_index": 1254
 }

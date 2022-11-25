@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 46,
+  "forks_count": 47,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,7 +107,7 @@
     "rxkotlin-android"
   ],
   "visibility": "public",
-  "forks": 46,
+  "forks": 47,
   "open_issues": 1,
   "watchers": 581,
   "default_branch": "master",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1729
+  "_index": 1730
 }

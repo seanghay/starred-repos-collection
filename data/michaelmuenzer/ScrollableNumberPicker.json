@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/michaelmuenzer/ScrollableNumberPicker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/michaelmuenzer/ScrollableNumberPicker/deployments",
   "created_at": "2017-04-30T09:32:32Z",
-  "updated_at": "2022-10-06T17:48:48Z",
+  "updated_at": "2022-11-24T10:24:10Z",
   "pushed_at": "2019-09-27T12:44:00Z",
   "git_url": "git://github.com/michaelmuenzer/ScrollableNumberPicker.git",
   "ssh_url": "git@github.com:michaelmuenzer/ScrollableNumberPicker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/michaelmuenzer/ScrollableNumberPicker",
   "homepage": "",
   "size": 722,
-  "stargazers_count": 75,
-  "watchers_count": 75,
+  "stargazers_count": 74,
+  "watchers_count": 74,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 21,
   "open_issues": 12,
-  "watchers": 75,
+  "watchers": 74,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1217
+  "_index": 1218
 }

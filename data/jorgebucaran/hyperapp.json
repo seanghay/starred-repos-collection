@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jorgebucaran/hyperapp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jorgebucaran/hyperapp/deployments",
   "created_at": "2017-01-20T05:20:21Z",
-  "updated_at": "2022-11-24T01:16:19Z",
+  "updated_at": "2022-11-24T20:35:35Z",
   "pushed_at": "2022-09-19T03:11:56Z",
   "git_url": "git://github.com/jorgebucaran/hyperapp.git",
   "ssh_url": "git@github.com:jorgebucaran/hyperapp.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jorgebucaran/hyperapp",
   "homepage": "",
   "size": 7056,
-  "stargazers_count": 18870,
-  "watchers_count": 18870,
+  "stargazers_count": 18872,
+  "watchers_count": 18872,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 834,
   "open_issues": 7,
-  "watchers": 18870,
+  "watchers": 18872,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2362
+  "_index": 2363
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/HumbleUI/JWM/deployments",
   "created_at": "2021-05-04T08:58:32Z",
   "updated_at": "2022-11-23T10:50:34Z",
-  "pushed_at": "2022-09-27T21:11:59Z",
+  "pushed_at": "2022-11-24T15:11:22Z",
   "git_url": "git://github.com/HumbleUI/JWM.git",
   "ssh_url": "git@github.com:HumbleUI/JWM.git",
   "clone_url": "https://github.com/HumbleUI/JWM.git",
   "svn_url": "https://github.com/HumbleUI/JWM",
   "homepage": "",
-  "size": 2423,
+  "size": 2428,
   "stargazers_count": 371,
   "watchers_count": 371,
   "language": "C++",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 35,
+  "forks_count": 36,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 43,
+  "open_issues_count": 44,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -102,8 +102,8 @@
     "window-management"
   ],
   "visibility": "public",
-  "forks": 35,
-  "open_issues": 43,
+  "forks": 36,
+  "open_issues": 44,
   "watchers": 371,
   "default_branch": "main",
   "permissions": {
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 828
+  "_index": 829
 }

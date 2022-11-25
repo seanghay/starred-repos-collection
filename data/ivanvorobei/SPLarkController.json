@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ivanvorobei/SPLarkController/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ivanvorobei/SPLarkController/deployments",
   "created_at": "2019-02-24T09:28:05Z",
-  "updated_at": "2022-11-17T12:37:33Z",
+  "updated_at": "2022-11-24T06:17:49Z",
   "pushed_at": "2022-03-27T17:48:29Z",
   "git_url": "git://github.com/ivanvorobei/SPLarkController.git",
   "ssh_url": "git@github.com:ivanvorobei/SPLarkController.git",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 708
+  "_index": 709
 }

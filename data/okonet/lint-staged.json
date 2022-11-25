@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/okonet/lint-staged/releases{/id}",
   "deployments_url": "https://api.github.com/repos/okonet/lint-staged/deployments",
   "created_at": "2016-01-15T07:51:21Z",
-  "updated_at": "2022-11-24T00:46:22Z",
-  "pushed_at": "2022-11-22T14:50:28Z",
+  "updated_at": "2022-11-24T18:41:54Z",
+  "pushed_at": "2022-11-24T19:47:52Z",
   "git_url": "git://github.com/okonet/lint-staged.git",
   "ssh_url": "git@github.com:okonet/lint-staged.git",
   "clone_url": "https://github.com/okonet/lint-staged.git",
   "svn_url": "https://github.com/okonet/lint-staged",
   "homepage": "",
-  "size": 5500,
-  "stargazers_count": 11158,
-  "watchers_count": 11158,
+  "size": 5487,
+  "stargazers_count": 11167,
+  "watchers_count": 11167,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 405,
   "open_issues": 101,
-  "watchers": 11158,
+  "watchers": 11167,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 358
+  "_index": 359
 }

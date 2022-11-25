@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/addappcn/android-pickers/releases{/id}",
   "deployments_url": "https://api.github.com/repos/addappcn/android-pickers/deployments",
   "created_at": "2017-03-30T07:57:40Z",
-  "updated_at": "2022-11-19T09:06:33Z",
+  "updated_at": "2022-11-24T08:55:54Z",
   "pushed_at": "2020-01-31T10:46:07Z",
   "git_url": "git://github.com/addappcn/android-pickers.git",
   "ssh_url": "git@github.com:addappcn/android-pickers.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/addappcn/android-pickers",
   "homepage": "http://addapp.cn",
   "size": 16019,
-  "stargazers_count": 1279,
-  "watchers_count": 1279,
+  "stargazers_count": 1280,
+  "watchers_count": 1280,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 231,
   "open_issues": 10,
-  "watchers": 1279,
+  "watchers": 1280,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1431
+  "_index": 1432
 }

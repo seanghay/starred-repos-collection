@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/square/Cleanse/releases{/id}",
   "deployments_url": "https://api.github.com/repos/square/Cleanse/deployments",
   "created_at": "2016-06-08T00:24:36Z",
-  "updated_at": "2022-11-21T11:42:46Z",
+  "updated_at": "2022-11-24T16:44:13Z",
   "pushed_at": "2022-09-09T21:47:02Z",
   "git_url": "git://github.com/square/Cleanse.git",
   "ssh_url": "git@github.com:square/Cleanse.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/square/Cleanse",
   "homepage": null,
   "size": 3369,
-  "stargazers_count": 1707,
-  "watchers_count": 1707,
+  "stargazers_count": 1709,
+  "watchers_count": 1709,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 85,
   "open_issues": 5,
-  "watchers": 1707,
+  "watchers": 1709,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 593
+  "_index": 594
 }

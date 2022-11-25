@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 15,
+  "forks_count": 14,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,7 +107,7 @@
     "corner-sheet"
   ],
   "visibility": "public",
-  "forks": 15,
+  "forks": 14,
   "open_issues": 1,
   "watchers": 290,
   "default_branch": "master",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1225
+  "_index": 1226
 }

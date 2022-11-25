@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/facebook/flipper/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebook/flipper/deployments",
   "created_at": "2018-04-12T16:47:36Z",
-  "updated_at": "2022-11-23T23:44:59Z",
-  "pushed_at": "2022-11-23T21:41:44Z",
+  "updated_at": "2022-11-24T09:39:40Z",
+  "pushed_at": "2022-11-24T18:45:53Z",
   "git_url": "git://github.com/facebook/flipper.git",
   "ssh_url": "git@github.com:facebook/flipper.git",
   "clone_url": "https://github.com/facebook/flipper.git",
   "svn_url": "https://github.com/facebook/flipper",
   "homepage": "https://fbflipper.com/",
-  "size": 197887,
-  "stargazers_count": 12141,
-  "watchers_count": 12141,
+  "size": 198880,
+  "stargazers_count": 12145,
+  "watchers_count": 12145,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 263,
+  "open_issues_count": 253,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 873,
-  "open_issues": 263,
-  "watchers": 12141,
+  "open_issues": 253,
+  "watchers": 12145,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 664
+  "_index": 665
 }

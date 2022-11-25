@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/novuhq/novu",
-  "description": "The open-source notification infrastructure for developers",
+  "description": "The Open-Source Notifications Platform. Add a working notification center to your app in minutes. 🚀",
   "fork": false,
   "url": "https://api.github.com/repos/novuhq/novu",
   "forks_url": "https://api.github.com/repos/novuhq/novu/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/novuhq/novu/releases{/id}",
   "deployments_url": "https://api.github.com/repos/novuhq/novu/deployments",
   "created_at": "2021-08-26T15:22:44Z",
-  "updated_at": "2022-11-24T02:22:46Z",
-  "pushed_at": "2022-11-23T23:50:16Z",
+  "updated_at": "2022-11-25T02:21:49Z",
+  "pushed_at": "2022-11-25T00:03:51Z",
   "git_url": "git://github.com/novuhq/novu.git",
   "ssh_url": "git@github.com:novuhq/novu.git",
   "clone_url": "https://github.com/novuhq/novu.git",
   "svn_url": "https://github.com/novuhq/novu",
   "homepage": "https://novu.co",
-  "size": 43258,
-  "stargazers_count": 12862,
-  "watchers_count": 12862,
+  "size": 42918,
+  "stargazers_count": 13118,
+  "watchers_count": 13118,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 805,
+  "forks_count": 823,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 168,
+  "open_issues_count": 167,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -113,9 +113,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 805,
-  "open_issues": 168,
-  "watchers": 12862,
+  "forks": 823,
+  "open_issues": 167,
+  "watchers": 13118,
   "default_branch": "next",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 560
+  "_index": 561
 }

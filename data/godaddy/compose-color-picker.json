@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/godaddy/compose-color-picker/deployments",
   "created_at": "2021-10-26T14:25:49Z",
   "updated_at": "2022-11-23T16:23:28Z",
-  "pushed_at": "2022-11-17T17:19:10Z",
+  "pushed_at": "2022-11-25T01:24:20Z",
   "git_url": "git://github.com/godaddy/compose-color-picker.git",
   "ssh_url": "git@github.com:godaddy/compose-color-picker.git",
   "clone_url": "https://github.com/godaddy/compose-color-picker.git",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 456
+  "_index": 457
 }
