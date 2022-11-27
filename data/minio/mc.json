@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/minio/mc/releases{/id}",
   "deployments_url": "https://api.github.com/repos/minio/mc/deployments",
   "created_at": "2015-01-16T02:56:51Z",
-  "updated_at": "2022-11-25T22:26:44Z",
+  "updated_at": "2022-11-26T23:03:15Z",
   "pushed_at": "2022-11-25T09:24:46Z",
   "git_url": "git://github.com/minio/mc.git",
   "ssh_url": "git@github.com:minio/mc.git",
