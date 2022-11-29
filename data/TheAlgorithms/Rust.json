@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/TheAlgorithms/Rust/releases{/id}",
   "deployments_url": "https://api.github.com/repos/TheAlgorithms/Rust/deployments",
   "created_at": "2018-09-13T13:29:27Z",
-  "updated_at": "2022-11-28T01:55:21Z",
-  "pushed_at": "2022-11-24T04:37:42Z",
+  "updated_at": "2022-11-29T02:08:17Z",
+  "pushed_at": "2022-11-28T12:56:55Z",
   "git_url": "git://github.com/TheAlgorithms/Rust.git",
   "ssh_url": "git@github.com:TheAlgorithms/Rust.git",
   "clone_url": "https://github.com/TheAlgorithms/Rust.git",
   "svn_url": "https://github.com/TheAlgorithms/Rust",
   "homepage": "",
   "size": 540,
-  "stargazers_count": 12702,
-  "watchers_count": 12702,
+  "stargazers_count": 12715,
+  "watchers_count": 12715,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1291,
+  "forks_count": 1292,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 12,
+  "open_issues_count": 13,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,9 +105,9 @@
     "rust-lang"
   ],
   "visibility": "public",
-  "forks": 1291,
-  "open_issues": 12,
-  "watchers": 12702,
+  "forks": 1292,
+  "open_issues": 13,
+  "watchers": 12715,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 277
+  "_index": 278
 }

@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/pre-commit/pre-commit-hooks/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pre-commit/pre-commit-hooks/deployments",
   "created_at": "2014-03-13T15:21:46Z",
-  "updated_at": "2022-11-27T20:26:26Z",
-  "pushed_at": "2022-11-23T19:36:34Z",
+  "updated_at": "2022-11-28T12:24:24Z",
+  "pushed_at": "2022-11-29T01:10:17Z",
   "git_url": "git://github.com/pre-commit/pre-commit-hooks.git",
   "ssh_url": "git@github.com:pre-commit/pre-commit-hooks.git",
   "clone_url": "https://github.com/pre-commit/pre-commit-hooks.git",
   "svn_url": "https://github.com/pre-commit/pre-commit-hooks",
   "homepage": "",
-  "size": 860,
+  "size": 861,
   "stargazers_count": 3491,
   "watchers_count": 3491,
   "language": "Python",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 565,
+  "forks_count": 566,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 15,
+  "open_issues_count": 16,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,8 +106,8 @@
     "refactoring"
   ],
   "visibility": "public",
-  "forks": 565,
-  "open_issues": 15,
+  "forks": 566,
+  "open_issues": 16,
   "watchers": 3491,
   "default_branch": "main",
   "permissions": {
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 240
+  "_index": 241
 }

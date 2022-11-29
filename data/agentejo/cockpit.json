@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/agentejo/cockpit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/agentejo/cockpit/deployments",
   "created_at": "2013-10-15T20:22:20Z",
-  "updated_at": "2022-11-22T19:57:43Z",
+  "updated_at": "2022-11-28T14:53:43Z",
   "pushed_at": "2022-07-28T08:12:02Z",
   "git_url": "git://github.com/agentejo/cockpit.git",
   "ssh_url": "git@github.com:agentejo/cockpit.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/agentejo/cockpit",
   "homepage": "http://getcockpit.com",
   "size": 23426,
-  "stargazers_count": 5346,
-  "watchers_count": 5346,
+  "stargazers_count": 5345,
+  "watchers_count": 5345,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 294,
+  "open_issues_count": 295,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,8 +112,8 @@
   ],
   "visibility": "public",
   "forks": 543,
-  "open_issues": 294,
-  "watchers": 5346,
+  "open_issues": 295,
+  "watchers": 5345,
   "default_branch": "next",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 787
+  "_index": 788
 }

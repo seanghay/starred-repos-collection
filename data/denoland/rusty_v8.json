@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/denoland/rusty_v8/deployments",
   "created_at": "2019-10-31T22:36:03Z",
   "updated_at": "2022-11-27T03:14:08Z",
-  "pushed_at": "2022-11-27T02:03:24Z",
+  "pushed_at": "2022-11-28T20:07:03Z",
   "git_url": "git://github.com/denoland/rusty_v8.git",
   "ssh_url": "git@github.com:denoland/rusty_v8.git",
   "clone_url": "https://github.com/denoland/rusty_v8.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 242,
+  "forks_count": 243,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 74,
+  "open_issues_count": 66,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -102,8 +102,8 @@
     "v8"
   ],
   "visibility": "public",
-  "forks": 242,
-  "open_issues": 74,
+  "forks": 243,
+  "open_issues": 66,
   "watchers": 2576,
   "default_branch": "main",
   "permissions": {
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 107
+  "_index": 108
 }

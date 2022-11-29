@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lukeed/polka/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lukeed/polka/deployments",
   "created_at": "2017-12-22T05:55:41Z",
-  "updated_at": "2022-11-26T04:55:58Z",
+  "updated_at": "2022-11-28T23:30:35Z",
   "pushed_at": "2022-01-11T22:53:03Z",
   "git_url": "git://github.com/lukeed/polka.git",
   "ssh_url": "git@github.com:lukeed/polka.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lukeed/polka",
   "homepage": "",
   "size": 626,
-  "stargazers_count": 5125,
-  "watchers_count": 5125,
+  "stargazers_count": 5128,
+  "watchers_count": 5128,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 177,
   "open_issues": 24,
-  "watchers": 5125,
+  "watchers": 5128,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 228
+  "_index": 229
 }

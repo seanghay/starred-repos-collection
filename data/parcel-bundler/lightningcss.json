@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/parcel-bundler/lightningcss/releases{/id}",
   "deployments_url": "https://api.github.com/repos/parcel-bundler/lightningcss/deployments",
   "created_at": "2021-10-09T19:54:41Z",
-  "updated_at": "2022-11-27T23:28:49Z",
-  "pushed_at": "2022-11-27T22:16:33Z",
+  "updated_at": "2022-11-28T13:26:33Z",
+  "pushed_at": "2022-11-28T15:15:00Z",
   "git_url": "git://github.com/parcel-bundler/lightningcss.git",
   "ssh_url": "git@github.com:parcel-bundler/lightningcss.git",
   "clone_url": "https://github.com/parcel-bundler/lightningcss.git",
   "svn_url": "https://github.com/parcel-bundler/lightningcss",
   "homepage": "https://lightningcss.dev",
-  "size": 9312,
-  "stargazers_count": 2847,
-  "watchers_count": 2847,
+  "size": 9374,
+  "stargazers_count": 2848,
+  "watchers_count": 2848,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 70,
+  "open_issues_count": 71,
   "license": {
     "key": "mpl-2.0",
     "name": "Mozilla Public License 2.0",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 82,
-  "open_issues": 70,
-  "watchers": 2847,
+  "open_issues": 71,
+  "watchers": 2848,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 513
+  "_index": 514
 }

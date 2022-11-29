@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/github/copilot.vim/releases{/id}",
   "deployments_url": "https://api.github.com/repos/github/copilot.vim/deployments",
   "created_at": "2021-10-20T18:29:13Z",
-  "updated_at": "2022-11-27T21:31:20Z",
+  "updated_at": "2022-11-28T22:07:23Z",
   "pushed_at": "2022-11-09T04:35:57Z",
   "git_url": "git://github.com/github/copilot.vim.git",
   "ssh_url": "git@github.com:github/copilot.vim.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/github/copilot.vim",
   "homepage": null,
   "size": 1665,
-  "stargazers_count": 3792,
-  "watchers_count": 3792,
+  "stargazers_count": 3796,
+  "watchers_count": 3796,
   "language": "Vim Script",
   "has_issues": false,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 149,
   "open_issues": 0,
-  "watchers": 3792,
+  "watchers": 3796,
   "default_branch": "release",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 580
+  "_index": 581
 }

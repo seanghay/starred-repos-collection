@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wasabeef/transformers/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wasabeef/transformers/deployments",
   "created_at": "2019-10-25T15:53:40Z",
-  "updated_at": "2022-11-22T09:35:19Z",
+  "updated_at": "2022-11-28T03:02:55Z",
   "pushed_at": "2022-03-11T10:50:21Z",
   "git_url": "git://github.com/wasabeef/transformers.git",
   "ssh_url": "git@github.com:wasabeef/transformers.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wasabeef/transformers",
   "homepage": "https://github.com/wasabeef/transformers",
   "size": 52461,
-  "stargazers_count": 254,
-  "watchers_count": 254,
+  "stargazers_count": 255,
+  "watchers_count": 255,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 15,
   "open_issues": 1,
-  "watchers": 254,
+  "watchers": 255,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1128
+  "_index": 1129
 }

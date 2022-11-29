@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/openfga/openfga/releases{/id}",
   "deployments_url": "https://api.github.com/repos/openfga/openfga/deployments",
   "created_at": "2022-06-08T18:47:15Z",
-  "updated_at": "2022-11-28T00:40:18Z",
-  "pushed_at": "2022-11-24T07:46:48Z",
+  "updated_at": "2022-11-28T07:23:18Z",
+  "pushed_at": "2022-11-29T00:36:33Z",
   "git_url": "git://github.com/openfga/openfga.git",
   "ssh_url": "git@github.com:openfga/openfga.git",
   "clone_url": "https://github.com/openfga/openfga.git",
   "svn_url": "https://github.com/openfga/openfga",
   "homepage": "https://openfga.dev",
-  "size": 9797,
-  "stargazers_count": 626,
-  "watchers_count": 626,
+  "size": 9773,
+  "stargazers_count": 627,
+  "watchers_count": 627,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 33,
+  "forks_count": 32,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 32,
+  "open_issues_count": 26,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -108,9 +108,9 @@
     "zanzibar"
   ],
   "visibility": "public",
-  "forks": 33,
-  "open_issues": 32,
-  "watchers": 626,
+  "forks": 32,
+  "open_issues": 26,
+  "watchers": 627,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 17
+  "_index": 18
 }

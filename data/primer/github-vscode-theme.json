@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/primer/github-vscode-theme/releases{/id}",
   "deployments_url": "https://api.github.com/repos/primer/github-vscode-theme/deployments",
   "created_at": "2020-03-24T05:07:30Z",
-  "updated_at": "2022-11-26T17:01:25Z",
+  "updated_at": "2022-11-28T08:21:43Z",
   "pushed_at": "2022-10-11T00:14:13Z",
   "git_url": "git://github.com/primer/github-vscode-theme.git",
   "ssh_url": "git@github.com:primer/github-vscode-theme.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/primer/github-vscode-theme",
   "homepage": "https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme",
   "size": 661,
-  "stargazers_count": 1668,
-  "watchers_count": 1668,
+  "stargazers_count": 1669,
+  "watchers_count": 1669,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 174,
+  "forks_count": 173,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 44,
+  "open_issues_count": 45,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,9 +104,9 @@
     "vscode"
   ],
   "visibility": "public",
-  "forks": 174,
-  "open_issues": 44,
-  "watchers": 1668,
+  "forks": 173,
+  "open_issues": 45,
+  "watchers": 1669,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1269
+  "_index": 1270
 }

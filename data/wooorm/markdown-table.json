@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/wooorm/markdown-table/deployments",
   "created_at": "2014-10-04T17:30:06Z",
   "updated_at": "2022-11-23T08:15:55Z",
-  "pushed_at": "2022-11-20T16:48:59Z",
+  "pushed_at": "2022-11-28T21:01:53Z",
   "git_url": "git://github.com/wooorm/markdown-table.git",
   "ssh_url": "git@github.com:wooorm/markdown-table.git",
   "clone_url": "https://github.com/wooorm/markdown-table.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 23,
+  "forks_count": 24,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 0,
+  "open_issues_count": 1,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,8 +104,8 @@
     "table"
   ],
   "visibility": "public",
-  "forks": 23,
-  "open_issues": 0,
+  "forks": 24,
+  "open_issues": 1,
   "watchers": 226,
   "default_branch": "main",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 288
+  "_index": 289
 }
