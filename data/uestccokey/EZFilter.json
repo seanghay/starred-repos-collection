@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/uestccokey/EZFilter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/uestccokey/EZFilter/deployments",
   "created_at": "2017-09-18T04:01:32Z",
-  "updated_at": "2022-11-23T09:35:36Z",
+  "updated_at": "2022-11-29T16:52:56Z",
   "pushed_at": "2022-07-07T06:34:13Z",
   "git_url": "git://github.com/uestccokey/EZFilter.git",
   "ssh_url": "git@github.com:uestccokey/EZFilter.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/uestccokey/EZFilter",
   "homepage": "",
   "size": 61154,
-  "stargazers_count": 199,
-  "watchers_count": 199,
+  "stargazers_count": 198,
+  "watchers_count": 198,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 55,
   "open_issues": 14,
-  "watchers": 199,
+  "watchers": 198,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1930
+  "_index": 1932
 }

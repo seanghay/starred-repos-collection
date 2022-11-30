@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nisrulz/sensey/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nisrulz/sensey/deployments",
   "created_at": "2015-11-12T06:58:21Z",
-  "updated_at": "2022-11-23T11:02:44Z",
+  "updated_at": "2022-11-29T14:49:51Z",
   "pushed_at": "2020-12-13T14:15:02Z",
   "git_url": "git://github.com/nisrulz/sensey.git",
   "ssh_url": "git@github.com:nisrulz/sensey.git",
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 917
+  "_index": 919
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lukeed/mri/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lukeed/mri/deployments",
   "created_at": "2017-04-16T19:45:21Z",
-  "updated_at": "2022-11-26T12:56:49Z",
+  "updated_at": "2022-11-29T02:51:37Z",
   "pushed_at": "2022-10-26T12:05:56Z",
   "git_url": "git://github.com/lukeed/mri.git",
   "ssh_url": "git@github.com:lukeed/mri.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lukeed/mri",
   "homepage": "",
   "size": 51,
-  "stargazers_count": 498,
-  "watchers_count": 498,
+  "stargazers_count": 499,
+  "watchers_count": 499,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 20,
   "open_issues": 4,
-  "watchers": 498,
+  "watchers": 499,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 223
+  "_index": 225
 }

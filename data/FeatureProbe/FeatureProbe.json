@@ -81,7 +81,7 @@
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": false,
-  "has_discussions": true,
+  "has_discussions": false,
   "forks_count": 23,
   "mirror_url": null,
   "archived": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 160
+  "_index": 162
 }

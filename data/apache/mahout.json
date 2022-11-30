@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/apache/mahout/deployments",
   "created_at": "2014-05-23T07:00:07Z",
   "updated_at": "2022-11-27T10:18:32Z",
-  "pushed_at": "2022-11-17T00:32:59Z",
+  "pushed_at": "2022-11-29T20:41:17Z",
   "git_url": "git://github.com/apache/mahout.git",
   "ssh_url": "git@github.com:apache/mahout.git",
   "clone_url": "https://github.com/apache/mahout.git",
   "svn_url": "https://github.com/apache/mahout",
   "homepage": null,
-  "size": 67788,
+  "size": 67801,
   "stargazers_count": 2022,
   "watchers_count": 2022,
   "language": "Java",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 344
+  "_index": 346
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/transloadit/uppy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/transloadit/uppy/deployments",
   "created_at": "2015-11-16T12:32:33Z",
-  "updated_at": "2022-11-28T10:51:33Z",
+  "updated_at": "2022-11-30T01:52:33Z",
   "pushed_at": "2022-11-28T13:41:29Z",
   "git_url": "git://github.com/transloadit/uppy.git",
   "ssh_url": "git@github.com:transloadit/uppy.git",
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1594
+  "_index": 1596
 }

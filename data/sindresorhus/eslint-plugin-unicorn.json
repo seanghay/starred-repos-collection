@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/sindresorhus/eslint-plugin-unicorn.git",
   "svn_url": "https://github.com/sindresorhus/eslint-plugin-unicorn",
   "homepage": "",
-  "size": 4079,
+  "size": 4087,
   "stargazers_count": 2893,
   "watchers_count": 2893,
   "language": "JavaScript",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 102
+  "_index": 104
 }

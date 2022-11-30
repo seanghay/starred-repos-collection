@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ByteWelder/Spork/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ByteWelder/Spork/deployments",
   "created_at": "2016-01-23T11:15:14Z",
-  "updated_at": "2022-07-05T08:39:24Z",
+  "updated_at": "2022-11-29T16:51:19Z",
   "pushed_at": "2020-09-24T21:12:06Z",
   "git_url": "git://github.com/ByteWelder/Spork.git",
   "ssh_url": "git@github.com:ByteWelder/Spork.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ByteWelder/Spork",
   "homepage": "http://spork.bytewelder.com",
   "size": 5377,
-  "stargazers_count": 77,
-  "watchers_count": 77,
+  "stargazers_count": 76,
+  "watchers_count": 76,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 8,
   "open_issues": 0,
-  "watchers": 77,
+  "watchers": 76,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2231
+  "_index": 2233
 }

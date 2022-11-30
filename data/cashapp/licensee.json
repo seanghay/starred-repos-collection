@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/cashapp/licensee/releases{/id}",
   "deployments_url": "https://api.github.com/repos/cashapp/licensee/deployments",
   "created_at": "2021-05-11T16:47:01Z",
-  "updated_at": "2022-11-22T09:13:49Z",
+  "updated_at": "2022-11-29T14:30:37Z",
   "pushed_at": "2022-11-25T02:04:02Z",
   "git_url": "git://github.com/cashapp/licensee.git",
   "ssh_url": "git@github.com:cashapp/licensee.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 21,
+  "open_issues_count": 22,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 21,
-  "open_issues": 21,
+  "open_issues": 22,
   "watchers": 498,
   "default_branch": "trunk",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 884
+  "_index": 886
 }

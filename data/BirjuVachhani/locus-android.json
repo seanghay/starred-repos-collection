@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/BirjuVachhani/locus-android/deployments",
   "created_at": "2018-11-09T06:43:13Z",
   "updated_at": "2022-11-23T06:56:00Z",
-  "pushed_at": "2022-06-05T09:39:52Z",
+  "pushed_at": "2022-11-29T16:54:53Z",
   "git_url": "git://github.com/BirjuVachhani/locus-android.git",
   "ssh_url": "git@github.com:BirjuVachhani/locus-android.git",
   "clone_url": "https://github.com/BirjuVachhani/locus-android.git",
   "svn_url": "https://github.com/BirjuVachhani/locus-android",
   "homepage": "https://birju.dev/posts/retrieve-location-in-just-3-lines-android/",
-  "size": 1207,
+  "size": 1211,
   "stargazers_count": 281,
   "watchers_count": 281,
   "language": "Kotlin",
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 908
+  "_index": 910
 }

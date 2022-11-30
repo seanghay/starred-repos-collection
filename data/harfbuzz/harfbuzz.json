@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/harfbuzz/harfbuzz/releases{/id}",
   "deployments_url": "https://api.github.com/repos/harfbuzz/harfbuzz/deployments",
   "created_at": "2012-07-14T19:50:26Z",
-  "updated_at": "2022-11-28T20:33:46Z",
-  "pushed_at": "2022-11-29T01:09:16Z",
+  "updated_at": "2022-11-29T10:40:58Z",
+  "pushed_at": "2022-11-30T00:21:06Z",
   "git_url": "git://github.com/harfbuzz/harfbuzz.git",
   "ssh_url": "git@github.com:harfbuzz/harfbuzz.git",
   "clone_url": "https://github.com/harfbuzz/harfbuzz.git",
   "svn_url": "https://github.com/harfbuzz/harfbuzz",
   "homepage": "http://harfbuzz.github.io/",
-  "size": 95458,
-  "stargazers_count": 2727,
-  "watchers_count": 2727,
+  "size": 95477,
+  "stargazers_count": 2731,
+  "watchers_count": 2731,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 520,
+  "forks_count": 522,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -111,9 +111,9 @@
     "variable-fonts"
   ],
   "visibility": "public",
-  "forks": 520,
+  "forks": 522,
   "open_issues": 57,
-  "watchers": 2727,
+  "watchers": 2731,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 70
+  "_index": 72
 }

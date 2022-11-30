@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jmfayard/refreshVersions/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jmfayard/refreshVersions/deployments",
   "created_at": "2018-09-29T05:14:46Z",
-  "updated_at": "2022-11-27T08:17:05Z",
+  "updated_at": "2022-11-29T08:33:20Z",
   "pushed_at": "2022-11-24T12:37:58Z",
   "git_url": "git://github.com/jmfayard/refreshVersions.git",
   "ssh_url": "git@github.com:jmfayard/refreshVersions.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jmfayard/refreshVersions",
   "homepage": "https://jmfayard.github.io/refreshVersions/",
   "size": 11982,
-  "stargazers_count": 1455,
-  "watchers_count": 1455,
+  "stargazers_count": 1454,
+  "watchers_count": 1454,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 80,
+  "open_issues_count": 81,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,8 +109,8 @@
   ],
   "visibility": "public",
   "forks": 99,
-  "open_issues": 80,
-  "watchers": 1455,
+  "open_issues": 81,
+  "watchers": 1454,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1369
+  "_index": 1371
 }

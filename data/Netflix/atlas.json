@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Netflix/atlas/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Netflix/atlas/deployments",
   "created_at": "2014-08-05T05:23:04Z",
-  "updated_at": "2022-11-25T04:23:44Z",
-  "pushed_at": "2022-11-29T02:21:36Z",
+  "updated_at": "2022-11-29T08:38:06Z",
+  "pushed_at": "2022-11-29T12:27:34Z",
   "git_url": "git://github.com/Netflix/atlas.git",
   "ssh_url": "git@github.com:Netflix/atlas.git",
   "clone_url": "https://github.com/Netflix/atlas.git",
   "svn_url": "https://github.com/Netflix/atlas",
   "homepage": "",
-  "size": 90062,
-  "stargazers_count": 3159,
-  "watchers_count": 3159,
+  "size": 90069,
+  "stargazers_count": 3160,
+  "watchers_count": 3160,
   "language": "Scala",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 24,
+  "open_issues_count": 23,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 271,
-  "open_issues": 24,
-  "watchers": 3159,
+  "open_issues": 23,
+  "watchers": 3160,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 33
+  "_index": 35
 }
