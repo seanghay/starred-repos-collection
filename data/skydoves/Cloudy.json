@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/skydoves/Cloudy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/skydoves/Cloudy/deployments",
   "created_at": "2022-11-17T11:44:56Z",
-  "updated_at": "2022-11-29T16:20:13Z",
-  "pushed_at": "2022-11-29T00:52:08Z",
+  "updated_at": "2022-11-30T18:20:10Z",
+  "pushed_at": "2022-11-30T02:45:08Z",
   "git_url": "git://github.com/skydoves/Cloudy.git",
   "ssh_url": "git@github.com:skydoves/Cloudy.git",
   "clone_url": "https://github.com/skydoves/Cloudy.git",
   "svn_url": "https://github.com/skydoves/Cloudy",
   "homepage": "",
-  "size": 6205,
-  "stargazers_count": 346,
-  "watchers_count": 346,
+  "size": 6207,
+  "stargazers_count": 349,
+  "watchers_count": 349,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1,
+  "open_issues_count": 0,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 9,
-  "open_issues": 1,
-  "watchers": 346,
+  "open_issues": 0,
+  "watchers": 349,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 12
+  "_index": 13
 }

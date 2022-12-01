@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/Netflix/atlas/deployments",
   "created_at": "2014-08-05T05:23:04Z",
   "updated_at": "2022-11-29T08:38:06Z",
-  "pushed_at": "2022-11-29T12:27:34Z",
+  "pushed_at": "2022-12-01T00:16:48Z",
   "git_url": "git://github.com/Netflix/atlas.git",
   "ssh_url": "git@github.com:Netflix/atlas.git",
   "clone_url": "https://github.com/Netflix/atlas.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 35
+  "_index": 36
 }

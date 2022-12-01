@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ulid/javascript/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ulid/javascript/deployments",
   "created_at": "2016-06-13T16:14:51Z",
-  "updated_at": "2022-11-24T03:40:11Z",
+  "updated_at": "2022-12-01T00:20:43Z",
   "pushed_at": "2022-09-08T23:05:59Z",
   "git_url": "git://github.com/ulid/javascript.git",
   "ssh_url": "git@github.com:ulid/javascript.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ulid/javascript",
   "homepage": "",
   "size": 205,
-  "stargazers_count": 2064,
-  "watchers_count": 2064,
+  "stargazers_count": 2066,
+  "watchers_count": 2066,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 105,
   "open_issues": 23,
-  "watchers": 2064,
+  "watchers": 2066,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 595
+  "_index": 596
 }

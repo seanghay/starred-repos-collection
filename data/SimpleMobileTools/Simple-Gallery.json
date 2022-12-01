@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/SimpleMobileTools/Simple-Gallery/releases{/id}",
   "deployments_url": "https://api.github.com/repos/SimpleMobileTools/Simple-Gallery/deployments",
   "created_at": "2016-02-16T21:17:13Z",
-  "updated_at": "2022-11-29T19:23:31Z",
+  "updated_at": "2022-11-30T10:58:52Z",
   "pushed_at": "2022-11-26T18:02:38Z",
   "git_url": "git://github.com/SimpleMobileTools/Simple-Gallery.git",
   "ssh_url": "git@github.com:SimpleMobileTools/Simple-Gallery.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 613,
+  "forks_count": 614,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 276,
+  "open_issues_count": 277,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -108,8 +108,8 @@
     "viewing-photos"
   ],
   "visibility": "public",
-  "forks": 613,
-  "open_issues": 276,
+  "forks": 614,
+  "open_issues": 277,
   "watchers": 2754,
   "default_branch": "master",
   "permissions": {
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2011
+  "_index": 2012
 }

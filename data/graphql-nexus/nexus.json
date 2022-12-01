@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/graphql-nexus/nexus/releases{/id}",
   "deployments_url": "https://api.github.com/repos/graphql-nexus/nexus/deployments",
   "created_at": "2018-11-02T21:11:33Z",
-  "updated_at": "2022-11-29T22:37:58Z",
-  "pushed_at": "2022-11-12T11:53:17Z",
+  "updated_at": "2022-11-30T21:55:54Z",
+  "pushed_at": "2022-11-30T18:41:59Z",
   "git_url": "git://github.com/graphql-nexus/nexus.git",
   "ssh_url": "git@github.com:graphql-nexus/nexus.git",
   "clone_url": "https://github.com/graphql-nexus/nexus.git",
   "svn_url": "https://github.com/graphql-nexus/nexus",
   "homepage": "https://nexusjs.org",
   "size": 19092,
-  "stargazers_count": 3147,
-  "watchers_count": 3147,
+  "stargazers_count": 3149,
+  "watchers_count": 3149,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 275,
+  "forks_count": 276,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 245,
+  "open_issues_count": 246,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,9 +105,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 275,
-  "open_issues": 245,
-  "watchers": 3147,
+  "forks": 276,
+  "open_issues": 246,
+  "watchers": 3149,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 535
+  "_index": 536
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/linkedin/LiTr/releases{/id}",
   "deployments_url": "https://api.github.com/repos/linkedin/LiTr/deployments",
   "created_at": "2019-10-17T18:29:23Z",
-  "updated_at": "2022-11-25T15:44:21Z",
-  "pushed_at": "2022-11-21T15:03:40Z",
+  "updated_at": "2022-11-30T10:44:49Z",
+  "pushed_at": "2022-11-30T03:10:09Z",
   "git_url": "git://github.com/linkedin/LiTr.git",
   "ssh_url": "git@github.com:linkedin/LiTr.git",
   "clone_url": "https://github.com/linkedin/LiTr.git",
   "svn_url": "https://github.com/linkedin/LiTr",
   "homepage": "",
   "size": 822,
-  "stargazers_count": 466,
-  "watchers_count": 466,
+  "stargazers_count": 467,
+  "watchers_count": 467,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 38,
+  "open_issues_count": 39,
   "license": {
     "key": "bsd-2-clause",
     "name": "BSD 2-Clause \"Simplified\" License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 73,
-  "open_issues": 38,
-  "watchers": 466,
+  "open_issues": 39,
+  "watchers": 467,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1433
+  "_index": 1434
 }

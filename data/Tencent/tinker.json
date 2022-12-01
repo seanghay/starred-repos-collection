@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Tencent/tinker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Tencent/tinker/deployments",
   "created_at": "2016-09-06T06:57:52Z",
-  "updated_at": "2022-11-29T08:31:38Z",
+  "updated_at": "2022-11-30T11:46:26Z",
   "pushed_at": "2022-10-31T16:36:10Z",
   "git_url": "git://github.com/Tencent/tinker.git",
   "ssh_url": "git@github.com:Tencent/tinker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Tencent/tinker",
   "homepage": "",
   "size": 6943,
-  "stargazers_count": 16619,
-  "watchers_count": 16619,
+  "stargazers_count": 16623,
+  "watchers_count": 16623,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3325,
+  "forks_count": 3324,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "wechat"
   ],
   "visibility": "public",
-  "forks": 3325,
+  "forks": 3324,
   "open_issues": 489,
-  "watchers": 16619,
+  "watchers": 16623,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1708
+  "_index": 1709
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/gridsome/gridsome/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gridsome/gridsome/deployments",
   "created_at": "2018-07-31T22:55:06Z",
-  "updated_at": "2022-11-29T21:33:44Z",
+  "updated_at": "2022-11-30T21:57:44Z",
   "pushed_at": "2022-11-17T02:45:46Z",
   "git_url": "git://github.com/gridsome/gridsome.git",
   "ssh_url": "git@github.com:gridsome/gridsome.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/gridsome/gridsome",
   "homepage": "https://gridsome.org",
   "size": 7987,
-  "stargazers_count": 8375,
-  "watchers_count": 8375,
+  "stargazers_count": 8376,
+  "watchers_count": 8376,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 495,
   "open_issues": 571,
-  "watchers": 8375,
+  "watchers": 8376,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2197
+  "_index": 2198
 }

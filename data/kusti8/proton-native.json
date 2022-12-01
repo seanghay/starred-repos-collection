@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kusti8/proton-native/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kusti8/proton-native/deployments",
   "created_at": "2017-11-21T22:56:18Z",
-  "updated_at": "2022-11-29T04:49:53Z",
+  "updated_at": "2022-11-30T21:55:44Z",
   "pushed_at": "2022-11-19T07:00:22Z",
   "git_url": "git://github.com/kusti8/proton-native.git",
   "ssh_url": "git@github.com:kusti8/proton-native.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/kusti8/proton-native",
   "homepage": "https://proton-native.js.org",
   "size": 7051,
-  "stargazers_count": 10895,
-  "watchers_count": 10895,
+  "stargazers_count": 10896,
+  "watchers_count": 10896,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 394,
   "open_issues": 79,
-  "watchers": 10895,
+  "watchers": 10896,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2292
+  "_index": 2293
 }

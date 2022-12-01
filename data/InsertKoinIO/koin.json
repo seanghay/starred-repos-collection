@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/InsertKoinIO/koin",
-  "description": "Koin - a pragmatic lightweight dependency injection framework for Kotlin",
+  "description": "Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform",
   "fork": false,
   "url": "https://api.github.com/repos/InsertKoinIO/koin",
   "forks_url": "https://api.github.com/repos/InsertKoinIO/koin/forks",
@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/InsertKoinIO/koin/releases{/id}",
   "deployments_url": "https://api.github.com/repos/InsertKoinIO/koin/deployments",
   "created_at": "2017-06-06T12:21:06Z",
-  "updated_at": "2022-11-29T12:13:39Z",
+  "updated_at": "2022-11-30T09:57:21Z",
   "pushed_at": "2022-11-18T11:51:00Z",
   "git_url": "git://github.com/InsertKoinIO/koin.git",
   "ssh_url": "git@github.com:InsertKoinIO/koin.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/InsertKoinIO/koin",
   "homepage": "https://insert-koin.io",
   "size": 41423,
-  "stargazers_count": 7727,
-  "watchers_count": 7727,
+  "stargazers_count": 7728,
+  "watchers_count": 7728,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 590,
   "open_issues": 94,
-  "watchers": 7727,
+  "watchers": 7728,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2239
+  "_index": 2240
 }

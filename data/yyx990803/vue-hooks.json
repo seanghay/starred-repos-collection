@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yyx990803/vue-hooks/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yyx990803/vue-hooks/deployments",
   "created_at": "2018-10-27T04:58:21Z",
-  "updated_at": "2022-11-04T09:58:26Z",
+  "updated_at": "2022-11-30T16:53:58Z",
   "pushed_at": "2020-04-29T19:59:15Z",
   "git_url": "git://github.com/yyx990803/vue-hooks.git",
   "ssh_url": "git@github.com:yyx990803/vue-hooks.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yyx990803/vue-hooks",
   "homepage": null,
   "size": 17,
-  "stargazers_count": 1593,
-  "watchers_count": 1593,
+  "stargazers_count": 1592,
+  "watchers_count": 1592,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 68,
   "open_issues": 10,
-  "watchers": 1593,
+  "watchers": 1592,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2198
+  "_index": 2199
 }

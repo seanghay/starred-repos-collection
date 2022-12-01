@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yisibl/resvg-js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yisibl/resvg-js/deployments",
   "created_at": "2021-10-08T07:51:05Z",
-  "updated_at": "2022-11-29T16:47:36Z",
+  "updated_at": "2022-11-30T10:41:24Z",
   "pushed_at": "2022-11-29T14:40:58Z",
   "git_url": "git://github.com/yisibl/resvg-js.git",
   "ssh_url": "git@github.com:yisibl/resvg-js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yisibl/resvg-js",
   "homepage": "https://resvg-js.vercel.app/",
   "size": 34596,
-  "stargazers_count": 712,
-  "watchers_count": 712,
+  "stargazers_count": 715,
+  "watchers_count": 715,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 24,
   "open_issues": 17,
-  "watchers": 712,
+  "watchers": 715,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 340
+  "_index": 341
 }

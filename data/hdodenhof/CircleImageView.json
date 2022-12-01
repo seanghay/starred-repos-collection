@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/hdodenhof/CircleImageView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hdodenhof/CircleImageView/deployments",
   "created_at": "2014-01-17T16:44:46Z",
-  "updated_at": "2022-11-29T08:54:06Z",
+  "updated_at": "2022-11-30T13:11:48Z",
   "pushed_at": "2022-05-17T07:44:15Z",
   "git_url": "git://github.com/hdodenhof/CircleImageView.git",
   "ssh_url": "git@github.com:hdodenhof/CircleImageView.git",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1707
+  "_index": 1708
 }
