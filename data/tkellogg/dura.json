@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tkellogg/dura/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tkellogg/dura/deployments",
   "created_at": "2021-12-31T19:48:39Z",
-  "updated_at": "2022-11-30T15:21:33Z",
+  "updated_at": "2022-12-01T17:05:41Z",
   "pushed_at": "2022-11-30T15:20:26Z",
   "git_url": "git://github.com/tkellogg/dura.git",
   "ssh_url": "git@github.com:tkellogg/dura.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/tkellogg/dura",
   "homepage": "",
   "size": 219,
-  "stargazers_count": 4081,
-  "watchers_count": 4081,
+  "stargazers_count": 4082,
+  "watchers_count": 4082,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 73,
+  "forks_count": 74,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,9 +102,9 @@
     "rust"
   ],
   "visibility": "public",
-  "forks": 73,
+  "forks": 74,
   "open_issues": 22,
-  "watchers": 4081,
+  "watchers": 4082,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 475
+  "_index": 476
 }

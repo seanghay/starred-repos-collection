@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/kirill-grouchnikov/aurora/deployments",
   "created_at": "2020-09-23T13:37:47Z",
   "updated_at": "2022-11-29T04:11:55Z",
-  "pushed_at": "2022-11-29T22:07:08Z",
+  "pushed_at": "2022-12-01T19:13:08Z",
   "git_url": "git://github.com/kirill-grouchnikov/aurora.git",
   "ssh_url": "git@github.com:kirill-grouchnikov/aurora.git",
   "clone_url": "https://github.com/kirill-grouchnikov/aurora.git",
   "svn_url": "https://github.com/kirill-grouchnikov/aurora",
   "homepage": "",
-  "size": 81141,
+  "size": 81232,
   "stargazers_count": 423,
   "watchers_count": 423,
   "language": "Kotlin",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 875
+  "_index": 876
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/public-apis/public-apis/releases{/id}",
   "deployments_url": "https://api.github.com/repos/public-apis/public-apis/deployments",
   "created_at": "2016-03-20T23:49:42Z",
-  "updated_at": "2022-12-01T02:38:49Z",
-  "pushed_at": "2022-11-30T17:59:50Z",
+  "updated_at": "2022-12-02T02:14:12Z",
+  "pushed_at": "2022-12-01T14:49:16Z",
   "git_url": "git://github.com/public-apis/public-apis.git",
   "ssh_url": "git@github.com:public-apis/public-apis.git",
   "clone_url": "https://github.com/public-apis/public-apis.git",
   "svn_url": "https://github.com/public-apis/public-apis",
   "homepage": "http://public-apis.org",
   "size": 5031,
-  "stargazers_count": 218596,
-  "watchers_count": 218596,
+  "stargazers_count": 218689,
+  "watchers_count": 218689,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 24993,
+  "forks_count": 25009,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 84,
+  "open_issues_count": 85,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -113,9 +113,9 @@
     "software"
   ],
   "visibility": "public",
-  "forks": 24993,
-  "open_issues": 84,
-  "watchers": 218596,
+  "forks": 25009,
+  "open_issues": 85,
+  "watchers": 218689,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 810
+  "_index": 811
 }

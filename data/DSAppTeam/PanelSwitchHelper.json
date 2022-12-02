@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/DSAppTeam/PanelSwitchHelper/deployments",
   "created_at": "2018-07-09T09:33:37Z",
   "updated_at": "2022-11-26T12:24:38Z",
-  "pushed_at": "2022-11-23T07:01:43Z",
+  "pushed_at": "2022-12-01T09:04:38Z",
   "git_url": "git://github.com/DSAppTeam/PanelSwitchHelper.git",
   "ssh_url": "git@github.com:DSAppTeam/PanelSwitchHelper.git",
   "clone_url": "https://github.com/DSAppTeam/PanelSwitchHelper.git",
   "svn_url": "https://github.com/DSAppTeam/PanelSwitchHelper",
   "homepage": "",
-  "size": 559861,
+  "size": 559863,
   "stargazers_count": 2138,
   "watchers_count": 2138,
   "language": "Java",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1433
+  "_index": 1434
 }

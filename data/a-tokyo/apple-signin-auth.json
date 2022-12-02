@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/a-tokyo/apple-signin-auth/deployments",
   "created_at": "2020-02-24T18:16:28Z",
   "updated_at": "2022-11-26T14:31:04Z",
-  "pushed_at": "2022-10-12T09:14:20Z",
+  "pushed_at": "2022-12-01T05:04:35Z",
   "git_url": "git://github.com/a-tokyo/apple-signin-auth.git",
   "ssh_url": "git@github.com:a-tokyo/apple-signin-auth.git",
   "clone_url": "https://github.com/a-tokyo/apple-signin-auth.git",
   "svn_url": "https://github.com/a-tokyo/apple-signin-auth",
   "homepage": "",
-  "size": 1041,
+  "size": 595,
   "stargazers_count": 100,
   "watchers_count": 100,
   "language": "JavaScript",
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 131
+  "_index": 132
 }

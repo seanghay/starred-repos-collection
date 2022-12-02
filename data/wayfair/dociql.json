@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wayfair/dociql/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wayfair/dociql/deployments",
   "created_at": "2019-02-08T13:34:11Z",
-  "updated_at": "2022-11-27T06:45:40Z",
+  "updated_at": "2022-12-01T05:10:33Z",
   "pushed_at": "2022-11-24T00:13:50Z",
   "git_url": "git://github.com/wayfair/dociql.git",
   "ssh_url": "git@github.com:wayfair/dociql.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wayfair/dociql",
   "homepage": "https://github.com/wayfair/dociql",
   "size": 2774,
-  "stargazers_count": 307,
-  "watchers_count": 307,
+  "stargazers_count": 308,
+  "watchers_count": 308,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -103,7 +103,7 @@
   "visibility": "public",
   "forks": 94,
   "open_issues": 19,
-  "watchers": 307,
+  "watchers": 308,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 695
+  "_index": 696
 }

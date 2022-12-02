@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/authelia/authelia/releases{/id}",
   "deployments_url": "https://api.github.com/repos/authelia/authelia/deployments",
   "created_at": "2016-12-07T00:56:57Z",
-  "updated_at": "2022-12-01T02:23:23Z",
-  "pushed_at": "2022-12-01T01:44:24Z",
+  "updated_at": "2022-12-02T00:43:47Z",
+  "pushed_at": "2022-12-02T01:02:23Z",
   "git_url": "git://github.com/authelia/authelia.git",
   "ssh_url": "git@github.com:authelia/authelia.git",
   "clone_url": "https://github.com/authelia/authelia.git",
   "svn_url": "https://github.com/authelia/authelia",
   "homepage": "https://www.authelia.com",
-  "size": 33008,
-  "stargazers_count": 14786,
-  "watchers_count": 14786,
+  "size": 33060,
+  "stargazers_count": 14790,
+  "watchers_count": 14790,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 828,
+  "forks_count": 830,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 111,
+  "open_issues_count": 115,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -120,9 +120,9 @@
     "yubikey"
   ],
   "visibility": "public",
-  "forks": 828,
-  "open_issues": 111,
-  "watchers": 14786,
+  "forks": 830,
+  "open_issues": 115,
+  "watchers": 14790,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 605
+  "_index": 606
 }

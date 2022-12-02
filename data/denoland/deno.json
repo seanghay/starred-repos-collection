@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/denoland/deno/releases{/id}",
   "deployments_url": "https://api.github.com/repos/denoland/deno/deployments",
   "created_at": "2018-05-15T01:34:26Z",
-  "updated_at": "2022-12-01T01:24:44Z",
-  "pushed_at": "2022-12-01T01:58:13Z",
+  "updated_at": "2022-12-02T02:03:24Z",
+  "pushed_at": "2022-12-02T01:01:21Z",
   "git_url": "git://github.com/denoland/deno.git",
   "ssh_url": "git@github.com:denoland/deno.git",
   "clone_url": "https://github.com/denoland/deno.git",
   "svn_url": "https://github.com/denoland/deno",
   "homepage": "https://deno.land",
-  "size": 82963,
-  "stargazers_count": 86611,
-  "watchers_count": 86611,
+  "size": 82591,
+  "stargazers_count": 86625,
+  "watchers_count": 86625,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 4662,
+  "forks_count": 4661,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1089,
+  "open_issues_count": 1094,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,9 +104,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 4662,
-  "open_issues": 1089,
-  "watchers": 86611,
+  "forks": 4661,
+  "open_issues": 1094,
+  "watchers": 86625,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2307
+  "_index": 2308
 }

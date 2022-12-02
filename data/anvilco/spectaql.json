@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/anvilco/spectaql/releases{/id}",
   "deployments_url": "https://api.github.com/repos/anvilco/spectaql/deployments",
   "created_at": "2021-03-16T21:57:13Z",
-  "updated_at": "2022-11-30T06:18:00Z",
-  "pushed_at": "2022-12-01T02:01:38Z",
+  "updated_at": "2022-12-01T21:00:20Z",
+  "pushed_at": "2022-12-02T02:05:22Z",
   "git_url": "git://github.com/anvilco/spectaql.git",
   "ssh_url": "git@github.com:anvilco/spectaql.git",
   "clone_url": "https://github.com/anvilco/spectaql.git",
   "svn_url": "https://github.com/anvilco/spectaql",
   "homepage": "https://useanvil.com/docs/api/graphql/reference/",
-  "size": 4667,
-  "stargazers_count": 762,
-  "watchers_count": 762,
+  "size": 4685,
+  "stargazers_count": 766,
+  "watchers_count": 766,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 59,
+  "open_issues_count": 57,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 79,
-  "open_issues": 59,
-  "watchers": 762,
+  "open_issues": 57,
+  "watchers": 766,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 69
+  "_index": 70
 }

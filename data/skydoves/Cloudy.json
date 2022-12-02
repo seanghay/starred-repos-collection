@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/skydoves/Cloudy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/skydoves/Cloudy/deployments",
   "created_at": "2022-11-17T11:44:56Z",
-  "updated_at": "2022-11-30T18:20:10Z",
+  "updated_at": "2022-12-01T17:49:48Z",
   "pushed_at": "2022-11-30T02:45:08Z",
   "git_url": "git://github.com/skydoves/Cloudy.git",
   "ssh_url": "git@github.com:skydoves/Cloudy.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/skydoves/Cloudy",
   "homepage": "",
   "size": 6207,
-  "stargazers_count": 349,
-  "watchers_count": 349,
+  "stargazers_count": 352,
+  "watchers_count": 352,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 9,
   "open_issues": 0,
-  "watchers": 349,
+  "watchers": 352,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 13
+  "_index": 14
 }

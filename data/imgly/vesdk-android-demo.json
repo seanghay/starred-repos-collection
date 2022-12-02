@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/imgly/vesdk-android-demo/releases{/id}",
   "deployments_url": "https://api.github.com/repos/imgly/vesdk-android-demo/deployments",
   "created_at": "2019-07-15T14:10:17Z",
-  "updated_at": "2022-11-29T08:34:23Z",
+  "updated_at": "2022-12-01T16:13:50Z",
   "pushed_at": "2022-11-29T15:15:53Z",
   "git_url": "git://github.com/imgly/vesdk-android-demo.git",
   "ssh_url": "git@github.com:imgly/vesdk-android-demo.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/imgly/vesdk-android-demo",
   "homepage": "https://videoeditorsdk.com",
   "size": 1644,
-  "stargazers_count": 89,
-  "watchers_count": 89,
+  "stargazers_count": 90,
+  "watchers_count": 90,
   "language": "Kotlin",
   "has_issues": false,
   "has_projects": false,
@@ -115,7 +115,7 @@
   "visibility": "public",
   "forks": 21,
   "open_issues": 0,
-  "watchers": 89,
+  "watchers": 90,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 756
+  "_index": 757
 }

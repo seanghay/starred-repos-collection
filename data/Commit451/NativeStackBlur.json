@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Commit451/NativeStackBlur/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Commit451/NativeStackBlur/deployments",
   "created_at": "2015-09-10T16:13:53Z",
-  "updated_at": "2022-11-10T07:30:56Z",
+  "updated_at": "2022-12-01T09:59:02Z",
   "pushed_at": "2022-08-02T19:28:32Z",
   "git_url": "git://github.com/Commit451/NativeStackBlur.git",
   "ssh_url": "git@github.com:Commit451/NativeStackBlur.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Commit451/NativeStackBlur",
   "homepage": null,
   "size": 258,
-  "stargazers_count": 246,
-  "watchers_count": 246,
+  "stargazers_count": 247,
+  "watchers_count": 247,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 41,
   "open_issues": 1,
-  "watchers": 246,
+  "watchers": 247,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2003
+  "_index": 2004
 }

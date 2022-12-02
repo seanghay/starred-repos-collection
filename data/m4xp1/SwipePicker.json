@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/m4xp1/SwipePicker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/m4xp1/SwipePicker/deployments",
   "created_at": "2018-07-03T13:06:09Z",
-  "updated_at": "2022-11-24T10:18:34Z",
+  "updated_at": "2022-12-01T11:44:27Z",
   "pushed_at": "2021-05-06T12:17:58Z",
   "git_url": "git://github.com/m4xp1/SwipePicker.git",
   "ssh_url": "git@github.com:m4xp1/SwipePicker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/m4xp1/SwipePicker",
   "homepage": "",
   "size": 5612,
-  "stargazers_count": 130,
-  "watchers_count": 130,
+  "stargazers_count": 131,
+  "watchers_count": 131,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 16,
   "open_issues": 0,
-  "watchers": 130,
+  "watchers": 131,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1946
+  "_index": 1947
 }

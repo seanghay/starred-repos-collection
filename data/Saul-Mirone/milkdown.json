@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Saul-Mirone/milkdown/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Saul-Mirone/milkdown/deployments",
   "created_at": "2021-03-09T07:40:18Z",
-  "updated_at": "2022-12-01T02:13:10Z",
-  "pushed_at": "2022-12-01T02:01:34Z",
+  "updated_at": "2022-12-02T01:54:15Z",
+  "pushed_at": "2022-12-01T13:14:06Z",
   "git_url": "git://github.com/Saul-Mirone/milkdown.git",
   "ssh_url": "git@github.com:Saul-Mirone/milkdown.git",
   "clone_url": "https://github.com/Saul-Mirone/milkdown.git",
   "svn_url": "https://github.com/Saul-Mirone/milkdown",
   "homepage": "https://milkdown.dev",
-  "size": 100025,
-  "stargazers_count": 6900,
-  "watchers_count": 6900,
+  "size": 99611,
+  "stargazers_count": 6905,
+  "watchers_count": 6905,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 316,
+  "forks_count": 315,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 15,
+  "open_issues_count": 14,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -111,9 +111,9 @@
     "wysiwyg-editor"
   ],
   "visibility": "public",
-  "forks": 316,
-  "open_issues": 15,
-  "watchers": 6900,
+  "forks": 315,
+  "open_issues": 14,
+  "watchers": 6905,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 890
+  "_index": 891
 }

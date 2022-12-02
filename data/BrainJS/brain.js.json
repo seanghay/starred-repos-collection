@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/BrainJS/brain.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/BrainJS/brain.js/deployments",
   "created_at": "2016-02-13T18:09:44Z",
-  "updated_at": "2022-11-29T18:52:47Z",
+  "updated_at": "2022-12-02T00:14:08Z",
   "pushed_at": "2022-11-16T22:30:18Z",
   "git_url": "git://github.com/BrainJS/brain.js.git",
   "ssh_url": "git@github.com:BrainJS/brain.js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/BrainJS/brain.js",
   "homepage": "https://brain.js.org",
   "size": 23009,
-  "stargazers_count": 13356,
-  "watchers_count": 13356,
+  "stargazers_count": 13358,
+  "watchers_count": 13358,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -114,7 +114,7 @@
   "visibility": "public",
   "forks": 1061,
   "open_issues": 56,
-  "watchers": 13356,
+  "watchers": 13358,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2351
+  "_index": 2352
 }

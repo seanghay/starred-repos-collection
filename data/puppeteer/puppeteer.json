@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/puppeteer/puppeteer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/puppeteer/puppeteer/deployments",
   "created_at": "2017-05-09T22:16:13Z",
-  "updated_at": "2022-11-30T21:07:40Z",
-  "pushed_at": "2022-11-30T09:53:43Z",
+  "updated_at": "2022-12-02T01:36:22Z",
+  "pushed_at": "2022-12-01T17:29:07Z",
   "git_url": "git://github.com/puppeteer/puppeteer.git",
   "ssh_url": "git@github.com:puppeteer/puppeteer.git",
   "clone_url": "https://github.com/puppeteer/puppeteer.git",
   "svn_url": "https://github.com/puppeteer/puppeteer",
   "homepage": "https://pptr.dev",
-  "size": 322753,
-  "stargazers_count": 81036,
-  "watchers_count": 81036,
+  "size": 321990,
+  "stargazers_count": 81048,
+  "watchers_count": 81048,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 277,
+  "open_issues_count": 281,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -109,8 +109,8 @@
   ],
   "visibility": "public",
   "forks": 8734,
-  "open_issues": 277,
-  "watchers": 81036,
+  "open_issues": 281,
+  "watchers": 81048,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2348
+  "_index": 2349
 }

@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/kakada/event_base_surveillance.git",
   "svn_url": "https://github.com/kakada/event_base_surveillance",
   "homepage": null,
-  "size": 11645,
+  "size": 11652,
   "stargazers_count": 1,
   "watchers_count": 1,
   "language": "Ruby",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1128
+  "_index": 1129
 }

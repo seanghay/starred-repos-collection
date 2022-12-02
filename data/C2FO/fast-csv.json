@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/C2FO/fast-csv/releases{/id}",
   "deployments_url": "https://api.github.com/repos/C2FO/fast-csv/deployments",
   "created_at": "2012-09-10T21:56:55Z",
-  "updated_at": "2022-11-30T14:27:35Z",
+  "updated_at": "2022-12-01T14:32:40Z",
   "pushed_at": "2022-11-20T12:20:03Z",
   "git_url": "git://github.com/C2FO/fast-csv.git",
   "ssh_url": "git@github.com:C2FO/fast-csv.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/C2FO/fast-csv",
   "homepage": "http://c2fo.github.io/fast-csv",
   "size": 4686,
-  "stargazers_count": 1356,
-  "watchers_count": 1356,
+  "stargazers_count": 1359,
+  "watchers_count": 1359,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 61,
+  "open_issues_count": 62,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,8 +108,8 @@
   ],
   "visibility": "public",
   "forks": 203,
-  "open_issues": 61,
-  "watchers": 1356,
+  "open_issues": 62,
+  "watchers": 1359,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1100
+  "_index": 1101
 }
