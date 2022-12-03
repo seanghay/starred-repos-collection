@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lukeed/flattie/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lukeed/flattie/deployments",
   "created_at": "2016-05-12T18:48:49Z",
-  "updated_at": "2022-11-05T06:42:47Z",
+  "updated_at": "2022-12-02T02:21:24Z",
   "pushed_at": "2021-10-31T00:35:25Z",
   "git_url": "git://github.com/lukeed/flattie.git",
   "ssh_url": "git@github.com:lukeed/flattie.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lukeed/flattie",
   "homepage": "",
   "size": 45,
-  "stargazers_count": 245,
-  "watchers_count": 245,
+  "stargazers_count": 246,
+  "watchers_count": 246,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 9,
   "open_issues": 1,
-  "watchers": 245,
+  "watchers": 246,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 110
+  "_index": 111
 }

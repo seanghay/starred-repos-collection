@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Diizzayy/nuxt-graphql-client/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Diizzayy/nuxt-graphql-client/deployments",
   "created_at": "2022-03-03T17:38:52Z",
-  "updated_at": "2022-12-01T20:06:44Z",
+  "updated_at": "2022-12-02T21:47:17Z",
   "pushed_at": "2022-11-28T10:54:48Z",
   "git_url": "git://github.com/Diizzayy/nuxt-graphql-client.git",
   "ssh_url": "git@github.com:Diizzayy/nuxt-graphql-client.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Diizzayy/nuxt-graphql-client",
   "homepage": "https://nuxt-graphql-client.web.app",
   "size": 2940,
-  "stargazers_count": 241,
-  "watchers_count": 241,
+  "stargazers_count": 242,
+  "watchers_count": 242,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -115,7 +115,7 @@
   "visibility": "public",
   "forks": 22,
   "open_issues": 13,
-  "watchers": 241,
+  "watchers": 242,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 431
+  "_index": 432
 }

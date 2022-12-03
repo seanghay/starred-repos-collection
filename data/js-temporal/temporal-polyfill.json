@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/js-temporal/temporal-polyfill.git",
   "svn_url": "https://github.com/js-temporal/temporal-polyfill",
   "homepage": "",
-  "size": 3510,
+  "size": 3511,
   "stargazers_count": 336,
   "watchers_count": 336,
   "language": "JavaScript",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 741
+  "_index": 742
 }

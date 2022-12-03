@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/transferwise/sequence-layout/releases{/id}",
   "deployments_url": "https://api.github.com/repos/transferwise/sequence-layout/deployments",
   "created_at": "2018-03-19T11:38:50Z",
-  "updated_at": "2022-11-13T10:49:00Z",
+  "updated_at": "2022-12-02T20:30:35Z",
   "pushed_at": "2022-11-28T12:04:28Z",
   "git_url": "git://github.com/transferwise/sequence-layout.git",
   "ssh_url": "git@github.com:transferwise/sequence-layout.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/transferwise/sequence-layout",
   "homepage": null,
   "size": 258,
-  "stargazers_count": 472,
-  "watchers_count": 472,
+  "stargazers_count": 473,
+  "watchers_count": 473,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 55,
   "open_issues": 8,
-  "watchers": 472,
+  "watchers": 473,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2260
+  "_index": 2261
 }

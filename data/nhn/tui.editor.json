@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/nhn/tui.editor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nhn/tui.editor/deployments",
   "created_at": "2015-07-27T06:57:23Z",
-  "updated_at": "2022-12-02T01:46:07Z",
-  "pushed_at": "2022-12-01T06:30:34Z",
+  "updated_at": "2022-12-02T22:49:14Z",
+  "pushed_at": "2022-12-02T07:00:24Z",
   "git_url": "git://github.com/nhn/tui.editor.git",
   "ssh_url": "git@github.com:nhn/tui.editor.git",
   "clone_url": "https://github.com/nhn/tui.editor.git",
   "svn_url": "https://github.com/nhn/tui.editor",
   "homepage": "http://ui.toast.com/tui-editor",
-  "size": 82621,
-  "stargazers_count": 15440,
-  "watchers_count": 15440,
+  "size": 81093,
+  "stargazers_count": 15445,
+  "watchers_count": 15445,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 417,
+  "open_issues_count": 419,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -113,8 +113,8 @@
   ],
   "visibility": "public",
   "forks": 1557,
-  "open_issues": 417,
-  "watchers": 15440,
+  "open_issues": 419,
+  "watchers": 15445,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 578
+  "_index": 579
 }

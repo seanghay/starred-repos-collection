@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/KhronosGroup/Vulkan-Samples/releases{/id}",
   "deployments_url": "https://api.github.com/repos/KhronosGroup/Vulkan-Samples/deployments",
   "created_at": "2019-10-29T16:10:56Z",
-  "updated_at": "2022-12-01T19:47:34Z",
+  "updated_at": "2022-12-02T06:32:12Z",
   "pushed_at": "2022-11-30T16:38:28Z",
   "git_url": "git://github.com/KhronosGroup/Vulkan-Samples.git",
   "ssh_url": "git@github.com:KhronosGroup/Vulkan-Samples.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/KhronosGroup/Vulkan-Samples",
   "homepage": null,
   "size": 42283,
-  "stargazers_count": 2753,
-  "watchers_count": 2753,
+  "stargazers_count": 2756,
+  "watchers_count": 2756,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 393,
   "open_issues": 55,
-  "watchers": 2753,
+  "watchers": 2756,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1721
+  "_index": 1722
 }

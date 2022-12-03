@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Simonwep/pickr/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Simonwep/pickr/deployments",
   "created_at": "2018-05-27T19:39:23Z",
-  "updated_at": "2022-12-01T21:15:53Z",
+  "updated_at": "2022-12-02T08:42:46Z",
   "pushed_at": "2022-11-01T19:30:28Z",
   "git_url": "git://github.com/Simonwep/pickr.git",
   "ssh_url": "git@github.com:Simonwep/pickr.git",
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2288
+  "_index": 2289
 }

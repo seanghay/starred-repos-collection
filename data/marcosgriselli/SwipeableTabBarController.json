@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/marcosgriselli/SwipeableTabBarController/releases{/id}",
   "deployments_url": "https://api.github.com/repos/marcosgriselli/SwipeableTabBarController/deployments",
   "created_at": "2017-02-01T20:04:06Z",
-  "updated_at": "2022-11-30T09:29:35Z",
+  "updated_at": "2022-12-02T07:38:01Z",
   "pushed_at": "2022-10-05T23:49:32Z",
   "git_url": "git://github.com/marcosgriselli/SwipeableTabBarController.git",
   "ssh_url": "git@github.com:marcosgriselli/SwipeableTabBarController.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/marcosgriselli/SwipeableTabBarController",
   "homepage": null,
   "size": 68234,
-  "stargazers_count": 1341,
-  "watchers_count": 1341,
+  "stargazers_count": 1342,
+  "watchers_count": 1342,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 100,
   "open_issues": 13,
-  "watchers": 1341,
+  "watchers": 1342,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 654
+  "_index": 655
 }
