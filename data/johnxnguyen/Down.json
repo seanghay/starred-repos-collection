@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 287,
+  "forks_count": 288,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 25,
+  "open_issues_count": 26,
   "license": {
     "key": "other",
     "name": "Other",
@@ -111,8 +111,8 @@
     "tvos"
   ],
   "visibility": "public",
-  "forks": 287,
-  "open_issues": 25,
+  "forks": 288,
+  "open_issues": 26,
   "watchers": 2001,
   "default_branch": "master",
   "permissions": {
