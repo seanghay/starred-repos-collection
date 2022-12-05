@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 822,
+  "forks_count": 821,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 76,
+  "open_issues_count": 75,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -109,8 +109,8 @@
     "stl"
   ],
   "visibility": "public",
-  "forks": 822,
-  "open_issues": 76,
+  "forks": 821,
+  "open_issues": 75,
   "watchers": 6821,
   "default_branch": "master",
   "permissions": {
