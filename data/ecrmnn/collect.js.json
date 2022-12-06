@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ecrmnn/collect.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ecrmnn/collect.js/deployments",
   "created_at": "2016-09-11T14:53:13Z",
-  "updated_at": "2022-12-04T13:10:14Z",
+  "updated_at": "2022-12-05T18:00:37Z",
   "pushed_at": "2022-08-15T21:08:18Z",
   "git_url": "git://github.com/ecrmnn/collect.js.git",
   "ssh_url": "git@github.com:ecrmnn/collect.js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ecrmnn/collect.js",
   "homepage": "https://collect.js.org",
   "size": 1196,
-  "stargazers_count": 6121,
-  "watchers_count": 6121,
+  "stargazers_count": 6122,
+  "watchers_count": 6122,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 319,
   "open_issues": 18,
-  "watchers": 6121,
+  "watchers": 6122,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 309
+  "_index": 311
 }

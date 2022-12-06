@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yiminghe/async-validator/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yiminghe/async-validator/deployments",
   "created_at": "2015-03-10T03:04:31Z",
-  "updated_at": "2022-12-03T16:09:08Z",
+  "updated_at": "2022-12-06T01:37:52Z",
   "pushed_at": "2022-08-23T13:49:54Z",
   "git_url": "git://github.com/yiminghe/async-validator.git",
   "ssh_url": "git@github.com:yiminghe/async-validator.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yiminghe/async-validator",
   "homepage": null,
   "size": 1128,
-  "stargazers_count": 8071,
-  "watchers_count": 8071,
+  "stargazers_count": 8074,
+  "watchers_count": 8074,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 730,
   "open_issues": 147,
-  "watchers": 8071,
+  "watchers": 8074,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 623
+  "_index": 625
 }

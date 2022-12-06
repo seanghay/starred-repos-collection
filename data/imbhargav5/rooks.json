@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/imbhargav5/rooks/releases{/id}",
   "deployments_url": "https://api.github.com/repos/imbhargav5/rooks/deployments",
   "created_at": "2018-11-08T16:14:39Z",
-  "updated_at": "2022-12-01T08:01:48Z",
-  "pushed_at": "2022-12-01T07:22:55Z",
+  "updated_at": "2022-12-05T12:38:53Z",
+  "pushed_at": "2022-12-05T15:13:26Z",
   "git_url": "git://github.com/imbhargav5/rooks.git",
   "ssh_url": "git@github.com:imbhargav5/rooks.git",
   "clone_url": "https://github.com/imbhargav5/rooks.git",
   "svn_url": "https://github.com/imbhargav5/rooks",
   "homepage": "https://rooks.vercel.app",
-  "size": 19123,
-  "stargazers_count": 2635,
-  "watchers_count": 2635,
+  "size": 19410,
+  "stargazers_count": 2636,
+  "watchers_count": 2636,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 192,
   "open_issues": 28,
-  "watchers": 2635,
+  "watchers": 2636,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 514
+  "_index": 516
 }

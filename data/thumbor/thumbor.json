@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/thumbor/thumbor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/thumbor/thumbor/deployments",
   "created_at": "2011-03-16T17:30:05Z",
-  "updated_at": "2022-12-03T21:32:34Z",
-  "pushed_at": "2022-12-01T18:11:50Z",
+  "updated_at": "2022-12-05T14:50:09Z",
+  "pushed_at": "2022-12-05T13:51:31Z",
   "git_url": "git://github.com/thumbor/thumbor.git",
   "ssh_url": "git@github.com:thumbor/thumbor.git",
   "clone_url": "https://github.com/thumbor/thumbor.git",
   "svn_url": "https://github.com/thumbor/thumbor",
   "homepage": "http://thumbor.org",
-  "size": 52185,
-  "stargazers_count": 9245,
-  "watchers_count": 9245,
+  "size": 52182,
+  "stargazers_count": 9249,
+  "watchers_count": 9249,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 795,
+  "forks_count": 796,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 29,
+  "open_issues_count": 30,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -101,9 +101,9 @@
     "hacktoberfest"
   ],
   "visibility": "public",
-  "forks": 795,
-  "open_issues": 29,
-  "watchers": 9245,
+  "forks": 796,
+  "open_issues": 30,
+  "watchers": 9249,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1865
+  "_index": 1867
 }

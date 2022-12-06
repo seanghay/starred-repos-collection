@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/damienroche/vue-blurhash/deployments",
   "created_at": "2020-04-29T11:28:54Z",
   "updated_at": "2022-11-02T06:04:31Z",
-  "pushed_at": "2022-07-21T01:16:27Z",
+  "pushed_at": "2022-12-05T23:40:36Z",
   "git_url": "git://github.com/damienroche/vue-blurhash.git",
   "ssh_url": "git@github.com:damienroche/vue-blurhash.git",
   "clone_url": "https://github.com/damienroche/vue-blurhash.git",
   "svn_url": "https://github.com/damienroche/vue-blurhash",
   "homepage": "",
-  "size": 1311,
+  "size": 1465,
   "stargazers_count": 47,
   "watchers_count": 47,
   "language": "Vue",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 6,
+  "open_issues_count": 7,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -98,7 +98,7 @@
   ],
   "visibility": "public",
   "forks": 5,
-  "open_issues": 6,
+  "open_issues": 7,
   "watchers": 47,
   "default_branch": "master",
   "permissions": {
@@ -108,5 +108,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 608
+  "_index": 610
 }

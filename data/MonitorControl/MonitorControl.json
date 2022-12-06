@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/MonitorControl/MonitorControl/releases{/id}",
   "deployments_url": "https://api.github.com/repos/MonitorControl/MonitorControl/deployments",
   "created_at": "2017-09-16T21:13:40Z",
-  "updated_at": "2022-12-05T02:05:46Z",
+  "updated_at": "2022-12-06T02:11:11Z",
   "pushed_at": "2022-10-05T15:19:26Z",
   "git_url": "git://github.com/MonitorControl/MonitorControl.git",
   "ssh_url": "git@github.com:MonitorControl/MonitorControl.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/MonitorControl/MonitorControl",
   "homepage": "https://monitorcontrol.app",
   "size": 29785,
-  "stargazers_count": 19676,
-  "watchers_count": 19676,
+  "stargazers_count": 19691,
+  "watchers_count": 19691,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 611,
+  "forks_count": 612,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 75,
+  "open_issues_count": 76,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -118,9 +118,9 @@
     "xcode"
   ],
   "visibility": "public",
-  "forks": 611,
-  "open_issues": 75,
-  "watchers": 19676,
+  "forks": 612,
+  "open_issues": 76,
+  "watchers": 19691,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1211
+  "_index": 1213
 }

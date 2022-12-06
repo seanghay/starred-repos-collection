@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/globby/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/globby/deployments",
   "created_at": "2014-06-21T13:48:39Z",
-  "updated_at": "2022-12-04T13:11:18Z",
+  "updated_at": "2022-12-05T12:06:33Z",
   "pushed_at": "2022-11-16T12:56:00Z",
   "git_url": "git://github.com/sindresorhus/globby.git",
   "ssh_url": "git@github.com:sindresorhus/globby.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sindresorhus/globby",
   "homepage": "",
   "size": 162,
-  "stargazers_count": 2182,
-  "watchers_count": 2182,
+  "stargazers_count": 2183,
+  "watchers_count": 2183,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 144,
   "open_issues": 28,
-  "watchers": 2182,
+  "watchers": 2183,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 299
+  "_index": 301
 }

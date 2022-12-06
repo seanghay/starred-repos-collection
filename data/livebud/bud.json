@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/livebud/bud/releases{/id}",
   "deployments_url": "https://api.github.com/repos/livebud/bud/deployments",
   "created_at": "2022-04-17T20:02:52Z",
-  "updated_at": "2022-12-04T17:18:53Z",
-  "pushed_at": "2022-12-04T01:48:06Z",
+  "updated_at": "2022-12-05T23:48:20Z",
+  "pushed_at": "2022-12-06T01:41:24Z",
   "git_url": "git://github.com/livebud/bud.git",
   "ssh_url": "git@github.com:livebud/bud.git",
   "clone_url": "https://github.com/livebud/bud.git",
   "svn_url": "https://github.com/livebud/bud",
   "homepage": "",
-  "size": 8765,
+  "size": 8766,
   "stargazers_count": 4880,
   "watchers_count": 4880,
   "language": "Go",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 40,
+  "open_issues_count": 41,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,7 +108,7 @@
   ],
   "visibility": "public",
   "forks": 164,
-  "open_issues": 40,
+  "open_issues": 41,
   "watchers": 4880,
   "default_branch": "main",
   "permissions": {
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 330
+  "_index": 332
 }

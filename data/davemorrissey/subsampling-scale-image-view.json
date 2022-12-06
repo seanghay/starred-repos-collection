@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1102,
+  "forks_count": 1101,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,7 +110,7 @@
     "zoom-images"
   ],
   "visibility": "public",
-  "forks": 1102,
+  "forks": 1101,
   "open_issues": 36,
   "watchers": 7424,
   "default_branch": "master",
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1699
+  "_index": 1701
 }

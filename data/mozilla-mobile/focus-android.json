@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/mozilla-mobile/focus-android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mozilla-mobile/focus-android/deployments",
   "created_at": "2016-12-09T01:31:11Z",
-  "updated_at": "2022-12-04T08:58:07Z",
-  "pushed_at": "2022-12-05T00:37:30Z",
+  "updated_at": "2022-12-05T21:38:02Z",
+  "pushed_at": "2022-12-06T00:35:46Z",
   "git_url": "git://github.com/mozilla-mobile/focus-android.git",
   "ssh_url": "git@github.com:mozilla-mobile/focus-android.git",
   "clone_url": "https://github.com/mozilla-mobile/focus-android.git",
   "svn_url": "https://github.com/mozilla-mobile/focus-android",
   "homepage": "",
-  "size": 177368,
-  "stargazers_count": 2124,
-  "watchers_count": 2124,
+  "size": 177521,
+  "stargazers_count": 2125,
+  "watchers_count": 2125,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 746,
+  "forks_count": 745,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 5,
+  "open_issues_count": 6,
   "license": {
     "key": "mpl-2.0",
     "name": "Mozilla Public License 2.0",
@@ -104,9 +104,9 @@
     "privacy"
   ],
   "visibility": "public",
-  "forks": 746,
-  "open_issues": 5,
-  "watchers": 2124,
+  "forks": 745,
+  "open_issues": 6,
+  "watchers": 2125,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1230
+  "_index": 1232
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/scttcper/tinycolor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/scttcper/tinycolor/deployments",
   "created_at": "2018-04-30T06:31:55Z",
-  "updated_at": "2022-11-23T02:16:13Z",
-  "pushed_at": "2022-08-15T18:56:51Z",
+  "updated_at": "2022-12-06T02:11:47Z",
+  "pushed_at": "2022-12-05T21:06:23Z",
   "git_url": "git://github.com/scttcper/tinycolor.git",
   "ssh_url": "git@github.com:scttcper/tinycolor.git",
   "clone_url": "https://github.com/scttcper/tinycolor.git",
   "svn_url": "https://github.com/scttcper/tinycolor",
   "homepage": "https://tinycolor.vercel.app",
-  "size": 1675,
-  "stargazers_count": 336,
-  "watchers_count": 336,
+  "size": 1704,
+  "stargazers_count": 343,
+  "watchers_count": 343,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 25,
+  "forks_count": 26,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,9 +102,9 @@
     "tinycolor"
   ],
   "visibility": "public",
-  "forks": 25,
+  "forks": 26,
   "open_issues": 3,
-  "watchers": 336,
+  "watchers": 343,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1852
+  "_index": 1854
 }

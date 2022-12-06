@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/realm/realm-java/releases{/id}",
   "deployments_url": "https://api.github.com/repos/realm/realm-java/deployments",
   "created_at": "2012-04-20T09:18:42Z",
-  "updated_at": "2022-12-04T05:34:58Z",
-  "pushed_at": "2022-12-04T17:28:20Z",
+  "updated_at": "2022-12-05T19:02:25Z",
+  "pushed_at": "2022-12-05T14:32:37Z",
   "git_url": "git://github.com/realm/realm-java.git",
   "ssh_url": "git@github.com:realm/realm-java.git",
   "clone_url": "https://github.com/realm/realm-java.git",
   "svn_url": "https://github.com/realm/realm-java",
   "homepage": "http://realm.io",
-  "size": 65350,
+  "size": 65467,
   "stargazers_count": 11345,
   "watchers_count": 11345,
   "language": "Java",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 389,
+  "open_issues_count": 388,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -108,7 +108,7 @@
   ],
   "visibility": "public",
   "forks": 1780,
-  "open_issues": 389,
+  "open_issues": 388,
   "watchers": 11345,
   "default_branch": "master",
   "permissions": {
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1705
+  "_index": 1707
 }

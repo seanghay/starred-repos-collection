@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/docker/awesome-compose/releases{/id}",
   "deployments_url": "https://api.github.com/repos/docker/awesome-compose/deployments",
   "created_at": "2020-02-13T08:51:42Z",
-  "updated_at": "2022-12-04T23:45:48Z",
+  "updated_at": "2022-12-06T01:34:22Z",
   "pushed_at": "2022-12-02T08:01:17Z",
   "git_url": "git://github.com/docker/awesome-compose.git",
   "ssh_url": "git@github.com:docker/awesome-compose.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/docker/awesome-compose",
   "homepage": "https://docs.docker.com/compose/",
   "size": 6048,
-  "stargazers_count": 19672,
-  "watchers_count": 19672,
+  "stargazers_count": 19702,
+  "watchers_count": 19702,
   "language": "HTML",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3224,
+  "forks_count": 3231,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,9 +103,9 @@
     "docker-compose"
   ],
   "visibility": "public",
-  "forks": 3224,
+  "forks": 3231,
   "open_issues": 86,
-  "watchers": 19672,
+  "watchers": 19702,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 503
+  "_index": 505
 }

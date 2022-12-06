@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/kaangokdemir/bulma-spacing/deployments",
   "created_at": "2020-02-22T22:31:36Z",
   "updated_at": "2022-05-15T18:40:22Z",
-  "pushed_at": "2022-05-15T18:41:04Z",
+  "pushed_at": "2022-12-05T09:50:16Z",
   "git_url": "git://github.com/kaangokdemir/bulma-spacing.git",
   "ssh_url": "git@github.com:kaangokdemir/bulma-spacing.git",
   "clone_url": "https://github.com/kaangokdemir/bulma-spacing.git",
   "svn_url": "https://github.com/kaangokdemir/bulma-spacing",
   "homepage": null,
-  "size": 131,
+  "size": 171,
   "stargazers_count": 20,
   "watchers_count": 20,
   "language": "SCSS",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1,
+  "open_issues_count": 2,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -94,7 +94,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 0,
-  "open_issues": 1,
+  "open_issues": 2,
   "watchers": 20,
   "default_branch": "master",
   "permissions": {
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 582
+  "_index": 584
 }

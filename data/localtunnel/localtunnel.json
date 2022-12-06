@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/localtunnel/localtunnel/releases{/id}",
   "deployments_url": "https://api.github.com/repos/localtunnel/localtunnel/deployments",
   "created_at": "2012-06-18T02:33:30Z",
-  "updated_at": "2022-12-04T07:43:34Z",
+  "updated_at": "2022-12-05T20:07:52Z",
   "pushed_at": "2022-09-08T10:06:03Z",
   "git_url": "git://github.com/localtunnel/localtunnel.git",
   "ssh_url": "git@github.com:localtunnel/localtunnel.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/localtunnel/localtunnel",
   "homepage": "https://localtunnel.me",
   "size": 187,
-  "stargazers_count": 15268,
-  "watchers_count": 15268,
+  "stargazers_count": 15275,
+  "watchers_count": 15275,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1156,
+  "forks_count": 1157,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 141,
+  "open_issues_count": 140,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 1156,
-  "open_issues": 141,
-  "watchers": 15268,
+  "forks": 1157,
+  "open_issues": 140,
+  "watchers": 15275,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 645
+  "_index": 647
 }
