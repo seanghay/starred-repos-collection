@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/mozilla-mobile/focus-android/deployments",
   "created_at": "2016-12-09T01:31:11Z",
   "updated_at": "2022-12-05T21:38:02Z",
-  "pushed_at": "2022-12-06T00:35:46Z",
+  "pushed_at": "2022-12-07T00:40:12Z",
   "git_url": "git://github.com/mozilla-mobile/focus-android.git",
   "ssh_url": "git@github.com:mozilla-mobile/focus-android.git",
   "clone_url": "https://github.com/mozilla-mobile/focus-android.git",
   "svn_url": "https://github.com/mozilla-mobile/focus-android",
   "homepage": "",
-  "size": 177521,
+  "size": 177531,
   "stargazers_count": 2125,
   "watchers_count": 2125,
   "language": "Kotlin",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1232
+  "_index": 1234
 }

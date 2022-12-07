@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/mjmlio/mjml/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mjmlio/mjml/deployments",
   "created_at": "2016-01-28T14:04:05Z",
-  "updated_at": "2022-12-05T16:19:27Z",
-  "pushed_at": "2022-12-04T12:11:39Z",
+  "updated_at": "2022-12-06T23:54:48Z",
+  "pushed_at": "2022-12-06T15:41:26Z",
   "git_url": "git://github.com/mjmlio/mjml.git",
   "ssh_url": "git@github.com:mjmlio/mjml.git",
   "clone_url": "https://github.com/mjmlio/mjml.git",
   "svn_url": "https://github.com/mjmlio/mjml",
   "homepage": "https://mjml.io",
-  "size": 10132,
-  "stargazers_count": 14690,
-  "watchers_count": 14690,
+  "size": 10443,
+  "stargazers_count": 14698,
+  "watchers_count": 14698,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 881,
   "open_issues": 67,
-  "watchers": 14690,
+  "watchers": 14698,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 86
+  "_index": 88
 }

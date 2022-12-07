@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/firecracker-microvm/firecracker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/firecracker-microvm/firecracker/deployments",
   "created_at": "2017-10-19T06:18:47Z",
-  "updated_at": "2022-12-06T01:35:22Z",
-  "pushed_at": "2022-12-05T16:45:06Z",
+  "updated_at": "2022-12-07T01:53:57Z",
+  "pushed_at": "2022-12-06T14:35:46Z",
   "git_url": "git://github.com/firecracker-microvm/firecracker.git",
   "ssh_url": "git@github.com:firecracker-microvm/firecracker.git",
   "clone_url": "https://github.com/firecracker-microvm/firecracker.git",
   "svn_url": "https://github.com/firecracker-microvm/firecracker",
   "homepage": "http://firecracker-microvm.io",
-  "size": 24194,
-  "stargazers_count": 20143,
-  "watchers_count": 20143,
+  "size": 24225,
+  "stargazers_count": 20151,
+  "watchers_count": 20151,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 1436,
   "open_issues": 141,
-  "watchers": 20143,
+  "watchers": 20151,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 59
+  "_index": 61
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/openstf/stf/releases{/id}",
   "deployments_url": "https://api.github.com/repos/openstf/stf/deployments",
   "created_at": "2015-06-22T02:23:43Z",
-  "updated_at": "2022-12-06T02:02:43Z",
-  "pushed_at": "2022-10-12T22:08:11Z",
+  "updated_at": "2022-12-06T20:04:23Z",
+  "pushed_at": "2022-12-06T19:36:54Z",
   "git_url": "git://github.com/openstf/stf.git",
   "ssh_url": "git@github.com:openstf/stf.git",
   "clone_url": "https://github.com/openstf/stf.git",
   "svn_url": "https://github.com/openstf/stf",
   "homepage": "https://openstf.io",
-  "size": 71533,
-  "stargazers_count": 12621,
-  "watchers_count": 12621,
+  "size": 71643,
+  "stargazers_count": 12625,
+  "watchers_count": 12625,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 452,
+  "open_issues_count": 453,
   "license": {
     "key": "other",
     "name": "Other",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 2577,
-  "open_issues": 452,
-  "watchers": 12621,
+  "open_issues": 453,
+  "watchers": 12625,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1482
+  "_index": 1484
 }

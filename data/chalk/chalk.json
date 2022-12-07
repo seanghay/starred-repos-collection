@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/chalk/chalk/releases{/id}",
   "deployments_url": "https://api.github.com/repos/chalk/chalk/deployments",
   "created_at": "2013-08-03T00:20:12Z",
-  "updated_at": "2022-12-05T23:04:08Z",
+  "updated_at": "2022-12-07T01:15:04Z",
   "pushed_at": "2022-11-28T07:15:48Z",
   "git_url": "git://github.com/chalk/chalk.git",
   "ssh_url": "git@github.com:chalk/chalk.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/chalk/chalk",
   "homepage": "",
   "size": 1189,
-  "stargazers_count": 19478,
-  "watchers_count": 19478,
+  "stargazers_count": 19486,
+  "watchers_count": 19486,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 795,
   "open_issues": 1,
-  "watchers": 19478,
+  "watchers": 19486,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 102
+  "_index": 104
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/iielse/imageviewer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/iielse/imageviewer/deployments",
   "created_at": "2017-01-18T08:18:26Z",
-  "updated_at": "2022-12-03T06:14:22Z",
+  "updated_at": "2022-12-06T09:09:33Z",
   "pushed_at": "2022-10-14T09:06:20Z",
   "git_url": "git://github.com/iielse/imageviewer.git",
   "ssh_url": "git@github.com:iielse/imageviewer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/iielse/imageviewer",
   "homepage": "",
   "size": 27733,
-  "stargazers_count": 2036,
-  "watchers_count": 2036,
+  "stargazers_count": 2035,
+  "watchers_count": 2035,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -115,7 +115,7 @@
   "visibility": "public",
   "forks": 300,
   "open_issues": 0,
-  "watchers": 2036,
+  "watchers": 2035,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1149
+  "_index": 1151
 }

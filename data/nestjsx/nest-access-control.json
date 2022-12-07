@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/nestjsx/nest-access-control/deployments",
   "created_at": "2018-05-22T00:51:39Z",
   "updated_at": "2022-12-04T17:23:28Z",
-  "pushed_at": "2022-12-03T11:33:30Z",
+  "pushed_at": "2022-12-07T01:04:53Z",
   "git_url": "git://github.com/nestjsx/nest-access-control.git",
   "ssh_url": "git@github.com:nestjsx/nest-access-control.git",
   "clone_url": "https://github.com/nestjsx/nest-access-control.git",
   "svn_url": "https://github.com/nestjsx/nest-access-control",
   "homepage": null,
-  "size": 1602,
+  "size": 1731,
   "stargazers_count": 845,
   "watchers_count": 845,
   "language": "TypeScript",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 64,
+  "forks_count": 65,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 26,
+  "open_issues_count": 27,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,8 +106,8 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 64,
-  "open_issues": 26,
+  "forks": 65,
+  "open_issues": 27,
   "watchers": 845,
   "default_branch": "master",
   "permissions": {
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 726
+  "_index": 728
 }

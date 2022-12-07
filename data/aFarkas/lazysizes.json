@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/aFarkas/lazysizes/deployments",
   "created_at": "2014-10-11T21:03:26Z",
   "updated_at": "2022-12-06T01:07:49Z",
-  "pushed_at": "2022-11-07T13:23:40Z",
+  "pushed_at": "2022-12-06T03:01:28Z",
   "git_url": "git://github.com/aFarkas/lazysizes.git",
   "ssh_url": "git@github.com:aFarkas/lazysizes.git",
   "clone_url": "https://github.com/aFarkas/lazysizes.git",
   "svn_url": "https://github.com/aFarkas/lazysizes",
   "homepage": "",
-  "size": 2806,
+  "size": 2854,
   "stargazers_count": 16591,
   "watchers_count": 16591,
   "language": "JavaScript",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 1753,
+  "forks_count": 1754,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 197,
+  "open_issues_count": 198,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,8 +106,8 @@
     "responsive-images"
   ],
   "visibility": "public",
-  "forks": 1753,
-  "open_issues": 197,
+  "forks": 1754,
+  "open_issues": 198,
   "watchers": 16591,
   "default_branch": "gh-pages",
   "permissions": {
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 360
+  "_index": 362
 }

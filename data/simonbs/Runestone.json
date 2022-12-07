@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/simonbs/Runestone/releases{/id}",
   "deployments_url": "https://api.github.com/repos/simonbs/Runestone/deployments",
   "created_at": "2022-01-17T15:09:37Z",
-  "updated_at": "2022-12-05T21:42:12Z",
+  "updated_at": "2022-12-06T23:58:31Z",
   "pushed_at": "2022-11-08T14:05:45Z",
   "git_url": "git://github.com/simonbs/Runestone.git",
   "ssh_url": "git@github.com:simonbs/Runestone.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/simonbs/Runestone",
   "homepage": "",
   "size": 59674,
-  "stargazers_count": 2030,
-  "watchers_count": 2030,
+  "stargazers_count": 2033,
+  "watchers_count": 2033,
   "language": "Swift",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 106,
+  "forks_count": 107,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 9,
+  "open_issues_count": 8,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,9 +103,9 @@
     "tree-sitter"
   ],
   "visibility": "public",
-  "forks": 106,
-  "open_issues": 9,
-  "watchers": 2030,
+  "forks": 107,
+  "open_issues": 8,
+  "watchers": 2033,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 152
+  "_index": 154
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/iamkun/dayjs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/iamkun/dayjs/deployments",
   "created_at": "2018-04-10T09:26:44Z",
-  "updated_at": "2022-12-06T01:54:13Z",
-  "pushed_at": "2022-12-05T15:43:24Z",
+  "updated_at": "2022-12-06T21:37:10Z",
+  "pushed_at": "2022-12-06T15:11:31Z",
   "git_url": "git://github.com/iamkun/dayjs.git",
   "ssh_url": "git@github.com:iamkun/dayjs.git",
   "clone_url": "https://github.com/iamkun/dayjs.git",
   "svn_url": "https://github.com/iamkun/dayjs",
   "homepage": "https://day.js.org",
-  "size": 6147,
-  "stargazers_count": 41485,
-  "watchers_count": 41485,
+  "size": 5895,
+  "stargazers_count": 41496,
+  "watchers_count": 41496,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 614,
+  "open_issues_count": 613,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 2072,
-  "open_issues": 614,
-  "watchers": 41485,
+  "open_issues": 613,
+  "watchers": 41496,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2342
+  "_index": 2344
 }

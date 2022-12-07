@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 189,
+  "forks_count": 188,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,7 +105,7 @@
     "react-native"
   ],
   "visibility": "public",
-  "forks": 189,
+  "forks": 188,
   "open_issues": 79,
   "watchers": 647,
   "default_branch": "master",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 509
+  "_index": 511
 }

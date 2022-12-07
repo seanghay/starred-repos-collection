@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/google/ExoPlayer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/ExoPlayer/deployments",
   "created_at": "2014-06-13T21:19:18Z",
-  "updated_at": "2022-12-05T21:02:59Z",
-  "pushed_at": "2022-12-05T20:04:35Z",
+  "updated_at": "2022-12-06T19:19:05Z",
+  "pushed_at": "2022-12-06T21:01:07Z",
   "git_url": "git://github.com/google/ExoPlayer.git",
   "ssh_url": "git@github.com:google/ExoPlayer.git",
   "clone_url": "https://github.com/google/ExoPlayer.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 725,
+  "open_issues_count": 730,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -105,7 +105,7 @@
   ],
   "visibility": "public",
   "forks": 5834,
-  "open_issues": 725,
+  "open_issues": 730,
   "watchers": 20150,
   "default_branch": "release-v2",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2287
+  "_index": 2289
 }

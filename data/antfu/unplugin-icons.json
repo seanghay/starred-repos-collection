@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/antfu/unplugin-icons/releases{/id}",
   "deployments_url": "https://api.github.com/repos/antfu/unplugin-icons/deployments",
   "created_at": "2020-12-24T05:26:15Z",
-  "updated_at": "2022-12-05T09:08:50Z",
+  "updated_at": "2022-12-06T17:16:52Z",
   "pushed_at": "2022-11-23T00:18:17Z",
   "git_url": "git://github.com/antfu/unplugin-icons.git",
   "ssh_url": "git@github.com:antfu/unplugin-icons.git",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 732
+  "_index": 734
 }

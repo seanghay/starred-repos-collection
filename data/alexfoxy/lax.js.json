@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/alexfoxy/lax.js/deployments",
   "created_at": "2019-03-12T09:21:03Z",
   "updated_at": "2022-12-05T10:08:25Z",
-  "pushed_at": "2022-12-03T02:03:33Z",
+  "pushed_at": "2022-12-07T00:32:41Z",
   "git_url": "git://github.com/alexfoxy/lax.js.git",
   "ssh_url": "git@github.com:alexfoxy/lax.js.git",
   "clone_url": "https://github.com/alexfoxy/lax.js.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 477,
+  "forks_count": 478,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 13,
+  "open_issues_count": 14,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,8 +106,8 @@
     "transitions"
   ],
   "visibility": "public",
-  "forks": 477,
-  "open_issues": 13,
+  "forks": 478,
+  "open_issues": 14,
   "watchers": 9353,
   "default_branch": "dev",
   "permissions": {
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2127
+  "_index": 2129
 }

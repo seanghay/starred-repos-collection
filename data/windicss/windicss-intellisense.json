@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/windicss/windicss-intellisense/deployments",
   "created_at": "2021-02-13T15:26:12Z",
   "updated_at": "2022-11-22T07:34:19Z",
-  "pushed_at": "2022-12-05T08:06:03Z",
+  "pushed_at": "2022-12-06T08:09:28Z",
   "git_url": "git://github.com/windicss/windicss-intellisense.git",
   "ssh_url": "git@github.com:windicss/windicss-intellisense.git",
   "clone_url": "https://github.com/windicss/windicss-intellisense.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 623
+  "_index": 625
 }

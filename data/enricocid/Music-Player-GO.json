@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/enricocid/Music-Player-GO/releases{/id}",
   "deployments_url": "https://api.github.com/repos/enricocid/Music-Player-GO/deployments",
   "created_at": "2018-01-29T18:10:28Z",
-  "updated_at": "2022-12-05T19:43:45Z",
-  "pushed_at": "2022-12-05T19:41:12Z",
+  "updated_at": "2022-12-07T00:20:35Z",
+  "pushed_at": "2022-12-06T22:47:11Z",
   "git_url": "git://github.com/enricocid/Music-Player-GO.git",
   "ssh_url": "git@github.com:enricocid/Music-Player-GO.git",
   "clone_url": "https://github.com/enricocid/Music-Player-GO.git",
   "svn_url": "https://github.com/enricocid/Music-Player-GO",
   "homepage": "",
   "size": 78013,
-  "stargazers_count": 1183,
-  "watchers_count": 1183,
+  "stargazers_count": 1185,
+  "watchers_count": 1185,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 64,
+  "open_issues_count": 65,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -114,8 +114,8 @@
   ],
   "visibility": "public",
   "forks": 168,
-  "open_issues": 64,
-  "watchers": 1183,
+  "open_issues": 65,
+  "watchers": 1185,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1452
+  "_index": 1454
 }
