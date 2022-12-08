@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ellie/atuin/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ellie/atuin/deployments",
   "created_at": "2020-10-04T23:01:58Z",
-  "updated_at": "2022-12-07T00:42:01Z",
-  "pushed_at": "2022-12-06T06:09:44Z",
+  "updated_at": "2022-12-08T01:57:25Z",
+  "pushed_at": "2022-12-07T15:25:54Z",
   "git_url": "git://github.com/ellie/atuin.git",
   "ssh_url": "git@github.com:ellie/atuin.git",
   "clone_url": "https://github.com/ellie/atuin.git",
   "svn_url": "https://github.com/ellie/atuin",
   "homepage": "https://atuin.sh",
   "size": 41283,
-  "stargazers_count": 4552,
-  "watchers_count": 4552,
+  "stargazers_count": 4558,
+  "watchers_count": 4558,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 143,
+  "forks_count": 142,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 85,
+  "open_issues_count": 86,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,9 +105,9 @@
     "zsh"
   ],
   "visibility": "public",
-  "forks": 143,
-  "open_issues": 85,
-  "watchers": 4552,
+  "forks": 142,
+  "open_issues": 86,
+  "watchers": 4558,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 933
+  "_index": 934
 }

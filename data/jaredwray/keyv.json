@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jaredwray/keyv/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jaredwray/keyv/deployments",
   "created_at": "2017-07-07T13:24:15Z",
-  "updated_at": "2022-12-06T23:27:18Z",
+  "updated_at": "2022-12-08T01:09:37Z",
   "pushed_at": "2022-12-05T18:20:04Z",
   "git_url": "git://github.com/jaredwray/keyv.git",
   "ssh_url": "git@github.com:jaredwray/keyv.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jaredwray/keyv",
   "homepage": "",
   "size": 953,
-  "stargazers_count": 1967,
-  "watchers_count": 1967,
+  "stargazers_count": 1980,
+  "watchers_count": 1980,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 109,
   "open_issues": 3,
-  "watchers": 1967,
+  "watchers": 1980,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 564
+  "_index": 565
 }

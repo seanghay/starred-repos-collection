@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/ReactiveCircus/FlowBinding/deployments",
   "created_at": "2019-08-11T14:46:20Z",
   "updated_at": "2022-11-28T20:32:22Z",
-  "pushed_at": "2022-11-26T08:03:51Z",
+  "pushed_at": "2022-12-08T01:11:19Z",
   "git_url": "git://github.com/ReactiveCircus/FlowBinding.git",
   "ssh_url": "git@github.com:ReactiveCircus/FlowBinding.git",
   "clone_url": "https://github.com/ReactiveCircus/FlowBinding.git",
   "svn_url": "https://github.com/ReactiveCircus/FlowBinding",
   "homepage": "https://reactivecircus.github.io/FlowBinding/",
-  "size": 16291,
+  "size": 16292,
   "stargazers_count": 855,
   "watchers_count": 855,
   "language": "Kotlin",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1658
+  "_index": 1659
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bnorm/kotlin-power-assert/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bnorm/kotlin-power-assert/deployments",
   "created_at": "2019-10-31T16:36:02Z",
-  "updated_at": "2022-12-05T06:26:33Z",
+  "updated_at": "2022-12-07T19:52:07Z",
   "pushed_at": "2022-10-07T15:17:12Z",
   "git_url": "git://github.com/bnorm/kotlin-power-assert.git",
   "ssh_url": "git@github.com:bnorm/kotlin-power-assert.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 954
+  "_index": 955
 }

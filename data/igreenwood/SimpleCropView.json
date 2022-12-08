@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/igreenwood/SimpleCropView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/igreenwood/SimpleCropView/deployments",
   "created_at": "2015-07-21T03:15:29Z",
-  "updated_at": "2022-11-26T10:08:19Z",
+  "updated_at": "2022-12-07T19:51:18Z",
   "pushed_at": "2021-08-18T08:01:19Z",
   "git_url": "git://github.com/igreenwood/SimpleCropView.git",
   "ssh_url": "git@github.com:igreenwood/SimpleCropView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/igreenwood/SimpleCropView",
   "homepage": "",
   "size": 8157,
-  "stargazers_count": 2450,
-  "watchers_count": 2450,
+  "stargazers_count": 2449,
+  "watchers_count": 2449,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 460,
   "open_issues": 76,
-  "watchers": 2450,
+  "watchers": 2449,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1099
+  "_index": 1100
 }

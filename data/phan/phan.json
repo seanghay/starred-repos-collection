@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/phan/phan/releases{/id}",
   "deployments_url": "https://api.github.com/repos/phan/phan/deployments",
   "created_at": "2015-10-22T14:34:09Z",
-  "updated_at": "2022-12-05T19:07:50Z",
+  "updated_at": "2022-12-07T22:03:33Z",
   "pushed_at": "2022-11-29T02:06:21Z",
   "git_url": "git://github.com/phan/phan.git",
   "ssh_url": "git@github.com:phan/phan.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/phan/phan",
   "homepage": "https://github.com/phan/phan/wiki",
   "size": 44137,
-  "stargazers_count": 5342,
-  "watchers_count": 5342,
+  "stargazers_count": 5341,
+  "watchers_count": 5341,
   "language": "PHP",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 880,
+  "open_issues_count": 882,
   "license": {
     "key": "other",
     "name": "Other",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 365,
-  "open_issues": 880,
-  "watchers": 5342,
+  "open_issues": 882,
+  "watchers": 5341,
   "default_branch": "v5",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2328
+  "_index": 2329
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/mikaelbr/node-notifier/deployments",
   "created_at": "2012-12-02T09:53:24Z",
   "updated_at": "2022-12-04T13:11:30Z",
-  "pushed_at": "2022-12-02T06:06:41Z",
+  "pushed_at": "2022-12-07T17:29:10Z",
   "git_url": "git://github.com/mikaelbr/node-notifier.git",
   "ssh_url": "git@github.com:mikaelbr/node-notifier.git",
   "clone_url": "https://github.com/mikaelbr/node-notifier.git",
   "svn_url": "https://github.com/mikaelbr/node-notifier",
   "homepage": "",
-  "size": 8673,
+  "size": 8865,
   "stargazers_count": 5513,
   "watchers_count": 5513,
   "language": "JavaScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 108,
+  "open_issues_count": 109,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,7 +109,7 @@
   ],
   "visibility": "public",
   "forks": 331,
-  "open_issues": 108,
+  "open_issues": 109,
   "watchers": 5513,
   "default_branch": "master",
   "permissions": {
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2352
+  "_index": 2353
 }

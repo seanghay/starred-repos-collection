@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tinyhttp/tinyhttp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tinyhttp/tinyhttp/deployments",
   "created_at": "2020-06-13T01:19:08Z",
-  "updated_at": "2022-12-05T20:21:36Z",
+  "updated_at": "2022-12-07T07:20:41Z",
   "pushed_at": "2022-11-08T22:00:49Z",
   "git_url": "git://github.com/tinyhttp/tinyhttp.git",
   "ssh_url": "git@github.com:tinyhttp/tinyhttp.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/tinyhttp/tinyhttp",
   "homepage": "https://tinyhttp.v1rtl.site",
   "size": 10364,
-  "stargazers_count": 2339,
-  "watchers_count": 2339,
+  "stargazers_count": 2340,
+  "watchers_count": 2340,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -120,7 +120,7 @@
   "visibility": "public",
   "forks": 106,
   "open_issues": 7,
-  "watchers": 2339,
+  "watchers": 2340,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1139
+  "_index": 1140
 }

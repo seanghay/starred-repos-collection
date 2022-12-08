@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/vuejs/vue-rx/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vuejs/vue-rx/deployments",
   "created_at": "2015-11-02T17:17:44Z",
-  "updated_at": "2022-11-24T14:44:12Z",
+  "updated_at": "2022-12-07T09:27:58Z",
   "pushed_at": "2022-12-03T06:00:32Z",
   "git_url": "git://github.com/vuejs/vue-rx.git",
   "ssh_url": "git@github.com:vuejs/vue-rx.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/vuejs/vue-rx",
   "homepage": "",
   "size": 331,
-  "stargazers_count": 3304,
-  "watchers_count": 3304,
+  "stargazers_count": 3305,
+  "watchers_count": 3305,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 204,
   "open_issues": 18,
-  "watchers": 3304,
+  "watchers": 3305,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2254
+  "_index": 2255
 }

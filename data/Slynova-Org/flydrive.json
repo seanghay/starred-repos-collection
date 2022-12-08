@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Slynova-Org/flydrive/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Slynova-Org/flydrive/deployments",
   "created_at": "2016-10-25T14:00:07Z",
-  "updated_at": "2022-11-30T12:47:48Z",
+  "updated_at": "2022-12-07T19:21:12Z",
   "pushed_at": "2021-11-01T04:08:29Z",
   "git_url": "git://github.com/Slynova-Org/flydrive.git",
   "ssh_url": "git@github.com:Slynova-Org/flydrive.git",
@@ -84,7 +84,7 @@
   "has_discussions": false,
   "forks_count": 58,
   "mirror_url": null,
-  "archived": false,
+  "archived": true,
   "disabled": false,
   "open_issues_count": 14,
   "license": {
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 702
+  "_index": 703
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/iglaweb/Ferris-Wheel/releases{/id}",
   "deployments_url": "https://api.github.com/repos/iglaweb/Ferris-Wheel/deployments",
   "created_at": "2018-01-12T21:18:47Z",
-  "updated_at": "2022-11-14T10:04:09Z",
+  "updated_at": "2022-12-07T20:25:27Z",
   "pushed_at": "2018-10-07T16:59:39Z",
   "git_url": "git://github.com/iglaweb/Ferris-Wheel.git",
   "ssh_url": "git@github.com:iglaweb/Ferris-Wheel.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/iglaweb/Ferris-Wheel",
   "homepage": "",
   "size": 37030,
-  "stargazers_count": 319,
-  "watchers_count": 319,
+  "stargazers_count": 318,
+  "watchers_count": 318,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 47,
   "open_issues": 2,
-  "watchers": 319,
+  "watchers": 318,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1686
+  "_index": 1687
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Vincit/objection.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Vincit/objection.js/deployments",
   "created_at": "2015-04-14T10:36:51Z",
-  "updated_at": "2022-12-06T06:42:20Z",
-  "pushed_at": "2022-12-02T13:51:34Z",
+  "updated_at": "2022-12-07T07:23:22Z",
+  "pushed_at": "2022-12-07T23:21:58Z",
   "git_url": "git://github.com/Vincit/objection.js.git",
   "ssh_url": "git@github.com:Vincit/objection.js.git",
   "clone_url": "https://github.com/Vincit/objection.js.git",
   "svn_url": "https://github.com/Vincit/objection.js",
   "homepage": "https://vincit.github.io/objection.js",
-  "size": 18930,
-  "stargazers_count": 6854,
-  "watchers_count": 6854,
+  "size": 19594,
+  "stargazers_count": 6855,
+  "watchers_count": 6855,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 146,
+  "open_issues_count": 148,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 645,
-  "open_issues": 146,
-  "watchers": 6854,
+  "open_issues": 148,
+  "watchers": 6855,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 107
+  "_index": 108
 }
