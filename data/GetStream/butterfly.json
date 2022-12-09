@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/GetStream/butterfly/releases{/id}",
   "deployments_url": "https://api.github.com/repos/GetStream/butterfly/deployments",
   "created_at": "2022-01-24T09:37:27Z",
-  "updated_at": "2022-10-02T19:02:24Z",
+  "updated_at": "2022-12-09T00:09:55Z",
   "pushed_at": "2022-07-01T02:44:01Z",
   "git_url": "git://github.com/GetStream/butterfly.git",
   "ssh_url": "git@github.com:GetStream/butterfly.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/GetStream/butterfly",
   "homepage": "https://getstream.github.io/butterfly/",
   "size": 104324,
-  "stargazers_count": 197,
-  "watchers_count": 197,
+  "stargazers_count": 199,
+  "watchers_count": 199,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 10,
   "open_issues": 2,
-  "watchers": 197,
+  "watchers": 199,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 470
+  "_index": 472
 }

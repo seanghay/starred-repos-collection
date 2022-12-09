@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ixtgorilla/figma-code-highlighter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ixtgorilla/figma-code-highlighter/deployments",
   "created_at": "2019-10-15T15:57:41Z",
-  "updated_at": "2022-09-02T12:06:08Z",
+  "updated_at": "2022-12-08T03:14:23Z",
   "pushed_at": "2022-12-04T16:21:27Z",
   "git_url": "git://github.com/ixtgorilla/figma-code-highlighter.git",
   "ssh_url": "git@github.com:ixtgorilla/figma-code-highlighter.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ixtgorilla/figma-code-highlighter",
   "homepage": "https://www.figma.com/c/plugin/764836637878472379/Figma-Code-Highlighter",
   "size": 11512,
-  "stargazers_count": 36,
-  "watchers_count": 36,
+  "stargazers_count": 37,
+  "watchers_count": 37,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 5,
+  "forks_count": 6,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,9 +106,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 5,
+  "forks": 6,
   "open_issues": 15,
-  "watchers": 36,
+  "watchers": 37,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1211
+  "_index": 1213
 }

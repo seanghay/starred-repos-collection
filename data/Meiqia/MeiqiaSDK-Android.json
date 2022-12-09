@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Meiqia/MeiqiaSDK-Android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Meiqia/MeiqiaSDK-Android/deployments",
   "created_at": "2015-12-21T09:35:46Z",
-  "updated_at": "2022-11-03T07:19:45Z",
-  "pushed_at": "2022-11-03T07:18:33Z",
+  "updated_at": "2022-12-08T09:40:52Z",
+  "pushed_at": "2022-12-08T07:36:22Z",
   "git_url": "git://github.com/Meiqia/MeiqiaSDK-Android.git",
   "ssh_url": "git@github.com:Meiqia/MeiqiaSDK-Android.git",
   "clone_url": "https://github.com/Meiqia/MeiqiaSDK-Android.git",
   "svn_url": "https://github.com/Meiqia/MeiqiaSDK-Android",
   "homepage": null,
-  "size": 11178,
-  "stargazers_count": 182,
-  "watchers_count": 182,
+  "size": 11382,
+  "stargazers_count": 181,
+  "watchers_count": 181,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 48,
   "open_issues": 1,
-  "watchers": 182,
+  "watchers": 181,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1465
+  "_index": 1467
 }

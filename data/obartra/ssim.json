@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/obartra/ssim/deployments",
   "created_at": "2016-09-18T12:42:56Z",
   "updated_at": "2022-11-30T12:00:09Z",
-  "pushed_at": "2022-12-08T01:27:35Z",
+  "pushed_at": "2022-12-08T21:31:26Z",
   "git_url": "git://github.com/obartra/ssim.git",
   "ssh_url": "git@github.com:obartra/ssim.git",
   "clone_url": "https://github.com/obartra/ssim.git",
   "svn_url": "https://github.com/obartra/ssim",
   "homepage": "http://obartra.github.io/ssim",
-  "size": 672607,
+  "size": 672856,
   "stargazers_count": 180,
   "watchers_count": 180,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 8,
+  "open_issues_count": 9,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,7 +105,7 @@
   ],
   "visibility": "public",
   "forks": 10,
-  "open_issues": 8,
+  "open_issues": 9,
   "watchers": 180,
   "default_branch": "master",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 390
+  "_index": 392
 }

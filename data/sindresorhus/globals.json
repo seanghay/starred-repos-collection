@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/sindresorhus/globals/deployments",
   "created_at": "2013-12-14T13:46:23Z",
   "updated_at": "2022-12-04T13:09:18Z",
-  "pushed_at": "2022-11-17T10:13:07Z",
+  "pushed_at": "2022-12-08T18:11:37Z",
   "git_url": "git://github.com/sindresorhus/globals.git",
   "ssh_url": "git@github.com:sindresorhus/globals.git",
   "clone_url": "https://github.com/sindresorhus/globals.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 106,
+  "forks_count": 107,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,7 +99,7 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 106,
+  "forks": 107,
   "open_issues": 7,
   "watchers": 270,
   "default_branch": "main",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 356
+  "_index": 358
 }

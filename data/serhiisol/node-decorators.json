@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/serhiisol/node-decorators/releases{/id}",
   "deployments_url": "https://api.github.com/repos/serhiisol/node-decorators/deployments",
   "created_at": "2016-07-14T19:48:03Z",
-  "updated_at": "2022-12-05T04:16:22Z",
-  "pushed_at": "2022-01-20T17:34:30Z",
+  "updated_at": "2022-12-08T23:03:53Z",
+  "pushed_at": "2022-12-09T01:21:56Z",
   "git_url": "git://github.com/serhiisol/node-decorators.git",
   "ssh_url": "git@github.com:serhiisol/node-decorators.git",
   "clone_url": "https://github.com/serhiisol/node-decorators.git",
   "svn_url": "https://github.com/serhiisol/node-decorators",
   "homepage": null,
   "size": 340,
-  "stargazers_count": 312,
-  "watchers_count": 312,
+  "stargazers_count": 313,
+  "watchers_count": 313,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 26,
+  "forks_count": 27,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1,
+  "open_issues_count": 2,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,9 +109,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 26,
-  "open_issues": 1,
-  "watchers": 312,
+  "forks": 27,
+  "open_issues": 2,
+  "watchers": 313,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2190
+  "_index": 2192
 }

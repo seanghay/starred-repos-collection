@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bplok20010/eval5/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bplok20010/eval5/deployments",
   "created_at": "2019-12-29T14:12:27Z",
-  "updated_at": "2022-12-07T05:54:03Z",
+  "updated_at": "2022-12-08T13:03:39Z",
   "pushed_at": "2022-02-08T13:15:28Z",
   "git_url": "git://github.com/bplok20010/eval5.git",
   "ssh_url": "git@github.com:bplok20010/eval5.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/bplok20010/eval5",
   "homepage": "https://bplok20010.github.io/eval5/",
   "size": 1675,
-  "stargazers_count": 549,
-  "watchers_count": 549,
+  "stargazers_count": 550,
+  "watchers_count": 550,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1,
+  "open_issues_count": 2,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,8 +109,8 @@
   ],
   "visibility": "public",
   "forks": 95,
-  "open_issues": 1,
-  "watchers": 549,
+  "open_issues": 2,
+  "watchers": 550,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 694
+  "_index": 696
 }

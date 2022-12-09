@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/rehypejs/rehype/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rehypejs/rehype/deployments",
   "created_at": "2016-02-25T09:11:41Z",
-  "updated_at": "2022-12-07T16:17:58Z",
+  "updated_at": "2022-12-08T09:49:58Z",
   "pushed_at": "2022-11-17T15:03:05Z",
   "git_url": "git://github.com/rehypejs/rehype.git",
   "ssh_url": "git@github.com:rehypejs/rehype.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/rehypejs/rehype",
   "homepage": "https://unifiedjs.com",
   "size": 471,
-  "stargazers_count": 1136,
-  "watchers_count": 1136,
+  "stargazers_count": 1137,
+  "watchers_count": 1137,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 74,
   "open_issues": 2,
-  "watchers": 1136,
+  "watchers": 1137,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 175
+  "_index": 177
 }

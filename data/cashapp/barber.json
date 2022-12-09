@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/cashapp/barber/deployments",
   "created_at": "2019-06-17T19:55:19Z",
   "updated_at": "2022-12-06T15:36:08Z",
-  "pushed_at": "2022-12-05T03:52:36Z",
+  "pushed_at": "2022-12-09T01:01:21Z",
   "git_url": "git://github.com/cashapp/barber.git",
   "ssh_url": "git@github.com:cashapp/barber.git",
   "clone_url": "https://github.com/cashapp/barber.git",
   "svn_url": "https://github.com/cashapp/barber",
   "homepage": "https://cashapp.github.io/barber/",
-  "size": 2313,
+  "size": 2314,
   "stargazers_count": 128,
   "watchers_count": 128,
   "language": "Kotlin",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1844
+  "_index": 1846
 }

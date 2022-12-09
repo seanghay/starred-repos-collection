@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/containers/youki/releases{/id}",
   "deployments_url": "https://api.github.com/repos/containers/youki/deployments",
   "created_at": "2021-03-27T11:06:58Z",
-  "updated_at": "2022-12-08T02:04:48Z",
-  "pushed_at": "2022-12-08T00:25:40Z",
+  "updated_at": "2022-12-09T01:59:26Z",
+  "pushed_at": "2022-12-08T22:36:03Z",
   "git_url": "git://github.com/containers/youki.git",
   "ssh_url": "git@github.com:containers/youki.git",
   "clone_url": "https://github.com/containers/youki.git",
   "svn_url": "https://github.com/containers/youki",
   "homepage": "https://containers.github.io/youki/",
-  "size": 18090,
-  "stargazers_count": 4036,
-  "watchers_count": 4036,
+  "size": 18093,
+  "stargazers_count": 4066,
+  "watchers_count": 4066,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 231,
+  "forks_count": 233,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "rust"
   ],
   "visibility": "public",
-  "forks": 231,
+  "forks": 233,
   "open_issues": 50,
-  "watchers": 4036,
+  "watchers": 4066,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 805
+  "_index": 807
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/romannurik/webpiano/deployments",
   "created_at": "2022-12-05T01:36:04Z",
   "updated_at": "2022-12-06T09:31:16Z",
-  "pushed_at": "2022-12-06T05:45:04Z",
+  "pushed_at": "2022-12-08T03:25:40Z",
   "git_url": "git://github.com/romannurik/webpiano.git",
   "ssh_url": "git@github.com:romannurik/webpiano.git",
   "clone_url": "https://github.com/romannurik/webpiano.git",
   "svn_url": "https://github.com/romannurik/webpiano",
   "homepage": null,
-  "size": 648,
+  "size": 943,
   "stargazers_count": 6,
   "watchers_count": 6,
   "language": "JavaScript",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 4
+  "_index": 6
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/benjamn/recast/deployments",
   "created_at": "2012-09-21T18:34:20Z",
   "updated_at": "2022-12-07T06:10:22Z",
-  "pushed_at": "2022-12-06T11:03:16Z",
+  "pushed_at": "2022-12-08T11:05:13Z",
   "git_url": "git://github.com/benjamn/recast.git",
   "ssh_url": "git@github.com:benjamn/recast.git",
   "clone_url": "https://github.com/benjamn/recast.git",
   "svn_url": "https://github.com/benjamn/recast",
   "homepage": "",
-  "size": 4265,
+  "size": 4363,
   "stargazers_count": 4316,
   "watchers_count": 4316,
   "language": "TypeScript",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 442
+  "_index": 444
 }

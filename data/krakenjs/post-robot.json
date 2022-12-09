@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/krakenjs/post-robot/deployments",
   "created_at": "2016-05-27T17:05:49Z",
   "updated_at": "2022-11-18T07:24:26Z",
-  "pushed_at": "2022-12-07T19:52:29Z",
+  "pushed_at": "2022-12-08T18:12:56Z",
   "git_url": "git://github.com/krakenjs/post-robot.git",
   "ssh_url": "git@github.com:krakenjs/post-robot.git",
   "clone_url": "https://github.com/krakenjs/post-robot.git",
   "svn_url": "https://github.com/krakenjs/post-robot",
   "homepage": "",
-  "size": 10841,
+  "size": 10844,
   "stargazers_count": 688,
   "watchers_count": 688,
   "language": "JavaScript",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 859
+  "_index": 861
 }

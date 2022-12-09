@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/SoldierCorp/webpack-starter-pug-sass-es6-jquery/deployments",
   "created_at": "2018-07-08T19:48:07Z",
   "updated_at": "2022-12-02T23:41:12Z",
-  "pushed_at": "2022-12-02T23:35:59Z",
+  "pushed_at": "2022-12-08T14:09:40Z",
   "git_url": "git://github.com/SoldierCorp/webpack-starter-pug-sass-es6-jquery.git",
   "ssh_url": "git@github.com:SoldierCorp/webpack-starter-pug-sass-es6-jquery.git",
   "clone_url": "https://github.com/SoldierCorp/webpack-starter-pug-sass-es6-jquery.git",
   "svn_url": "https://github.com/SoldierCorp/webpack-starter-pug-sass-es6-jquery",
   "homepage": "https://webpack-starter.edgardorl.com",
-  "size": 2115,
+  "size": 2257,
   "stargazers_count": 103,
   "watchers_count": 103,
   "language": "JavaScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 7,
+  "open_issues_count": 8,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -116,7 +116,7 @@
   ],
   "visibility": "public",
   "forks": 39,
-  "open_issues": 7,
+  "open_issues": 8,
   "watchers": 103,
   "default_branch": "master",
   "permissions": {
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2246
+  "_index": 2248
 }

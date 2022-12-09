@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/godaddy/compose-color-picker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/godaddy/compose-color-picker/deployments",
   "created_at": "2021-10-26T14:25:49Z",
-  "updated_at": "2022-11-25T14:58:25Z",
+  "updated_at": "2022-12-08T14:47:52Z",
   "pushed_at": "2022-11-29T13:39:53Z",
   "git_url": "git://github.com/godaddy/compose-color-picker.git",
   "ssh_url": "git@github.com:godaddy/compose-color-picker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/godaddy/compose-color-picker",
   "homepage": "",
   "size": 52643,
-  "stargazers_count": 261,
-  "watchers_count": 261,
+  "stargazers_count": 262,
+  "watchers_count": 262,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 17,
   "open_issues": 15,
-  "watchers": 261,
+  "watchers": 262,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 468
+  "_index": 470
 }

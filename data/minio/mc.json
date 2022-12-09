@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/minio/mc/releases{/id}",
   "deployments_url": "https://api.github.com/repos/minio/mc/deployments",
   "created_at": "2015-01-16T02:56:51Z",
-  "updated_at": "2022-12-07T21:13:19Z",
-  "pushed_at": "2022-12-08T01:09:30Z",
+  "updated_at": "2022-12-09T00:33:20Z",
+  "pushed_at": "2022-12-08T23:08:54Z",
   "git_url": "git://github.com/minio/mc.git",
   "ssh_url": "git@github.com:minio/mc.git",
   "clone_url": "https://github.com/minio/mc.git",
   "svn_url": "https://github.com/minio/mc",
   "homepage": "https://min.io/download",
-  "size": 19316,
-  "stargazers_count": 2312,
-  "watchers_count": 2312,
+  "size": 19370,
+  "stargazers_count": 2314,
+  "watchers_count": 2314,
   "language": "Go",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 441,
+  "forks_count": 442,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,9 +108,9 @@
     "tools"
   ],
   "visibility": "public",
-  "forks": 441,
+  "forks": 442,
   "open_issues": 35,
-  "watchers": 2312,
+  "watchers": 2314,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 657
+  "_index": 659
 }

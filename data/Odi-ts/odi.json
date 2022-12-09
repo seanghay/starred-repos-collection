@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/Odi-ts/odi/deployments",
   "created_at": "2018-10-10T01:04:02Z",
   "updated_at": "2022-11-26T05:29:12Z",
-  "pushed_at": "2022-12-03T03:26:57Z",
+  "pushed_at": "2022-12-08T19:03:10Z",
   "git_url": "git://github.com/Odi-ts/odi.git",
   "ssh_url": "git@github.com:Odi-ts/odi.git",
   "clone_url": "https://github.com/Odi-ts/odi.git",
   "svn_url": "https://github.com/Odi-ts/odi",
   "homepage": "https://odi.gitbook.io",
-  "size": 2545,
+  "size": 2667,
   "stargazers_count": 263,
   "watchers_count": 263,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 46,
+  "open_issues_count": 47,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,7 +112,7 @@
   ],
   "visibility": "public",
   "forks": 12,
-  "open_issues": 46,
+  "open_issues": 47,
   "watchers": 263,
   "default_branch": "master",
   "permissions": {
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2191
+  "_index": 2193
 }

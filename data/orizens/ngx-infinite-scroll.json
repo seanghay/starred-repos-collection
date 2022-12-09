@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/orizens/ngx-infinite-scroll/deployments",
   "created_at": "2016-02-05T09:19:39Z",
   "updated_at": "2022-12-06T08:46:38Z",
-  "pushed_at": "2022-11-30T13:55:31Z",
+  "pushed_at": "2022-12-09T01:57:12Z",
   "git_url": "git://github.com/orizens/ngx-infinite-scroll.git",
   "ssh_url": "git@github.com:orizens/ngx-infinite-scroll.git",
   "clone_url": "https://github.com/orizens/ngx-infinite-scroll.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 39,
+  "open_issues_count": 37,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,7 +109,7 @@
   ],
   "visibility": "public",
   "forks": 223,
-  "open_issues": 39,
+  "open_issues": 37,
   "watchers": 1145,
   "default_branch": "master",
   "permissions": {
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2324
+  "_index": 2326
 }

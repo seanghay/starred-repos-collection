@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/TradeMe/Covert/releases{/id}",
   "deployments_url": "https://api.github.com/repos/TradeMe/Covert/deployments",
   "created_at": "2018-09-06T03:26:50Z",
-  "updated_at": "2022-12-07T20:25:34Z",
+  "updated_at": "2022-12-08T06:04:47Z",
   "pushed_at": "2022-03-30T20:44:35Z",
   "git_url": "git://github.com/TradeMe/Covert.git",
   "ssh_url": "git@github.com:TradeMe/Covert.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1474
+  "_index": 1476
 }

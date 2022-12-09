@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/voidcosmos/npkill/deployments",
   "created_at": "2019-06-30T12:26:26Z",
   "updated_at": "2022-12-07T07:43:54Z",
-  "pushed_at": "2022-11-11T15:36:05Z",
+  "pushed_at": "2022-12-08T06:19:37Z",
   "git_url": "git://github.com/voidcosmos/npkill.git",
   "ssh_url": "git@github.com:voidcosmos/npkill.git",
   "clone_url": "https://github.com/voidcosmos/npkill.git",
   "svn_url": "https://github.com/voidcosmos/npkill",
   "homepage": "https://npkill.js.org",
-  "size": 7430,
+  "size": 7722,
   "stargazers_count": 6564,
   "watchers_count": 6564,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 20,
+  "open_issues_count": 21,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,7 +112,7 @@
   ],
   "visibility": "public",
   "forks": 161,
-  "open_issues": 20,
+  "open_issues": 21,
   "watchers": 6564,
   "default_branch": "master",
   "permissions": {
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 266
+  "_index": 268
 }

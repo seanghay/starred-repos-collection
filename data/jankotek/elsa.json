@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jankotek/elsa/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jankotek/elsa/deployments",
   "created_at": "2016-03-03T09:47:27Z",
-  "updated_at": "2022-07-02T19:32:48Z",
+  "updated_at": "2022-12-08T09:50:16Z",
   "pushed_at": "2020-10-13T01:40:08Z",
   "git_url": "git://github.com/jankotek/elsa.git",
   "ssh_url": "git@github.com:jankotek/elsa.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jankotek/elsa",
   "homepage": "",
   "size": 192,
-  "stargazers_count": 44,
-  "watchers_count": 44,
+  "stargazers_count": 45,
+  "watchers_count": 45,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 8,
   "open_issues": 12,
-  "watchers": 44,
+  "watchers": 45,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1130
+  "_index": 1132
 }
