@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/CameraKit/blurkit-android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/CameraKit/blurkit-android/deployments",
   "created_at": "2016-11-06T03:14:58Z",
-  "updated_at": "2022-12-08T02:24:40Z",
+  "updated_at": "2022-12-10T12:36:25Z",
   "pushed_at": "2021-04-03T23:18:57Z",
   "git_url": "git://github.com/CameraKit/blurkit-android.git",
   "ssh_url": "git@github.com:CameraKit/blurkit-android.git",

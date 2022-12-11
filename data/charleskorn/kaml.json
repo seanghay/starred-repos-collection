@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 30,
+  "forks_count": 29,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "yaml"
   ],
   "visibility": "public",
-  "forks": 30,
+  "forks": 29,
   "open_issues": 3,
   "watchers": 319,
   "default_branch": "main",

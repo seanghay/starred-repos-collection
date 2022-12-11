@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 15,
+  "forks_count": 14,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 53,
+  "open_issues_count": 52,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,8 +104,8 @@
     "relay-modern"
   ],
   "visibility": "public",
-  "forks": 15,
-  "open_issues": 53,
+  "forks": 14,
+  "open_issues": 52,
   "watchers": 56,
   "default_branch": "master",
   "permissions": {

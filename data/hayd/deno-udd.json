@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/hayd/deno-udd/deployments",
   "created_at": "2020-03-06T04:34:14Z",
   "updated_at": "2022-12-09T16:12:43Z",
-  "pushed_at": "2022-12-01T19:45:26Z",
+  "pushed_at": "2022-12-10T21:18:59Z",
   "git_url": "git://github.com/hayd/deno-udd.git",
   "ssh_url": "git@github.com:hayd/deno-udd.git",
   "clone_url": "https://github.com/hayd/deno-udd.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 21,
+  "open_issues_count": 23,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 13,
-  "open_issues": 21,
+  "open_issues": 23,
   "watchers": 256,
   "default_branch": "master",
   "permissions": {

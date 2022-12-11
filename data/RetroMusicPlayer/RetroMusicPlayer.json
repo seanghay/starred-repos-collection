@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 580,
+  "forks_count": 581,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,7 +110,7 @@
     "mvvm-architecture"
   ],
   "visibility": "public",
-  "forks": 580,
+  "forks": 581,
   "open_issues": 154,
   "watchers": 2586,
   "default_branch": "dev",
