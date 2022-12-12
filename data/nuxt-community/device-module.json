@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nuxt-community/device-module/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nuxt-community/device-module/deployments",
   "created_at": "2017-12-08T03:27:36Z",
-  "updated_at": "2022-11-27T14:26:34Z",
+  "updated_at": "2022-12-11T04:42:28Z",
   "pushed_at": "2022-11-23T06:29:43Z",
   "git_url": "git://github.com/nuxt-community/device-module.git",
   "ssh_url": "git@github.com:nuxt-community/device-module.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 23,
+  "open_issues_count": 24,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,7 +104,7 @@
   ],
   "visibility": "public",
   "forks": 40,
-  "open_issues": 23,
+  "open_issues": 24,
   "watchers": 673,
   "default_branch": "master",
   "permissions": {

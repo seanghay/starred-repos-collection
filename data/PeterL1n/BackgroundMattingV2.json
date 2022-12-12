@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/PeterL1n/BackgroundMattingV2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/PeterL1n/BackgroundMattingV2/deployments",
   "created_at": "2020-12-01T00:26:17Z",
-  "updated_at": "2022-12-10T08:40:04Z",
+  "updated_at": "2022-12-11T08:42:09Z",
   "pushed_at": "2022-08-15T01:07:59Z",
   "git_url": "git://github.com/PeterL1n/BackgroundMattingV2.git",
   "ssh_url": "git@github.com:PeterL1n/BackgroundMattingV2.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 880,
+  "forks_count": 879,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 32,
+  "open_issues_count": 33,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,8 +104,8 @@
     "real-time"
   ],
   "visibility": "public",
-  "forks": 880,
-  "open_issues": 32,
+  "forks": 879,
+  "open_issues": 33,
   "watchers": 6062,
   "default_branch": "master",
   "permissions": {
