@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1036,
+  "forks_count": 1037,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 214,
+  "open_issues_count": 215,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -106,8 +106,8 @@
     "open-source"
   ],
   "visibility": "public",
-  "forks": 1036,
-  "open_issues": 214,
+  "forks": 1037,
+  "open_issues": 215,
   "watchers": 3025,
   "default_branch": "master",
   "permissions": {
