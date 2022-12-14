@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 87,
+  "forks_count": 88,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,7 +110,7 @@
     "semver"
   ],
   "visibility": "public",
-  "forks": 87,
+  "forks": 88,
   "open_issues": 23,
   "watchers": 4793,
   "default_branch": "main",
