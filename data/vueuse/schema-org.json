@@ -65,19 +65,19 @@
   "releases_url": "https://api.github.com/repos/vueuse/schema-org/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vueuse/schema-org/deployments",
   "created_at": "2022-03-28T08:30:32Z",
-  "updated_at": "2022-12-12T15:21:24Z",
-  "pushed_at": "2022-12-11T01:05:59Z",
+  "updated_at": "2022-12-14T18:01:26Z",
+  "pushed_at": "2022-12-14T05:25:56Z",
   "git_url": "git://github.com/vueuse/schema-org.git",
   "ssh_url": "git@github.com:vueuse/schema-org.git",
   "clone_url": "https://github.com/vueuse/schema-org.git",
   "svn_url": "https://github.com/vueuse/schema-org",
   "homepage": "https://unhead-schema-org.harlanzw.com",
-  "size": 4605,
-  "stargazers_count": 310,
-  "watchers_count": 310,
+  "size": 4610,
+  "stargazers_count": 311,
+  "watchers_count": 311,
   "language": "TypeScript",
   "has_issues": true,
-  "has_projects": true,
+  "has_projects": false,
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": false,
@@ -98,7 +98,7 @@
   "visibility": "public",
   "forks": 19,
   "open_issues": 0,
-  "watchers": 310,
+  "watchers": 311,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -107,5 +107,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 360
+  "_index": 361
 }

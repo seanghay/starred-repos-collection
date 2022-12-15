@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/gatsbyjs/gatsby/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gatsbyjs/gatsby/deployments",
   "created_at": "2015-05-21T22:43:05Z",
-  "updated_at": "2022-12-13T21:38:53Z",
-  "pushed_at": "2022-12-14T00:10:21Z",
+  "updated_at": "2022-12-14T22:31:59Z",
+  "pushed_at": "2022-12-15T00:08:52Z",
   "git_url": "git://github.com/gatsbyjs/gatsby.git",
   "ssh_url": "git@github.com:gatsbyjs/gatsby.git",
   "clone_url": "https://github.com/gatsbyjs/gatsby.git",
   "svn_url": "https://github.com/gatsbyjs/gatsby",
   "homepage": "https://www.gatsbyjs.com",
-  "size": 1087436,
-  "stargazers_count": 53914,
-  "watchers_count": 53914,
+  "size": 1088376,
+  "stargazers_count": 53919,
+  "watchers_count": 53919,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 10497,
+  "forks_count": 10493,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 127,
+  "open_issues_count": 123,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,9 +107,9 @@
     "web-app"
   ],
   "visibility": "public",
-  "forks": 10497,
-  "open_issues": 127,
-  "watchers": 53914,
+  "forks": 10493,
+  "open_issues": 123,
+  "watchers": 53919,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2377
+  "_index": 2378
 }

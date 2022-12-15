@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/vislyhq/stretch/deployments",
   "created_at": "2018-11-29T13:14:28Z",
   "updated_at": "2022-12-13T04:21:58Z",
-  "pushed_at": "2022-12-12T16:18:03Z",
+  "pushed_at": "2022-12-14T21:54:48Z",
   "git_url": "git://github.com/vislyhq/stretch.git",
   "ssh_url": "git@github.com:vislyhq/stretch.git",
   "clone_url": "https://github.com/vislyhq/stretch.git",
   "svn_url": "https://github.com/vislyhq/stretch",
   "homepage": "https://vislyhq.github.io/stretch/",
-  "size": 43820,
+  "size": 44047,
   "stargazers_count": 1837,
   "watchers_count": 1837,
   "language": "Rust",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 45,
+  "open_issues_count": 46,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,7 +106,7 @@
   ],
   "visibility": "public",
   "forks": 99,
-  "open_issues": 45,
+  "open_issues": 46,
   "watchers": 1837,
   "default_branch": "master",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 212
+  "_index": 213
 }

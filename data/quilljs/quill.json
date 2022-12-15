@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/quilljs/quill/releases{/id}",
   "deployments_url": "https://api.github.com/repos/quilljs/quill/deployments",
   "created_at": "2012-07-30T23:23:18Z",
-  "updated_at": "2022-12-14T00:40:03Z",
-  "pushed_at": "2022-12-06T11:51:41Z",
+  "updated_at": "2022-12-14T17:50:50Z",
+  "pushed_at": "2022-12-15T01:56:11Z",
   "git_url": "git://github.com/quilljs/quill.git",
   "ssh_url": "git@github.com:quilljs/quill.git",
   "clone_url": "https://github.com/quilljs/quill.git",
   "svn_url": "https://github.com/quilljs/quill",
   "homepage": "https://quilljs.com",
-  "size": 14984,
-  "stargazers_count": 34230,
-  "watchers_count": 34230,
+  "size": 14987,
+  "stargazers_count": 34234,
+  "watchers_count": 34234,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1310,
+  "open_issues_count": 1297,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 2931,
-  "open_issues": 1310,
-  "watchers": 34230,
+  "open_issues": 1297,
+  "watchers": 34234,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1478
+  "_index": 1479
 }

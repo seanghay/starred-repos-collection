@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tc39/proposal-intl-segmenter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tc39/proposal-intl-segmenter/deployments",
   "created_at": "2016-08-26T05:40:33Z",
-  "updated_at": "2022-10-28T23:08:49Z",
+  "updated_at": "2022-12-14T07:41:07Z",
   "pushed_at": "2022-01-21T20:50:03Z",
   "git_url": "git://github.com/tc39/proposal-intl-segmenter.git",
   "ssh_url": "git@github.com:tc39/proposal-intl-segmenter.git",
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 741
+  "_index": 742
 }

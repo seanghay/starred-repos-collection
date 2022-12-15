@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/LyraSearch/lyra/releases{/id}",
   "deployments_url": "https://api.github.com/repos/LyraSearch/lyra/deployments",
   "created_at": "2022-05-10T12:01:50Z",
-  "updated_at": "2022-12-14T02:00:19Z",
-  "pushed_at": "2022-12-13T21:17:29Z",
+  "updated_at": "2022-12-15T01:18:12Z",
+  "pushed_at": "2022-12-14T15:08:05Z",
   "git_url": "git://github.com/LyraSearch/lyra.git",
   "ssh_url": "git@github.com:LyraSearch/lyra.git",
   "clone_url": "https://github.com/LyraSearch/lyra.git",
   "svn_url": "https://github.com/LyraSearch/lyra",
   "homepage": "https://docs.lyrasearch.io",
-  "size": 16782,
-  "stargazers_count": 4726,
-  "watchers_count": 4726,
+  "size": 14524,
+  "stargazers_count": 4756,
+  "watchers_count": 4756,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 112,
+  "forks_count": 113,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,9 +106,9 @@
     "typo-tolerance"
   ],
   "visibility": "public",
-  "forks": 112,
+  "forks": 113,
   "open_issues": 35,
-  "watchers": 4726,
+  "watchers": 4756,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 214
+  "_index": 215
 }

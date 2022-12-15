@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/hasura/graphql-engine/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hasura/graphql-engine/deployments",
   "created_at": "2018-06-18T07:57:36Z",
-  "updated_at": "2022-12-13T23:11:15Z",
-  "pushed_at": "2022-12-13T18:45:44Z",
+  "updated_at": "2022-12-14T22:51:03Z",
+  "pushed_at": "2022-12-14T18:43:46Z",
   "git_url": "git://github.com/hasura/graphql-engine.git",
   "ssh_url": "git@github.com:hasura/graphql-engine.git",
   "clone_url": "https://github.com/hasura/graphql-engine.git",
   "svn_url": "https://github.com/hasura/graphql-engine",
   "homepage": "https://hasura.io",
-  "size": 2296302,
-  "stargazers_count": 28824,
-  "watchers_count": 28824,
+  "size": 2306656,
+  "stargazers_count": 28825,
+  "watchers_count": 28825,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 2543,
+  "forks_count": 2545,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2080,
+  "open_issues_count": 2081,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -113,9 +113,9 @@
     "sql-server"
   ],
   "visibility": "public",
-  "forks": 2543,
-  "open_issues": 2080,
-  "watchers": 28824,
+  "forks": 2545,
+  "open_issues": 2081,
+  "watchers": 28825,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2220
+  "_index": 2221
 }

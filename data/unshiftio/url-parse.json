@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/unshiftio/url-parse/releases{/id}",
   "deployments_url": "https://api.github.com/repos/unshiftio/url-parse/deployments",
   "created_at": "2014-10-13T13:50:59Z",
-  "updated_at": "2022-11-08T01:07:59Z",
+  "updated_at": "2022-12-15T00:48:26Z",
   "pushed_at": "2022-08-13T18:28:38Z",
   "git_url": "git://github.com/unshiftio/url-parse.git",
   "ssh_url": "git@github.com:unshiftio/url-parse.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/unshiftio/url-parse",
   "homepage": "http://unshift.io",
   "size": 232,
-  "stargazers_count": 983,
-  "watchers_count": 983,
+  "stargazers_count": 984,
+  "watchers_count": 984,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 104,
   "open_issues": 12,
-  "watchers": 983,
+  "watchers": 984,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 932
+  "_index": 933
 }

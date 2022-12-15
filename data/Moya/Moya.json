@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/Moya/Moya/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Moya/Moya/deployments",
   "created_at": "2014-08-16T07:41:21Z",
-  "updated_at": "2022-12-13T17:40:13Z",
-  "pushed_at": "2022-11-23T07:11:29Z",
+  "updated_at": "2022-12-14T19:29:13Z",
+  "pushed_at": "2022-12-14T07:17:38Z",
   "git_url": "git://github.com/Moya/Moya.git",
   "ssh_url": "git@github.com:Moya/Moya.git",
   "clone_url": "https://github.com/Moya/Moya.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1886,
+  "forks_count": 1888,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 144,
+  "open_issues_count": 145,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,8 +106,8 @@
     "swift"
   ],
   "visibility": "public",
-  "forks": 1886,
-  "open_issues": 144,
+  "forks": 1888,
+  "open_issues": 145,
   "watchers": 14346,
   "default_branch": "master",
   "permissions": {
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1959
+  "_index": 1960
 }

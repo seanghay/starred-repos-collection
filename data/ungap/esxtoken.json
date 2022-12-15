@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ungap/esxtoken/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ungap/esxtoken/deployments",
   "created_at": "2022-11-19T23:10:58Z",
-  "updated_at": "2022-12-11T13:49:51Z",
+  "updated_at": "2022-12-15T01:12:08Z",
   "pushed_at": "2022-12-13T10:59:21Z",
   "git_url": "git://github.com/ungap/esxtoken.git",
   "ssh_url": "git@github.com:ungap/esxtoken.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ungap/esxtoken",
   "homepage": null,
   "size": 27,
-  "stargazers_count": 8,
-  "watchers_count": 8,
+  "stargazers_count": 7,
+  "watchers_count": 7,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 0,
   "open_issues": 0,
-  "watchers": 8,
+  "watchers": 7,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 21
+  "_index": 22
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/type-challenges/type-challenges/releases{/id}",
   "deployments_url": "https://api.github.com/repos/type-challenges/type-challenges/deployments",
   "created_at": "2020-07-23T14:33:11Z",
-  "updated_at": "2022-12-14T01:50:49Z",
+  "updated_at": "2022-12-15T00:32:39Z",
   "pushed_at": "2022-12-14T00:04:05Z",
   "git_url": "git://github.com/type-challenges/type-challenges.git",
   "ssh_url": "git@github.com:type-challenges/type-challenges.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/type-challenges/type-challenges",
   "homepage": "https://tsch.js.org/",
   "size": 2241,
-  "stargazers_count": 28562,
-  "watchers_count": 28562,
+  "stargazers_count": 28583,
+  "watchers_count": 28583,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2825,
+  "forks_count": 2830,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 18219,
+  "open_issues_count": 18287,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,9 +104,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 2825,
-  "open_issues": 18219,
-  "watchers": 28562,
+  "forks": 2830,
+  "open_issues": 18287,
+  "watchers": 28583,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 548
+  "_index": 549
 }

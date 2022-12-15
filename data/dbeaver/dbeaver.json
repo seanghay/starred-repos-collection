@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/dbeaver/dbeaver/releases{/id}",
   "deployments_url": "https://api.github.com/repos/dbeaver/dbeaver/deployments",
   "created_at": "2015-10-21T08:26:28Z",
-  "updated_at": "2022-12-14T02:19:07Z",
-  "pushed_at": "2022-12-13T21:21:04Z",
+  "updated_at": "2022-12-15T01:36:40Z",
+  "pushed_at": "2022-12-14T15:03:05Z",
   "git_url": "git://github.com/dbeaver/dbeaver.git",
   "ssh_url": "git@github.com:dbeaver/dbeaver.git",
   "clone_url": "https://github.com/dbeaver/dbeaver.git",
   "svn_url": "https://github.com/dbeaver/dbeaver",
   "homepage": "https://dbeaver.io",
-  "size": 278947,
-  "stargazers_count": 29561,
-  "watchers_count": 29561,
+  "size": 279081,
+  "stargazers_count": 29576,
+  "watchers_count": 29576,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 2686,
+  "forks_count": 2687,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1655,
+  "open_issues_count": 1660,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -114,9 +114,9 @@
     "sqlserver"
   ],
   "visibility": "public",
-  "forks": 2686,
-  "open_issues": 1655,
-  "watchers": 29561,
+  "forks": 2687,
+  "open_issues": 1660,
+  "watchers": 29576,
   "default_branch": "devel",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 387
+  "_index": 388
 }

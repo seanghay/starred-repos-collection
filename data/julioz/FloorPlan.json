@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/julioz/FloorPlan/releases{/id}",
   "deployments_url": "https://api.github.com/repos/julioz/FloorPlan/deployments",
   "created_at": "2020-04-02T16:54:16Z",
-  "updated_at": "2022-12-09T23:59:16Z",
+  "updated_at": "2022-12-14T23:14:48Z",
   "pushed_at": "2022-12-12T12:58:30Z",
   "git_url": "git://github.com/julioz/FloorPlan.git",
   "ssh_url": "git@github.com:julioz/FloorPlan.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/julioz/FloorPlan",
   "homepage": "https://julioz.github.io/FloorPlan/",
   "size": 24852,
-  "stargazers_count": 177,
-  "watchers_count": 177,
+  "stargazers_count": 176,
+  "watchers_count": 176,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -99,7 +99,7 @@
   "visibility": "public",
   "forks": 6,
   "open_issues": 4,
-  "watchers": 177,
+  "watchers": 176,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -108,5 +108,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1369
+  "_index": 1370
 }

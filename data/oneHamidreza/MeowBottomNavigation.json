@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/oneHamidreza/MeowBottomNavigation/releases{/id}",
   "deployments_url": "https://api.github.com/repos/oneHamidreza/MeowBottomNavigation/deployments",
   "created_at": "2019-02-10T09:11:55Z",
-  "updated_at": "2022-12-13T16:22:45Z",
+  "updated_at": "2022-12-14T15:40:57Z",
   "pushed_at": "2022-02-22T05:00:16Z",
   "git_url": "git://github.com/oneHamidreza/MeowBottomNavigation.git",
   "ssh_url": "git@github.com:oneHamidreza/MeowBottomNavigation.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/oneHamidreza/MeowBottomNavigation",
   "homepage": "http://etebarian.com",
   "size": 4123,
-  "stargazers_count": 1152,
-  "watchers_count": 1152,
+  "stargazers_count": 1154,
+  "watchers_count": 1154,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -102,7 +102,7 @@
   "visibility": "public",
   "forks": 188,
   "open_issues": 39,
-  "watchers": 1152,
+  "watchers": 1154,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -111,5 +111,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1977
+  "_index": 1978
 }

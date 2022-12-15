@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/callstack/linaria/releases{/id}",
   "deployments_url": "https://api.github.com/repos/callstack/linaria/deployments",
   "created_at": "2017-05-23T00:52:34Z",
-  "updated_at": "2022-12-13T18:43:16Z",
-  "pushed_at": "2022-12-10T09:25:39Z",
+  "updated_at": "2022-12-14T22:42:33Z",
+  "pushed_at": "2022-12-14T14:49:10Z",
   "git_url": "git://github.com/callstack/linaria.git",
   "ssh_url": "git@github.com:callstack/linaria.git",
   "clone_url": "https://github.com/callstack/linaria.git",
   "svn_url": "https://github.com/callstack/linaria",
   "homepage": "https://linaria.dev",
   "size": 31812,
-  "stargazers_count": 9933,
-  "watchers_count": 9933,
+  "stargazers_count": 9934,
+  "watchers_count": 9934,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 384,
+  "forks_count": 386,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 142,
+  "open_issues_count": 143,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,9 +104,9 @@
     "react"
   ],
   "visibility": "public",
-  "forks": 384,
-  "open_issues": 142,
-  "watchers": 9933,
+  "forks": 386,
+  "open_issues": 143,
+  "watchers": 9934,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2251
+  "_index": 2252
 }

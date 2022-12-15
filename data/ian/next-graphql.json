@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/ian/next-graphql/deployments",
   "created_at": "2020-04-19T18:20:48Z",
   "updated_at": "2022-09-21T06:02:36Z",
-  "pushed_at": "2022-11-02T18:42:48Z",
+  "pushed_at": "2022-12-14T10:54:10Z",
   "git_url": "git://github.com/ian/next-graphql.git",
   "ssh_url": "git@github.com:ian/next-graphql.git",
   "clone_url": "https://github.com/ian/next-graphql.git",
   "svn_url": "https://github.com/ian/next-graphql",
   "homepage": "",
-  "size": 998,
+  "size": 1045,
   "stargazers_count": 34,
   "watchers_count": 34,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 10,
+  "open_issues_count": 11,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -105,7 +105,7 @@
   ],
   "visibility": "public",
   "forks": 1,
-  "open_issues": 10,
+  "open_issues": 11,
   "watchers": 34,
   "default_branch": "main",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 599
+  "_index": 600
 }

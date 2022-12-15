@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/andOTP/andOTP/releases{/id}",
   "deployments_url": "https://api.github.com/repos/andOTP/andOTP/deployments",
   "created_at": "2017-07-05T11:39:52Z",
-  "updated_at": "2022-12-10T10:37:26Z",
+  "updated_at": "2022-12-14T20:45:11Z",
   "pushed_at": "2022-06-14T05:44:55Z",
   "git_url": "git://github.com/andOTP/andOTP.git",
   "ssh_url": "git@github.com:andOTP/andOTP.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/andOTP/andOTP",
   "homepage": "",
   "size": 13870,
-  "stargazers_count": 3651,
-  "watchers_count": 3651,
+  "stargazers_count": 3652,
+  "watchers_count": 3652,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 343,
+  "forks_count": 342,
   "mirror_url": null,
   "archived": true,
   "disabled": false,
-  "open_issues_count": 202,
+  "open_issues_count": 201,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,9 +108,9 @@
     "two-factor-authentication"
   ],
   "visibility": "public",
-  "forks": 343,
-  "open_issues": 202,
-  "watchers": 3651,
+  "forks": 342,
+  "open_issues": 201,
+  "watchers": 3652,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1907
+  "_index": 1908
 }

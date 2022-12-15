@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tuanhav95/DragView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tuanhav95/DragView/deployments",
   "created_at": "2020-03-05T09:48:00Z",
-  "updated_at": "2022-12-06T05:22:59Z",
+  "updated_at": "2022-12-14T12:33:28Z",
   "pushed_at": "2021-01-25T02:16:54Z",
   "git_url": "git://github.com/tuanhav95/DragView.git",
   "ssh_url": "git@github.com:tuanhav95/DragView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/tuanhav95/DragView",
   "homepage": "",
   "size": 14617,
-  "stargazers_count": 202,
-  "watchers_count": 202,
+  "stargazers_count": 203,
+  "watchers_count": 203,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 31,
   "open_issues": 5,
-  "watchers": 202,
+  "watchers": 203,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1311
+  "_index": 1312
 }
