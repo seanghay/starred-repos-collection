@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/openreplay/openreplay/releases{/id}",
   "deployments_url": "https://api.github.com/repos/openreplay/openreplay/deployments",
   "created_at": "2021-04-29T12:15:50Z",
-  "updated_at": "2022-12-15T23:40:56Z",
-  "pushed_at": "2022-12-15T17:32:09Z",
+  "updated_at": "2022-12-17T01:48:12Z",
+  "pushed_at": "2022-12-16T16:57:36Z",
   "git_url": "git://github.com/openreplay/openreplay.git",
   "ssh_url": "git@github.com:openreplay/openreplay.git",
   "clone_url": "https://github.com/openreplay/openreplay.git",
   "svn_url": "https://github.com/openreplay/openreplay",
   "homepage": "https://openreplay.com",
-  "size": 29086,
-  "stargazers_count": 6554,
-  "watchers_count": 6554,
+  "size": 29133,
+  "stargazers_count": 6561,
+  "watchers_count": 6561,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 59,
+  "open_issues_count": 60,
   "license": {
     "key": "other",
     "name": "Other",
@@ -111,8 +111,8 @@
   ],
   "visibility": "public",
   "forks": 304,
-  "open_issues": 59,
-  "watchers": 6554,
+  "open_issues": 60,
+  "watchers": 6561,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 842
+  "_index": 843
 }

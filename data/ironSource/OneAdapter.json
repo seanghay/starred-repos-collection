@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ironSource/OneAdapter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ironSource/OneAdapter/deployments",
   "created_at": "2018-11-21T15:46:40Z",
-  "updated_at": "2022-12-14T22:55:07Z",
+  "updated_at": "2022-12-16T06:51:45Z",
   "pushed_at": "2022-12-15T16:37:20Z",
   "git_url": "git://github.com/ironSource/OneAdapter.git",
   "ssh_url": "git@github.com:ironSource/OneAdapter.git",
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1592
+  "_index": 1593
 }

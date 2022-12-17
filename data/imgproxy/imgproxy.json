@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/imgproxy/imgproxy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/imgproxy/imgproxy/deployments",
   "created_at": "2017-06-20T13:58:55Z",
-  "updated_at": "2022-12-15T16:20:37Z",
-  "pushed_at": "2022-12-15T15:07:05Z",
+  "updated_at": "2022-12-16T16:51:37Z",
+  "pushed_at": "2022-12-16T11:36:25Z",
   "git_url": "git://github.com/imgproxy/imgproxy.git",
   "ssh_url": "git@github.com:imgproxy/imgproxy.git",
   "clone_url": "https://github.com/imgproxy/imgproxy.git",
   "svn_url": "https://github.com/imgproxy/imgproxy",
   "homepage": "https://imgproxy.net",
   "size": 36825,
-  "stargazers_count": 6747,
-  "watchers_count": 6747,
+  "stargazers_count": 6749,
+  "watchers_count": 6749,
   "language": "Go",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 66,
+  "open_issues_count": 65,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,8 +112,8 @@
   ],
   "visibility": "public",
   "forks": 516,
-  "open_issues": 66,
-  "watchers": 6747,
+  "open_issues": 65,
+  "watchers": 6749,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 770
+  "_index": 771
 }

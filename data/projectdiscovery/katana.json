@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/projectdiscovery/katana/releases{/id}",
   "deployments_url": "https://api.github.com/repos/projectdiscovery/katana/deployments",
   "created_at": "2021-01-02T16:56:05Z",
-  "updated_at": "2022-12-16T00:23:40Z",
-  "pushed_at": "2022-12-13T19:30:07Z",
+  "updated_at": "2022-12-17T01:09:06Z",
+  "pushed_at": "2022-12-16T19:14:36Z",
   "git_url": "git://github.com/projectdiscovery/katana.git",
   "ssh_url": "git@github.com:projectdiscovery/katana.git",
   "clone_url": "https://github.com/projectdiscovery/katana.git",
   "svn_url": "https://github.com/projectdiscovery/katana",
   "homepage": "",
-  "size": 214,
-  "stargazers_count": 5103,
-  "watchers_count": 5103,
+  "size": 216,
+  "stargazers_count": 5118,
+  "watchers_count": 5118,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 222,
+  "forks_count": 223,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 58,
+  "open_issues_count": 61,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,9 +106,9 @@
     "web-spider"
   ],
   "visibility": "public",
-  "forks": 222,
-  "open_issues": 58,
-  "watchers": 5103,
+  "forks": 223,
+  "open_issues": 61,
+  "watchers": 5118,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 36
+  "_index": 37
 }

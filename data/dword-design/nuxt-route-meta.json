@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/dword-design/nuxt-route-meta/releases{/id}",
   "deployments_url": "https://api.github.com/repos/dword-design/nuxt-route-meta/deployments",
   "created_at": "2020-08-19T14:02:24Z",
-  "updated_at": "2022-09-17T22:18:15Z",
+  "updated_at": "2022-12-16T19:42:10Z",
   "pushed_at": "2022-12-12T03:29:46Z",
   "git_url": "git://github.com/dword-design/nuxt-route-meta.git",
   "ssh_url": "git@github.com:dword-design/nuxt-route-meta.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/dword-design/nuxt-route-meta",
   "homepage": "",
   "size": 1632,
-  "stargazers_count": 35,
-  "watchers_count": 35,
+  "stargazers_count": 36,
+  "watchers_count": 36,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -122,7 +122,7 @@
   "visibility": "public",
   "forks": 5,
   "open_issues": 5,
-  "watchers": 35,
+  "watchers": 36,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 578
+  "_index": 579
 }

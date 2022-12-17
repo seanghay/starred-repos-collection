@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/honojs/hono/releases{/id}",
   "deployments_url": "https://api.github.com/repos/honojs/hono/deployments",
   "created_at": "2021-12-14T20:05:30Z",
-  "updated_at": "2022-12-15T22:02:15Z",
+  "updated_at": "2022-12-16T20:15:36Z",
   "pushed_at": "2022-12-14T13:14:42Z",
   "git_url": "git://github.com/honojs/hono.git",
   "ssh_url": "git@github.com:honojs/hono.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/honojs/hono",
   "homepage": "https://honojs.dev",
   "size": 2986,
-  "stargazers_count": 2913,
-  "watchers_count": 2913,
+  "stargazers_count": 2917,
+  "watchers_count": 2917,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 45,
+  "open_issues_count": 46,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,8 +109,8 @@
   ],
   "visibility": "public",
   "forks": 94,
-  "open_issues": 45,
-  "watchers": 2913,
+  "open_issues": 46,
+  "watchers": 2917,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 268
+  "_index": 269
 }

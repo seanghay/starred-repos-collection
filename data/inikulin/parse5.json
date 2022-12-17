@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/inikulin/parse5/releases{/id}",
   "deployments_url": "https://api.github.com/repos/inikulin/parse5/deployments",
   "created_at": "2013-03-18T19:46:24Z",
-  "updated_at": "2022-12-13T02:05:29Z",
-  "pushed_at": "2022-12-15T03:07:41Z",
+  "updated_at": "2022-12-16T09:58:11Z",
+  "pushed_at": "2022-12-16T20:38:59Z",
   "git_url": "git://github.com/inikulin/parse5.git",
   "ssh_url": "git@github.com:inikulin/parse5.git",
   "clone_url": "https://github.com/inikulin/parse5.git",
   "svn_url": "https://github.com/inikulin/parse5",
   "homepage": "",
-  "size": 6465,
+  "size": 6466,
   "stargazers_count": 3198,
   "watchers_count": 3198,
   "language": "HTML",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 21,
+  "open_issues_count": 22,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,7 +108,7 @@
   ],
   "visibility": "public",
   "forks": 239,
-  "open_issues": 21,
+  "open_issues": 22,
   "watchers": 3198,
   "default_branch": "master",
   "permissions": {
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 188
+  "_index": 189
 }
