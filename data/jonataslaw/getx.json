@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jonataslaw/getx/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jonataslaw/getx/deployments",
   "created_at": "2019-11-14T01:16:25Z",
-  "updated_at": "2022-12-16T18:12:07Z",
+  "updated_at": "2022-12-17T21:35:10Z",
   "pushed_at": "2022-12-09T07:32:42Z",
   "git_url": "git://github.com/jonataslaw/getx.git",
   "ssh_url": "git@github.com:jonataslaw/getx.git",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1052
+  "_index": 1053
 }

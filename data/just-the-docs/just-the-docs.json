@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/just-the-docs/just-the-docs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/just-the-docs/just-the-docs/deployments",
   "created_at": "2017-11-08T16:22:28Z",
-  "updated_at": "2022-12-16T18:11:33Z",
-  "pushed_at": "2022-12-16T15:40:48Z",
+  "updated_at": "2022-12-17T20:42:24Z",
+  "pushed_at": "2022-12-17T18:56:09Z",
   "git_url": "git://github.com/just-the-docs/just-the-docs.git",
   "ssh_url": "git@github.com:just-the-docs/just-the-docs.git",
   "clone_url": "https://github.com/just-the-docs/just-the-docs.git",
   "svn_url": "https://github.com/just-the-docs/just-the-docs",
   "homepage": "https://just-the-docs.github.io/just-the-docs/",
-  "size": 7500,
-  "stargazers_count": 5187,
-  "watchers_count": 5187,
+  "size": 7522,
+  "stargazers_count": 5193,
+  "watchers_count": 5193,
   "language": "SCSS",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 3146,
   "open_issues": 65,
-  "watchers": 5187,
+  "watchers": 5193,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 500
+  "_index": 501
 }

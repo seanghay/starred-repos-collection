@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/JakeWharton/DiskLruCache/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JakeWharton/DiskLruCache/deployments",
   "created_at": "2012-01-05T00:36:34Z",
-  "updated_at": "2022-12-16T07:06:37Z",
+  "updated_at": "2022-12-17T10:56:49Z",
   "pushed_at": "2020-03-02T13:54:37Z",
   "git_url": "git://github.com/JakeWharton/DiskLruCache.git",
   "ssh_url": "git@github.com:JakeWharton/DiskLruCache.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/JakeWharton/DiskLruCache",
   "homepage": "http://jakewharton.github.io/DiskLruCache",
   "size": 416,
-  "stargazers_count": 5722,
-  "watchers_count": 5722,
+  "stargazers_count": 5721,
+  "watchers_count": 5721,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 1196,
   "open_issues": 23,
-  "watchers": 5722,
+  "watchers": 5721,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 887
+  "_index": 888
 }

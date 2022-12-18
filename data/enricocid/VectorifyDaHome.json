@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/enricocid/VectorifyDaHome/deployments",
   "created_at": "2019-07-31T14:23:01Z",
   "updated_at": "2022-12-15T19:01:23Z",
-  "pushed_at": "2022-12-14T23:51:22Z",
+  "pushed_at": "2022-12-17T16:57:18Z",
   "git_url": "git://github.com/enricocid/VectorifyDaHome.git",
   "ssh_url": "git@github.com:enricocid/VectorifyDaHome.git",
   "clone_url": "https://github.com/enricocid/VectorifyDaHome.git",
   "svn_url": "https://github.com/enricocid/VectorifyDaHome",
   "homepage": "",
-  "size": 48358,
+  "size": 48368,
   "stargazers_count": 202,
   "watchers_count": 202,
   "language": "Kotlin",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 6,
+  "open_issues_count": 5,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -113,7 +113,7 @@
   ],
   "visibility": "public",
   "forks": 26,
-  "open_issues": 6,
+  "open_issues": 5,
   "watchers": 202,
   "default_branch": "master",
   "permissions": {
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1425
+  "_index": 1426
 }

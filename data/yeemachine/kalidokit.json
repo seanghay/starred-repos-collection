@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yeemachine/kalidokit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yeemachine/kalidokit/deployments",
   "created_at": "2021-10-08T03:36:09Z",
-  "updated_at": "2022-12-16T13:24:49Z",
+  "updated_at": "2022-12-17T15:33:27Z",
   "pushed_at": "2022-02-20T02:56:39Z",
   "git_url": "git://github.com/yeemachine/kalidokit.git",
   "ssh_url": "git@github.com:yeemachine/kalidokit.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 555,
+  "forks_count": 556,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,7 +108,7 @@
     "vtuber"
   ],
   "visibility": "public",
-  "forks": 555,
+  "forks": 556,
   "open_issues": 25,
   "watchers": 4388,
   "default_branch": "main",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 552
+  "_index": 553
 }

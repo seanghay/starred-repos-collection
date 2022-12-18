@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/red/red.git",
   "svn_url": "https://github.com/red/red",
   "homepage": "http://red-lang.org",
-  "size": 37236,
+  "size": 37245,
   "stargazers_count": 4994,
   "watchers_count": 4994,
   "language": "Red",
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1733
+  "_index": 1734
 }

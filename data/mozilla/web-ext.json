@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/mozilla/web-ext.git",
   "svn_url": "https://github.com/mozilla/web-ext",
   "homepage": null,
-  "size": 8519,
+  "size": 8522,
   "stargazers_count": 2182,
   "watchers_count": 2182,
   "language": "JavaScript",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 129
+  "_index": 131
 }

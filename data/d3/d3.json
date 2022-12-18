@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/d3/d3/releases{/id}",
   "deployments_url": "https://api.github.com/repos/d3/d3/deployments",
   "created_at": "2010-09-27T17:22:42Z",
-  "updated_at": "2022-12-17T01:59:56Z",
+  "updated_at": "2022-12-17T23:25:29Z",
   "pushed_at": "2022-12-12T21:29:31Z",
   "git_url": "git://github.com/d3/d3.git",
   "ssh_url": "git@github.com:d3/d3.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/d3/d3",
   "homepage": "https://d3js.org",
   "size": 42343,
-  "stargazers_count": 103693,
-  "watchers_count": 103693,
+  "stargazers_count": 103699,
+  "watchers_count": 103699,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 23234,
+  "forks_count": 23235,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "visualization"
   ],
   "visibility": "public",
-  "forks": 23234,
+  "forks": 23235,
   "open_issues": 3,
-  "watchers": 103693,
+  "watchers": 103699,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2353
+  "_index": 2354
 }

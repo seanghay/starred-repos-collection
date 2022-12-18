@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1327,
+  "forks_count": 1328,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "cropper"
   ],
   "visibility": "public",
-  "forks": 1327,
+  "forks": 1328,
   "open_issues": 359,
   "watchers": 6195,
   "default_branch": "master",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2028
+  "_index": 2029
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/facebook/zstd/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebook/zstd/deployments",
   "created_at": "2015-01-24T00:22:38Z",
-  "updated_at": "2022-12-16T13:40:14Z",
-  "pushed_at": "2022-12-17T00:55:30Z",
+  "updated_at": "2022-12-17T22:14:31Z",
+  "pushed_at": "2022-12-17T21:38:27Z",
   "git_url": "git://github.com/facebook/zstd.git",
   "ssh_url": "git@github.com:facebook/zstd.git",
   "clone_url": "https://github.com/facebook/zstd.git",
   "svn_url": "https://github.com/facebook/zstd",
   "homepage": "http://www.zstd.net",
-  "size": 36403,
-  "stargazers_count": 18819,
-  "watchers_count": 18819,
+  "size": 36372,
+  "stargazers_count": 18823,
+  "watchers_count": 18823,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 144,
+  "open_issues_count": 142,
   "license": {
     "key": "other",
     "name": "Other",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 1802,
-  "open_issues": 144,
-  "watchers": 18819,
+  "open_issues": 142,
+  "watchers": 18823,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 738
+  "_index": 739
 }

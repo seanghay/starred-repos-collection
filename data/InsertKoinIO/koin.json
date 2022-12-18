@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/InsertKoinIO/koin/releases{/id}",
   "deployments_url": "https://api.github.com/repos/InsertKoinIO/koin/deployments",
   "created_at": "2017-06-06T12:21:06Z",
-  "updated_at": "2022-12-16T13:39:13Z",
+  "updated_at": "2022-12-17T10:18:06Z",
   "pushed_at": "2022-12-15T09:55:33Z",
   "git_url": "git://github.com/InsertKoinIO/koin.git",
   "ssh_url": "git@github.com:InsertKoinIO/koin.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/InsertKoinIO/koin",
   "homepage": "https://insert-koin.io",
   "size": 41666,
-  "stargazers_count": 7750,
-  "watchers_count": 7750,
+  "stargazers_count": 7751,
+  "watchers_count": 7751,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 594,
   "open_issues": 78,
-  "watchers": 7750,
+  "watchers": 7751,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2251
+  "_index": 2252
 }

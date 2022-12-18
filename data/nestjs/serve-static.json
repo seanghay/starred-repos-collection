@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/nestjs/serve-static.git",
   "svn_url": "https://github.com/nestjs/serve-static",
   "homepage": "https://nestjs.com/",
-  "size": 2569,
+  "size": 2570,
   "stargazers_count": 319,
   "watchers_count": 319,
   "language": "TypeScript",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 975
+  "_index": 976
 }

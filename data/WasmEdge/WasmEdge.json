@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/WasmEdge/WasmEdge/releases{/id}",
   "deployments_url": "https://api.github.com/repos/WasmEdge/WasmEdge/deployments",
   "created_at": "2019-11-29T19:00:17Z",
-  "updated_at": "2022-12-17T01:08:26Z",
-  "pushed_at": "2022-12-15T17:28:43Z",
+  "updated_at": "2022-12-17T23:26:43Z",
+  "pushed_at": "2022-12-17T11:42:39Z",
   "git_url": "git://github.com/WasmEdge/WasmEdge.git",
   "ssh_url": "git@github.com:WasmEdge/WasmEdge.git",
   "clone_url": "https://github.com/WasmEdge/WasmEdge.git",
   "svn_url": "https://github.com/WasmEdge/WasmEdge",
   "homepage": "https://WasmEdge.org",
   "size": 18035,
-  "stargazers_count": 4887,
-  "watchers_count": 4887,
+  "stargazers_count": 4894,
+  "watchers_count": 4894,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 444,
+  "forks_count": 445,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 299,
+  "open_issues_count": 301,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -112,9 +112,9 @@
     "webassembly"
   ],
   "visibility": "public",
-  "forks": 444,
-  "open_issues": 299,
-  "watchers": 4887,
+  "forks": 445,
+  "open_issues": 301,
+  "watchers": 4894,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 68
+  "_index": 70
 }

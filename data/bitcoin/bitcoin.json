@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/bitcoin/bitcoin/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bitcoin/bitcoin/deployments",
   "created_at": "2010-12-19T15:16:43Z",
-  "updated_at": "2022-12-17T01:15:54Z",
-  "pushed_at": "2022-12-17T00:05:20Z",
+  "updated_at": "2022-12-17T23:51:47Z",
+  "pushed_at": "2022-12-17T20:05:16Z",
   "git_url": "git://github.com/bitcoin/bitcoin.git",
   "ssh_url": "git@github.com:bitcoin/bitcoin.git",
   "clone_url": "https://github.com/bitcoin/bitcoin.git",
   "svn_url": "https://github.com/bitcoin/bitcoin",
   "homepage": "https://bitcoincore.org/en/download",
-  "size": 221090,
-  "stargazers_count": 67411,
-  "watchers_count": 67411,
+  "size": 221100,
+  "stargazers_count": 67422,
+  "watchers_count": 67422,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 33451,
+  "forks_count": 33456,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 786,
+  "open_issues_count": 784,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,9 +105,9 @@
     "p2p"
   ],
   "visibility": "public",
-  "forks": 33451,
-  "open_issues": 786,
-  "watchers": 67411,
+  "forks": 33456,
+  "open_issues": 784,
+  "watchers": 67422,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2383
+  "_index": 2384
 }

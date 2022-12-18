@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/deployments",
   "created_at": "2018-03-18T00:35:50Z",
   "updated_at": "2022-12-14T03:56:52Z",
-  "pushed_at": "2022-12-09T13:58:55Z",
+  "pushed_at": "2022-12-17T22:13:03Z",
   "git_url": "git://github.com/ZacSweers/redacted-compiler-plugin.git",
   "ssh_url": "git@github.com:ZacSweers/redacted-compiler-plugin.git",
   "clone_url": "https://github.com/ZacSweers/redacted-compiler-plugin.git",
   "svn_url": "https://github.com/ZacSweers/redacted-compiler-plugin",
   "homepage": "",
-  "size": 543,
+  "size": 593,
   "stargazers_count": 295,
   "watchers_count": 295,
   "language": "Kotlin",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1518
+  "_index": 1519
 }

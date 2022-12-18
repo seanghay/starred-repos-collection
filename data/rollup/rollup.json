@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/rollup/rollup/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rollup/rollup/deployments",
   "created_at": "2015-05-14T22:26:28Z",
-  "updated_at": "2022-12-16T20:47:07Z",
-  "pushed_at": "2022-12-16T15:44:05Z",
+  "updated_at": "2022-12-17T17:56:03Z",
+  "pushed_at": "2022-12-17T05:51:42Z",
   "git_url": "git://github.com/rollup/rollup.git",
   "ssh_url": "git@github.com:rollup/rollup.git",
   "clone_url": "https://github.com/rollup/rollup.git",
   "svn_url": "https://github.com/rollup/rollup",
   "homepage": "https://rollupjs.org",
-  "size": 22441,
-  "stargazers_count": 22694,
-  "watchers_count": 22694,
+  "size": 22472,
+  "stargazers_count": 22699,
+  "watchers_count": 22699,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 422,
+  "open_issues_count": 413,
   "license": {
     "key": "other",
     "name": "Other",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 1253,
-  "open_issues": 422,
-  "watchers": 22694,
+  "open_issues": 413,
+  "watchers": 22699,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2291
+  "_index": 2292
 }

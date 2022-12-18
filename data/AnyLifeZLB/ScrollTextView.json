@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/AnyLifeZLB/ScrollTextView",
-  "description": "Android 滚动字幕，跑马灯；可以使用在广告机，机顶盒，地铁，机场等各种信息发布系统app",
+  "description": "Android ScrollTextView. You can use it in advisement player,TV news show or airport metro information public system App.    🇨🇳Android 滚动字幕跑马灯，可是使用在广告机设备，电视广告位或其他在机场，地铁使用的信息发布系统App使用",
   "fork": false,
   "url": "https://api.github.com/repos/AnyLifeZLB/ScrollTextView",
   "forks_url": "https://api.github.com/repos/AnyLifeZLB/ScrollTextView/forks",
@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/AnyLifeZLB/ScrollTextView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/AnyLifeZLB/ScrollTextView/deployments",
   "created_at": "2015-10-19T03:03:06Z",
-  "updated_at": "2022-12-14T14:54:06Z",
-  "pushed_at": "2021-07-28T06:03:02Z",
+  "updated_at": "2022-12-17T04:27:15Z",
+  "pushed_at": "2022-12-17T13:58:50Z",
   "git_url": "git://github.com/AnyLifeZLB/ScrollTextView.git",
   "ssh_url": "git@github.com:AnyLifeZLB/ScrollTextView.git",
   "clone_url": "https://github.com/AnyLifeZLB/ScrollTextView.git",
   "svn_url": "https://github.com/AnyLifeZLB/ScrollTextView",
   "homepage": "",
-  "size": 1135,
+  "size": 1201,
   "stargazers_count": 499,
   "watchers_count": 499,
   "language": "Java",
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1417
+  "_index": 1418
 }

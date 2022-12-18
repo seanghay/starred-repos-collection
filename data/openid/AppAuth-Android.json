@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/openid/AppAuth-Android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/openid/AppAuth-Android/deployments",
   "created_at": "2016-02-19T15:09:43Z",
-  "updated_at": "2022-12-16T19:52:46Z",
+  "updated_at": "2022-12-17T03:47:05Z",
   "pushed_at": "2022-11-21T22:18:23Z",
   "git_url": "git://github.com/openid/AppAuth-Android.git",
   "ssh_url": "git@github.com:openid/AppAuth-Android.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/openid/AppAuth-Android",
   "homepage": "https://openid.github.io/AppAuth-Android",
   "size": 1571,
-  "stargazers_count": 2302,
-  "watchers_count": 2302,
+  "stargazers_count": 2303,
+  "watchers_count": 2303,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 812,
   "open_issues": 155,
-  "watchers": 2302,
+  "watchers": 2303,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 725
+  "_index": 726
 }

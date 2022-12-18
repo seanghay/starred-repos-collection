@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/strukturag/libheif/releases{/id}",
   "deployments_url": "https://api.github.com/repos/strukturag/libheif/deployments",
   "created_at": "2017-12-21T14:06:21Z",
-  "updated_at": "2022-12-12T14:44:39Z",
+  "updated_at": "2022-12-17T06:36:29Z",
   "pushed_at": "2022-12-09T10:05:45Z",
   "git_url": "git://github.com/strukturag/libheif.git",
   "ssh_url": "git@github.com:strukturag/libheif.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/strukturag/libheif",
   "homepage": "http://www.libheif.org",
   "size": 6058,
-  "stargazers_count": 1123,
-  "watchers_count": 1123,
+  "stargazers_count": 1124,
+  "watchers_count": 1124,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 188,
+  "open_issues_count": 187,
   "license": {
     "key": "other",
     "name": "Other",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 212,
-  "open_issues": 188,
-  "watchers": 1123,
+  "open_issues": 187,
+  "watchers": 1124,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 531
+  "_index": 532
 }
