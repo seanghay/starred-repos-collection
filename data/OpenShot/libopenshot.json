@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/OpenShot/libopenshot/deployments",
   "created_at": "2015-03-09T20:26:42Z",
   "updated_at": "2022-12-19T23:12:08Z",
-  "pushed_at": "2022-12-19T23:08:47Z",
+  "pushed_at": "2022-12-20T21:48:16Z",
   "git_url": "git://github.com/OpenShot/libopenshot.git",
   "ssh_url": "git@github.com:OpenShot/libopenshot.git",
   "clone_url": "https://github.com/OpenShot/libopenshot.git",
   "svn_url": "https://github.com/OpenShot/libopenshot",
   "homepage": "http://www.openshot.org",
-  "size": 119719,
+  "size": 119735,
   "stargazers_count": 930,
   "watchers_count": 930,
   "language": "C++",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 823
+  "_index": 824
 }

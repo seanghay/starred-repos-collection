@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/janne/pluscodes/releases{/id}",
   "deployments_url": "https://api.github.com/repos/janne/pluscodes/deployments",
   "created_at": "2018-10-16T22:49:21Z",
-  "updated_at": "2022-11-24T11:53:11Z",
+  "updated_at": "2022-12-20T11:00:39Z",
   "pushed_at": "2022-12-02T14:12:16Z",
   "git_url": "git://github.com/janne/pluscodes.git",
   "ssh_url": "git@github.com:janne/pluscodes.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/janne/pluscodes",
   "homepage": "",
   "size": 920,
-  "stargazers_count": 16,
-  "watchers_count": 16,
+  "stargazers_count": 17,
+  "watchers_count": 17,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 2,
   "open_issues": 4,
-  "watchers": 16,
+  "watchers": 17,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 714
+  "_index": 715
 }

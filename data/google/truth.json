@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/google/truth/deployments",
   "created_at": "2011-06-22T18:55:12Z",
   "updated_at": "2022-12-19T09:55:47Z",
-  "pushed_at": "2022-12-16T23:19:24Z",
+  "pushed_at": "2022-12-20T23:30:52Z",
   "git_url": "git://github.com/google/truth.git",
   "ssh_url": "git@github.com:google/truth.git",
   "clone_url": "https://github.com/google/truth.git",
   "svn_url": "https://github.com/google/truth",
   "homepage": "https://truth.dev/",
-  "size": 33469,
+  "size": 33482,
   "stargazers_count": 2556,
   "watchers_count": 2556,
   "language": "Java",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1394
+  "_index": 1395
 }

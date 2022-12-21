@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/balazsbotond/urlcat/releases{/id}",
   "deployments_url": "https://api.github.com/repos/balazsbotond/urlcat/deployments",
   "created_at": "2020-09-15T20:55:10Z",
-  "updated_at": "2022-12-18T22:57:46Z",
+  "updated_at": "2022-12-20T07:01:29Z",
   "pushed_at": "2022-12-19T20:10:59Z",
   "git_url": "git://github.com/balazsbotond/urlcat.git",
   "ssh_url": "git@github.com:balazsbotond/urlcat.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/balazsbotond/urlcat",
   "homepage": "https://urlcat.org",
   "size": 1929,
-  "stargazers_count": 1651,
-  "watchers_count": 1651,
+  "stargazers_count": 1652,
+  "watchers_count": 1652,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 45,
   "open_issues": 6,
-  "watchers": 1651,
+  "watchers": 1652,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1137
+  "_index": 1138
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Genymobile/scrcpy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Genymobile/scrcpy/deployments",
   "created_at": "2017-11-21T18:00:27Z",
-  "updated_at": "2022-12-20T01:39:47Z",
-  "pushed_at": "2022-12-19T18:56:29Z",
+  "updated_at": "2022-12-20T23:57:08Z",
+  "pushed_at": "2022-12-20T16:12:05Z",
   "git_url": "git://github.com/Genymobile/scrcpy.git",
   "ssh_url": "git@github.com:Genymobile/scrcpy.git",
   "clone_url": "https://github.com/Genymobile/scrcpy.git",
   "svn_url": "https://github.com/Genymobile/scrcpy",
   "homepage": "",
-  "size": 3806,
-  "stargazers_count": 74290,
-  "watchers_count": 74290,
+  "size": 3853,
+  "stargazers_count": 74318,
+  "watchers_count": 74318,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 7881,
+  "forks_count": 7883,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1192,
+  "open_issues_count": 1194,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -108,9 +108,9 @@
     "sdl2"
   ],
   "visibility": "public",
-  "forks": 7881,
-  "open_issues": 1192,
-  "watchers": 74290,
+  "forks": 7883,
+  "open_issues": 1194,
+  "watchers": 74318,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2139
+  "_index": 2140
 }

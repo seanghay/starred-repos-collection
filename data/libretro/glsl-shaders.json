@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/libretro/glsl-shaders/releases{/id}",
   "deployments_url": "https://api.github.com/repos/libretro/glsl-shaders/deployments",
   "created_at": "2015-01-31T23:15:25Z",
-  "updated_at": "2022-12-19T10:58:37Z",
+  "updated_at": "2022-12-20T05:09:08Z",
   "pushed_at": "2022-11-29T16:44:15Z",
   "git_url": "git://github.com/libretro/glsl-shaders.git",
   "ssh_url": "git@github.com:libretro/glsl-shaders.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/libretro/glsl-shaders",
   "homepage": null,
   "size": 52301,
-  "stargazers_count": 631,
-  "watchers_count": 631,
+  "stargazers_count": 632,
+  "watchers_count": 632,
   "language": "GLSL",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 197,
   "open_issues": 15,
-  "watchers": 631,
+  "watchers": 632,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1686
+  "_index": 1687
 }

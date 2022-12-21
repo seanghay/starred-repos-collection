@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/android10/Rust-Proactive-Introduction/deployments",
   "created_at": "2022-02-18T13:35:35Z",
   "updated_at": "2022-02-22T04:48:26Z",
-  "pushed_at": "2022-02-18T13:58:12Z",
+  "pushed_at": "2022-12-20T16:11:17Z",
   "git_url": "git://github.com/android10/Rust-Proactive-Introduction.git",
   "ssh_url": "git@github.com:android10/Rust-Proactive-Introduction.git",
   "clone_url": "https://github.com/android10/Rust-Proactive-Introduction.git",
   "svn_url": "https://github.com/android10/Rust-Proactive-Introduction",
   "homepage": "https://fernandocejas.com",
-  "size": 12,
+  "size": 13,
   "stargazers_count": 3,
   "watchers_count": 3,
   "language": "Rust",
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 456
+  "_index": 457
 }

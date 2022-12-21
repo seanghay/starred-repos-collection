@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/rechsteiner/Parchment/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rechsteiner/Parchment/deployments",
   "created_at": "2016-03-13T15:04:27Z",
-  "updated_at": "2022-12-19T11:01:47Z",
+  "updated_at": "2022-12-20T06:12:28Z",
   "pushed_at": "2022-10-29T12:59:55Z",
   "git_url": "git://github.com/rechsteiner/Parchment.git",
   "ssh_url": "git@github.com:rechsteiner/Parchment.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/rechsteiner/Parchment",
   "homepage": "",
   "size": 5667,
-  "stargazers_count": 3002,
-  "watchers_count": 3002,
+  "stargazers_count": 3004,
+  "watchers_count": 3004,
   "language": "Swift",
   "has_issues": true,
   "has_projects": false,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 386,
   "open_issues": 30,
-  "watchers": 3002,
+  "watchers": 3004,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 897
+  "_index": 898
 }

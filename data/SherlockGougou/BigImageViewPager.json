@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/SherlockGougou/BigImageViewPager",
-  "description": "🔥🔥🔥 BigImage ImageView ViewPager 支持超长图、超大图的图片浏览器，优化内存，支持手势放大、下拉关闭、查看原图、加载百分比、保存图片等功能。现已支持androidx。",
+  "description": "🔥🔥🔥 BigImage ImageView ViewPager 支持超长图、超大图的图片浏览器，优化内存，支持手势放大、下拉关闭、查看原图、加载百分比、保存图片等功能。",
   "fork": false,
   "url": "https://api.github.com/repos/SherlockGougou/BigImageViewPager",
   "forks_url": "https://api.github.com/repos/SherlockGougou/BigImageViewPager/forks",
@@ -65,13 +65,13 @@
   "releases_url": "https://api.github.com/repos/SherlockGougou/BigImageViewPager/releases{/id}",
   "deployments_url": "https://api.github.com/repos/SherlockGougou/BigImageViewPager/deployments",
   "created_at": "2018-05-21T10:11:44Z",
-  "updated_at": "2022-12-20T01:19:58Z",
+  "updated_at": "2022-12-20T02:23:19Z",
   "pushed_at": "2022-12-14T06:49:11Z",
   "git_url": "git://github.com/SherlockGougou/BigImageViewPager.git",
   "ssh_url": "git@github.com:SherlockGougou/BigImageViewPager.git",
   "clone_url": "https://github.com/SherlockGougou/BigImageViewPager.git",
   "svn_url": "https://github.com/SherlockGougou/BigImageViewPager",
-  "homepage": "https://www.jianshu.com/p/b15e65791c3f",
+  "homepage": "",
   "size": 16124,
   "stargazers_count": 1825,
   "watchers_count": 1825,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 24,
+  "open_issues_count": 23,
   "license": {
     "key": "other",
     "name": "Other",
@@ -97,10 +97,14 @@
   "allow_forking": true,
   "is_template": false,
   "web_commit_signoff_required": false,
-  "topics": [],
+  "topics": [
+    "bigimage",
+    "image",
+    "imageview"
+  ],
   "visibility": "public",
   "forks": 224,
-  "open_issues": 24,
+  "open_issues": 23,
   "watchers": 1825,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1449
+  "_index": 1450
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/meilisearch/milli/releases{/id}",
   "deployments_url": "https://api.github.com/repos/meilisearch/milli/deployments",
   "created_at": "2020-05-31T12:21:55Z",
-  "updated_at": "2022-12-14T22:20:07Z",
-  "pushed_at": "2022-12-19T18:02:58Z",
+  "updated_at": "2022-12-20T11:30:34Z",
+  "pushed_at": "2022-12-20T17:33:38Z",
   "git_url": "git://github.com/meilisearch/milli.git",
   "ssh_url": "git@github.com:meilisearch/milli.git",
   "clone_url": "https://github.com/meilisearch/milli.git",
   "svn_url": "https://github.com/meilisearch/milli",
   "homepage": "",
-  "size": 6524,
-  "stargazers_count": 432,
-  "watchers_count": 432,
+  "size": 6523,
+  "stargazers_count": 433,
+  "watchers_count": 433,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 84,
+  "forks_count": 85,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 37,
+  "open_issues_count": 35,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,9 +103,9 @@
     "search-engine"
   ],
   "visibility": "public",
-  "forks": 84,
-  "open_issues": 37,
-  "watchers": 432,
+  "forks": 85,
+  "open_issues": 35,
+  "watchers": 433,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 536
+  "_index": 537
 }
