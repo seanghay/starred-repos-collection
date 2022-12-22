@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/passbolt/passbolt_api/releases{/id}",
   "deployments_url": "https://api.github.com/repos/passbolt/passbolt_api/deployments",
   "created_at": "2016-02-23T01:14:59Z",
-  "updated_at": "2022-12-19T14:01:40Z",
+  "updated_at": "2022-12-21T20:38:33Z",
   "pushed_at": "2022-12-06T08:42:14Z",
   "git_url": "git://github.com/passbolt/passbolt_api.git",
   "ssh_url": "git@github.com:passbolt/passbolt_api.git",

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lxn/walk/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lxn/walk/deployments",
   "created_at": "2010-09-16T08:11:49Z",
-  "updated_at": "2022-12-20T15:46:19Z",
+  "updated_at": "2022-12-21T16:58:11Z",
   "pushed_at": "2022-09-08T09:35:44Z",
   "git_url": "git://github.com/lxn/walk.git",
   "ssh_url": "git@github.com:lxn/walk.git",

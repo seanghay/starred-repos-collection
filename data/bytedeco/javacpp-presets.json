@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 668,
+  "forks_count": 669,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 192,
+  "open_issues_count": 191,
   "license": {
     "key": "other",
     "name": "Other",
@@ -106,8 +106,8 @@
     "python"
   ],
   "visibility": "public",
-  "forks": 668,
-  "open_issues": 192,
+  "forks": 669,
+  "open_issues": 191,
   "watchers": 2243,
   "default_branch": "master",
   "permissions": {
