@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/steveruizok/perfect-arrows/releases{/id}",
   "deployments_url": "https://api.github.com/repos/steveruizok/perfect-arrows/deployments",
   "created_at": "2020-07-17T20:29:56Z",
-  "updated_at": "2022-12-20T19:49:13Z",
+  "updated_at": "2022-12-22T12:09:08Z",
   "pushed_at": "2022-12-13T07:53:39Z",
   "git_url": "git://github.com/steveruizok/perfect-arrows.git",
   "ssh_url": "git@github.com:steveruizok/perfect-arrows.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/steveruizok/perfect-arrows",
   "homepage": "",
   "size": 5115,
-  "stargazers_count": 2422,
-  "watchers_count": 2422,
+  "stargazers_count": 2425,
+  "watchers_count": 2425,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 51,
   "open_issues": 8,
-  "watchers": 2422,
+  "watchers": 2425,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 862
+  "_index": 864
 }

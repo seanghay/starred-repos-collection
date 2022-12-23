@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/symisc/unqlite/releases{/id}",
   "deployments_url": "https://api.github.com/repos/symisc/unqlite/deployments",
   "created_at": "2014-08-08T15:03:23Z",
-  "updated_at": "2022-12-15T10:24:04Z",
+  "updated_at": "2022-12-22T03:04:39Z",
   "pushed_at": "2022-09-10T12:04:24Z",
   "git_url": "git://github.com/symisc/unqlite.git",
   "ssh_url": "git@github.com:symisc/unqlite.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/symisc/unqlite",
   "homepage": "https://unqlite.org",
   "size": 2424,
-  "stargazers_count": 1788,
-  "watchers_count": 1788,
+  "stargazers_count": 1789,
+  "watchers_count": 1789,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 148,
   "open_issues": 19,
-  "watchers": 1788,
+  "watchers": 1789,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 275
+  "_index": 277
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/MasayukiSuda/BubbleLayout/releases{/id}",
   "deployments_url": "https://api.github.com/repos/MasayukiSuda/BubbleLayout/deployments",
   "created_at": "2016-05-08T10:56:12Z",
-  "updated_at": "2022-11-11T12:24:13Z",
+  "updated_at": "2022-12-22T08:45:44Z",
   "pushed_at": "2021-07-08T15:00:46Z",
   "git_url": "git://github.com/MasayukiSuda/BubbleLayout.git",
   "ssh_url": "git@github.com:MasayukiSuda/BubbleLayout.git",
@@ -107,5 +107,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1475
+  "_index": 1477
 }

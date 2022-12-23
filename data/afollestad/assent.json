@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/afollestad/assent/deployments",
   "created_at": "2015-11-29T17:41:11Z",
   "updated_at": "2022-12-08T07:06:12Z",
-  "pushed_at": "2022-12-02T22:24:54Z",
+  "pushed_at": "2022-12-23T00:47:14Z",
   "git_url": "git://github.com/afollestad/assent.git",
   "ssh_url": "git@github.com:afollestad/assent.git",
   "clone_url": "https://github.com/afollestad/assent.git",
   "svn_url": "https://github.com/afollestad/assent",
   "homepage": "https://af.codes",
-  "size": 457,
+  "size": 496,
   "stargazers_count": 828,
   "watchers_count": 828,
   "language": "Kotlin",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 10,
+  "open_issues_count": 9,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -106,7 +106,7 @@
   ],
   "visibility": "public",
   "forks": 49,
-  "open_issues": 10,
+  "open_issues": 9,
   "watchers": 828,
   "default_branch": "master",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2009
+  "_index": 2011
 }

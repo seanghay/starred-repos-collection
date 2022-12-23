@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/eclipse-theia/theia/releases{/id}",
   "deployments_url": "https://api.github.com/repos/eclipse-theia/theia/deployments",
   "created_at": "2017-02-24T14:42:05Z",
-  "updated_at": "2022-12-21T22:33:16Z",
-  "pushed_at": "2022-12-20T20:12:23Z",
+  "updated_at": "2022-12-23T01:47:42Z",
+  "pushed_at": "2022-12-22T14:19:27Z",
   "git_url": "git://github.com/eclipse-theia/theia.git",
   "ssh_url": "git@github.com:eclipse-theia/theia.git",
   "clone_url": "https://github.com/eclipse-theia/theia.git",
   "svn_url": "https://github.com/eclipse-theia/theia",
   "homepage": "http://theia-ide.org",
-  "size": 160675,
-  "stargazers_count": 17670,
-  "watchers_count": 17670,
+  "size": 160845,
+  "stargazers_count": 17671,
+  "watchers_count": 17671,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1390,
+  "open_issues_count": 1404,
   "license": {
     "key": "other",
     "name": "Other",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 2288,
-  "open_issues": 1390,
-  "watchers": 17670,
+  "open_issues": 1404,
+  "watchers": 17671,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1237
+  "_index": 1239
 }

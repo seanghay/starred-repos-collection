@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/thumbor/thumbor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/thumbor/thumbor/deployments",
   "created_at": "2011-03-16T17:30:05Z",
-  "updated_at": "2022-12-21T18:12:12Z",
-  "pushed_at": "2022-12-21T23:04:17Z",
+  "updated_at": "2022-12-22T20:20:48Z",
+  "pushed_at": "2022-12-22T11:15:52Z",
   "git_url": "git://github.com/thumbor/thumbor.git",
   "ssh_url": "git@github.com:thumbor/thumbor.git",
   "clone_url": "https://github.com/thumbor/thumbor.git",
   "svn_url": "https://github.com/thumbor/thumbor",
   "homepage": "http://thumbor.org",
-  "size": 52233,
-  "stargazers_count": 9279,
-  "watchers_count": 9279,
+  "size": 52255,
+  "stargazers_count": 9281,
+  "watchers_count": 9281,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -103,7 +103,7 @@
   "visibility": "public",
   "forks": 800,
   "open_issues": 24,
-  "watchers": 9279,
+  "watchers": 9281,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1876
+  "_index": 1878
 }

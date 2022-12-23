@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/vercel/og-image/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vercel/og-image/deployments",
   "created_at": "2019-01-02T00:20:14Z",
-  "updated_at": "2022-12-20T12:06:57Z",
+  "updated_at": "2022-12-23T00:03:18Z",
   "pushed_at": "2022-12-13T19:37:16Z",
   "git_url": "git://github.com/vercel/og-image.git",
   "ssh_url": "git@github.com:vercel/og-image.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/vercel/og-image",
   "homepage": "https://og-image.vercel.app",
   "size": 8404,
-  "stargazers_count": 3904,
-  "watchers_count": 3904,
+  "stargazers_count": 3906,
+  "watchers_count": 3906,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1285,
+  "forks_count": 1287,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 15,
+  "open_issues_count": 14,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,9 +106,9 @@
     "vercel"
   ],
   "visibility": "public",
-  "forks": 1285,
-  "open_issues": 15,
-  "watchers": 3904,
+  "forks": 1287,
+  "open_issues": 14,
+  "watchers": 3906,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 884
+  "_index": 886
 }

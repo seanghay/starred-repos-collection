@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/AllToMP3/alltomp3-app/releases{/id}",
   "deployments_url": "https://api.github.com/repos/AllToMP3/alltomp3-app/deployments",
   "created_at": "2016-07-29T12:27:38Z",
-  "updated_at": "2022-12-20T11:27:06Z",
+  "updated_at": "2022-12-22T06:54:19Z",
   "pushed_at": "2022-12-08T12:18:26Z",
   "git_url": "git://github.com/AllToMP3/alltomp3-app.git",
   "ssh_url": "git@github.com:AllToMP3/alltomp3-app.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/AllToMP3/alltomp3-app",
   "homepage": "https://alltomp3.org",
   "size": 3484,
-  "stargazers_count": 1218,
-  "watchers_count": 1218,
+  "stargazers_count": 1217,
+  "watchers_count": 1217,
   "language": "CSS",
   "has_issues": true,
   "has_projects": true,
@@ -120,7 +120,7 @@
   "visibility": "public",
   "forks": 138,
   "open_issues": 179,
-  "watchers": 1218,
+  "watchers": 1217,
   "default_branch": "development",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2318
+  "_index": 2320
 }
