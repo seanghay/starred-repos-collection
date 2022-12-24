@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/facebookresearch/deit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookresearch/deit/deployments",
   "created_at": "2020-12-23T17:44:43Z",
-  "updated_at": "2022-12-23T00:30:00Z",
+  "updated_at": "2022-12-23T20:01:44Z",
   "pushed_at": "2022-11-16T03:57:45Z",
   "git_url": "git://github.com/facebookresearch/deit.git",
   "ssh_url": "git@github.com:facebookresearch/deit.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 462,
+  "forks_count": 463,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,7 +99,7 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 462,
+  "forks": 463,
   "open_issues": 11,
   "watchers": 3161,
   "default_branch": "main",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 352
+  "_index": 354
 }

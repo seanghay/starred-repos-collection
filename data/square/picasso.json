@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/square/picasso/releases{/id}",
   "deployments_url": "https://api.github.com/repos/square/picasso/deployments",
   "created_at": "2013-05-14T15:07:47Z",
-  "updated_at": "2022-12-22T23:05:26Z",
+  "updated_at": "2022-12-24T01:46:33Z",
   "pushed_at": "2022-12-15T10:06:13Z",
   "git_url": "git://github.com/square/picasso.git",
   "ssh_url": "git@github.com:square/picasso.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 360
+  "_index": 362
 }

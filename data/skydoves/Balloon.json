@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/skydoves/Balloon/deployments",
   "created_at": "2019-07-14T07:14:32Z",
   "updated_at": "2022-12-22T12:26:16Z",
-  "pushed_at": "2022-12-19T12:03:16Z",
+  "pushed_at": "2022-12-23T22:19:27Z",
   "git_url": "git://github.com/skydoves/Balloon.git",
   "ssh_url": "git@github.com:skydoves/Balloon.git",
   "clone_url": "https://github.com/skydoves/Balloon.git",
   "svn_url": "https://github.com/skydoves/Balloon",
   "homepage": "",
-  "size": 1709,
+  "size": 1721,
   "stargazers_count": 2764,
   "watchers_count": 2764,
   "language": "Kotlin",
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1904
+  "_index": 1906
 }

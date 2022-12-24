@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/apollographql/apollo-kotlin/deployments",
   "created_at": "2016-09-28T14:03:30Z",
   "updated_at": "2022-12-22T16:43:02Z",
-  "pushed_at": "2022-12-22T19:47:48Z",
+  "pushed_at": "2022-12-23T08:28:47Z",
   "git_url": "git://github.com/apollographql/apollo-kotlin.git",
   "ssh_url": "git@github.com:apollographql/apollo-kotlin.git",
   "clone_url": "https://github.com/apollographql/apollo-kotlin.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 620,
+  "forks_count": 619,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 151,
+  "open_issues_count": 153,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,8 +107,8 @@
     "multiplatform"
   ],
   "visibility": "public",
-  "forks": 620,
-  "open_issues": 151,
+  "forks": 619,
+  "open_issues": 153,
   "watchers": 3325,
   "default_branch": "main",
   "permissions": {
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1311
+  "_index": 1313
 }

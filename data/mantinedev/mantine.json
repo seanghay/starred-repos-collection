@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/mantinedev/mantine/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mantinedev/mantine/deployments",
   "created_at": "2021-01-07T14:02:19Z",
-  "updated_at": "2022-12-22T20:53:49Z",
-  "pushed_at": "2022-12-23T01:06:06Z",
+  "updated_at": "2022-12-24T01:27:12Z",
+  "pushed_at": "2022-12-23T11:31:53Z",
   "git_url": "git://github.com/mantinedev/mantine.git",
   "ssh_url": "git@github.com:mantinedev/mantine.git",
   "clone_url": "https://github.com/mantinedev/mantine.git",
   "svn_url": "https://github.com/mantinedev/mantine",
   "homepage": "https://mantine.dev",
-  "size": 357195,
-  "stargazers_count": 16286,
-  "watchers_count": 16286,
+  "size": 357232,
+  "stargazers_count": 16298,
+  "watchers_count": 16298,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 1102,
+  "forks_count": 1104,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,9 +106,9 @@
     "uikit"
   ],
   "visibility": "public",
-  "forks": 1102,
+  "forks": 1104,
   "open_issues": 64,
-  "watchers": 16286,
+  "watchers": 16298,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 223
+  "_index": 225
 }

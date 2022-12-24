@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wuhaoyu1990/MagicCamera/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wuhaoyu1990/MagicCamera/deployments",
   "created_at": "2016-01-08T11:36:56Z",
-  "updated_at": "2022-12-21T06:07:00Z",
+  "updated_at": "2022-12-23T10:13:52Z",
   "pushed_at": "2020-10-22T09:22:50Z",
   "git_url": "git://github.com/wuhaoyu1990/MagicCamera.git",
   "ssh_url": "git@github.com:wuhaoyu1990/MagicCamera.git",
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2081
+  "_index": 2083
 }

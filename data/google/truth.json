@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/truth/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/truth/deployments",
   "created_at": "2011-06-22T18:55:12Z",
-  "updated_at": "2022-12-22T01:52:05Z",
+  "updated_at": "2022-12-23T14:58:59Z",
   "pushed_at": "2022-12-20T23:30:52Z",
   "git_url": "git://github.com/google/truth.git",
   "ssh_url": "git@github.com:google/truth.git",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1397
+  "_index": 1399
 }

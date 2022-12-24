@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/facebook/draft-js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebook/draft-js/deployments",
   "created_at": "2016-02-19T20:18:26Z",
-  "updated_at": "2022-12-22T21:15:51Z",
+  "updated_at": "2022-12-23T10:33:10Z",
   "pushed_at": "2022-12-14T15:18:45Z",
   "git_url": "git://github.com/facebook/draft-js.git",
   "ssh_url": "git@github.com:facebook/draft-js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/facebook/draft-js",
   "homepage": "https://draftjs.org/",
   "size": 36825,
-  "stargazers_count": 22290,
-  "watchers_count": 22290,
+  "stargazers_count": 22292,
+  "watchers_count": 22292,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 2680,
   "open_issues": 961,
-  "watchers": 22290,
+  "watchers": 22292,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 524
+  "_index": 526
 }

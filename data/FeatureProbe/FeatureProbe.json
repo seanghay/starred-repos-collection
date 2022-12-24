@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/FeatureProbe/FeatureProbe",
-  "description": "FeatureProbe is an open source feature management service. 开源的高效可视化『功能』管理平台，提供灰度发布、AB实验、配置变更全功能。featureflag",
+  "description": "FeatureProbe is an open source feature management service. 开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。",
   "fork": false,
   "url": "https://api.github.com/repos/FeatureProbe/FeatureProbe",
   "forks_url": "https://api.github.com/repos/FeatureProbe/FeatureProbe/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/FeatureProbe/FeatureProbe/releases{/id}",
   "deployments_url": "https://api.github.com/repos/FeatureProbe/FeatureProbe/deployments",
   "created_at": "2022-05-26T01:37:50Z",
-  "updated_at": "2022-12-21T13:12:14Z",
-  "pushed_at": "2022-12-22T02:27:41Z",
+  "updated_at": "2022-12-23T12:21:03Z",
+  "pushed_at": "2022-12-23T05:30:37Z",
   "git_url": "git://github.com/FeatureProbe/FeatureProbe.git",
   "ssh_url": "git@github.com:FeatureProbe/FeatureProbe.git",
   "clone_url": "https://github.com/FeatureProbe/FeatureProbe.git",
   "svn_url": "https://github.com/FeatureProbe/FeatureProbe",
   "homepage": "https://featureprobe.io/",
-  "size": 22597,
-  "stargazers_count": 382,
-  "watchers_count": 382,
+  "size": 22616,
+  "stargazers_count": 388,
+  "watchers_count": 388,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 32,
+  "open_issues_count": 33,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -118,8 +118,8 @@
   ],
   "visibility": "public",
   "forks": 27,
-  "open_issues": 32,
-  "watchers": 382,
+  "open_issues": 33,
+  "watchers": 388,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 179
+  "_index": 181
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/eligrey/FileSaver.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/eligrey/FileSaver.js/deployments",
   "created_at": "2011-07-15T03:27:54Z",
-  "updated_at": "2022-12-22T18:25:05Z",
+  "updated_at": "2022-12-23T07:32:29Z",
   "pushed_at": "2022-12-03T09:25:45Z",
   "git_url": "git://github.com/eligrey/FileSaver.js.git",
   "ssh_url": "git@github.com:eligrey/FileSaver.js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/eligrey/FileSaver.js",
   "homepage": "https://eligrey.com/blog/saving-generated-files-on-the-client-side/",
   "size": 356,
-  "stargazers_count": 19840,
-  "watchers_count": 19840,
+  "stargazers_count": 19841,
+  "watchers_count": 19841,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 4380,
   "open_issues": 185,
-  "watchers": 19840,
+  "watchers": 19841,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 453
+  "_index": 455
 }
