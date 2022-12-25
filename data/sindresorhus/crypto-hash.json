@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/crypto-hash/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/crypto-hash/deployments",
   "created_at": "2018-03-07T17:17:29Z",
-  "updated_at": "2022-12-17T03:25:03Z",
+  "updated_at": "2022-12-24T03:03:58Z",
   "pushed_at": "2022-06-22T17:04:55Z",
   "git_url": "git://github.com/sindresorhus/crypto-hash.git",
   "ssh_url": "git@github.com:sindresorhus/crypto-hash.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sindresorhus/crypto-hash",
   "homepage": null,
   "size": 30,
-  "stargazers_count": 596,
-  "watchers_count": 596,
+  "stargazers_count": 597,
+  "watchers_count": 597,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 31,
   "open_issues": 3,
-  "watchers": 596,
+  "watchers": 597,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 439
+  "_index": 440
 }

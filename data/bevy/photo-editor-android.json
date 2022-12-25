@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bevy/photo-editor-android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bevy/photo-editor-android/deployments",
   "created_at": "2017-06-01T20:03:57Z",
-  "updated_at": "2022-12-18T04:08:24Z",
+  "updated_at": "2022-12-24T16:51:34Z",
   "pushed_at": "2020-06-15T07:33:43Z",
   "git_url": "git://github.com/bevy/photo-editor-android.git",
   "ssh_url": "git@github.com:bevy/photo-editor-android.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/bevy/photo-editor-android",
   "homepage": "",
   "size": 7468,
-  "stargazers_count": 522,
-  "watchers_count": 522,
+  "stargazers_count": 523,
+  "watchers_count": 523,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 178,
   "open_issues": 31,
-  "watchers": 522,
+  "watchers": 523,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2070
+  "_index": 2071
 }

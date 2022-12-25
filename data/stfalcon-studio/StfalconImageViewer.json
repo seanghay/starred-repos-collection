@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/stfalcon-studio/StfalconImageViewer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/stfalcon-studio/StfalconImageViewer/deployments",
   "created_at": "2018-12-07T08:53:59Z",
-  "updated_at": "2022-12-23T17:07:41Z",
+  "updated_at": "2022-12-24T05:04:38Z",
   "pushed_at": "2022-11-21T13:57:35Z",
   "git_url": "git://github.com/stfalcon-studio/StfalconImageViewer.git",
   "ssh_url": "git@github.com:stfalcon-studio/StfalconImageViewer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/stfalcon-studio/StfalconImageViewer",
   "homepage": "http://stfalcon.com",
   "size": 9970,
-  "stargazers_count": 1866,
-  "watchers_count": 1866,
+  "stargazers_count": 1865,
+  "watchers_count": 1865,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 54,
+  "open_issues_count": 53,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -115,8 +115,8 @@
   ],
   "visibility": "public",
   "forks": 237,
-  "open_issues": 54,
-  "watchers": 1866,
+  "open_issues": 53,
+  "watchers": 1865,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2027
+  "_index": 2028
 }

@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 300,
+  "forks_count": 299,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 0,
+  "open_issues_count": 1,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -113,8 +113,8 @@
     "zoom"
   ],
   "visibility": "public",
-  "forks": 300,
-  "open_issues": 0,
+  "forks": 299,
+  "open_issues": 1,
   "watchers": 2048,
   "default_branch": "master",
   "permissions": {
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1162
+  "_index": 1163
 }
