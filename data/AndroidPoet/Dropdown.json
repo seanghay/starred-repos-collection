@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/AndroidPoet/Dropdown/releases{/id}",
   "deployments_url": "https://api.github.com/repos/AndroidPoet/Dropdown/deployments",
   "created_at": "2022-04-25T01:28:25Z",
-  "updated_at": "2022-12-23T10:57:17Z",
+  "updated_at": "2022-12-25T11:36:24Z",
   "pushed_at": "2022-11-18T14:46:39Z",
   "git_url": "git://github.com/AndroidPoet/Dropdown.git",
   "ssh_url": "git@github.com:AndroidPoet/Dropdown.git",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 378
+  "_index": 379
 }

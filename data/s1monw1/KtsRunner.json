@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/s1monw1/KtsRunner/releases{/id}",
   "deployments_url": "https://api.github.com/repos/s1monw1/KtsRunner/deployments",
   "created_at": "2018-05-07T21:42:27Z",
-  "updated_at": "2022-12-01T05:19:53Z",
+  "updated_at": "2022-12-25T20:12:14Z",
   "pushed_at": "2020-11-23T09:07:37Z",
   "git_url": "git://github.com/s1monw1/KtsRunner.git",
   "ssh_url": "git@github.com:s1monw1/KtsRunner.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/s1monw1/KtsRunner",
   "homepage": "",
   "size": 151,
-  "stargazers_count": 192,
-  "watchers_count": 192,
+  "stargazers_count": 193,
+  "watchers_count": 193,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -100,7 +100,7 @@
   "visibility": "public",
   "forks": 20,
   "open_issues": 7,
-  "watchers": 192,
+  "watchers": 193,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2162
+  "_index": 2163
 }

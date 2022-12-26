@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1289,
+  "forks_count": 1288,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,7 +106,7 @@
     "vercel"
   ],
   "visibility": "public",
-  "forks": 1289,
+  "forks": 1288,
   "open_issues": 14,
   "watchers": 3913,
   "default_branch": "main",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 889
+  "_index": 890
 }
