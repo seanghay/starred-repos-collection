@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/gonzalezreal/MarkdownUI/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gonzalezreal/MarkdownUI/deployments",
   "created_at": "2020-12-03T11:39:17Z",
-  "updated_at": "2022-12-25T16:38:49Z",
+  "updated_at": "2022-12-26T08:18:11Z",
   "pushed_at": "2022-12-25T07:02:56Z",
   "git_url": "git://github.com/gonzalezreal/MarkdownUI.git",
   "ssh_url": "git@github.com:gonzalezreal/MarkdownUI.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/gonzalezreal/MarkdownUI",
   "homepage": "",
   "size": 24864,
-  "stargazers_count": 903,
-  "watchers_count": 903,
+  "stargazers_count": 905,
+  "watchers_count": 905,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 76,
   "open_issues": 15,
-  "watchers": 903,
+  "watchers": 905,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1038
+  "_index": 1039
 }

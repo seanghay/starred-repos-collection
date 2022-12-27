@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/hanks-zyh/HTextView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hanks-zyh/HTextView/deployments",
   "created_at": "2015-12-19T16:34:59Z",
-  "updated_at": "2022-12-19T09:38:25Z",
+  "updated_at": "2022-12-26T07:00:31Z",
   "pushed_at": "2021-05-07T03:48:05Z",
   "git_url": "git://github.com/hanks-zyh/HTextView.git",
   "ssh_url": "git@github.com:hanks-zyh/HTextView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/hanks-zyh/HTextView",
   "homepage": "",
   "size": 9880,
-  "stargazers_count": 5448,
-  "watchers_count": 5448,
+  "stargazers_count": 5449,
+  "watchers_count": 5449,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 813,
+  "forks_count": 812,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "textview"
   ],
   "visibility": "public",
-  "forks": 813,
+  "forks": 812,
   "open_issues": 43,
-  "watchers": 5448,
+  "watchers": 5449,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1714
+  "_index": 1715
 }

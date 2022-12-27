@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/jitsi/jitsi-meet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jitsi/jitsi-meet/deployments",
   "created_at": "2013-12-16T12:51:09Z",
-  "updated_at": "2022-12-26T00:20:53Z",
-  "pushed_at": "2022-12-23T19:44:05Z",
+  "updated_at": "2022-12-26T18:56:56Z",
+  "pushed_at": "2022-12-26T15:54:25Z",
   "git_url": "git://github.com/jitsi/jitsi-meet.git",
   "ssh_url": "git@github.com:jitsi/jitsi-meet.git",
   "clone_url": "https://github.com/jitsi/jitsi-meet.git",
   "svn_url": "https://github.com/jitsi/jitsi-meet",
   "homepage": "https://jitsi.org/meet",
-  "size": 251686,
-  "stargazers_count": 19041,
-  "watchers_count": 19041,
+  "size": 251629,
+  "stargazers_count": 19045,
+  "watchers_count": 19045,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 5981,
+  "forks_count": 5980,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 366,
+  "open_issues_count": 365,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -110,9 +110,9 @@
     "webrtc"
   ],
   "visibility": "public",
-  "forks": 5981,
-  "open_issues": 366,
-  "watchers": 19041,
+  "forks": 5980,
+  "open_issues": 365,
+  "watchers": 19045,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 273
+  "_index": 274
 }

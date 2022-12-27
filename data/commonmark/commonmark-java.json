@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/commonmark/commonmark-java/releases{/id}",
   "deployments_url": "https://api.github.com/repos/commonmark/commonmark-java/deployments",
   "created_at": "2015-07-22T01:08:55Z",
-  "updated_at": "2022-12-23T15:33:46Z",
+  "updated_at": "2022-12-26T15:41:59Z",
   "pushed_at": "2022-12-23T03:30:07Z",
   "git_url": "git://github.com/commonmark/commonmark-java.git",
   "ssh_url": "git@github.com:commonmark/commonmark-java.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/commonmark/commonmark-java",
   "homepage": "",
   "size": 1815,
-  "stargazers_count": 1892,
-  "watchers_count": 1892,
+  "stargazers_count": 1893,
+  "watchers_count": 1893,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 15,
+  "open_issues_count": 12,
   "license": {
     "key": "bsd-2-clause",
     "name": "BSD 2-Clause \"Simplified\" License",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 253,
-  "open_issues": 15,
-  "watchers": 1892,
+  "open_issues": 12,
+  "watchers": 1893,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1061
+  "_index": 1062
 }

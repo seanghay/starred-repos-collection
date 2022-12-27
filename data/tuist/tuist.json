@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/tuist/tuist/deployments",
   "created_at": "2018-04-16T07:02:54Z",
   "updated_at": "2022-12-25T15:54:13Z",
-  "pushed_at": "2022-12-25T02:17:50Z",
+  "pushed_at": "2022-12-26T16:52:09Z",
   "git_url": "git://github.com/tuist/tuist.git",
   "ssh_url": "git@github.com:tuist/tuist.git",
   "clone_url": "https://github.com/tuist/tuist.git",
   "svn_url": "https://github.com/tuist/tuist",
   "homepage": "https://tuist.io",
-  "size": 218697,
+  "size": 219166,
   "stargazers_count": 3113,
   "watchers_count": 3113,
   "language": "Swift",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 869
+  "_index": 870
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/dcloudio/uni-app/releases{/id}",
   "deployments_url": "https://api.github.com/repos/dcloudio/uni-app/deployments",
   "created_at": "2018-07-12T08:52:39Z",
-  "updated_at": "2022-12-24T15:01:39Z",
-  "pushed_at": "2022-12-23T09:47:50Z",
+  "updated_at": "2022-12-27T01:37:38Z",
+  "pushed_at": "2022-12-26T08:19:31Z",
   "git_url": "git://github.com/dcloudio/uni-app.git",
   "ssh_url": "git@github.com:dcloudio/uni-app.git",
   "clone_url": "https://github.com/dcloudio/uni-app.git",
   "svn_url": "https://github.com/dcloudio/uni-app",
   "homepage": "https://uniapp.dcloud.io",
   "size": 530099,
-  "stargazers_count": 37522,
-  "watchers_count": 37522,
+  "stargazers_count": 37524,
+  "watchers_count": 37524,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3400,
+  "forks_count": 3402,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -113,9 +113,9 @@
     "vue3"
   ],
   "visibility": "public",
-  "forks": 3400,
+  "forks": 3402,
   "open_issues": 1072,
-  "watchers": 37522,
+  "watchers": 37524,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2215
+  "_index": 2216
 }

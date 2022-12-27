@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/thoughtbot/fishery/releases{/id}",
   "deployments_url": "https://api.github.com/repos/thoughtbot/fishery/deployments",
   "created_at": "2019-01-11T19:42:26Z",
-  "updated_at": "2022-12-24T00:09:31Z",
+  "updated_at": "2022-12-26T21:30:35Z",
   "pushed_at": "2022-12-04T19:35:54Z",
   "git_url": "git://github.com/thoughtbot/fishery.git",
   "ssh_url": "git@github.com:thoughtbot/fishery.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/thoughtbot/fishery",
   "homepage": null,
   "size": 423,
-  "stargazers_count": 632,
-  "watchers_count": 632,
+  "stargazers_count": 633,
+  "watchers_count": 633,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 31,
   "open_issues": 19,
-  "watchers": 632,
+  "watchers": 633,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 846
+  "_index": 847
 }
