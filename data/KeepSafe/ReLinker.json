@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/KeepSafe/ReLinker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/KeepSafe/ReLinker/deployments",
   "created_at": "2015-10-15T18:23:00Z",
-  "updated_at": "2022-12-25T12:00:02Z",
+  "updated_at": "2022-12-27T06:02:37Z",
   "pushed_at": "2022-10-26T10:31:55Z",
   "git_url": "git://github.com/KeepSafe/ReLinker.git",
   "ssh_url": "git@github.com:KeepSafe/ReLinker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/KeepSafe/ReLinker",
   "homepage": "",
   "size": 335,
-  "stargazers_count": 2893,
-  "watchers_count": 2893,
+  "stargazers_count": 2895,
+  "watchers_count": 2895,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 354,
+  "forks_count": 355,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 21,
+  "open_issues_count": 22,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -105,9 +105,9 @@
     "ndk"
   ],
   "visibility": "public",
-  "forks": 354,
-  "open_issues": 21,
-  "watchers": 2893,
+  "forks": 355,
+  "open_issues": 22,
+  "watchers": 2895,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1386
+  "_index": 1387
 }

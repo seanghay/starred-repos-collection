@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/gorse-io/gorse/deployments",
   "created_at": "2018-08-14T11:01:09Z",
   "updated_at": "2022-12-26T21:03:05Z",
-  "pushed_at": "2022-12-16T15:18:49Z",
+  "pushed_at": "2022-12-27T04:55:43Z",
   "git_url": "git://github.com/gorse-io/gorse.git",
   "ssh_url": "git@github.com:gorse-io/gorse.git",
   "clone_url": "https://github.com/gorse-io/gorse.git",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 526
+  "_index": 527
 }

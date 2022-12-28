@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/emscripten-core/emscripten/releases{/id}",
   "deployments_url": "https://api.github.com/repos/emscripten-core/emscripten/deployments",
   "created_at": "2011-02-12T05:23:30Z",
-  "updated_at": "2022-12-26T20:24:19Z",
+  "updated_at": "2022-12-27T18:59:37Z",
   "pushed_at": "2022-12-26T19:38:08Z",
   "git_url": "git://github.com/emscripten-core/emscripten.git",
   "ssh_url": "git@github.com:emscripten-core/emscripten.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/emscripten-core/emscripten",
   "homepage": "",
   "size": 261629,
-  "stargazers_count": 23102,
-  "watchers_count": 23102,
+  "stargazers_count": 23108,
+  "watchers_count": 23108,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 2971,
   "open_issues": 1391,
-  "watchers": 23102,
+  "watchers": 23108,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1103
+  "_index": 1104
 }

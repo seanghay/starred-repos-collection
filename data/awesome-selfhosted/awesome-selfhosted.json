@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/awesome-selfhosted/awesome-selfhosted/releases{/id}",
   "deployments_url": "https://api.github.com/repos/awesome-selfhosted/awesome-selfhosted/deployments",
   "created_at": "2015-06-01T02:33:17Z",
-  "updated_at": "2022-12-27T01:37:31Z",
+  "updated_at": "2022-12-28T01:50:12Z",
   "pushed_at": "2022-12-26T13:38:23Z",
   "git_url": "git://github.com/awesome-selfhosted/awesome-selfhosted.git",
   "ssh_url": "git@github.com:awesome-selfhosted/awesome-selfhosted.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
   "homepage": "https://reddit.com/r/selfhosted",
   "size": 14918,
-  "stargazers_count": 113041,
-  "watchers_count": 113041,
+  "stargazers_count": 113142,
+  "watchers_count": 113142,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 6766,
   "open_issues": 86,
-  "watchers": 113041,
+  "watchers": 113142,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 826
+  "_index": 827
 }

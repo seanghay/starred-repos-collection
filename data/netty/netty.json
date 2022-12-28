@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/netty/netty/releases{/id}",
   "deployments_url": "https://api.github.com/repos/netty/netty/deployments",
   "created_at": "2010-11-09T09:22:21Z",
-  "updated_at": "2022-12-27T01:07:05Z",
+  "updated_at": "2022-12-27T16:56:26Z",
   "pushed_at": "2022-12-26T22:47:49Z",
   "git_url": "git://github.com/netty/netty.git",
   "ssh_url": "git@github.com:netty/netty.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/netty/netty",
   "homepage": "http://netty.io",
   "size": 86139,
-  "stargazers_count": 30459,
-  "watchers_count": 30459,
+  "stargazers_count": 30465,
+  "watchers_count": 30465,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 15029,
+  "forks_count": 15030,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 545,
+  "open_issues_count": 547,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 15029,
-  "open_issues": 545,
-  "watchers": 30459,
+  "forks": 15030,
+  "open_issues": 547,
+  "watchers": 30465,
   "default_branch": "4.1",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2163
+  "_index": 2164
 }

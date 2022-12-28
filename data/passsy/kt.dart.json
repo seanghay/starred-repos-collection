@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/passsy/kt.dart/releases{/id}",
   "deployments_url": "https://api.github.com/repos/passsy/kt.dart/deployments",
   "created_at": "2018-11-28T14:32:15Z",
-  "updated_at": "2022-12-20T14:38:18Z",
+  "updated_at": "2022-12-27T06:47:45Z",
   "pushed_at": "2022-10-05T20:22:02Z",
   "git_url": "git://github.com/passsy/kt.dart.git",
   "ssh_url": "git@github.com:passsy/kt.dart.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/passsy/kt.dart",
   "homepage": "",
   "size": 1173,
-  "stargazers_count": 458,
-  "watchers_count": 458,
+  "stargazers_count": 459,
+  "watchers_count": 459,
   "language": "Dart",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 28,
   "open_issues": 7,
-  "watchers": 458,
+  "watchers": 459,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1370
+  "_index": 1371
 }

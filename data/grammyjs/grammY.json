@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/grammyjs/grammY/releases{/id}",
   "deployments_url": "https://api.github.com/repos/grammyjs/grammY/deployments",
   "created_at": "2021-03-26T22:33:57Z",
-  "updated_at": "2022-12-26T17:45:38Z",
-  "pushed_at": "2022-12-27T00:54:28Z",
+  "updated_at": "2022-12-27T15:01:54Z",
+  "pushed_at": "2022-12-27T23:17:59Z",
   "git_url": "git://github.com/grammyjs/grammY.git",
   "ssh_url": "git@github.com:grammyjs/grammY.git",
   "clone_url": "https://github.com/grammyjs/grammY.git",
   "svn_url": "https://github.com/grammyjs/grammY",
   "homepage": "https://grammy.dev",
-  "size": 827,
-  "stargazers_count": 786,
-  "watchers_count": 786,
+  "size": 823,
+  "stargazers_count": 789,
+  "watchers_count": 789,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 23,
+  "open_issues_count": 21,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,8 +109,8 @@
   ],
   "visibility": "public",
   "forks": 65,
-  "open_issues": 23,
-  "watchers": 786,
+  "open_issues": 21,
+  "watchers": 789,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 524
+  "_index": 525
 }

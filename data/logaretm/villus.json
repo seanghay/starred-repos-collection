@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/logaretm/villus/releases{/id}",
   "deployments_url": "https://api.github.com/repos/logaretm/villus/deployments",
   "created_at": "2019-12-22T20:52:31Z",
-  "updated_at": "2022-12-27T02:02:44Z",
+  "updated_at": "2022-12-27T17:24:15Z",
   "pushed_at": "2022-11-13T14:17:58Z",
   "git_url": "git://github.com/logaretm/villus.git",
   "ssh_url": "git@github.com:logaretm/villus.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/logaretm/villus",
   "homepage": "https://villus.logaretm.com/",
   "size": 4160,
-  "stargazers_count": 625,
-  "watchers_count": 625,
+  "stargazers_count": 628,
+  "watchers_count": 628,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 26,
   "open_issues": 14,
-  "watchers": 625,
+  "watchers": 628,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1616
+  "_index": 1617
 }
