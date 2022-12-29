@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/LittleMango/StackLayoutManager/releases{/id}",
   "deployments_url": "https://api.github.com/repos/LittleMango/StackLayoutManager/deployments",
   "created_at": "2018-07-03T08:06:21Z",
-  "updated_at": "2022-12-22T08:38:37Z",
+  "updated_at": "2022-12-28T10:02:29Z",
   "pushed_at": "2021-08-31T15:01:21Z",
   "git_url": "git://github.com/LittleMango/StackLayoutManager.git",
   "ssh_url": "git@github.com:LittleMango/StackLayoutManager.git",

@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/isomorphic-git/isomorphic-git/deployments",
   "created_at": "2017-07-30T02:26:00Z",
   "updated_at": "2022-12-27T11:28:48Z",
-  "pushed_at": "2022-12-26T19:06:09Z",
+  "pushed_at": "2022-12-28T23:27:00Z",
   "git_url": "git://github.com/isomorphic-git/isomorphic-git.git",
   "ssh_url": "git@github.com:isomorphic-git/isomorphic-git.git",
   "clone_url": "https://github.com/isomorphic-git/isomorphic-git.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 247,
+  "open_issues_count": 248,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,7 +108,7 @@
   ],
   "visibility": "public",
   "forks": 311,
-  "open_issues": 247,
+  "open_issues": 248,
   "watchers": 6648,
   "default_branch": "main",
   "permissions": {
