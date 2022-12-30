@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/thumbor/thumbor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/thumbor/thumbor/deployments",
   "created_at": "2011-03-16T17:30:05Z",
-  "updated_at": "2022-12-28T17:39:25Z",
-  "pushed_at": "2022-12-27T19:57:03Z",
+  "updated_at": "2022-12-29T11:07:12Z",
+  "pushed_at": "2022-12-29T22:24:49Z",
   "git_url": "git://github.com/thumbor/thumbor.git",
   "ssh_url": "git@github.com:thumbor/thumbor.git",
   "clone_url": "https://github.com/thumbor/thumbor.git",
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1884
+  "_index": 1888
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/surrealdb/surrealdb/releases{/id}",
   "deployments_url": "https://api.github.com/repos/surrealdb/surrealdb/deployments",
   "created_at": "2021-12-09T15:03:29Z",
-  "updated_at": "2022-12-29T02:01:29Z",
-  "pushed_at": "2022-12-29T00:43:18Z",
+  "updated_at": "2022-12-30T01:25:07Z",
+  "pushed_at": "2022-12-30T01:11:38Z",
   "git_url": "git://github.com/surrealdb/surrealdb.git",
   "ssh_url": "git@github.com:surrealdb/surrealdb.git",
   "clone_url": "https://github.com/surrealdb/surrealdb.git",
   "svn_url": "https://github.com/surrealdb/surrealdb",
   "homepage": "https://surrealdb.com",
-  "size": 11815,
-  "stargazers_count": 16640,
-  "watchers_count": 16640,
+  "size": 11798,
+  "stargazers_count": 16664,
+  "watchers_count": 16664,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 167,
+  "open_issues_count": 165,
   "license": {
     "key": "other",
     "name": "Other",
@@ -121,8 +121,8 @@
   ],
   "visibility": "public",
   "forks": 394,
-  "open_issues": 167,
-  "watchers": 16640,
+  "open_issues": 165,
+  "watchers": 16664,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 155
+  "_index": 159
 }

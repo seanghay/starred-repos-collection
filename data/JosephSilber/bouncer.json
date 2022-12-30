@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/JosephSilber/bouncer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JosephSilber/bouncer/deployments",
   "created_at": "2015-09-17T00:34:40Z",
-  "updated_at": "2022-12-28T23:52:59Z",
+  "updated_at": "2022-12-29T08:22:08Z",
   "pushed_at": "2022-10-31T21:06:25Z",
   "git_url": "git://github.com/JosephSilber/bouncer.git",
   "ssh_url": "git@github.com:JosephSilber/bouncer.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 30,
+  "open_issues_count": 31,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,7 +112,7 @@
   ],
   "visibility": "public",
   "forks": 312,
-  "open_issues": 30,
+  "open_issues": 31,
   "watchers": 3169,
   "default_branch": "master",
   "permissions": {
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 436
+  "_index": 440
 }

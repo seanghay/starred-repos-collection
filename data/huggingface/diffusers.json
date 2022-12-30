@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/huggingface/diffusers/releases{/id}",
   "deployments_url": "https://api.github.com/repos/huggingface/diffusers/deployments",
   "created_at": "2022-05-30T16:04:02Z",
-  "updated_at": "2022-12-29T00:58:50Z",
-  "pushed_at": "2022-12-28T19:54:14Z",
+  "updated_at": "2022-12-30T01:33:47Z",
+  "pushed_at": "2022-12-29T20:37:33Z",
   "git_url": "git://github.com/huggingface/diffusers.git",
   "ssh_url": "git@github.com:huggingface/diffusers.git",
   "clone_url": "https://github.com/huggingface/diffusers.git",
   "svn_url": "https://github.com/huggingface/diffusers",
   "homepage": "https://huggingface.co/docs/diffusers",
-  "size": 11227,
-  "stargazers_count": 9089,
-  "watchers_count": 9089,
+  "size": 11536,
+  "stargazers_count": 9117,
+  "watchers_count": 9117,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1603,
+  "forks_count": 1605,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 302,
+  "open_issues_count": 305,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -109,9 +109,9 @@
     "text2image"
   ],
   "visibility": "public",
-  "forks": 1603,
-  "open_issues": 302,
-  "watchers": 9089,
+  "forks": 1605,
+  "open_issues": 305,
+  "watchers": 9117,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 23
+  "_index": 27
 }

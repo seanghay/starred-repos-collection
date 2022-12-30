@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bookkojot/mp4fixer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bookkojot/mp4fixer/deployments",
   "created_at": "2017-10-12T18:44:15Z",
-  "updated_at": "2022-12-17T09:37:48Z",
+  "updated_at": "2022-12-29T10:25:57Z",
   "pushed_at": "2022-11-16T20:50:29Z",
   "git_url": "git://github.com/bookkojot/mp4fixer.git",
   "ssh_url": "git@github.com:bookkojot/mp4fixer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/bookkojot/mp4fixer",
   "homepage": null,
   "size": 62,
-  "stargazers_count": 280,
-  "watchers_count": 280,
+  "stargazers_count": 281,
+  "watchers_count": 281,
   "language": "Perl",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 59,
   "open_issues": 11,
-  "watchers": 280,
+  "watchers": 281,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1267
+  "_index": 1271
 }

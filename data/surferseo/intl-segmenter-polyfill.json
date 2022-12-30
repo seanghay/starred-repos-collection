@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/surferseo/intl-segmenter-polyfill/releases{/id}",
   "deployments_url": "https://api.github.com/repos/surferseo/intl-segmenter-polyfill/deployments",
   "created_at": "2020-06-03T14:34:40Z",
-  "updated_at": "2022-12-02T05:35:50Z",
+  "updated_at": "2022-12-29T18:12:26Z",
   "pushed_at": "2022-12-11T10:03:55Z",
   "git_url": "git://github.com/surferseo/intl-segmenter-polyfill.git",
   "ssh_url": "git@github.com:surferseo/intl-segmenter-polyfill.git",
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 756
+  "_index": 760
 }

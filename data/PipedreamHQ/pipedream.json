@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/PipedreamHQ/pipedream/releases{/id}",
   "deployments_url": "https://api.github.com/repos/PipedreamHQ/pipedream/deployments",
   "created_at": "2020-01-22T00:28:31Z",
-  "updated_at": "2022-12-29T01:33:38Z",
-  "pushed_at": "2022-12-28T22:33:05Z",
+  "updated_at": "2022-12-29T23:39:12Z",
+  "pushed_at": "2022-12-30T00:13:35Z",
   "git_url": "git://github.com/PipedreamHQ/pipedream.git",
   "ssh_url": "git@github.com:PipedreamHQ/pipedream.git",
   "clone_url": "https://github.com/PipedreamHQ/pipedream.git",
   "svn_url": "https://github.com/PipedreamHQ/pipedream",
   "homepage": "https://pipedream.com",
-  "size": 165906,
-  "stargazers_count": 5169,
-  "watchers_count": 5169,
+  "size": 166487,
+  "stargazers_count": 5178,
+  "watchers_count": 5178,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3752,
+  "forks_count": 3758,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 847,
+  "open_issues_count": 841,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -119,9 +119,9 @@
     "workflows"
   ],
   "visibility": "public",
-  "forks": 3752,
-  "open_issues": 847,
-  "watchers": 5169,
+  "forks": 3758,
+  "open_issues": 841,
+  "watchers": 5178,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 178
+  "_index": 182
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/vinaygaba/Learn-Jetpack-Compose-By-Example/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vinaygaba/Learn-Jetpack-Compose-By-Example/deployments",
   "created_at": "2019-12-02T04:49:10Z",
-  "updated_at": "2022-12-28T14:57:35Z",
+  "updated_at": "2022-12-29T09:12:09Z",
   "pushed_at": "2022-12-11T21:04:48Z",
   "git_url": "git://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example.git",
   "ssh_url": "git@github.com:vinaygaba/Learn-Jetpack-Compose-By-Example.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example",
   "homepage": "https://jetpackcompose.app/",
   "size": 91420,
-  "stargazers_count": 2634,
-  "watchers_count": 2634,
+  "stargazers_count": 2637,
+  "watchers_count": 2637,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 286,
   "open_issues": 12,
-  "watchers": 2634,
+  "watchers": 2637,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1373
+  "_index": 1377
 }

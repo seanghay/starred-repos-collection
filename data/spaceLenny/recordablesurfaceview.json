@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/spaceLenny/recordablesurfaceview/deployments",
   "created_at": "2017-12-15T20:22:20Z",
   "updated_at": "2022-12-28T19:01:39Z",
-  "pushed_at": "2022-12-28T19:01:35Z",
+  "pushed_at": "2022-12-29T15:52:40Z",
   "git_url": "git://github.com/spaceLenny/recordablesurfaceview.git",
   "ssh_url": "git@github.com:spaceLenny/recordablesurfaceview.git",
   "clone_url": "https://github.com/spaceLenny/recordablesurfaceview.git",
   "svn_url": "https://github.com/spaceLenny/recordablesurfaceview",
   "homepage": null,
-  "size": 133,
+  "size": 135,
   "stargazers_count": 144,
   "watchers_count": 144,
   "language": "Java",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 6,
+  "open_issues_count": 3,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 31,
-  "open_issues": 6,
+  "open_issues": 3,
   "watchers": 144,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1545
+  "_index": 1549
 }

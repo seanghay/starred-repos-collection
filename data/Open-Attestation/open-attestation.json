@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Open-Attestation/open-attestation/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Open-Attestation/open-attestation/deployments",
   "created_at": "2018-07-31T03:50:18Z",
-  "updated_at": "2022-11-15T07:44:18Z",
+  "updated_at": "2022-12-29T05:21:50Z",
   "pushed_at": "2022-12-07T22:54:31Z",
   "git_url": "git://github.com/Open-Attestation/open-attestation.git",
   "ssh_url": "git@github.com:Open-Attestation/open-attestation.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Open-Attestation/open-attestation",
   "homepage": "https://openattestation.com",
   "size": 2665,
-  "stargazers_count": 38,
-  "watchers_count": 38,
+  "stargazers_count": 39,
+  "watchers_count": 39,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 18,
   "open_issues": 42,
-  "watchers": 38,
+  "watchers": 39,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 236
+  "_index": 240
 }
