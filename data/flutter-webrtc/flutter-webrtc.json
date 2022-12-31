@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 893,
+  "forks_count": 894,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 328,
+  "open_issues_count": 327,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,8 +109,8 @@
     "webrtc-plugin"
   ],
   "visibility": "public",
-  "forks": 893,
-  "open_issues": 328,
+  "forks": 894,
+  "open_issues": 327,
   "watchers": 3369,
   "default_branch": "main",
   "permissions": {

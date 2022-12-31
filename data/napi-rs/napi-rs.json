@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 130,
+  "forks_count": 129,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,7 +108,7 @@
     "rust"
   ],
   "visibility": "public",
-  "forks": 130,
+  "forks": 129,
   "open_issues": 103,
   "watchers": 3119,
   "default_branch": "main",

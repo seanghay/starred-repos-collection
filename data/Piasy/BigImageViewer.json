@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Piasy/BigImageViewer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Piasy/BigImageViewer/deployments",
   "created_at": "2016-11-06T09:55:02Z",
-  "updated_at": "2022-12-29T03:53:05Z",
+  "updated_at": "2022-12-30T17:32:17Z",
   "pushed_at": "2022-12-12T00:31:21Z",
   "git_url": "git://github.com/Piasy/BigImageViewer.git",
   "ssh_url": "git@github.com:Piasy/BigImageViewer.git",

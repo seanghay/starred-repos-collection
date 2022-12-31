@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/greenrobot/EventBus/releases{/id}",
   "deployments_url": "https://api.github.com/repos/greenrobot/EventBus/deployments",
   "created_at": "2012-07-16T16:55:40Z",
-  "updated_at": "2022-12-29T12:09:34Z",
+  "updated_at": "2022-12-30T08:08:54Z",
   "pushed_at": "2022-12-08T23:57:47Z",
   "git_url": "git://github.com/greenrobot/EventBus.git",
   "ssh_url": "git@github.com:greenrobot/EventBus.git",
