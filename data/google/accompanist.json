@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 459,
+  "forks_count": 460,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 63,
+  "open_issues_count": 64,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -102,8 +102,8 @@
     "jetpack-compose"
   ],
   "visibility": "public",
-  "forks": 459,
-  "open_issues": 63,
+  "forks": 460,
+  "open_issues": 64,
   "watchers": 5913,
   "default_branch": "main",
   "permissions": {

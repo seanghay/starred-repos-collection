@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1010,
+  "forks_count": 1011,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,7 +106,7 @@
     "wasm"
   ],
   "visibility": "public",
-  "forks": 1010,
+  "forks": 1011,
   "open_issues": 117,
   "watchers": 11008,
   "default_branch": "master",
