@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/HumbleUI/JWM/deployments",
   "created_at": "2021-05-04T08:58:32Z",
   "updated_at": "2022-12-27T22:00:06Z",
-  "pushed_at": "2022-12-24T12:17:57Z",
+  "pushed_at": "2023-01-01T03:10:17Z",
   "git_url": "git://github.com/HumbleUI/JWM.git",
   "ssh_url": "git@github.com:HumbleUI/JWM.git",
   "clone_url": "https://github.com/HumbleUI/JWM.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 44,
+  "open_issues_count": 45,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -103,7 +103,7 @@
   ],
   "visibility": "public",
   "forks": 36,
-  "open_issues": 44,
+  "open_issues": 45,
   "watchers": 392,
   "default_branch": "main",
   "permissions": {

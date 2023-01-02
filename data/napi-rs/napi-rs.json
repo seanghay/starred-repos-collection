@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 103,
+  "open_issues_count": 104,
   "license": {
     "key": "other",
     "name": "Other",
@@ -109,7 +109,7 @@
   ],
   "visibility": "public",
   "forks": 129,
-  "open_issues": 103,
+  "open_issues": 104,
   "watchers": 3122,
   "default_branch": "main",
   "permissions": {
