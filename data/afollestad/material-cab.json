@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/afollestad/material-cab/releases{/id}",
   "deployments_url": "https://api.github.com/repos/afollestad/material-cab/deployments",
   "created_at": "2015-05-04T19:57:22Z",
-  "updated_at": "2022-12-29T12:09:34Z",
+  "updated_at": "2023-01-02T17:43:56Z",
   "pushed_at": "2021-02-21T05:11:57Z",
   "git_url": "git://github.com/afollestad/material-cab.git",
   "ssh_url": "git@github.com:afollestad/material-cab.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/afollestad/material-cab",
   "homepage": "https://af.codes",
   "size": 5063,
-  "stargazers_count": 991,
-  "watchers_count": 991,
+  "stargazers_count": 990,
+  "watchers_count": 990,
   "language": "Kotlin",
   "has_issues": false,
   "has_projects": false,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 104,
   "open_issues": 5,
-  "watchers": 991,
+  "watchers": 990,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1378
+  "_index": 1379
 }

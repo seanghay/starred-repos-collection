@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/llvm/llvm-project/releases{/id}",
   "deployments_url": "https://api.github.com/repos/llvm/llvm-project/deployments",
   "created_at": "2016-12-07T09:39:33Z",
-  "updated_at": "2023-01-01T20:28:54Z",
-  "pushed_at": "2023-01-01T23:35:24Z",
+  "updated_at": "2023-01-03T01:17:23Z",
+  "pushed_at": "2023-01-03T01:51:36Z",
   "git_url": "git://github.com/llvm/llvm-project.git",
   "ssh_url": "git@github.com:llvm/llvm-project.git",
   "clone_url": "https://github.com/llvm/llvm-project.git",
   "svn_url": "https://github.com/llvm/llvm-project",
   "homepage": "http://llvm.org",
-  "size": 2320413,
-  "stargazers_count": 17442,
-  "watchers_count": 17442,
+  "size": 2320975,
+  "stargazers_count": 17452,
+  "watchers_count": 17452,
   "language": null,
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 19648,
+  "open_issues_count": 19658,
   "license": {
     "key": "other",
     "name": "Other",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 6575,
-  "open_issues": 19648,
-  "watchers": 17442,
+  "open_issues": 19658,
+  "watchers": 17452,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 586
+  "_index": 587
 }

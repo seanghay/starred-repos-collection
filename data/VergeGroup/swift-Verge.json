@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/VergeGroup/swift-Verge/deployments",
   "created_at": "2017-10-17T20:15:00Z",
   "updated_at": "2022-12-29T10:30:06Z",
-  "pushed_at": "2022-12-31T08:38:51Z",
+  "pushed_at": "2023-01-02T16:59:08Z",
   "git_url": "git://github.com/VergeGroup/swift-Verge.git",
   "ssh_url": "git@github.com:VergeGroup/swift-Verge.git",
   "clone_url": "https://github.com/VergeGroup/swift-Verge.git",
   "svn_url": "https://github.com/VergeGroup/swift-Verge",
   "homepage": "https://vergegroup.github.io/swift-Verge/Verge/documentation/verge/",
-  "size": 26714,
+  "size": 27457,
   "stargazers_count": 478,
   "watchers_count": 478,
   "language": "Swift",
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 911
+  "_index": 912
 }

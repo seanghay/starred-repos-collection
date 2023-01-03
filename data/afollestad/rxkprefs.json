@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/afollestad/rxkprefs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/afollestad/rxkprefs/deployments",
   "created_at": "2018-09-02T20:22:17Z",
-  "updated_at": "2022-12-31T10:34:01Z",
+  "updated_at": "2023-01-02T17:41:38Z",
   "pushed_at": "2021-02-21T05:05:49Z",
   "git_url": "git://github.com/afollestad/rxkprefs.git",
   "ssh_url": "git@github.com:afollestad/rxkprefs.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/afollestad/rxkprefs",
   "homepage": "https://af.codes",
   "size": 224,
-  "stargazers_count": 282,
-  "watchers_count": 282,
+  "stargazers_count": 281,
+  "watchers_count": 281,
   "language": "Kotlin",
   "has_issues": false,
   "has_projects": false,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 18,
   "open_issues": 3,
-  "watchers": 282,
+  "watchers": 281,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2237
+  "_index": 2238
 }

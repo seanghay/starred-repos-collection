@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jwagner/dont-crop/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jwagner/dont-crop/deployments",
   "created_at": "2021-06-02T22:44:51Z",
-  "updated_at": "2022-12-20T21:29:26Z",
+  "updated_at": "2023-01-02T21:12:13Z",
   "pushed_at": "2021-09-19T13:10:48Z",
   "git_url": "git://github.com/jwagner/dont-crop.git",
   "ssh_url": "git@github.com:jwagner/dont-crop.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jwagner/dont-crop",
   "homepage": "https://29a.ch/sandbox/2021/dont-crop/",
   "size": 1348,
-  "stargazers_count": 88,
-  "watchers_count": 88,
+  "stargazers_count": 89,
+  "watchers_count": 89,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 2,
   "open_issues": 0,
-  "watchers": 88,
+  "watchers": 89,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 457
+  "_index": 458
 }

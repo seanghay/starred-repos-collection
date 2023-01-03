@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/PatrickJS/awesome-angular/releases{/id}",
   "deployments_url": "https://api.github.com/repos/PatrickJS/awesome-angular/deployments",
   "created_at": "2015-09-01T05:12:10Z",
-  "updated_at": "2022-12-30T20:34:20Z",
+  "updated_at": "2023-01-02T19:03:29Z",
   "pushed_at": "2022-12-13T10:03:42Z",
   "git_url": "git://github.com/PatrickJS/awesome-angular.git",
   "ssh_url": "git@github.com:PatrickJS/awesome-angular.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/PatrickJS/awesome-angular",
   "homepage": "https://patrickjs.github.io/awesome-angular/",
   "size": 871,
-  "stargazers_count": 8637,
-  "watchers_count": 8637,
+  "stargazers_count": 8638,
+  "watchers_count": 8638,
   "language": "HTML",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1281,
+  "forks_count": 1282,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,9 +109,9 @@
     "awesome-list"
   ],
   "visibility": "public",
-  "forks": 1281,
+  "forks": 1282,
   "open_issues": 9,
-  "watchers": 8637,
+  "watchers": 8638,
   "default_branch": "gh-pages",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2341
+  "_index": 2342
 }

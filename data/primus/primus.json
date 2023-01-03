@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/primus/primus/deployments",
   "created_at": "2013-06-25T08:17:42Z",
   "updated_at": "2022-12-24T19:43:15Z",
-  "pushed_at": "2022-12-24T19:15:34Z",
+  "pushed_at": "2023-01-02T20:37:09Z",
   "git_url": "git://github.com/primus/primus.git",
   "ssh_url": "git@github.com:primus/primus.git",
   "clone_url": "https://github.com/primus/primus.git",
   "svn_url": "https://github.com/primus/primus",
   "homepage": "",
-  "size": 2940,
+  "size": 2942,
   "stargazers_count": 4380,
   "watchers_count": 4380,
   "language": "JavaScript",
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 929
+  "_index": 930
 }

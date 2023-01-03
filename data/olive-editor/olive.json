@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/olive-editor/olive/releases{/id}",
   "deployments_url": "https://api.github.com/repos/olive-editor/olive/deployments",
   "created_at": "2017-12-25T14:12:29Z",
-  "updated_at": "2023-01-02T01:31:57Z",
+  "updated_at": "2023-01-02T23:00:33Z",
   "pushed_at": "2022-12-15T21:13:17Z",
   "git_url": "git://github.com/olive-editor/olive.git",
   "ssh_url": "git@github.com:olive-editor/olive.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/olive-editor/olive",
   "homepage": "https://olivevideoeditor.org/",
   "size": 29524,
-  "stargazers_count": 6667,
-  "watchers_count": 6667,
+  "stargazers_count": 6669,
+  "watchers_count": 6669,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 78,
+  "open_issues_count": 79,
   "license": {
     "key": "other",
     "name": "Other",
@@ -112,8 +112,8 @@
   ],
   "visibility": "public",
   "forks": 476,
-  "open_issues": 78,
-  "watchers": 6667,
+  "open_issues": 79,
+  "watchers": 6669,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 854
+  "_index": 855
 }

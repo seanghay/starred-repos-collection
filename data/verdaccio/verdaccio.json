@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/verdaccio/verdaccio/releases{/id}",
   "deployments_url": "https://api.github.com/repos/verdaccio/verdaccio/deployments",
   "created_at": "2016-04-15T16:21:12Z",
-  "updated_at": "2022-12-31T13:30:04Z",
-  "pushed_at": "2023-01-02T01:42:59Z",
+  "updated_at": "2023-01-03T01:08:32Z",
+  "pushed_at": "2023-01-02T23:57:01Z",
   "git_url": "git://github.com/verdaccio/verdaccio.git",
   "ssh_url": "git@github.com:verdaccio/verdaccio.git",
   "clone_url": "https://github.com/verdaccio/verdaccio.git",
   "svn_url": "https://github.com/verdaccio/verdaccio",
   "homepage": "https://www.verdaccio.org/",
-  "size": 280041,
-  "stargazers_count": 14273,
-  "watchers_count": 14273,
+  "size": 279392,
+  "stargazers_count": 14274,
+  "watchers_count": 14274,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1268,
+  "forks_count": 1269,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 61,
+  "open_issues_count": 60,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -118,9 +118,9 @@
     "yarnpkg"
   ],
   "visibility": "public",
-  "forks": 1268,
-  "open_issues": 61,
-  "watchers": 14273,
+  "forks": 1269,
+  "open_issues": 60,
+  "watchers": 14274,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 243
+  "_index": 244
 }

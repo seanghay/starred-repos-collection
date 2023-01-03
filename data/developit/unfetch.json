@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/developit/unfetch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/developit/unfetch/deployments",
   "created_at": "2017-02-22T05:59:42Z",
-  "updated_at": "2023-01-01T16:56:46Z",
+  "updated_at": "2023-01-02T22:45:34Z",
   "pushed_at": "2023-01-01T17:26:31Z",
   "git_url": "git://github.com/developit/unfetch.git",
   "ssh_url": "git@github.com:developit/unfetch.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/developit/unfetch",
   "homepage": "https://npm.im/unfetch",
   "size": 512,
-  "stargazers_count": 5427,
-  "watchers_count": 5427,
+  "stargazers_count": 5432,
+  "watchers_count": 5432,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 213,
   "open_issues": 18,
-  "watchers": 5427,
+  "watchers": 5432,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1312
+  "_index": 1313
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/DapperLib/Dapper/releases{/id}",
   "deployments_url": "https://api.github.com/repos/DapperLib/Dapper/deployments",
   "created_at": "2011-04-14T08:42:59Z",
-  "updated_at": "2023-01-01T18:51:52Z",
+  "updated_at": "2023-01-02T12:11:45Z",
   "pushed_at": "2022-12-27T23:29:28Z",
   "git_url": "git://github.com/DapperLib/Dapper.git",
   "ssh_url": "git@github.com:DapperLib/Dapper.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/DapperLib/Dapper",
   "homepage": "",
   "size": 49546,
-  "stargazers_count": 15647,
-  "watchers_count": 15647,
+  "stargazers_count": 15648,
+  "watchers_count": 15648,
   "language": "C#",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 3577,
   "open_issues": 400,
-  "watchers": 15647,
+  "watchers": 15648,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1417
+  "_index": 1418
 }
