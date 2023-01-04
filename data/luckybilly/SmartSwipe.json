@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/luckybilly/SmartSwipe/releases{/id}",
   "deployments_url": "https://api.github.com/repos/luckybilly/SmartSwipe/deployments",
   "created_at": "2019-07-12T11:15:16Z",
-  "updated_at": "2022-12-31T10:53:56Z",
+  "updated_at": "2023-01-03T06:29:45Z",
   "pushed_at": "2020-01-04T05:40:54Z",
   "git_url": "git://github.com/luckybilly/SmartSwipe.git",
   "ssh_url": "git@github.com:luckybilly/SmartSwipe.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/luckybilly/SmartSwipe",
   "homepage": "https://juejin.im/post/5d3fdc3af265da03c02bdbde",
   "size": 18486,
-  "stargazers_count": 2006,
-  "watchers_count": 2006,
+  "stargazers_count": 2007,
+  "watchers_count": 2007,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 255,
   "open_issues": 32,
-  "watchers": 2006,
+  "watchers": 2007,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1433
+  "_index": 1438
 }

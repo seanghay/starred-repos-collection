@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/JakeWharton/adb-event-mirror/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JakeWharton/adb-event-mirror/deployments",
   "created_at": "2020-07-10T23:56:45Z",
-  "updated_at": "2022-11-26T17:21:24Z",
+  "updated_at": "2023-01-03T07:47:25Z",
   "pushed_at": "2022-04-06T00:05:47Z",
   "git_url": "git://github.com/JakeWharton/adb-event-mirror.git",
   "ssh_url": "git@github.com:JakeWharton/adb-event-mirror.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/JakeWharton/adb-event-mirror",
   "homepage": null,
   "size": 3590,
-  "stargazers_count": 872,
-  "watchers_count": 872,
+  "stargazers_count": 871,
+  "watchers_count": 871,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 43,
   "open_issues": 6,
-  "watchers": 872,
+  "watchers": 871,
   "default_branch": "trunk",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1203
+  "_index": 1208
 }

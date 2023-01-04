@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/JetBrains/skija/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JetBrains/skija/deployments",
   "created_at": "2020-04-06T17:25:23Z",
-  "updated_at": "2023-01-03T00:29:59Z",
+  "updated_at": "2023-01-04T00:51:19Z",
   "pushed_at": "2022-12-12T13:52:53Z",
   "git_url": "git://github.com/JetBrains/skija.git",
   "ssh_url": "git@github.com:JetBrains/skija.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/JetBrains/skija",
   "homepage": "",
   "size": 37483,
-  "stargazers_count": 2531,
-  "watchers_count": 2531,
+  "stargazers_count": 2533,
+  "watchers_count": 2533,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 118,
   "open_issues": 23,
-  "watchers": 2531,
+  "watchers": 2533,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1095
+  "_index": 1100
 }

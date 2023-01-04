@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 154,
+  "forks_count": 155,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,7 +107,7 @@
     "webusb-api"
   ],
   "visibility": "public",
-  "forks": 154,
+  "forks": 155,
   "open_issues": 27,
   "watchers": 989,
   "default_branch": "main",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1086
+  "_index": 1091
 }

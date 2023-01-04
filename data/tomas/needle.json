@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/tomas/needle/deployments",
   "created_at": "2011-12-11T03:09:37Z",
   "updated_at": "2023-01-02T08:24:25Z",
-  "pushed_at": "2022-11-25T23:11:59Z",
+  "pushed_at": "2023-01-03T14:34:28Z",
   "git_url": "git://github.com/tomas/needle.git",
   "ssh_url": "git@github.com:tomas/needle.git",
   "clone_url": "https://github.com/tomas/needle.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 79,
+  "open_issues_count": 80,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 240,
-  "open_issues": 79,
+  "open_issues": 80,
   "watchers": 1559,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1064
+  "_index": 1069
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/burhanrashid52/PhotoEditor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/burhanrashid52/PhotoEditor/deployments",
   "created_at": "2018-01-23T11:44:10Z",
-  "updated_at": "2023-01-01T20:59:23Z",
+  "updated_at": "2023-01-03T14:36:44Z",
   "pushed_at": "2022-12-02T07:21:09Z",
   "git_url": "git://github.com/burhanrashid52/PhotoEditor.git",
   "ssh_url": "git@github.com:burhanrashid52/PhotoEditor.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/burhanrashid52/PhotoEditor",
   "homepage": "",
   "size": 21635,
-  "stargazers_count": 3556,
-  "watchers_count": 3556,
+  "stargazers_count": 3558,
+  "watchers_count": 3558,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 897,
+  "forks_count": 898,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 62,
+  "open_issues_count": 61,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,9 +112,9 @@
     "text-editor"
   ],
   "visibility": "public",
-  "forks": 897,
-  "open_issues": 62,
-  "watchers": 3556,
+  "forks": 898,
+  "open_issues": 61,
+  "watchers": 3558,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2152
+  "_index": 2157
 }

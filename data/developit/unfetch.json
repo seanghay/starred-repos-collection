@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/developit/unfetch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/developit/unfetch/deployments",
   "created_at": "2017-02-22T05:59:42Z",
-  "updated_at": "2023-01-02T22:45:34Z",
-  "pushed_at": "2023-01-01T17:26:31Z",
+  "updated_at": "2023-01-04T01:01:34Z",
+  "pushed_at": "2023-01-03T02:29:47Z",
   "git_url": "git://github.com/developit/unfetch.git",
   "ssh_url": "git@github.com:developit/unfetch.git",
   "clone_url": "https://github.com/developit/unfetch.git",
   "svn_url": "https://github.com/developit/unfetch",
   "homepage": "https://npm.im/unfetch",
   "size": 512,
-  "stargazers_count": 5432,
-  "watchers_count": 5432,
+  "stargazers_count": 5436,
+  "watchers_count": 5436,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 213,
+  "forks_count": 212,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 18,
+  "open_issues_count": 17,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,9 +107,9 @@
     "xmlhttprequest"
   ],
   "visibility": "public",
-  "forks": 213,
-  "open_issues": 18,
-  "watchers": 5432,
+  "forks": 212,
+  "open_issues": 17,
+  "watchers": 5436,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1313
+  "_index": 1318
 }

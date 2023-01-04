@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/js-temporal/temporal-polyfill/deployments",
   "created_at": "2021-05-06T20:56:01Z",
   "updated_at": "2023-01-02T16:21:09Z",
-  "pushed_at": "2023-01-03T01:00:05Z",
+  "pushed_at": "2023-01-04T01:26:04Z",
   "git_url": "git://github.com/js-temporal/temporal-polyfill.git",
   "ssh_url": "git@github.com:js-temporal/temporal-polyfill.git",
   "clone_url": "https://github.com/js-temporal/temporal-polyfill.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 766
+  "_index": 771
 }
