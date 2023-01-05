@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/google/magritte/deployments",
   "created_at": "2021-02-22T23:50:23Z",
   "updated_at": "2023-01-03T23:33:34Z",
-  "pushed_at": "2023-01-03T14:20:59Z",
+  "pushed_at": "2023-01-04T13:39:30Z",
   "git_url": "git://github.com/google/magritte.git",
   "ssh_url": "git@github.com:google/magritte.git",
   "clone_url": "https://github.com/google/magritte.git",
   "svn_url": "https://github.com/google/magritte",
   "homepage": "",
-  "size": 243,
+  "size": 329,
   "stargazers_count": 369,
   "watchers_count": 369,
   "language": "C++",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 3,
+  "open_issues_count": 2,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -105,7 +105,7 @@
   ],
   "visibility": "public",
   "forks": 12,
-  "open_issues": 3,
+  "open_issues": 2,
   "watchers": 369,
   "default_branch": "main",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 12
+  "_index": 21
 }

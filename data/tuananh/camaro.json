@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tuananh/camaro/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tuananh/camaro/deployments",
   "created_at": "2017-06-01T09:19:01Z",
-  "updated_at": "2022-11-21T07:12:16Z",
+  "updated_at": "2023-01-04T09:32:51Z",
   "pushed_at": "2022-11-03T10:52:32Z",
   "git_url": "git://github.com/tuananh/camaro.git",
   "ssh_url": "git@github.com:tuananh/camaro.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/tuananh/camaro",
   "homepage": null,
   "size": 2604,
-  "stargazers_count": 477,
-  "watchers_count": 477,
+  "stargazers_count": 478,
+  "watchers_count": 478,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 24,
+  "forks_count": 25,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -111,9 +111,9 @@
     "xpath"
   ],
   "visibility": "public",
-  "forks": 24,
+  "forks": 25,
   "open_issues": 7,
-  "watchers": 477,
+  "watchers": 478,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1067
+  "_index": 1076
 }

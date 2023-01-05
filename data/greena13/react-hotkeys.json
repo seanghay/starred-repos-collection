@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/greena13/react-hotkeys.git",
   "svn_url": "https://github.com/greena13/react-hotkeys",
   "homepage": "https://github.com/greena13/react-hotkeys",
-  "size": 4290,
+  "size": 3679,
   "stargazers_count": 2073,
   "watchers_count": 2073,
   "language": "JavaScript",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 13
+  "_index": 22
 }

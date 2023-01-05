@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/TakuSemba/CropMe/releases{/id}",
   "deployments_url": "https://api.github.com/repos/TakuSemba/CropMe/deployments",
   "created_at": "2017-09-11T12:15:56Z",
-  "updated_at": "2022-12-16T03:01:08Z",
+  "updated_at": "2023-01-04T14:52:43Z",
   "pushed_at": "2022-08-12T16:11:05Z",
   "git_url": "git://github.com/TakuSemba/CropMe.git",
   "ssh_url": "git@github.com:TakuSemba/CropMe.git",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2180
+  "_index": 2189
 }

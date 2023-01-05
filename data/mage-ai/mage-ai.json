@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/mage-ai/mage-ai",
-  "description": "🧙 A modern replacement for Airflow.",
+  "description": "🧙 The modern replacement for Airflow.",
   "fork": false,
   "url": "https://api.github.com/repos/mage-ai/mage-ai",
   "forks_url": "https://api.github.com/repos/mage-ai/mage-ai/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/mage-ai/mage-ai/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mage-ai/mage-ai/deployments",
   "created_at": "2022-05-16T22:11:39Z",
-  "updated_at": "2023-01-03T23:29:50Z",
-  "pushed_at": "2023-01-04T02:09:16Z",
+  "updated_at": "2023-01-05T01:48:40Z",
+  "pushed_at": "2023-01-05T00:57:33Z",
   "git_url": "git://github.com/mage-ai/mage-ai.git",
   "ssh_url": "git@github.com:mage-ai/mage-ai.git",
   "clone_url": "https://github.com/mage-ai/mage-ai.git",
   "svn_url": "https://github.com/mage-ai/mage-ai",
   "homepage": "https://www.mage.ai/",
-  "size": 93713,
-  "stargazers_count": 2460,
-  "watchers_count": 2460,
+  "size": 93751,
+  "stargazers_count": 2467,
+  "watchers_count": 2467,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 41,
+  "open_issues_count": 39,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -119,8 +119,8 @@
   ],
   "visibility": "public",
   "forks": 214,
-  "open_issues": 41,
-  "watchers": 2460,
+  "open_issues": 39,
+  "watchers": 2467,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 223
+  "_index": 232
 }

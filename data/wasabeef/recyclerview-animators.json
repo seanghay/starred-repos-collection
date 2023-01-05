@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wasabeef/recyclerview-animators/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wasabeef/recyclerview-animators/deployments",
   "created_at": "2014-12-22T14:07:08Z",
-  "updated_at": "2023-01-03T19:14:07Z",
+  "updated_at": "2023-01-05T01:30:12Z",
   "pushed_at": "2021-02-14T13:34:32Z",
   "git_url": "git://github.com/wasabeef/recyclerview-animators.git",
   "ssh_url": "git@github.com:wasabeef/recyclerview-animators.git",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1910
+  "_index": 1919
 }

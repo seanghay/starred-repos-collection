@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/cashapp/molecule.git",
   "svn_url": "https://github.com/cashapp/molecule",
   "homepage": "https://cashapp.github.io/molecule/docs/0.x/",
-  "size": 1089,
+  "size": 938,
   "stargazers_count": 1259,
   "watchers_count": 1259,
   "language": "Kotlin",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 580
+  "_index": 589
 }

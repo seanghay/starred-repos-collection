@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 335,
+  "forks_count": 334,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -112,7 +112,7 @@
     "zuck"
   ],
   "visibility": "public",
-  "forks": 335,
+  "forks": 334,
   "open_issues": 32,
   "watchers": 3535,
   "default_branch": "master",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1586
+  "_index": 1595
 }

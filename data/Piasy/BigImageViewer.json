@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Piasy/BigImageViewer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Piasy/BigImageViewer/deployments",
   "created_at": "2016-11-06T09:55:02Z",
-  "updated_at": "2023-01-03T08:34:41Z",
+  "updated_at": "2023-01-04T07:48:25Z",
   "pushed_at": "2022-12-12T00:31:21Z",
   "git_url": "git://github.com/Piasy/BigImageViewer.git",
   "ssh_url": "git@github.com:Piasy/BigImageViewer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Piasy/BigImageViewer",
   "homepage": "",
   "size": 55900,
-  "stargazers_count": 3906,
-  "watchers_count": 3906,
+  "stargazers_count": 3907,
+  "watchers_count": 3907,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 405,
   "open_issues": 29,
-  "watchers": 3906,
+  "watchers": 3907,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1035
+  "_index": 1044
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mike14u/croperino/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mike14u/croperino/deployments",
   "created_at": "2016-09-15T08:20:38Z",
-  "updated_at": "2022-11-29T16:52:03Z",
+  "updated_at": "2023-01-04T08:28:06Z",
   "pushed_at": "2022-07-20T11:32:17Z",
   "git_url": "git://github.com/mike14u/croperino.git",
   "ssh_url": "git@github.com:mike14u/croperino.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mike14u/croperino",
   "homepage": "",
   "size": 187,
-  "stargazers_count": 179,
-  "watchers_count": 179,
+  "stargazers_count": 178,
+  "watchers_count": 178,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 61,
   "open_issues": 7,
-  "watchers": 179,
+  "watchers": 178,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2071
+  "_index": 2080
 }
