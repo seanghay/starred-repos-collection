@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/r0adkll/Slidr/releases{/id}",
   "deployments_url": "https://api.github.com/repos/r0adkll/Slidr/deployments",
   "created_at": "2014-08-19T01:32:08Z",
-  "updated_at": "2023-01-03T14:35:35Z",
+  "updated_at": "2023-01-05T16:24:12Z",
   "pushed_at": "2022-02-15T07:20:55Z",
   "git_url": "git://github.com/r0adkll/Slidr.git",
   "ssh_url": "git@github.com:r0adkll/Slidr.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1186
+  "_index": 1188
 }

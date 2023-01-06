@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/vueuse/schema-org.git",
   "svn_url": "https://github.com/vueuse/schema-org",
   "homepage": "https://unhead-schema-org.harlanzw.com",
-  "size": 4728,
+  "size": 4823,
   "stargazers_count": 315,
   "watchers_count": 315,
   "language": "TypeScript",
@@ -107,5 +107,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 391
+  "_index": 393
 }

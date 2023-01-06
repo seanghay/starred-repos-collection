@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/tfcporciuncula/flow-preferences/deployments",
   "created_at": "2019-10-20T20:57:50Z",
   "updated_at": "2023-01-04T17:38:56Z",
-  "pushed_at": "2023-01-04T21:01:18Z",
+  "pushed_at": "2023-01-05T09:24:47Z",
   "git_url": "git://github.com/tfcporciuncula/flow-preferences.git",
   "ssh_url": "git@github.com:tfcporciuncula/flow-preferences.git",
   "clone_url": "https://github.com/tfcporciuncula/flow-preferences.git",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1709
+  "_index": 1711
 }

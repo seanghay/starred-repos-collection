@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/zhuyingda/webster/releases{/id}",
   "deployments_url": "https://api.github.com/repos/zhuyingda/webster/deployments",
   "created_at": "2017-11-04T14:56:37Z",
-  "updated_at": "2022-12-21T08:27:56Z",
+  "updated_at": "2023-01-05T13:52:14Z",
   "pushed_at": "2022-06-19T15:43:26Z",
   "git_url": "git://github.com/zhuyingda/webster.git",
   "ssh_url": "git@github.com:zhuyingda/webster.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/zhuyingda/webster",
   "homepage": null,
   "size": 106,
-  "stargazers_count": 445,
-  "watchers_count": 445,
+  "stargazers_count": 446,
+  "watchers_count": 446,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 57,
+  "forks_count": 58,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -113,9 +113,9 @@
     "spider"
   ],
   "visibility": "public",
-  "forks": 57,
+  "forks": 58,
   "open_issues": 3,
-  "watchers": 445,
+  "watchers": 446,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 322
+  "_index": 324
 }

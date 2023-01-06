@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/DioxusLabs/taffy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/DioxusLabs/taffy/deployments",
   "created_at": "2022-01-04T19:36:24Z",
-  "updated_at": "2023-01-04T06:41:27Z",
-  "pushed_at": "2023-01-05T01:17:41Z",
+  "updated_at": "2023-01-05T21:04:31Z",
+  "pushed_at": "2023-01-05T18:22:00Z",
   "git_url": "git://github.com/DioxusLabs/taffy.git",
   "ssh_url": "git@github.com:DioxusLabs/taffy.git",
   "clone_url": "https://github.com/DioxusLabs/taffy.git",
   "svn_url": "https://github.com/DioxusLabs/taffy",
   "homepage": "",
-  "size": 54366,
-  "stargazers_count": 682,
-  "watchers_count": 682,
+  "size": 54378,
+  "stargazers_count": 685,
+  "watchers_count": 685,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 41,
   "open_issues": 49,
-  "watchers": 682,
+  "watchers": 685,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 331
+  "_index": 333
 }

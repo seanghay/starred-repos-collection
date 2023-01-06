@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/jobtoday/react-native-image-viewing.git",
   "svn_url": "https://github.com/jobtoday/react-native-image-viewing",
   "homepage": "https://exp.host/@antonkalinin/react-native-image-viewing",
-  "size": 22178,
+  "size": 22085,
   "stargazers_count": 665,
   "watchers_count": 665,
   "language": "TypeScript",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 197,
+  "forks_count": 198,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,7 +105,7 @@
     "react-native"
   ],
   "visibility": "public",
-  "forks": 197,
+  "forks": 198,
   "open_issues": 84,
   "watchers": 665,
   "default_branch": "master",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 545
+  "_index": 547
 }

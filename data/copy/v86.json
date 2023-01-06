@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/copy/v86/releases{/id}",
   "deployments_url": "https://api.github.com/repos/copy/v86/deployments",
   "created_at": "2013-11-06T00:12:12Z",
-  "updated_at": "2023-01-04T22:14:39Z",
-  "pushed_at": "2022-12-04T03:13:13Z",
+  "updated_at": "2023-01-05T22:46:44Z",
+  "pushed_at": "2023-01-05T20:27:28Z",
   "git_url": "git://github.com/copy/v86.git",
   "ssh_url": "git@github.com:copy/v86.git",
   "clone_url": "https://github.com/copy/v86.git",
   "svn_url": "https://github.com/copy/v86",
   "homepage": "https://copy.sh/v86/",
-  "size": 14349,
-  "stargazers_count": 17081,
-  "watchers_count": 17081,
+  "size": 14218,
+  "stargazers_count": 17086,
+  "watchers_count": 17086,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 88,
+  "open_issues_count": 87,
   "license": {
     "key": "bsd-2-clause",
     "name": "BSD 2-Clause \"Simplified\" License",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 1212,
-  "open_issues": 88,
-  "watchers": 17081,
+  "open_issues": 87,
+  "watchers": 17086,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 92
+  "_index": 94
 }

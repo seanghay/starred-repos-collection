@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/FiloSottile/mkcert/releases{/id}",
   "deployments_url": "https://api.github.com/repos/FiloSottile/mkcert/deployments",
   "created_at": "2018-06-25T05:33:03Z",
-  "updated_at": "2023-01-05T01:41:15Z",
+  "updated_at": "2023-01-06T01:14:59Z",
   "pushed_at": "2022-12-30T16:37:48Z",
   "git_url": "git://github.com/FiloSottile/mkcert.git",
   "ssh_url": "git@github.com:FiloSottile/mkcert.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/FiloSottile/mkcert",
   "homepage": "https://mkcert.dev",
   "size": 1844,
-  "stargazers_count": 39031,
-  "watchers_count": 39031,
+  "stargazers_count": 39053,
+  "watchers_count": 39053,
   "language": "Go",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1974,
+  "forks_count": 1979,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -112,9 +112,9 @@
     "windows"
   ],
   "visibility": "public",
-  "forks": 1974,
+  "forks": 1979,
   "open_issues": 99,
-  "watchers": 39031,
+  "watchers": 39053,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 170
+  "_index": 172
 }

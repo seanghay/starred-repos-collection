@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/facebook/react/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebook/react/deployments",
   "created_at": "2013-05-24T16:15:54Z",
-  "updated_at": "2023-01-05T01:36:05Z",
-  "pushed_at": "2023-01-04T22:39:40Z",
+  "updated_at": "2023-01-06T01:26:40Z",
+  "pushed_at": "2023-01-06T01:24:17Z",
   "git_url": "git://github.com/facebook/react.git",
   "ssh_url": "git@github.com:facebook/react.git",
   "clone_url": "https://github.com/facebook/react.git",
   "svn_url": "https://github.com/facebook/react",
   "homepage": "https://reactjs.org",
-  "size": 219126,
-  "stargazers_count": 199976,
-  "watchers_count": 199976,
+  "size": 220363,
+  "stargazers_count": 200026,
+  "watchers_count": 200026,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 41514,
+  "forks_count": 41531,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,9 +106,9 @@
     "ui"
   ],
   "visibility": "public",
-  "forks": 41514,
+  "forks": 41531,
   "open_issues": 1143,
-  "watchers": 199976,
+  "watchers": 200026,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2409
+  "_index": 2411
 }
