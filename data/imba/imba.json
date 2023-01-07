@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/imba/imba/releases{/id}",
   "deployments_url": "https://api.github.com/repos/imba/imba/deployments",
   "created_at": "2014-06-14T18:58:32Z",
-  "updated_at": "2023-01-05T09:17:45Z",
-  "pushed_at": "2023-01-04T17:08:36Z",
+  "updated_at": "2023-01-06T16:02:52Z",
+  "pushed_at": "2023-01-06T12:41:16Z",
   "git_url": "git://github.com/imba/imba.git",
   "ssh_url": "git@github.com:imba/imba.git",
   "clone_url": "https://github.com/imba/imba.git",
   "svn_url": "https://github.com/imba/imba",
   "homepage": "https://imba.io",
-  "size": 25393,
-  "stargazers_count": 5901,
-  "watchers_count": 5901,
+  "size": 25394,
+  "stargazers_count": 5902,
+  "watchers_count": 5902,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 94,
+  "open_issues_count": 97,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,8 +109,8 @@
   ],
   "visibility": "public",
   "forks": 184,
-  "open_issues": 94,
-  "watchers": 5901,
+  "open_issues": 97,
+  "watchers": 5902,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 177
+  "_index": 180
 }

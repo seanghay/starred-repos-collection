@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/tjoskar/ng-lazyload-image.git",
   "svn_url": "https://github.com/tjoskar/ng-lazyload-image",
   "homepage": "https://naughty-bose-ec1cfc.netlify.com",
-  "size": 3823,
+  "size": 3962,
   "stargazers_count": 755,
   "watchers_count": 755,
   "language": "TypeScript",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2362
+  "_index": 2365
 }

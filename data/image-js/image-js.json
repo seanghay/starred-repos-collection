@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/image-js/image-js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/image-js/image-js/deployments",
   "created_at": "2015-06-10T22:32:45Z",
-  "updated_at": "2023-01-04T15:45:35Z",
+  "updated_at": "2023-01-06T21:28:01Z",
   "pushed_at": "2022-10-11T12:38:43Z",
   "git_url": "git://github.com/image-js/image-js.git",
   "ssh_url": "git@github.com:image-js/image-js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/image-js/image-js",
   "homepage": "https://image-js.github.io/image-js",
   "size": 47474,
-  "stargazers_count": 486,
-  "watchers_count": 486,
+  "stargazers_count": 487,
+  "watchers_count": 487,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 57,
   "open_issues": 103,
-  "watchers": 486,
+  "watchers": 487,
   "default_branch": "legacy",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 62
+  "_index": 65
 }

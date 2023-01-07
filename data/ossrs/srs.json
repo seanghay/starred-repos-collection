@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ossrs/srs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ossrs/srs/deployments",
   "created_at": "2015-04-29T06:59:32Z",
-  "updated_at": "2023-01-06T02:06:45Z",
-  "pushed_at": "2023-01-06T01:48:31Z",
+  "updated_at": "2023-01-06T22:43:31Z",
+  "pushed_at": "2023-01-06T18:02:10Z",
   "git_url": "git://github.com/ossrs/srs.git",
   "ssh_url": "git@github.com:ossrs/srs.git",
   "clone_url": "https://github.com/ossrs/srs.git",
   "svn_url": "https://github.com/ossrs/srs",
   "homepage": "https://ossrs.io",
-  "size": 247801,
-  "stargazers_count": 20404,
-  "watchers_count": 20404,
+  "size": 247899,
+  "stargazers_count": 20415,
+  "watchers_count": 20415,
   "language": "C++",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 4809,
+  "forks_count": 4810,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -120,9 +120,9 @@
     "webrtc"
   ],
   "visibility": "public",
-  "forks": 4809,
+  "forks": 4810,
   "open_issues": 159,
-  "watchers": 20404,
+  "watchers": 20415,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 678
+  "_index": 681
 }

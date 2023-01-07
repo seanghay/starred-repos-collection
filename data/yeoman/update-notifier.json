@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yeoman/update-notifier/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yeoman/update-notifier/deployments",
   "created_at": "2012-12-08T16:23:20Z",
-  "updated_at": "2022-12-28T14:54:53Z",
+  "updated_at": "2023-01-06T11:11:28Z",
   "pushed_at": "2022-07-19T22:29:10Z",
   "git_url": "git://github.com/yeoman/update-notifier.git",
   "ssh_url": "git@github.com:yeoman/update-notifier.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yeoman/update-notifier",
   "homepage": "",
   "size": 199,
-  "stargazers_count": 1709,
-  "watchers_count": 1709,
+  "stargazers_count": 1710,
+  "watchers_count": 1710,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 148,
   "open_issues": 22,
-  "watchers": 1709,
+  "watchers": 1710,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 327
+  "_index": 330
 }

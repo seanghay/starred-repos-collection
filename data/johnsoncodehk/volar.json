@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/johnsoncodehk/volar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/johnsoncodehk/volar/deployments",
   "created_at": "2020-05-01T20:40:41Z",
-  "updated_at": "2023-01-06T00:46:23Z",
-  "pushed_at": "2023-01-05T12:46:27Z",
+  "updated_at": "2023-01-06T18:47:30Z",
+  "pushed_at": "2023-01-06T13:44:39Z",
   "git_url": "git://github.com/johnsoncodehk/volar.git",
   "ssh_url": "git@github.com:johnsoncodehk/volar.git",
   "clone_url": "https://github.com/johnsoncodehk/volar.git",
   "svn_url": "https://github.com/johnsoncodehk/volar",
   "homepage": "https://marketplace.visualstudio.com/items?itemName=Vue.volar",
-  "size": 26062,
-  "stargazers_count": 4161,
-  "watchers_count": 4161,
+  "size": 26073,
+  "stargazers_count": 4166,
+  "watchers_count": 4166,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 69,
+  "open_issues_count": 71,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 225,
-  "open_issues": 69,
-  "watchers": 4161,
+  "open_issues": 71,
+  "watchers": 4166,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 346
+  "_index": 349
 }

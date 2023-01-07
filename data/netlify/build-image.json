@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/netlify/build-image/deployments",
   "created_at": "2015-04-10T19:27:00Z",
   "updated_at": "2022-12-29T17:16:11Z",
-  "pushed_at": "2023-01-05T22:29:04Z",
+  "pushed_at": "2023-01-07T00:08:13Z",
   "git_url": "git://github.com/netlify/build-image.git",
   "ssh_url": "git@github.com:netlify/build-image.git",
   "clone_url": "https://github.com/netlify/build-image.git",
   "svn_url": "https://github.com/netlify/build-image",
   "homepage": null,
-  "size": 22985,
+  "size": 22992,
   "stargazers_count": 495,
   "watchers_count": 495,
   "language": "Shell",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 119,
+  "open_issues_count": 120,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 212,
-  "open_issues": 119,
+  "open_issues": 120,
   "watchers": 495,
   "default_branch": "focal",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 307
+  "_index": 310
 }

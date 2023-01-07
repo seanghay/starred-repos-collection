@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/cashapp/redwood/releases{/id}",
   "deployments_url": "https://api.github.com/repos/cashapp/redwood/deployments",
   "created_at": "2020-10-19T14:20:09Z",
-  "updated_at": "2023-01-05T08:53:29Z",
-  "pushed_at": "2023-01-05T20:54:40Z",
+  "updated_at": "2023-01-06T14:32:36Z",
+  "pushed_at": "2023-01-06T18:19:18Z",
   "git_url": "git://github.com/cashapp/redwood.git",
   "ssh_url": "git@github.com:cashapp/redwood.git",
   "clone_url": "https://github.com/cashapp/redwood.git",
   "svn_url": "https://github.com/cashapp/redwood",
   "homepage": "https://cashapp.github.io/redwood/docs/0.x/",
-  "size": 12604,
-  "stargazers_count": 702,
-  "watchers_count": 702,
+  "size": 12609,
+  "stargazers_count": 704,
+  "watchers_count": 704,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 32,
+  "open_issues_count": 33,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 15,
-  "open_issues": 32,
-  "watchers": 702,
+  "open_issues": 33,
+  "watchers": 704,
   "default_branch": "trunk",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 158
+  "_index": 161
 }

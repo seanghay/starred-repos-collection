@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/rwaldron/johnny-five/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rwaldron/johnny-five/deployments",
   "created_at": "2012-03-30T20:09:52Z",
-  "updated_at": "2023-01-04T21:40:58Z",
+  "updated_at": "2023-01-06T10:44:41Z",
   "pushed_at": "2022-12-12T16:51:35Z",
   "git_url": "git://github.com/rwaldron/johnny-five.git",
   "ssh_url": "git@github.com:rwaldron/johnny-five.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/rwaldron/johnny-five",
   "homepage": "http://johnny-five.io",
   "size": 94789,
-  "stargazers_count": 12881,
-  "watchers_count": 12881,
+  "stargazers_count": 12880,
+  "watchers_count": 12880,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -122,7 +122,7 @@
   "visibility": "public",
   "forks": 1779,
   "open_issues": 41,
-  "watchers": 12881,
+  "watchers": 12880,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2279
+  "_index": 2282
 }

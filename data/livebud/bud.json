@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/livebud/bud/releases{/id}",
   "deployments_url": "https://api.github.com/repos/livebud/bud/deployments",
   "created_at": "2022-04-17T20:02:52Z",
-  "updated_at": "2023-01-05T13:48:02Z",
+  "updated_at": "2023-01-06T22:48:24Z",
   "pushed_at": "2023-01-03T06:42:13Z",
   "git_url": "git://github.com/livebud/bud.git",
   "ssh_url": "git@github.com:livebud/bud.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 168,
+  "forks_count": 167,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,7 +110,7 @@
     "web"
   ],
   "visibility": "public",
-  "forks": 168,
+  "forks": 167,
   "open_issues": 41,
   "watchers": 4959,
   "default_branch": "main",
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 370
+  "_index": 373
 }

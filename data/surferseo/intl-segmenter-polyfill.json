@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/surferseo/intl-segmenter-polyfill/deployments",
   "created_at": "2020-06-03T14:34:40Z",
   "updated_at": "2022-12-29T18:12:26Z",
-  "pushed_at": "2022-12-11T10:03:55Z",
+  "pushed_at": "2023-01-06T08:53:58Z",
   "git_url": "git://github.com/surferseo/intl-segmenter-polyfill.git",
   "ssh_url": "git@github.com:surferseo/intl-segmenter-polyfill.git",
   "clone_url": "https://github.com/surferseo/intl-segmenter-polyfill.git",
   "svn_url": "https://github.com/surferseo/intl-segmenter-polyfill",
   "homepage": null,
-  "size": 4852,
+  "size": 4918,
   "stargazers_count": 31,
   "watchers_count": 31,
   "language": "JavaScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 17,
+  "open_issues_count": 18,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -94,7 +94,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 4,
-  "open_issues": 17,
+  "open_issues": 18,
   "watchers": 31,
   "default_branch": "master",
   "permissions": {
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 777
+  "_index": 780
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/agrawalsuneet/DotLoadersPack-Android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/agrawalsuneet/DotLoadersPack-Android/deployments",
   "created_at": "2017-01-13T05:34:12Z",
-  "updated_at": "2022-12-12T11:06:53Z",
+  "updated_at": "2023-01-06T07:52:00Z",
   "pushed_at": "2021-08-02T04:54:28Z",
   "git_url": "git://github.com/agrawalsuneet/DotLoadersPack-Android.git",
   "ssh_url": "git@github.com:agrawalsuneet/DotLoadersPack-Android.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/agrawalsuneet/DotLoadersPack-Android",
   "homepage": "",
   "size": 373,
-  "stargazers_count": 240,
-  "watchers_count": 240,
+  "stargazers_count": 241,
+  "watchers_count": 241,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -115,7 +115,7 @@
   "visibility": "public",
   "forks": 45,
   "open_issues": 7,
-  "watchers": 240,
+  "watchers": 241,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2160
+  "_index": 2163
 }

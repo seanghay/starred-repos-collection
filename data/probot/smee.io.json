@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/probot/smee.io.git",
   "svn_url": "https://github.com/probot/smee.io",
   "homepage": "https://smee.io",
-  "size": 1276,
+  "size": 1450,
   "stargazers_count": 212,
   "watchers_count": 212,
   "language": "JavaScript",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 267
+  "_index": 270
 }

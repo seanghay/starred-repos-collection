@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/node-cache/node-cache/deployments",
   "created_at": "2011-10-18T14:30:09Z",
   "updated_at": "2023-01-03T06:30:23Z",
-  "pushed_at": "2022-12-30T17:48:03Z",
+  "pushed_at": "2023-01-06T08:08:26Z",
   "git_url": "git://github.com/node-cache/node-cache.git",
   "ssh_url": "git@github.com:node-cache/node-cache.git",
   "clone_url": "https://github.com/node-cache/node-cache.git",
   "svn_url": "https://github.com/node-cache/node-cache",
   "homepage": "",
-  "size": 1643,
+  "size": 1725,
   "stargazers_count": 1903,
   "watchers_count": 1903,
   "language": "CoffeeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 59,
+  "open_issues_count": 60,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,7 +107,7 @@
   ],
   "visibility": "public",
   "forks": 132,
-  "open_issues": 59,
+  "open_issues": 60,
   "watchers": 1903,
   "default_branch": "master",
   "permissions": {
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 571
+  "_index": 574
 }
