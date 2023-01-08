@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/facebook/prophet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebook/prophet/deployments",
   "created_at": "2016-11-16T01:50:08Z",
-  "updated_at": "2023-01-07T02:02:01Z",
-  "pushed_at": "2023-01-03T01:17:52Z",
+  "updated_at": "2023-01-07T20:53:56Z",
+  "pushed_at": "2023-01-07T22:07:38Z",
   "git_url": "git://github.com/facebook/prophet.git",
   "ssh_url": "git@github.com:facebook/prophet.git",
   "clone_url": "https://github.com/facebook/prophet.git",
   "svn_url": "https://github.com/facebook/prophet",
   "homepage": "https://facebook.github.io/prophet",
-  "size": 62337,
-  "stargazers_count": 15353,
-  "watchers_count": 15353,
+  "size": 59568,
+  "stargazers_count": 15356,
+  "watchers_count": 15356,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 299,
+  "open_issues_count": 296,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,8 +104,8 @@
   ],
   "visibility": "public",
   "forks": 4353,
-  "open_issues": 299,
-  "watchers": 15353,
+  "open_issues": 296,
+  "watchers": 15356,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 591
+  "_index": 595
 }

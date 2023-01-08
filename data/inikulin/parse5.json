@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/inikulin/parse5.git",
   "svn_url": "https://github.com/inikulin/parse5",
   "homepage": "",
-  "size": 6904,
+  "size": 6412,
   "stargazers_count": 3213,
   "watchers_count": 3213,
   "language": "HTML",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 223
+  "_index": 227
 }

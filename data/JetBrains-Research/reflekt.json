@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/JetBrains-Research/reflekt/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JetBrains-Research/reflekt/deployments",
   "created_at": "2020-09-07T11:03:43Z",
-  "updated_at": "2023-01-06T16:14:49Z",
+  "updated_at": "2023-01-07T07:22:31Z",
   "pushed_at": "2022-10-31T08:57:08Z",
   "git_url": "git://github.com/JetBrains-Research/reflekt.git",
   "ssh_url": "git@github.com:JetBrains-Research/reflekt.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/JetBrains-Research/reflekt",
   "homepage": "",
   "size": 1422,
-  "stargazers_count": 300,
-  "watchers_count": 300,
+  "stargazers_count": 301,
+  "watchers_count": 301,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 9,
   "open_issues": 13,
-  "watchers": 300,
+  "watchers": 301,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 725
+  "_index": 729
 }

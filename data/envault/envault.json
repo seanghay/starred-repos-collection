@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/envault/envault/deployments",
   "created_at": "2020-05-06T11:40:47Z",
   "updated_at": "2023-01-01T13:04:12Z",
-  "pushed_at": "2022-11-18T08:58:49Z",
+  "pushed_at": "2023-01-07T14:25:44Z",
   "git_url": "git://github.com/envault/envault.git",
   "ssh_url": "git@github.com:envault/envault.git",
   "clone_url": "https://github.com/envault/envault.git",
   "svn_url": "https://github.com/envault/envault",
   "homepage": "",
-  "size": 20169,
+  "size": 20358,
   "stargazers_count": 491,
   "watchers_count": 491,
   "language": "PHP",
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 704
+  "_index": 708
 }

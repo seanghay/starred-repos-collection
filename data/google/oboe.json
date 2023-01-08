@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/oboe/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/oboe/deployments",
   "created_at": "2017-10-02T17:56:48Z",
-  "updated_at": "2023-01-06T12:58:38Z",
+  "updated_at": "2023-01-07T18:39:26Z",
   "pushed_at": "2022-12-21T04:28:29Z",
   "git_url": "git://github.com/google/oboe.git",
   "ssh_url": "git@github.com:google/oboe.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/oboe",
   "homepage": "",
   "size": 53558,
-  "stargazers_count": 3242,
-  "watchers_count": 3242,
+  "stargazers_count": 3245,
+  "watchers_count": 3245,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 502,
   "open_issues": 145,
-  "watchers": 3242,
+  "watchers": 3245,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1669
+  "_index": 1673
 }

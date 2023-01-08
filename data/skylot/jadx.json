@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/skylot/jadx/releases{/id}",
   "deployments_url": "https://api.github.com/repos/skylot/jadx/deployments",
   "created_at": "2013-03-18T17:08:21Z",
-  "updated_at": "2023-01-06T18:48:17Z",
+  "updated_at": "2023-01-07T21:40:00Z",
   "pushed_at": "2022-12-25T19:10:27Z",
   "git_url": "git://github.com/skylot/jadx.git",
   "ssh_url": "git@github.com:skylot/jadx.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/skylot/jadx",
   "homepage": "",
   "size": 19786,
-  "stargazers_count": 32841,
-  "watchers_count": 32841,
+  "stargazers_count": 32856,
+  "watchers_count": 32856,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 4143,
   "open_issues": 281,
-  "watchers": 32841,
+  "watchers": 32856,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 361
+  "_index": 365
 }

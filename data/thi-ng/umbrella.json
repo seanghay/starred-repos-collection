@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/thi-ng/umbrella.git",
   "svn_url": "https://github.com/thi-ng/umbrella",
   "homepage": "https://thi.ng",
-  "size": 141236,
+  "size": 141329,
   "stargazers_count": 2703,
   "watchers_count": 2703,
   "language": "TypeScript",
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1104
+  "_index": 1108
 }

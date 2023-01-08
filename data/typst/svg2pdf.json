@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/typst/svg2pdf/releases{/id}",
   "deployments_url": "https://api.github.com/repos/typst/svg2pdf/deployments",
   "created_at": "2021-09-09T10:07:49Z",
-  "updated_at": "2023-01-05T23:57:04Z",
+  "updated_at": "2023-01-07T09:48:02Z",
   "pushed_at": "2023-01-03T21:38:07Z",
   "git_url": "git://github.com/typst/svg2pdf.git",
   "ssh_url": "git@github.com:typst/svg2pdf.git",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 188
+  "_index": 192
 }
