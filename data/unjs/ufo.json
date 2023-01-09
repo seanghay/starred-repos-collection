@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/unjs/ufo/deployments",
   "created_at": "2020-12-04T18:21:58Z",
   "updated_at": "2023-01-06T19:54:44Z",
-  "pushed_at": "2023-01-03T16:04:28Z",
+  "pushed_at": "2023-01-09T02:07:06Z",
   "git_url": "git://github.com/unjs/ufo.git",
   "ssh_url": "git@github.com:unjs/ufo.git",
   "clone_url": "https://github.com/unjs/ufo.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 836
+  "_index": 838
 }

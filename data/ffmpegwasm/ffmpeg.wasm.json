@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ffmpegwasm/ffmpeg.wasm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ffmpegwasm/ffmpeg.wasm/deployments",
   "created_at": "2019-10-16T11:21:16Z",
-  "updated_at": "2023-01-07T18:00:09Z",
+  "updated_at": "2023-01-08T20:12:46Z",
   "pushed_at": "2023-01-06T02:14:14Z",
   "git_url": "git://github.com/ffmpegwasm/ffmpeg.wasm.git",
   "ssh_url": "git@github.com:ffmpegwasm/ffmpeg.wasm.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ffmpegwasm/ffmpeg.wasm",
   "homepage": "https://ffmpegwasm.netlify.app",
   "size": 8119,
-  "stargazers_count": 9378,
-  "watchers_count": 9378,
+  "stargazers_count": 9382,
+  "watchers_count": 9382,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 492,
+  "forks_count": 493,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 198,
+  "open_issues_count": 199,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,9 +104,9 @@
     "wasm"
   ],
   "visibility": "public",
-  "forks": 492,
-  "open_issues": 198,
-  "watchers": 9378,
+  "forks": 493,
+  "open_issues": 199,
+  "watchers": 9382,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1395
+  "_index": 1397
 }

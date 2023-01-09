@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/codepath/android_guides/releases{/id}",
   "deployments_url": "https://api.github.com/repos/codepath/android_guides/deployments",
   "created_at": "2013-06-19T10:24:45Z",
-  "updated_at": "2023-01-07T23:53:35Z",
+  "updated_at": "2023-01-08T08:21:26Z",
   "pushed_at": "2022-06-20T17:02:28Z",
   "git_url": "git://github.com/codepath/android_guides.git",
   "ssh_url": "git@github.com:codepath/android_guides.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/codepath/android_guides",
   "homepage": "guides.codepath.com",
   "size": 1100,
-  "stargazers_count": 28012,
-  "watchers_count": 28012,
+  "stargazers_count": 28014,
+  "watchers_count": 28014,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 6472,
   "open_issues": 159,
-  "watchers": 28012,
+  "watchers": 28014,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2378
+  "_index": 2380
 }

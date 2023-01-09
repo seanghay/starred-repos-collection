@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 99,
+  "forks_count": 100,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,7 +106,7 @@
     "scala"
   ],
   "visibility": "public",
-  "forks": 99,
+  "forks": 100,
   "open_issues": 29,
   "watchers": 836,
   "default_branch": "master",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1457
+  "_index": 1459
 }

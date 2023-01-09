@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/yume-chan/ya-webadb/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yume-chan/ya-webadb/deployments",
   "created_at": "2020-01-31T08:17:11Z",
-  "updated_at": "2023-01-06T12:32:58Z",
-  "pushed_at": "2023-01-07T19:03:17Z",
+  "updated_at": "2023-01-08T13:39:15Z",
+  "pushed_at": "2023-01-08T08:27:12Z",
   "git_url": "git://github.com/yume-chan/ya-webadb.git",
   "ssh_url": "git@github.com:yume-chan/ya-webadb.git",
   "clone_url": "https://github.com/yume-chan/ya-webadb.git",
   "svn_url": "https://github.com/yume-chan/ya-webadb",
   "homepage": "https://yume-chan.github.io/ya-webadb",
-  "size": 156164,
-  "stargazers_count": 995,
-  "watchers_count": 995,
+  "size": 157749,
+  "stargazers_count": 999,
+  "watchers_count": 999,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 157,
   "open_issues": 25,
-  "watchers": 995,
+  "watchers": 999,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1109
+  "_index": 1111
 }

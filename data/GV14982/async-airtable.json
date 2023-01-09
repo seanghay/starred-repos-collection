@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/GV14982/async-airtable/releases{/id}",
   "deployments_url": "https://api.github.com/repos/GV14982/async-airtable/deployments",
   "created_at": "2020-07-21T17:54:23Z",
-  "updated_at": "2022-09-24T01:24:32Z",
+  "updated_at": "2023-01-08T09:15:17Z",
   "pushed_at": "2023-01-06T15:05:45Z",
   "git_url": "git://github.com/GV14982/async-airtable.git",
   "ssh_url": "git@github.com:GV14982/async-airtable.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/GV14982/async-airtable",
   "homepage": "https://www.npmjs.com/package/asyncairtable",
   "size": 1891,
-  "stargazers_count": 49,
-  "watchers_count": 49,
+  "stargazers_count": 50,
+  "watchers_count": 50,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 5,
   "open_issues": 8,
-  "watchers": 49,
+  "watchers": 50,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 767
+  "_index": 769
 }

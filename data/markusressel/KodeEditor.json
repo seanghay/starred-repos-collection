@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/markusressel/KodeEditor/deployments",
   "created_at": "2018-08-25T18:39:02Z",
   "updated_at": "2022-10-28T21:40:17Z",
-  "pushed_at": "2023-01-04T18:37:18Z",
+  "pushed_at": "2023-01-09T00:27:10Z",
   "git_url": "git://github.com/markusressel/KodeEditor.git",
   "ssh_url": "git@github.com:markusressel/KodeEditor.git",
   "clone_url": "https://github.com/markusressel/KodeEditor.git",
   "svn_url": "https://github.com/markusressel/KodeEditor",
   "homepage": "",
-  "size": 874,
+  "size": 887,
   "stargazers_count": 65,
   "watchers_count": 65,
   "language": "Kotlin",
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1210
+  "_index": 1212
 }

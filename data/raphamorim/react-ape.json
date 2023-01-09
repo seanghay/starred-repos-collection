@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/raphamorim/react-ape.git",
   "svn_url": "https://github.com/raphamorim/react-ape",
   "homepage": "https://raphamorim.io/react-ape/",
-  "size": 38428,
+  "size": 38692,
   "stargazers_count": 1493,
   "watchers_count": 1493,
   "language": "JavaScript",
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 556
+  "_index": 558
 }

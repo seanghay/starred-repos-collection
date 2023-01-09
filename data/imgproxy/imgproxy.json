@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/imgproxy/imgproxy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/imgproxy/imgproxy/deployments",
   "created_at": "2017-06-20T13:58:55Z",
-  "updated_at": "2023-01-06T15:41:05Z",
+  "updated_at": "2023-01-08T15:16:57Z",
   "pushed_at": "2023-01-06T13:38:38Z",
   "git_url": "git://github.com/imgproxy/imgproxy.git",
   "ssh_url": "git@github.com:imgproxy/imgproxy.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/imgproxy/imgproxy",
   "homepage": "https://imgproxy.net",
   "size": 36915,
-  "stargazers_count": 6803,
-  "watchers_count": 6803,
+  "stargazers_count": 6805,
+  "watchers_count": 6805,
   "language": "Go",
   "has_issues": true,
   "has_projects": false,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 521,
   "open_issues": 49,
-  "watchers": 6803,
+  "watchers": 6805,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 809
+  "_index": 811
 }

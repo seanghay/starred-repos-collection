@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/lucide-icons/lucide/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lucide-icons/lucide/deployments",
   "created_at": "2020-06-08T15:36:21Z",
-  "updated_at": "2023-01-08T00:30:52Z",
-  "pushed_at": "2022-12-28T21:10:02Z",
+  "updated_at": "2023-01-09T01:18:44Z",
+  "pushed_at": "2023-01-08T16:46:49Z",
   "git_url": "git://github.com/lucide-icons/lucide.git",
   "ssh_url": "git@github.com:lucide-icons/lucide.git",
   "clone_url": "https://github.com/lucide-icons/lucide.git",
   "svn_url": "https://github.com/lucide-icons/lucide",
   "homepage": "https://lucide.dev",
   "size": 8277,
-  "stargazers_count": 3040,
-  "watchers_count": 3040,
+  "stargazers_count": 3041,
+  "watchers_count": 3041,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 164,
+  "forks_count": 166,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,9 +110,9 @@
     "vue"
   ],
   "visibility": "public",
-  "forks": 164,
+  "forks": 166,
   "open_issues": 53,
-  "watchers": 3040,
+  "watchers": 3041,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 480
+  "_index": 482
 }

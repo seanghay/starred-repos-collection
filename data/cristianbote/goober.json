@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/cristianbote/goober/releases{/id}",
   "deployments_url": "https://api.github.com/repos/cristianbote/goober/deployments",
   "created_at": "2019-01-31T11:14:38Z",
-  "updated_at": "2023-01-06T21:22:43Z",
-  "pushed_at": "2023-01-06T18:17:14Z",
+  "updated_at": "2023-01-08T21:47:55Z",
+  "pushed_at": "2023-01-08T19:51:34Z",
   "git_url": "git://github.com/cristianbote/goober.git",
   "ssh_url": "git@github.com:cristianbote/goober.git",
   "clone_url": "https://github.com/cristianbote/goober.git",
   "svn_url": "https://github.com/cristianbote/goober",
   "homepage": "https://goober.rocks",
-  "size": 5994,
-  "stargazers_count": 2793,
-  "watchers_count": 2793,
+  "size": 3492,
+  "stargazers_count": 2795,
+  "watchers_count": 2795,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 70,
+  "open_issues_count": 55,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -114,8 +114,8 @@
   ],
   "visibility": "public",
   "forks": 108,
-  "open_issues": 70,
-  "watchers": 2793,
+  "open_issues": 55,
+  "watchers": 2795,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 236
+  "_index": 238
 }

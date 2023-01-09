@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/Open-Attestation/open-attestation.git",
   "svn_url": "https://github.com/Open-Attestation/open-attestation",
   "homepage": "https://openattestation.com",
-  "size": 2674,
+  "size": 2822,
   "stargazers_count": 39,
   "watchers_count": 39,
   "language": "TypeScript",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 264
+  "_index": 266
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/easingthemes/ssh-deploy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/easingthemes/ssh-deploy/deployments",
   "created_at": "2019-09-25T21:15:52Z",
-  "updated_at": "2023-01-07T13:01:46Z",
+  "updated_at": "2023-01-08T20:55:13Z",
   "pushed_at": "2023-01-06T20:51:40Z",
   "git_url": "git://github.com/easingthemes/ssh-deploy.git",
   "ssh_url": "git@github.com:easingthemes/ssh-deploy.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/easingthemes/ssh-deploy",
   "homepage": "",
   "size": 263,
-  "stargazers_count": 707,
-  "watchers_count": 707,
+  "stargazers_count": 709,
+  "watchers_count": 709,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 10,
+  "open_issues_count": 9,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 84,
-  "open_issues": 10,
-  "watchers": 707,
+  "open_issues": 9,
+  "watchers": 709,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 403
+  "_index": 405
 }

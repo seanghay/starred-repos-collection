@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/swimlane/ngx-graph/deployments",
   "created_at": "2017-02-23T17:18:33Z",
   "updated_at": "2023-01-07T19:14:13Z",
-  "pushed_at": "2023-01-02T09:28:12Z",
+  "pushed_at": "2023-01-08T07:17:45Z",
   "git_url": "git://github.com/swimlane/ngx-graph.git",
   "ssh_url": "git@github.com:swimlane/ngx-graph.git",
   "clone_url": "https://github.com/swimlane/ngx-graph.git",
   "svn_url": "https://github.com/swimlane/ngx-graph",
   "homepage": "https://swimlane.github.io/ngx-graph",
-  "size": 33382,
+  "size": 33787,
   "stargazers_count": 835,
   "watchers_count": 835,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 59,
+  "open_issues_count": 60,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,7 +109,7 @@
   ],
   "visibility": "public",
   "forks": 267,
-  "open_issues": 59,
+  "open_issues": 60,
   "watchers": 835,
   "default_branch": "master",
   "permissions": {
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2367
+  "_index": 2369
 }

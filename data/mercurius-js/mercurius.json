@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/mercurius-js/mercurius/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mercurius-js/mercurius/deployments",
   "created_at": "2018-09-11T14:41:29Z",
-  "updated_at": "2023-01-07T16:10:04Z",
-  "pushed_at": "2023-01-06T17:19:07Z",
+  "updated_at": "2023-01-09T01:36:20Z",
+  "pushed_at": "2023-01-08T15:55:12Z",
   "git_url": "git://github.com/mercurius-js/mercurius.git",
   "ssh_url": "git@github.com:mercurius-js/mercurius.git",
   "clone_url": "https://github.com/mercurius-js/mercurius.git",
   "svn_url": "https://github.com/mercurius-js/mercurius",
   "homepage": "https://mercurius.dev/",
-  "size": 1280,
-  "stargazers_count": 1996,
-  "watchers_count": 1996,
+  "size": 1283,
+  "stargazers_count": 2003,
+  "watchers_count": 2003,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 58,
+  "open_issues_count": 57,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 218,
-  "open_issues": 58,
-  "watchers": 1996,
+  "open_issues": 57,
+  "watchers": 2003,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 391
+  "_index": 393
 }

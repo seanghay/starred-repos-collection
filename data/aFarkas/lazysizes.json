@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/aFarkas/lazysizes/releases{/id}",
   "deployments_url": "https://api.github.com/repos/aFarkas/lazysizes/deployments",
   "created_at": "2014-10-11T21:03:26Z",
-  "updated_at": "2023-01-07T01:17:09Z",
+  "updated_at": "2023-01-09T00:29:55Z",
   "pushed_at": "2022-12-08T18:15:58Z",
   "git_url": "git://github.com/aFarkas/lazysizes.git",
   "ssh_url": "git@github.com:aFarkas/lazysizes.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/aFarkas/lazysizes",
   "homepage": "",
   "size": 2904,
-  "stargazers_count": 16647,
-  "watchers_count": 16647,
+  "stargazers_count": 16648,
+  "watchers_count": 16648,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 1757,
   "open_issues": 199,
-  "watchers": 16647,
+  "watchers": 16648,
   "default_branch": "gh-pages",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 405
+  "_index": 407
 }
