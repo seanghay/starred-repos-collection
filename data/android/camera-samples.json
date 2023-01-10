@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/android/camera-samples/releases{/id}",
   "deployments_url": "https://api.github.com/repos/android/camera-samples/deployments",
   "created_at": "2019-05-05T23:33:22Z",
-  "updated_at": "2023-01-08T21:56:58Z",
-  "pushed_at": "2023-01-05T21:09:40Z",
+  "updated_at": "2023-01-09T15:59:26Z",
+  "pushed_at": "2023-01-09T19:37:21Z",
   "git_url": "git://github.com/android/camera-samples.git",
   "ssh_url": "git@github.com:android/camera-samples.git",
   "clone_url": "https://github.com/android/camera-samples.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2087,
+  "forks_count": 2088,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 108,
+  "open_issues_count": 109,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -102,8 +102,8 @@
     "samples"
   ],
   "visibility": "public",
-  "forks": 2087,
-  "open_issues": 108,
+  "forks": 2088,
+  "open_issues": 109,
   "watchers": 4074,
   "default_branch": "main",
   "permissions": {
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1897
+  "_index": 1901
 }

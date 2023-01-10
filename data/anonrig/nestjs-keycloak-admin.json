@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/anonrig/nestjs-keycloak-admin/deployments",
   "created_at": "2020-06-15T11:38:42Z",
   "updated_at": "2023-01-04T19:23:36Z",
-  "pushed_at": "2023-01-03T13:00:15Z",
+  "pushed_at": "2023-01-09T13:34:22Z",
   "git_url": "git://github.com/anonrig/nestjs-keycloak-admin.git",
   "ssh_url": "git@github.com:anonrig/nestjs-keycloak-admin.git",
   "clone_url": "https://github.com/anonrig/nestjs-keycloak-admin.git",
   "svn_url": "https://github.com/anonrig/nestjs-keycloak-admin",
   "homepage": "https://npmjs.com/package/nestjs-keycloak-admin",
-  "size": 2653,
+  "size": 2943,
   "stargazers_count": 328,
   "watchers_count": 328,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 3,
+  "open_issues_count": 1,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,7 +107,7 @@
   ],
   "visibility": "public",
   "forks": 21,
-  "open_issues": 3,
+  "open_issues": 1,
   "watchers": 328,
   "default_branch": "master",
   "permissions": {
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1040
+  "_index": 1044
 }

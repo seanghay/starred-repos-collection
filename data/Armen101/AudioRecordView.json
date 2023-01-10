@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Armen101/AudioRecordView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Armen101/AudioRecordView/deployments",
   "created_at": "2019-07-26T20:09:10Z",
-  "updated_at": "2022-12-29T06:08:03Z",
+  "updated_at": "2023-01-09T17:35:40Z",
   "pushed_at": "2022-12-26T13:38:50Z",
   "git_url": "git://github.com/Armen101/AudioRecordView.git",
   "ssh_url": "git@github.com:Armen101/AudioRecordView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Armen101/AudioRecordView",
   "homepage": "",
   "size": 192,
-  "stargazers_count": 342,
-  "watchers_count": 342,
+  "stargazers_count": 343,
+  "watchers_count": 343,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 42,
   "open_issues": 2,
-  "watchers": 342,
+  "watchers": 343,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1655
+  "_index": 1659
 }

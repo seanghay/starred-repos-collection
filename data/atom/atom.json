@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/atom/atom/releases{/id}",
   "deployments_url": "https://api.github.com/repos/atom/atom/deployments",
   "created_at": "2012-01-20T18:18:21Z",
-  "updated_at": "2023-01-08T22:00:00Z",
+  "updated_at": "2023-01-10T01:03:41Z",
   "pushed_at": "2023-01-03T10:49:48Z",
   "git_url": "git://github.com/atom/atom.git",
   "ssh_url": "git@github.com:atom/atom.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/atom/atom",
   "homepage": "https://atom.io",
   "size": 330585,
-  "stargazers_count": 59011,
-  "watchers_count": 59011,
+  "stargazers_count": 59013,
+  "watchers_count": 59013,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 18249,
+  "forks_count": 18250,
   "mirror_url": null,
   "archived": true,
   "disabled": false,
-  "open_issues_count": 1006,
+  "open_issues_count": 1005,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,9 +107,9 @@
     "windows"
   ],
   "visibility": "public",
-  "forks": 18249,
-  "open_issues": 1006,
-  "watchers": 59011,
+  "forks": 18250,
+  "open_issues": 1005,
+  "watchers": 59013,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2236
+  "_index": 2240
 }

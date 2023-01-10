@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Spikeysanju/MotionToast/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Spikeysanju/MotionToast/deployments",
   "created_at": "2020-03-13T19:42:26Z",
-  "updated_at": "2023-01-06T02:40:32Z",
+  "updated_at": "2023-01-09T22:26:05Z",
   "pushed_at": "2022-10-11T18:33:04Z",
   "git_url": "git://github.com/Spikeysanju/MotionToast.git",
   "ssh_url": "git@github.com:Spikeysanju/MotionToast.git",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1209
+  "_index": 1213
 }

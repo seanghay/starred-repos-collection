@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 575,
+  "forks_count": 574,
   "mirror_url": null,
   "archived": true,
   "disabled": false,
@@ -107,7 +107,7 @@
     "rocketchat"
   ],
   "visibility": "public",
-  "forks": 575,
+  "forks": 574,
   "open_issues": 283,
   "watchers": 873,
   "default_branch": "develop",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2274
+  "_index": 2278
 }

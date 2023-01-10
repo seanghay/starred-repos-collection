@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/image-rs/image/releases{/id}",
   "deployments_url": "https://api.github.com/repos/image-rs/image/deployments",
   "created_at": "2014-05-25T11:39:07Z",
-  "updated_at": "2023-01-09T01:56:19Z",
-  "pushed_at": "2023-01-08T22:56:53Z",
+  "updated_at": "2023-01-09T18:16:19Z",
+  "pushed_at": "2023-01-09T08:10:29Z",
   "git_url": "git://github.com/image-rs/image.git",
   "ssh_url": "git@github.com:image-rs/image.git",
   "clone_url": "https://github.com/image-rs/image.git",
   "svn_url": "https://github.com/image-rs/image",
   "homepage": "",
-  "size": 23298,
-  "stargazers_count": 3472,
-  "watchers_count": 3472,
+  "size": 23299,
+  "stargazers_count": 3476,
+  "watchers_count": 3476,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 237,
+  "open_issues_count": 236,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 493,
-  "open_issues": 237,
-  "watchers": 3472,
+  "open_issues": 236,
+  "watchers": 3476,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 227
+  "_index": 231
 }

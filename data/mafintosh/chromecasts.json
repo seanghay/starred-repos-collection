@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mafintosh/chromecasts/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mafintosh/chromecasts/deployments",
   "created_at": "2015-04-12T06:04:00Z",
-  "updated_at": "2023-01-04T07:57:46Z",
+  "updated_at": "2023-01-09T14:10:50Z",
   "pushed_at": "2021-10-04T14:15:31Z",
   "git_url": "git://github.com/mafintosh/chromecasts.git",
   "ssh_url": "git@github.com:mafintosh/chromecasts.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mafintosh/chromecasts",
   "homepage": null,
   "size": 42,
-  "stargazers_count": 1442,
-  "watchers_count": 1442,
+  "stargazers_count": 1443,
+  "watchers_count": 1443,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 88,
   "open_issues": 14,
-  "watchers": 1442,
+  "watchers": 1443,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 19
+  "_index": 23
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nisrulz/sensey/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nisrulz/sensey/deployments",
   "created_at": "2015-11-12T06:58:21Z",
-  "updated_at": "2022-12-29T12:07:06Z",
+  "updated_at": "2023-01-09T08:01:51Z",
   "pushed_at": "2020-12-13T14:15:02Z",
   "git_url": "git://github.com/nisrulz/sensey.git",
   "ssh_url": "git@github.com:nisrulz/sensey.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nisrulz/sensey",
   "homepage": "",
   "size": 38086,
-  "stargazers_count": 2654,
-  "watchers_count": 2654,
+  "stargazers_count": 2653,
+  "watchers_count": 2653,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -116,7 +116,7 @@
   "visibility": "public",
   "forks": 277,
   "open_issues": 28,
-  "watchers": 2654,
+  "watchers": 2653,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 971
+  "_index": 975
 }

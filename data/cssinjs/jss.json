@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/cssinjs/jss/releases{/id}",
   "deployments_url": "https://api.github.com/repos/cssinjs/jss/deployments",
   "created_at": "2014-10-12T20:33:53Z",
-  "updated_at": "2023-01-06T17:04:05Z",
-  "pushed_at": "2022-10-21T11:24:45Z",
+  "updated_at": "2023-01-09T21:01:12Z",
+  "pushed_at": "2023-01-09T20:25:00Z",
   "git_url": "git://github.com/cssinjs/jss.git",
   "ssh_url": "git@github.com:cssinjs/jss.git",
   "clone_url": "https://github.com/cssinjs/jss.git",
   "svn_url": "https://github.com/cssinjs/jss",
   "homepage": "https://cssinjs.org",
   "size": 8161,
-  "stargazers_count": 6885,
-  "watchers_count": 6885,
+  "stargazers_count": 6886,
+  "watchers_count": 6886,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 415,
+  "forks_count": 417,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 204,
+  "open_issues_count": 205,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,9 +107,9 @@
     "stylesheets"
   ],
   "visibility": "public",
-  "forks": 415,
-  "open_issues": 204,
-  "watchers": 6885,
+  "forks": 417,
+  "open_issues": 205,
+  "watchers": 6886,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2424
+  "_index": 2428
 }
