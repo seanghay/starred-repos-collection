@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 648,
+  "forks_count": 649,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,7 +109,7 @@
     "redux-thunk"
   ],
   "visibility": "public",
-  "forks": 648,
+  "forks": 649,
   "open_issues": 3,
   "watchers": 4775,
   "default_branch": "main",
