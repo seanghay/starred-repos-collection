@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/bevyengine/bevy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bevyengine/bevy/deployments",
   "created_at": "2020-01-18T21:13:55Z",
-  "updated_at": "2023-01-12T01:49:43Z",
-  "pushed_at": "2023-01-12T02:08:25Z",
+  "updated_at": "2023-01-13T02:01:48Z",
+  "pushed_at": "2023-01-13T01:25:19Z",
   "git_url": "git://github.com/bevyengine/bevy.git",
   "ssh_url": "git@github.com:bevyengine/bevy.git",
   "clone_url": "https://github.com/bevyengine/bevy.git",
   "svn_url": "https://github.com/bevyengine/bevy",
   "homepage": "https://bevyengine.org",
-  "size": 54777,
-  "stargazers_count": 21210,
-  "watchers_count": 21210,
+  "size": 54851,
+  "stargazers_count": 21227,
+  "watchers_count": 21227,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 2095,
+  "forks_count": 2096,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1333,
+  "open_issues_count": 1334,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -107,9 +107,9 @@
     "rust"
   ],
   "visibility": "public",
-  "forks": 2095,
-  "open_issues": 1333,
-  "watchers": 21210,
+  "forks": 2096,
+  "open_issues": 1334,
+  "watchers": 21227,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 703
+  "_index": 705
 }

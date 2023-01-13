@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wasabeef/glide-transformations/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wasabeef/glide-transformations/deployments",
   "created_at": "2015-01-09T10:33:29Z",
-  "updated_at": "2023-01-11T22:23:19Z",
+  "updated_at": "2023-01-12T11:05:52Z",
   "pushed_at": "2022-03-08T16:07:21Z",
   "git_url": "git://github.com/wasabeef/glide-transformations.git",
   "ssh_url": "git@github.com:wasabeef/glide-transformations.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1426,
+  "forks_count": 1427,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,7 +106,7 @@
     "kotlin"
   ],
   "visibility": "public",
-  "forks": 1426,
+  "forks": 1427,
   "open_issues": 55,
   "watchers": 9721,
   "default_branch": "main",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1466
+  "_index": 1468
 }

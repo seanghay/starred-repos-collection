@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/pre-commit/pre-commit-hooks/deployments",
   "created_at": "2014-03-13T15:21:46Z",
   "updated_at": "2023-01-11T18:50:39Z",
-  "pushed_at": "2022-12-29T23:15:12Z",
+  "pushed_at": "2023-01-12T16:54:27Z",
   "git_url": "git://github.com/pre-commit/pre-commit-hooks.git",
   "ssh_url": "git@github.com:pre-commit/pre-commit-hooks.git",
   "clone_url": "https://github.com/pre-commit/pre-commit-hooks.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 571,
+  "forks_count": 572,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,7 +106,7 @@
     "refactoring"
   ],
   "visibility": "public",
-  "forks": 571,
+  "forks": 572,
   "open_issues": 16,
   "watchers": 3617,
   "default_branch": "main",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 299
+  "_index": 301
 }

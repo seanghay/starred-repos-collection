@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/yahoo/serialize-javascript/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yahoo/serialize-javascript/deployments",
   "created_at": "2014-09-16T16:07:16Z",
-  "updated_at": "2023-01-10T10:34:02Z",
-  "pushed_at": "2023-01-08T04:36:21Z",
+  "updated_at": "2023-01-12T20:40:33Z",
+  "pushed_at": "2023-01-12T15:07:40Z",
   "git_url": "git://github.com/yahoo/serialize-javascript.git",
   "ssh_url": "git@github.com:yahoo/serialize-javascript.git",
   "clone_url": "https://github.com/yahoo/serialize-javascript.git",
   "svn_url": "https://github.com/yahoo/serialize-javascript",
   "homepage": null,
   "size": 311,
-  "stargazers_count": 2617,
-  "watchers_count": 2617,
+  "stargazers_count": 2618,
+  "watchers_count": 2618,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 188,
+  "forks_count": 189,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 35,
+  "open_issues_count": 36,
   "license": {
     "key": "other",
     "name": "Other",
@@ -104,9 +104,9 @@
     "web"
   ],
   "visibility": "public",
-  "forks": 188,
-  "open_issues": 35,
-  "watchers": 2617,
+  "forks": 189,
+  "open_issues": 36,
+  "watchers": 2618,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 79
+  "_index": 81
 }

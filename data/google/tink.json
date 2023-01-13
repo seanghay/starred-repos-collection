@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/google/tink/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/tink/deployments",
   "created_at": "2014-06-06T16:21:09Z",
-  "updated_at": "2023-01-11T22:36:02Z",
-  "pushed_at": "2023-01-08T01:59:24Z",
+  "updated_at": "2023-01-13T01:57:44Z",
+  "pushed_at": "2023-01-12T12:52:58Z",
   "git_url": "git://github.com/google/tink.git",
   "ssh_url": "git@github.com:google/tink.git",
   "clone_url": "https://github.com/google/tink.git",
   "svn_url": "https://github.com/google/tink",
   "homepage": "https://developers.google.com/tink",
   "size": 54090,
-  "stargazers_count": 12935,
-  "watchers_count": 12935,
+  "stargazers_count": 12945,
+  "watchers_count": 12945,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1171,
+  "forks_count": 1175,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,9 +108,9 @@
     "security"
   ],
   "visibility": "public",
-  "forks": 1171,
+  "forks": 1175,
   "open_issues": 123,
-  "watchers": 12935,
+  "watchers": 12945,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1820
+  "_index": 1822
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nuxt-community/recaptcha-module/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nuxt-community/recaptcha-module/deployments",
   "created_at": "2019-02-12T07:23:13Z",
-  "updated_at": "2023-01-06T02:02:00Z",
+  "updated_at": "2023-01-12T14:25:01Z",
   "pushed_at": "2023-01-11T12:53:12Z",
   "git_url": "git://github.com/nuxt-community/recaptcha-module.git",
   "ssh_url": "git@github.com:nuxt-community/recaptcha-module.git",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 695
+  "_index": 697
 }

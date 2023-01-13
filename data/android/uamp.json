@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/android/uamp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/android/uamp/deployments",
   "created_at": "2015-03-10T00:04:35Z",
-  "updated_at": "2023-01-10T08:32:58Z",
+  "updated_at": "2023-01-12T15:49:35Z",
   "pushed_at": "2023-01-06T11:25:24Z",
   "git_url": "git://github.com/android/uamp.git",
   "ssh_url": "git@github.com:android/uamp.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/android/uamp",
   "homepage": "",
   "size": 9275,
-  "stargazers_count": 12733,
-  "watchers_count": 12733,
+  "stargazers_count": 12735,
+  "watchers_count": 12735,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 3710,
   "open_issues": 72,
-  "watchers": 12733,
+  "watchers": 12735,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1832
+  "_index": 1834
 }

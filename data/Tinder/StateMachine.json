@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Tinder/StateMachine/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Tinder/StateMachine/deployments",
   "created_at": "2018-06-01T22:33:51Z",
-  "updated_at": "2023-01-05T08:06:02Z",
+  "updated_at": "2023-01-12T14:56:49Z",
   "pushed_at": "2022-06-30T13:49:46Z",
   "git_url": "git://github.com/Tinder/StateMachine.git",
   "ssh_url": "git@github.com:Tinder/StateMachine.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Tinder/StateMachine",
   "homepage": "",
   "size": 239,
-  "stargazers_count": 1758,
-  "watchers_count": 1758,
+  "stargazers_count": 1759,
+  "watchers_count": 1759,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 26,
+  "open_issues_count": 27,
   "license": {
     "key": "other",
     "name": "Other",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 114,
-  "open_issues": 26,
-  "watchers": 1758,
+  "open_issues": 27,
+  "watchers": 1759,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1968
+  "_index": 1970
 }

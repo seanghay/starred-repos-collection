@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/tuist/tuist/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tuist/tuist/deployments",
   "created_at": "2018-04-16T07:02:54Z",
-  "updated_at": "2023-01-11T16:40:37Z",
-  "pushed_at": "2023-01-11T12:44:43Z",
+  "updated_at": "2023-01-13T00:00:14Z",
+  "pushed_at": "2023-01-12T18:16:55Z",
   "git_url": "git://github.com/tuist/tuist.git",
   "ssh_url": "git@github.com:tuist/tuist.git",
   "clone_url": "https://github.com/tuist/tuist.git",
   "svn_url": "https://github.com/tuist/tuist",
   "homepage": "https://tuist.io",
   "size": 220610,
-  "stargazers_count": 3141,
-  "watchers_count": 3141,
+  "stargazers_count": 3146,
+  "watchers_count": 3146,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 96,
+  "open_issues_count": 98,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,8 +108,8 @@
   ],
   "visibility": "public",
   "forks": 341,
-  "open_issues": 96,
-  "watchers": 3141,
+  "open_issues": 98,
+  "watchers": 3146,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 905
+  "_index": 907
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/dcurtis/markdown-mark/releases{/id}",
   "deployments_url": "https://api.github.com/repos/dcurtis/markdown-mark/deployments",
   "created_at": "2012-03-14T06:49:34Z",
-  "updated_at": "2023-01-08T00:18:12Z",
+  "updated_at": "2023-01-12T08:18:56Z",
   "pushed_at": "2022-04-16T18:59:35Z",
   "git_url": "git://github.com/dcurtis/markdown-mark.git",
   "ssh_url": "git@github.com:dcurtis/markdown-mark.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/dcurtis/markdown-mark",
   "homepage": "https://dcurt.is/the-markdown-mark",
   "size": 1577,
-  "stargazers_count": 1002,
-  "watchers_count": 1002,
+  "stargazers_count": 1003,
+  "watchers_count": 1003,
   "language": "HTML",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 85,
   "open_issues": 0,
-  "watchers": 1002,
+  "watchers": 1003,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1253
+  "_index": 1255
 }

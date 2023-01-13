@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fullcalendar/fullcalendar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fullcalendar/fullcalendar/deployments",
   "created_at": "2009-11-22T23:16:51Z",
-  "updated_at": "2023-01-11T21:03:50Z",
+  "updated_at": "2023-01-13T00:08:39Z",
   "pushed_at": "2023-01-11T22:16:50Z",
   "git_url": "git://github.com/fullcalendar/fullcalendar.git",
   "ssh_url": "git@github.com:fullcalendar/fullcalendar.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/fullcalendar/fullcalendar",
   "homepage": "https://fullcalendar.io",
   "size": 31948,
-  "stargazers_count": 15828,
-  "watchers_count": 15828,
+  "stargazers_count": 15831,
+  "watchers_count": 15831,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3456,
+  "forks_count": 3457,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,9 +103,9 @@
     "full-sized"
   ],
   "visibility": "public",
-  "forks": 3456,
+  "forks": 3457,
   "open_issues": 814,
-  "watchers": 15828,
+  "watchers": 15831,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1289
+  "_index": 1291
 }

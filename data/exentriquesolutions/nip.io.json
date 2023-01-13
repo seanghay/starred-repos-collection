@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/exentriquesolutions/nip.io/releases{/id}",
   "deployments_url": "https://api.github.com/repos/exentriquesolutions/nip.io/deployments",
   "created_at": "2019-02-08T07:08:41Z",
-  "updated_at": "2023-01-11T10:43:52Z",
+  "updated_at": "2023-01-12T11:10:49Z",
   "pushed_at": "2022-08-12T10:08:35Z",
   "git_url": "git://github.com/exentriquesolutions/nip.io.git",
   "ssh_url": "git@github.com:exentriquesolutions/nip.io.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1195
+  "_index": 1197
 }

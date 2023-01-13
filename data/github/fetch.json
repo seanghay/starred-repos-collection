@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/github/fetch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/github/fetch/deployments",
   "created_at": "2014-10-13T00:26:19Z",
-  "updated_at": "2023-01-12T01:20:48Z",
+  "updated_at": "2023-01-12T11:04:37Z",
   "pushed_at": "2022-12-27T04:25:06Z",
   "git_url": "git://github.com/github/fetch.git",
   "ssh_url": "git@github.com:github/fetch.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/github/fetch",
   "homepage": "http://github.github.io/fetch/",
   "size": 530,
-  "stargazers_count": 25573,
-  "watchers_count": 25573,
+  "stargazers_count": 25572,
+  "watchers_count": 25572,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 3175,
+  "forks_count": 3174,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 49,
+  "open_issues_count": 50,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,9 +104,9 @@
     "promise"
   ],
   "visibility": "public",
-  "forks": 3175,
-  "open_issues": 49,
-  "watchers": 25573,
+  "forks": 3174,
+  "open_issues": 50,
+  "watchers": 25572,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1314
+  "_index": 1316
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/preactjs/wmr/releases{/id}",
   "deployments_url": "https://api.github.com/repos/preactjs/wmr/deployments",
   "created_at": "2020-05-21T22:19:03Z",
-  "updated_at": "2023-01-11T10:40:46Z",
+  "updated_at": "2023-01-12T18:35:09Z",
   "pushed_at": "2023-01-04T02:09:49Z",
   "git_url": "git://github.com/preactjs/wmr.git",
   "ssh_url": "git@github.com:preactjs/wmr.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 275
+  "_index": 277
 }

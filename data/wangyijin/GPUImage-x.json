@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wangyijin/GPUImage-x/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wangyijin/GPUImage-x/deployments",
   "created_at": "2017-04-04T15:43:52Z",
-  "updated_at": "2023-01-02T12:46:54Z",
+  "updated_at": "2023-01-12T09:15:14Z",
   "pushed_at": "2020-08-04T10:44:06Z",
   "git_url": "git://github.com/wangyijin/GPUImage-x.git",
   "ssh_url": "git@github.com:wangyijin/GPUImage-x.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wangyijin/GPUImage-x",
   "homepage": "",
   "size": 1333,
-  "stargazers_count": 200,
-  "watchers_count": 200,
+  "stargazers_count": 202,
+  "watchers_count": 202,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 59,
   "open_issues": 7,
-  "watchers": 200,
+  "watchers": 202,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2119
+  "_index": 2121
 }

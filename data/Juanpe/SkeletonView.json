@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Juanpe/SkeletonView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Juanpe/SkeletonView/deployments",
   "created_at": "2017-11-07T19:05:28Z",
-  "updated_at": "2023-01-11T16:19:03Z",
+  "updated_at": "2023-01-12T09:46:10Z",
   "pushed_at": "2022-11-22T17:10:45Z",
   "git_url": "git://github.com/Juanpe/SkeletonView.git",
   "ssh_url": "git@github.com:Juanpe/SkeletonView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Juanpe/SkeletonView",
   "homepage": "",
   "size": 6536,
-  "stargazers_count": 11668,
-  "watchers_count": 11668,
+  "stargazers_count": 11669,
+  "watchers_count": 11669,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1015,
+  "forks_count": 1013,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -120,9 +120,9 @@
     "uitableview"
   ],
   "visibility": "public",
-  "forks": 1015,
+  "forks": 1013,
   "open_issues": 47,
-  "watchers": 11668,
+  "watchers": 11669,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2111
+  "_index": 2113
 }

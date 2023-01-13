@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/tuskyapp/Tusky/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tuskyapp/Tusky/deployments",
   "created_at": "2017-01-02T23:20:55Z",
-  "updated_at": "2023-01-12T02:09:03Z",
-  "pushed_at": "2023-01-12T02:06:24Z",
+  "updated_at": "2023-01-13T02:00:22Z",
+  "pushed_at": "2023-01-12T19:53:44Z",
   "git_url": "git://github.com/tuskyapp/Tusky.git",
   "ssh_url": "git@github.com:tuskyapp/Tusky.git",
   "clone_url": "https://github.com/tuskyapp/Tusky.git",
   "svn_url": "https://github.com/tuskyapp/Tusky",
   "homepage": "https://tusky.app",
-  "size": 36630,
-  "stargazers_count": 1863,
-  "watchers_count": 1863,
+  "size": 36627,
+  "stargazers_count": 1890,
+  "watchers_count": 1890,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 342,
+  "forks_count": 345,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 374,
+  "open_issues_count": 367,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -107,9 +107,9 @@
     "tusky"
   ],
   "visibility": "public",
-  "forks": 342,
-  "open_issues": 374,
-  "watchers": 1863,
+  "forks": 345,
+  "open_issues": 367,
+  "watchers": 1890,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1850
+  "_index": 1852
 }

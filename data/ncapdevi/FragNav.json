@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ncapdevi/FragNav/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ncapdevi/FragNav/deployments",
   "created_at": "2016-03-26T23:52:32Z",
-  "updated_at": "2023-01-06T13:53:13Z",
+  "updated_at": "2023-01-13T01:47:59Z",
   "pushed_at": "2022-04-05T02:54:09Z",
   "git_url": "git://github.com/ncapdevi/FragNav.git",
   "ssh_url": "git@github.com:ncapdevi/FragNav.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ncapdevi/FragNav",
   "homepage": "",
   "size": 2743,
-  "stargazers_count": 1457,
-  "watchers_count": 1457,
+  "stargazers_count": 1458,
+  "watchers_count": 1458,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 213,
   "open_issues": 31,
-  "watchers": 1457,
+  "watchers": 1458,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1256
+  "_index": 1258
 }

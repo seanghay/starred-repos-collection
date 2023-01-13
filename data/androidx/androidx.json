@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/androidx/androidx/releases{/id}",
   "deployments_url": "https://api.github.com/repos/androidx/androidx/deployments",
   "created_at": "2020-04-17T19:17:41Z",
-  "updated_at": "2023-01-11T06:23:30Z",
-  "pushed_at": "2023-01-12T01:57:55Z",
+  "updated_at": "2023-01-12T08:49:36Z",
+  "pushed_at": "2023-01-13T01:54:43Z",
   "git_url": "git://github.com/androidx/androidx.git",
   "ssh_url": "git@github.com:androidx/androidx.git",
   "clone_url": "https://github.com/androidx/androidx.git",
   "svn_url": "https://github.com/androidx/androidx",
   "homepage": "https://android.googlesource.com/platform/frameworks/support",
-  "size": 658061,
-  "stargazers_count": 4216,
-  "watchers_count": 4216,
+  "size": 658812,
+  "stargazers_count": 4217,
+  "watchers_count": 4217,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 696,
   "open_issues": 17,
-  "watchers": 4216,
+  "watchers": 4217,
   "default_branch": "androidx-main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1222
+  "_index": 1224
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/marcuswestin/store.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/marcuswestin/store.js/deployments",
   "created_at": "2010-06-27T20:29:33Z",
-  "updated_at": "2023-01-11T13:34:28Z",
+  "updated_at": "2023-01-13T02:16:35Z",
   "pushed_at": "2022-06-22T05:48:56Z",
   "git_url": "git://github.com/marcuswestin/store.js.git",
   "ssh_url": "git@github.com:marcuswestin/store.js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/marcuswestin/store.js",
   "homepage": "",
   "size": 621,
-  "stargazers_count": 13866,
-  "watchers_count": 13866,
+  "stargazers_count": 13868,
+  "watchers_count": 13868,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 1394,
   "open_issues": 97,
-  "watchers": 13866,
+  "watchers": 13868,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 908
+  "_index": 910
 }
