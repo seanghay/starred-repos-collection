@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/igreenwood/loupe/releases{/id}",
   "deployments_url": "https://api.github.com/repos/igreenwood/loupe/deployments",
   "created_at": "2019-12-30T11:41:48Z",
-  "updated_at": "2022-12-16T06:50:02Z",
+  "updated_at": "2023-01-13T09:07:10Z",
   "pushed_at": "2022-06-28T09:52:45Z",
   "git_url": "git://github.com/igreenwood/loupe.git",
   "ssh_url": "git@github.com:igreenwood/loupe.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/igreenwood/loupe",
   "homepage": "https://medium.com/@issei_greenwood/introducing-loupe-10-minutes-to-implement-twitter-like-image-viewer-19c522db3c68",
   "size": 171772,
-  "stargazers_count": 266,
-  "watchers_count": 266,
+  "stargazers_count": 268,
+  "watchers_count": 268,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 30,
+  "forks_count": 31,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "twitter"
   ],
   "visibility": "public",
-  "forks": 30,
+  "forks": 31,
   "open_issues": 11,
-  "watchers": 266,
+  "watchers": 268,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1428
+  "_index": 1430
 }

@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1794,
+  "forks_count": 1793,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 40,
+  "open_issues_count": 37,
   "license": {
     "key": "other",
     "name": "Other",
@@ -105,8 +105,8 @@
     "hacktoberfest"
   ],
   "visibility": "public",
-  "forks": 1794,
-  "open_issues": 40,
+  "forks": 1793,
+  "open_issues": 37,
   "watchers": 9274,
   "default_branch": "dev",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1878
+  "_index": 1880
 }

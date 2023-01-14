@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/agilie/DisPlayers-Audio-Visualizers/releases{/id}",
   "deployments_url": "https://api.github.com/repos/agilie/DisPlayers-Audio-Visualizers/deployments",
   "created_at": "2017-03-17T09:08:50Z",
-  "updated_at": "2022-12-05T22:52:52Z",
+  "updated_at": "2023-01-13T08:10:37Z",
   "pushed_at": "2021-07-12T16:12:16Z",
   "git_url": "git://github.com/agilie/DisPlayers-Audio-Visualizers.git",
   "ssh_url": "git@github.com:agilie/DisPlayers-Audio-Visualizers.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/agilie/DisPlayers-Audio-Visualizers",
   "homepage": "https://agilie.com",
   "size": 5794,
-  "stargazers_count": 303,
-  "watchers_count": 303,
+  "stargazers_count": 304,
+  "watchers_count": 304,
   "language": "Objective-C",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 45,
   "open_issues": 12,
-  "watchers": 303,
+  "watchers": 304,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1579
+  "_index": 1581
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Yummypets/YPImagePicker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Yummypets/YPImagePicker/deployments",
   "created_at": "2017-07-19T15:00:05Z",
-  "updated_at": "2023-01-12T12:58:32Z",
+  "updated_at": "2023-01-13T22:31:22Z",
   "pushed_at": "2023-01-12T09:44:43Z",
   "git_url": "git://github.com/Yummypets/YPImagePicker.git",
   "ssh_url": "git@github.com:Yummypets/YPImagePicker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Yummypets/YPImagePicker",
   "homepage": "",
   "size": 536896,
-  "stargazers_count": 3972,
-  "watchers_count": 3972,
+  "stargazers_count": 3973,
+  "watchers_count": 3973,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -116,7 +116,7 @@
   "visibility": "public",
   "forks": 894,
   "open_issues": 136,
-  "watchers": 3972,
+  "watchers": 3973,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2010
+  "_index": 2012
 }

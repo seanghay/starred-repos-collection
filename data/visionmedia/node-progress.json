@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/visionmedia/node-progress/releases{/id}",
   "deployments_url": "https://api.github.com/repos/visionmedia/node-progress/deployments",
   "created_at": "2011-04-21T01:09:35Z",
-  "updated_at": "2023-01-12T00:48:33Z",
+  "updated_at": "2023-01-13T06:00:22Z",
   "pushed_at": "2022-03-11T00:30:31Z",
   "git_url": "git://github.com/visionmedia/node-progress.git",
   "ssh_url": "git@github.com:visionmedia/node-progress.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/visionmedia/node-progress",
   "homepage": "",
   "size": 136,
-  "stargazers_count": 2847,
-  "watchers_count": 2847,
+  "stargazers_count": 2846,
+  "watchers_count": 2846,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 230,
   "open_issues": 73,
-  "watchers": 2847,
+  "watchers": 2846,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 446
+  "_index": 448
 }

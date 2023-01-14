@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/jsdom/jsdom/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jsdom/jsdom/deployments",
   "created_at": "2010-01-19T06:55:19Z",
-  "updated_at": "2023-01-13T00:20:07Z",
-  "pushed_at": "2023-01-12T20:43:59Z",
+  "updated_at": "2023-01-13T19:26:20Z",
+  "pushed_at": "2023-01-13T21:25:52Z",
   "git_url": "git://github.com/jsdom/jsdom.git",
   "ssh_url": "git@github.com:jsdom/jsdom.git",
   "clone_url": "https://github.com/jsdom/jsdom.git",
   "svn_url": "https://github.com/jsdom/jsdom",
   "homepage": "",
   "size": 37993,
-  "stargazers_count": 18333,
-  "watchers_count": 18333,
+  "stargazers_count": 18338,
+  "watchers_count": 18338,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 1574,
   "open_issues": 467,
-  "watchers": 18333,
+  "watchers": 18338,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 390
+  "_index": 392
 }

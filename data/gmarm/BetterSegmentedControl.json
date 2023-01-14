@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/gmarm/BetterSegmentedControl/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gmarm/BetterSegmentedControl/deployments",
   "created_at": "2016-04-03T07:10:24Z",
-  "updated_at": "2023-01-12T17:31:32Z",
+  "updated_at": "2023-01-13T10:32:12Z",
   "pushed_at": "2022-10-20T18:06:15Z",
   "git_url": "git://github.com/gmarm/BetterSegmentedControl.git",
   "ssh_url": "git@github.com:gmarm/BetterSegmentedControl.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/gmarm/BetterSegmentedControl",
   "homepage": null,
   "size": 4433,
-  "stargazers_count": 1979,
-  "watchers_count": 1979,
+  "stargazers_count": 1980,
+  "watchers_count": 1980,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -120,7 +120,7 @@
   "visibility": "public",
   "forks": 269,
   "open_issues": 34,
-  "watchers": 1979,
+  "watchers": 1980,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 731
+  "_index": 733
 }

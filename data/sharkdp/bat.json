@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/sharkdp/bat/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sharkdp/bat/deployments",
   "created_at": "2018-04-21T10:52:23Z",
-  "updated_at": "2023-01-13T02:12:40Z",
-  "pushed_at": "2023-01-13T01:51:50Z",
+  "updated_at": "2023-01-14T01:50:45Z",
+  "pushed_at": "2023-01-13T07:16:38Z",
   "git_url": "git://github.com/sharkdp/bat.git",
   "ssh_url": "git@github.com:sharkdp/bat.git",
   "clone_url": "https://github.com/sharkdp/bat.git",
   "svn_url": "https://github.com/sharkdp/bat",
   "homepage": "",
-  "size": 29844,
-  "stargazers_count": 39009,
-  "watchers_count": 39009,
+  "size": 29799,
+  "stargazers_count": 39025,
+  "watchers_count": 39025,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1028,
+  "forks_count": 1029,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 173,
+  "open_issues_count": 172,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -108,9 +108,9 @@
     "tool"
   ],
   "visibility": "public",
-  "forks": 1028,
-  "open_issues": 173,
-  "watchers": 39009,
+  "forks": 1029,
+  "open_issues": 172,
+  "watchers": 39025,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 83
+  "_index": 85
 }

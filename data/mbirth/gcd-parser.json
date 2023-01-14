@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mbirth/gcd-parser/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mbirth/gcd-parser/deployments",
   "created_at": "2018-10-14T21:51:53Z",
-  "updated_at": "2022-08-08T02:55:15Z",
+  "updated_at": "2023-01-13T15:41:11Z",
   "pushed_at": "2022-12-11T17:22:38Z",
   "git_url": "git://github.com/mbirth/gcd-parser.git",
   "ssh_url": "git@github.com:mbirth/gcd-parser.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mbirth/gcd-parser",
   "homepage": "",
   "size": 277,
-  "stargazers_count": 35,
-  "watchers_count": 35,
+  "stargazers_count": 36,
+  "watchers_count": 36,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 12,
   "open_issues": 19,
-  "watchers": 35,
+  "watchers": 36,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 713
+  "_index": 715
 }

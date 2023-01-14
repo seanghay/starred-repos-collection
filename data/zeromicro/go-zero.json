@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/zeromicro/go-zero/releases{/id}",
   "deployments_url": "https://api.github.com/repos/zeromicro/go-zero/deployments",
   "created_at": "2020-08-07T15:37:57Z",
-  "updated_at": "2023-01-13T01:56:08Z",
-  "pushed_at": "2023-01-12T14:51:31Z",
+  "updated_at": "2023-01-14T01:28:11Z",
+  "pushed_at": "2023-01-13T15:03:18Z",
   "git_url": "git://github.com/zeromicro/go-zero.git",
   "ssh_url": "git@github.com:zeromicro/go-zero.git",
   "clone_url": "https://github.com/zeromicro/go-zero.git",
   "svn_url": "https://github.com/zeromicro/go-zero",
   "homepage": "https://go-zero.dev",
-  "size": 19034,
-  "stargazers_count": 22247,
-  "watchers_count": 22247,
+  "size": 19045,
+  "stargazers_count": 22270,
+  "watchers_count": 22270,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 3185,
+  "forks_count": 3188,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 201,
+  "open_issues_count": 203,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -120,9 +120,9 @@
     "web-framework"
   ],
   "visibility": "public",
-  "forks": 3185,
-  "open_issues": 201,
-  "watchers": 22247,
+  "forks": 3188,
+  "open_issues": 203,
+  "watchers": 22270,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 878
+  "_index": 880
 }

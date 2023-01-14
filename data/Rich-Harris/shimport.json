@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Rich-Harris/shimport/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Rich-Harris/shimport/deployments",
   "created_at": "2018-08-26T04:17:02Z",
-  "updated_at": "2023-01-08T10:59:40Z",
+  "updated_at": "2023-01-13T22:33:44Z",
   "pushed_at": "2022-12-07T23:59:52Z",
   "git_url": "git://github.com/Rich-Harris/shimport.git",
   "ssh_url": "git@github.com:Rich-Harris/shimport.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Rich-Harris/shimport",
   "homepage": "https://shimport-demos.surge.sh",
   "size": 745,
-  "stargazers_count": 1225,
-  "watchers_count": 1225,
+  "stargazers_count": 1228,
+  "watchers_count": 1228,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 38,
   "open_issues": 11,
-  "watchers": 1225,
+  "watchers": 1228,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2293
+  "_index": 2295
 }

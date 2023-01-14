@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/hasura/graphqurl.git",
   "svn_url": "https://github.com/hasura/graphqurl",
   "homepage": "",
-  "size": 3350,
+  "size": 3385,
   "stargazers_count": 3206,
   "watchers_count": 3206,
   "language": "JavaScript",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 178
+  "_index": 180
 }
