@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tc39/proposal-iterator-helpers/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tc39/proposal-iterator-helpers/deployments",
   "created_at": "2019-01-14T20:57:27Z",
-  "updated_at": "2023-01-11T03:45:01Z",
+  "updated_at": "2023-01-14T15:46:12Z",
   "pushed_at": "2022-12-21T14:17:08Z",
   "git_url": "git://github.com/tc39/proposal-iterator-helpers.git",
   "ssh_url": "git@github.com:tc39/proposal-iterator-helpers.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/tc39/proposal-iterator-helpers",
   "homepage": "https://tc39.es/proposal-iterator-helpers",
   "size": 469,
-  "stargazers_count": 962,
-  "watchers_count": 962,
+  "stargazers_count": 963,
+  "watchers_count": 963,
   "language": "HTML",
   "has_issues": true,
   "has_projects": false,
@@ -100,7 +100,7 @@
   "visibility": "public",
   "forks": 36,
   "open_issues": 1,
-  "watchers": 962,
+  "watchers": 963,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 308
+  "_index": 312
 }

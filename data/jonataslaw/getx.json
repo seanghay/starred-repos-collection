@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jonataslaw/getx/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jonataslaw/getx/deployments",
   "created_at": "2019-11-14T01:16:25Z",
-  "updated_at": "2023-01-14T00:06:47Z",
+  "updated_at": "2023-01-14T13:54:11Z",
   "pushed_at": "2023-01-02T09:09:14Z",
   "git_url": "git://github.com/jonataslaw/getx.git",
   "ssh_url": "git@github.com:jonataslaw/getx.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 1357,
+  "forks_count": 1359,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -112,7 +112,7 @@
     "web"
   ],
   "visibility": "public",
-  "forks": 1357,
+  "forks": 1359,
   "open_issues": 750,
   "watchers": 7978,
   "default_branch": "master",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1100
+  "_index": 1104
 }

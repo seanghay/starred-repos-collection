@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/square/okhttp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/square/okhttp/deployments",
   "created_at": "2012-07-23T13:42:55Z",
-  "updated_at": "2023-01-13T22:27:08Z",
-  "pushed_at": "2023-01-14T01:52:37Z",
+  "updated_at": "2023-01-14T13:42:16Z",
+  "pushed_at": "2023-01-14T19:42:51Z",
   "git_url": "git://github.com/square/okhttp.git",
   "ssh_url": "git@github.com:square/okhttp.git",
   "clone_url": "https://github.com/square/okhttp.git",
   "svn_url": "https://github.com/square/okhttp",
   "homepage": "https://square.github.io/okhttp/",
-  "size": 48253,
-  "stargazers_count": 43396,
-  "watchers_count": 43396,
+  "size": 48257,
+  "stargazers_count": 43398,
+  "watchers_count": 43398,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 9000,
+  "forks_count": 9002,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 150,
+  "open_issues_count": 151,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -104,9 +104,9 @@
     "kotlin"
   ],
   "visibility": "public",
-  "forks": 9000,
-  "open_issues": 150,
-  "watchers": 43396,
+  "forks": 9002,
+  "open_issues": 151,
+  "watchers": 43398,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1931
+  "_index": 1935
 }

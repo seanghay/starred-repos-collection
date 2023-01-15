@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/AppPear/ChartView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/AppPear/ChartView/deployments",
   "created_at": "2019-06-12T18:38:58Z",
-  "updated_at": "2023-01-12T22:50:55Z",
+  "updated_at": "2023-01-14T07:02:33Z",
   "pushed_at": "2023-01-10T14:03:37Z",
   "git_url": "git://github.com/AppPear/ChartView.git",
   "ssh_url": "git@github.com:AppPear/ChartView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/AppPear/ChartView",
   "homepage": "",
   "size": 4278,
-  "stargazers_count": 4692,
-  "watchers_count": 4692,
+  "stargazers_count": 4694,
+  "watchers_count": 4694,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 607,
   "open_issues": 95,
-  "watchers": 4692,
+  "watchers": 4694,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1109
+  "_index": 1113
 }

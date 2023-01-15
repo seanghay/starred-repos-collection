@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/chenpengfei88/StickyItemDecoration/releases{/id}",
   "deployments_url": "https://api.github.com/repos/chenpengfei88/StickyItemDecoration/deployments",
   "created_at": "2018-01-16T09:54:09Z",
-  "updated_at": "2022-11-04T12:00:04Z",
+  "updated_at": "2023-01-14T03:27:02Z",
   "pushed_at": "2020-01-10T06:33:07Z",
   "git_url": "git://github.com/chenpengfei88/StickyItemDecoration.git",
   "ssh_url": "git@github.com:chenpengfei88/StickyItemDecoration.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/chenpengfei88/StickyItemDecoration",
   "homepage": "",
   "size": 4469,
-  "stargazers_count": 291,
-  "watchers_count": 291,
+  "stargazers_count": 292,
+  "watchers_count": 292,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 42,
   "open_issues": 7,
-  "watchers": 291,
+  "watchers": 292,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1551
+  "_index": 1555
 }

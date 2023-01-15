@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/lucasnlm/antimine-android/deployments",
   "created_at": "2020-02-07T01:41:43Z",
   "updated_at": "2023-01-13T09:09:40Z",
-  "pushed_at": "2023-01-12T03:02:19Z",
+  "pushed_at": "2023-01-14T21:54:14Z",
   "git_url": "git://github.com/lucasnlm/antimine-android.git",
   "ssh_url": "git@github.com:lucasnlm/antimine-android.git",
   "clone_url": "https://github.com/lucasnlm/antimine-android.git",
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1407
+  "_index": 1411
 }

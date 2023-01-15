@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/pjagielski/punkt/deployments",
   "created_at": "2020-04-11T07:12:21Z",
   "updated_at": "2023-01-13T10:52:41Z",
-  "pushed_at": "2021-06-04T10:50:10Z",
+  "pushed_at": "2023-01-14T21:49:44Z",
   "git_url": "git://github.com/pjagielski/punkt.git",
   "ssh_url": "git@github.com:pjagielski/punkt.git",
   "clone_url": "https://github.com/pjagielski/punkt.git",
   "svn_url": "https://github.com/pjagielski/punkt",
   "homepage": "",
-  "size": 2406,
+  "size": 2343,
   "stargazers_count": 283,
   "watchers_count": 283,
   "language": "Kotlin",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1383
+  "_index": 1387
 }

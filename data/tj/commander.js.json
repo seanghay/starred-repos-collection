@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/tj/commander.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tj/commander.js/deployments",
   "created_at": "2011-08-14T21:33:58Z",
-  "updated_at": "2023-01-14T00:27:25Z",
+  "updated_at": "2023-01-14T23:35:33Z",
   "pushed_at": "2023-01-14T01:51:16Z",
   "git_url": "git://github.com/tj/commander.js.git",
   "ssh_url": "git@github.com:tj/commander.js.git",
   "clone_url": "https://github.com/tj/commander.js.git",
   "svn_url": "https://github.com/tj/commander.js",
   "homepage": "",
-  "size": 2870,
-  "stargazers_count": 24045,
-  "watchers_count": 24045,
+  "size": 2989,
+  "stargazers_count": 24053,
+  "watchers_count": 24053,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1689,
+  "forks_count": 1690,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 1689,
+  "forks": 1690,
   "open_issues": 5,
-  "watchers": 24045,
+  "watchers": 24053,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2382
+  "_index": 2386
 }

@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/cashapp/turbine.git",
   "svn_url": "https://github.com/cashapp/turbine",
   "homepage": "https://cashapp.github.io/turbine/docs/0.x/",
-  "size": 1323,
+  "size": 1324,
   "stargazers_count": 1799,
   "watchers_count": 1799,
   "language": "Kotlin",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1222
+  "_index": 1226
 }
