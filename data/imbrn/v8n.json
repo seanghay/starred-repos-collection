@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/imbrn/v8n.git",
   "svn_url": "https://github.com/imbrn/v8n",
   "homepage": "https://imbrn.github.io/v8n",
-  "size": 1244,
+  "size": 1248,
   "stargazers_count": 4145,
   "watchers_count": 4145,
   "language": "JavaScript",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2335
+  "_index": 2336
 }

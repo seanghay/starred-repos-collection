@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ramonszo/zuck.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ramonszo/zuck.js/deployments",
   "created_at": "2017-04-16T10:23:03Z",
-  "updated_at": "2023-01-13T13:44:32Z",
+  "updated_at": "2023-01-15T09:30:08Z",
   "pushed_at": "2022-11-10T05:10:05Z",
   "git_url": "git://github.com/ramonszo/zuck.js.git",
   "ssh_url": "git@github.com:ramonszo/zuck.js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ramonszo/zuck.js",
   "homepage": "https://ramon.codes/projects/zuck.js/",
   "size": 8936,
-  "stargazers_count": 3537,
-  "watchers_count": 3537,
+  "stargazers_count": 3538,
+  "watchers_count": 3538,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 334,
+  "forks_count": 333,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -112,9 +112,9 @@
     "zuck"
   ],
   "visibility": "public",
-  "forks": 334,
+  "forks": 333,
   "open_issues": 32,
-  "watchers": 3537,
+  "watchers": 3538,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1618
+  "_index": 1619
 }

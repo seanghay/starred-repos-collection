@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kean/Get/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kean/Get/deployments",
   "created_at": "2021-11-19T19:35:32Z",
-  "updated_at": "2023-01-13T15:09:35Z",
+  "updated_at": "2023-01-15T17:36:34Z",
   "pushed_at": "2022-12-25T18:36:19Z",
   "git_url": "git://github.com/kean/Get.git",
   "ssh_url": "git@github.com:kean/Get.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/kean/Get",
   "homepage": "",
   "size": 2767,
-  "stargazers_count": 747,
-  "watchers_count": 747,
+  "stargazers_count": 748,
+  "watchers_count": 748,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 54,
   "open_issues": 1,
-  "watchers": 747,
+  "watchers": 748,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 582
+  "_index": 583
 }

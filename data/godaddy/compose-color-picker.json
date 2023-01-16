@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/godaddy/compose-color-picker.git",
   "svn_url": "https://github.com/godaddy/compose-color-picker",
   "homepage": "",
-  "size": 52643,
+  "size": 52642,
   "stargazers_count": 273,
   "watchers_count": 273,
   "language": "Kotlin",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 524
+  "_index": 525
 }

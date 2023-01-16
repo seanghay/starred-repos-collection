@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/valor-software/ng2-file-upload/deployments",
   "created_at": "2015-08-27T09:48:28Z",
   "updated_at": "2022-12-14T16:38:33Z",
-  "pushed_at": "2023-01-09T06:35:59Z",
+  "pushed_at": "2023-01-15T11:13:10Z",
   "git_url": "git://github.com/valor-software/ng2-file-upload.git",
   "ssh_url": "git@github.com:valor-software/ng2-file-upload.git",
   "clone_url": "https://github.com/valor-software/ng2-file-upload.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2378
+  "_index": 2379
 }
