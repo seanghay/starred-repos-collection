@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jverdi/JVFloatLabeledTextField/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jverdi/JVFloatLabeledTextField/deployments",
   "created_at": "2013-10-01T04:31:03Z",
-  "updated_at": "2023-01-13T04:08:50Z",
+  "updated_at": "2023-01-16T23:45:24Z",
   "pushed_at": "2021-07-12T15:20:18Z",
   "git_url": "git://github.com/jverdi/JVFloatLabeledTextField.git",
   "ssh_url": "git@github.com:jverdi/JVFloatLabeledTextField.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jverdi/JVFloatLabeledTextField",
   "homepage": null,
   "size": 396,
-  "stargazers_count": 7164,
-  "watchers_count": 7164,
+  "stargazers_count": 7163,
+  "watchers_count": 7163,
   "language": "Objective-C",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 750,
   "open_issues": 25,
-  "watchers": 7164,
+  "watchers": 7163,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 324
+  "_index": 326
 }

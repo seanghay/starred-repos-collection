@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/thomasdarimont/awesome-keycloak/releases{/id}",
   "deployments_url": "https://api.github.com/repos/thomasdarimont/awesome-keycloak/deployments",
   "created_at": "2016-07-11T07:45:51Z",
-  "updated_at": "2023-01-15T23:19:00Z",
-  "pushed_at": "2022-09-25T02:25:47Z",
+  "updated_at": "2023-01-16T15:20:22Z",
+  "pushed_at": "2023-01-16T16:19:09Z",
   "git_url": "git://github.com/thomasdarimont/awesome-keycloak.git",
   "ssh_url": "git@github.com:thomasdarimont/awesome-keycloak.git",
   "clone_url": "https://github.com/thomasdarimont/awesome-keycloak.git",
   "svn_url": "https://github.com/thomasdarimont/awesome-keycloak",
   "homepage": "",
-  "size": 231,
-  "stargazers_count": 1316,
-  "watchers_count": 1316,
+  "size": 275,
+  "stargazers_count": 1317,
+  "watchers_count": 1317,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 8,
+  "open_issues_count": 5,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 161,
-  "open_issues": 8,
-  "watchers": 1316,
+  "open_issues": 5,
+  "watchers": 1317,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 460
+  "_index": 462
 }

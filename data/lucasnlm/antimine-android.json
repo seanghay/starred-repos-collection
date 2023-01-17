@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/lucasnlm/antimine-android.git",
   "svn_url": "https://github.com/lucasnlm/antimine-android",
   "homepage": "",
-  "size": 14700,
+  "size": 14781,
   "stargazers_count": 396,
   "watchers_count": 396,
   "language": "Kotlin",
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1412
+  "_index": 1414
 }

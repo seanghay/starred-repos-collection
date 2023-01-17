@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/jmfayard/refreshVersions/deployments",
   "created_at": "2018-09-29T05:14:46Z",
   "updated_at": "2023-01-14T15:43:28Z",
-  "pushed_at": "2022-12-08T18:10:22Z",
+  "pushed_at": "2023-01-16T14:04:09Z",
   "git_url": "git://github.com/jmfayard/refreshVersions.git",
   "ssh_url": "git@github.com:jmfayard/refreshVersions.git",
   "clone_url": "https://github.com/jmfayard/refreshVersions.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 85,
+  "open_issues_count": 86,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,7 +109,7 @@
   ],
   "visibility": "public",
   "forks": 100,
-  "open_issues": 85,
+  "open_issues": 86,
   "watchers": 1473,
   "default_branch": "main",
   "permissions": {
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1436
+  "_index": 1438
 }

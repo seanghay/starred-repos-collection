@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/amitshekhariitbhu/Android-Debug-Database/releases{/id}",
   "deployments_url": "https://api.github.com/repos/amitshekhariitbhu/Android-Debug-Database/deployments",
   "created_at": "2016-11-16T14:20:24Z",
-  "updated_at": "2023-01-13T18:49:33Z",
+  "updated_at": "2023-01-17T00:17:56Z",
   "pushed_at": "2022-11-17T13:04:26Z",
   "git_url": "git://github.com/amitshekhariitbhu/Android-Debug-Database.git",
   "ssh_url": "git@github.com:amitshekhariitbhu/Android-Debug-Database.git",
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1739
+  "_index": 1741
 }

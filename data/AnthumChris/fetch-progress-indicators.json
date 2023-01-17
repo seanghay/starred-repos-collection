@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/AnthumChris/fetch-progress-indicators/releases{/id}",
   "deployments_url": "https://api.github.com/repos/AnthumChris/fetch-progress-indicators/deployments",
   "created_at": "2018-02-21T19:56:53Z",
-  "updated_at": "2023-01-06T16:06:17Z",
+  "updated_at": "2023-01-16T19:04:33Z",
   "pushed_at": "2020-05-02T02:25:13Z",
   "git_url": "git://github.com/AnthumChris/fetch-progress-indicators.git",
   "ssh_url": "git@github.com:AnthumChris/fetch-progress-indicators.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/AnthumChris/fetch-progress-indicators",
   "homepage": "https://fetch-progress.anthum.com/",
   "size": 303,
-  "stargazers_count": 280,
-  "watchers_count": 280,
+  "stargazers_count": 281,
+  "watchers_count": 281,
   "language": "HTML",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 30,
+  "forks_count": 31,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,9 +106,9 @@
     "streams-api"
   ],
   "visibility": "public",
-  "forks": 30,
+  "forks": 31,
   "open_issues": 5,
-  "watchers": 280,
+  "watchers": 281,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1000
+  "_index": 1002
 }

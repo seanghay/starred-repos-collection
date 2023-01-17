@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/lukeed/resolve.exports",
-  "description": "A tiny (737b), correct, general-purpose, and configurable `\"exports\"` resolver without file-system reliance",
+  "description": "A tiny (952b), correct, general-purpose, and configurable `\"exports\"` and `\"imports\"` resolver without file-system reliance",
   "fork": false,
   "url": "https://api.github.com/repos/lukeed/resolve.exports",
   "forks_url": "https://api.github.com/repos/lukeed/resolve.exports/forks",
@@ -65,17 +65,17 @@
   "releases_url": "https://api.github.com/repos/lukeed/resolve.exports/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lukeed/resolve.exports/deployments",
   "created_at": "2021-01-08T21:46:01Z",
-  "updated_at": "2023-01-14T10:28:47Z",
-  "pushed_at": "2023-01-15T19:35:56Z",
+  "updated_at": "2023-01-17T00:34:54Z",
+  "pushed_at": "2023-01-16T22:05:20Z",
   "git_url": "git://github.com/lukeed/resolve.exports.git",
   "ssh_url": "git@github.com:lukeed/resolve.exports.git",
   "clone_url": "https://github.com/lukeed/resolve.exports.git",
   "svn_url": "https://github.com/lukeed/resolve.exports",
   "homepage": "",
-  "size": 95,
-  "stargazers_count": 217,
-  "watchers_count": 217,
-  "language": "JavaScript",
+  "size": 84,
+  "stargazers_count": 218,
+  "watchers_count": 218,
+  "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
   "has_downloads": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 4,
+  "open_issues_count": 2,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 12,
-  "open_issues": 4,
-  "watchers": 217,
+  "open_issues": 2,
+  "watchers": 218,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 291
+  "_index": 293
 }

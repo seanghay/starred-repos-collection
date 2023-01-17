@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ChillingVan/android-openGL-canvas/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ChillingVan/android-openGL-canvas/deployments",
   "created_at": "2016-11-07T01:22:42Z",
-  "updated_at": "2023-01-14T15:34:55Z",
-  "pushed_at": "2022-12-23T09:16:36Z",
+  "updated_at": "2023-01-16T10:44:20Z",
+  "pushed_at": "2023-01-16T09:10:01Z",
   "git_url": "git://github.com/ChillingVan/android-openGL-canvas.git",
   "ssh_url": "git@github.com:ChillingVan/android-openGL-canvas.git",
   "clone_url": "https://github.com/ChillingVan/android-openGL-canvas.git",
   "svn_url": "https://github.com/ChillingVan/android-openGL-canvas",
   "homepage": "",
-  "size": 2688,
-  "stargazers_count": 988,
-  "watchers_count": 988,
+  "size": 2701,
+  "stargazers_count": 989,
+  "watchers_count": 989,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 195,
   "open_issues": 20,
-  "watchers": 988,
+  "watchers": 989,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1969
+  "_index": 1971
 }

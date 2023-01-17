@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fluent-ffmpeg/node-fluent-ffmpeg/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fluent-ffmpeg/node-fluent-ffmpeg/deployments",
   "created_at": "2011-04-12T06:27:12Z",
-  "updated_at": "2023-01-13T13:48:11Z",
+  "updated_at": "2023-01-16T20:53:48Z",
   "pushed_at": "2022-10-07T22:05:00Z",
   "git_url": "git://github.com/fluent-ffmpeg/node-fluent-ffmpeg.git",
   "ssh_url": "git@github.com:fluent-ffmpeg/node-fluent-ffmpeg.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/fluent-ffmpeg/node-fluent-ffmpeg",
   "homepage": "",
   "size": 8868,
-  "stargazers_count": 6709,
-  "watchers_count": 6709,
+  "stargazers_count": 6713,
+  "watchers_count": 6713,
   "language": "HTML",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 805,
+  "forks_count": 806,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 336,
+  "open_issues_count": 337,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 805,
-  "open_issues": 336,
-  "watchers": 6709,
+  "forks": 806,
+  "open_issues": 337,
+  "watchers": 6713,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2195
+  "_index": 2197
 }

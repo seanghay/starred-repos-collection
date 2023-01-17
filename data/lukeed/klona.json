@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/lukeed/klona/deployments",
   "created_at": "2020-01-09T09:27:47Z",
   "updated_at": "2023-01-14T15:05:57Z",
-  "pushed_at": "2023-01-13T23:18:56Z",
+  "pushed_at": "2023-01-16T19:20:28Z",
   "git_url": "git://github.com/lukeed/klona.git",
   "ssh_url": "git@github.com:lukeed/klona.git",
   "clone_url": "https://github.com/lukeed/klona.git",
   "svn_url": "https://github.com/lukeed/klona",
   "homepage": "",
-  "size": 90,
+  "size": 93,
   "stargazers_count": 1277,
   "watchers_count": 1277,
   "language": "JavaScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 9,
+  "open_issues_count": 8,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 40,
-  "open_issues": 9,
+  "open_issues": 8,
   "watchers": 1277,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 469
+  "_index": 471
 }
