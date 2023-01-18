@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/iron-fish/ironfish/releases{/id}",
   "deployments_url": "https://api.github.com/repos/iron-fish/ironfish/deployments",
   "created_at": "2021-03-31T21:26:37Z",
-  "updated_at": "2023-01-16T06:29:23Z",
-  "pushed_at": "2023-01-16T23:33:27Z",
+  "updated_at": "2023-01-17T06:14:34Z",
+  "pushed_at": "2023-01-18T02:14:15Z",
   "git_url": "git://github.com/iron-fish/ironfish.git",
   "ssh_url": "git@github.com:iron-fish/ironfish.git",
   "clone_url": "https://github.com/iron-fish/ironfish.git",
   "svn_url": "https://github.com/iron-fish/ironfish",
   "homepage": "https://ironfish.network",
-  "size": 645201,
-  "stargazers_count": 726,
-  "watchers_count": 726,
+  "size": 645057,
+  "stargazers_count": 725,
+  "watchers_count": 725,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 389,
   "open_issues": 166,
-  "watchers": 726,
+  "watchers": 725,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 576
+  "_index": 577
 }

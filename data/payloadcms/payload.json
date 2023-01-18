@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/payloadcms/payload",
-  "description": "Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB",
+  "description": "The React + TypeScript CMS. Payload is a free and open-source Headless CMS and Application Framework built with TypeScript, Node.js, React, and MongoDB.",
   "fork": false,
   "url": "https://api.github.com/repos/payloadcms/payload",
   "forks_url": "https://api.github.com/repos/payloadcms/payload/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/payloadcms/payload/releases{/id}",
   "deployments_url": "https://api.github.com/repos/payloadcms/payload/deployments",
   "created_at": "2021-01-05T18:49:45Z",
-  "updated_at": "2023-01-17T00:35:35Z",
-  "pushed_at": "2023-01-17T02:05:47Z",
+  "updated_at": "2023-01-18T00:58:26Z",
+  "pushed_at": "2023-01-17T21:54:40Z",
   "git_url": "git://github.com/payloadcms/payload.git",
   "ssh_url": "git@github.com:payloadcms/payload.git",
   "clone_url": "https://github.com/payloadcms/payload.git",
   "svn_url": "https://github.com/payloadcms/payload",
   "homepage": "https://payloadcms.com",
-  "size": 19199,
-  "stargazers_count": 9057,
-  "watchers_count": 9057,
+  "size": 19344,
+  "stargazers_count": 9069,
+  "watchers_count": 9069,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 405,
+  "forks_count": 407,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 33,
+  "open_issues_count": 35,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -118,9 +118,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 405,
-  "open_issues": 33,
-  "watchers": 9057,
+  "forks": 407,
+  "open_issues": 35,
+  "watchers": 9069,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 393
+  "_index": 394
 }

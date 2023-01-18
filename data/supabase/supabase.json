@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/supabase/supabase/releases{/id}",
   "deployments_url": "https://api.github.com/repos/supabase/supabase/deployments",
   "created_at": "2019-10-12T05:56:49Z",
-  "updated_at": "2023-01-17T01:46:48Z",
-  "pushed_at": "2023-01-16T20:18:50Z",
+  "updated_at": "2023-01-18T01:32:04Z",
+  "pushed_at": "2023-01-18T02:14:58Z",
   "git_url": "git://github.com/supabase/supabase.git",
   "ssh_url": "git@github.com:supabase/supabase.git",
   "clone_url": "https://github.com/supabase/supabase.git",
   "svn_url": "https://github.com/supabase/supabase",
   "homepage": "https://supabase.com",
-  "size": 850702,
-  "stargazers_count": 44140,
-  "watchers_count": 44140,
+  "size": 851112,
+  "stargazers_count": 44189,
+  "watchers_count": 44189,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2881,
+  "forks_count": 2885,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,9 +110,9 @@
     "websockets"
   ],
   "visibility": "public",
-  "forks": 2881,
+  "forks": 2885,
   "open_issues": 317,
-  "watchers": 44140,
+  "watchers": 44189,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1035
+  "_index": 1036
 }

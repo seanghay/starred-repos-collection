@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/pmndrs/leva/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pmndrs/leva/deployments",
   "created_at": "2020-11-07T19:01:17Z",
-  "updated_at": "2023-01-17T01:56:59Z",
-  "pushed_at": "2023-01-11T14:25:28Z",
+  "updated_at": "2023-01-18T01:01:51Z",
+  "pushed_at": "2023-01-17T21:00:34Z",
   "git_url": "git://github.com/pmndrs/leva.git",
   "ssh_url": "git@github.com:pmndrs/leva.git",
   "clone_url": "https://github.com/pmndrs/leva.git",
   "svn_url": "https://github.com/pmndrs/leva",
   "homepage": "https://leva.pmnd.rs",
-  "size": 10731,
-  "stargazers_count": 3400,
-  "watchers_count": 3400,
+  "size": 9819,
+  "stargazers_count": 3406,
+  "watchers_count": 3406,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 77,
+  "open_issues_count": 78,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,8 +103,8 @@
   ],
   "visibility": "public",
   "forks": 145,
-  "open_issues": 77,
-  "watchers": 3400,
+  "open_issues": 78,
+  "watchers": 3406,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 823
+  "_index": 824
 }

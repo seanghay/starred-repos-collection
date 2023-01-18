@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/withastro/astro/releases{/id}",
   "deployments_url": "https://api.github.com/repos/withastro/astro/deployments",
   "created_at": "2021-03-15T17:19:47Z",
-  "updated_at": "2023-01-17T02:11:30Z",
-  "pushed_at": "2023-01-17T01:45:06Z",
+  "updated_at": "2023-01-18T02:10:02Z",
+  "pushed_at": "2023-01-18T01:05:12Z",
   "git_url": "git://github.com/withastro/astro.git",
   "ssh_url": "git@github.com:withastro/astro.git",
   "clone_url": "https://github.com/withastro/astro.git",
   "svn_url": "https://github.com/withastro/astro",
   "homepage": "https://astro.build",
-  "size": 128323,
-  "stargazers_count": 24758,
-  "watchers_count": 24758,
+  "size": 128332,
+  "stargazers_count": 24816,
+  "watchers_count": 24816,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1160,
+  "forks_count": 1163,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 119,
+  "open_issues_count": 114,
   "license": {
     "key": "other",
     "name": "Other",
@@ -111,9 +111,9 @@
     "universal"
   ],
   "visibility": "public",
-  "forks": 1160,
-  "open_issues": 119,
-  "watchers": 24758,
+  "forks": 1163,
+  "open_issues": 114,
+  "watchers": 24816,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 873
+  "_index": 874
 }

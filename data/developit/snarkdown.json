@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/developit/snarkdown/releases{/id}",
   "deployments_url": "https://api.github.com/repos/developit/snarkdown/deployments",
   "created_at": "2014-11-05T01:16:49Z",
-  "updated_at": "2023-01-16T14:39:51Z",
+  "updated_at": "2023-01-17T16:10:14Z",
   "pushed_at": "2022-11-29T17:36:42Z",
   "git_url": "git://github.com/developit/snarkdown.git",
   "ssh_url": "git@github.com:developit/snarkdown.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 120,
+  "forks_count": 121,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "parser"
   ],
   "visibility": "public",
-  "forks": 120,
+  "forks": 121,
   "open_issues": 38,
   "watchers": 2046,
   "default_branch": "main",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1352
+  "_index": 1353
 }

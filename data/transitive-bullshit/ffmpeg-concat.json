@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/transitive-bullshit/ffmpeg-concat/releases{/id}",
   "deployments_url": "https://api.github.com/repos/transitive-bullshit/ffmpeg-concat/deployments",
   "created_at": "2018-04-04T18:15:11Z",
-  "updated_at": "2023-01-16T19:27:51Z",
+  "updated_at": "2023-01-17T18:25:40Z",
   "pushed_at": "2023-01-03T18:23:29Z",
   "git_url": "git://github.com/transitive-bullshit/ffmpeg-concat.git",
   "ssh_url": "git@github.com:transitive-bullshit/ffmpeg-concat.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/transitive-bullshit/ffmpeg-concat",
   "homepage": null,
   "size": 12246,
-  "stargazers_count": 683,
-  "watchers_count": 683,
+  "stargazers_count": 684,
+  "watchers_count": 684,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -100,7 +100,7 @@
   "visibility": "public",
   "forks": 103,
   "open_issues": 45,
-  "watchers": 683,
+  "watchers": 684,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2195
+  "_index": 2196
 }

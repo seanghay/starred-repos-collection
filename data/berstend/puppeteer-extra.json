@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/berstend/puppeteer-extra/releases{/id}",
   "deployments_url": "https://api.github.com/repos/berstend/puppeteer-extra/deployments",
   "created_at": "2018-05-15T20:02:21Z",
-  "updated_at": "2023-01-16T23:26:11Z",
-  "pushed_at": "2023-01-08T17:53:44Z",
+  "updated_at": "2023-01-17T22:58:21Z",
+  "pushed_at": "2023-01-17T08:45:40Z",
   "git_url": "git://github.com/berstend/puppeteer-extra.git",
   "ssh_url": "git@github.com:berstend/puppeteer-extra.git",
   "clone_url": "https://github.com/berstend/puppeteer-extra.git",
   "svn_url": "https://github.com/berstend/puppeteer-extra",
   "homepage": "https://extra.community",
   "size": 17837,
-  "stargazers_count": 4699,
-  "watchers_count": 4699,
+  "stargazers_count": 4707,
+  "watchers_count": 4707,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 611,
+  "forks_count": 612,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 151,
+  "open_issues_count": 152,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -113,9 +113,9 @@
     "yarn-workspaces"
   ],
   "visibility": "public",
-  "forks": 611,
-  "open_issues": 151,
-  "watchers": 4699,
+  "forks": 612,
+  "open_issues": 152,
+  "watchers": 4707,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 137
+  "_index": 138
 }

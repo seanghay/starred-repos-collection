@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/googlemaps/google-maps-ios-utils/releases{/id}",
   "deployments_url": "https://api.github.com/repos/googlemaps/google-maps-ios-utils/deployments",
   "created_at": "2013-08-30T07:03:23Z",
-  "updated_at": "2023-01-13T13:16:27Z",
+  "updated_at": "2023-01-17T21:06:12Z",
   "pushed_at": "2023-01-13T05:52:43Z",
   "git_url": "git://github.com/googlemaps/google-maps-ios-utils.git",
   "ssh_url": "git@github.com:googlemaps/google-maps-ios-utils.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/googlemaps/google-maps-ios-utils",
   "homepage": "https://developers.google.com/maps/documentation/ios-sdk/utility/",
   "size": 15831,
-  "stargazers_count": 649,
-  "watchers_count": 649,
+  "stargazers_count": 650,
+  "watchers_count": 650,
   "language": "Objective-C",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 35,
+  "open_issues_count": 36,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 368,
-  "open_issues": 35,
-  "watchers": 649,
+  "open_issues": 36,
+  "watchers": 650,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 611
+  "_index": 612
 }

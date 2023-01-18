@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/decaffeinate/decaffeinate/deployments",
   "created_at": "2015-01-17T01:00:52Z",
   "updated_at": "2023-01-16T22:32:43Z",
-  "pushed_at": "2023-01-16T03:10:04Z",
+  "pushed_at": "2023-01-17T03:01:15Z",
   "git_url": "git://github.com/decaffeinate/decaffeinate.git",
   "ssh_url": "git@github.com:decaffeinate/decaffeinate.git",
   "clone_url": "https://github.com/decaffeinate/decaffeinate.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 40,
+  "open_issues_count": 41,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,7 +104,7 @@
   ],
   "visibility": "public",
   "forks": 123,
-  "open_issues": 40,
+  "open_issues": 41,
   "watchers": 2692,
   "default_branch": "main",
   "permissions": {
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 304
+  "_index": 305
 }
