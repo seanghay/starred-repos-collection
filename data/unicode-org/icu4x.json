@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/unicode-org/icu4x/releases{/id}",
   "deployments_url": "https://api.github.com/repos/unicode-org/icu4x/deployments",
   "created_at": "2020-02-27T00:27:11Z",
-  "updated_at": "2023-01-17T21:41:54Z",
-  "pushed_at": "2023-01-17T17:59:15Z",
+  "updated_at": "2023-01-18T16:58:00Z",
+  "pushed_at": "2023-01-18T19:42:27Z",
   "git_url": "git://github.com/unicode-org/icu4x.git",
   "ssh_url": "git@github.com:unicode-org/icu4x.git",
   "clone_url": "https://github.com/unicode-org/icu4x.git",
   "svn_url": "https://github.com/unicode-org/icu4x",
   "homepage": "https://icu4x.unicode.org",
-  "size": 287568,
-  "stargazers_count": 920,
-  "watchers_count": 920,
+  "size": 287994,
+  "stargazers_count": 922,
+  "watchers_count": 922,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 360,
+  "open_issues_count": 364,
   "license": {
     "key": "other",
     "name": "Other",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 103,
-  "open_issues": 360,
-  "watchers": 920,
+  "open_issues": 364,
+  "watchers": 922,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 154
+  "_index": 155
 }

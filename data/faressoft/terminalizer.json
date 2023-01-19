@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/faressoft/terminalizer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/faressoft/terminalizer/deployments",
   "created_at": "2018-07-22T16:00:15Z",
-  "updated_at": "2023-01-17T20:54:13Z",
+  "updated_at": "2023-01-19T02:11:05Z",
   "pushed_at": "2023-01-04T16:54:38Z",
   "git_url": "git://github.com/faressoft/terminalizer.git",
   "ssh_url": "git@github.com:faressoft/terminalizer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/faressoft/terminalizer",
   "homepage": "https://terminalizer.com",
   "size": 4144,
-  "stargazers_count": 13547,
-  "watchers_count": 13547,
+  "stargazers_count": 13554,
+  "watchers_count": 13554,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 483,
+  "forks_count": 484,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -120,9 +120,9 @@
     "zsh"
   ],
   "visibility": "public",
-  "forks": 483,
+  "forks": 484,
   "open_issues": 108,
-  "watchers": 13547,
+  "watchers": 13554,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2248
+  "_index": 2249
 }

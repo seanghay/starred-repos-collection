@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/Open-Attestation/open-attestation-cli/deployments",
   "created_at": "2019-11-28T10:04:15Z",
   "updated_at": "2022-10-13T03:01:13Z",
-  "pushed_at": "2023-01-16T13:31:26Z",
+  "pushed_at": "2023-01-19T02:00:35Z",
   "git_url": "git://github.com/Open-Attestation/open-attestation-cli.git",
   "ssh_url": "git@github.com:Open-Attestation/open-attestation-cli.git",
   "clone_url": "https://github.com/Open-Attestation/open-attestation-cli.git",
   "svn_url": "https://github.com/Open-Attestation/open-attestation-cli",
   "homepage": "",
-  "size": 3085,
+  "size": 3104,
   "stargazers_count": 10,
   "watchers_count": 10,
   "language": "TypeScript",
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 246
+  "_index": 247
 }

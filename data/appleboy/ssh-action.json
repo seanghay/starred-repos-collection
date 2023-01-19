@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/appleboy/ssh-action/releases{/id}",
   "deployments_url": "https://api.github.com/repos/appleboy/ssh-action/deployments",
   "created_at": "2019-05-12T02:28:18Z",
-  "updated_at": "2023-01-17T18:41:18Z",
+  "updated_at": "2023-01-18T13:24:15Z",
   "pushed_at": "2023-01-08T01:13:15Z",
   "git_url": "git://github.com/appleboy/ssh-action.git",
   "ssh_url": "git@github.com:appleboy/ssh-action.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/appleboy/ssh-action",
   "homepage": "https://github.com/marketplace/actions/ssh-remote-commands",
   "size": 397,
-  "stargazers_count": 2890,
-  "watchers_count": 2890,
+  "stargazers_count": 2891,
+  "watchers_count": 2891,
   "language": "Dockerfile",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 416,
   "open_issues": 61,
-  "watchers": 2890,
+  "watchers": 2891,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 420
+  "_index": 421
 }

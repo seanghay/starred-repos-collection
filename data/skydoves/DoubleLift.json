@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/skydoves/DoubleLift/releases{/id}",
   "deployments_url": "https://api.github.com/repos/skydoves/DoubleLift/deployments",
   "created_at": "2019-10-25T14:08:10Z",
-  "updated_at": "2022-12-14T12:07:25Z",
+  "updated_at": "2023-01-18T10:14:26Z",
   "pushed_at": "2021-02-05T15:03:59Z",
   "git_url": "git://github.com/skydoves/DoubleLift.git",
   "ssh_url": "git@github.com:skydoves/DoubleLift.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/skydoves/DoubleLift",
   "homepage": "",
   "size": 317,
-  "stargazers_count": 358,
-  "watchers_count": 358,
+  "stargazers_count": 357,
+  "watchers_count": 357,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 22,
   "open_issues": 1,
-  "watchers": 358,
+  "watchers": 357,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1625
+  "_index": 1626
 }

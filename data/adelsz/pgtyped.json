@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/adelsz/pgtyped/releases{/id}",
   "deployments_url": "https://api.github.com/repos/adelsz/pgtyped/deployments",
   "created_at": "2019-09-23T20:52:29Z",
-  "updated_at": "2023-01-17T17:12:03Z",
-  "pushed_at": "2023-01-14T04:01:36Z",
+  "updated_at": "2023-01-18T17:35:45Z",
+  "pushed_at": "2023-01-18T19:22:16Z",
   "git_url": "git://github.com/adelsz/pgtyped.git",
   "ssh_url": "git@github.com:adelsz/pgtyped.git",
   "clone_url": "https://github.com/adelsz/pgtyped.git",
   "svn_url": "https://github.com/adelsz/pgtyped",
   "homepage": "https://pgtyped.now.sh",
   "size": 8001,
-  "stargazers_count": 2147,
-  "watchers_count": 2147,
+  "stargazers_count": 2149,
+  "watchers_count": 2149,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 64,
+  "open_issues_count": 65,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 64,
-  "open_issues": 64,
-  "watchers": 2147,
+  "open_issues": 65,
+  "watchers": 2149,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1378
+  "_index": 1379
 }

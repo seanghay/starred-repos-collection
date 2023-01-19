@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/CreateChance/SimpleVideoEditor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/CreateChance/SimpleVideoEditor/deployments",
   "created_at": "2018-06-04T07:47:55Z",
-  "updated_at": "2023-01-06T16:06:38Z",
+  "updated_at": "2023-01-19T01:29:57Z",
   "pushed_at": "2018-08-28T11:18:26Z",
   "git_url": "git://github.com/CreateChance/SimpleVideoEditor.git",
   "ssh_url": "git@github.com:CreateChance/SimpleVideoEditor.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2021
+  "_index": 2022
 }

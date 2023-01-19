@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jorgebucaran/hyperapp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jorgebucaran/hyperapp/deployments",
   "created_at": "2017-01-20T05:20:21Z",
-  "updated_at": "2023-01-17T22:58:48Z",
+  "updated_at": "2023-01-18T20:07:29Z",
   "pushed_at": "2022-12-28T01:15:49Z",
   "git_url": "git://github.com/jorgebucaran/hyperapp.git",
   "ssh_url": "git@github.com:jorgebucaran/hyperapp.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 7,
+  "open_issues_count": 8,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,7 +105,7 @@
   ],
   "visibility": "public",
   "forks": 836,
-  "open_issues": 7,
+  "open_issues": 8,
   "watchers": 18904,
   "default_branch": "main",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2434
+  "_index": 2435
 }

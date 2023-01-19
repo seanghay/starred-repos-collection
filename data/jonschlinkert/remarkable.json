@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jonschlinkert/remarkable/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jonschlinkert/remarkable/deployments",
   "created_at": "2014-09-01T17:57:42Z",
-  "updated_at": "2023-01-17T17:57:45Z",
+  "updated_at": "2023-01-18T19:29:37Z",
   "pushed_at": "2022-12-09T04:47:42Z",
   "git_url": "git://github.com/jonschlinkert/remarkable.git",
   "ssh_url": "git@github.com:jonschlinkert/remarkable.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 394,
+  "forks_count": 395,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -115,7 +115,7 @@
     "syntax-highlighting"
   ],
   "visibility": "public",
-  "forks": 394,
+  "forks": 395,
   "open_issues": 130,
   "watchers": 5457,
   "default_branch": "master",
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 923
+  "_index": 924
 }
