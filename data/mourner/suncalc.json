@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mourner/suncalc/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mourner/suncalc/deployments",
   "created_at": "2011-08-25T11:40:01Z",
-  "updated_at": "2023-01-18T17:03:14Z",
+  "updated_at": "2023-01-19T21:27:59Z",
   "pushed_at": "2022-10-05T14:12:50Z",
   "git_url": "git://github.com/mourner/suncalc.git",
   "ssh_url": "git@github.com:mourner/suncalc.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mourner/suncalc",
   "homepage": "",
   "size": 123,
-  "stargazers_count": 2778,
-  "watchers_count": 2778,
+  "stargazers_count": 2779,
+  "watchers_count": 2779,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 350,
   "open_issues": 62,
-  "watchers": 2778,
+  "watchers": 2779,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 137
+  "_index": 141
 }

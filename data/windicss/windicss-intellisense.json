@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/windicss/windicss-intellisense/releases{/id}",
   "deployments_url": "https://api.github.com/repos/windicss/windicss-intellisense/deployments",
   "created_at": "2021-02-13T15:26:12Z",
-  "updated_at": "2022-12-26T15:57:02Z",
+  "updated_at": "2023-01-19T08:13:07Z",
   "pushed_at": "2023-01-17T08:04:57Z",
   "git_url": "git://github.com/windicss/windicss-intellisense.git",
   "ssh_url": "git@github.com:windicss/windicss-intellisense.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/windicss/windicss-intellisense",
   "homepage": "https://marketplace.visualstudio.com/items?itemName=voorjaar.windicss-intellisense",
   "size": 4545,
-  "stargazers_count": 189,
-  "watchers_count": 189,
+  "stargazers_count": 190,
+  "watchers_count": 190,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 14,
   "open_issues": 60,
-  "watchers": 189,
+  "watchers": 190,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 687
+  "_index": 691
 }

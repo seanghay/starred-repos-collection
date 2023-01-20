@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wajahatkarim3/EasyValidation/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wajahatkarim3/EasyValidation/deployments",
   "created_at": "2018-04-30T12:54:53Z",
-  "updated_at": "2022-12-12T08:56:29Z",
+  "updated_at": "2023-01-19T06:37:59Z",
   "pushed_at": "2022-02-13T15:54:33Z",
   "git_url": "git://github.com/wajahatkarim3/EasyValidation.git",
   "ssh_url": "git@github.com:wajahatkarim3/EasyValidation.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wajahatkarim3/EasyValidation",
   "homepage": "",
   "size": 1108,
-  "stargazers_count": 387,
-  "watchers_count": 387,
+  "stargazers_count": 388,
+  "watchers_count": 388,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 70,
   "open_issues": 12,
-  "watchers": 387,
+  "watchers": 388,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2309
+  "_index": 2313
 }

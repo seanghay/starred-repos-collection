@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/keitaoouchi/MarkdownView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/keitaoouchi/MarkdownView/deployments",
   "created_at": "2017-05-11T04:33:42Z",
-  "updated_at": "2023-01-18T12:37:37Z",
+  "updated_at": "2023-01-19T15:56:00Z",
   "pushed_at": "2022-12-31T17:12:26Z",
   "git_url": "git://github.com/keitaoouchi/MarkdownView.git",
   "ssh_url": "git@github.com:keitaoouchi/MarkdownView.git",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 922
+  "_index": 926
 }

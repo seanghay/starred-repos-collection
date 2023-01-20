@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/uuid/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/uuid/deployments",
   "created_at": "2016-02-12T22:17:59Z",
-  "updated_at": "2023-01-18T16:47:44Z",
+  "updated_at": "2023-01-20T00:09:27Z",
   "pushed_at": "2022-11-13T13:01:54Z",
   "git_url": "git://github.com/google/uuid.git",
   "ssh_url": "git@github.com:google/uuid.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 336,
+  "forks_count": 337,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,7 +102,7 @@
     "uuid"
   ],
   "visibility": "public",
-  "forks": 336,
+  "forks": 337,
   "open_issues": 28,
   "watchers": 4102,
   "default_branch": "master",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 960
+  "_index": 964
 }

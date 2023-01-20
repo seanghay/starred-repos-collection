@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/NeXTs/Clusterize.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/NeXTs/Clusterize.js/deployments",
   "created_at": "2015-04-26T20:12:51Z",
-  "updated_at": "2023-01-18T12:26:16Z",
+  "updated_at": "2023-01-19T22:02:22Z",
   "pushed_at": "2021-12-19T19:20:22Z",
   "git_url": "git://github.com/NeXTs/Clusterize.js.git",
   "ssh_url": "git@github.com:NeXTs/Clusterize.js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/NeXTs/Clusterize.js",
   "homepage": "https://clusterize.js.org",
   "size": 1934,
-  "stargazers_count": 7099,
-  "watchers_count": 7099,
+  "stargazers_count": 7100,
+  "watchers_count": 7100,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 430,
   "open_issues": 52,
-  "watchers": 7099,
+  "watchers": 7100,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2402
+  "_index": 2406
 }

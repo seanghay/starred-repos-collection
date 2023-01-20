@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/quicktype/quicktype/releases{/id}",
   "deployments_url": "https://api.github.com/repos/quicktype/quicktype/deployments",
   "created_at": "2017-07-13T00:22:50Z",
-  "updated_at": "2023-01-19T02:07:00Z",
-  "pushed_at": "2023-01-19T01:48:01Z",
+  "updated_at": "2023-01-19T22:16:35Z",
+  "pushed_at": "2023-01-19T18:46:27Z",
   "git_url": "git://github.com/quicktype/quicktype.git",
   "ssh_url": "git@github.com:quicktype/quicktype.git",
   "clone_url": "https://github.com/quicktype/quicktype.git",
   "svn_url": "https://github.com/quicktype/quicktype",
   "homepage": "https://app.quicktype.io",
   "size": 13909,
-  "stargazers_count": 9260,
-  "watchers_count": 9260,
+  "stargazers_count": 9266,
+  "watchers_count": 9266,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 825,
+  "forks_count": 826,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 379,
+  "open_issues_count": 381,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -113,9 +113,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 825,
-  "open_issues": 379,
-  "watchers": 9260,
+  "forks": 826,
+  "open_issues": 381,
+  "watchers": 9266,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 752
+  "_index": 756
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pawegio/KAndroid/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pawegio/KAndroid/deployments",
   "created_at": "2015-03-26T19:03:16Z",
-  "updated_at": "2022-11-13T10:48:51Z",
+  "updated_at": "2023-01-19T10:12:10Z",
   "pushed_at": "2021-05-25T07:37:10Z",
   "git_url": "git://github.com/pawegio/KAndroid.git",
   "ssh_url": "git@github.com:pawegio/KAndroid.git",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2237
+  "_index": 2241
 }
