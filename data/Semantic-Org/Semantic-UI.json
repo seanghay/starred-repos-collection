@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Semantic-Org/Semantic-UI/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Semantic-Org/Semantic-UI/deployments",
   "created_at": "2013-04-08T23:32:04Z",
-  "updated_at": "2023-01-20T01:59:41Z",
+  "updated_at": "2023-01-20T12:18:58Z",
   "pushed_at": "2023-01-11T17:05:32Z",
   "git_url": "git://github.com/Semantic-Org/Semantic-UI.git",
   "ssh_url": "git@github.com:Semantic-Org/Semantic-UI.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1062,
+  "open_issues_count": 1063,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -111,7 +111,7 @@
   ],
   "visibility": "public",
   "forks": 5101,
-  "open_issues": 1062,
+  "open_issues": 1063,
   "watchers": 50363,
   "default_branch": "master",
   "permissions": {

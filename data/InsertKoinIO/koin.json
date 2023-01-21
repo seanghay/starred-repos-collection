@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/InsertKoinIO/koin/releases{/id}",
   "deployments_url": "https://api.github.com/repos/InsertKoinIO/koin/deployments",
   "created_at": "2017-06-06T12:21:06Z",
-  "updated_at": "2023-01-19T09:32:51Z",
+  "updated_at": "2023-01-20T20:39:27Z",
   "pushed_at": "2023-01-12T15:58:12Z",
   "git_url": "git://github.com/InsertKoinIO/koin.git",
   "ssh_url": "git@github.com:InsertKoinIO/koin.git",

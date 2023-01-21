@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 313,
+  "open_issues_count": 314,
   "license": {
     "key": "bsd-2-clause",
     "name": "BSD 2-Clause \"Simplified\" License",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 657,
-  "open_issues": 313,
+  "open_issues": 314,
   "watchers": 7988,
   "default_branch": "master",
   "permissions": {
