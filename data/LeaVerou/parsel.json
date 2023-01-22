@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/LeaVerou/parsel/releases{/id}",
   "deployments_url": "https://api.github.com/repos/LeaVerou/parsel/deployments",
   "created_at": "2020-08-29T10:48:46Z",
-  "updated_at": "2023-01-07T15:13:07Z",
+  "updated_at": "2023-01-21T14:10:48Z",
   "pushed_at": "2023-01-17T15:09:57Z",
   "git_url": "git://github.com/LeaVerou/parsel.git",
   "ssh_url": "git@github.com:LeaVerou/parsel.git",

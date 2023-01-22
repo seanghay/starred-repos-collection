@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/blockly/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/blockly/deployments",
   "created_at": "2013-10-25T21:13:33Z",
-  "updated_at": "2023-01-19T21:48:30Z",
+  "updated_at": "2023-01-21T23:33:49Z",
   "pushed_at": "2023-01-20T23:00:16Z",
   "git_url": "git://github.com/google/blockly.git",
   "ssh_url": "git@github.com:google/blockly.git",

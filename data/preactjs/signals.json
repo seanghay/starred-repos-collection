@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/preactjs/signals/releases{/id}",
   "deployments_url": "https://api.github.com/repos/preactjs/signals/deployments",
   "created_at": "2022-08-08T21:29:28Z",
-  "updated_at": "2023-01-20T05:56:39Z",
+  "updated_at": "2023-01-21T19:20:35Z",
   "pushed_at": "2023-01-05T15:39:34Z",
   "git_url": "git://github.com/preactjs/signals.git",
   "ssh_url": "git@github.com:preactjs/signals.git",

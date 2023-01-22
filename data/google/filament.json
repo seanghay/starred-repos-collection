@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/google/filament.git",
   "svn_url": "https://github.com/google/filament",
   "homepage": "https://google.github.io/filament/",
-  "size": 663905,
+  "size": 663992,
   "stargazers_count": 15194,
   "watchers_count": 15194,
   "language": "C++",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 98,
+  "open_issues_count": 99,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -114,7 +114,7 @@
   ],
   "visibility": "public",
   "forks": 1562,
-  "open_issues": 98,
+  "open_issues": 99,
   "watchers": 15194,
   "default_branch": "main",
   "permissions": {
