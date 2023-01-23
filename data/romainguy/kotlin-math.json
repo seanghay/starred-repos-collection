@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 59,
+  "forks_count": 60,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,7 +104,7 @@
     "math"
   ],
   "visibility": "public",
-  "forks": 59,
+  "forks": 60,
   "open_issues": 6,
   "watchers": 803,
   "default_branch": "main",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1948
+  "_index": 1950
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/developit/unfetch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/developit/unfetch/deployments",
   "created_at": "2017-02-22T05:59:42Z",
-  "updated_at": "2023-01-20T23:33:22Z",
+  "updated_at": "2023-01-23T01:20:50Z",
   "pushed_at": "2023-01-03T02:29:47Z",
   "git_url": "git://github.com/developit/unfetch.git",
   "ssh_url": "git@github.com:developit/unfetch.git",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1359
+  "_index": 1361
 }

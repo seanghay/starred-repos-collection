@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/railwayapp/nixpacks/releases{/id}",
   "deployments_url": "https://api.github.com/repos/railwayapp/nixpacks/deployments",
   "created_at": "2022-03-27T05:10:16Z",
-  "updated_at": "2023-01-21T03:30:19Z",
+  "updated_at": "2023-01-22T19:01:18Z",
   "pushed_at": "2023-01-19T20:12:23Z",
   "git_url": "git://github.com/railwayapp/nixpacks.git",
   "ssh_url": "git@github.com:railwayapp/nixpacks.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/railwayapp/nixpacks",
   "homepage": "https://nixpacks.com",
   "size": 35535,
-  "stargazers_count": 1367,
-  "watchers_count": 1367,
+  "stargazers_count": 1372,
+  "watchers_count": 1372,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 79,
   "open_issues": 53,
-  "watchers": 1367,
+  "watchers": 1372,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 338
+  "_index": 340
 }

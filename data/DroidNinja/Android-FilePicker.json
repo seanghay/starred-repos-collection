@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 87,
+  "open_issues_count": 88,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -102,7 +102,7 @@
   ],
   "visibility": "public",
   "forks": 554,
-  "open_issues": 87,
+  "open_issues": 88,
   "watchers": 2579,
   "default_branch": "master",
   "permissions": {
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2055
+  "_index": 2057
 }

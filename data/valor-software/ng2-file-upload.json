@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/valor-software/ng2-file-upload/releases{/id}",
   "deployments_url": "https://api.github.com/repos/valor-software/ng2-file-upload/deployments",
   "created_at": "2015-08-27T09:48:28Z",
-  "updated_at": "2022-12-14T16:38:33Z",
-  "pushed_at": "2023-01-21T17:33:48Z",
+  "updated_at": "2023-01-22T16:49:17Z",
+  "pushed_at": "2023-01-22T16:42:59Z",
   "git_url": "git://github.com/valor-software/ng2-file-upload.git",
   "ssh_url": "git@github.com:valor-software/ng2-file-upload.git",
   "clone_url": "https://github.com/valor-software/ng2-file-upload.git",
   "svn_url": "https://github.com/valor-software/ng2-file-upload",
   "homepage": "http://valor-software.github.io/ng2-file-upload/",
-  "size": 19130,
-  "stargazers_count": 1884,
-  "watchers_count": 1884,
+  "size": 19134,
+  "stargazers_count": 1885,
+  "watchers_count": 1885,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 426,
+  "open_issues_count": 424,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 664,
-  "open_issues": 426,
-  "watchers": 1884,
+  "open_issues": 424,
+  "watchers": 1885,
   "default_branch": "development",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2387
+  "_index": 2389
 }

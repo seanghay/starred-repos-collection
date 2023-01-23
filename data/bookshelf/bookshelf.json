@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bookshelf/bookshelf/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bookshelf/bookshelf/deployments",
   "created_at": "2013-03-06T03:07:32Z",
-  "updated_at": "2023-01-15T15:32:00Z",
+  "updated_at": "2023-01-22T15:59:24Z",
   "pushed_at": "2022-07-19T13:18:31Z",
   "git_url": "git://github.com/bookshelf/bookshelf.git",
   "ssh_url": "git@github.com:bookshelf/bookshelf.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/bookshelf/bookshelf",
   "homepage": "http://bookshelfjs.org",
   "size": 7283,
-  "stargazers_count": 6301,
-  "watchers_count": 6301,
+  "stargazers_count": 6302,
+  "watchers_count": 6302,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 587,
   "open_issues": 234,
-  "watchers": 6301,
+  "watchers": 6302,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1127
+  "_index": 1129
 }

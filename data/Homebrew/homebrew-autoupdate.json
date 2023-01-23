@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Homebrew/homebrew-autoupdate/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Homebrew/homebrew-autoupdate/deployments",
   "created_at": "2015-04-22T15:36:13Z",
-  "updated_at": "2023-01-21T09:48:09Z",
+  "updated_at": "2023-01-22T22:04:21Z",
   "pushed_at": "2023-01-13T02:30:00Z",
   "git_url": "git://github.com/Homebrew/homebrew-autoupdate.git",
   "ssh_url": "git@github.com:Homebrew/homebrew-autoupdate.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Homebrew/homebrew-autoupdate",
   "homepage": "",
   "size": 299,
-  "stargazers_count": 687,
-  "watchers_count": 687,
+  "stargazers_count": 689,
+  "watchers_count": 689,
   "language": "Ruby",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 43,
   "open_issues": 7,
-  "watchers": 687,
+  "watchers": 689,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 803
+  "_index": 805
 }
