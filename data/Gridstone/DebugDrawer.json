@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Gridstone/DebugDrawer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Gridstone/DebugDrawer/deployments",
   "created_at": "2018-08-23T04:40:21Z",
-  "updated_at": "2023-01-13T17:06:03Z",
+  "updated_at": "2023-01-23T16:11:11Z",
   "pushed_at": "2023-01-05T21:16:33Z",
   "git_url": "git://github.com/Gridstone/DebugDrawer.git",
   "ssh_url": "git@github.com:Gridstone/DebugDrawer.git",
