@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/quicktype/quicktype/releases{/id}",
   "deployments_url": "https://api.github.com/repos/quicktype/quicktype/deployments",
   "created_at": "2017-07-13T00:22:50Z",
-  "updated_at": "2023-01-23T03:24:15Z",
-  "pushed_at": "2023-01-23T20:26:37Z",
+  "updated_at": "2023-01-24T17:40:15Z",
+  "pushed_at": "2023-01-24T13:36:46Z",
   "git_url": "git://github.com/quicktype/quicktype.git",
   "ssh_url": "git@github.com:quicktype/quicktype.git",
   "clone_url": "https://github.com/quicktype/quicktype.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 384,
+  "open_issues_count": 383,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -114,7 +114,7 @@
   ],
   "visibility": "public",
   "forks": 826,
-  "open_issues": 384,
+  "open_issues": 383,
   "watchers": 9275,
   "default_branch": "master",
   "permissions": {
