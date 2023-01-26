@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 504,
+  "forks_count": 505,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,7 +106,7 @@
     "vuejs2"
   ],
   "visibility": "public",
-  "forks": 504,
+  "forks": 505,
   "open_issues": 250,
   "watchers": 5779,
   "default_branch": "v4",

@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/IvanMathy/Boop/deployments",
   "created_at": "2019-01-27T03:50:53Z",
   "updated_at": "2023-01-24T21:18:38Z",
-  "pushed_at": "2022-11-30T10:18:00Z",
+  "pushed_at": "2023-01-25T19:15:57Z",
   "git_url": "git://github.com/IvanMathy/Boop.git",
   "ssh_url": "git@github.com:IvanMathy/Boop.git",
   "clone_url": "https://github.com/IvanMathy/Boop.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 289,
+  "forks_count": 290,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 169,
+  "open_issues_count": 170,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,8 +105,8 @@
     "macos"
   ],
   "visibility": "public",
-  "forks": 289,
-  "open_issues": 169,
+  "forks": 290,
+  "open_issues": 170,
   "watchers": 3119,
   "default_branch": "main",
   "permissions": {

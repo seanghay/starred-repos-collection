@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/RedMadRobot/input-mask-android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/RedMadRobot/input-mask-android/deployments",
   "created_at": "2016-10-26T10:18:48Z",
-  "updated_at": "2023-01-24T10:00:30Z",
+  "updated_at": "2023-01-25T12:48:43Z",
   "pushed_at": "2022-12-22T11:11:21Z",
   "git_url": "git://github.com/RedMadRobot/input-mask-android.git",
   "ssh_url": "git@github.com:RedMadRobot/input-mask-android.git",
