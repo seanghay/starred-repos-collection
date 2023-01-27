@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/vapor/vapor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vapor/vapor/deployments",
   "created_at": "2016-01-18T22:37:52Z",
-  "updated_at": "2023-01-25T23:29:36Z",
-  "pushed_at": "2023-01-25T01:42:38Z",
+  "updated_at": "2023-01-27T01:57:52Z",
+  "pushed_at": "2023-01-26T23:58:21Z",
   "git_url": "git://github.com/vapor/vapor.git",
   "ssh_url": "git@github.com:vapor/vapor.git",
   "clone_url": "https://github.com/vapor/vapor.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 103,
+  "open_issues_count": 104,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,7 +109,7 @@
   ],
   "visibility": "public",
   "forks": 1389,
-  "open_issues": 103,
+  "open_issues": 104,
   "watchers": 22439,
   "default_branch": "main",
   "permissions": {

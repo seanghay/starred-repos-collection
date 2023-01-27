@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/uuid/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/uuid/deployments",
   "created_at": "2016-02-12T22:17:59Z",
-  "updated_at": "2023-01-25T17:43:47Z",
+  "updated_at": "2023-01-26T19:24:57Z",
   "pushed_at": "2022-11-13T13:01:54Z",
   "git_url": "git://github.com/google/uuid.git",
   "ssh_url": "git@github.com:google/uuid.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 28,
+  "open_issues_count": 29,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -103,7 +103,7 @@
   ],
   "visibility": "public",
   "forks": 337,
-  "open_issues": 28,
+  "open_issues": 29,
   "watchers": 4114,
   "default_branch": "master",
   "permissions": {

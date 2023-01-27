@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 70,
+  "forks_count": 71,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,7 +110,7 @@
     "validation-library"
   ],
   "visibility": "public",
-  "forks": 70,
+  "forks": 71,
   "open_issues": 12,
   "watchers": 388,
   "default_branch": "master",

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kittinunf/fuel/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kittinunf/fuel/deployments",
   "created_at": "2015-06-04T04:03:33Z",
-  "updated_at": "2023-01-24T17:23:51Z",
+  "updated_at": "2023-01-26T20:34:09Z",
   "pushed_at": "2022-12-13T02:49:49Z",
   "git_url": "git://github.com/kittinunf/fuel.git",
   "ssh_url": "git@github.com:kittinunf/fuel.git",
