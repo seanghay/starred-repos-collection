@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/handstandsam/biometricks/releases{/id}",
   "deployments_url": "https://api.github.com/repos/handstandsam/biometricks/deployments",
   "created_at": "2019-12-30T19:41:04Z",
-  "updated_at": "2022-11-08T14:09:15Z",
+  "updated_at": "2023-01-27T20:21:54Z",
   "pushed_at": "2022-10-11T12:13:25Z",
   "git_url": "git://github.com/handstandsam/biometricks.git",
   "ssh_url": "git@github.com:handstandsam/biometricks.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1679
+  "_index": 1680
 }

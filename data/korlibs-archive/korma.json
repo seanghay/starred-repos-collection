@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/korlibs-archive/korma/releases{/id}",
   "deployments_url": "https://api.github.com/repos/korlibs-archive/korma/deployments",
   "created_at": "2017-03-29T10:49:38Z",
-  "updated_at": "2022-07-07T23:35:35Z",
+  "updated_at": "2023-01-27T23:16:07Z",
   "pushed_at": "2022-07-07T21:59:42Z",
   "git_url": "git://github.com/korlibs-archive/korma.git",
   "ssh_url": "git@github.com:korlibs-archive/korma.git",
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1727
+  "_index": 1728
 }

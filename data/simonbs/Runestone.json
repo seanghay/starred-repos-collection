@@ -65,17 +65,17 @@
   "releases_url": "https://api.github.com/repos/simonbs/Runestone/releases{/id}",
   "deployments_url": "https://api.github.com/repos/simonbs/Runestone/deployments",
   "created_at": "2022-01-17T15:09:37Z",
-  "updated_at": "2023-01-26T14:41:23Z",
-  "pushed_at": "2023-01-19T07:51:19Z",
+  "updated_at": "2023-01-27T11:33:24Z",
+  "pushed_at": "2023-01-27T11:57:59Z",
   "git_url": "git://github.com/simonbs/Runestone.git",
   "ssh_url": "git@github.com:simonbs/Runestone.git",
   "clone_url": "https://github.com/simonbs/Runestone.git",
   "svn_url": "https://github.com/simonbs/Runestone",
   "homepage": "",
-  "size": 59727,
-  "stargazers_count": 2088,
-  "watchers_count": 2088,
-  "language": "Swift",
+  "size": 59734,
+  "stargazers_count": 2089,
+  "watchers_count": 2089,
+  "language": "C",
   "has_issues": true,
   "has_projects": false,
   "has_downloads": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 109,
   "open_issues": 9,
-  "watchers": 2088,
+  "watchers": 2089,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 223
+  "_index": 225
 }

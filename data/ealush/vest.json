@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ealush/vest/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ealush/vest/deployments",
   "created_at": "2019-11-26T22:10:41Z",
-  "updated_at": "2023-01-25T10:44:33Z",
+  "updated_at": "2023-01-27T06:44:27Z",
   "pushed_at": "2023-01-26T23:36:42Z",
   "git_url": "git://github.com/ealush/vest.git",
   "ssh_url": "git@github.com:ealush/vest.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ealush/vest",
   "homepage": "https://vestjs.dev/",
   "size": 14383,
-  "stargazers_count": 2058,
-  "watchers_count": 2058,
+  "stargazers_count": 2059,
+  "watchers_count": 2059,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -115,7 +115,7 @@
   "visibility": "public",
   "forks": 78,
   "open_issues": 27,
-  "watchers": 2058,
+  "watchers": 2059,
   "default_branch": "latest",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 349
+  "_index": 351
 }

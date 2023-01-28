@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/androidannotations/androidannotations/releases{/id}",
   "deployments_url": "https://api.github.com/repos/androidannotations/androidannotations/deployments",
   "created_at": "2012-01-06T08:48:03Z",
-  "updated_at": "2023-01-20T10:08:23Z",
+  "updated_at": "2023-01-28T00:21:33Z",
   "pushed_at": "2022-05-31T13:16:38Z",
   "git_url": "git://github.com/androidannotations/androidannotations.git",
   "ssh_url": "git@github.com:androidannotations/androidannotations.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1778
+  "_index": 1779
 }

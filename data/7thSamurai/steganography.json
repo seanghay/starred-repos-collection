@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 37,
+  "forks_count": 38,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,7 +107,7 @@
     "steganography-tools"
   ],
   "visibility": "public",
-  "forks": 37,
+  "forks": 38,
   "open_issues": 0,
   "watchers": 832,
   "default_branch": "main",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 121
+  "_index": 123
 }

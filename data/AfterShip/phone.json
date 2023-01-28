@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/AfterShip/phone/deployments",
   "created_at": "2013-07-18T01:31:24Z",
   "updated_at": "2023-01-26T09:55:09Z",
-  "pushed_at": "2022-12-22T17:29:28Z",
+  "pushed_at": "2023-01-27T23:40:02Z",
   "git_url": "git://github.com/AfterShip/phone.git",
   "ssh_url": "git@github.com:AfterShip/phone.git",
   "clone_url": "https://github.com/AfterShip/phone.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 236,
+  "forks_count": 237,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 0,
+  "open_issues_count": 2,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,8 +105,8 @@
     "sms"
   ],
   "visibility": "public",
-  "forks": 236,
-  "open_issues": 0,
+  "forks": 237,
+  "open_issues": 2,
   "watchers": 699,
   "default_branch": "master",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 275
+  "_index": 277
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kazekyo/nestjs-graphql-relay/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kazekyo/nestjs-graphql-relay/deployments",
   "created_at": "2019-08-24T05:01:37Z",
-  "updated_at": "2022-09-11T07:58:02Z",
+  "updated_at": "2023-01-27T21:24:28Z",
   "pushed_at": "2022-06-24T00:36:13Z",
   "git_url": "git://github.com/kazekyo/nestjs-graphql-relay.git",
   "ssh_url": "git@github.com:kazekyo/nestjs-graphql-relay.git",
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1471
+  "_index": 1472
 }

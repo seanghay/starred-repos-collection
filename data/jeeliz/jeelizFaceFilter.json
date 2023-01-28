@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jeeliz/jeelizFaceFilter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jeeliz/jeelizFaceFilter/deployments",
   "created_at": "2018-02-16T21:43:54Z",
-  "updated_at": "2023-01-26T10:39:14Z",
+  "updated_at": "2023-01-27T15:13:21Z",
   "pushed_at": "2023-01-26T03:18:03Z",
   "git_url": "git://github.com/jeeliz/jeelizFaceFilter.git",
   "ssh_url": "git@github.com:jeeliz/jeelizFaceFilter.git",
@@ -110,13 +110,12 @@
     "face-tracking",
     "faceswap",
     "javascript",
-    "library",
     "lightweight",
     "multiple-faces",
     "snapchat",
     "threejs",
     "tracking",
-    "web",
+    "webar",
     "webgl"
   ],
   "visibility": "public",
@@ -131,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1941
+  "_index": 1942
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/burhanrashid52/PhotoEditor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/burhanrashid52/PhotoEditor/deployments",
   "created_at": "2018-01-23T11:44:10Z",
-  "updated_at": "2023-01-26T18:53:05Z",
+  "updated_at": "2023-01-27T11:55:45Z",
   "pushed_at": "2023-01-20T18:45:59Z",
   "git_url": "git://github.com/burhanrashid52/PhotoEditor.git",
   "ssh_url": "git@github.com:burhanrashid52/PhotoEditor.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/burhanrashid52/PhotoEditor",
   "homepage": "",
   "size": 21754,
-  "stargazers_count": 3584,
-  "watchers_count": 3584,
+  "stargazers_count": 3586,
+  "watchers_count": 3586,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 902,
+  "forks_count": 901,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -112,9 +112,9 @@
     "text-editor"
   ],
   "visibility": "public",
-  "forks": 902,
+  "forks": 901,
   "open_issues": 65,
-  "watchers": 3584,
+  "watchers": 3586,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2200
+  "_index": 2201
 }
