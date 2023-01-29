@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lucanicoletti/HiddenSearchWithRecyclerView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lucanicoletti/HiddenSearchWithRecyclerView/deployments",
   "created_at": "2018-10-08T13:27:09Z",
-  "updated_at": "2022-11-13T10:49:01Z",
+  "updated_at": "2023-01-28T13:14:40Z",
   "pushed_at": "2020-01-21T16:57:39Z",
   "git_url": "git://github.com/lucanicoletti/HiddenSearchWithRecyclerView.git",
   "ssh_url": "git@github.com:lucanicoletti/HiddenSearchWithRecyclerView.git",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1981
+  "_index": 1982
 }

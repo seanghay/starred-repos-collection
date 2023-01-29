@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/releases{/id}",
   "deployments_url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/deployments",
   "created_at": "2017-06-02T09:52:50Z",
-  "updated_at": "2023-01-25T11:23:52Z",
+  "updated_at": "2023-01-29T00:54:03Z",
   "pushed_at": "2023-01-12T14:29:16Z",
   "git_url": "git://github.com/scwang90/SmartRefreshLayout.git",
   "ssh_url": "git@github.com:scwang90/SmartRefreshLayout.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/scwang90/SmartRefreshLayout",
   "homepage": "https://segmentfault.com/a/1190000010066071",
   "size": 273318,
-  "stargazers_count": 24036,
-  "watchers_count": 24036,
+  "stargazers_count": 24034,
+  "watchers_count": 24034,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 4897,
   "open_issues": 273,
-  "watchers": 24036,
+  "watchers": 24034,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1785
+  "_index": 1786
 }

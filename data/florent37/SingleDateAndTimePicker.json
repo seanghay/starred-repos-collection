@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/florent37/SingleDateAndTimePicker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/florent37/SingleDateAndTimePicker/deployments",
   "created_at": "2016-12-02T15:53:14Z",
-  "updated_at": "2023-01-18T19:14:34Z",
+  "updated_at": "2023-01-28T03:18:51Z",
   "pushed_at": "2021-11-10T08:10:03Z",
   "git_url": "git://github.com/florent37/SingleDateAndTimePicker.git",
   "ssh_url": "git@github.com:florent37/SingleDateAndTimePicker.git",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1826
+  "_index": 1827
 }

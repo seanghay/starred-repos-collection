@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/freeletics/FlowRecorder/releases{/id}",
   "deployments_url": "https://api.github.com/repos/freeletics/FlowRecorder/deployments",
   "created_at": "2019-10-24T07:35:20Z",
-  "updated_at": "2022-02-23T15:45:32Z",
+  "updated_at": "2023-01-28T02:50:40Z",
   "pushed_at": "2022-02-23T15:45:12Z",
   "git_url": "git://github.com/freeletics/FlowRecorder.git",
   "ssh_url": "git@github.com:freeletics/FlowRecorder.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1745
+  "_index": 1746
 }

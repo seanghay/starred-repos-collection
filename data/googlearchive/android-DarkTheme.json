@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/googlearchive/android-DarkTheme/releases{/id}",
   "deployments_url": "https://api.github.com/repos/googlearchive/android-DarkTheme/deployments",
   "created_at": "2019-05-07T18:45:05Z",
-  "updated_at": "2022-11-18T12:29:12Z",
+  "updated_at": "2023-01-28T16:59:34Z",
   "pushed_at": "2019-10-08T16:55:27Z",
   "git_url": "git://github.com/googlearchive/android-DarkTheme.git",
   "ssh_url": "git@github.com:googlearchive/android-DarkTheme.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2005
+  "_index": 2006
 }

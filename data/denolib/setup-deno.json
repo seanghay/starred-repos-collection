@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/denolib/setup-deno/releases{/id}",
   "deployments_url": "https://api.github.com/repos/denolib/setup-deno/deployments",
   "created_at": "2019-09-12T03:06:25Z",
-  "updated_at": "2022-11-10T06:39:10Z",
+  "updated_at": "2023-01-28T09:32:12Z",
   "pushed_at": "2021-04-16T02:53:42Z",
   "git_url": "git://github.com/denolib/setup-deno.git",
   "ssh_url": "git@github.com:denolib/setup-deno.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1394
+  "_index": 1395
 }

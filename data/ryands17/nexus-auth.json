@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/ryands17/nexus-auth/deployments",
   "created_at": "2019-08-13T18:44:44Z",
   "updated_at": "2023-01-06T23:12:36Z",
-  "pushed_at": "2023-01-28T01:33:59Z",
+  "pushed_at": "2023-01-29T01:18:31Z",
   "git_url": "git://github.com/ryands17/nexus-auth.git",
   "ssh_url": "git@github.com:ryands17/nexus-auth.git",
   "clone_url": "https://github.com/ryands17/nexus-auth.git",
   "svn_url": "https://github.com/ryands17/nexus-auth",
   "homepage": null,
-  "size": 2877,
+  "size": 2879,
   "stargazers_count": 160,
   "watchers_count": 160,
   "language": "TypeScript",
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 550
+  "_index": 551
 }

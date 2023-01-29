@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/oven-sh/bun/releases{/id}",
   "deployments_url": "https://api.github.com/repos/oven-sh/bun/deployments",
   "created_at": "2021-04-14T00:48:17Z",
-  "updated_at": "2023-01-27T23:32:10Z",
-  "pushed_at": "2023-01-28T01:56:01Z",
+  "updated_at": "2023-01-29T01:57:51Z",
+  "pushed_at": "2023-01-28T23:49:30Z",
   "git_url": "git://github.com/oven-sh/bun.git",
   "ssh_url": "git@github.com:oven-sh/bun.git",
   "clone_url": "https://github.com/oven-sh/bun.git",
   "svn_url": "https://github.com/oven-sh/bun",
   "homepage": "https://bun.sh",
-  "size": 43002,
-  "stargazers_count": 38282,
-  "watchers_count": 38282,
+  "size": 43378,
+  "stargazers_count": 38311,
+  "watchers_count": 38311,
   "language": "Zig",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 497,
+  "open_issues_count": 502,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 935,
-  "open_issues": 497,
-  "watchers": 38282,
+  "open_issues": 502,
+  "watchers": 38311,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 386
+  "_index": 387
 }

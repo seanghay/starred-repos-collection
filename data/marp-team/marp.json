@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/marp-team/marp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/marp-team/marp/deployments",
   "created_at": "2018-03-25T12:47:38Z",
-  "updated_at": "2023-01-28T01:09:05Z",
-  "pushed_at": "2023-01-26T18:56:59Z",
+  "updated_at": "2023-01-28T22:58:01Z",
+  "pushed_at": "2023-01-28T13:54:36Z",
   "git_url": "git://github.com/marp-team/marp.git",
   "ssh_url": "git@github.com:marp-team/marp.git",
   "clone_url": "https://github.com/marp-team/marp.git",
   "svn_url": "https://github.com/marp-team/marp",
   "homepage": "https://marp.app/",
-  "size": 5584,
-  "stargazers_count": 5387,
-  "watchers_count": 5387,
+  "size": 5587,
+  "stargazers_count": 5398,
+  "watchers_count": 5398,
   "language": "TypeScript",
   "has_issues": false,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 103,
+  "forks_count": 104,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1,
+  "open_issues_count": 0,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,9 +105,9 @@
     "slides"
   ],
   "visibility": "public",
-  "forks": 103,
-  "open_issues": 1,
-  "watchers": 5387,
+  "forks": 104,
+  "open_issues": 0,
+  "watchers": 5398,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 853
+  "_index": 854
 }

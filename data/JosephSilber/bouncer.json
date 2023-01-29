@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/JosephSilber/bouncer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JosephSilber/bouncer/deployments",
   "created_at": "2015-09-17T00:34:40Z",
-  "updated_at": "2023-01-27T15:42:26Z",
+  "updated_at": "2023-01-28T16:10:22Z",
   "pushed_at": "2022-10-31T21:06:25Z",
   "git_url": "git://github.com/JosephSilber/bouncer.git",
   "ssh_url": "git@github.com:JosephSilber/bouncer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/JosephSilber/bouncer",
   "homepage": "",
   "size": 2993,
-  "stargazers_count": 3191,
-  "watchers_count": 3191,
+  "stargazers_count": 3190,
+  "watchers_count": 3190,
   "language": "PHP",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 314,
+  "forks_count": 315,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,9 +110,9 @@
     "security"
   ],
   "visibility": "public",
-  "forks": 314,
+  "forks": 315,
   "open_issues": 31,
-  "watchers": 3191,
+  "watchers": 3190,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 491
+  "_index": 492
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/charmbracelet/gum/releases{/id}",
   "deployments_url": "https://api.github.com/repos/charmbracelet/gum/deployments",
   "created_at": "2022-06-10T22:09:42Z",
-  "updated_at": "2023-01-28T00:24:04Z",
-  "pushed_at": "2023-01-19T19:19:39Z",
+  "updated_at": "2023-01-28T23:30:04Z",
+  "pushed_at": "2023-01-28T14:29:16Z",
   "git_url": "git://github.com/charmbracelet/gum.git",
   "ssh_url": "git@github.com:charmbracelet/gum.git",
   "clone_url": "https://github.com/charmbracelet/gum.git",
   "svn_url": "https://github.com/charmbracelet/gum",
   "homepage": "",
   "size": 443,
-  "stargazers_count": 12013,
-  "watchers_count": 12013,
+  "stargazers_count": 12020,
+  "watchers_count": 12020,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 217,
+  "forks_count": 218,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,9 +103,9 @@
     "shell"
   ],
   "visibility": "public",
-  "forks": 217,
+  "forks": 218,
   "open_issues": 45,
-  "watchers": 12013,
+  "watchers": 12020,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 276
+  "_index": 277
 }
