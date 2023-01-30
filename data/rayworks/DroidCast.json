@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/rayworks/DroidCast/deployments",
   "created_at": "2017-03-14T09:54:47Z",
   "updated_at": "2023-01-17T14:43:36Z",
-  "pushed_at": "2023-01-26T05:52:57Z",
+  "pushed_at": "2023-01-29T09:18:31Z",
   "git_url": "git://github.com/rayworks/DroidCast.git",
   "ssh_url": "git@github.com:rayworks/DroidCast.git",
   "clone_url": "https://github.com/rayworks/DroidCast.git",
   "svn_url": "https://github.com/rayworks/DroidCast",
   "homepage": "http://www.jianshu.com/p/791a3ed2a348",
-  "size": 9873,
+  "size": 9874,
   "stargazers_count": 142,
   "watchers_count": 142,
   "language": "Java",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1790
+  "_index": 1792
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/bazelbuild/bazel/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bazelbuild/bazel/deployments",
   "created_at": "2014-06-12T16:00:38Z",
-  "updated_at": "2023-01-28T22:06:26Z",
-  "pushed_at": "2023-01-28T22:09:15Z",
+  "updated_at": "2023-01-29T19:04:27Z",
+  "pushed_at": "2023-01-29T20:46:36Z",
   "git_url": "git://github.com/bazelbuild/bazel.git",
   "ssh_url": "git@github.com:bazelbuild/bazel.git",
   "clone_url": "https://github.com/bazelbuild/bazel.git",
   "svn_url": "https://github.com/bazelbuild/bazel",
   "homepage": "https://bazel.build",
   "size": 888465,
-  "stargazers_count": 20177,
-  "watchers_count": 20177,
+  "stargazers_count": 20182,
+  "watchers_count": 20182,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 3654,
   "open_issues": 2595,
-  "watchers": 20177,
+  "watchers": 20182,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2382
+  "_index": 2384
 }

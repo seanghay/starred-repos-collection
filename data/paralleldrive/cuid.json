@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/paralleldrive/cuid.git",
   "svn_url": "https://github.com/paralleldrive/cuid",
   "homepage": "",
-  "size": 2029,
+  "size": 2170,
   "stargazers_count": 3099,
   "watchers_count": 3099,
   "language": "JavaScript",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1245
+  "_index": 1247
 }

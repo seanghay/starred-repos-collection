@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/digitalocean/doctl/releases{/id}",
   "deployments_url": "https://api.github.com/repos/digitalocean/doctl/deployments",
   "created_at": "2015-05-29T21:24:39Z",
-  "updated_at": "2023-01-28T19:46:28Z",
+  "updated_at": "2023-01-29T04:19:44Z",
   "pushed_at": "2023-01-23T16:11:33Z",
   "git_url": "git://github.com/digitalocean/doctl.git",
   "ssh_url": "git@github.com:digitalocean/doctl.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/digitalocean/doctl",
   "homepage": "https://docs.digitalocean.com/reference/doctl/",
   "size": 50623,
-  "stargazers_count": 3044,
-  "watchers_count": 3044,
+  "stargazers_count": 3046,
+  "watchers_count": 3046,
   "language": "Go",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 362,
+  "forks_count": 363,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "infrastructure"
   ],
   "visibility": "public",
-  "forks": 362,
+  "forks": 363,
   "open_issues": 72,
-  "watchers": 3044,
+  "watchers": 3046,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1215
+  "_index": 1217
 }

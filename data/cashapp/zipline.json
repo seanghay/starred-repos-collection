@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/cashapp/zipline/releases{/id}",
   "deployments_url": "https://api.github.com/repos/cashapp/zipline/deployments",
   "created_at": "2015-08-26T19:17:25Z",
-  "updated_at": "2023-01-27T23:12:10Z",
-  "pushed_at": "2023-01-28T14:19:00Z",
+  "updated_at": "2023-01-29T17:29:53Z",
+  "pushed_at": "2023-01-29T22:38:45Z",
   "git_url": "git://github.com/cashapp/zipline.git",
   "ssh_url": "git@github.com:cashapp/zipline.git",
   "clone_url": "https://github.com/cashapp/zipline.git",
   "svn_url": "https://github.com/cashapp/zipline",
   "homepage": "",
-  "size": 12018,
-  "stargazers_count": 1523,
-  "watchers_count": 1523,
+  "size": 12022,
+  "stargazers_count": 1524,
+  "watchers_count": 1524,
   "language": "C",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 127,
   "open_issues": 54,
-  "watchers": 1523,
+  "watchers": 1524,
   "default_branch": "trunk",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 35
+  "_index": 37
 }

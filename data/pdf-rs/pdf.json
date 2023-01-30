@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pdf-rs/pdf/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pdf-rs/pdf/deployments",
   "created_at": "2016-12-11T11:00:01Z",
-  "updated_at": "2023-01-28T14:09:57Z",
+  "updated_at": "2023-01-29T19:00:20Z",
   "pushed_at": "2023-01-24T09:45:30Z",
   "git_url": "git://github.com/pdf-rs/pdf.git",
   "ssh_url": "git@github.com:pdf-rs/pdf.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/pdf-rs/pdf",
   "homepage": "",
   "size": 3125,
-  "stargazers_count": 693,
-  "watchers_count": 693,
+  "stargazers_count": 700,
+  "watchers_count": 700,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 20,
+  "open_issues_count": 21,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,8 +104,8 @@
   ],
   "visibility": "public",
   "forks": 78,
-  "open_issues": 20,
-  "watchers": 693,
+  "open_issues": 21,
+  "watchers": 700,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 18
+  "_index": 20
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/haproxy/haproxy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/haproxy/haproxy/deployments",
   "created_at": "2018-04-09T15:17:42Z",
-  "updated_at": "2023-01-28T07:29:18Z",
+  "updated_at": "2023-01-30T02:08:37Z",
   "pushed_at": "2023-01-27T14:57:31Z",
   "git_url": "git://github.com/haproxy/haproxy.git",
   "ssh_url": "git@github.com:haproxy/haproxy.git",
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 543
+  "_index": 545
 }
