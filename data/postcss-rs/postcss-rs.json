@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/postcss-rs/postcss-rs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/postcss-rs/postcss-rs/deployments",
   "created_at": "2021-10-18T07:06:58Z",
-  "updated_at": "2023-01-17T07:31:15Z",
+  "updated_at": "2023-01-31T01:47:10Z",
   "pushed_at": "2022-10-31T16:07:24Z",
   "git_url": "git://github.com/postcss-rs/postcss-rs.git",
   "ssh_url": "git@github.com:postcss-rs/postcss-rs.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/postcss-rs/postcss-rs",
   "homepage": "",
   "size": 1411,
-  "stargazers_count": 485,
-  "watchers_count": 485,
+  "stargazers_count": 487,
+  "watchers_count": 487,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 17,
   "open_issues": 14,
-  "watchers": 485,
+  "watchers": 487,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 595
+  "_index": 598
 }

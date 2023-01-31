@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/shaopx/VideoClipEditViewTest",
-  "description": "使用android原生的MediaExtractor,MediaCodec和opengl对视频进行编辑, 裁剪,滤镜, 特效",
+  "description": "Edit, crop, filter, and add special effects to video using Android native MediaExtractor, MediaCodec, and OpenGL",
   "fork": false,
   "url": "https://api.github.com/repos/shaopx/VideoClipEditViewTest",
   "forks_url": "https://api.github.com/repos/shaopx/VideoClipEditViewTest/forks",
@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/shaopx/VideoClipEditViewTest/releases{/id}",
   "deployments_url": "https://api.github.com/repos/shaopx/VideoClipEditViewTest/deployments",
   "created_at": "2018-09-11T14:09:11Z",
-  "updated_at": "2023-01-10T20:27:23Z",
+  "updated_at": "2023-01-30T11:53:24Z",
   "pushed_at": "2022-04-08T10:28:56Z",
   "git_url": "git://github.com/shaopx/VideoClipEditViewTest.git",
   "ssh_url": "git@github.com:shaopx/VideoClipEditViewTest.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/shaopx/VideoClipEditViewTest",
   "homepage": "",
   "size": 14296,
-  "stargazers_count": 434,
-  "watchers_count": 434,
+  "stargazers_count": 435,
+  "watchers_count": 435,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 115,
   "open_issues": 7,
-  "watchers": 434,
+  "watchers": 435,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2037
+  "_index": 2040
 }

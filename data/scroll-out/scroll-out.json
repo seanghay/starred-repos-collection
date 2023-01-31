@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/scroll-out/scroll-out/releases{/id}",
   "deployments_url": "https://api.github.com/repos/scroll-out/scroll-out/deployments",
   "created_at": "2017-08-19T20:54:03Z",
-  "updated_at": "2023-01-25T02:57:10Z",
+  "updated_at": "2023-01-30T07:36:58Z",
   "pushed_at": "2023-01-04T05:59:03Z",
   "git_url": "git://github.com/scroll-out/scroll-out.git",
   "ssh_url": "git@github.com:scroll-out/scroll-out.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/scroll-out/scroll-out",
   "homepage": "https://scroll-out.github.io/",
   "size": 423,
-  "stargazers_count": 1186,
-  "watchers_count": 1186,
+  "stargazers_count": 1187,
+  "watchers_count": 1187,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -103,7 +103,7 @@
   "visibility": "public",
   "forks": 130,
   "open_issues": 28,
-  "watchers": 1186,
+  "watchers": 1187,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2295
+  "_index": 2298
 }

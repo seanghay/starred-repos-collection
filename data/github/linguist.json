@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/github/linguist/releases{/id}",
   "deployments_url": "https://api.github.com/repos/github/linguist/deployments",
   "created_at": "2011-05-09T22:53:13Z",
-  "updated_at": "2023-01-29T22:46:34Z",
+  "updated_at": "2023-01-30T09:34:44Z",
   "pushed_at": "2023-01-29T08:02:04Z",
   "git_url": "git://github.com/github/linguist.git",
   "ssh_url": "git@github.com:github/linguist.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 3923,
+  "forks_count": 3926,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,7 +104,7 @@
     "syntax-highlighting"
   ],
   "visibility": "public",
-  "forks": 3923,
+  "forks": 3926,
   "open_issues": 141,
   "watchers": 10649,
   "default_branch": "master",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1253
+  "_index": 1256
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/eveningkid/reacto/releases{/id}",
   "deployments_url": "https://api.github.com/repos/eveningkid/reacto/deployments",
   "created_at": "2018-03-18T17:32:14Z",
-  "updated_at": "2022-10-12T12:35:49Z",
+  "updated_at": "2023-01-30T03:53:05Z",
   "pushed_at": "2019-05-01T14:50:59Z",
   "git_url": "git://github.com/eveningkid/reacto.git",
   "ssh_url": "git@github.com:eveningkid/reacto.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/eveningkid/reacto",
   "homepage": null,
   "size": 4262,
-  "stargazers_count": 857,
-  "watchers_count": 857,
+  "stargazers_count": 856,
+  "watchers_count": 856,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 48,
   "open_issues": 3,
-  "watchers": 857,
+  "watchers": 856,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2427
+  "_index": 2430
 }

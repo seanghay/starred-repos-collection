@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/thi-ng/umbrella/deployments",
   "created_at": "2018-01-24T02:31:44Z",
   "updated_at": "2023-01-28T10:42:09Z",
-  "pushed_at": "2023-01-29T19:51:01Z",
+  "pushed_at": "2023-01-30T20:35:52Z",
   "git_url": "git://github.com/thi-ng/umbrella.git",
   "ssh_url": "git@github.com:thi-ng/umbrella.git",
   "clone_url": "https://github.com/thi-ng/umbrella.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 115,
+  "forks_count": 116,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 57,
+  "open_issues_count": 58,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -120,8 +120,8 @@
     "ziglang"
   ],
   "visibility": "public",
-  "forks": 115,
-  "open_issues": 57,
+  "forks": 116,
+  "open_issues": 58,
   "watchers": 2736,
   "default_branch": "develop",
   "permissions": {
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1137
+  "_index": 1140
 }

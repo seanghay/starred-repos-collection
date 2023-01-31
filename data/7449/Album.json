@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/7449/Album",
-  "description": "android 图片视频加载库，单选，多选，预览，自定义UI，相机，裁剪...等等 已适配android10，11",
+  "description": "android 图片视频加载库，单选，多选，预览，自定义UI，相机，裁剪...等等 适配10-13",
   "fork": false,
   "url": "https://api.github.com/repos/7449/Album",
   "forks_url": "https://api.github.com/repos/7449/Album/forks",
@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/7449/Album/releases{/id}",
   "deployments_url": "https://api.github.com/repos/7449/Album/deployments",
   "created_at": "2017-08-14T07:27:06Z",
-  "updated_at": "2023-01-03T06:28:18Z",
-  "pushed_at": "2022-11-29T03:27:22Z",
+  "updated_at": "2023-01-30T11:00:51Z",
+  "pushed_at": "2023-01-30T11:01:18Z",
   "git_url": "git://github.com/7449/Album.git",
   "ssh_url": "git@github.com:7449/Album.git",
   "clone_url": "https://github.com/7449/Album.git",
   "svn_url": "https://github.com/7449/Album",
-  "homepage": "",
-  "size": 16062,
+  "homepage": "https://7449.github.io/Album",
+  "size": 16106,
   "stargazers_count": 61,
   "watchers_count": 61,
   "language": "Kotlin",
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2092
+  "_index": 2095
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/natario1/ZoomLayout/releases{/id}",
   "deployments_url": "https://api.github.com/repos/natario1/ZoomLayout/deployments",
   "created_at": "2017-09-27T13:21:11Z",
-  "updated_at": "2023-01-26T01:24:09Z",
-  "pushed_at": "2022-08-17T03:12:44Z",
+  "updated_at": "2023-01-30T17:23:06Z",
+  "pushed_at": "2023-01-30T11:04:20Z",
   "git_url": "git://github.com/natario1/ZoomLayout.git",
   "ssh_url": "git@github.com:natario1/ZoomLayout.git",
   "clone_url": "https://github.com/natario1/ZoomLayout.git",
   "svn_url": "https://github.com/natario1/ZoomLayout",
   "homepage": "https://natario1.github.io/ZoomLayout",
-  "size": 46471,
-  "stargazers_count": 903,
-  "watchers_count": 903,
+  "size": 46477,
+  "stargazers_count": 904,
+  "watchers_count": 904,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 22,
+  "open_issues_count": 21,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -116,8 +116,8 @@
   ],
   "visibility": "public",
   "forks": 141,
-  "open_issues": 22,
-  "watchers": 903,
+  "open_issues": 21,
+  "watchers": 904,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1886
+  "_index": 1889
 }

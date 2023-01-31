@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/igorwojda/android-showcase/releases{/id}",
   "deployments_url": "https://api.github.com/repos/igorwojda/android-showcase/deployments",
   "created_at": "2018-11-20T22:45:04Z",
-  "updated_at": "2023-01-29T10:37:49Z",
+  "updated_at": "2023-01-30T19:56:36Z",
   "pushed_at": "2023-01-28T03:26:20Z",
   "git_url": "git://github.com/igorwojda/android-showcase.git",
   "ssh_url": "git@github.com:igorwojda/android-showcase.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/igorwojda/android-showcase",
   "homepage": "",
   "size": 9521,
-  "stargazers_count": 5771,
-  "watchers_count": 5771,
+  "stargazers_count": 5775,
+  "watchers_count": 5775,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 813,
+  "forks_count": 812,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,9 +110,9 @@
     "mvvm"
   ],
   "visibility": "public",
-  "forks": 813,
+  "forks": 812,
   "open_issues": 11,
-  "watchers": 5771,
+  "watchers": 5775,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1937
+  "_index": 1940
 }
