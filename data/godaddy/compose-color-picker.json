@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/godaddy/compose-color-picker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/godaddy/compose-color-picker/deployments",
   "created_at": "2021-10-26T14:25:49Z",
-  "updated_at": "2023-01-27T09:49:29Z",
-  "pushed_at": "2023-01-30T16:07:23Z",
+  "updated_at": "2023-01-31T14:29:48Z",
+  "pushed_at": "2023-01-31T10:03:57Z",
   "git_url": "git://github.com/godaddy/compose-color-picker.git",
   "ssh_url": "git@github.com:godaddy/compose-color-picker.git",
   "clone_url": "https://github.com/godaddy/compose-color-picker.git",
   "svn_url": "https://github.com/godaddy/compose-color-picker",
   "homepage": "",
-  "size": 52658,
-  "stargazers_count": 273,
-  "watchers_count": 273,
+  "size": 52675,
+  "stargazers_count": 275,
+  "watchers_count": 275,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 16,
+  "open_issues_count": 11,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 18,
-  "open_issues": 16,
-  "watchers": 273,
+  "open_issues": 11,
+  "watchers": 275,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 543
+  "_index": 545
 }

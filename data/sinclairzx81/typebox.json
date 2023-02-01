@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sinclairzx81/typebox/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sinclairzx81/typebox/deployments",
   "created_at": "2017-04-06T17:08:46Z",
-  "updated_at": "2023-01-31T01:55:29Z",
+  "updated_at": "2023-01-31T21:45:33Z",
   "pushed_at": "2023-01-19T06:25:25Z",
   "git_url": "git://github.com/sinclairzx81/typebox.git",
   "ssh_url": "git@github.com:sinclairzx81/typebox.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sinclairzx81/typebox",
   "homepage": "",
   "size": 8542,
-  "stargazers_count": 2274,
-  "watchers_count": 2274,
+  "stargazers_count": 2310,
+  "watchers_count": 2310,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 3,
+  "open_issues_count": 4,
   "license": {
     "key": "other",
     "name": "Other",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 77,
-  "open_issues": 3,
-  "watchers": 2274,
+  "open_issues": 4,
+  "watchers": 2310,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 559
+  "_index": 561
 }

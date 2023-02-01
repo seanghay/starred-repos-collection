@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jaiobs/OptiVideoEditor-for-iOS/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jaiobs/OptiVideoEditor-for-iOS/deployments",
   "created_at": "2019-08-05T06:28:38Z",
-  "updated_at": "2023-01-27T23:57:09Z",
+  "updated_at": "2023-01-31T04:46:17Z",
   "pushed_at": "2021-09-22T04:52:53Z",
   "git_url": "git://github.com/jaiobs/OptiVideoEditor-for-iOS.git",
   "ssh_url": "git@github.com:jaiobs/OptiVideoEditor-for-iOS.git",
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 768
+  "_index": 770
 }

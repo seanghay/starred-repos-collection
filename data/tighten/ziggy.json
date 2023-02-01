@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 202,
+  "forks_count": 201,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,7 +105,7 @@
     "ziggy"
   ],
   "visibility": "public",
-  "forks": 202,
+  "forks": 201,
   "open_issues": 8,
   "watchers": 3126,
   "default_branch": "main",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1031
+  "_index": 1033
 }

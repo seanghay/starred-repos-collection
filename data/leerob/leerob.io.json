@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/leerob/leerob.io/releases{/id}",
   "deployments_url": "https://api.github.com/repos/leerob/leerob.io/deployments",
   "created_at": "2018-12-16T18:22:37Z",
-  "updated_at": "2023-01-31T02:14:13Z",
-  "pushed_at": "2023-01-31T00:02:05Z",
+  "updated_at": "2023-02-01T01:44:36Z",
+  "pushed_at": "2023-01-31T16:41:15Z",
   "git_url": "git://github.com/leerob/leerob.io.git",
   "ssh_url": "git@github.com:leerob/leerob.io.git",
   "clone_url": "https://github.com/leerob/leerob.io.git",
   "svn_url": "https://github.com/leerob/leerob.io",
   "homepage": "https://leerob.io",
   "size": 194663,
-  "stargazers_count": 4917,
-  "watchers_count": 4917,
+  "stargazers_count": 5015,
+  "watchers_count": 5015,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 925,
+  "forks_count": 939,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 3,
+  "open_issues_count": 4,
   "license": {
     "key": "other",
     "name": "Other",
@@ -108,9 +108,9 @@
     "vercel"
   ],
   "visibility": "public",
-  "forks": 925,
-  "open_issues": 3,
-  "watchers": 4917,
+  "forks": 939,
+  "open_issues": 4,
+  "watchers": 5015,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1129
+  "_index": 1131
 }

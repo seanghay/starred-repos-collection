@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/unjs/consola/releases{/id}",
   "deployments_url": "https://api.github.com/repos/unjs/consola/deployments",
   "created_at": "2018-03-31T15:47:47Z",
-  "updated_at": "2023-01-31T01:05:15Z",
+  "updated_at": "2023-01-31T23:07:42Z",
   "pushed_at": "2023-01-28T23:56:35Z",
   "git_url": "git://github.com/unjs/consola.git",
   "ssh_url": "git@github.com:unjs/consola.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/unjs/consola",
   "homepage": "",
   "size": 2412,
-  "stargazers_count": 4099,
-  "watchers_count": 4099,
+  "stargazers_count": 4101,
+  "watchers_count": 4101,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 131,
+  "forks_count": 130,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,9 +106,9 @@
     "terminal"
   ],
   "visibility": "public",
-  "forks": 131,
+  "forks": 130,
   "open_issues": 41,
-  "watchers": 4099,
+  "watchers": 4101,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1696
+  "_index": 1698
 }

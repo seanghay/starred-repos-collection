@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/onury/accesscontrol/releases{/id}",
   "deployments_url": "https://api.github.com/repos/onury/accesscontrol/deployments",
   "created_at": "2016-09-13T16:56:53Z",
-  "updated_at": "2023-01-31T01:30:27Z",
+  "updated_at": "2023-01-31T07:14:09Z",
   "pushed_at": "2021-09-28T20:29:12Z",
   "git_url": "git://github.com/onury/accesscontrol.git",
   "ssh_url": "git@github.com:onury/accesscontrol.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/onury/accesscontrol",
   "homepage": "https://onury.io/accesscontrol",
   "size": 435,
-  "stargazers_count": 1939,
-  "watchers_count": 1939,
+  "stargazers_count": 1940,
+  "watchers_count": 1940,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 156,
   "open_issues": 44,
-  "watchers": 1939,
+  "watchers": 1940,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 803
+  "_index": 805
 }

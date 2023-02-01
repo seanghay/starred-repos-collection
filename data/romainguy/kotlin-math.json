@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/romainguy/kotlin-math/releases{/id}",
   "deployments_url": "https://api.github.com/repos/romainguy/kotlin-math/deployments",
   "created_at": "2017-12-23T17:45:43Z",
-  "updated_at": "2023-01-30T14:59:17Z",
+  "updated_at": "2023-01-31T09:39:17Z",
   "pushed_at": "2022-11-28T21:27:29Z",
   "git_url": "git://github.com/romainguy/kotlin-math.git",
   "ssh_url": "git@github.com:romainguy/kotlin-math.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/romainguy/kotlin-math",
   "homepage": "",
   "size": 218,
-  "stargazers_count": 806,
-  "watchers_count": 806,
+  "stargazers_count": 807,
+  "watchers_count": 807,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 60,
   "open_issues": 6,
-  "watchers": 806,
+  "watchers": 807,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1957
+  "_index": 1959
 }

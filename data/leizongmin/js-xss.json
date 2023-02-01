@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/leizongmin/js-xss/releases{/id}",
   "deployments_url": "https://api.github.com/repos/leizongmin/js-xss/deployments",
   "created_at": "2012-09-18T14:05:07Z",
-  "updated_at": "2023-01-30T10:50:11Z",
+  "updated_at": "2023-02-01T02:12:27Z",
   "pushed_at": "2023-01-16T17:28:04Z",
   "git_url": "git://github.com/leizongmin/js-xss.git",
   "ssh_url": "git@github.com:leizongmin/js-xss.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 700
+  "_index": 702
 }

@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/iamolegga/nestjs-session.git",
   "svn_url": "https://github.com/iamolegga/nestjs-session",
   "homepage": "",
-  "size": 4716,
+  "size": 4887,
   "stargazers_count": 159,
   "watchers_count": 159,
   "language": "TypeScript",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1027
+  "_index": 1029
 }

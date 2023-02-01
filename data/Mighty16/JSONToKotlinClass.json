@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Mighty16/JSONToKotlinClass/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Mighty16/JSONToKotlinClass/deployments",
   "created_at": "2017-09-28T18:07:29Z",
-  "updated_at": "2022-12-21T07:45:10Z",
+  "updated_at": "2023-01-31T15:06:14Z",
   "pushed_at": "2021-01-18T20:57:45Z",
   "git_url": "git://github.com/Mighty16/JSONToKotlinClass.git",
   "ssh_url": "git@github.com:Mighty16/JSONToKotlinClass.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2333
+  "_index": 2335
 }

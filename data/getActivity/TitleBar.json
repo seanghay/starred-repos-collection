@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/getActivity/TitleBar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/getActivity/TitleBar/deployments",
   "created_at": "2018-08-17T06:54:04Z",
-  "updated_at": "2023-01-29T18:21:50Z",
+  "updated_at": "2023-01-31T08:23:55Z",
   "pushed_at": "2022-12-31T08:44:27Z",
   "git_url": "git://github.com/getActivity/TitleBar.git",
   "ssh_url": "git@github.com:getActivity/TitleBar.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/getActivity/TitleBar",
   "homepage": "",
   "size": 37046,
-  "stargazers_count": 1458,
-  "watchers_count": 1458,
+  "stargazers_count": 1459,
+  "watchers_count": 1459,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 195,
+  "forks_count": 196,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "toolbar"
   ],
   "visibility": "public",
-  "forks": 195,
+  "forks": 196,
   "open_issues": 1,
-  "watchers": 1458,
+  "watchers": 1459,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1703
+  "_index": 1705
 }

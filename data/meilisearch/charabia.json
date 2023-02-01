@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/meilisearch/charabia/deployments",
   "created_at": "2020-10-06T13:00:37Z",
   "updated_at": "2023-01-30T16:46:10Z",
-  "pushed_at": "2023-01-30T14:57:33Z",
+  "pushed_at": "2023-01-31T16:20:11Z",
   "git_url": "git://github.com/meilisearch/charabia.git",
   "ssh_url": "git@github.com:meilisearch/charabia.git",
   "clone_url": "https://github.com/meilisearch/charabia.git",
   "svn_url": "https://github.com/meilisearch/charabia",
   "homepage": null,
-  "size": 1640,
+  "size": 1653,
   "stargazers_count": 123,
   "watchers_count": 123,
   "language": "Rust",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 9,
+  "open_issues_count": 8,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 50,
-  "open_issues": 9,
+  "open_issues": 8,
   "watchers": 123,
   "default_branch": "main",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 605
+  "_index": 607
 }

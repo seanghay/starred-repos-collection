@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Malinskiy/adam/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Malinskiy/adam/deployments",
   "created_at": "2019-08-02T13:03:07Z",
-  "updated_at": "2023-01-24T11:35:58Z",
-  "pushed_at": "2022-11-29T05:22:39Z",
+  "updated_at": "2023-02-01T02:21:35Z",
+  "pushed_at": "2023-02-01T00:08:48Z",
   "git_url": "git://github.com/Malinskiy/adam.git",
   "ssh_url": "git@github.com:Malinskiy/adam.git",
   "clone_url": "https://github.com/Malinskiy/adam.git",
   "svn_url": "https://github.com/Malinskiy/adam",
   "homepage": "https://malinskiy.github.io/adam/",
-  "size": 9629,
-  "stargazers_count": 320,
-  "watchers_count": 320,
+  "size": 9665,
+  "stargazers_count": 321,
+  "watchers_count": 321,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 3,
+  "open_issues_count": 2,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -113,8 +113,8 @@
   ],
   "visibility": "public",
   "forks": 24,
-  "open_issues": 3,
-  "watchers": 320,
+  "open_issues": 2,
+  "watchers": 321,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1050
+  "_index": 1052
 }

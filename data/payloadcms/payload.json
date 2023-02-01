@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/payloadcms/payload/releases{/id}",
   "deployments_url": "https://api.github.com/repos/payloadcms/payload/deployments",
   "created_at": "2021-01-05T18:49:45Z",
-  "updated_at": "2023-01-31T00:48:11Z",
-  "pushed_at": "2023-01-30T21:55:12Z",
+  "updated_at": "2023-01-31T23:49:56Z",
+  "pushed_at": "2023-02-01T02:17:38Z",
   "git_url": "git://github.com/payloadcms/payload.git",
   "ssh_url": "git@github.com:payloadcms/payload.git",
   "clone_url": "https://github.com/payloadcms/payload.git",
   "svn_url": "https://github.com/payloadcms/payload",
   "homepage": "https://payloadcms.com",
-  "size": 22028,
-  "stargazers_count": 9207,
-  "watchers_count": 9207,
+  "size": 22749,
+  "stargazers_count": 9225,
+  "watchers_count": 9225,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 421,
+  "forks_count": 419,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -119,9 +119,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 421,
+  "forks": 419,
   "open_issues": 22,
-  "watchers": 9207,
+  "watchers": 9225,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 409
+  "_index": 411
 }
