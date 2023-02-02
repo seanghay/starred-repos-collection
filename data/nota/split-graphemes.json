@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/nota/split-graphemes/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nota/split-graphemes/deployments",
   "created_at": "2018-05-18T04:38:05Z",
-  "updated_at": "2023-01-02T08:07:30Z",
-  "pushed_at": "2023-01-27T08:26:06Z",
+  "updated_at": "2023-02-02T01:47:36Z",
+  "pushed_at": "2023-02-02T01:49:21Z",
   "git_url": "git://github.com/nota/split-graphemes.git",
   "ssh_url": "git@github.com:nota/split-graphemes.git",
   "clone_url": "https://github.com/nota/split-graphemes.git",
   "svn_url": "https://github.com/nota/split-graphemes",
   "homepage": "https://www.npmjs.com/package/split-graphemes",
-  "size": 655,
+  "size": 143,
   "stargazers_count": 35,
   "watchers_count": 35,
   "language": "JavaScript",
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 58
+  "_index": 60
 }

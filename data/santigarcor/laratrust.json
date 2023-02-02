@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/santigarcor/laratrust/releases{/id}",
   "deployments_url": "https://api.github.com/repos/santigarcor/laratrust/deployments",
   "created_at": "2016-05-25T19:21:09Z",
-  "updated_at": "2023-01-31T16:43:17Z",
+  "updated_at": "2023-02-01T17:15:45Z",
   "pushed_at": "2023-01-30T20:01:57Z",
   "git_url": "git://github.com/santigarcor/laratrust.git",
   "ssh_url": "git@github.com:santigarcor/laratrust.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/santigarcor/laratrust",
   "homepage": "",
   "size": 2931,
-  "stargazers_count": 1969,
-  "watchers_count": 1969,
+  "stargazers_count": 1970,
+  "watchers_count": 1970,
   "language": "PHP",
   "has_issues": true,
   "has_projects": false,
@@ -114,7 +114,7 @@
   "visibility": "public",
   "forks": 328,
   "open_issues": 46,
-  "watchers": 1969,
+  "watchers": 1970,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 498
+  "_index": 500
 }

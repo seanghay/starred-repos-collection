@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/denoland/dnt/deployments",
   "created_at": "2021-09-18T21:08:10Z",
   "updated_at": "2023-01-29T12:49:49Z",
-  "pushed_at": "2023-01-20T17:35:02Z",
+  "pushed_at": "2023-02-01T20:59:01Z",
   "git_url": "git://github.com/denoland/dnt.git",
   "ssh_url": "git@github.com:denoland/dnt.git",
   "clone_url": "https://github.com/denoland/dnt.git",
   "svn_url": "https://github.com/denoland/dnt",
   "homepage": "",
-  "size": 94047,
+  "size": 94053,
   "stargazers_count": 593,
   "watchers_count": 593,
   "language": "Rust",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 19,
+  "forks_count": 20,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 34,
+  "open_issues_count": 32,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -99,8 +99,8 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 19,
-  "open_issues": 34,
+  "forks": 20,
+  "open_issues": 32,
   "watchers": 593,
   "default_branch": "main",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 766
+  "_index": 768
 }

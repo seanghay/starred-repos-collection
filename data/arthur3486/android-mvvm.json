@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/arthur3486/android-mvvm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/arthur3486/android-mvvm/deployments",
   "created_at": "2019-03-31T21:29:26Z",
-  "updated_at": "2022-12-07T19:52:43Z",
+  "updated_at": "2023-02-01T22:29:15Z",
   "pushed_at": "2020-07-16T23:22:25Z",
   "git_url": "git://github.com/arthur3486/android-mvvm.git",
   "ssh_url": "git@github.com:arthur3486/android-mvvm.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/arthur3486/android-mvvm",
   "homepage": "",
   "size": 38937,
-  "stargazers_count": 107,
-  "watchers_count": 107,
+  "stargazers_count": 108,
+  "watchers_count": 108,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -122,7 +122,7 @@
   "visibility": "public",
   "forks": 23,
   "open_issues": 0,
-  "watchers": 107,
+  "watchers": 108,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1468
+  "_index": 1470
 }

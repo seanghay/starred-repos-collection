@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/apache/superset/releases{/id}",
   "deployments_url": "https://api.github.com/repos/apache/superset/deployments",
   "created_at": "2015-07-21T18:55:34Z",
-  "updated_at": "2023-02-01T02:14:52Z",
-  "pushed_at": "2023-02-01T01:45:29Z",
+  "updated_at": "2023-02-02T01:07:42Z",
+  "pushed_at": "2023-02-01T22:56:28Z",
   "git_url": "git://github.com/apache/superset.git",
   "ssh_url": "git@github.com:apache/superset.git",
   "clone_url": "https://github.com/apache/superset.git",
   "svn_url": "https://github.com/apache/superset",
   "homepage": "https://superset.apache.org/",
-  "size": 437615,
-  "stargazers_count": 50340,
-  "watchers_count": 50340,
+  "size": 435425,
+  "stargazers_count": 50359,
+  "watchers_count": 50359,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 10072,
+  "forks_count": 10079,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1281,
+  "open_issues_count": 1270,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -118,9 +118,9 @@
     "superset"
   ],
   "visibility": "public",
-  "forks": 10072,
-  "open_issues": 1281,
-  "watchers": 50340,
+  "forks": 10079,
+  "open_issues": 1270,
+  "watchers": 50359,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1201
+  "_index": 1203
 }

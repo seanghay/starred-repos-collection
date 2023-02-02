@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/lokalise/i18n-ally/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lokalise/i18n-ally/deployments",
   "created_at": "2019-05-05T16:54:17Z",
-  "updated_at": "2023-01-31T17:16:31Z",
-  "pushed_at": "2023-01-31T17:40:51Z",
+  "updated_at": "2023-02-02T02:12:35Z",
+  "pushed_at": "2023-02-01T17:44:48Z",
   "git_url": "git://github.com/lokalise/i18n-ally.git",
   "ssh_url": "git@github.com:lokalise/i18n-ally.git",
   "clone_url": "https://github.com/lokalise/i18n-ally.git",
   "svn_url": "https://github.com/lokalise/i18n-ally",
   "homepage": "https://marketplace.visualstudio.com/items?itemName=lokalise.i18n-ally",
   "size": 23823,
-  "stargazers_count": 2695,
-  "watchers_count": 2695,
+  "stargazers_count": 2697,
+  "watchers_count": 2697,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 199,
   "open_issues": 177,
-  "watchers": 2695,
+  "watchers": 2697,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1196
+  "_index": 1198
 }

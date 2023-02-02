@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Tencent/vConsole/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Tencent/vConsole/deployments",
   "created_at": "2016-04-27T03:33:45Z",
-  "updated_at": "2023-02-01T02:03:06Z",
-  "pushed_at": "2023-01-08T15:17:39Z",
+  "updated_at": "2023-02-01T18:58:55Z",
+  "pushed_at": "2023-02-01T03:02:39Z",
   "git_url": "git://github.com/Tencent/vConsole.git",
   "ssh_url": "git@github.com:Tencent/vConsole.git",
   "clone_url": "https://github.com/Tencent/vConsole.git",
   "svn_url": "https://github.com/Tencent/vConsole",
   "homepage": "",
   "size": 5266,
-  "stargazers_count": 15403,
-  "watchers_count": 15403,
+  "stargazers_count": 15407,
+  "watchers_count": 15407,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2956,
+  "forks_count": 2957,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 37,
+  "open_issues_count": 38,
   "license": {
     "key": "other",
     "name": "Other",
@@ -103,9 +103,9 @@
     "wechat"
   ],
   "visibility": "public",
-  "forks": 2956,
-  "open_issues": 37,
-  "watchers": 15403,
+  "forks": 2957,
+  "open_issues": 38,
+  "watchers": 15407,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 290
+  "_index": 292
 }

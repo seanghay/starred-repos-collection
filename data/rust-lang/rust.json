@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/rust-lang/rust/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rust-lang/rust/deployments",
   "created_at": "2010-06-16T20:39:03Z",
-  "updated_at": "2023-02-01T00:48:50Z",
-  "pushed_at": "2023-02-01T02:14:35Z",
+  "updated_at": "2023-02-02T02:05:28Z",
+  "pushed_at": "2023-02-02T01:38:59Z",
   "git_url": "git://github.com/rust-lang/rust.git",
   "ssh_url": "git@github.com:rust-lang/rust.git",
   "clone_url": "https://github.com/rust-lang/rust.git",
   "svn_url": "https://github.com/rust-lang/rust",
   "homepage": "https://www.rust-lang.org",
-  "size": 1064023,
-  "stargazers_count": 77192,
-  "watchers_count": 77192,
+  "size": 1064947,
+  "stargazers_count": 77257,
+  "watchers_count": 77257,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 10286,
+  "forks_count": 10313,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 9525,
+  "open_issues_count": 9531,
   "license": {
     "key": "other",
     "name": "Other",
@@ -104,9 +104,9 @@
     "rust"
   ],
   "visibility": "public",
-  "forks": 10286,
-  "open_issues": 9525,
-  "watchers": 77192,
+  "forks": 10313,
+  "open_issues": 9531,
+  "watchers": 77257,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2377
+  "_index": 2379
 }

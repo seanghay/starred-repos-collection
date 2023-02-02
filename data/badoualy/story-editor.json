@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/badoualy/story-editor/deployments",
   "created_at": "2022-08-09T16:26:57Z",
   "updated_at": "2023-01-19T08:16:28Z",
-  "pushed_at": "2023-01-20T17:49:55Z",
+  "pushed_at": "2023-02-01T09:17:23Z",
   "git_url": "git://github.com/badoualy/story-editor.git",
   "ssh_url": "git@github.com:badoualy/story-editor.git",
   "clone_url": "https://github.com/badoualy/story-editor.git",
   "svn_url": "https://github.com/badoualy/story-editor",
   "homepage": null,
-  "size": 2754,
+  "size": 2755,
   "stargazers_count": 26,
   "watchers_count": 26,
   "language": "Kotlin",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 261
+  "_index": 263
 }

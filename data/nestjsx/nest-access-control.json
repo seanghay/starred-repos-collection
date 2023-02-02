@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nestjsx/nest-access-control/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nestjsx/nest-access-control/deployments",
   "created_at": "2018-05-22T00:51:39Z",
-  "updated_at": "2023-01-30T22:21:50Z",
+  "updated_at": "2023-02-01T20:22:11Z",
   "pushed_at": "2023-01-23T22:25:33Z",
   "git_url": "git://github.com/nestjsx/nest-access-control.git",
   "ssh_url": "git@github.com:nestjsx/nest-access-control.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nestjsx/nest-access-control",
   "homepage": null,
   "size": 2185,
-  "stargazers_count": 869,
-  "watchers_count": 869,
+  "stargazers_count": 870,
+  "watchers_count": 870,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 65,
   "open_issues": 32,
-  "watchers": 869,
+  "watchers": 870,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 806
+  "_index": 808
 }

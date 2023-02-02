@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/google/json_serializable.dart/deployments",
   "created_at": "2017-07-18T20:48:49Z",
   "updated_at": "2023-01-31T16:51:21Z",
-  "pushed_at": "2023-01-31T20:47:12Z",
+  "pushed_at": "2023-02-01T21:13:28Z",
   "git_url": "git://github.com/google/json_serializable.dart.git",
   "ssh_url": "git@github.com:google/json_serializable.dart.git",
   "clone_url": "https://github.com/google/json_serializable.dart.git",
   "svn_url": "https://github.com/google/json_serializable.dart",
   "homepage": "https://pub.dev/packages/json_serializable",
-  "size": 2471,
+  "size": 2488,
   "stargazers_count": 1387,
   "watchers_count": 1387,
   "language": "Dart",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 828
+  "_index": 830
 }

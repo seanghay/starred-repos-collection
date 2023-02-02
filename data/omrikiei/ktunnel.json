@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/omrikiei/ktunnel/releases{/id}",
   "deployments_url": "https://api.github.com/repos/omrikiei/ktunnel/deployments",
   "created_at": "2019-09-25T14:41:20Z",
-  "updated_at": "2023-01-30T14:09:12Z",
+  "updated_at": "2023-02-01T22:33:00Z",
   "pushed_at": "2022-12-05T04:24:33Z",
   "git_url": "git://github.com/omrikiei/ktunnel.git",
   "ssh_url": "git@github.com:omrikiei/ktunnel.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/omrikiei/ktunnel",
   "homepage": "",
   "size": 11961,
-  "stargazers_count": 651,
-  "watchers_count": 651,
+  "stargazers_count": 654,
+  "watchers_count": 654,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 54,
   "open_issues": 15,
-  "watchers": 651,
+  "watchers": 654,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 709
+  "_index": 711
 }
