@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pedroSG94/AutoPermissions/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pedroSG94/AutoPermissions/deployments",
   "created_at": "2018-06-03T16:59:30Z",
-  "updated_at": "2022-10-13T09:23:38Z",
+  "updated_at": "2023-02-02T06:05:09Z",
   "pushed_at": "2020-01-30T12:57:00Z",
   "git_url": "git://github.com/pedroSG94/AutoPermissions.git",
   "ssh_url": "git@github.com:pedroSG94/AutoPermissions.git",
