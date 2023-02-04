@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/lukeed/resolve.exports/deployments",
   "created_at": "2021-01-08T21:46:01Z",
   "updated_at": "2023-02-01T13:59:31Z",
-  "pushed_at": "2023-01-16T22:05:20Z",
+  "pushed_at": "2023-02-03T12:00:50Z",
   "git_url": "git://github.com/lukeed/resolve.exports.git",
   "ssh_url": "git@github.com:lukeed/resolve.exports.git",
   "clone_url": "https://github.com/lukeed/resolve.exports.git",
   "svn_url": "https://github.com/lukeed/resolve.exports",
   "homepage": "",
-  "size": 84,
+  "size": 89,
   "stargazers_count": 243,
   "watchers_count": 243,
   "language": "TypeScript",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 11,
+  "forks_count": 12,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,7 +99,7 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 11,
+  "forks": 12,
   "open_issues": 2,
   "watchers": 243,
   "default_branch": "master",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 313
+  "_index": 317
 }

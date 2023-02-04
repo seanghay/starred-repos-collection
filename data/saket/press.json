@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/saket/press/releases{/id}",
   "deployments_url": "https://api.github.com/repos/saket/press/deployments",
   "created_at": "2019-08-11T01:16:57Z",
-  "updated_at": "2023-01-31T17:29:14Z",
+  "updated_at": "2023-02-03T03:05:11Z",
   "pushed_at": "2022-10-19T19:28:29Z",
   "git_url": "git://github.com/saket/press.git",
   "ssh_url": "git@github.com:saket/press.git",
@@ -108,5 +108,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1729
+  "_index": 1733
 }

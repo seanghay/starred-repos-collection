@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/imablanco/Zoomy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/imablanco/Zoomy/deployments",
   "created_at": "2017-02-14T22:29:46Z",
-  "updated_at": "2022-12-29T00:42:09Z",
+  "updated_at": "2023-02-03T20:39:14Z",
   "pushed_at": "2021-12-02T07:51:46Z",
   "git_url": "git://github.com/imablanco/Zoomy.git",
   "ssh_url": "git@github.com:imablanco/Zoomy.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/imablanco/Zoomy",
   "homepage": null,
   "size": 17373,
-  "stargazers_count": 895,
-  "watchers_count": 895,
+  "stargazers_count": 896,
+  "watchers_count": 896,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 121,
+  "forks_count": 122,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -100,9 +100,9 @@
     "zoomable-images"
   ],
   "visibility": "public",
-  "forks": 121,
+  "forks": 122,
   "open_issues": 22,
-  "watchers": 895,
+  "watchers": 896,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -111,5 +111,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1637
+  "_index": 1641
 }

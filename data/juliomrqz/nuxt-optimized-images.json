@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/juliomrqz/nuxt-optimized-images/releases{/id}",
   "deployments_url": "https://api.github.com/repos/juliomrqz/nuxt-optimized-images/deployments",
   "created_at": "2019-02-28T11:52:22Z",
-  "updated_at": "2023-02-01T10:23:08Z",
-  "pushed_at": "2023-02-02T16:47:01Z",
+  "updated_at": "2023-02-03T16:20:12Z",
+  "pushed_at": "2023-02-03T15:50:18Z",
   "git_url": "git://github.com/juliomrqz/nuxt-optimized-images.git",
   "ssh_url": "git@github.com:juliomrqz/nuxt-optimized-images.git",
   "clone_url": "https://github.com/juliomrqz/nuxt-optimized-images.git",
   "svn_url": "https://github.com/juliomrqz/nuxt-optimized-images",
   "homepage": "https://marquez.co/docs/nuxt-optimized-images/",
-  "size": 5077,
-  "stargazers_count": 858,
-  "watchers_count": 858,
+  "size": 5231,
+  "stargazers_count": 857,
+  "watchers_count": 857,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 71,
+  "open_issues_count": 72,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -113,8 +113,8 @@
   ],
   "visibility": "public",
   "forks": 27,
-  "open_issues": 71,
-  "watchers": 858,
+  "open_issues": 72,
+  "watchers": 857,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 208
+  "_index": 212
 }

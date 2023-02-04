@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/youlookwhat/ByRecyclerView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/youlookwhat/ByRecyclerView/deployments",
   "created_at": "2019-08-20T13:34:28Z",
-  "updated_at": "2023-01-21T08:45:30Z",
+  "updated_at": "2023-02-03T03:59:55Z",
   "pushed_at": "2022-11-30T13:37:17Z",
   "git_url": "git://github.com/youlookwhat/ByRecyclerView.git",
   "ssh_url": "git@github.com:youlookwhat/ByRecyclerView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/youlookwhat/ByRecyclerView",
   "homepage": "https://jinbeen.com/ByRecyclerView",
   "size": 7489,
-  "stargazers_count": 661,
-  "watchers_count": 661,
+  "stargazers_count": 662,
+  "watchers_count": 662,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 126,
   "open_issues": 9,
-  "watchers": 661,
+  "watchers": 662,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1572
+  "_index": 1576
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/developit/microbundle/releases{/id}",
   "deployments_url": "https://api.github.com/repos/developit/microbundle/deployments",
   "created_at": "2017-12-11T21:51:02Z",
-  "updated_at": "2023-02-02T16:21:00Z",
+  "updated_at": "2023-02-03T18:17:20Z",
   "pushed_at": "2023-01-05T19:02:18Z",
   "git_url": "git://github.com/developit/microbundle.git",
   "ssh_url": "git@github.com:developit/microbundle.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/developit/microbundle",
   "homepage": "https://npm.im/microbundle",
   "size": 2042,
-  "stargazers_count": 7477,
-  "watchers_count": 7477,
+  "stargazers_count": 7482,
+  "watchers_count": 7482,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 377,
   "open_issues": 80,
-  "watchers": 7477,
+  "watchers": 7482,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1226
+  "_index": 1230
 }
