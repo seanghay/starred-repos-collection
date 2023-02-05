@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/axa-group/Parsr/releases{/id}",
   "deployments_url": "https://api.github.com/repos/axa-group/Parsr/deployments",
   "created_at": "2019-08-05T12:43:53Z",
-  "updated_at": "2023-02-04T00:24:25Z",
-  "pushed_at": "2023-02-03T05:13:48Z",
+  "updated_at": "2023-02-05T00:50:25Z",
+  "pushed_at": "2023-02-04T15:52:15Z",
   "git_url": "git://github.com/axa-group/Parsr.git",
   "ssh_url": "git@github.com:axa-group/Parsr.git",
   "clone_url": "https://github.com/axa-group/Parsr.git",
   "svn_url": "https://github.com/axa-group/Parsr",
   "homepage": "",
-  "size": 42295,
-  "stargazers_count": 5109,
-  "watchers_count": 5109,
+  "size": 42296,
+  "stargazers_count": 5111,
+  "watchers_count": 5111,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 263,
+  "forks_count": 264,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 57,
+  "open_issues_count": 56,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -111,9 +111,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 263,
-  "open_issues": 57,
-  "watchers": 5109,
+  "forks": 264,
+  "open_issues": 56,
+  "watchers": 5111,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 216
+  "_index": 218
 }

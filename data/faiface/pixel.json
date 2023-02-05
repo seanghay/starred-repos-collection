@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/faiface/pixel/releases{/id}",
   "deployments_url": "https://api.github.com/repos/faiface/pixel/deployments",
   "created_at": "2016-11-19T11:15:34Z",
-  "updated_at": "2023-02-03T22:26:05Z",
+  "updated_at": "2023-02-04T18:34:28Z",
   "pushed_at": "2022-06-27T09:22:05Z",
   "git_url": "git://github.com/faiface/pixel.git",
   "ssh_url": "git@github.com:faiface/pixel.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/faiface/pixel",
   "homepage": "",
   "size": 12491,
-  "stargazers_count": 4161,
-  "watchers_count": 4161,
+  "stargazers_count": 4162,
+  "watchers_count": 4162,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 231,
   "open_issues": 42,
-  "watchers": 4161,
+  "watchers": 4162,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 410
+  "_index": 412
 }

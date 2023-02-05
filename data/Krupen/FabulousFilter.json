@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 328,
+  "forks_count": 329,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 11,
+  "open_issues_count": 5,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -114,8 +114,8 @@
     "morph"
   ],
   "visibility": "public",
-  "forks": 328,
-  "open_issues": 11,
+  "forks": 329,
+  "open_issues": 5,
   "watchers": 2568,
   "default_branch": "master",
   "permissions": {
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2094
+  "_index": 2096
 }

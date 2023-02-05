@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/postcss/postcss-100vh-fix/releases{/id}",
   "deployments_url": "https://api.github.com/repos/postcss/postcss-100vh-fix/deployments",
   "created_at": "2020-07-23T05:52:46Z",
-  "updated_at": "2023-02-01T23:29:01Z",
+  "updated_at": "2023-02-04T22:14:20Z",
   "pushed_at": "2022-07-20T07:11:53Z",
   "git_url": "git://github.com/postcss/postcss-100vh-fix.git",
   "ssh_url": "git@github.com:postcss/postcss-100vh-fix.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/postcss/postcss-100vh-fix",
   "homepage": null,
   "size": 562,
-  "stargazers_count": 848,
-  "watchers_count": 848,
+  "stargazers_count": 847,
+  "watchers_count": 847,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 8,
   "open_issues": 5,
-  "watchers": 848,
+  "watchers": 847,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 836
+  "_index": 838
 }

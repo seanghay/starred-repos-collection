@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/facebookincubator/spectrum/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookincubator/spectrum/deployments",
   "created_at": "2018-10-03T19:58:50Z",
-  "updated_at": "2023-01-23T07:51:19Z",
+  "updated_at": "2023-02-04T13:03:08Z",
   "pushed_at": "2023-01-12T18:50:57Z",
   "git_url": "git://github.com/facebookincubator/spectrum.git",
   "ssh_url": "git@github.com:facebookincubator/spectrum.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/facebookincubator/spectrum",
   "homepage": "https://libspectrum.io",
   "size": 5977,
-  "stargazers_count": 1957,
-  "watchers_count": 1957,
+  "stargazers_count": 1956,
+  "watchers_count": 1956,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 161,
   "open_issues": 41,
-  "watchers": 1957,
+  "watchers": 1956,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1637
+  "_index": 1639
 }

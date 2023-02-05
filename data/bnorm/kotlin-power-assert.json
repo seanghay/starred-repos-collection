@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/bnorm/kotlin-power-assert/deployments",
   "created_at": "2019-10-31T16:36:02Z",
   "updated_at": "2023-01-07T10:19:20Z",
-  "pushed_at": "2022-10-07T15:17:12Z",
+  "pushed_at": "2023-02-04T20:31:25Z",
   "git_url": "git://github.com/bnorm/kotlin-power-assert.git",
   "ssh_url": "git@github.com:bnorm/kotlin-power-assert.git",
   "clone_url": "https://github.com/bnorm/kotlin-power-assert.git",
   "svn_url": "https://github.com/bnorm/kotlin-power-assert",
   "homepage": "",
-  "size": 355,
+  "size": 353,
   "stargazers_count": 468,
   "watchers_count": 468,
   "language": "Kotlin",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 11,
+  "open_issues_count": 10,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -105,7 +105,7 @@
   ],
   "visibility": "public",
   "forks": 14,
-  "open_issues": 11,
+  "open_issues": 10,
   "watchers": 468,
   "default_branch": "master",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1038
+  "_index": 1040
 }

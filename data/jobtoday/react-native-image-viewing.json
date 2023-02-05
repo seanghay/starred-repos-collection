@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/jobtoday/react-native-image-viewing/deployments",
   "created_at": "2019-11-07T20:44:32Z",
   "updated_at": "2023-02-03T14:06:38Z",
-  "pushed_at": "2023-01-27T03:15:36Z",
+  "pushed_at": "2023-02-04T10:21:12Z",
   "git_url": "git://github.com/jobtoday/react-native-image-viewing.git",
   "ssh_url": "git@github.com:jobtoday/react-native-image-viewing.git",
   "clone_url": "https://github.com/jobtoday/react-native-image-viewing.git",
   "svn_url": "https://github.com/jobtoday/react-native-image-viewing",
   "homepage": "https://exp.host/@antonkalinin/react-native-image-viewing",
-  "size": 22202,
+  "size": 22318,
   "stargazers_count": 676,
   "watchers_count": 676,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 87,
+  "open_issues_count": 88,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,7 +106,7 @@
   ],
   "visibility": "public",
   "forks": 201,
-  "open_issues": 87,
+  "open_issues": 88,
   "watchers": 676,
   "default_branch": "master",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 595
+  "_index": 597
 }

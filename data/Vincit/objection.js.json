@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/Vincit/objection.js.git",
   "svn_url": "https://github.com/Vincit/objection.js",
   "homepage": "https://vincit.github.io/objection.js",
-  "size": 23590,
+  "size": 19622,
   "stargazers_count": 6920,
   "watchers_count": 6920,
   "language": "JavaScript",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 192
+  "_index": 194
 }

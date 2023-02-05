@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Kotlin/kotlinx.collections.immutable/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Kotlin/kotlinx.collections.immutable/deployments",
   "created_at": "2016-05-26T17:23:13Z",
-  "updated_at": "2023-02-01T18:12:19Z",
+  "updated_at": "2023-02-04T13:34:57Z",
   "pushed_at": "2022-11-30T14:36:00Z",
   "git_url": "git://github.com/Kotlin/kotlinx.collections.immutable.git",
   "ssh_url": "git@github.com:Kotlin/kotlinx.collections.immutable.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1977
+  "_index": 1979
 }

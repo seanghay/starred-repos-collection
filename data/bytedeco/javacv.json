@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bytedeco/javacv/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bytedeco/javacv/deployments",
   "created_at": "2014-04-21T13:50:26Z",
-  "updated_at": "2023-02-03T08:02:23Z",
+  "updated_at": "2023-02-04T15:20:57Z",
   "pushed_at": "2023-01-16T11:55:29Z",
   "git_url": "git://github.com/bytedeco/javacv.git",
   "ssh_url": "git@github.com:bytedeco/javacv.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/bytedeco/javacv",
   "homepage": "",
   "size": 7101,
-  "stargazers_count": 6419,
-  "watchers_count": 6419,
+  "stargazers_count": 6421,
+  "watchers_count": 6421,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 1488,
   "open_issues": 317,
-  "watchers": 6419,
+  "watchers": 6421,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2241
+  "_index": 2243
 }
