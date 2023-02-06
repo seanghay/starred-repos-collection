@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/getActivity/AndroidProject/releases{/id}",
   "deployments_url": "https://api.github.com/repos/getActivity/AndroidProject/deployments",
   "created_at": "2018-10-23T10:30:55Z",
-  "updated_at": "2023-02-05T02:12:52Z",
+  "updated_at": "2023-02-05T14:58:34Z",
   "pushed_at": "2022-09-10T10:55:13Z",
   "git_url": "git://github.com/getActivity/AndroidProject.git",
   "ssh_url": "git@github.com:getActivity/AndroidProject.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/getActivity/AndroidProject",
   "homepage": "",
   "size": 89374,
-  "stargazers_count": 5416,
-  "watchers_count": 5416,
+  "stargazers_count": 5415,
+  "watchers_count": 5415,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -121,7 +121,7 @@
   "visibility": "public",
   "forks": 1170,
   "open_issues": 1,
-  "watchers": 5416,
+  "watchers": 5415,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1849
+  "_index": 1853
 }

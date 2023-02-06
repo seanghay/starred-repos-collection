@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/timc1/kbar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/timc1/kbar/deployments",
   "created_at": "2021-09-01T21:19:20Z",
-  "updated_at": "2023-02-04T23:51:11Z",
+  "updated_at": "2023-02-05T11:06:07Z",
   "pushed_at": "2023-01-30T22:30:46Z",
   "git_url": "git://github.com/timc1/kbar.git",
   "ssh_url": "git@github.com:timc1/kbar.git",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 759
+  "_index": 763
 }

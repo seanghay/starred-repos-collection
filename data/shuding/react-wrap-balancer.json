@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/shuding/react-wrap-balancer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/shuding/react-wrap-balancer/deployments",
   "created_at": "2022-11-10T08:21:36Z",
-  "updated_at": "2023-02-05T00:20:07Z",
+  "updated_at": "2023-02-05T22:26:10Z",
   "pushed_at": "2023-01-23T00:18:47Z",
   "git_url": "git://github.com/shuding/react-wrap-balancer.git",
   "ssh_url": "git@github.com:shuding/react-wrap-balancer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/shuding/react-wrap-balancer",
   "homepage": "https://react-wrap-balancer.vercel.app",
   "size": 3462,
-  "stargazers_count": 2402,
-  "watchers_count": 2402,
+  "stargazers_count": 2407,
+  "watchers_count": 2407,
   "language": "HTML",
   "has_issues": true,
   "has_projects": false,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 35,
   "open_issues": 6,
-  "watchers": 2402,
+  "watchers": 2407,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 75
+  "_index": 79
 }

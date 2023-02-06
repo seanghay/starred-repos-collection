@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Kotlin/kotlinx-cli/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Kotlin/kotlinx-cli/deployments",
   "created_at": "2017-09-20T13:07:21Z",
-  "updated_at": "2023-02-04T13:35:07Z",
+  "updated_at": "2023-02-05T20:20:51Z",
   "pushed_at": "2023-02-01T17:38:57Z",
   "git_url": "git://github.com/Kotlin/kotlinx-cli.git",
   "ssh_url": "git@github.com:Kotlin/kotlinx-cli.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Kotlin/kotlinx-cli",
   "homepage": null,
   "size": 280,
-  "stargazers_count": 778,
-  "watchers_count": 778,
+  "stargazers_count": 779,
+  "watchers_count": 779,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 62,
+  "forks_count": 63,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 62,
+  "forks": 63,
   "open_issues": 32,
-  "watchers": 778,
+  "watchers": 779,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1202
+  "_index": 1206
 }

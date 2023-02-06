@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tauri-apps/tauri/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tauri-apps/tauri/deployments",
   "created_at": "2019-07-13T09:09:37Z",
-  "updated_at": "2023-02-05T02:09:31Z",
+  "updated_at": "2023-02-06T02:09:21Z",
   "pushed_at": "2023-02-04T00:56:04Z",
   "git_url": "git://github.com/tauri-apps/tauri.git",
   "ssh_url": "git@github.com:tauri-apps/tauri.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/tauri-apps/tauri",
   "homepage": "https://tauri.app",
   "size": 71585,
-  "stargazers_count": 58313,
-  "watchers_count": 58313,
+  "stargazers_count": 58348,
+  "watchers_count": 58348,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1533,
+  "forks_count": 1535,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 361,
+  "open_issues_count": 362,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -117,9 +117,9 @@
     "works-with-yew"
   ],
   "visibility": "public",
-  "forks": 1533,
-  "open_issues": 361,
-  "watchers": 58313,
+  "forks": 1535,
+  "open_issues": 362,
+  "watchers": 58348,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 897
+  "_index": 901
 }

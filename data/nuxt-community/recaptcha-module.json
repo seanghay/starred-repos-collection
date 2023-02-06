@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/nuxt-community/recaptcha-module/deployments",
   "created_at": "2019-02-12T07:23:13Z",
   "updated_at": "2023-01-26T15:12:33Z",
-  "pushed_at": "2023-01-11T12:53:12Z",
+  "pushed_at": "2023-02-05T16:07:18Z",
   "git_url": "git://github.com/nuxt-community/recaptcha-module.git",
   "ssh_url": "git@github.com:nuxt-community/recaptcha-module.git",
   "clone_url": "https://github.com/nuxt-community/recaptcha-module.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 57,
+  "forks_count": 58,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 27,
+  "open_issues_count": 29,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,8 +105,8 @@
     "recaptcha"
   ],
   "visibility": "public",
-  "forks": 57,
-  "open_issues": 27,
+  "forks": 58,
+  "open_issues": 29,
   "watchers": 229,
   "default_branch": "master",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 732
+  "_index": 736
 }

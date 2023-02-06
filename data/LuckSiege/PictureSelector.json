@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/LuckSiege/PictureSelector/releases{/id}",
   "deployments_url": "https://api.github.com/repos/LuckSiege/PictureSelector/deployments",
   "created_at": "2017-01-04T07:47:39Z",
-  "updated_at": "2023-02-03T09:31:52Z",
+  "updated_at": "2023-02-05T16:25:48Z",
   "pushed_at": "2023-01-31T09:38:07Z",
   "git_url": "git://github.com/LuckSiege/PictureSelector.git",
   "ssh_url": "git@github.com:LuckSiege/PictureSelector.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/LuckSiege/PictureSelector",
   "homepage": "",
   "size": 456811,
-  "stargazers_count": 12169,
-  "watchers_count": 12169,
+  "stargazers_count": 12172,
+  "watchers_count": 12172,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2828,
+  "forks_count": 2829,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -114,9 +114,9 @@
     "video"
   ],
   "visibility": "public",
-  "forks": 2828,
+  "forks": 2829,
   "open_issues": 332,
-  "watchers": 12169,
+  "watchers": 12172,
   "default_branch": "version_component",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2128
+  "_index": 2132
 }

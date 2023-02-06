@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/automerge/automerge/releases{/id}",
   "deployments_url": "https://api.github.com/repos/automerge/automerge/deployments",
   "created_at": "2017-04-19T15:25:24Z",
-  "updated_at": "2023-02-05T01:29:21Z",
+  "updated_at": "2023-02-06T01:43:26Z",
   "pushed_at": "2023-02-02T18:37:02Z",
   "git_url": "git://github.com/automerge/automerge.git",
   "ssh_url": "git@github.com:automerge/automerge.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/automerge/automerge",
   "homepage": "http://automerge.org/",
   "size": 3923,
-  "stargazers_count": 14683,
-  "watchers_count": 14683,
+  "stargazers_count": 14702,
+  "watchers_count": 14702,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 4073,
+  "forks_count": 4075,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 75,
+  "open_issues_count": 76,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,9 +103,9 @@
     "offline-first"
   ],
   "visibility": "public",
-  "forks": 4073,
-  "open_issues": 75,
-  "watchers": 14683,
+  "forks": 4075,
+  "open_issues": 76,
+  "watchers": 14702,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1211
+  "_index": 1215
 }

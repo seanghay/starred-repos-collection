@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/nuxt/framework/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nuxt/framework/deployments",
   "created_at": "2021-03-17T19:07:24Z",
-  "updated_at": "2023-02-05T00:00:40Z",
-  "pushed_at": "2023-02-04T15:36:07Z",
+  "updated_at": "2023-02-06T01:46:03Z",
+  "pushed_at": "2023-02-05T12:38:17Z",
   "git_url": "git://github.com/nuxt/framework.git",
   "ssh_url": "git@github.com:nuxt/framework.git",
   "clone_url": "https://github.com/nuxt/framework.git",
   "svn_url": "https://github.com/nuxt/framework",
   "homepage": "https://nuxt.com",
-  "size": 50486,
-  "stargazers_count": 11156,
-  "watchers_count": 11156,
+  "size": 50497,
+  "stargazers_count": 11155,
+  "watchers_count": 11155,
   "language": null,
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1206,
+  "forks_count": 1205,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "vue"
   ],
   "visibility": "public",
-  "forks": 1206,
+  "forks": 1205,
   "open_issues": 8,
-  "watchers": 11156,
+  "watchers": 11155,
   "default_branch": "readme",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 287
+  "_index": 291
 }

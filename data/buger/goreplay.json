@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/buger/goreplay/releases{/id}",
   "deployments_url": "https://api.github.com/repos/buger/goreplay/deployments",
   "created_at": "2013-05-30T09:29:07Z",
-  "updated_at": "2023-02-04T21:15:05Z",
+  "updated_at": "2023-02-06T01:41:12Z",
   "pushed_at": "2023-01-15T17:57:59Z",
   "git_url": "git://github.com/buger/goreplay.git",
   "ssh_url": "git@github.com:buger/goreplay.git",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 62
+  "_index": 66
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/golang/go/releases{/id}",
   "deployments_url": "https://api.github.com/repos/golang/go/deployments",
   "created_at": "2014-08-19T04:33:40Z",
-  "updated_at": "2023-02-05T01:44:06Z",
-  "pushed_at": "2023-02-05T01:46:16Z",
+  "updated_at": "2023-02-06T02:06:34Z",
+  "pushed_at": "2023-02-05T17:18:09Z",
   "git_url": "git://github.com/golang/go.git",
   "ssh_url": "git@github.com:golang/go.git",
   "clone_url": "https://github.com/golang/go.git",
   "svn_url": "https://github.com/golang/go",
   "homepage": "https://go.dev",
   "size": 344242,
-  "stargazers_count": 108207,
-  "watchers_count": 108207,
+  "stargazers_count": 108239,
+  "watchers_count": 108239,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 8100,
+  "open_issues_count": 8113,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 15872,
-  "open_issues": 8100,
-  "watchers": 108207,
+  "open_issues": 8113,
+  "watchers": 108239,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 739
+  "_index": 743
 }

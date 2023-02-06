@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/graphql-nexus/nexus/releases{/id}",
   "deployments_url": "https://api.github.com/repos/graphql-nexus/nexus/deployments",
   "created_at": "2018-11-02T21:11:33Z",
-  "updated_at": "2023-02-04T02:53:11Z",
+  "updated_at": "2023-02-05T12:26:25Z",
   "pushed_at": "2023-02-02T16:49:00Z",
   "git_url": "git://github.com/graphql-nexus/nexus.git",
   "ssh_url": "git@github.com:graphql-nexus/nexus.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/graphql-nexus/nexus",
   "homepage": "https://nexusjs.org",
   "size": 18894,
-  "stargazers_count": 3206,
-  "watchers_count": 3206,
+  "stargazers_count": 3208,
+  "watchers_count": 3208,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 278,
   "open_issues": 245,
-  "watchers": 3206,
+  "watchers": 3208,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 628
+  "_index": 632
 }

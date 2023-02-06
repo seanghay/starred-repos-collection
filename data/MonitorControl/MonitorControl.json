@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/MonitorControl/MonitorControl/releases{/id}",
   "deployments_url": "https://api.github.com/repos/MonitorControl/MonitorControl/deployments",
   "created_at": "2017-09-16T21:13:40Z",
-  "updated_at": "2023-02-04T21:57:24Z",
+  "updated_at": "2023-02-06T01:32:34Z",
   "pushed_at": "2022-12-29T22:25:17Z",
   "git_url": "git://github.com/MonitorControl/MonitorControl.git",
   "ssh_url": "git@github.com:MonitorControl/MonitorControl.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/MonitorControl/MonitorControl",
   "homepage": "https://monitorcontrol.app",
   "size": 29761,
-  "stargazers_count": 20495,
-  "watchers_count": 20495,
+  "stargazers_count": 20508,
+  "watchers_count": 20508,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -120,7 +120,7 @@
   "visibility": "public",
   "forks": 642,
   "open_issues": 61,
-  "watchers": 20495,
+  "watchers": 20508,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1300
+  "_index": 1304
 }

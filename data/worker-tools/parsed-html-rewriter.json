@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/worker-tools/parsed-html-rewriter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/worker-tools/parsed-html-rewriter/deployments",
   "created_at": "2021-03-20T05:11:57Z",
-  "updated_at": "2023-01-01T09:56:43Z",
+  "updated_at": "2023-02-05T23:24:51Z",
   "pushed_at": "2022-05-27T11:02:41Z",
   "git_url": "git://github.com/worker-tools/parsed-html-rewriter.git",
   "ssh_url": "git@github.com:worker-tools/parsed-html-rewriter.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/worker-tools/parsed-html-rewriter",
   "homepage": "",
   "size": 138,
-  "stargazers_count": 36,
-  "watchers_count": 36,
+  "stargazers_count": 37,
+  "watchers_count": 37,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 3,
   "open_issues": 0,
-  "watchers": 36,
+  "watchers": 37,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 260
+  "_index": 264
 }

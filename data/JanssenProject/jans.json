@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/JanssenProject/jans/deployments",
   "created_at": "2020-11-03T15:00:37Z",
   "updated_at": "2023-02-03T13:22:03Z",
-  "pushed_at": "2023-02-04T00:13:25Z",
+  "pushed_at": "2023-02-05T16:07:39Z",
   "git_url": "git://github.com/JanssenProject/jans.git",
   "ssh_url": "git@github.com:JanssenProject/jans.git",
   "clone_url": "https://github.com/JanssenProject/jans.git",
   "svn_url": "https://github.com/JanssenProject/jans",
   "homepage": "https://docs.jans.io",
-  "size": 231151,
+  "size": 231152,
   "stargazers_count": 243,
   "watchers_count": 243,
   "language": "Java",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3
+  "_index": 7
 }

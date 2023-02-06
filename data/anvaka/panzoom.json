@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/anvaka/panzoom/releases{/id}",
   "deployments_url": "https://api.github.com/repos/anvaka/panzoom/deployments",
   "created_at": "2016-04-03T18:15:21Z",
-  "updated_at": "2023-02-03T09:15:51Z",
+  "updated_at": "2023-02-05T23:58:58Z",
   "pushed_at": "2023-01-08T20:23:38Z",
   "git_url": "git://github.com/anvaka/panzoom.git",
   "ssh_url": "git@github.com:anvaka/panzoom.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/anvaka/panzoom",
   "homepage": "https://anvaka.github.io/panzoom/demo/attach-via-script.html",
   "size": 1379,
-  "stargazers_count": 1455,
-  "watchers_count": 1455,
+  "stargazers_count": 1456,
+  "watchers_count": 1456,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 250,
   "open_issues": 135,
-  "watchers": 1455,
+  "watchers": 1456,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2426
+  "_index": 2430
 }
