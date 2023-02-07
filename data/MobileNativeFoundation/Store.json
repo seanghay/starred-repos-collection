@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/MobileNativeFoundation/Store/deployments",
   "created_at": "2019-12-05T18:58:10Z",
   "updated_at": "2023-02-05T02:06:23Z",
-  "pushed_at": "2023-02-01T17:52:07Z",
+  "pushed_at": "2023-02-07T01:37:25Z",
   "git_url": "git://github.com/MobileNativeFoundation/Store.git",
   "ssh_url": "git@github.com:MobileNativeFoundation/Store.git",
   "clone_url": "https://github.com/MobileNativeFoundation/Store.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 40,
+  "open_issues_count": 41,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -110,7 +110,7 @@
   ],
   "visibility": "public",
   "forks": 176,
-  "open_issues": 40,
+  "open_issues": 41,
   "watchers": 2684,
   "default_branch": "main",
   "permissions": {
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1578
+  "_index": 1580
 }

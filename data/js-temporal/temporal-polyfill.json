@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/js-temporal/temporal-polyfill/releases{/id}",
   "deployments_url": "https://api.github.com/repos/js-temporal/temporal-polyfill/deployments",
   "created_at": "2021-05-06T20:56:01Z",
-  "updated_at": "2023-02-02T10:00:07Z",
-  "pushed_at": "2023-02-02T19:52:49Z",
+  "updated_at": "2023-02-06T17:14:44Z",
+  "pushed_at": "2023-02-06T20:00:53Z",
   "git_url": "git://github.com/js-temporal/temporal-polyfill.git",
   "ssh_url": "git@github.com:js-temporal/temporal-polyfill.git",
   "clone_url": "https://github.com/js-temporal/temporal-polyfill.git",
   "svn_url": "https://github.com/js-temporal/temporal-polyfill",
   "homepage": "",
-  "size": 3869,
+  "size": 3674,
   "stargazers_count": 366,
   "watchers_count": 366,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 36,
+  "open_issues_count": 35,
   "license": {
     "key": "isc",
     "name": "ISC License",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 21,
-  "open_issues": 36,
+  "open_issues": 35,
   "watchers": 366,
   "default_branch": "main",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 836
+  "_index": 838
 }

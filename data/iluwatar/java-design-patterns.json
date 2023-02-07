@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/iluwatar/java-design-patterns/releases{/id}",
   "deployments_url": "https://api.github.com/repos/iluwatar/java-design-patterns/deployments",
   "created_at": "2014-08-09T16:45:18Z",
-  "updated_at": "2023-02-06T01:59:10Z",
-  "pushed_at": "2023-02-05T07:03:20Z",
+  "updated_at": "2023-02-07T02:05:56Z",
+  "pushed_at": "2023-02-06T08:30:08Z",
   "git_url": "git://github.com/iluwatar/java-design-patterns.git",
   "ssh_url": "git@github.com:iluwatar/java-design-patterns.git",
   "clone_url": "https://github.com/iluwatar/java-design-patterns.git",
   "svn_url": "https://github.com/iluwatar/java-design-patterns",
   "homepage": "https://java-design-patterns.com",
   "size": 30709,
-  "stargazers_count": 79616,
-  "watchers_count": 79616,
+  "stargazers_count": 79639,
+  "watchers_count": 79639,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 24585,
+  "forks_count": 24593,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,9 +108,9 @@
     "snippets-library"
   ],
   "visibility": "public",
-  "forks": 24585,
+  "forks": 24593,
   "open_issues": 196,
-  "watchers": 79616,
+  "watchers": 79639,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2319
+  "_index": 2321
 }

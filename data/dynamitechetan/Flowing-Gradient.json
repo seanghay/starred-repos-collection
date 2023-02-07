@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/dynamitechetan/Flowing-Gradient/releases{/id}",
   "deployments_url": "https://api.github.com/repos/dynamitechetan/Flowing-Gradient/deployments",
   "created_at": "2016-07-17T10:36:12Z",
-  "updated_at": "2023-01-17T20:07:47Z",
+  "updated_at": "2023-02-06T13:50:42Z",
   "pushed_at": "2019-05-23T14:40:16Z",
   "git_url": "git://github.com/dynamitechetan/Flowing-Gradient.git",
   "ssh_url": "git@github.com:dynamitechetan/Flowing-Gradient.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/dynamitechetan/Flowing-Gradient",
   "homepage": "",
   "size": 225,
-  "stargazers_count": 704,
-  "watchers_count": 704,
+  "stargazers_count": 705,
+  "watchers_count": 705,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -103,7 +103,7 @@
   "visibility": "public",
   "forks": 92,
   "open_issues": 5,
-  "watchers": 704,
+  "watchers": 705,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2150
+  "_index": 2152
 }

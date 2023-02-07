@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/flexbox-layout/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/flexbox-layout/deployments",
   "created_at": "2016-05-04T08:11:22Z",
-  "updated_at": "2023-02-06T02:05:41Z",
+  "updated_at": "2023-02-07T01:18:15Z",
   "pushed_at": "2022-11-04T10:28:40Z",
   "git_url": "git://github.com/google/flexbox-layout.git",
   "ssh_url": "git@github.com:google/flexbox-layout.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/flexbox-layout",
   "homepage": "",
   "size": 49328,
-  "stargazers_count": 17749,
-  "watchers_count": 17749,
+  "stargazers_count": 17750,
+  "watchers_count": 17750,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1826,
+  "forks_count": 1827,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,9 +103,9 @@
     "flexbox"
   ],
   "visibility": "public",
-  "forks": 1826,
+  "forks": 1827,
   "open_issues": 121,
-  "watchers": 17749,
+  "watchers": 17750,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1733
+  "_index": 1735
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wwwouter/typed-knex/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wwwouter/typed-knex/deployments",
   "created_at": "2018-04-13T11:29:36Z",
-  "updated_at": "2023-01-25T03:21:18Z",
+  "updated_at": "2023-02-06T08:42:57Z",
   "pushed_at": "2023-02-04T08:31:01Z",
   "git_url": "git://github.com/wwwouter/typed-knex.git",
   "ssh_url": "git@github.com:wwwouter/typed-knex.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wwwouter/typed-knex",
   "homepage": "",
   "size": 1415,
-  "stargazers_count": 107,
-  "watchers_count": 107,
+  "stargazers_count": 108,
+  "watchers_count": 108,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 13,
   "open_issues": 12,
-  "watchers": 107,
+  "watchers": 108,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1334
+  "_index": 1336
 }
