@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/material-components/material-components-web/releases{/id}",
   "deployments_url": "https://api.github.com/repos/material-components/material-components-web/deployments",
   "created_at": "2016-12-05T16:04:09Z",
-  "updated_at": "2023-02-06T14:37:52Z",
-  "pushed_at": "2023-02-06T16:07:51Z",
+  "updated_at": "2023-02-08T02:15:44Z",
+  "pushed_at": "2023-02-07T23:05:16Z",
   "git_url": "git://github.com/material-components/material-components-web.git",
   "ssh_url": "git@github.com:material-components/material-components-web.git",
   "clone_url": "https://github.com/material-components/material-components-web.git",
   "svn_url": "https://github.com/material-components/material-components-web",
   "homepage": "https://material.io/develop/web",
-  "size": 88737,
-  "stargazers_count": 16615,
-  "watchers_count": 16615,
+  "size": 88682,
+  "stargazers_count": 16616,
+  "watchers_count": 16616,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 467,
+  "open_issues_count": 465,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 2210,
-  "open_issues": 467,
-  "watchers": 16615,
+  "open_issues": 465,
+  "watchers": 16616,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2418
+  "_index": 2420
 }

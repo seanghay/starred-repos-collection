@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/afollestad/viewpagerdots/releases{/id}",
   "deployments_url": "https://api.github.com/repos/afollestad/viewpagerdots/deployments",
   "created_at": "2018-10-14T20:41:11Z",
-  "updated_at": "2023-01-16T15:04:56Z",
+  "updated_at": "2023-02-07T06:17:51Z",
   "pushed_at": "2021-02-21T05:02:46Z",
   "git_url": "git://github.com/afollestad/viewpagerdots.git",
   "ssh_url": "git@github.com:afollestad/viewpagerdots.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/afollestad/viewpagerdots",
   "homepage": "https://af.codes",
   "size": 2028,
-  "stargazers_count": 192,
-  "watchers_count": 192,
+  "stargazers_count": 191,
+  "watchers_count": 191,
   "language": "Kotlin",
   "has_issues": false,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 13,
   "open_issues": 2,
-  "watchers": 192,
+  "watchers": 191,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1083
+  "_index": 1085
 }

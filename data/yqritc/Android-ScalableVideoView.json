@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yqritc/Android-ScalableVideoView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yqritc/Android-ScalableVideoView/deployments",
   "created_at": "2015-06-11T07:56:38Z",
-  "updated_at": "2023-01-27T12:20:03Z",
+  "updated_at": "2023-02-07T09:58:10Z",
   "pushed_at": "2022-07-20T05:20:01Z",
   "git_url": "git://github.com/yqritc/Android-ScalableVideoView.git",
   "ssh_url": "git@github.com:yqritc/Android-ScalableVideoView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yqritc/Android-ScalableVideoView",
   "homepage": "",
   "size": 11212,
-  "stargazers_count": 1066,
-  "watchers_count": 1066,
+  "stargazers_count": 1067,
+  "watchers_count": 1067,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 219,
+  "forks_count": 220,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 219,
+  "forks": 220,
   "open_issues": 37,
-  "watchers": 1066,
+  "watchers": 1067,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2189
+  "_index": 2191
 }

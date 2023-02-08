@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/MasayukiSuda/BubbleLayout/releases{/id}",
   "deployments_url": "https://api.github.com/repos/MasayukiSuda/BubbleLayout/deployments",
   "created_at": "2016-05-08T10:56:12Z",
-  "updated_at": "2023-01-31T01:47:54Z",
+  "updated_at": "2023-02-07T06:21:30Z",
   "pushed_at": "2021-07-08T15:00:46Z",
   "git_url": "git://github.com/MasayukiSuda/BubbleLayout.git",
   "ssh_url": "git@github.com:MasayukiSuda/BubbleLayout.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/MasayukiSuda/BubbleLayout",
   "homepage": "",
   "size": 258,
-  "stargazers_count": 965,
-  "watchers_count": 965,
+  "stargazers_count": 964,
+  "watchers_count": 964,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -98,7 +98,7 @@
   "visibility": "public",
   "forks": 137,
   "open_issues": 9,
-  "watchers": 965,
+  "watchers": 964,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -107,5 +107,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1559
+  "_index": 1561
 }

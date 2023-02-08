@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/tokio-rs/tokio/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tokio-rs/tokio/deployments",
   "created_at": "2016-09-09T22:31:36Z",
-  "updated_at": "2023-02-07T02:10:05Z",
-  "pushed_at": "2023-02-06T22:02:54Z",
+  "updated_at": "2023-02-08T00:25:41Z",
+  "pushed_at": "2023-02-07T23:20:55Z",
   "git_url": "git://github.com/tokio-rs/tokio.git",
   "ssh_url": "git@github.com:tokio-rs/tokio.git",
   "clone_url": "https://github.com/tokio-rs/tokio.git",
   "svn_url": "https://github.com/tokio-rs/tokio",
   "homepage": "https://tokio.rs",
-  "size": 11619,
-  "stargazers_count": 19155,
-  "watchers_count": 19155,
+  "size": 11590,
+  "stargazers_count": 19157,
+  "watchers_count": 19157,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1785,
+  "forks_count": 1786,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,9 +103,9 @@
     "rust"
   ],
   "visibility": "public",
-  "forks": 1785,
+  "forks": 1786,
   "open_issues": 281,
-  "watchers": 19155,
+  "watchers": 19157,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1522
+  "_index": 1524
 }

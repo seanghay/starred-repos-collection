@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/vuejs/vue-cli/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vuejs/vue-cli/deployments",
   "created_at": "2015-12-26T23:11:20Z",
-  "updated_at": "2023-02-06T13:00:39Z",
-  "pushed_at": "2023-02-02T18:38:59Z",
+  "updated_at": "2023-02-08T00:31:36Z",
+  "pushed_at": "2023-02-07T07:47:33Z",
   "git_url": "git://github.com/vuejs/vue-cli.git",
   "ssh_url": "git@github.com:vuejs/vue-cli.git",
   "clone_url": "https://github.com/vuejs/vue-cli.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1027,
+  "open_issues_count": 1028,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 6407,
-  "open_issues": 1027,
+  "open_issues": 1028,
   "watchers": 29565,
   "default_branch": "dev",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2370
+  "_index": 2372
 }

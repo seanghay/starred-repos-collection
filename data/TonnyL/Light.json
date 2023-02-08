@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/TonnyL/Light/releases{/id}",
   "deployments_url": "https://api.github.com/repos/TonnyL/Light/deployments",
   "created_at": "2017-05-05T15:47:01Z",
-  "updated_at": "2023-02-03T22:12:11Z",
+  "updated_at": "2023-02-07T15:53:06Z",
   "pushed_at": "2018-07-14T03:15:23Z",
   "git_url": "git://github.com/TonnyL/Light.git",
   "ssh_url": "git@github.com:TonnyL/Light.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/TonnyL/Light",
   "homepage": "",
   "size": 471,
-  "stargazers_count": 548,
-  "watchers_count": 548,
+  "stargazers_count": 547,
+  "watchers_count": 547,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 38,
   "open_issues": 6,
-  "watchers": 548,
+  "watchers": 547,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2068
+  "_index": 2070
 }

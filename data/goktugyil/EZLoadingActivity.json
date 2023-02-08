@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/goktugyil/EZLoadingActivity/releases{/id}",
   "deployments_url": "https://api.github.com/repos/goktugyil/EZLoadingActivity/deployments",
   "created_at": "2015-06-04T11:25:59Z",
-  "updated_at": "2023-01-07T12:00:03Z",
+  "updated_at": "2023-02-07T07:17:03Z",
   "pushed_at": "2022-03-18T23:58:59Z",
   "git_url": "git://github.com/goktugyil/EZLoadingActivity.git",
   "ssh_url": "git@github.com:goktugyil/EZLoadingActivity.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/goktugyil/EZLoadingActivity",
   "homepage": "",
   "size": 88,
-  "stargazers_count": 612,
-  "watchers_count": 612,
+  "stargazers_count": 613,
+  "watchers_count": 613,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 84,
   "open_issues": 10,
-  "watchers": 612,
+  "watchers": 613,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 508
+  "_index": 510
 }

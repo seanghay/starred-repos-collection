@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/typeorm/typeorm",
-  "description": "ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
+  "description": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
   "fork": false,
   "url": "https://api.github.com/repos/typeorm/typeorm",
   "forks_url": "https://api.github.com/repos/typeorm/typeorm/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/typeorm/typeorm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/typeorm/typeorm/deployments",
   "created_at": "2016-02-29T07:41:14Z",
-  "updated_at": "2023-02-07T00:36:40Z",
-  "pushed_at": "2023-02-06T17:15:32Z",
+  "updated_at": "2023-02-07T23:33:14Z",
+  "pushed_at": "2023-02-07T16:27:23Z",
   "git_url": "git://github.com/typeorm/typeorm.git",
   "ssh_url": "git@github.com:typeorm/typeorm.git",
   "clone_url": "https://github.com/typeorm/typeorm.git",
   "svn_url": "https://github.com/typeorm/typeorm",
   "homepage": "http://typeorm.io",
-  "size": 25332,
-  "stargazers_count": 30328,
-  "watchers_count": 30328,
+  "size": 25769,
+  "stargazers_count": 30340,
+  "watchers_count": 30340,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 5652,
+  "forks_count": 5653,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1833,
+  "open_issues_count": 1817,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -120,9 +120,9 @@
     "websql"
   ],
   "visibility": "public",
-  "forks": 5652,
-  "open_issues": 1833,
-  "watchers": 30328,
+  "forks": 5653,
+  "open_issues": 1817,
+  "watchers": 30340,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1149
+  "_index": 1151
 }

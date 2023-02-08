@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/LouisCAD/Splitties/releases{/id}",
   "deployments_url": "https://api.github.com/repos/LouisCAD/Splitties/deployments",
   "created_at": "2016-08-12T14:22:12Z",
-  "updated_at": "2023-02-05T00:30:11Z",
+  "updated_at": "2023-02-07T16:40:40Z",
   "pushed_at": "2023-02-06T17:49:38Z",
   "git_url": "git://github.com/LouisCAD/Splitties.git",
   "ssh_url": "git@github.com:LouisCAD/Splitties.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/LouisCAD/Splitties",
   "homepage": "https://splitties.louiscad.com",
   "size": 5567,
-  "stargazers_count": 2234,
-  "watchers_count": 2234,
+  "stargazers_count": 2235,
+  "watchers_count": 2235,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -119,7 +119,7 @@
   "visibility": "public",
   "forks": 145,
   "open_issues": 45,
-  "watchers": 2234,
+  "watchers": 2235,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1977
+  "_index": 1979
 }

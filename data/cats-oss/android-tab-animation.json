@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/cats-oss/android-tab-animation/releases{/id}",
   "deployments_url": "https://api.github.com/repos/cats-oss/android-tab-animation/deployments",
   "created_at": "2019-09-17T09:44:22Z",
-  "updated_at": "2023-01-13T11:13:37Z",
+  "updated_at": "2023-02-07T06:19:30Z",
   "pushed_at": "2021-03-02T10:29:02Z",
   "git_url": "git://github.com/cats-oss/android-tab-animation.git",
   "ssh_url": "git@github.com:cats-oss/android-tab-animation.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/cats-oss/android-tab-animation",
   "homepage": null,
   "size": 2225,
-  "stargazers_count": 100,
-  "watchers_count": 100,
+  "stargazers_count": 99,
+  "watchers_count": 99,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 5,
   "open_issues": 8,
-  "watchers": 100,
+  "watchers": 99,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1938
+  "_index": 1940
 }
