@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 129,
+  "forks_count": 130,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 17,
+  "open_issues_count": 16,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,8 +108,8 @@
     "videoeditor"
   ],
   "visibility": "public",
-  "forks": 129,
-  "open_issues": 17,
+  "forks": 130,
+  "open_issues": 16,
   "watchers": 664,
   "default_branch": "develop",
   "permissions": {

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/showdownjs/showdown/releases{/id}",
   "deployments_url": "https://api.github.com/repos/showdownjs/showdown/deployments",
   "created_at": "2008-11-13T21:39:21Z",
-  "updated_at": "2023-02-07T21:53:45Z",
+  "updated_at": "2023-02-08T23:12:29Z",
   "pushed_at": "2023-01-27T11:55:19Z",
   "git_url": "git://github.com/showdownjs/showdown.git",
   "ssh_url": "git@github.com:showdownjs/showdown.git",
