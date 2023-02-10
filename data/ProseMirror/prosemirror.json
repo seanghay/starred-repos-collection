@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ProseMirror/prosemirror/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ProseMirror/prosemirror/deployments",
   "created_at": "2015-08-06T08:55:00Z",
-  "updated_at": "2023-02-08T05:54:13Z",
+  "updated_at": "2023-02-09T12:00:12Z",
   "pushed_at": "2023-01-24T07:23:57Z",
   "git_url": "git://github.com/ProseMirror/prosemirror.git",
   "ssh_url": "git@github.com:ProseMirror/prosemirror.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 112,
+  "open_issues_count": 113,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 333,
-  "open_issues": 112,
+  "open_issues": 113,
   "watchers": 6334,
   "default_branch": "master",
   "permissions": {
