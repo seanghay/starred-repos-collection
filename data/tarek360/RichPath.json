@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tarek360/RichPath/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tarek360/RichPath/deployments",
   "created_at": "2017-07-07T08:43:52Z",
-  "updated_at": "2023-02-09T14:37:41Z",
+  "updated_at": "2023-02-11T20:25:24Z",
   "pushed_at": "2021-10-08T09:59:51Z",
   "git_url": "git://github.com/tarek360/RichPath.git",
   "ssh_url": "git@github.com:tarek360/RichPath.git",

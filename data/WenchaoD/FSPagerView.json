@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 882,
+  "forks_count": 881,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 158,
+  "open_issues_count": 159,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -110,8 +110,8 @@
     "uicollectionviewlayout"
   ],
   "visibility": "public",
-  "forks": 882,
-  "open_issues": 158,
+  "forks": 881,
+  "open_issues": 159,
   "watchers": 6693,
   "default_branch": "master",
   "permissions": {
