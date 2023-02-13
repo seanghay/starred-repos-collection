@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/gyf-dev/ImmersionBar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gyf-dev/ImmersionBar/deployments",
   "created_at": "2017-04-19T05:10:09Z",
-  "updated_at": "2023-02-11T14:42:17Z",
+  "updated_at": "2023-02-12T10:50:59Z",
   "pushed_at": "2022-03-25T02:26:08Z",
   "git_url": "git://github.com/gyf-dev/ImmersionBar.git",
   "ssh_url": "git@github.com:gyf-dev/ImmersionBar.git",
