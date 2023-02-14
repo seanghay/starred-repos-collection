@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/timc1/kbar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/timc1/kbar/deployments",
   "created_at": "2021-09-01T21:19:20Z",
-  "updated_at": "2023-02-12T13:46:53Z",
+  "updated_at": "2023-02-14T00:24:16Z",
   "pushed_at": "2023-02-09T16:59:55Z",
   "git_url": "git://github.com/timc1/kbar.git",
   "ssh_url": "git@github.com:timc1/kbar.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/timc1/kbar",
   "homepage": "https://kbar.vercel.app",
   "size": 866,
-  "stargazers_count": 3781,
-  "watchers_count": 3781,
+  "stargazers_count": 3785,
+  "watchers_count": 3785,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 134,
   "open_issues": 19,
-  "watchers": 3781,
+  "watchers": 3785,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 767
+  "_index": 768
 }

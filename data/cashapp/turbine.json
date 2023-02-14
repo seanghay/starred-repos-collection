@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/cashapp/turbine/releases{/id}",
   "deployments_url": "https://api.github.com/repos/cashapp/turbine/deployments",
   "created_at": "2020-07-29T16:31:35Z",
-  "updated_at": "2023-02-12T16:02:25Z",
-  "pushed_at": "2023-02-11T02:25:15Z",
+  "updated_at": "2023-02-13T10:07:51Z",
+  "pushed_at": "2023-02-13T21:18:57Z",
   "git_url": "git://github.com/cashapp/turbine.git",
   "ssh_url": "git@github.com:cashapp/turbine.git",
   "clone_url": "https://github.com/cashapp/turbine.git",
   "svn_url": "https://github.com/cashapp/turbine",
   "homepage": "https://cashapp.github.io/turbine/docs/0.x/",
-  "size": 1342,
-  "stargazers_count": 1841,
-  "watchers_count": 1841,
+  "size": 1347,
+  "stargazers_count": 1840,
+  "watchers_count": 1840,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 81,
   "open_issues": 6,
-  "watchers": 1841,
+  "watchers": 1840,
   "default_branch": "trunk",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1262
+  "_index": 1263
 }

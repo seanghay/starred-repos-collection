@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/mrdoob/three.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mrdoob/three.js/deployments",
   "created_at": "2010-03-23T18:58:01Z",
-  "updated_at": "2023-02-13T01:09:36Z",
-  "pushed_at": "2023-02-13T02:05:30Z",
+  "updated_at": "2023-02-14T02:06:04Z",
+  "pushed_at": "2023-02-13T19:28:12Z",
   "git_url": "git://github.com/mrdoob/three.js.git",
   "ssh_url": "git@github.com:mrdoob/three.js.git",
   "clone_url": "https://github.com/mrdoob/three.js.git",
   "svn_url": "https://github.com/mrdoob/three.js",
   "homepage": "https://threejs.org/",
-  "size": 1232455,
-  "stargazers_count": 88946,
-  "watchers_count": 88946,
+  "size": 1232667,
+  "stargazers_count": 88973,
+  "watchers_count": 88973,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 33900,
+  "forks_count": 33917,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -112,9 +112,9 @@
     "webxr"
   ],
   "visibility": "public",
-  "forks": 33900,
+  "forks": 33917,
   "open_issues": 514,
-  "watchers": 88946,
+  "watchers": 88973,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 151
+  "_index": 152
 }

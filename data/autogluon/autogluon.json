@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/autogluon/autogluon/releases{/id}",
   "deployments_url": "https://api.github.com/repos/autogluon/autogluon/deployments",
   "created_at": "2019-07-29T18:51:24Z",
-  "updated_at": "2023-02-12T14:07:53Z",
-  "pushed_at": "2023-02-11T16:09:26Z",
+  "updated_at": "2023-02-13T22:49:30Z",
+  "pushed_at": "2023-02-14T02:04:49Z",
   "git_url": "git://github.com/autogluon/autogluon.git",
   "ssh_url": "git@github.com:autogluon/autogluon.git",
   "clone_url": "https://github.com/autogluon/autogluon.git",
   "svn_url": "https://github.com/autogluon/autogluon",
   "homepage": "https://auto.gluon.ai/",
-  "size": 18428,
-  "stargazers_count": 5317,
-  "watchers_count": 5317,
+  "size": 17912,
+  "stargazers_count": 5319,
+  "watchers_count": 5319,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 179,
+  "open_issues_count": 183,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -121,8 +121,8 @@
   ],
   "visibility": "public",
   "forks": 693,
-  "open_issues": 179,
-  "watchers": 5317,
+  "open_issues": 183,
+  "watchers": 5319,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 804
+  "_index": 805
 }

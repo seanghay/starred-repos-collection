@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/Open-Attestation/api.verify.gov.sg/deployments",
   "created_at": "2021-11-19T09:14:13Z",
   "updated_at": "2022-10-25T02:25:54Z",
-  "pushed_at": "2023-02-06T18:31:44Z",
+  "pushed_at": "2023-02-13T19:26:50Z",
   "git_url": "git://github.com/Open-Attestation/api.verify.gov.sg.git",
   "ssh_url": "git@github.com:Open-Attestation/api.verify.gov.sg.git",
   "clone_url": "https://github.com/Open-Attestation/api.verify.gov.sg.git",
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 335
+  "_index": 336
 }

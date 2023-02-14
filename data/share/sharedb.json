@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/share/sharedb/releases{/id}",
   "deployments_url": "https://api.github.com/repos/share/sharedb/deployments",
   "created_at": "2013-04-01T21:30:46Z",
-  "updated_at": "2023-02-11T20:18:41Z",
+  "updated_at": "2023-02-13T05:49:23Z",
   "pushed_at": "2023-02-09T22:15:00Z",
   "git_url": "git://github.com/share/sharedb.git",
   "ssh_url": "git@github.com:share/sharedb.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/share/sharedb",
   "homepage": "",
   "size": 3650,
-  "stargazers_count": 5558,
-  "watchers_count": 5558,
+  "stargazers_count": 5559,
+  "watchers_count": 5559,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 442,
   "open_issues": 135,
-  "watchers": 5558,
+  "watchers": 5559,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1319
+  "_index": 1320
 }

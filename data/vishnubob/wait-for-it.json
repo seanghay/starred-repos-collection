@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/vishnubob/wait-for-it/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vishnubob/wait-for-it/deployments",
   "created_at": "2016-02-02T17:06:22Z",
-  "updated_at": "2023-02-12T12:30:48Z",
+  "updated_at": "2023-02-13T22:36:40Z",
   "pushed_at": "2022-12-12T09:36:50Z",
   "git_url": "git://github.com/vishnubob/wait-for-it.git",
   "ssh_url": "git@github.com:vishnubob/wait-for-it.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/vishnubob/wait-for-it",
   "homepage": "",
   "size": 29,
-  "stargazers_count": 8383,
-  "watchers_count": 8383,
+  "stargazers_count": 8384,
+  "watchers_count": 8384,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2242,
+  "forks_count": 2243,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 2242,
+  "forks": 2243,
   "open_issues": 75,
-  "watchers": 8383,
+  "watchers": 8384,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1189
+  "_index": 1190
 }

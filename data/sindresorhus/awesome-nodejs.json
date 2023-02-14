@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/awesome-nodejs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/awesome-nodejs/deployments",
   "created_at": "2014-07-11T13:35:34Z",
-  "updated_at": "2023-02-13T01:45:33Z",
-  "pushed_at": "2023-02-09T19:53:31Z",
+  "updated_at": "2023-02-14T02:18:22Z",
+  "pushed_at": "2023-02-13T23:02:42Z",
   "git_url": "git://github.com/sindresorhus/awesome-nodejs.git",
   "ssh_url": "git@github.com:sindresorhus/awesome-nodejs.git",
   "clone_url": "https://github.com/sindresorhus/awesome-nodejs.git",
   "svn_url": "https://github.com/sindresorhus/awesome-nodejs",
   "homepage": "https://node.cool",
   "size": 1527,
-  "stargazers_count": 49573,
-  "watchers_count": 49573,
+  "stargazers_count": 49588,
+  "watchers_count": 49588,
   "language": null,
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 16,
+  "open_issues_count": 17,
   "license": {
     "key": "cc0-1.0",
     "name": "Creative Commons Zero v1.0 Universal",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 5585,
-  "open_issues": 16,
-  "watchers": 49573,
+  "open_issues": 17,
+  "watchers": 49588,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 492
+  "_index": 493
 }

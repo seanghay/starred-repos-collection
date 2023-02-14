@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/edelstone/tints-and-shades/releases{/id}",
   "deployments_url": "https://api.github.com/repos/edelstone/tints-and-shades/deployments",
   "created_at": "2016-06-17T16:46:41Z",
-  "updated_at": "2023-02-10T04:12:44Z",
+  "updated_at": "2023-02-13T17:40:56Z",
   "pushed_at": "2023-02-09T16:48:49Z",
   "git_url": "git://github.com/edelstone/tints-and-shades.git",
   "ssh_url": "git@github.com:edelstone/tints-and-shades.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/edelstone/tints-and-shades",
   "homepage": "https://maketintsandshades.com",
   "size": 14043,
-  "stargazers_count": 414,
-  "watchers_count": 414,
+  "stargazers_count": 415,
+  "watchers_count": 415,
   "language": "HTML",
   "has_issues": true,
   "has_projects": true,
@@ -116,7 +116,7 @@
   "visibility": "public",
   "forks": 46,
   "open_issues": 8,
-  "watchers": 414,
+  "watchers": 415,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 958
+  "_index": 959
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/quiph/RecyclerView-FastScroller/releases{/id}",
   "deployments_url": "https://api.github.com/repos/quiph/RecyclerView-FastScroller/deployments",
   "created_at": "2018-06-27T15:07:37Z",
-  "updated_at": "2023-02-11T13:09:06Z",
+  "updated_at": "2023-02-13T09:58:16Z",
   "pushed_at": "2022-05-18T08:07:52Z",
   "git_url": "git://github.com/quiph/RecyclerView-FastScroller.git",
   "ssh_url": "git@github.com:quiph/RecyclerView-FastScroller.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/quiph/RecyclerView-FastScroller",
   "homepage": "",
   "size": 5121,
-  "stargazers_count": 800,
-  "watchers_count": 800,
+  "stargazers_count": 799,
+  "watchers_count": 799,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 61,
   "open_issues": 15,
-  "watchers": 800,
+  "watchers": 799,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1593
+  "_index": 1594
 }
