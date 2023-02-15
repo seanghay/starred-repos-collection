@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/babel/babel/releases{/id}",
   "deployments_url": "https://api.github.com/repos/babel/babel/deployments",
   "created_at": "2014-09-28T13:38:23Z",
-  "updated_at": "2023-02-14T01:16:28Z",
-  "pushed_at": "2023-02-13T18:14:33Z",
+  "updated_at": "2023-02-14T22:58:36Z",
+  "pushed_at": "2023-02-14T23:05:14Z",
   "git_url": "git://github.com/babel/babel.git",
   "ssh_url": "git@github.com:babel/babel.git",
   "clone_url": "https://github.com/babel/babel.git",
   "svn_url": "https://github.com/babel/babel",
   "homepage": "https://babel.dev",
-  "size": 93700,
-  "stargazers_count": 41892,
-  "watchers_count": 41892,
+  "size": 93883,
+  "stargazers_count": 41898,
+  "watchers_count": 41898,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 810,
+  "open_issues_count": 813,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,8 +108,8 @@
   ],
   "visibility": "public",
   "forks": 5557,
-  "open_issues": 810,
-  "watchers": 41892,
+  "open_issues": 813,
+  "watchers": 41898,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 520
+  "_index": 521
 }

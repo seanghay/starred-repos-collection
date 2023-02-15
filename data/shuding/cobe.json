@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/shuding/cobe/releases{/id}",
   "deployments_url": "https://api.github.com/repos/shuding/cobe/deployments",
   "created_at": "2021-11-18T18:26:41Z",
-  "updated_at": "2023-02-13T18:23:51Z",
+  "updated_at": "2023-02-14T08:27:05Z",
   "pushed_at": "2023-01-10T09:14:46Z",
   "git_url": "git://github.com/shuding/cobe.git",
   "ssh_url": "git@github.com:shuding/cobe.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/shuding/cobe",
   "homepage": "https://cobe.vercel.app",
   "size": 328,
-  "stargazers_count": 2037,
-  "watchers_count": 2037,
+  "stargazers_count": 2039,
+  "watchers_count": 2039,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 102,
+  "forks_count": 103,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,9 +102,9 @@
     "webgl"
   ],
   "visibility": "public",
-  "forks": 102,
+  "forks": 103,
   "open_issues": 15,
-  "watchers": 2037,
+  "watchers": 2039,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 581
+  "_index": 582
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Piasy/VideoCRE/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Piasy/VideoCRE/deployments",
   "created_at": "2017-08-11T00:13:18Z",
-  "updated_at": "2023-01-29T03:33:52Z",
+  "updated_at": "2023-02-15T02:12:32Z",
   "pushed_at": "2018-03-17T14:10:17Z",
   "git_url": "git://github.com/Piasy/VideoCRE.git",
   "ssh_url": "git@github.com:Piasy/VideoCRE.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Piasy/VideoCRE",
   "homepage": null,
   "size": 253,
-  "stargazers_count": 64,
-  "watchers_count": 64,
+  "stargazers_count": 65,
+  "watchers_count": 65,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 13,
   "open_issues": 1,
-  "watchers": 64,
+  "watchers": 65,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1146
+  "_index": 1147
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/akshay2211/DrawBox/deployments",
   "created_at": "2021-12-09T18:24:24Z",
   "updated_at": "2023-02-11T12:54:44Z",
-  "pushed_at": "2023-01-11T10:20:16Z",
+  "pushed_at": "2023-02-14T17:53:40Z",
   "git_url": "git://github.com/akshay2211/DrawBox.git",
   "ssh_url": "git@github.com:akshay2211/DrawBox.git",
   "clone_url": "https://github.com/akshay2211/DrawBox.git",
   "svn_url": "https://github.com/akshay2211/DrawBox",
   "homepage": "https://ak1.io/DrawBox/",
-  "size": 1357,
+  "size": 1364,
   "stargazers_count": 181,
   "watchers_count": 181,
   "language": "Kotlin",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 20,
+  "forks_count": 21,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2,
+  "open_issues_count": 1,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -111,8 +111,8 @@
     "kotlin-library"
   ],
   "visibility": "public",
-  "forks": 20,
-  "open_issues": 2,
+  "forks": 21,
+  "open_issues": 1,
   "watchers": 181,
   "default_branch": "main",
   "permissions": {
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 560
+  "_index": 561
 }

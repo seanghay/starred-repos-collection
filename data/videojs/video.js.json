@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/videojs/video.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/videojs/video.js/deployments",
   "created_at": "2010-05-14T18:45:10Z",
-  "updated_at": "2023-02-14T00:58:54Z",
-  "pushed_at": "2023-02-13T22:50:15Z",
+  "updated_at": "2023-02-15T02:03:45Z",
+  "pushed_at": "2023-02-14T08:27:47Z",
   "git_url": "git://github.com/videojs/video.js.git",
   "ssh_url": "git@github.com:videojs/video.js.git",
   "clone_url": "https://github.com/videojs/video.js.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 7306,
+  "forks_count": 7307,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 414,
+  "open_issues_count": 415,
   "license": {
     "key": "other",
     "name": "Other",
@@ -110,8 +110,8 @@
     "videojs"
   ],
   "visibility": "public",
-  "forks": 7306,
-  "open_issues": 414,
+  "forks": 7307,
+  "open_issues": 415,
   "watchers": 35018,
   "default_branch": "main",
   "permissions": {
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 582
+  "_index": 583
 }

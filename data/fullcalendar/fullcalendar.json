@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/fullcalendar/fullcalendar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fullcalendar/fullcalendar/deployments",
   "created_at": "2009-11-22T23:16:51Z",
-  "updated_at": "2023-02-13T17:11:16Z",
-  "pushed_at": "2023-02-07T23:19:21Z",
+  "updated_at": "2023-02-14T14:57:20Z",
+  "pushed_at": "2023-02-15T00:25:11Z",
   "git_url": "git://github.com/fullcalendar/fullcalendar.git",
   "ssh_url": "git@github.com:fullcalendar/fullcalendar.git",
   "clone_url": "https://github.com/fullcalendar/fullcalendar.git",
   "svn_url": "https://github.com/fullcalendar/fullcalendar",
   "homepage": "https://fullcalendar.io",
-  "size": 32438,
-  "stargazers_count": 15999,
-  "watchers_count": 15999,
+  "size": 32441,
+  "stargazers_count": 16000,
+  "watchers_count": 16000,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3477,
+  "forks_count": 3481,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 814,
+  "open_issues_count": 816,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,9 +103,9 @@
     "full-sized"
   ],
   "visibility": "public",
-  "forks": 3477,
-  "open_issues": 814,
-  "watchers": 15999,
+  "forks": 3481,
+  "open_issues": 816,
+  "watchers": 16000,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1334
+  "_index": 1335
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/nestjs/serve-static/deployments",
   "created_at": "2019-07-17T19:22:27Z",
   "updated_at": "2023-02-06T08:08:35Z",
-  "pushed_at": "2023-02-13T21:19:54Z",
+  "pushed_at": "2023-02-14T15:28:36Z",
   "git_url": "git://github.com/nestjs/serve-static.git",
   "ssh_url": "git@github.com:nestjs/serve-static.git",
   "clone_url": "https://github.com/nestjs/serve-static.git",
   "svn_url": "https://github.com/nestjs/serve-static",
   "homepage": "https://nestjs.com/",
-  "size": 2853,
+  "size": 2852,
   "stargazers_count": 330,
   "watchers_count": 330,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 6,
+  "open_issues_count": 5,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,7 +108,7 @@
   ],
   "visibility": "public",
   "forks": 37,
-  "open_issues": 6,
+  "open_issues": 5,
   "watchers": 330,
   "default_branch": "master",
   "permissions": {
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1065
+  "_index": 1066
 }

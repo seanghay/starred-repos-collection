@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/plausible/analytics/releases{/id}",
   "deployments_url": "https://api.github.com/repos/plausible/analytics/deployments",
   "created_at": "2018-12-04T22:33:36Z",
-  "updated_at": "2023-02-14T02:12:44Z",
-  "pushed_at": "2023-02-13T22:08:56Z",
+  "updated_at": "2023-02-14T22:33:28Z",
+  "pushed_at": "2023-02-14T19:48:26Z",
   "git_url": "git://github.com/plausible/analytics.git",
   "ssh_url": "git@github.com:plausible/analytics.git",
   "clone_url": "https://github.com/plausible/analytics.git",
   "svn_url": "https://github.com/plausible/analytics",
   "homepage": "https://plausible.io",
-  "size": 75009,
-  "stargazers_count": 13883,
-  "watchers_count": 13883,
+  "size": 75189,
+  "stargazers_count": 13888,
+  "watchers_count": 13888,
   "language": "Elixir",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 710,
+  "forks_count": 711,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 36,
+  "open_issues_count": 31,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -118,9 +118,9 @@
     "website-stats"
   ],
   "visibility": "public",
-  "forks": 710,
-  "open_issues": 36,
-  "watchers": 13883,
+  "forks": 711,
+  "open_issues": 31,
+  "watchers": 13888,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 410
+  "_index": 411
 }
