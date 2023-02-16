@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/graphql/graphiql/releases{/id}",
   "deployments_url": "https://api.github.com/repos/graphql/graphiql/deployments",
   "created_at": "2015-08-11T02:56:22Z",
-  "updated_at": "2023-02-15T00:21:32Z",
+  "updated_at": "2023-02-15T16:50:03Z",
   "pushed_at": "2023-02-13T23:16:20Z",
   "git_url": "git://github.com/graphql/graphiql.git",
   "ssh_url": "git@github.com:graphql/graphiql.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/graphql/graphiql",
   "homepage": "",
   "size": 21659,
-  "stargazers_count": 14652,
-  "watchers_count": 14652,
+  "stargazers_count": 14654,
+  "watchers_count": 14654,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1636,
+  "forks_count": 1637,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 312,
+  "open_issues_count": 313,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,9 +107,9 @@
     "vscode"
   ],
   "visibility": "public",
-  "forks": 1636,
-  "open_issues": 312,
-  "watchers": 14652,
+  "forks": 1637,
+  "open_issues": 313,
+  "watchers": 14654,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 202
+  "_index": 203
 }

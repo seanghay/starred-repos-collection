@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/copy/v86/releases{/id}",
   "deployments_url": "https://api.github.com/repos/copy/v86/deployments",
   "created_at": "2013-11-06T00:12:12Z",
-  "updated_at": "2023-02-14T22:31:59Z",
+  "updated_at": "2023-02-15T22:54:16Z",
   "pushed_at": "2023-01-06T15:35:16Z",
   "git_url": "git://github.com/copy/v86.git",
   "ssh_url": "git@github.com:copy/v86.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1225,
+  "forks_count": 1227,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,7 +104,7 @@
     "x86"
   ],
   "visibility": "public",
-  "forks": 1225,
+  "forks": 1227,
   "open_issues": 90,
   "watchers": 17287,
   "default_branch": "master",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 154
+  "_index": 155
 }

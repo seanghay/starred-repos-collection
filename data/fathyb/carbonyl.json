@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/fathyb/carbonyl/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fathyb/carbonyl/deployments",
   "created_at": "2023-01-20T10:58:22Z",
-  "updated_at": "2023-02-15T01:57:47Z",
-  "pushed_at": "2023-02-14T11:23:26Z",
+  "updated_at": "2023-02-16T02:12:18Z",
+  "pushed_at": "2023-02-15T20:03:21Z",
   "git_url": "git://github.com/fathyb/carbonyl.git",
   "ssh_url": "git@github.com:fathyb/carbonyl.git",
   "clone_url": "https://github.com/fathyb/carbonyl.git",
   "svn_url": "https://github.com/fathyb/carbonyl",
   "homepage": "",
-  "size": 282,
-  "stargazers_count": 10873,
-  "watchers_count": 10873,
+  "size": 283,
+  "stargazers_count": 10913,
+  "watchers_count": 10913,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 245,
+  "forks_count": 246,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 30,
+  "open_issues_count": 31,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -103,9 +103,9 @@
     "terminal"
   ],
   "visibility": "public",
-  "forks": 245,
-  "open_issues": 30,
-  "watchers": 10873,
+  "forks": 246,
+  "open_issues": 31,
+  "watchers": 10913,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 23
+  "_index": 24
 }

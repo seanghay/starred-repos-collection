@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/red/red/releases{/id}",
   "deployments_url": "https://api.github.com/repos/red/red/deployments",
   "created_at": "2011-03-07T11:38:19Z",
-  "updated_at": "2023-02-13T23:21:57Z",
-  "pushed_at": "2023-02-14T20:40:35Z",
+  "updated_at": "2023-02-15T08:23:15Z",
+  "pushed_at": "2023-02-15T12:57:27Z",
   "git_url": "git://github.com/red/red.git",
   "ssh_url": "git@github.com:red/red.git",
   "clone_url": "https://github.com/red/red.git",
   "svn_url": "https://github.com/red/red",
   "homepage": "http://red-lang.org",
-  "size": 37515,
-  "stargazers_count": 5053,
-  "watchers_count": 5053,
+  "size": 37557,
+  "stargazers_count": 5054,
+  "watchers_count": 5054,
   "language": "Red",
   "has_issues": true,
   "has_projects": false,
@@ -115,7 +115,7 @@
   "visibility": "public",
   "forks": 416,
   "open_issues": 457,
-  "watchers": 5053,
+  "watchers": 5054,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1823
+  "_index": 1824
 }

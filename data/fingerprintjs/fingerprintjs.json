@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/fingerprintjs/fingerprintjs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fingerprintjs/fingerprintjs/deployments",
   "created_at": "2015-02-11T08:49:54Z",
-  "updated_at": "2023-02-14T22:32:15Z",
-  "pushed_at": "2023-02-04T04:49:23Z",
+  "updated_at": "2023-02-16T02:13:51Z",
+  "pushed_at": "2023-02-15T15:05:37Z",
   "git_url": "git://github.com/fingerprintjs/fingerprintjs.git",
   "ssh_url": "git@github.com:fingerprintjs/fingerprintjs.git",
   "clone_url": "https://github.com/fingerprintjs/fingerprintjs.git",
   "svn_url": "https://github.com/fingerprintjs/fingerprintjs",
   "homepage": "https://fingerprint.com",
-  "size": 2930,
-  "stargazers_count": 18246,
-  "watchers_count": 18246,
+  "size": 2893,
+  "stargazers_count": 18251,
+  "watchers_count": 18251,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -115,7 +115,7 @@
   "visibility": "public",
   "forks": 2054,
   "open_issues": 20,
-  "watchers": 18246,
+  "watchers": 18251,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 298
+  "_index": 299
 }

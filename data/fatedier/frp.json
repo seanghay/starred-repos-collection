@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/fatedier/frp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fatedier/frp/deployments",
   "created_at": "2015-12-21T15:24:59Z",
-  "updated_at": "2023-02-15T02:04:28Z",
-  "pushed_at": "2023-02-10T05:25:16Z",
+  "updated_at": "2023-02-16T02:05:47Z",
+  "pushed_at": "2023-02-15T18:45:48Z",
   "git_url": "git://github.com/fatedier/frp.git",
   "ssh_url": "git@github.com:fatedier/frp.git",
   "clone_url": "https://github.com/fatedier/frp.git",
   "svn_url": "https://github.com/fatedier/frp",
   "homepage": "",
-  "size": 25785,
-  "stargazers_count": 64327,
-  "watchers_count": 64327,
+  "size": 26171,
+  "stargazers_count": 64370,
+  "watchers_count": 64370,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 11111,
+  "forks_count": 11114,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 103,
+  "open_issues_count": 106,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -109,9 +109,9 @@
     "tunnel"
   ],
   "visibility": "public",
-  "forks": 11111,
-  "open_issues": 103,
-  "watchers": 64327,
+  "forks": 11114,
+  "open_issues": 106,
+  "watchers": 64370,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 344
+  "_index": 345
 }

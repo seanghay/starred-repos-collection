@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/Kotlin/kotlinx-cli/deployments",
   "created_at": "2017-09-20T13:07:21Z",
   "updated_at": "2023-02-14T22:36:12Z",
-  "pushed_at": "2023-02-13T15:17:34Z",
+  "pushed_at": "2023-02-15T09:11:49Z",
   "git_url": "git://github.com/Kotlin/kotlinx-cli.git",
   "ssh_url": "git@github.com:Kotlin/kotlinx-cli.git",
   "clone_url": "https://github.com/Kotlin/kotlinx-cli.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 32,
+  "open_issues_count": 33,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 63,
-  "open_issues": 32,
+  "open_issues": 33,
   "watchers": 784,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1212
+  "_index": 1213
 }

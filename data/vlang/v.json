@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/vlang/v/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vlang/v/deployments",
   "created_at": "2019-02-08T02:57:06Z",
-  "updated_at": "2023-02-14T22:33:33Z",
-  "pushed_at": "2023-02-15T01:32:29Z",
+  "updated_at": "2023-02-16T01:32:54Z",
+  "pushed_at": "2023-02-16T00:51:45Z",
   "git_url": "git://github.com/vlang/v.git",
   "ssh_url": "git@github.com:vlang/v.git",
   "clone_url": "https://github.com/vlang/v.git",
   "svn_url": "https://github.com/vlang/v",
   "homepage": "",
-  "size": 66677,
-  "stargazers_count": 31310,
-  "watchers_count": 31310,
+  "size": 66925,
+  "stargazers_count": 31316,
+  "watchers_count": 31316,
   "language": "V",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 836,
+  "open_issues_count": 835,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 1939,
-  "open_issues": 836,
-  "watchers": 31310,
+  "open_issues": 835,
+  "watchers": 31316,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1881
+  "_index": 1882
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jmfayard/refreshVersions/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jmfayard/refreshVersions/deployments",
   "created_at": "2018-09-29T05:14:46Z",
-  "updated_at": "2023-02-12T21:29:40Z",
+  "updated_at": "2023-02-15T06:41:29Z",
   "pushed_at": "2023-02-09T03:39:04Z",
   "git_url": "git://github.com/jmfayard/refreshVersions.git",
   "ssh_url": "git@github.com:jmfayard/refreshVersions.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jmfayard/refreshVersions",
   "homepage": "https://jmfayard.github.io/refreshVersions/",
   "size": 11986,
-  "stargazers_count": 1489,
-  "watchers_count": 1489,
+  "stargazers_count": 1490,
+  "watchers_count": 1490,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 103,
   "open_issues": 101,
-  "watchers": 1489,
+  "watchers": 1490,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1473
+  "_index": 1474
 }

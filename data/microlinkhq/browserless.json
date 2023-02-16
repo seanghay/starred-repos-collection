@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/microlinkhq/browserless/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microlinkhq/browserless/deployments",
   "created_at": "2017-09-06T14:34:06Z",
-  "updated_at": "2023-02-12T21:33:59Z",
+  "updated_at": "2023-02-16T01:21:08Z",
   "pushed_at": "2023-02-12T23:25:04Z",
   "git_url": "git://github.com/microlinkhq/browserless.git",
   "ssh_url": "git@github.com:microlinkhq/browserless.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/microlinkhq/browserless",
   "homepage": "https://browserless.js.org",
   "size": 14157,
-  "stargazers_count": 1282,
-  "watchers_count": 1282,
+  "stargazers_count": 1284,
+  "watchers_count": 1284,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 65,
   "open_issues": 5,
-  "watchers": 1282,
+  "watchers": 1284,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 25
+  "_index": 26
 }

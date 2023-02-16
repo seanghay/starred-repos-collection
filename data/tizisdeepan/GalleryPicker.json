@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tizisdeepan/GalleryPicker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tizisdeepan/GalleryPicker/deployments",
   "created_at": "2018-09-26T07:23:48Z",
-  "updated_at": "2022-12-27T06:40:40Z",
+  "updated_at": "2023-02-15T03:47:11Z",
   "pushed_at": "2021-07-02T22:44:35Z",
   "git_url": "git://github.com/tizisdeepan/GalleryPicker.git",
   "ssh_url": "git@github.com:tizisdeepan/GalleryPicker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/tizisdeepan/GalleryPicker",
   "homepage": "",
   "size": 2037,
-  "stargazers_count": 124,
-  "watchers_count": 124,
+  "stargazers_count": 123,
+  "watchers_count": 123,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -103,7 +103,7 @@
   "visibility": "public",
   "forks": 24,
   "open_issues": 5,
-  "watchers": 124,
+  "watchers": 123,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1602
+  "_index": 1603
 }

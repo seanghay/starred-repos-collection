@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nestjs/serve-static/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nestjs/serve-static/deployments",
   "created_at": "2019-07-17T19:22:27Z",
-  "updated_at": "2023-02-06T08:08:35Z",
+  "updated_at": "2023-02-15T02:29:13Z",
   "pushed_at": "2023-02-14T15:28:36Z",
   "git_url": "git://github.com/nestjs/serve-static.git",
   "ssh_url": "git@github.com:nestjs/serve-static.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nestjs/serve-static",
   "homepage": "https://nestjs.com/",
   "size": 2852,
-  "stargazers_count": 330,
-  "watchers_count": 330,
+  "stargazers_count": 331,
+  "watchers_count": 331,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 37,
   "open_issues": 5,
-  "watchers": 330,
+  "watchers": 331,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1066
+  "_index": 1067
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Rob--W/grab-to-pan.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Rob--W/grab-to-pan.js/deployments",
   "created_at": "2013-07-11T13:28:15Z",
-  "updated_at": "2022-06-23T19:14:04Z",
+  "updated_at": "2023-02-15T20:29:28Z",
   "pushed_at": "2016-10-12T19:30:47Z",
   "git_url": "git://github.com/Rob--W/grab-to-pan.js.git",
   "ssh_url": "git@github.com:Rob--W/grab-to-pan.js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Rob--W/grab-to-pan.js",
   "homepage": "",
   "size": 22,
-  "stargazers_count": 27,
-  "watchers_count": 27,
+  "stargazers_count": 28,
+  "watchers_count": 28,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 15,
   "open_issues": 1,
-  "watchers": 27,
+  "watchers": 28,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2437
+  "_index": 2438
 }
