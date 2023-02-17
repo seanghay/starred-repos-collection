@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ellie/atuin/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ellie/atuin/deployments",
   "created_at": "2020-10-04T23:01:58Z",
-  "updated_at": "2023-02-15T21:48:08Z",
-  "pushed_at": "2023-02-15T09:08:41Z",
+  "updated_at": "2023-02-16T20:47:58Z",
+  "pushed_at": "2023-02-16T12:02:10Z",
   "git_url": "git://github.com/ellie/atuin.git",
   "ssh_url": "git@github.com:ellie/atuin.git",
   "clone_url": "https://github.com/ellie/atuin.git",
   "svn_url": "https://github.com/ellie/atuin",
   "homepage": "https://atuin.sh",
   "size": 41561,
-  "stargazers_count": 5158,
-  "watchers_count": 5158,
+  "stargazers_count": 5165,
+  "watchers_count": 5165,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 163,
   "open_issues": 84,
-  "watchers": 5158,
+  "watchers": 5165,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1030
+  "_index": 1031
 }

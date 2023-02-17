@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Rich-Harris/devalue/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Rich-Harris/devalue/deployments",
   "created_at": "2018-03-10T21:53:48Z",
-  "updated_at": "2023-02-14T20:32:24Z",
+  "updated_at": "2023-02-17T01:16:40Z",
   "pushed_at": "2023-02-15T20:17:59Z",
   "git_url": "git://github.com/Rich-Harris/devalue.git",
   "ssh_url": "git@github.com:Rich-Harris/devalue.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Rich-Harris/devalue",
   "homepage": "https://svelte.dev/repl/138d70def7a748ce9eda736ef1c71239?version=3.49.0",
   "size": 118,
-  "stargazers_count": 1064,
-  "watchers_count": 1064,
+  "stargazers_count": 1093,
+  "watchers_count": 1093,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 15,
+  "open_issues_count": 14,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 35,
-  "open_issues": 15,
-  "watchers": 1064,
+  "open_issues": 14,
+  "watchers": 1093,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 139
+  "_index": 140
 }

@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/hapijs/joi/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hapijs/joi/deployments",
   "created_at": "2012-09-16T16:38:06Z",
-  "updated_at": "2023-02-16T01:03:22Z",
-  "pushed_at": "2023-02-15T13:13:14Z",
+  "updated_at": "2023-02-16T23:31:12Z",
+  "pushed_at": "2023-02-16T21:54:33Z",
   "git_url": "git://github.com/hapijs/joi.git",
   "ssh_url": "git@github.com:hapijs/joi.git",
   "clone_url": "https://github.com/hapijs/joi.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1534,
+  "forks_count": 1535,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,7 +104,7 @@
     "validation"
   ],
   "visibility": "public",
-  "forks": 1534,
+  "forks": 1535,
   "open_issues": 138,
   "watchers": 19695,
   "default_branch": "master",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 962
+  "_index": 963
 }

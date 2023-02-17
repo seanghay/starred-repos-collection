@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/bazelbuild/bazel/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bazelbuild/bazel/deployments",
   "created_at": "2014-06-12T16:00:38Z",
-  "updated_at": "2023-02-15T19:17:00Z",
-  "pushed_at": "2023-02-15T23:31:08Z",
+  "updated_at": "2023-02-17T00:09:01Z",
+  "pushed_at": "2023-02-16T22:58:23Z",
   "git_url": "git://github.com/bazelbuild/bazel.git",
   "ssh_url": "git@github.com:bazelbuild/bazel.git",
   "clone_url": "https://github.com/bazelbuild/bazel.git",
   "svn_url": "https://github.com/bazelbuild/bazel",
   "homepage": "https://bazel.build",
-  "size": 890469,
-  "stargazers_count": 20275,
-  "watchers_count": 20275,
+  "size": 890923,
+  "stargazers_count": 20278,
+  "watchers_count": 20278,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3677,
+  "forks_count": 3680,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2428,
+  "open_issues_count": 2312,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -108,9 +108,9 @@
     "test"
   ],
   "visibility": "public",
-  "forks": 3677,
-  "open_issues": 2428,
-  "watchers": 20275,
+  "forks": 3680,
+  "open_issues": 2312,
+  "watchers": 20278,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2408
+  "_index": 2409
 }

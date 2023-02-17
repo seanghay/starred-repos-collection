@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/GetStream/avatarview-android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/GetStream/avatarview-android/deployments",
   "created_at": "2021-12-17T10:44:56Z",
-  "updated_at": "2023-02-13T00:58:25Z",
+  "updated_at": "2023-02-16T16:42:27Z",
   "pushed_at": "2022-10-05T12:47:46Z",
   "git_url": "git://github.com/GetStream/avatarview-android.git",
   "ssh_url": "git@github.com:GetStream/avatarview-android.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/GetStream/avatarview-android",
   "homepage": "https://getstream.github.io/avatarview-android/",
   "size": 19194,
-  "stargazers_count": 397,
-  "watchers_count": 397,
+  "stargazers_count": 398,
+  "watchers_count": 398,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 22,
   "open_issues": 3,
-  "watchers": 397,
+  "watchers": 398,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 595
+  "_index": 596
 }

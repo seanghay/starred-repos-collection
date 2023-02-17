@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/vitorhugods/AvatarView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vitorhugods/AvatarView/deployments",
   "created_at": "2018-09-21T11:03:12Z",
-  "updated_at": "2023-02-13T06:01:01Z",
+  "updated_at": "2023-02-16T12:07:26Z",
   "pushed_at": "2022-09-22T12:23:18Z",
   "git_url": "git://github.com/vitorhugods/AvatarView.git",
   "ssh_url": "git@github.com:vitorhugods/AvatarView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/vitorhugods/AvatarView",
   "homepage": "",
   "size": 5026,
-  "stargazers_count": 527,
-  "watchers_count": 527,
+  "stargazers_count": 528,
+  "watchers_count": 528,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 35,
   "open_issues": 2,
-  "watchers": 527,
+  "watchers": 528,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2307
+  "_index": 2308
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/GoogleChromeLabs/comlink/releases{/id}",
   "deployments_url": "https://api.github.com/repos/GoogleChromeLabs/comlink/deployments",
   "created_at": "2017-09-06T11:43:38Z",
-  "updated_at": "2023-02-15T20:33:55Z",
+  "updated_at": "2023-02-17T02:00:39Z",
   "pushed_at": "2023-02-11T01:19:19Z",
   "git_url": "git://github.com/GoogleChromeLabs/comlink.git",
   "ssh_url": "git@github.com:GoogleChromeLabs/comlink.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/GoogleChromeLabs/comlink",
   "homepage": "",
   "size": 2180,
-  "stargazers_count": 9364,
-  "watchers_count": 9364,
+  "stargazers_count": 9367,
+  "watchers_count": 9367,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 355,
   "open_issues": 73,
-  "watchers": 9364,
+  "watchers": 9367,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1184
+  "_index": 1185
 }

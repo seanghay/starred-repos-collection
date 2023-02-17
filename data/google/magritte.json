@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/magritte/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/magritte/deployments",
   "created_at": "2021-02-22T23:50:23Z",
-  "updated_at": "2023-02-15T15:23:06Z",
+  "updated_at": "2023-02-16T19:34:55Z",
   "pushed_at": "2023-01-04T13:39:30Z",
   "git_url": "git://github.com/google/magritte.git",
   "ssh_url": "git@github.com:google/magritte.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 84
+  "_index": 85
 }

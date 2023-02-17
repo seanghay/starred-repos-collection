@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/jaredpalmer/tsdx/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jaredpalmer/tsdx/deployments",
   "created_at": "2019-01-24T13:04:18Z",
-  "updated_at": "2023-02-16T01:49:55Z",
-  "pushed_at": "2022-10-02T20:17:34Z",
+  "updated_at": "2023-02-16T23:29:51Z",
+  "pushed_at": "2023-02-16T02:49:12Z",
   "git_url": "git://github.com/jaredpalmer/tsdx.git",
   "ssh_url": "git@github.com:jaredpalmer/tsdx.git",
   "clone_url": "https://github.com/jaredpalmer/tsdx.git",
   "svn_url": "https://github.com/jaredpalmer/tsdx",
   "homepage": "https://tsdx.io",
   "size": 3803,
-  "stargazers_count": 10562,
-  "watchers_count": 10562,
+  "stargazers_count": 10564,
+  "watchers_count": 10564,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 496,
+  "forks_count": 497,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 224,
+  "open_issues_count": 225,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,9 +109,9 @@
     "yarn"
   ],
   "visibility": "public",
-  "forks": 496,
-  "open_issues": 224,
-  "watchers": 10562,
+  "forks": 497,
+  "open_issues": 225,
+  "watchers": 10564,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 342
+  "_index": 343
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/naver/egjs-grid/deployments",
   "created_at": "2021-03-25T04:49:29Z",
   "updated_at": "2023-02-11T01:01:29Z",
-  "pushed_at": "2023-02-10T02:38:26Z",
+  "pushed_at": "2023-02-16T06:56:01Z",
   "git_url": "git://github.com/naver/egjs-grid.git",
   "ssh_url": "git@github.com:naver/egjs-grid.git",
   "clone_url": "https://github.com/naver/egjs-grid.git",
   "svn_url": "https://github.com/naver/egjs-grid",
   "homepage": "https://naver.github.io/egjs-grid/",
-  "size": 14111,
+  "size": 14114,
   "stargazers_count": 191,
   "watchers_count": 191,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 8,
+  "open_issues_count": 7,
   "license": {
     "key": "other",
     "name": "Other",
@@ -112,7 +112,7 @@
   ],
   "visibility": "public",
   "forks": 13,
-  "open_issues": 8,
+  "open_issues": 7,
   "watchers": 191,
   "default_branch": "main",
   "permissions": {
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 658
+  "_index": 659
 }

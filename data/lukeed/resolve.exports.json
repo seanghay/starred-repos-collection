@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lukeed/resolve.exports/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lukeed/resolve.exports/deployments",
   "created_at": "2021-01-08T21:46:01Z",
-  "updated_at": "2023-02-15T08:04:43Z",
+  "updated_at": "2023-02-16T17:57:07Z",
   "pushed_at": "2023-02-03T12:00:50Z",
   "git_url": "git://github.com/lukeed/resolve.exports.git",
   "ssh_url": "git@github.com:lukeed/resolve.exports.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lukeed/resolve.exports",
   "homepage": "",
   "size": 89,
-  "stargazers_count": 245,
-  "watchers_count": 245,
+  "stargazers_count": 246,
+  "watchers_count": 246,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 12,
   "open_issues": 2,
-  "watchers": 245,
+  "watchers": 246,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 330
+  "_index": 331
 }

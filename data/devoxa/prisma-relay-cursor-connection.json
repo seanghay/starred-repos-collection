@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/devoxa/prisma-relay-cursor-connection/releases{/id}",
   "deployments_url": "https://api.github.com/repos/devoxa/prisma-relay-cursor-connection/deployments",
   "created_at": "2020-06-17T17:19:46Z",
-  "updated_at": "2023-02-13T15:51:54Z",
-  "pushed_at": "2023-02-15T16:33:38Z",
+  "updated_at": "2023-02-16T17:58:26Z",
+  "pushed_at": "2023-02-16T03:09:09Z",
   "git_url": "git://github.com/devoxa/prisma-relay-cursor-connection.git",
   "ssh_url": "git@github.com:devoxa/prisma-relay-cursor-connection.git",
   "clone_url": "https://github.com/devoxa/prisma-relay-cursor-connection.git",
   "svn_url": "https://github.com/devoxa/prisma-relay-cursor-connection",
   "homepage": "",
-  "size": 2347,
-  "stargazers_count": 216,
-  "watchers_count": 216,
+  "size": 2420,
+  "stargazers_count": 217,
+  "watchers_count": 217,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 15,
   "open_issues": 3,
-  "watchers": 216,
+  "watchers": 217,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1211
+  "_index": 1212
 }

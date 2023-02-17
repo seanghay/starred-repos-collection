@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Alamofire/Alamofire/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Alamofire/Alamofire/deployments",
   "created_at": "2014-07-31T05:56:19Z",
-  "updated_at": "2023-02-15T22:44:20Z",
-  "pushed_at": "2023-02-15T23:16:28Z",
+  "updated_at": "2023-02-17T01:48:18Z",
+  "pushed_at": "2023-02-16T22:21:14Z",
   "git_url": "git://github.com/Alamofire/Alamofire.git",
   "ssh_url": "git@github.com:Alamofire/Alamofire.git",
   "clone_url": "https://github.com/Alamofire/Alamofire.git",
   "svn_url": "https://github.com/Alamofire/Alamofire",
   "homepage": "",
-  "size": 29819,
-  "stargazers_count": 38958,
-  "watchers_count": 38958,
+  "size": 29807,
+  "stargazers_count": 38967,
+  "watchers_count": 38967,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 7367,
+  "forks_count": 7366,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 36,
+  "open_issues_count": 38,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -115,9 +115,9 @@
     "xcode"
   ],
   "visibility": "public",
-  "forks": 7367,
-  "open_issues": 36,
-  "watchers": 38958,
+  "forks": 7366,
+  "open_issues": 38,
+  "watchers": 38967,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2053
+  "_index": 2054
 }
