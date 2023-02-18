@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bytedeco/javacpp-presets/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bytedeco/javacpp-presets/deployments",
   "created_at": "2014-04-21T13:19:55Z",
-  "updated_at": "2023-02-15T07:35:39Z",
+  "updated_at": "2023-02-17T20:56:12Z",
   "pushed_at": "2023-02-16T21:34:02Z",
   "git_url": "git://github.com/bytedeco/javacpp-presets.git",
   "ssh_url": "git@github.com:bytedeco/javacpp-presets.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/bytedeco/javacpp-presets",
   "homepage": "",
   "size": 598775,
-  "stargazers_count": 2291,
-  "watchers_count": 2291,
+  "stargazers_count": 2293,
+  "watchers_count": 2293,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 680,
   "open_issues": 203,
-  "watchers": 2291,
+  "watchers": 2293,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1127
+  "_index": 1128
 }

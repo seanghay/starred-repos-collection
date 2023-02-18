@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/directus/directus/releases{/id}",
   "deployments_url": "https://api.github.com/repos/directus/directus/deployments",
   "created_at": "2012-12-12T01:35:36Z",
-  "updated_at": "2023-02-16T23:10:53Z",
-  "pushed_at": "2023-02-16T23:40:31Z",
+  "updated_at": "2023-02-18T02:12:21Z",
+  "pushed_at": "2023-02-17T23:50:59Z",
   "git_url": "git://github.com/directus/directus.git",
   "ssh_url": "git@github.com:directus/directus.git",
   "clone_url": "https://github.com/directus/directus.git",
   "svn_url": "https://github.com/directus/directus",
   "homepage": "https://directus.io",
-  "size": 375447,
-  "stargazers_count": 20269,
-  "watchers_count": 20269,
+  "size": 375493,
+  "stargazers_count": 20282,
+  "watchers_count": 20282,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2388,
+  "forks_count": 2389,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 328,
+  "open_issues_count": 332,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -120,9 +120,9 @@
     "vue"
   ],
   "visibility": "public",
-  "forks": 2388,
-  "open_issues": 328,
-  "watchers": 20269,
+  "forks": 2389,
+  "open_issues": 332,
+  "watchers": 20282,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 376
+  "_index": 377
 }

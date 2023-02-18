@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/googlefonts/nanoemoji/releases{/id}",
   "deployments_url": "https://api.github.com/repos/googlefonts/nanoemoji/deployments",
   "created_at": "2020-04-04T19:39:13Z",
-  "updated_at": "2023-02-06T18:01:08Z",
+  "updated_at": "2023-02-17T23:51:47Z",
   "pushed_at": "2022-11-29T18:09:14Z",
   "git_url": "git://github.com/googlefonts/nanoemoji.git",
   "ssh_url": "git@github.com:googlefonts/nanoemoji.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/googlefonts/nanoemoji",
   "homepage": null,
   "size": 1129,
-  "stargazers_count": 159,
-  "watchers_count": 159,
+  "stargazers_count": 160,
+  "watchers_count": 160,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 15,
   "open_issues": 38,
-  "watchers": 159,
+  "watchers": 160,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 263
+  "_index": 264
 }

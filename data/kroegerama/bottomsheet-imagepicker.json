@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kroegerama/bottomsheet-imagepicker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kroegerama/bottomsheet-imagepicker/deployments",
   "created_at": "2019-04-07T11:01:19Z",
-  "updated_at": "2023-02-06T07:43:01Z",
+  "updated_at": "2023-02-17T07:53:22Z",
   "pushed_at": "2022-04-14T20:26:48Z",
   "git_url": "git://github.com/kroegerama/bottomsheet-imagepicker.git",
   "ssh_url": "git@github.com:kroegerama/bottomsheet-imagepicker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/kroegerama/bottomsheet-imagepicker",
   "homepage": null,
   "size": 3966,
-  "stargazers_count": 320,
-  "watchers_count": 320,
+  "stargazers_count": 321,
+  "watchers_count": 321,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 47,
   "open_issues": 13,
-  "watchers": 320,
+  "watchers": 321,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2097
+  "_index": 2098
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nektos/act/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nektos/act/deployments",
   "created_at": "2019-01-02T19:53:43Z",
-  "updated_at": "2023-02-17T01:31:27Z",
+  "updated_at": "2023-02-18T01:29:43Z",
   "pushed_at": "2023-02-16T16:41:59Z",
   "git_url": "git://github.com/nektos/act.git",
   "ssh_url": "git@github.com:nektos/act.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nektos/act",
   "homepage": "",
   "size": 6520,
-  "stargazers_count": 35041,
-  "watchers_count": 35041,
+  "stargazers_count": 35075,
+  "watchers_count": 35075,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 86,
+  "open_issues_count": 87,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 883,
-  "open_issues": 86,
-  "watchers": 35041,
+  "open_issues": 87,
+  "watchers": 35075,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 436
+  "_index": 437
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/android/animation-samples/releases{/id}",
   "deployments_url": "https://api.github.com/repos/android/animation-samples/deployments",
   "created_at": "2019-08-08T04:45:57Z",
-  "updated_at": "2023-02-14T11:24:55Z",
+  "updated_at": "2023-02-17T07:12:22Z",
   "pushed_at": "2022-10-11T08:34:39Z",
   "git_url": "git://github.com/android/animation-samples.git",
   "ssh_url": "git@github.com:android/animation-samples.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/android/animation-samples",
   "homepage": "",
   "size": 49874,
-  "stargazers_count": 2348,
-  "watchers_count": 2348,
+  "stargazers_count": 2350,
+  "watchers_count": 2350,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 871,
+  "forks_count": 872,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -101,9 +101,9 @@
     "samples"
   ],
   "visibility": "public",
-  "forks": 871,
+  "forks": 872,
   "open_issues": 27,
-  "watchers": 2348,
+  "watchers": 2350,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1969
+  "_index": 1970
 }

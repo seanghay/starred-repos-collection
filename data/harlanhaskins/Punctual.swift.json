@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/harlanhaskins/Punctual.swift/releases{/id}",
   "deployments_url": "https://api.github.com/repos/harlanhaskins/Punctual.swift/deployments",
   "created_at": "2015-04-08T04:14:35Z",
-  "updated_at": "2023-01-28T14:51:07Z",
+  "updated_at": "2023-02-17T18:33:20Z",
   "pushed_at": "2016-11-29T18:36:20Z",
   "git_url": "git://github.com/harlanhaskins/Punctual.swift.git",
   "ssh_url": "git@github.com:harlanhaskins/Punctual.swift.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/harlanhaskins/Punctual.swift",
   "homepage": "",
   "size": 57,
-  "stargazers_count": 321,
-  "watchers_count": 321,
+  "stargazers_count": 320,
+  "watchers_count": 320,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 11,
   "open_issues": 1,
-  "watchers": 321,
+  "watchers": 320,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1407
+  "_index": 1408
 }

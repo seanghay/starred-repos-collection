@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 93,
+  "forks_count": 94,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,7 +108,7 @@
     "skydoves"
   ],
   "visibility": "public",
-  "forks": 93,
+  "forks": 94,
   "open_issues": 6,
   "watchers": 1211,
   "default_branch": "main",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1689
+  "_index": 1690
 }
