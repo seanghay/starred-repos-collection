@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/facebook/flipper/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebook/flipper/deployments",
   "created_at": "2018-04-12T16:47:36Z",
-  "updated_at": "2023-02-17T20:27:02Z",
-  "pushed_at": "2023-02-17T18:48:05Z",
+  "updated_at": "2023-02-18T17:40:33Z",
+  "pushed_at": "2023-02-18T16:19:15Z",
   "git_url": "git://github.com/facebook/flipper.git",
   "ssh_url": "git@github.com:facebook/flipper.git",
   "clone_url": "https://github.com/facebook/flipper.git",
   "svn_url": "https://github.com/facebook/flipper",
   "homepage": "https://fbflipper.com/",
-  "size": 208800,
-  "stargazers_count": 12307,
-  "watchers_count": 12307,
+  "size": 208801,
+  "stargazers_count": 12308,
+  "watchers_count": 12308,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 890,
   "open_issues": 262,
-  "watchers": 12307,
+  "watchers": 12308,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 774
+  "_index": 776
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/unjs/mlly/deployments",
   "created_at": "2021-07-16T12:33:45Z",
   "updated_at": "2023-02-14T13:31:02Z",
-  "pushed_at": "2023-02-17T10:07:33Z",
+  "pushed_at": "2023-02-18T02:41:25Z",
   "git_url": "git://github.com/unjs/mlly.git",
   "ssh_url": "git@github.com:unjs/mlly.git",
   "clone_url": "https://github.com/unjs/mlly.git",
   "svn_url": "https://github.com/unjs/mlly",
   "homepage": "",
-  "size": 753,
+  "size": 754,
   "stargazers_count": 286,
   "watchers_count": 286,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 8,
+  "open_issues_count": 9,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 17,
-  "open_issues": 8,
+  "open_issues": 9,
   "watchers": 286,
   "default_branch": "main",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 813
+  "_index": 815
 }

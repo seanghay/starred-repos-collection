@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/buefy/buefy/deployments",
   "created_at": "2017-03-31T16:44:48Z",
   "updated_at": "2023-02-17T17:27:51Z",
-  "pushed_at": "2023-02-08T18:08:16Z",
+  "pushed_at": "2023-02-18T23:31:17Z",
   "git_url": "git://github.com/buefy/buefy.git",
   "ssh_url": "git@github.com:buefy/buefy.git",
   "clone_url": "https://github.com/buefy/buefy.git",
   "svn_url": "https://github.com/buefy/buefy",
   "homepage": "https://buefy.org",
-  "size": 31197,
+  "size": 30562,
   "stargazers_count": 9382,
   "watchers_count": 9382,
   "language": "Vue",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1120,
+  "forks_count": 1121,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,7 +106,7 @@
     "vuejs"
   ],
   "visibility": "public",
-  "forks": 1120,
+  "forks": 1121,
   "open_issues": 96,
   "watchers": 9382,
   "default_branch": "dev",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1775
+  "_index": 1777
 }

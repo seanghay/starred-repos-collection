@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/git/git/releases{/id}",
   "deployments_url": "https://api.github.com/repos/git/git/deployments",
   "created_at": "2008-07-23T14:21:26Z",
-  "updated_at": "2023-02-18T00:58:14Z",
-  "pushed_at": "2023-02-17T22:46:27Z",
+  "updated_at": "2023-02-18T23:46:07Z",
+  "pushed_at": "2023-02-19T01:10:09Z",
   "git_url": "git://github.com/git/git.git",
   "ssh_url": "git@github.com:git/git.git",
   "clone_url": "https://github.com/git/git.git",
   "svn_url": "https://github.com/git/git",
   "homepage": "",
-  "size": 219519,
-  "stargazers_count": 45267,
-  "watchers_count": 45267,
+  "size": 219539,
+  "stargazers_count": 45278,
+  "watchers_count": 45278,
   "language": "C",
   "has_issues": false,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 24677,
+  "forks_count": 24687,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,9 +103,9 @@
     "shell"
   ],
   "visibility": "public",
-  "forks": 24677,
+  "forks": 24687,
   "open_issues": 130,
-  "watchers": 45267,
+  "watchers": 45278,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1123
+  "_index": 1125
 }
