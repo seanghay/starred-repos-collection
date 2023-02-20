@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/hackware1993/MagicIndicator/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hackware1993/MagicIndicator/deployments",
   "created_at": "2016-06-26T08:20:43Z",
-  "updated_at": "2023-02-16T08:51:36Z",
+  "updated_at": "2023-02-19T12:53:57Z",
   "pushed_at": "2022-09-24T03:25:47Z",
   "git_url": "git://github.com/hackware1993/MagicIndicator.git",
   "ssh_url": "git@github.com:hackware1993/MagicIndicator.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/hackware1993/MagicIndicator",
   "homepage": "",
   "size": 54746,
-  "stargazers_count": 9358,
-  "watchers_count": 9358,
+  "stargazers_count": 9360,
+  "watchers_count": 9360,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 1519,
   "open_issues": 182,
-  "watchers": 9358,
+  "watchers": 9360,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1101
+  "_index": 1103
 }

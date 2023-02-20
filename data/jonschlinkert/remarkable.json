@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jonschlinkert/remarkable/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jonschlinkert/remarkable/deployments",
   "created_at": "2014-09-01T17:57:42Z",
-  "updated_at": "2023-02-17T20:17:43Z",
+  "updated_at": "2023-02-19T17:48:43Z",
   "pushed_at": "2022-12-09T04:47:42Z",
   "git_url": "git://github.com/jonschlinkert/remarkable.git",
   "ssh_url": "git@github.com:jonschlinkert/remarkable.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jonschlinkert/remarkable",
   "homepage": "https://jonschlinkert.github.io/remarkable/demo/",
   "size": 1524,
-  "stargazers_count": 5472,
-  "watchers_count": 5472,
+  "stargazers_count": 5474,
+  "watchers_count": 5474,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -117,7 +117,7 @@
   "visibility": "public",
   "forks": 393,
   "open_issues": 129,
-  "watchers": 5472,
+  "watchers": 5474,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 963
+  "_index": 965
 }

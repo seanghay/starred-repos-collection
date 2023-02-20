@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/gonzalezreal/swift-markdown-ui/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gonzalezreal/swift-markdown-ui/deployments",
   "created_at": "2020-12-03T11:39:17Z",
-  "updated_at": "2023-02-19T01:32:34Z",
+  "updated_at": "2023-02-20T00:49:12Z",
   "pushed_at": "2023-02-16T09:23:50Z",
   "git_url": "git://github.com/gonzalezreal/swift-markdown-ui.git",
   "ssh_url": "git@github.com:gonzalezreal/swift-markdown-ui.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/gonzalezreal/swift-markdown-ui",
   "homepage": "",
   "size": 30160,
-  "stargazers_count": 1102,
-  "watchers_count": 1102,
+  "stargazers_count": 1115,
+  "watchers_count": 1115,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 87,
   "open_issues": 1,
-  "watchers": 1102,
+  "watchers": 1115,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1126
+  "_index": 1128
 }

@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/codesandbox/nodebox-runtime",
-  "description": "The open source version of the nodebox repository, a Node.js runtime for the browser",
+  "description": "The API for connecting with nodebox, a Node.js runtime for the browser",
   "fork": false,
   "url": "https://api.github.com/repos/codesandbox/nodebox-runtime",
   "forks_url": "https://api.github.com/repos/codesandbox/nodebox-runtime/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/codesandbox/nodebox-runtime/releases{/id}",
   "deployments_url": "https://api.github.com/repos/codesandbox/nodebox-runtime/deployments",
   "created_at": "2023-02-01T13:22:59Z",
-  "updated_at": "2023-02-19T02:15:52Z",
+  "updated_at": "2023-02-20T02:09:54Z",
   "pushed_at": "2023-02-18T01:17:08Z",
   "git_url": "git://github.com/codesandbox/nodebox-runtime.git",
   "ssh_url": "git@github.com:codesandbox/nodebox-runtime.git",
   "clone_url": "https://github.com/codesandbox/nodebox-runtime.git",
   "svn_url": "https://github.com/codesandbox/nodebox-runtime",
-  "homepage": null,
+  "homepage": "https://sandpack.codesandbox.io/docs/nodebox",
   "size": 23969,
-  "stargazers_count": 310,
-  "watchers_count": 310,
+  "stargazers_count": 332,
+  "watchers_count": 332,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 16,
+  "forks_count": 18,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 5,
+  "open_issues_count": 4,
   "license": {
     "key": "other",
     "name": "Other",
@@ -97,11 +97,16 @@
   "allow_forking": true,
   "is_template": false,
   "web_commit_signoff_required": false,
-  "topics": [],
+  "topics": [
+    "browser",
+    "nodejs",
+    "runtime",
+    "sandbox"
+  ],
   "visibility": "public",
-  "forks": 16,
-  "open_issues": 5,
-  "watchers": 310,
+  "forks": 18,
+  "open_issues": 4,
+  "watchers": 332,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2
+  "_index": 4
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/android/user-interface-samples/releases{/id}",
   "deployments_url": "https://api.github.com/repos/android/user-interface-samples/deployments",
   "created_at": "2019-09-06T21:00:08Z",
-  "updated_at": "2023-02-18T18:40:26Z",
+  "updated_at": "2023-02-19T17:48:42Z",
   "pushed_at": "2023-02-15T17:48:05Z",
   "git_url": "git://github.com/android/user-interface-samples.git",
   "ssh_url": "git@github.com:android/user-interface-samples.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/android/user-interface-samples",
   "homepage": "",
   "size": 51239,
-  "stargazers_count": 3793,
-  "watchers_count": 3793,
+  "stargazers_count": 3795,
+  "watchers_count": 3795,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 1570,
   "open_issues": 178,
-  "watchers": 3793,
+  "watchers": 3795,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1938
+  "_index": 1940
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/shuhart/StepView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/shuhart/StepView/deployments",
   "created_at": "2017-10-30T08:16:23Z",
-  "updated_at": "2023-02-09T15:56:16Z",
+  "updated_at": "2023-02-19T18:09:29Z",
   "pushed_at": "2022-07-05T16:08:32Z",
   "git_url": "git://github.com/shuhart/StepView.git",
   "ssh_url": "git@github.com:shuhart/StepView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/shuhart/StepView",
   "homepage": null,
   "size": 1927,
-  "stargazers_count": 842,
-  "watchers_count": 842,
+  "stargazers_count": 843,
+  "watchers_count": 843,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 148,
+  "forks_count": 149,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "stepview"
   ],
   "visibility": "public",
-  "forks": 148,
+  "forks": 149,
   "open_issues": 26,
-  "watchers": 842,
+  "watchers": 843,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1082
+  "_index": 1084
 }
