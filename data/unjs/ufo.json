@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/unjs/ufo/deployments",
   "created_at": "2020-12-04T18:21:58Z",
   "updated_at": "2023-02-18T06:45:38Z",
-  "pushed_at": "2023-02-18T22:50:55Z",
+  "pushed_at": "2023-02-20T20:52:44Z",
   "git_url": "git://github.com/unjs/ufo.git",
   "ssh_url": "git@github.com:unjs/ufo.git",
   "clone_url": "https://github.com/unjs/ufo.git",
   "svn_url": "https://github.com/unjs/ufo",
   "homepage": "",
-  "size": 806,
+  "size": 800,
   "stargazers_count": 526,
   "watchers_count": 526,
   "language": "TypeScript",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 896
+  "_index": 900
 }

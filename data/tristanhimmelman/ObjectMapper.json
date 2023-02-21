@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tristanhimmelman/ObjectMapper/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tristanhimmelman/ObjectMapper/deployments",
   "created_at": "2014-10-16T16:14:49Z",
-  "updated_at": "2023-02-19T12:38:03Z",
+  "updated_at": "2023-02-20T16:41:37Z",
   "pushed_at": "2022-06-29T05:52:33Z",
   "git_url": "git://github.com/tristanhimmelman/ObjectMapper.git",
   "ssh_url": "git@github.com:tristanhimmelman/ObjectMapper.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/tristanhimmelman/ObjectMapper",
   "homepage": "",
   "size": 1327,
-  "stargazers_count": 9033,
-  "watchers_count": 9033,
+  "stargazers_count": 9032,
+  "watchers_count": 9032,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1021,
+  "forks_count": 1022,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 1021,
+  "forks": 1022,
   "open_issues": 53,
-  "watchers": 9033,
+  "watchers": 9032,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 777
+  "_index": 781
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/daimajia/AndroidViewAnimations/releases{/id}",
   "deployments_url": "https://api.github.com/repos/daimajia/AndroidViewAnimations/deployments",
   "created_at": "2014-06-23T03:53:13Z",
-  "updated_at": "2023-02-19T15:59:16Z",
+  "updated_at": "2023-02-20T10:32:12Z",
   "pushed_at": "2021-08-18T23:15:07Z",
   "git_url": "git://github.com/daimajia/AndroidViewAnimations.git",
   "ssh_url": "git@github.com:daimajia/AndroidViewAnimations.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/daimajia/AndroidViewAnimations",
   "homepage": "",
   "size": 297,
-  "stargazers_count": 12232,
-  "watchers_count": 12232,
+  "stargazers_count": 12234,
+  "watchers_count": 12234,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 2436,
   "open_issues": 61,
-  "watchers": 12232,
+  "watchers": 12234,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1814
+  "_index": 1818
 }

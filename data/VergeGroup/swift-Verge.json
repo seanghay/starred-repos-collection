@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 29,
+  "forks_count": 30,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -117,7 +117,7 @@
     "vuex"
   ],
   "visibility": "public",
-  "forks": 29,
+  "forks": 30,
   "open_issues": 14,
   "watchers": 496,
   "default_branch": "main",
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 995
+  "_index": 999
 }

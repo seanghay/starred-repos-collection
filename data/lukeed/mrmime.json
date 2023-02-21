@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lukeed/mrmime/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lukeed/mrmime/deployments",
   "created_at": "2021-10-12T06:47:41Z",
-  "updated_at": "2023-02-12T22:07:16Z",
+  "updated_at": "2023-02-20T09:51:52Z",
   "pushed_at": "2022-06-08T16:08:29Z",
   "git_url": "git://github.com/lukeed/mrmime.git",
   "ssh_url": "git@github.com:lukeed/mrmime.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lukeed/mrmime",
   "homepage": "",
   "size": 107,
-  "stargazers_count": 255,
-  "watchers_count": 255,
+  "stargazers_count": 256,
+  "watchers_count": 256,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 5,
   "open_issues": 2,
-  "watchers": 255,
+  "watchers": 256,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 191
+  "_index": 195
 }

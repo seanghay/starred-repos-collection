@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/dudykr/stc/releases{/id}",
   "deployments_url": "https://api.github.com/repos/dudykr/stc/deployments",
   "created_at": "2020-12-29T12:41:02Z",
-  "updated_at": "2023-02-20T00:40:28Z",
-  "pushed_at": "2023-02-19T18:00:12Z",
+  "updated_at": "2023-02-20T21:49:38Z",
+  "pushed_at": "2023-02-20T14:28:29Z",
   "git_url": "git://github.com/dudykr/stc.git",
   "ssh_url": "git@github.com:dudykr/stc.git",
   "clone_url": "https://github.com/dudykr/stc.git",
   "svn_url": "https://github.com/dudykr/stc",
   "homepage": "https://stc.dudy.dev",
   "size": 14242,
-  "stargazers_count": 4340,
-  "watchers_count": 4340,
+  "stargazers_count": 4348,
+  "watchers_count": 4348,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 142,
+  "forks_count": 143,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 63,
+  "open_issues_count": 65,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -102,9 +102,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 142,
-  "open_issues": 63,
-  "watchers": 4340,
+  "forks": 143,
+  "open_issues": 65,
+  "watchers": 4348,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 153
+  "_index": 157
 }

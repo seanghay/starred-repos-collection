@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/OCNYang/QBox/releases{/id}",
   "deployments_url": "https://api.github.com/repos/OCNYang/QBox/deployments",
   "created_at": "2017-04-07T02:48:43Z",
-  "updated_at": "2023-02-18T09:33:00Z",
-  "pushed_at": "2020-07-17T03:24:17Z",
+  "updated_at": "2023-02-20T10:47:12Z",
+  "pushed_at": "2023-02-20T10:47:02Z",
   "git_url": "git://github.com/OCNYang/QBox.git",
   "ssh_url": "git@github.com:OCNYang/QBox.git",
   "clone_url": "https://github.com/OCNYang/QBox.git",
   "svn_url": "https://github.com/OCNYang/QBox",
   "homepage": "https://juejin.im/post/5a320ffb51882561a20a7d5d",
-  "size": 52591,
+  "size": 52601,
   "stargazers_count": 1379,
   "watchers_count": 1379,
   "language": "Java",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2114
+  "_index": 2118
 }

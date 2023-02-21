@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/solidjs/solid-start/releases{/id}",
   "deployments_url": "https://api.github.com/repos/solidjs/solid-start/deployments",
   "created_at": "2021-03-30T03:42:11Z",
-  "updated_at": "2023-02-20T01:49:12Z",
-  "pushed_at": "2023-02-19T20:33:26Z",
+  "updated_at": "2023-02-21T00:49:01Z",
+  "pushed_at": "2023-02-20T22:43:32Z",
   "git_url": "git://github.com/solidjs/solid-start.git",
   "ssh_url": "git@github.com:solidjs/solid-start.git",
   "clone_url": "https://github.com/solidjs/solid-start.git",
   "svn_url": "https://github.com/solidjs/solid-start",
   "homepage": "https://start.solidjs.com",
   "size": 10272,
-  "stargazers_count": 3080,
-  "watchers_count": 3080,
+  "stargazers_count": 3088,
+  "watchers_count": 3088,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 236,
+  "forks_count": 239,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 141,
+  "open_issues_count": 145,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,9 +106,9 @@
     "ssr"
   ],
   "visibility": "public",
-  "forks": 236,
-  "open_issues": 141,
-  "watchers": 3080,
+  "forks": 239,
+  "open_issues": 145,
+  "watchers": 3088,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 281
+  "_index": 285
 }

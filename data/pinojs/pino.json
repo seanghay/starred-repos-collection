@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pinojs/pino/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pinojs/pino/deployments",
   "created_at": "2016-02-16T14:14:29Z",
-  "updated_at": "2023-02-19T15:44:16Z",
+  "updated_at": "2023-02-21T01:28:11Z",
   "pushed_at": "2023-02-17T20:36:15Z",
   "git_url": "git://github.com/pinojs/pino.git",
   "ssh_url": "git@github.com:pinojs/pino.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/pinojs/pino",
   "homepage": "http://getpino.io",
   "size": 2801,
-  "stargazers_count": 10994,
-  "watchers_count": 10994,
+  "stargazers_count": 10997,
+  "watchers_count": 10997,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 790,
+  "forks_count": 789,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 82,
+  "open_issues_count": 84,
   "license": {
     "key": "other",
     "name": "Other",
@@ -105,9 +105,9 @@
     "pino"
   ],
   "visibility": "public",
-  "forks": 790,
-  "open_issues": 82,
-  "watchers": 10994,
+  "forks": 789,
+  "open_issues": 84,
+  "watchers": 10997,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1089
+  "_index": 1093
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/DmitrySoshnikov/syntax/releases{/id}",
   "deployments_url": "https://api.github.com/repos/DmitrySoshnikov/syntax/deployments",
   "created_at": "2015-11-27T05:30:04Z",
-  "updated_at": "2023-02-17T21:31:14Z",
+  "updated_at": "2023-02-20T04:53:59Z",
   "pushed_at": "2022-12-05T07:04:12Z",
   "git_url": "git://github.com/DmitrySoshnikov/syntax.git",
   "ssh_url": "git@github.com:DmitrySoshnikov/syntax.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/DmitrySoshnikov/syntax",
   "homepage": "",
   "size": 1729,
-  "stargazers_count": 474,
-  "watchers_count": 474,
+  "stargazers_count": 475,
+  "watchers_count": 475,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 68,
+  "forks_count": 69,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 68,
+  "forks": 69,
   "open_issues": 41,
-  "watchers": 474,
+  "watchers": 475,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1002
+  "_index": 1006
 }

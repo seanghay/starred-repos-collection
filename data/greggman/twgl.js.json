@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/greggman/twgl.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/greggman/twgl.js/deployments",
   "created_at": "2015-03-27T10:59:26Z",
-  "updated_at": "2023-02-17T10:09:01Z",
+  "updated_at": "2023-02-20T19:51:40Z",
   "pushed_at": "2023-02-03T05:03:18Z",
   "git_url": "git://github.com/greggman/twgl.js.git",
   "ssh_url": "git@github.com:greggman/twgl.js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/greggman/twgl.js",
   "homepage": "http://twgljs.org",
   "size": 26550,
-  "stargazers_count": 2295,
-  "watchers_count": 2295,
+  "stargazers_count": 2297,
+  "watchers_count": 2297,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 249,
   "open_issues": 51,
-  "watchers": 2295,
+  "watchers": 2297,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1059
+  "_index": 1063
 }
