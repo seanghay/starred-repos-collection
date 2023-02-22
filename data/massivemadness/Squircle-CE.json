@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/massivemadness/Squircle-CE/releases{/id}",
   "deployments_url": "https://api.github.com/repos/massivemadness/Squircle-CE/deployments",
   "created_at": "2017-08-17T10:07:48Z",
-  "updated_at": "2023-02-19T05:16:28Z",
-  "pushed_at": "2023-02-19T16:31:58Z",
+  "updated_at": "2023-02-21T07:12:33Z",
+  "pushed_at": "2023-02-21T14:43:09Z",
   "git_url": "git://github.com/massivemadness/Squircle-CE.git",
   "ssh_url": "git@github.com:massivemadness/Squircle-CE.git",
   "clone_url": "https://github.com/massivemadness/Squircle-CE.git",
   "svn_url": "https://github.com/massivemadness/Squircle-CE",
   "homepage": "https://play.google.com/store/apps/details?id=com.blacksquircle.ui",
-  "size": 132620,
-  "stargazers_count": 596,
-  "watchers_count": 596,
+  "size": 132670,
+  "stargazers_count": 597,
+  "watchers_count": 597,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 63,
   "open_issues": 51,
-  "watchers": 596,
+  "watchers": 597,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1018
+  "_index": 1020
 }

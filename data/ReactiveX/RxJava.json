@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ReactiveX/RxJava/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ReactiveX/RxJava/deployments",
   "created_at": "2013-01-08T20:11:48Z",
-  "updated_at": "2023-02-20T16:03:22Z",
+  "updated_at": "2023-02-21T07:39:20Z",
   "pushed_at": "2023-02-20T13:34:36Z",
   "git_url": "git://github.com/ReactiveX/RxJava.git",
   "ssh_url": "git@github.com:ReactiveX/RxJava.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ReactiveX/RxJava",
   "homepage": "",
   "size": 138479,
-  "stargazers_count": 46833,
-  "watchers_count": 46833,
+  "stargazers_count": 46834,
+  "watchers_count": 46834,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 7657,
   "open_issues": 18,
-  "watchers": 46833,
+  "watchers": 46834,
   "default_branch": "3.x",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2477
+  "_index": 2479
 }

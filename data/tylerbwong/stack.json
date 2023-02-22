@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/tylerbwong/stack/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tylerbwong/stack/deployments",
   "created_at": "2018-03-19T00:54:54Z",
-  "updated_at": "2023-02-19T21:10:45Z",
-  "pushed_at": "2023-02-20T10:18:34Z",
+  "updated_at": "2023-02-21T23:55:35Z",
+  "pushed_at": "2023-02-21T05:58:53Z",
   "git_url": "git://github.com/tylerbwong/stack.git",
   "ssh_url": "git@github.com:tylerbwong/stack.git",
   "clone_url": "https://github.com/tylerbwong/stack.git",
   "svn_url": "https://github.com/tylerbwong/stack",
   "homepage": "",
-  "size": 3352,
+  "size": 3119,
   "stargazers_count": 263,
   "watchers_count": 263,
   "language": "Kotlin",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 20,
+  "forks_count": 19,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,7 +109,7 @@
     "stackoverflow"
   ],
   "visibility": "public",
-  "forks": 20,
+  "forks": 19,
   "open_issues": 21,
   "watchers": 263,
   "default_branch": "master",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1238
+  "_index": 1240
 }

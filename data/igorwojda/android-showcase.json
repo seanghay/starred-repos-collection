@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/igorwojda/android-showcase/releases{/id}",
   "deployments_url": "https://api.github.com/repos/igorwojda/android-showcase/deployments",
   "created_at": "2018-11-20T22:45:04Z",
-  "updated_at": "2023-02-21T01:51:14Z",
-  "pushed_at": "2023-02-20T19:03:13Z",
+  "updated_at": "2023-02-21T20:40:27Z",
+  "pushed_at": "2023-02-21T14:52:55Z",
   "git_url": "git://github.com/igorwojda/android-showcase.git",
   "ssh_url": "git@github.com:igorwojda/android-showcase.git",
   "clone_url": "https://github.com/igorwojda/android-showcase.git",
   "svn_url": "https://github.com/igorwojda/android-showcase",
   "homepage": "",
-  "size": 9525,
-  "stargazers_count": 5817,
-  "watchers_count": 5817,
+  "size": 9528,
+  "stargazers_count": 5819,
+  "watchers_count": 5819,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 816,
+  "forks_count": 817,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 12,
+  "open_issues_count": 10,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -110,9 +110,9 @@
     "mvvm"
   ],
   "visibility": "public",
-  "forks": 816,
-  "open_issues": 12,
-  "watchers": 5817,
+  "forks": 817,
+  "open_issues": 10,
+  "watchers": 5819,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1971
+  "_index": 1973
 }
