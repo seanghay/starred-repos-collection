@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/github/copilot-docs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/github/copilot-docs/deployments",
   "created_at": "2021-10-23T16:07:04Z",
-  "updated_at": "2023-02-21T19:08:57Z",
+  "updated_at": "2023-02-22T22:00:14Z",
   "pushed_at": "2022-10-14T15:50:23Z",
   "git_url": "git://github.com/github/copilot-docs.git",
   "ssh_url": "git@github.com:github/copilot-docs.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/github/copilot-docs",
   "homepage": "https://copilot.github.com",
   "size": 53737,
-  "stargazers_count": 21407,
-  "watchers_count": 21407,
+  "stargazers_count": 21410,
+  "watchers_count": 21410,
   "language": null,
   "has_issues": false,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 2365,
   "open_issues": 18,
-  "watchers": 21407,
+  "watchers": 21410,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 703
+  "_index": 708
 }

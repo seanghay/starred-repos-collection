@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/stalniy/casl/releases{/id}",
   "deployments_url": "https://api.github.com/repos/stalniy/casl/deployments",
   "created_at": "2017-07-18T17:49:47Z",
-  "updated_at": "2023-02-21T22:56:18Z",
+  "updated_at": "2023-02-22T17:51:09Z",
   "pushed_at": "2023-02-12T19:27:20Z",
   "git_url": "git://github.com/stalniy/casl.git",
   "ssh_url": "git@github.com:stalniy/casl.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/stalniy/casl",
   "homepage": "https://casl.js.org/",
   "size": 17680,
-  "stargazers_count": 4668,
-  "watchers_count": 4668,
+  "stargazers_count": 4670,
+  "watchers_count": 4670,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 249,
   "open_issues": 23,
-  "watchers": 4668,
+  "watchers": 4670,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 813
+  "_index": 818
 }

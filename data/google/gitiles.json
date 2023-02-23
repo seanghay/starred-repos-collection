@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/gitiles/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/gitiles/deployments",
   "created_at": "2016-11-29T19:41:22Z",
-  "updated_at": "2023-02-21T17:13:31Z",
+  "updated_at": "2023-02-22T08:19:55Z",
   "pushed_at": "2022-03-28T11:39:22Z",
   "git_url": "git://github.com/google/gitiles.git",
   "ssh_url": "git@github.com:google/gitiles.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/gitiles",
   "homepage": "https://gerrit.googlesource.com/gitiles/",
   "size": 3667,
-  "stargazers_count": 529,
-  "watchers_count": 529,
+  "stargazers_count": 528,
+  "watchers_count": 528,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 106,
+  "open_issues_count": 107,
   "license": {
     "key": "other",
     "name": "Other",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 213,
-  "open_issues": 106,
-  "watchers": 529,
+  "open_issues": 107,
+  "watchers": 528,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1346
+  "_index": 1351
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/rsms/markdown-wasm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rsms/markdown-wasm/deployments",
   "created_at": "2019-12-09T04:19:41Z",
-  "updated_at": "2023-02-21T20:47:37Z",
+  "updated_at": "2023-02-22T07:23:49Z",
   "pushed_at": "2022-11-22T17:28:20Z",
   "git_url": "git://github.com/rsms/markdown-wasm.git",
   "ssh_url": "git@github.com:rsms/markdown-wasm.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/rsms/markdown-wasm",
   "homepage": "https://rsms.me/markdown-wasm/",
   "size": 621,
-  "stargazers_count": 1297,
-  "watchers_count": 1297,
+  "stargazers_count": 1298,
+  "watchers_count": 1298,
   "language": "C",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 50,
   "open_issues": 7,
-  "watchers": 1297,
+  "watchers": 1298,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 124
+  "_index": 129
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/AnyImageKit/AnyImageKit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/AnyImageKit/AnyImageKit/deployments",
   "created_at": "2019-09-16T04:59:59Z",
-  "updated_at": "2023-02-21T17:36:14Z",
-  "pushed_at": "2023-02-20T07:56:35Z",
+  "updated_at": "2023-02-22T11:38:46Z",
+  "pushed_at": "2023-02-22T09:23:59Z",
   "git_url": "git://github.com/AnyImageKit/AnyImageKit.git",
   "ssh_url": "git@github.com:AnyImageKit/AnyImageKit.git",
   "clone_url": "https://github.com/AnyImageKit/AnyImageKit.git",
   "svn_url": "https://github.com/AnyImageKit/AnyImageKit",
   "homepage": "",
-  "size": 7085,
-  "stargazers_count": 597,
-  "watchers_count": 597,
+  "size": 7108,
+  "stargazers_count": 598,
+  "watchers_count": 598,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 88,
   "open_issues": 8,
-  "watchers": 597,
+  "watchers": 598,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 794
+  "_index": 799
 }

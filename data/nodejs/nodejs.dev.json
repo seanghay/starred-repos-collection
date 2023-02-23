@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/nodejs/nodejs.dev/deployments",
   "created_at": "2019-01-29T17:59:15Z",
   "updated_at": "2023-02-21T17:20:43Z",
-  "pushed_at": "2023-02-22T00:13:09Z",
+  "pushed_at": "2023-02-23T00:12:19Z",
   "git_url": "git://github.com/nodejs/nodejs.dev.git",
   "ssh_url": "git@github.com:nodejs/nodejs.dev.git",
   "clone_url": "https://github.com/nodejs/nodejs.dev.git",
   "svn_url": "https://github.com/nodejs/nodejs.dev",
   "homepage": "https://nodejs.dev",
-  "size": 109613,
+  "size": 109616,
   "stargazers_count": 2227,
   "watchers_count": 2227,
   "language": "TypeScript",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 1005,
+  "forks_count": 1006,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 24,
+  "open_issues_count": 25,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,8 +108,8 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 1005,
-  "open_issues": 24,
+  "forks": 1006,
+  "open_issues": 25,
   "watchers": 2227,
   "default_branch": "main",
   "permissions": {
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1144
+  "_index": 1149
 }

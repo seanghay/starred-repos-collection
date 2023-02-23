@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nvbn/thefuck/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nvbn/thefuck/deployments",
   "created_at": "2015-04-08T15:08:04Z",
-  "updated_at": "2023-02-21T21:13:00Z",
+  "updated_at": "2023-02-23T00:28:15Z",
   "pushed_at": "2023-02-08T02:25:58Z",
   "git_url": "git://github.com/nvbn/thefuck.git",
   "ssh_url": "git@github.com:nvbn/thefuck.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nvbn/thefuck",
   "homepage": "",
   "size": 4031,
-  "stargazers_count": 75875,
-  "watchers_count": 75875,
+  "stargazers_count": 75898,
+  "watchers_count": 75898,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3316,
+  "forks_count": 3315,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,9 +102,9 @@
     "shell"
   ],
   "visibility": "public",
-  "forks": 3316,
+  "forks": 3315,
   "open_issues": 276,
-  "watchers": 75875,
+  "watchers": 75898,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1893
+  "_index": 1898
 }

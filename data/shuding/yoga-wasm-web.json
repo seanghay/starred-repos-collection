@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/shuding/yoga-wasm-web/deployments",
   "created_at": "2022-02-05T15:33:21Z",
   "updated_at": "2023-02-20T20:34:50Z",
-  "pushed_at": "2023-02-21T08:15:51Z",
+  "pushed_at": "2023-02-22T11:41:26Z",
   "git_url": "git://github.com/shuding/yoga-wasm-web.git",
   "ssh_url": "git@github.com:shuding/yoga-wasm-web.git",
   "clone_url": "https://github.com/shuding/yoga-wasm-web.git",
   "svn_url": "https://github.com/shuding/yoga-wasm-web",
   "homepage": "",
-  "size": 676,
+  "size": 691,
   "stargazers_count": 119,
   "watchers_count": 119,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1,
+  "open_issues_count": 2,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 8,
-  "open_issues": 1,
+  "open_issues": 2,
   "watchers": 119,
   "default_branch": "main",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 200
+  "_index": 205
 }

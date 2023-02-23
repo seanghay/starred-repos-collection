@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/zinclabs/zincsearch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/zinclabs/zincsearch/deployments",
   "created_at": "2021-12-02T12:49:41Z",
-  "updated_at": "2023-02-22T02:11:28Z",
-  "pushed_at": "2023-02-22T01:51:13Z",
+  "updated_at": "2023-02-23T01:57:14Z",
+  "pushed_at": "2023-02-22T05:29:37Z",
   "git_url": "git://github.com/zinclabs/zincsearch.git",
   "ssh_url": "git@github.com:zinclabs/zincsearch.git",
   "clone_url": "https://github.com/zinclabs/zincsearch.git",
   "svn_url": "https://github.com/zinclabs/zincsearch",
   "homepage": "https://zinc.dev",
-  "size": 13519,
-  "stargazers_count": 13703,
-  "watchers_count": 13703,
+  "size": 14010,
+  "stargazers_count": 13787,
+  "watchers_count": 13787,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 587,
+  "forks_count": 591,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 74,
+  "open_issues_count": 75,
   "license": {
     "key": "other",
     "name": "Other",
@@ -113,9 +113,9 @@
     "vuejs"
   ],
   "visibility": "public",
-  "forks": 587,
-  "open_issues": 74,
-  "watchers": 13703,
+  "forks": 591,
+  "open_issues": 75,
+  "watchers": 13787,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 0
+  "_index": 5
 }

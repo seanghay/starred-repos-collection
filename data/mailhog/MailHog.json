@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mailhog/MailHog/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mailhog/MailHog/deployments",
   "created_at": "2014-04-16T22:28:49Z",
-  "updated_at": "2023-02-21T22:16:21Z",
+  "updated_at": "2023-02-22T22:09:48Z",
   "pushed_at": "2022-12-28T12:20:56Z",
   "git_url": "git://github.com/mailhog/MailHog.git",
   "ssh_url": "git@github.com:mailhog/MailHog.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mailhog/MailHog",
   "homepage": "",
   "size": 2979,
-  "stargazers_count": 11578,
-  "watchers_count": 11578,
+  "stargazers_count": 11581,
+  "watchers_count": 11581,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 228,
+  "open_issues_count": 230,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 931,
-  "open_issues": 228,
-  "watchers": 11578,
+  "open_issues": 230,
+  "watchers": 11581,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 29
+  "_index": 34
 }

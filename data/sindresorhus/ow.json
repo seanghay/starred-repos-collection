@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/ow/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/ow/deployments",
   "created_at": "2017-09-29T03:46:31Z",
-  "updated_at": "2023-02-20T16:02:16Z",
+  "updated_at": "2023-02-23T00:17:01Z",
   "pushed_at": "2023-01-26T04:24:56Z",
   "git_url": "git://github.com/sindresorhus/ow.git",
   "ssh_url": "git@github.com:sindresorhus/ow.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sindresorhus/ow",
   "homepage": "https://sindresorhus.com/ow/",
   "size": 1388,
-  "stargazers_count": 3704,
-  "watchers_count": 3704,
+  "stargazers_count": 3705,
+  "watchers_count": 3705,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 100,
   "open_issues": 34,
-  "watchers": 3704,
+  "watchers": 3705,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 975
+  "_index": 980
 }

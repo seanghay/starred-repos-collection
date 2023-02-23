@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/delba/Permission/releases{/id}",
   "deployments_url": "https://api.github.com/repos/delba/Permission/deployments",
   "created_at": "2015-11-17T15:42:49Z",
-  "updated_at": "2023-02-17T11:49:22Z",
+  "updated_at": "2023-02-22T14:53:08Z",
   "pushed_at": "2022-07-11T12:29:45Z",
   "git_url": "git://github.com/delba/Permission.git",
   "ssh_url": "git@github.com:delba/Permission.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/delba/Permission",
   "homepage": "",
   "size": 1451,
-  "stargazers_count": 2893,
-  "watchers_count": 2893,
+  "stargazers_count": 2894,
+  "watchers_count": 2894,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 325,
   "open_issues": 19,
-  "watchers": 2893,
+  "watchers": 2894,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1304
+  "_index": 1309
 }

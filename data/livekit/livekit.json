@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/livekit/livekit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/livekit/livekit/deployments",
   "created_at": "2020-09-30T06:49:46Z",
-  "updated_at": "2023-02-22T01:12:29Z",
-  "pushed_at": "2023-02-22T02:11:54Z",
+  "updated_at": "2023-02-23T01:58:31Z",
+  "pushed_at": "2023-02-22T22:29:20Z",
   "git_url": "git://github.com/livekit/livekit.git",
   "ssh_url": "git@github.com:livekit/livekit.git",
   "clone_url": "https://github.com/livekit/livekit.git",
   "svn_url": "https://github.com/livekit/livekit",
   "homepage": "https://docs.livekit.io",
-  "size": 5398,
-  "stargazers_count": 4530,
-  "watchers_count": 4530,
+  "size": 5451,
+  "stargazers_count": 4537,
+  "watchers_count": 4537,
   "language": "Go",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 351,
+  "forks_count": 352,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 39,
+  "open_issues_count": 40,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -105,9 +105,9 @@
     "webrtc"
   ],
   "visibility": "public",
-  "forks": 351,
-  "open_issues": 39,
-  "watchers": 4530,
+  "forks": 352,
+  "open_issues": 40,
+  "watchers": 4537,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 924
+  "_index": 929
 }
