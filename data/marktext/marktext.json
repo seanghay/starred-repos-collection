@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/marktext/marktext/releases{/id}",
   "deployments_url": "https://api.github.com/repos/marktext/marktext/deployments",
   "created_at": "2017-11-12T16:05:25Z",
-  "updated_at": "2023-02-23T01:51:13Z",
+  "updated_at": "2023-02-24T02:04:36Z",
   "pushed_at": "2023-02-11T16:22:47Z",
   "git_url": "git://github.com/marktext/marktext.git",
   "ssh_url": "git@github.com:marktext/marktext.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/marktext/marktext",
   "homepage": "https://marktext.app",
   "size": 72432,
-  "stargazers_count": 38503,
-  "watchers_count": 38503,
+  "stargazers_count": 38528,
+  "watchers_count": 38528,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2927,
+  "forks_count": 2929,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 999,
+  "open_issues_count": 1001,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -117,9 +117,9 @@
     "windows"
   ],
   "visibility": "public",
-  "forks": 2927,
-  "open_issues": 999,
-  "watchers": 38503,
+  "forks": 2929,
+  "open_issues": 1001,
+  "watchers": 38528,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2459
+  "_index": 2462
 }

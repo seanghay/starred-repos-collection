@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/titansgroup/k4l-video-trimmer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/titansgroup/k4l-video-trimmer/deployments",
   "created_at": "2016-06-08T19:21:38Z",
-  "updated_at": "2023-02-04T05:37:18Z",
+  "updated_at": "2023-02-23T09:49:04Z",
   "pushed_at": "2019-09-25T02:12:55Z",
   "git_url": "git://github.com/titansgroup/k4l-video-trimmer.git",
   "ssh_url": "git@github.com:titansgroup/k4l-video-trimmer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/titansgroup/k4l-video-trimmer",
   "homepage": "",
   "size": 3052,
-  "stargazers_count": 771,
-  "watchers_count": 771,
+  "stargazers_count": 772,
+  "watchers_count": 772,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 224,
   "open_issues": 59,
-  "watchers": 771,
+  "watchers": 772,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2210
+  "_index": 2213
 }

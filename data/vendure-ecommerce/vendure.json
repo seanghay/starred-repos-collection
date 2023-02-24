@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/vendure-ecommerce/vendure/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vendure-ecommerce/vendure/deployments",
   "created_at": "2018-06-11T14:29:20Z",
-  "updated_at": "2023-02-22T22:44:24Z",
-  "pushed_at": "2023-02-22T10:14:29Z",
+  "updated_at": "2023-02-24T00:06:26Z",
+  "pushed_at": "2023-02-23T20:02:42Z",
   "git_url": "git://github.com/vendure-ecommerce/vendure.git",
   "ssh_url": "git@github.com:vendure-ecommerce/vendure.git",
   "clone_url": "https://github.com/vendure-ecommerce/vendure.git",
   "svn_url": "https://github.com/vendure-ecommerce/vendure",
   "homepage": "https://www.vendure.io",
-  "size": 39614,
-  "stargazers_count": 4202,
-  "watchers_count": 4202,
+  "size": 39601,
+  "stargazers_count": 4205,
+  "watchers_count": 4205,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 249,
+  "open_issues_count": 245,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -110,8 +110,8 @@
   ],
   "visibility": "public",
   "forks": 702,
-  "open_issues": 249,
-  "watchers": 4202,
+  "open_issues": 245,
+  "watchers": 4205,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 827
+  "_index": 830
 }

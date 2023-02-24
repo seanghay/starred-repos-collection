@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/doczjs/docz/releases{/id}",
   "deployments_url": "https://api.github.com/repos/doczjs/docz/deployments",
   "created_at": "2018-03-17T04:24:10Z",
-  "updated_at": "2023-02-22T18:47:49Z",
+  "updated_at": "2023-02-23T19:47:28Z",
   "pushed_at": "2022-09-23T22:42:47Z",
   "git_url": "git://github.com/doczjs/docz.git",
   "ssh_url": "git@github.com:doczjs/docz.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 105,
+  "open_issues_count": 106,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,7 +112,7 @@
   ],
   "visibility": "public",
   "forks": 1496,
-  "open_issues": 105,
+  "open_issues": 106,
   "watchers": 23118,
   "default_branch": "main",
   "permissions": {
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2363
+  "_index": 2366
 }

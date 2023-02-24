@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/copy/v86/releases{/id}",
   "deployments_url": "https://api.github.com/repos/copy/v86/deployments",
   "created_at": "2013-11-06T00:12:12Z",
-  "updated_at": "2023-02-23T02:10:35Z",
+  "updated_at": "2023-02-23T20:56:41Z",
   "pushed_at": "2023-02-20T10:45:27Z",
   "git_url": "git://github.com/copy/v86.git",
   "ssh_url": "git@github.com:copy/v86.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/copy/v86",
   "homepage": "https://copy.sh/v86/",
   "size": 14246,
-  "stargazers_count": 17313,
-  "watchers_count": 17313,
+  "stargazers_count": 17318,
+  "watchers_count": 17318,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 1229,
   "open_issues": 91,
-  "watchers": 17313,
+  "watchers": 17318,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 172
+  "_index": 175
 }

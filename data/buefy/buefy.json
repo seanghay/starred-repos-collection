@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/buefy/buefy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/buefy/buefy/deployments",
   "created_at": "2017-03-31T16:44:48Z",
-  "updated_at": "2023-02-21T08:06:50Z",
-  "pushed_at": "2023-02-18T23:31:17Z",
+  "updated_at": "2023-02-23T16:43:52Z",
+  "pushed_at": "2023-02-23T08:13:46Z",
   "git_url": "git://github.com/buefy/buefy.git",
   "ssh_url": "git@github.com:buefy/buefy.git",
   "clone_url": "https://github.com/buefy/buefy.git",
   "svn_url": "https://github.com/buefy/buefy",
   "homepage": "https://buefy.org",
   "size": 30562,
-  "stargazers_count": 9381,
-  "watchers_count": 9381,
+  "stargazers_count": 9382,
+  "watchers_count": 9382,
   "language": "Vue",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 96,
+  "open_issues_count": 97,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 1121,
-  "open_issues": 96,
-  "watchers": 9381,
+  "open_issues": 97,
+  "watchers": 9382,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1790
+  "_index": 1793
 }

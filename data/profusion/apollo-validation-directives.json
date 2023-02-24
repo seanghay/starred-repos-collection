@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/profusion/apollo-validation-directives/releases{/id}",
   "deployments_url": "https://api.github.com/repos/profusion/apollo-validation-directives/deployments",
   "created_at": "2020-02-21T16:51:18Z",
-  "updated_at": "2023-02-22T03:45:48Z",
+  "updated_at": "2023-02-24T00:20:53Z",
   "pushed_at": "2023-02-03T13:21:06Z",
   "git_url": "git://github.com/profusion/apollo-validation-directives.git",
   "ssh_url": "git@github.com:profusion/apollo-validation-directives.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/profusion/apollo-validation-directives",
   "homepage": null,
   "size": 1038,
-  "stargazers_count": 68,
-  "watchers_count": 68,
+  "stargazers_count": 69,
+  "watchers_count": 69,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 7,
   "open_issues": 5,
-  "watchers": 68,
+  "watchers": 69,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 344
+  "_index": 347
 }

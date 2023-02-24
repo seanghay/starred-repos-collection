@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mikepenz/multiplatform-markdown-renderer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mikepenz/multiplatform-markdown-renderer/deployments",
   "created_at": "2021-10-02T10:09:41Z",
-  "updated_at": "2023-02-21T09:36:01Z",
+  "updated_at": "2023-02-23T03:10:57Z",
   "pushed_at": "2023-01-10T07:22:26Z",
   "git_url": "git://github.com/mikepenz/multiplatform-markdown-renderer.git",
   "ssh_url": "git@github.com:mikepenz/multiplatform-markdown-renderer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mikepenz/multiplatform-markdown-renderer",
   "homepage": "https://blog.mikepenz.dev",
   "size": 238,
-  "stargazers_count": 139,
-  "watchers_count": 139,
+  "stargazers_count": 140,
+  "watchers_count": 140,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 10,
+  "forks_count": 11,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "markdown"
   ],
   "visibility": "public",
-  "forks": 10,
+  "forks": 11,
   "open_issues": 4,
-  "watchers": 139,
+  "watchers": 140,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 797
+  "_index": 800
 }

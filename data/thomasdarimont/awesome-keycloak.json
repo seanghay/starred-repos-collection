@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/thomasdarimont/awesome-keycloak/releases{/id}",
   "deployments_url": "https://api.github.com/repos/thomasdarimont/awesome-keycloak/deployments",
   "created_at": "2016-07-11T07:45:51Z",
-  "updated_at": "2023-02-22T10:01:42Z",
+  "updated_at": "2023-02-23T11:07:39Z",
   "pushed_at": "2023-02-13T21:32:41Z",
   "git_url": "git://github.com/thomasdarimont/awesome-keycloak.git",
   "ssh_url": "git@github.com:thomasdarimont/awesome-keycloak.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/thomasdarimont/awesome-keycloak",
   "homepage": "",
   "size": 310,
-  "stargazers_count": 1341,
-  "watchers_count": 1341,
+  "stargazers_count": 1342,
+  "watchers_count": 1342,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 165,
   "open_issues": 5,
-  "watchers": 1341,
+  "watchers": 1342,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 516
+  "_index": 519
 }

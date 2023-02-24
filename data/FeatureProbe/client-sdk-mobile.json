@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/FeatureProbe/client-sdk-mobile/releases{/id}",
   "deployments_url": "https://api.github.com/repos/FeatureProbe/client-sdk-mobile/deployments",
   "created_at": "2022-05-25T05:25:33Z",
-  "updated_at": "2023-02-06T11:37:58Z",
+  "updated_at": "2023-02-23T08:48:51Z",
   "pushed_at": "2022-11-26T03:45:22Z",
   "git_url": "git://github.com/FeatureProbe/client-sdk-mobile.git",
   "ssh_url": "git@github.com:FeatureProbe/client-sdk-mobile.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/FeatureProbe/client-sdk-mobile",
   "homepage": "",
   "size": 2043,
-  "stargazers_count": 35,
-  "watchers_count": 35,
+  "stargazers_count": 36,
+  "watchers_count": 36,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2,
+  "forks_count": 3,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1,
+  "open_issues_count": 2,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 2,
-  "open_issues": 1,
-  "watchers": 35,
+  "forks": 3,
+  "open_issues": 2,
+  "watchers": 36,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 285
+  "_index": 288
 }
