@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 831,
+  "forks_count": 830,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 162,
+  "open_issues_count": 161,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -103,8 +103,8 @@
     "openid-connect"
   ],
   "visibility": "public",
-  "forks": 831,
-  "open_issues": 162,
+  "forks": 830,
+  "open_issues": 161,
   "watchers": 2367,
   "default_branch": "master",
   "permissions": {

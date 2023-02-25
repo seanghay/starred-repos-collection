@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1061,
+  "forks_count": 1062,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,7 +110,7 @@
     "rtsp-server"
   ],
   "visibility": "public",
-  "forks": 1061,
+  "forks": 1062,
   "open_issues": 238,
   "watchers": 3308,
   "default_branch": "master",

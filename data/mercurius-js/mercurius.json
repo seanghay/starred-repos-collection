@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mercurius-js/mercurius/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mercurius-js/mercurius/deployments",
   "created_at": "2018-09-11T14:41:29Z",
-  "updated_at": "2023-02-23T18:06:31Z",
+  "updated_at": "2023-02-24T15:01:54Z",
   "pushed_at": "2023-02-22T09:40:34Z",
   "git_url": "git://github.com/mercurius-js/mercurius.git",
   "ssh_url": "git@github.com:mercurius-js/mercurius.git",
