@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/chrisbanes/tivi.git",
   "svn_url": "https://github.com/chrisbanes/tivi",
   "homepage": "",
-  "size": 20214,
+  "size": 20450,
   "stargazers_count": 5672,
   "watchers_count": 5672,
   "language": "Kotlin",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 785,
+  "forks_count": 783,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,7 +105,7 @@
     "trakt"
   ],
   "visibility": "public",
-  "forks": 785,
+  "forks": 783,
   "open_issues": 21,
   "watchers": 5672,
   "default_branch": "main",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2000
+  "_index": 2002
 }

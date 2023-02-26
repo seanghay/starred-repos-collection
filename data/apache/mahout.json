@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/apache/mahout/releases{/id}",
   "deployments_url": "https://api.github.com/repos/apache/mahout/deployments",
   "created_at": "2014-05-23T07:00:07Z",
-  "updated_at": "2023-02-23T07:10:51Z",
-  "pushed_at": "2023-02-23T22:41:03Z",
+  "updated_at": "2023-02-25T22:13:59Z",
+  "pushed_at": "2023-02-25T16:41:01Z",
   "git_url": "git://github.com/apache/mahout.git",
   "ssh_url": "git@github.com:apache/mahout.git",
   "clone_url": "https://github.com/apache/mahout.git",
   "svn_url": "https://github.com/apache/mahout",
   "homepage": null,
-  "size": 68145,
-  "stargazers_count": 2040,
-  "watchers_count": 2040,
+  "size": 68149,
+  "stargazers_count": 2039,
+  "watchers_count": 2039,
   "language": "Java",
   "has_issues": false,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 955,
+  "forks_count": 953,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 7,
+  "open_issues_count": 6,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -103,9 +103,9 @@
     "mahout"
   ],
   "visibility": "public",
-  "forks": 955,
-  "open_issues": 7,
-  "watchers": 2040,
+  "forks": 953,
+  "open_issues": 6,
+  "watchers": 2039,
   "default_branch": "trunk",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 470
+  "_index": 472
 }

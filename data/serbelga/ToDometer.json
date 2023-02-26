@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/serbelga/ToDometer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/serbelga/ToDometer/deployments",
   "created_at": "2020-03-07T00:13:19Z",
-  "updated_at": "2023-02-24T03:24:21Z",
-  "pushed_at": "2023-02-24T17:52:06Z",
+  "updated_at": "2023-02-25T11:59:18Z",
+  "pushed_at": "2023-02-25T18:38:49Z",
   "git_url": "git://github.com/serbelga/ToDometer.git",
   "ssh_url": "git@github.com:serbelga/ToDometer.git",
   "clone_url": "https://github.com/serbelga/ToDometer.git",
   "svn_url": "https://github.com/serbelga/ToDometer",
   "homepage": "",
-  "size": 38009,
-  "stargazers_count": 262,
-  "watchers_count": 262,
+  "size": 38010,
+  "stargazers_count": 263,
+  "watchers_count": 263,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 4,
+  "open_issues_count": 2,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 28,
-  "open_issues": 4,
-  "watchers": 262,
+  "open_issues": 2,
+  "watchers": 263,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1025
+  "_index": 1027
 }

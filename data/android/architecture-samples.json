@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/android/architecture-samples/releases{/id}",
   "deployments_url": "https://api.github.com/repos/android/architecture-samples/deployments",
   "created_at": "2016-02-05T13:42:07Z",
-  "updated_at": "2023-02-24T23:20:22Z",
+  "updated_at": "2023-02-26T00:06:22Z",
   "pushed_at": "2023-02-24T18:10:23Z",
   "git_url": "git://github.com/android/architecture-samples.git",
   "ssh_url": "git@github.com:android/architecture-samples.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/android/architecture-samples",
   "homepage": "",
   "size": 13078,
-  "stargazers_count": 42284,
-  "watchers_count": 42284,
+  "stargazers_count": 42289,
+  "watchers_count": 42289,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 11454,
   "open_issues": 212,
-  "watchers": 42284,
+  "watchers": 42289,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2400
+  "_index": 2402
 }

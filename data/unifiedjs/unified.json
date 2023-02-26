@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/unifiedjs/unified/releases{/id}",
   "deployments_url": "https://api.github.com/repos/unifiedjs/unified/deployments",
   "created_at": "2015-07-31T08:53:01Z",
-  "updated_at": "2023-02-24T23:27:06Z",
+  "updated_at": "2023-02-26T01:46:17Z",
   "pushed_at": "2022-11-17T11:30:16Z",
   "git_url": "git://github.com/unifiedjs/unified.git",
   "ssh_url": "git@github.com:unifiedjs/unified.git",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 694
+  "_index": 696
 }

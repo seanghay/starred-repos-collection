@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/WenchaoD/FSPagerView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/WenchaoD/FSPagerView/deployments",
   "created_at": "2017-02-10T14:28:37Z",
-  "updated_at": "2023-02-23T14:58:28Z",
+  "updated_at": "2023-02-26T02:14:10Z",
   "pushed_at": "2022-06-29T02:40:06Z",
   "git_url": "git://github.com/WenchaoD/FSPagerView.git",
   "ssh_url": "git@github.com:WenchaoD/FSPagerView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/WenchaoD/FSPagerView",
   "homepage": "",
   "size": 2105,
-  "stargazers_count": 6712,
-  "watchers_count": 6712,
+  "stargazers_count": 6713,
+  "watchers_count": 6713,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 880,
   "open_issues": 158,
-  "watchers": 6712,
+  "watchers": 6713,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1149
+  "_index": 1151
 }

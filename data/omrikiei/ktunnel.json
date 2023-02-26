@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/omrikiei/ktunnel/releases{/id}",
   "deployments_url": "https://api.github.com/repos/omrikiei/ktunnel/deployments",
   "created_at": "2019-09-25T14:41:20Z",
-  "updated_at": "2023-02-19T22:59:28Z",
-  "pushed_at": "2023-02-23T05:50:52Z",
+  "updated_at": "2023-02-25T22:12:44Z",
+  "pushed_at": "2023-02-25T07:40:16Z",
   "git_url": "git://github.com/omrikiei/ktunnel.git",
   "ssh_url": "git@github.com:omrikiei/ktunnel.git",
   "clone_url": "https://github.com/omrikiei/ktunnel.git",
   "svn_url": "https://github.com/omrikiei/ktunnel",
   "homepage": "",
-  "size": 11988,
-  "stargazers_count": 663,
-  "watchers_count": 663,
+  "size": 12070,
+  "stargazers_count": 664,
+  "watchers_count": 664,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 18,
+  "open_issues_count": 21,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 56,
-  "open_issues": 18,
-  "watchers": 663,
+  "open_issues": 21,
+  "watchers": 664,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 748
+  "_index": 750
 }

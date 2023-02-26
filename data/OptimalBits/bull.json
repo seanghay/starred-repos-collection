@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/OptimalBits/bull/releases{/id}",
   "deployments_url": "https://api.github.com/repos/OptimalBits/bull/deployments",
   "created_at": "2013-06-27T14:35:35Z",
-  "updated_at": "2023-02-24T19:17:02Z",
+  "updated_at": "2023-02-25T14:10:11Z",
   "pushed_at": "2023-02-13T10:03:27Z",
   "git_url": "git://github.com/OptimalBits/bull.git",
   "ssh_url": "git@github.com:OptimalBits/bull.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 1425,
+  "forks_count": 1426,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,7 +109,7 @@
     "scheduler"
   ],
   "visibility": "public",
-  "forks": 1425,
+  "forks": 1426,
   "open_issues": 190,
   "watchers": 13703,
   "default_branch": "develop",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1339
+  "_index": 1341
 }

@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/hpcaitech/ColossalAI",
-  "description": "Making big AI models cheaper, easier, and more scalable",
+  "description": "Making large AI models cheaper, faster and more accessible",
   "fork": false,
   "url": "https://api.github.com/repos/hpcaitech/ColossalAI",
   "forks_url": "https://api.github.com/repos/hpcaitech/ColossalAI/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/hpcaitech/ColossalAI/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hpcaitech/ColossalAI/deployments",
   "created_at": "2021-10-28T16:19:44Z",
-  "updated_at": "2023-02-25T02:16:10Z",
-  "pushed_at": "2023-02-24T07:10:17Z",
+  "updated_at": "2023-02-26T02:19:31Z",
+  "pushed_at": "2023-02-25T04:27:10Z",
   "git_url": "git://github.com/hpcaitech/ColossalAI.git",
   "ssh_url": "git@github.com:hpcaitech/ColossalAI.git",
   "clone_url": "https://github.com/hpcaitech/ColossalAI.git",
   "svn_url": "https://github.com/hpcaitech/ColossalAI",
   "homepage": "https://www.colossalai.org/",
-  "size": 18511,
-  "stargazers_count": 16297,
-  "watchers_count": 16297,
+  "size": 18518,
+  "stargazers_count": 16540,
+  "watchers_count": 16540,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1706,
+  "forks_count": 1734,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 231,
+  "open_issues_count": 232,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -103,6 +103,7 @@
     "data-parallelism",
     "deep-learning",
     "distributed-computing",
+    "foundation-models",
     "heterogeneous-training",
     "hpc",
     "inference",
@@ -111,9 +112,9 @@
     "pipeline-parallelism"
   ],
   "visibility": "public",
-  "forks": 1706,
-  "open_issues": 231,
-  "watchers": 16297,
+  "forks": 1734,
+  "open_issues": 232,
+  "watchers": 16540,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 11
+  "_index": 13
 }

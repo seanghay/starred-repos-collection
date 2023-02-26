@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jprichardson/node-jsonfile/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jprichardson/node-jsonfile/deployments",
   "created_at": "2012-09-10T19:02:27Z",
-  "updated_at": "2023-02-15T09:24:13Z",
+  "updated_at": "2023-02-25T12:37:22Z",
   "pushed_at": "2023-01-09T18:51:35Z",
   "git_url": "git://github.com/jprichardson/node-jsonfile.git",
   "ssh_url": "git@github.com:jprichardson/node-jsonfile.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jprichardson/node-jsonfile",
   "homepage": null,
   "size": 129,
-  "stargazers_count": 1164,
-  "watchers_count": 1164,
+  "stargazers_count": 1163,
+  "watchers_count": 1163,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 264,
   "open_issues": 6,
-  "watchers": 1164,
+  "watchers": 1163,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 131
+  "_index": 133
 }

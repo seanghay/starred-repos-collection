@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/libvips/libvips/releases{/id}",
   "deployments_url": "https://api.github.com/repos/libvips/libvips/deployments",
   "created_at": "2011-01-25T13:15:00Z",
-  "updated_at": "2023-02-24T10:17:38Z",
+  "updated_at": "2023-02-25T23:44:07Z",
   "pushed_at": "2023-02-23T20:00:36Z",
   "git_url": "git://github.com/libvips/libvips.git",
   "ssh_url": "git@github.com:libvips/libvips.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/libvips/libvips",
   "homepage": "https://libvips.github.io/libvips/",
   "size": 89240,
-  "stargazers_count": 7696,
-  "watchers_count": 7696,
+  "stargazers_count": 7698,
+  "watchers_count": 7698,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -120,7 +120,7 @@
   "visibility": "public",
   "forks": 581,
   "open_issues": 48,
-  "watchers": 7696,
+  "watchers": 7698,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 641
+  "_index": 643
 }

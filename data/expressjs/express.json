@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/expressjs/express/releases{/id}",
   "deployments_url": "https://api.github.com/repos/expressjs/express/deployments",
   "created_at": "2009-06-26T18:56:01Z",
-  "updated_at": "2023-02-25T02:06:43Z",
-  "pushed_at": "2023-02-23T22:23:32Z",
+  "updated_at": "2023-02-26T01:49:15Z",
+  "pushed_at": "2023-02-25T16:05:04Z",
   "git_url": "git://github.com/expressjs/express.git",
   "ssh_url": "git@github.com:expressjs/express.git",
   "clone_url": "https://github.com/expressjs/express.git",
   "svn_url": "https://github.com/expressjs/express",
   "homepage": "https://expressjs.com",
   "size": 9137,
-  "stargazers_count": 60030,
-  "watchers_count": 60030,
+  "stargazers_count": 60042,
+  "watchers_count": 60042,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 10148,
+  "forks_count": 10149,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "server"
   ],
   "visibility": "public",
-  "forks": 10148,
+  "forks": 10149,
   "open_issues": 152,
-  "watchers": 60030,
+  "watchers": 60042,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 590
+  "_index": 592
 }

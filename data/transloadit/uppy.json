@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/transloadit/uppy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/transloadit/uppy/deployments",
   "created_at": "2015-11-16T12:32:33Z",
-  "updated_at": "2023-02-24T17:43:19Z",
-  "pushed_at": "2023-02-23T15:00:09Z",
+  "updated_at": "2023-02-25T21:25:32Z",
+  "pushed_at": "2023-02-25T18:38:33Z",
   "git_url": "git://github.com/transloadit/uppy.git",
   "ssh_url": "git@github.com:transloadit/uppy.git",
   "clone_url": "https://github.com/transloadit/uppy.git",
   "svn_url": "https://github.com/transloadit/uppy",
   "homepage": "https://uppy.io",
   "size": 379761,
-  "stargazers_count": 26509,
-  "watchers_count": 26509,
+  "stargazers_count": 26512,
+  "watchers_count": 26512,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1803,
+  "forks_count": 1804,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 127,
+  "open_issues_count": 128,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -118,9 +118,9 @@
     "webbrowser"
   ],
   "visibility": "public",
-  "forks": 1803,
-  "open_issues": 127,
-  "watchers": 26509,
+  "forks": 1804,
+  "open_issues": 128,
+  "watchers": 26512,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1719
+  "_index": 1721
 }

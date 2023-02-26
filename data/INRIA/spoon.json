@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/INRIA/spoon.git",
   "svn_url": "https://github.com/INRIA/spoon",
   "homepage": "http://spoon.gforge.inria.fr/",
-  "size": 33129,
+  "size": 33130,
   "stargazers_count": 1454,
   "watchers_count": 1454,
   "language": "Java",
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1014
+  "_index": 1016
 }

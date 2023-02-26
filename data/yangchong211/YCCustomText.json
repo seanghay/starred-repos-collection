@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yangchong211/YCCustomText/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yangchong211/YCCustomText/deployments",
   "created_at": "2017-10-23T11:31:24Z",
-  "updated_at": "2023-02-19T13:35:43Z",
+  "updated_at": "2023-02-25T06:33:10Z",
   "pushed_at": "2022-03-31T08:58:31Z",
   "git_url": "git://github.com/yangchong211/YCCustomText.git",
   "ssh_url": "git@github.com:yangchong211/YCCustomText.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yangchong211/YCCustomText",
   "homepage": "",
   "size": 813,
-  "stargazers_count": 457,
-  "watchers_count": 457,
+  "stargazers_count": 458,
+  "watchers_count": 458,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 47,
   "open_issues": 7,
-  "watchers": 457,
+  "watchers": 458,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1527
+  "_index": 1529
 }
