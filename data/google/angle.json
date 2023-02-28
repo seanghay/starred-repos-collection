@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 529,
+  "forks_count": 530,
   "mirror_url": "https://chromium.googlesource.com/angle/angle",
   "archived": false,
   "disabled": false,
@@ -99,7 +99,7 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 529,
+  "forks": 530,
   "open_issues": 3,
   "watchers": 2770,
   "default_branch": "main",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1279
+  "_index": 1286
 }

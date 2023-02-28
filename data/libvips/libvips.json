@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/libvips/libvips/releases{/id}",
   "deployments_url": "https://api.github.com/repos/libvips/libvips/deployments",
   "created_at": "2011-01-25T13:15:00Z",
-  "updated_at": "2023-02-26T21:46:39Z",
+  "updated_at": "2023-02-28T00:37:50Z",
   "pushed_at": "2023-02-23T20:00:36Z",
   "git_url": "git://github.com/libvips/libvips.git",
   "ssh_url": "git@github.com:libvips/libvips.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/libvips/libvips",
   "homepage": "https://libvips.github.io/libvips/",
   "size": 89240,
-  "stargazers_count": 7702,
-  "watchers_count": 7702,
+  "stargazers_count": 7708,
+  "watchers_count": 7708,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 582,
+  "forks_count": 581,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 48,
+  "open_issues_count": 49,
   "license": {
     "key": "lgpl-2.1",
     "name": "GNU Lesser General Public License v2.1",
@@ -118,9 +118,9 @@
     "webp"
   ],
   "visibility": "public",
-  "forks": 582,
-  "open_issues": 48,
-  "watchers": 7702,
+  "forks": 581,
+  "open_issues": 49,
+  "watchers": 7708,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 643
+  "_index": 650
 }

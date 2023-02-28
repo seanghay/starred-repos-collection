@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/blakeembrey/change-case/releases{/id}",
   "deployments_url": "https://api.github.com/repos/blakeembrey/change-case/deployments",
   "created_at": "2013-04-15T03:47:39Z",
-  "updated_at": "2023-02-26T22:59:16Z",
+  "updated_at": "2023-02-27T10:30:00Z",
   "pushed_at": "2022-04-25T04:31:34Z",
   "git_url": "git://github.com/blakeembrey/change-case.git",
   "ssh_url": "git@github.com:blakeembrey/change-case.git",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1163
+  "_index": 1170
 }

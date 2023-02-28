@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/flutter.widgets/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/flutter.widgets/deployments",
   "created_at": "2018-02-26T05:19:26Z",
-  "updated_at": "2023-02-26T13:58:19Z",
+  "updated_at": "2023-02-27T02:23:04Z",
   "pushed_at": "2023-02-14T19:11:59Z",
   "git_url": "git://github.com/google/flutter.widgets.git",
   "ssh_url": "git@github.com:google/flutter.widgets.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/flutter.widgets",
   "homepage": "https://pub.dev/packages/flutter_widgets",
   "size": 623,
-  "stargazers_count": 1113,
-  "watchers_count": 1113,
+  "stargazers_count": 1114,
+  "watchers_count": 1114,
   "language": "Dart",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 360,
+  "forks_count": 361,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 196,
+  "open_issues_count": 197,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 360,
-  "open_issues": 196,
-  "watchers": 1113,
+  "forks": 361,
+  "open_issues": 197,
+  "watchers": 1114,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 822
+  "_index": 829
 }

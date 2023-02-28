@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/MikeOrtiz/TouchImageView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/MikeOrtiz/TouchImageView/deployments",
   "created_at": "2011-09-18T00:56:01Z",
-  "updated_at": "2023-02-27T02:17:04Z",
-  "pushed_at": "2023-02-27T01:16:30Z",
+  "updated_at": "2023-02-27T07:20:09Z",
+  "pushed_at": "2023-02-28T00:57:29Z",
   "git_url": "git://github.com/MikeOrtiz/TouchImageView.git",
   "ssh_url": "git@github.com:MikeOrtiz/TouchImageView.git",
   "clone_url": "https://github.com/MikeOrtiz/TouchImageView.git",
   "svn_url": "https://github.com/MikeOrtiz/TouchImageView",
   "homepage": "",
-  "size": 9855,
-  "stargazers_count": 2615,
-  "watchers_count": 2615,
+  "size": 9906,
+  "stargazers_count": 2614,
+  "watchers_count": 2614,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 15,
+  "open_issues_count": 14,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 875,
-  "open_issues": 15,
-  "watchers": 2615,
+  "open_issues": 14,
+  "watchers": 2614,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1750
+  "_index": 1757
 }

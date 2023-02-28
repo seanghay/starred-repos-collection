@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mrousavy/react-native-blurhash/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mrousavy/react-native-blurhash/deployments",
   "created_at": "2020-06-08T09:08:36Z",
-  "updated_at": "2023-02-26T13:00:39Z",
+  "updated_at": "2023-02-27T08:48:02Z",
   "pushed_at": "2023-02-03T17:19:30Z",
   "git_url": "git://github.com/mrousavy/react-native-blurhash.git",
   "ssh_url": "git@github.com:mrousavy/react-native-blurhash.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mrousavy/react-native-blurhash",
   "homepage": "https://blurha.sh",
   "size": 6074,
-  "stargazers_count": 1473,
-  "watchers_count": 1473,
+  "stargazers_count": 1474,
+  "watchers_count": 1474,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -122,7 +122,7 @@
   "visibility": "public",
   "forks": 47,
   "open_issues": 29,
-  "watchers": 1473,
+  "watchers": 1474,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 310
+  "_index": 317
 }

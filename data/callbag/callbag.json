@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/callbag/callbag/deployments",
   "created_at": "2018-01-19T15:53:40Z",
   "updated_at": "2023-02-26T21:48:01Z",
-  "pushed_at": "2022-05-24T07:23:40Z",
+  "pushed_at": "2023-02-27T19:29:12Z",
   "git_url": "git://github.com/callbag/callbag.git",
   "ssh_url": "git@github.com:callbag/callbag.git",
   "clone_url": "https://github.com/callbag/callbag.git",
   "svn_url": "https://github.com/callbag/callbag",
   "homepage": "",
-  "size": 48,
+  "size": 52,
   "stargazers_count": 1524,
   "watchers_count": 1524,
   "language": null,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 7,
+  "open_issues_count": 8,
   "license": {
     "key": "other",
     "name": "Other",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 38,
-  "open_issues": 7,
+  "open_issues": 8,
   "watchers": 1524,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2427
+  "_index": 2434
 }

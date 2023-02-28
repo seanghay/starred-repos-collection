@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/vuejs/vitepress/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vuejs/vitepress/deployments",
   "created_at": "2020-04-30T23:16:17Z",
-  "updated_at": "2023-02-27T01:30:54Z",
-  "pushed_at": "2023-02-26T11:20:11Z",
+  "updated_at": "2023-02-27T20:54:22Z",
+  "pushed_at": "2023-02-28T01:21:49Z",
   "git_url": "git://github.com/vuejs/vitepress.git",
   "ssh_url": "git@github.com:vuejs/vitepress.git",
   "clone_url": "https://github.com/vuejs/vitepress.git",
   "svn_url": "https://github.com/vuejs/vitepress",
   "homepage": "https://vitepress.vuejs.org",
-  "size": 4882,
-  "stargazers_count": 6861,
-  "watchers_count": 6861,
+  "size": 4909,
+  "stargazers_count": 6874,
+  "watchers_count": 6874,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 169,
+  "open_issues_count": 166,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 1242,
-  "open_issues": 169,
-  "watchers": 6861,
+  "open_issues": 166,
+  "watchers": 6874,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1123
+  "_index": 1130
 }

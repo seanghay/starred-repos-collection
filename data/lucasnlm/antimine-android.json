@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lucasnlm/antimine-android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lucasnlm/antimine-android/deployments",
   "created_at": "2020-02-07T01:41:43Z",
-  "updated_at": "2023-02-25T19:24:02Z",
+  "updated_at": "2023-02-27T04:41:44Z",
   "pushed_at": "2023-02-25T03:43:19Z",
   "git_url": "git://github.com/lucasnlm/antimine-android.git",
   "ssh_url": "git@github.com:lucasnlm/antimine-android.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lucasnlm/antimine-android",
   "homepage": "",
   "size": 15350,
-  "stargazers_count": 413,
-  "watchers_count": 413,
+  "stargazers_count": 414,
+  "watchers_count": 414,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -115,7 +115,7 @@
   "visibility": "public",
   "forks": 64,
   "open_issues": 23,
-  "watchers": 413,
+  "watchers": 414,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1472
+  "_index": 1479
 }

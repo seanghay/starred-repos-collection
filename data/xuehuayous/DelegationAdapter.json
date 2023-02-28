@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/xuehuayous/DelegationAdapter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/xuehuayous/DelegationAdapter/deployments",
   "created_at": "2018-04-17T09:48:20Z",
-  "updated_at": "2023-02-18T13:07:10Z",
+  "updated_at": "2023-02-27T05:54:01Z",
   "pushed_at": "2022-09-30T05:54:25Z",
   "git_url": "git://github.com/xuehuayous/DelegationAdapter.git",
   "ssh_url": "git@github.com:xuehuayous/DelegationAdapter.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/xuehuayous/DelegationAdapter",
   "homepage": "https://blog.csdn.net/xuehuayous/article/details/80021325",
   "size": 24190,
-  "stargazers_count": 413,
-  "watchers_count": 413,
+  "stargazers_count": 414,
+  "watchers_count": 414,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -103,7 +103,7 @@
   "visibility": "public",
   "forks": 69,
   "open_issues": 0,
-  "watchers": 413,
+  "watchers": 414,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1657
+  "_index": 1664
 }

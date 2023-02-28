@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/hankcs/HanLP/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hankcs/HanLP/deployments",
   "created_at": "2014-10-09T06:36:16Z",
-  "updated_at": "2023-02-27T01:42:12Z",
-  "pushed_at": "2023-02-27T01:08:31Z",
+  "updated_at": "2023-02-28T00:00:02Z",
+  "pushed_at": "2023-02-27T06:10:56Z",
   "git_url": "git://github.com/hankcs/HanLP.git",
   "ssh_url": "git@github.com:hankcs/HanLP.git",
   "clone_url": "https://github.com/hankcs/HanLP.git",
   "svn_url": "https://github.com/hankcs/HanLP",
   "homepage": "https://hanlp.hankcs.com/",
   "size": 72653,
-  "stargazers_count": 28156,
-  "watchers_count": 28156,
+  "stargazers_count": 28168,
+  "watchers_count": 28168,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 7870,
+  "forks_count": 7880,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 11,
+  "open_issues_count": 10,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -108,9 +108,9 @@
     "text-classification"
   ],
   "visibility": "public",
-  "forks": 7870,
-  "open_issues": 11,
-  "watchers": 28156,
+  "forks": 7880,
+  "open_issues": 10,
+  "watchers": 28168,
   "default_branch": "doc-zh",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2032
+  "_index": 2039
 }

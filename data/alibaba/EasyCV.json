@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/alibaba/EasyCV/deployments",
   "created_at": "2022-04-02T01:47:41Z",
   "updated_at": "2023-02-26T10:51:31Z",
-  "pushed_at": "2023-02-24T09:53:49Z",
+  "pushed_at": "2023-02-27T08:54:48Z",
   "git_url": "git://github.com/alibaba/EasyCV.git",
   "ssh_url": "git@github.com:alibaba/EasyCV.git",
   "clone_url": "https://github.com/alibaba/EasyCV.git",
   "svn_url": "https://github.com/alibaba/EasyCV",
   "homepage": "",
-  "size": 10726,
+  "size": 10729,
   "stargazers_count": 1358,
   "watchers_count": 1358,
   "language": "Python",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 31
+  "_index": 38
 }
