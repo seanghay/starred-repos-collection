@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Malinskiy/adam/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Malinskiy/adam/deployments",
   "created_at": "2019-08-02T13:03:07Z",
-  "updated_at": "2023-02-26T12:21:51Z",
+  "updated_at": "2023-02-28T19:17:44Z",
   "pushed_at": "2023-02-09T09:30:46Z",
   "git_url": "git://github.com/Malinskiy/adam.git",
   "ssh_url": "git@github.com:Malinskiy/adam.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Malinskiy/adam",
   "homepage": "https://malinskiy.github.io/adam/",
   "size": 9671,
-  "stargazers_count": 330,
-  "watchers_count": 330,
+  "stargazers_count": 331,
+  "watchers_count": 331,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -114,7 +114,7 @@
   "visibility": "public",
   "forks": 24,
   "open_issues": 2,
-  "watchers": 330,
+  "watchers": 331,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1100
+  "_index": 1107
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/zee-editor/zee/releases{/id}",
   "deployments_url": "https://api.github.com/repos/zee-editor/zee/deployments",
   "created_at": "2019-11-21T23:58:51Z",
-  "updated_at": "2023-02-24T18:10:35Z",
+  "updated_at": "2023-02-28T15:34:19Z",
   "pushed_at": "2022-08-15T22:35:26Z",
   "git_url": "git://github.com/zee-editor/zee.git",
   "ssh_url": "git@github.com:zee-editor/zee.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/zee-editor/zee",
   "homepage": "",
   "size": 1099,
-  "stargazers_count": 1260,
-  "watchers_count": 1260,
+  "stargazers_count": 1261,
+  "watchers_count": 1261,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 32,
+  "forks_count": 33,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,9 +109,9 @@
     "tree-sitter"
   ],
   "visibility": "public",
-  "forks": 32,
+  "forks": 33,
   "open_issues": 39,
-  "watchers": 1260,
+  "watchers": 1261,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 534
+  "_index": 541
 }

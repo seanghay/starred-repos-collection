@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/miromannino/Justified-Gallery/releases{/id}",
   "deployments_url": "https://api.github.com/repos/miromannino/Justified-Gallery/deployments",
   "created_at": "2012-10-27T16:11:05Z",
-  "updated_at": "2023-01-27T16:15:57Z",
+  "updated_at": "2023-02-28T16:37:34Z",
   "pushed_at": "2023-02-05T01:11:59Z",
   "git_url": "git://github.com/miromannino/Justified-Gallery.git",
   "ssh_url": "git@github.com:miromannino/Justified-Gallery.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/miromannino/Justified-Gallery",
   "homepage": "http://miromannino.github.io/Justified-Gallery/",
   "size": 28957,
-  "stargazers_count": 1604,
-  "watchers_count": 1604,
+  "stargazers_count": 1605,
+  "watchers_count": 1605,
   "language": "HTML",
   "has_issues": true,
   "has_projects": true,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 293,
   "open_issues": 123,
-  "watchers": 1604,
+  "watchers": 1605,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 686
+  "_index": 693
 }

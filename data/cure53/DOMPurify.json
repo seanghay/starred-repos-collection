@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/cure53/DOMPurify/releases{/id}",
   "deployments_url": "https://api.github.com/repos/cure53/DOMPurify/deployments",
   "created_at": "2014-02-17T21:48:14Z",
-  "updated_at": "2023-02-28T02:00:28Z",
+  "updated_at": "2023-02-28T23:50:41Z",
   "pushed_at": "2023-02-26T15:32:05Z",
   "git_url": "git://github.com/cure53/DOMPurify.git",
   "ssh_url": "git@github.com:cure53/DOMPurify.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/cure53/DOMPurify",
   "homepage": "https://cure53.de/purify",
   "size": 6947,
-  "stargazers_count": 10559,
-  "watchers_count": 10559,
+  "stargazers_count": 10569,
+  "watchers_count": 10569,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 646,
   "open_issues": 0,
-  "watchers": 10559,
+  "watchers": 10569,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1959
+  "_index": 1966
 }

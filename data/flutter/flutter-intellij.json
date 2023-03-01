@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/flutter/flutter-intellij/deployments",
   "created_at": "2016-07-25T22:31:03Z",
   "updated_at": "2023-02-22T17:46:18Z",
-  "pushed_at": "2023-02-27T20:57:37Z",
+  "pushed_at": "2023-02-28T22:59:54Z",
   "git_url": "git://github.com/flutter/flutter-intellij.git",
   "ssh_url": "git@github.com:flutter/flutter-intellij.git",
   "clone_url": "https://github.com/flutter/flutter-intellij.git",
   "svn_url": "https://github.com/flutter/flutter-intellij",
   "homepage": "https://flutter.dev/using-ide",
-  "size": 160770,
+  "size": 160789,
   "stargazers_count": 1855,
   "watchers_count": 1855,
   "language": "Java",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 784
+  "_index": 791
 }

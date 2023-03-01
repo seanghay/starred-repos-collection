@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/coil-kt/coil/releases{/id}",
   "deployments_url": "https://api.github.com/repos/coil-kt/coil/deployments",
   "created_at": "2019-08-10T21:28:21Z",
-  "updated_at": "2023-02-28T00:30:09Z",
-  "pushed_at": "2023-02-28T00:03:06Z",
+  "updated_at": "2023-03-01T02:14:03Z",
+  "pushed_at": "2023-02-28T18:07:36Z",
   "git_url": "git://github.com/coil-kt/coil.git",
   "ssh_url": "git@github.com:coil-kt/coil.git",
   "clone_url": "https://github.com/coil-kt/coil.git",
   "svn_url": "https://github.com/coil-kt/coil",
   "homepage": "https://coil-kt.github.io/coil/",
-  "size": 133697,
-  "stargazers_count": 8945,
-  "watchers_count": 8945,
+  "size": 133698,
+  "stargazers_count": 8947,
+  "watchers_count": 8947,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 569,
+  "forks_count": 570,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 26,
+  "open_issues_count": 24,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -109,9 +109,9 @@
     "okio"
   ],
   "visibility": "public",
-  "forks": 569,
-  "open_issues": 26,
-  "watchers": 8945,
+  "forks": 570,
+  "open_issues": 24,
+  "watchers": 8947,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1993
+  "_index": 2000
 }

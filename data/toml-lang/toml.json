@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/toml-lang/toml/releases{/id}",
   "deployments_url": "https://api.github.com/repos/toml-lang/toml/deployments",
   "created_at": "2013-02-24T03:03:57Z",
-  "updated_at": "2023-02-27T21:28:13Z",
+  "updated_at": "2023-02-28T23:46:41Z",
   "pushed_at": "2023-02-10T12:48:39Z",
   "git_url": "git://github.com/toml-lang/toml.git",
   "ssh_url": "git@github.com:toml-lang/toml.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/toml-lang/toml",
   "homepage": "https://toml.io",
   "size": 2313,
-  "stargazers_count": 18083,
-  "watchers_count": 18083,
+  "stargazers_count": 18087,
+  "watchers_count": 18087,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 875,
+  "forks_count": 876,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 875,
+  "forks": 876,
   "open_issues": 20,
-  "watchers": 18083,
+  "watchers": 18087,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 881
+  "_index": 888
 }

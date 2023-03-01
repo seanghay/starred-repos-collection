@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/logto-io/logto",
-  "description": "🧑‍🚀 Logto helps you build sign-in, auth, and user identity.",
+  "description": "🧑‍🚀 Logto is a cost-effective open-source alternative to Auth0. It offers a seamless developer experience and is well-suited for individuals and growing companies.",
   "fork": false,
   "url": "https://api.github.com/repos/logto-io/logto",
   "forks_url": "https://api.github.com/repos/logto-io/logto/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/logto-io/logto/releases{/id}",
   "deployments_url": "https://api.github.com/repos/logto-io/logto/deployments",
   "created_at": "2021-06-19T03:01:50Z",
-  "updated_at": "2023-02-28T00:33:43Z",
-  "pushed_at": "2023-02-27T22:07:38Z",
+  "updated_at": "2023-03-01T00:04:20Z",
+  "pushed_at": "2023-02-28T14:30:19Z",
   "git_url": "git://github.com/logto-io/logto.git",
   "ssh_url": "git@github.com:logto-io/logto.git",
   "clone_url": "https://github.com/logto-io/logto.git",
   "svn_url": "https://github.com/logto-io/logto",
   "homepage": "https://logto.io",
-  "size": 22726,
-  "stargazers_count": 5308,
-  "watchers_count": 5308,
+  "size": 23201,
+  "stargazers_count": 5318,
+  "watchers_count": 5318,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,17 +82,17 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 190,
+  "forks_count": 191,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 52,
+  "open_issues_count": 54,
   "license": {
-    "key": "mpl-2.0",
-    "name": "Mozilla Public License 2.0",
-    "spdx_id": "MPL-2.0",
-    "url": "https://api.github.com/licenses/mpl-2.0",
-    "node_id": "MDc6TGljZW5zZTE0"
+    "key": "other",
+    "name": "Other",
+    "spdx_id": "NOASSERTION",
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
   },
   "allow_forking": true,
   "is_template": false,
@@ -116,9 +116,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 190,
-  "open_issues": 52,
-  "watchers": 5308,
+  "forks": 191,
+  "open_issues": 54,
+  "watchers": 5318,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 315
+  "_index": 322
 }

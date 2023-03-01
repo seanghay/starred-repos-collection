@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/egoist/dum/releases{/id}",
   "deployments_url": "https://api.github.com/repos/egoist/dum/deployments",
   "created_at": "2021-11-20T06:07:13Z",
-  "updated_at": "2023-02-27T03:44:08Z",
+  "updated_at": "2023-02-28T10:37:37Z",
   "pushed_at": "2023-01-24T18:34:35Z",
   "git_url": "git://github.com/egoist/dum.git",
   "ssh_url": "git@github.com:egoist/dum.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/egoist/dum",
   "homepage": null,
   "size": 86,
-  "stargazers_count": 1382,
-  "watchers_count": 1382,
+  "stargazers_count": 1384,
+  "watchers_count": 1384,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 27,
   "open_issues": 32,
-  "watchers": 1382,
+  "watchers": 1384,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 535
+  "_index": 542
 }

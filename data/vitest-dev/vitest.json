@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/vitest-dev/vitest/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vitest-dev/vitest/deployments",
   "created_at": "2021-12-03T19:19:49Z",
-  "updated_at": "2023-02-28T00:58:53Z",
-  "pushed_at": "2023-02-27T19:53:07Z",
+  "updated_at": "2023-03-01T01:37:17Z",
+  "pushed_at": "2023-03-01T02:16:11Z",
   "git_url": "git://github.com/vitest-dev/vitest.git",
   "ssh_url": "git@github.com:vitest-dev/vitest.git",
   "clone_url": "https://github.com/vitest-dev/vitest.git",
   "svn_url": "https://github.com/vitest-dev/vitest",
   "homepage": "https://vitest.dev",
-  "size": 10364,
-  "stargazers_count": 8197,
-  "watchers_count": 8197,
+  "size": 10381,
+  "stargazers_count": 8211,
+  "watchers_count": 8211,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 707,
+  "forks_count": 706,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 220,
+  "open_issues_count": 221,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,9 +103,9 @@
     "vite"
   ],
   "visibility": "public",
-  "forks": 707,
-  "open_issues": 220,
-  "watchers": 8197,
+  "forks": 706,
+  "open_issues": 221,
+  "watchers": 8211,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 615
+  "_index": 622
 }

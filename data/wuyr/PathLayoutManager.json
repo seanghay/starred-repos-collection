@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wuyr/PathLayoutManager/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wuyr/PathLayoutManager/deployments",
   "created_at": "2018-05-26T16:48:22Z",
-  "updated_at": "2023-02-27T19:11:02Z",
+  "updated_at": "2023-02-28T06:29:45Z",
   "pushed_at": "2021-10-29T23:07:38Z",
   "git_url": "git://github.com/wuyr/PathLayoutManager.git",
   "ssh_url": "git@github.com:wuyr/PathLayoutManager.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wuyr/PathLayoutManager",
   "homepage": "",
   "size": 32867,
-  "stargazers_count": 1954,
-  "watchers_count": 1954,
+  "stargazers_count": 1953,
+  "watchers_count": 1953,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 240,
   "open_issues": 7,
-  "watchers": 1954,
+  "watchers": 1953,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1971
+  "_index": 1978
 }
