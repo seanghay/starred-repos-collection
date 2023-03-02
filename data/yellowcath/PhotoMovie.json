@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yellowcath/PhotoMovie/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yellowcath/PhotoMovie/deployments",
   "created_at": "2018-09-03T06:57:04Z",
-  "updated_at": "2023-02-20T07:45:49Z",
+  "updated_at": "2023-03-01T08:36:01Z",
   "pushed_at": "2022-02-04T14:12:54Z",
   "git_url": "git://github.com/yellowcath/PhotoMovie.git",
   "ssh_url": "git@github.com:yellowcath/PhotoMovie.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yellowcath/PhotoMovie",
   "homepage": "",
   "size": 26321,
-  "stargazers_count": 679,
-  "watchers_count": 679,
+  "stargazers_count": 680,
+  "watchers_count": 680,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 142,
   "open_issues": 25,
-  "watchers": 679,
+  "watchers": 680,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1799
+  "_index": 1801
 }

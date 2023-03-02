@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/github/markup/releases{/id}",
   "deployments_url": "https://api.github.com/repos/github/markup/deployments",
   "created_at": "2009-10-31T01:02:46Z",
-  "updated_at": "2023-02-28T11:40:21Z",
+  "updated_at": "2023-03-01T17:07:24Z",
   "pushed_at": "2023-02-15T07:55:57Z",
   "git_url": "git://github.com/github/markup.git",
   "ssh_url": "git@github.com:github/markup.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/github/markup",
   "homepage": "",
   "size": 621,
-  "stargazers_count": 5597,
-  "watchers_count": 5597,
+  "stargazers_count": 5599,
+  "watchers_count": 5599,
   "language": "Ruby",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3637,
+  "forks_count": 3638,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 248,
+  "open_issues_count": 252,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -101,9 +101,9 @@
     "readme"
   ],
   "visibility": "public",
-  "forks": 3637,
-  "open_issues": 248,
-  "watchers": 5597,
+  "forks": 3638,
+  "open_issues": 252,
+  "watchers": 5599,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 961
+  "_index": 963
 }

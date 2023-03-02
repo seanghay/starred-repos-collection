@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/samizdatco/skia-canvas/deployments",
   "created_at": "2020-08-04T22:12:53Z",
   "updated_at": "2023-02-27T05:11:15Z",
-  "pushed_at": "2023-01-20T22:14:32Z",
+  "pushed_at": "2023-03-01T15:53:01Z",
   "git_url": "git://github.com/samizdatco/skia-canvas.git",
   "ssh_url": "git@github.com:samizdatco/skia-canvas.git",
   "clone_url": "https://github.com/samizdatco/skia-canvas.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 45,
+  "forks_count": 46,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 30,
+  "open_issues_count": 31,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -99,8 +99,8 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 45,
-  "open_issues": 30,
+  "forks": 46,
+  "open_issues": 31,
   "watchers": 1415,
   "default_branch": "main",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 20
+  "_index": 22
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/FeatureProbe/client-sdk-mobile/deployments",
   "created_at": "2022-05-25T05:25:33Z",
   "updated_at": "2023-02-28T03:33:23Z",
-  "pushed_at": "2023-02-28T11:04:14Z",
+  "pushed_at": "2023-03-01T10:51:20Z",
   "git_url": "git://github.com/FeatureProbe/client-sdk-mobile.git",
   "ssh_url": "git@github.com:FeatureProbe/client-sdk-mobile.git",
   "clone_url": "https://github.com/FeatureProbe/client-sdk-mobile.git",
   "svn_url": "https://github.com/FeatureProbe/client-sdk-mobile",
   "homepage": "",
-  "size": 2070,
+  "size": 2099,
   "stargazers_count": 37,
   "watchers_count": 37,
   "language": "Rust",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 304
+  "_index": 306
 }

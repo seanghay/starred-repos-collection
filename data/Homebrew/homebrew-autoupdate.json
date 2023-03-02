@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 44,
+  "forks_count": 45,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "ruby"
   ],
   "visibility": "public",
-  "forks": 44,
+  "forks": 45,
   "open_issues": 9,
   "watchers": 705,
   "default_branch": "master",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 870
+  "_index": 872
 }

@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/codesandbox/nodebox-runtime",
-  "description": "The API for connecting with nodebox, a Node.js runtime for the browser",
+  "description": "Nodebox is a runtime for executing Node.js modules in the browser.",
   "fork": false,
   "url": "https://api.github.com/repos/codesandbox/nodebox-runtime",
   "forks_url": "https://api.github.com/repos/codesandbox/nodebox-runtime/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/codesandbox/nodebox-runtime/releases{/id}",
   "deployments_url": "https://api.github.com/repos/codesandbox/nodebox-runtime/deployments",
   "created_at": "2023-02-01T13:22:59Z",
-  "updated_at": "2023-02-28T22:09:48Z",
-  "pushed_at": "2023-02-28T11:38:13Z",
+  "updated_at": "2023-03-01T22:14:41Z",
+  "pushed_at": "2023-03-01T10:50:19Z",
   "git_url": "git://github.com/codesandbox/nodebox-runtime.git",
   "ssh_url": "git@github.com:codesandbox/nodebox-runtime.git",
   "clone_url": "https://github.com/codesandbox/nodebox-runtime.git",
   "svn_url": "https://github.com/codesandbox/nodebox-runtime",
-  "homepage": "https://sandpack.codesandbox.io/docs/nodebox",
-  "size": 25657,
-  "stargazers_count": 461,
-  "watchers_count": 461,
+  "homepage": "https://sandpack.codesandbox.io/docs/advanced-usage/nodebox",
+  "size": 25661,
+  "stargazers_count": 463,
+  "watchers_count": 463,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 21,
+  "forks_count": 22,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 7,
+  "open_issues_count": 6,
   "license": {
     "key": "other",
     "name": "Other",
@@ -99,14 +99,15 @@
   "web_commit_signoff_required": false,
   "topics": [
     "browser",
+    "javascript",
     "nodejs",
     "runtime",
     "sandbox"
   ],
   "visibility": "public",
-  "forks": 21,
-  "open_issues": 7,
-  "watchers": 461,
+  "forks": 22,
+  "open_issues": 6,
+  "watchers": 463,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 34
+  "_index": 36
 }

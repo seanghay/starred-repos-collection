@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bhagyas/app-urls/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bhagyas/app-urls/deployments",
   "created_at": "2018-11-21T14:02:23Z",
-  "updated_at": "2023-02-28T14:47:51Z",
+  "updated_at": "2023-03-01T17:25:26Z",
   "pushed_at": "2023-02-27T04:37:03Z",
   "git_url": "git://github.com/bhagyas/app-urls.git",
   "ssh_url": "git@github.com:bhagyas/app-urls.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/bhagyas/app-urls",
   "homepage": "",
   "size": 83,
-  "stargazers_count": 344,
-  "watchers_count": 344,
+  "stargazers_count": 345,
+  "watchers_count": 345,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -100,7 +100,7 @@
   "visibility": "public",
   "forks": 24,
   "open_issues": 9,
-  "watchers": 344,
+  "watchers": 345,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 875
+  "_index": 877
 }

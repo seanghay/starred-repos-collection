@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/livebud/bud/releases{/id}",
   "deployments_url": "https://api.github.com/repos/livebud/bud/deployments",
   "created_at": "2022-04-17T20:02:52Z",
-  "updated_at": "2023-02-28T20:30:20Z",
+  "updated_at": "2023-03-01T22:44:24Z",
   "pushed_at": "2023-02-25T18:40:05Z",
   "git_url": "git://github.com/livebud/bud.git",
   "ssh_url": "git@github.com:livebud/bud.git",
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 467
+  "_index": 469
 }
