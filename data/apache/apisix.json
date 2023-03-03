@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/apache/apisix/releases{/id}",
   "deployments_url": "https://api.github.com/repos/apache/apisix/deployments",
   "created_at": "2019-04-10T02:02:05Z",
-  "updated_at": "2023-03-02T01:25:52Z",
-  "pushed_at": "2023-03-02T01:30:56Z",
+  "updated_at": "2023-03-02T20:01:40Z",
+  "pushed_at": "2023-03-03T03:51:43Z",
   "git_url": "git://github.com/apache/apisix.git",
   "ssh_url": "git@github.com:apache/apisix.git",
   "clone_url": "https://github.com/apache/apisix.git",
   "svn_url": "https://github.com/apache/apisix",
   "homepage": "https://apisix.apache.org/blog/",
-  "size": 35094,
-  "stargazers_count": 11322,
-  "watchers_count": 11322,
+  "size": 35231,
+  "stargazers_count": 11335,
+  "watchers_count": 11335,
   "language": "Lua",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 597,
+  "open_issues_count": 600,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -121,8 +121,8 @@
   ],
   "visibility": "public",
   "forks": 2114,
-  "open_issues": 597,
-  "watchers": 11322,
+  "open_issues": 600,
+  "watchers": 11335,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 911
+  "_index": 917
 }

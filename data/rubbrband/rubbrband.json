@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/rubbrband/rubbrband/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rubbrband/rubbrband/deployments",
   "created_at": "2023-02-26T01:06:38Z",
-  "updated_at": "2023-03-01T23:10:36Z",
-  "pushed_at": "2023-03-01T01:16:35Z",
+  "updated_at": "2023-03-03T02:35:24Z",
+  "pushed_at": "2023-03-02T20:28:50Z",
   "git_url": "git://github.com/rubbrband/rubbrband.git",
   "ssh_url": "git@github.com:rubbrband/rubbrband.git",
   "clone_url": "https://github.com/rubbrband/rubbrband.git",
   "svn_url": "https://github.com/rubbrband/rubbrband",
   "homepage": "https://rubbrband.gitbook.io/cli-docs/",
-  "size": 43,
-  "stargazers_count": 52,
-  "watchers_count": 52,
+  "size": 46,
+  "stargazers_count": 62,
+  "watchers_count": 62,
   "language": "Shell",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 1,
   "open_issues": 1,
-  "watchers": 52,
+  "watchers": 62,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 9
+  "_index": 15
 }

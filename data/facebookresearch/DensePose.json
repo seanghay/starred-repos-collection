@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/facebookresearch/DensePose/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookresearch/DensePose/deployments",
   "created_at": "2018-06-04T18:52:54Z",
-  "updated_at": "2023-02-28T14:17:05Z",
+  "updated_at": "2023-03-03T02:50:59Z",
   "pushed_at": "2023-01-18T17:26:59Z",
   "git_url": "git://github.com/facebookresearch/DensePose.git",
   "ssh_url": "git@github.com:facebookresearch/DensePose.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/facebookresearch/DensePose",
   "homepage": "http://densepose.org",
   "size": 12288,
-  "stargazers_count": 6447,
-  "watchers_count": 6447,
+  "stargazers_count": 6448,
+  "watchers_count": 6448,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 1267,
   "open_issues": 150,
-  "watchers": 6447,
+  "watchers": 6448,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2435
+  "_index": 2441
 }

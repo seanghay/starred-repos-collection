@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/windicss/windicss-intellisense/deployments",
   "created_at": "2021-02-13T15:26:12Z",
   "updated_at": "2023-02-26T03:10:04Z",
-  "pushed_at": "2023-02-28T09:03:51Z",
+  "pushed_at": "2023-03-02T09:00:33Z",
   "git_url": "git://github.com/windicss/windicss-intellisense.git",
   "ssh_url": "git@github.com:windicss/windicss-intellisense.git",
   "clone_url": "https://github.com/windicss/windicss-intellisense.git",
   "svn_url": "https://github.com/windicss/windicss-intellisense",
   "homepage": "https://marketplace.visualstudio.com/items?itemName=voorjaar.windicss-intellisense",
-  "size": 4519,
+  "size": 4639,
   "stargazers_count": 193,
   "watchers_count": 193,
   "language": "TypeScript",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 760
+  "_index": 766
 }

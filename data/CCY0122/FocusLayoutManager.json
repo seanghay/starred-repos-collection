@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/CCY0122/FocusLayoutManager.git",
   "svn_url": "https://github.com/CCY0122/FocusLayoutManager",
   "homepage": "",
-  "size": 22624,
+  "size": 22627,
   "stargazers_count": 819,
   "watchers_count": 819,
   "language": "Java",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1637
+  "_index": 1643
 }

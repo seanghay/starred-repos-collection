@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/akveo/ngx-admin/releases{/id}",
   "deployments_url": "https://api.github.com/repos/akveo/ngx-admin/deployments",
   "created_at": "2016-05-25T10:09:03Z",
-  "updated_at": "2023-03-01T23:44:00Z",
+  "updated_at": "2023-03-03T00:11:32Z",
   "pushed_at": "2023-02-15T14:13:21Z",
   "git_url": "git://github.com/akveo/ngx-admin.git",
   "ssh_url": "git@github.com:akveo/ngx-admin.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/akveo/ngx-admin",
   "homepage": "https://akveo.github.io/ngx-admin/",
   "size": 67294,
-  "stargazers_count": 24292,
-  "watchers_count": 24292,
+  "stargazers_count": 24293,
+  "watchers_count": 24293,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -122,7 +122,7 @@
   "visibility": "public",
   "forks": 7711,
   "open_issues": 462,
-  "watchers": 24292,
+  "watchers": 24293,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2490
+  "_index": 2496
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/h0tk3y/better-parse/releases{/id}",
   "deployments_url": "https://api.github.com/repos/h0tk3y/better-parse/deployments",
   "created_at": "2017-07-08T12:54:57Z",
-  "updated_at": "2023-02-15T14:04:17Z",
+  "updated_at": "2023-03-02T19:49:58Z",
   "pushed_at": "2022-08-22T23:20:36Z",
   "git_url": "git://github.com/h0tk3y/better-parse.git",
   "ssh_url": "git@github.com:h0tk3y/better-parse.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/h0tk3y/better-parse",
   "homepage": "",
   "size": 490,
-  "stargazers_count": 354,
-  "watchers_count": 354,
+  "stargazers_count": 355,
+  "watchers_count": 355,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 36,
   "open_issues": 30,
-  "watchers": 354,
+  "watchers": 355,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1093
+  "_index": 1099
 }

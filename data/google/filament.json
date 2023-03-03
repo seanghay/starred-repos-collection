@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/google/filament/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/filament/deployments",
   "created_at": "2018-08-03T17:26:00Z",
-  "updated_at": "2023-03-02T01:59:41Z",
-  "pushed_at": "2023-03-02T00:59:06Z",
+  "updated_at": "2023-03-02T19:47:02Z",
+  "pushed_at": "2023-03-03T00:32:53Z",
   "git_url": "git://github.com/google/filament.git",
   "ssh_url": "git@github.com:google/filament.git",
   "clone_url": "https://github.com/google/filament.git",
   "svn_url": "https://github.com/google/filament",
   "homepage": "https://google.github.io/filament/",
-  "size": 664295,
-  "stargazers_count": 15365,
-  "watchers_count": 15365,
+  "size": 664332,
+  "stargazers_count": 15376,
+  "watchers_count": 15376,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 1590,
+  "forks_count": 1591,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 105,
+  "open_issues_count": 107,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -113,9 +113,9 @@
     "webgl"
   ],
   "visibility": "public",
-  "forks": 1590,
-  "open_issues": 105,
-  "watchers": 15365,
+  "forks": 1591,
+  "open_issues": 107,
+  "watchers": 15376,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2217
+  "_index": 2223
 }
