@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/firebase/functions-samples/deployments",
   "created_at": "2016-10-18T17:40:55Z",
   "updated_at": "2023-03-03T03:51:45Z",
-  "pushed_at": "2023-03-02T23:39:29Z",
+  "pushed_at": "2023-03-03T09:45:36Z",
   "git_url": "git://github.com/firebase/functions-samples.git",
   "ssh_url": "git@github.com:firebase/functions-samples.git",
   "clone_url": "https://github.com/firebase/functions-samples.git",
   "svn_url": "https://github.com/firebase/functions-samples",
   "homepage": "https://firebase.google.com/docs/functions",
-  "size": 6640,
+  "size": 6765,
   "stargazers_count": 11517,
   "watchers_count": 11517,
   "language": "JavaScript",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 3926,
+  "forks_count": 3927,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 137,
+  "open_issues_count": 138,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -108,8 +108,8 @@
     "serverless"
   ],
   "visibility": "public",
-  "forks": 3926,
-  "open_issues": 137,
+  "forks": 3927,
+  "open_issues": 138,
   "watchers": 11517,
   "default_branch": "main",
   "permissions": {
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1881
+  "_index": 1884
 }

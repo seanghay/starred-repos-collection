@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/unjs/ohash/deployments",
   "created_at": "2021-10-18T17:57:47Z",
   "updated_at": "2023-02-28T13:15:32Z",
-  "pushed_at": "2023-03-02T09:06:02Z",
+  "pushed_at": "2023-03-03T07:25:11Z",
   "git_url": "git://github.com/unjs/ohash.git",
   "ssh_url": "git@github.com:unjs/ohash.git",
   "clone_url": "https://github.com/unjs/ohash.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 764
+  "_index": 767
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nosir/cleave.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nosir/cleave.js/deployments",
   "created_at": "2016-05-18T12:45:03Z",
-  "updated_at": "2023-03-02T21:00:58Z",
+  "updated_at": "2023-03-03T15:06:25Z",
   "pushed_at": "2023-01-12T10:04:41Z",
   "git_url": "git://github.com/nosir/cleave.js.git",
   "ssh_url": "git@github.com:nosir/cleave.js.git",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2307
+  "_index": 2310
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/kizitonwose/Calendar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kizitonwose/Calendar/deployments",
   "created_at": "2019-04-20T14:43:36Z",
-  "updated_at": "2023-03-02T23:58:51Z",
-  "pushed_at": "2023-03-01T17:57:43Z",
+  "updated_at": "2023-03-03T07:12:47Z",
+  "pushed_at": "2023-03-03T15:35:28Z",
   "git_url": "git://github.com/kizitonwose/Calendar.git",
   "ssh_url": "git@github.com:kizitonwose/Calendar.git",
   "clone_url": "https://github.com/kizitonwose/Calendar.git",
   "svn_url": "https://github.com/kizitonwose/Calendar",
   "homepage": "",
-  "size": 4190,
-  "stargazers_count": 3517,
-  "watchers_count": 3517,
+  "size": 4195,
+  "stargazers_count": 3518,
+  "watchers_count": 3518,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 422,
+  "forks_count": 424,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -117,9 +117,9 @@
     "year-calendar"
   ],
   "visibility": "public",
-  "forks": 422,
+  "forks": 424,
   "open_issues": 8,
-  "watchers": 3517,
+  "watchers": 3518,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2053
+  "_index": 2056
 }

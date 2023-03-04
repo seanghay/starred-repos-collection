@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/kittinunf/Result/deployments",
   "created_at": "2015-10-28T12:34:53Z",
   "updated_at": "2023-02-26T23:19:17Z",
-  "pushed_at": "2023-03-03T02:10:37Z",
+  "pushed_at": "2023-03-03T04:01:10Z",
   "git_url": "git://github.com/kittinunf/Result.git",
   "ssh_url": "git@github.com:kittinunf/Result.git",
   "clone_url": "https://github.com/kittinunf/Result.git",
   "svn_url": "https://github.com/kittinunf/Result",
   "homepage": "",
-  "size": 538,
+  "size": 537,
   "stargazers_count": 839,
   "watchers_count": 839,
   "language": "Kotlin",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1280
+  "_index": 1283
 }

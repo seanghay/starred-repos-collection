@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/RobotsAndPencils/XcodesApp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/RobotsAndPencils/XcodesApp/deployments",
   "created_at": "2020-11-25T03:51:02Z",
-  "updated_at": "2023-03-02T07:56:17Z",
+  "updated_at": "2023-03-03T16:37:57Z",
   "pushed_at": "2023-03-01T01:30:44Z",
   "git_url": "git://github.com/RobotsAndPencils/XcodesApp.git",
   "ssh_url": "git@github.com:RobotsAndPencils/XcodesApp.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/RobotsAndPencils/XcodesApp",
   "homepage": "",
   "size": 12867,
-  "stargazers_count": 4699,
-  "watchers_count": 4699,
+  "stargazers_count": 4700,
+  "watchers_count": 4700,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 194,
   "open_issues": 53,
-  "watchers": 4699,
+  "watchers": 4700,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1103
+  "_index": 1106
 }
