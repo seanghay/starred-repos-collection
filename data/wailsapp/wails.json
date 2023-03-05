@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/wailsapp/wails/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wailsapp/wails/deployments",
   "created_at": "2018-12-15T23:14:06Z",
-  "updated_at": "2023-03-04T02:08:54Z",
-  "pushed_at": "2023-03-04T00:12:37Z",
+  "updated_at": "2023-03-05T02:08:38Z",
+  "pushed_at": "2023-03-05T02:32:31Z",
   "git_url": "git://github.com/wailsapp/wails.git",
   "ssh_url": "git@github.com:wailsapp/wails.git",
   "clone_url": "https://github.com/wailsapp/wails.git",
   "svn_url": "https://github.com/wailsapp/wails",
   "homepage": "https://wails.io",
-  "size": 51903,
-  "stargazers_count": 14383,
-  "watchers_count": 14383,
+  "size": 51986,
+  "stargazers_count": 14397,
+  "watchers_count": 14397,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 679,
   "open_issues": 143,
-  "watchers": 14383,
+  "watchers": 14397,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 944
+  "_index": 946
 }

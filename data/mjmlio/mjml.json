@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/mjmlio/mjml/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mjmlio/mjml/deployments",
   "created_at": "2016-01-28T14:04:05Z",
-  "updated_at": "2023-03-03T18:58:38Z",
-  "pushed_at": "2023-02-24T13:24:52Z",
+  "updated_at": "2023-03-04T11:24:04Z",
+  "pushed_at": "2023-03-04T03:58:43Z",
   "git_url": "git://github.com/mjmlio/mjml.git",
   "ssh_url": "git@github.com:mjmlio/mjml.git",
   "clone_url": "https://github.com/mjmlio/mjml.git",
   "svn_url": "https://github.com/mjmlio/mjml",
   "homepage": "https://mjml.io",
-  "size": 10136,
-  "stargazers_count": 15009,
-  "watchers_count": 15009,
+  "size": 10291,
+  "stargazers_count": 15012,
+  "watchers_count": 15012,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 65,
+  "open_issues_count": 66,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 908,
-  "open_issues": 65,
-  "watchers": 15009,
+  "open_issues": 66,
+  "watchers": 15012,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 233
+  "_index": 235
 }

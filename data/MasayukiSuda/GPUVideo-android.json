@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 72,
+  "open_issues_count": 73,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -121,7 +121,7 @@
   ],
   "visibility": "public",
   "forks": 165,
-  "open_issues": 72,
+  "open_issues": 73,
   "watchers": 575,
   "default_branch": "master",
   "permissions": {
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2322
+  "_index": 2324
 }

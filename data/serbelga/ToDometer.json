@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/serbelga/ToDometer.git",
   "svn_url": "https://github.com/serbelga/ToDometer",
   "homepage": "",
-  "size": 38012,
+  "size": 38011,
   "stargazers_count": 266,
   "watchers_count": 266,
   "language": "Kotlin",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1052
+  "_index": 1054
 }

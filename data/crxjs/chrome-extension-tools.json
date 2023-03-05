@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/crxjs/chrome-extension-tools/releases{/id}",
   "deployments_url": "https://api.github.com/repos/crxjs/chrome-extension-tools/deployments",
   "created_at": "2019-03-15T14:11:45Z",
-  "updated_at": "2023-03-03T17:24:19Z",
-  "pushed_at": "2023-03-03T01:11:51Z",
+  "updated_at": "2023-03-04T14:31:03Z",
+  "pushed_at": "2023-03-04T05:09:51Z",
   "git_url": "git://github.com/crxjs/chrome-extension-tools.git",
   "ssh_url": "git@github.com:crxjs/chrome-extension-tools.git",
   "clone_url": "https://github.com/crxjs/chrome-extension-tools.git",
   "svn_url": "https://github.com/crxjs/chrome-extension-tools",
   "homepage": "https://crxjs.dev/vite-plugin",
-  "size": 10019,
-  "stargazers_count": 1124,
-  "watchers_count": 1124,
+  "size": 9835,
+  "stargazers_count": 1127,
+  "watchers_count": 1127,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 93,
   "open_issues": 65,
-  "watchers": 1124,
+  "watchers": 1127,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 577
+  "_index": 579
 }

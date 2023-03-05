@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/gsrathoreniks/FaceFilter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gsrathoreniks/FaceFilter/deployments",
   "created_at": "2017-12-09T21:36:33Z",
-  "updated_at": "2023-02-05T00:49:43Z",
+  "updated_at": "2023-03-04T10:34:23Z",
   "pushed_at": "2020-01-27T07:21:44Z",
   "git_url": "git://github.com/gsrathoreniks/FaceFilter.git",
   "ssh_url": "git@github.com:gsrathoreniks/FaceFilter.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/gsrathoreniks/FaceFilter",
   "homepage": "",
   "size": 1304,
-  "stargazers_count": 74,
-  "watchers_count": 74,
+  "stargazers_count": 75,
+  "watchers_count": 75,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 21,
   "open_issues": 2,
-  "watchers": 74,
+  "watchers": 75,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2196
+  "_index": 2198
 }

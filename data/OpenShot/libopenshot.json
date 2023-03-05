@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/OpenShot/libopenshot/releases{/id}",
   "deployments_url": "https://api.github.com/repos/OpenShot/libopenshot/deployments",
   "created_at": "2015-03-09T20:26:42Z",
-  "updated_at": "2023-03-03T19:58:20Z",
+  "updated_at": "2023-03-04T14:31:34Z",
   "pushed_at": "2023-02-28T20:13:17Z",
   "git_url": "git://github.com/OpenShot/libopenshot.git",
   "ssh_url": "git@github.com:OpenShot/libopenshot.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/OpenShot/libopenshot",
   "homepage": "http://www.openshot.org",
   "size": 119854,
-  "stargazers_count": 968,
-  "watchers_count": 968,
+  "stargazers_count": 969,
+  "watchers_count": 969,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 232,
+  "forks_count": 233,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -112,9 +112,9 @@
     "videoeditor-sdk"
   ],
   "visibility": "public",
-  "forks": 232,
+  "forks": 233,
   "open_issues": 34,
-  "watchers": 968,
+  "watchers": 969,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 961
+  "_index": 963
 }

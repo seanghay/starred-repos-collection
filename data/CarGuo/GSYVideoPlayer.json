@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/CarGuo/GSYVideoPlayer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/CarGuo/GSYVideoPlayer/deployments",
   "created_at": "2016-11-13T12:34:31Z",
-  "updated_at": "2023-03-03T16:46:36Z",
+  "updated_at": "2023-03-04T15:09:27Z",
   "pushed_at": "2023-03-02T09:53:49Z",
   "git_url": "git://github.com/CarGuo/GSYVideoPlayer.git",
   "ssh_url": "git@github.com:CarGuo/GSYVideoPlayer.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 4001,
+  "forks_count": 4000,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 16,
+  "open_issues_count": 17,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -108,8 +108,8 @@
     "videocache"
   ],
   "visibility": "public",
-  "forks": 4001,
-  "open_issues": 16,
+  "forks": 4000,
+  "open_issues": 17,
   "watchers": 18310,
   "default_branch": "master",
   "permissions": {
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2187
+  "_index": 2189
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/daimajia/AndroidViewAnimations/releases{/id}",
   "deployments_url": "https://api.github.com/repos/daimajia/AndroidViewAnimations/deployments",
   "created_at": "2014-06-23T03:53:13Z",
-  "updated_at": "2023-03-03T00:15:46Z",
+  "updated_at": "2023-03-04T18:58:51Z",
   "pushed_at": "2021-08-18T23:15:07Z",
   "git_url": "git://github.com/daimajia/AndroidViewAnimations.git",
   "ssh_url": "git@github.com:daimajia/AndroidViewAnimations.git",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1855
+  "_index": 1857
 }

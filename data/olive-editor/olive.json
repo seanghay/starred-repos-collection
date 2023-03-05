@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/olive-editor/olive/releases{/id}",
   "deployments_url": "https://api.github.com/repos/olive-editor/olive/deployments",
   "created_at": "2017-12-25T14:12:29Z",
-  "updated_at": "2023-03-04T01:31:42Z",
+  "updated_at": "2023-03-04T15:32:26Z",
   "pushed_at": "2023-03-03T08:28:12Z",
   "git_url": "git://github.com/olive-editor/olive.git",
   "ssh_url": "git@github.com:olive-editor/olive.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 68,
+  "open_issues_count": 69,
   "license": {
     "key": "other",
     "name": "Other",
@@ -112,7 +112,7 @@
   ],
   "visibility": "public",
   "forks": 488,
-  "open_issues": 68,
+  "open_issues": 69,
   "watchers": 6834,
   "default_branch": "master",
   "permissions": {
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 979
+  "_index": 981
 }

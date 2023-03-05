@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pinqy520/revas/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pinqy520/revas/deployments",
   "created_at": "2020-02-14T19:48:06Z",
-  "updated_at": "2023-02-10T20:02:56Z",
+  "updated_at": "2023-03-05T01:38:58Z",
   "pushed_at": "2021-02-16T05:04:49Z",
   "git_url": "git://github.com/pinqy520/revas.git",
   "ssh_url": "git@github.com:pinqy520/revas.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/pinqy520/revas",
   "homepage": "https://pinqy520.github.io/demo/revas-pwa/",
   "size": 46446,
-  "stargazers_count": 111,
-  "watchers_count": 111,
+  "stargazers_count": 112,
+  "watchers_count": 112,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 11,
   "open_issues": 0,
-  "watchers": 111,
+  "watchers": 112,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 223
+  "_index": 225
 }

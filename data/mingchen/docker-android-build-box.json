@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/mingchen/docker-android-build-box/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mingchen/docker-android-build-box/deployments",
   "created_at": "2016-10-26T23:20:09Z",
-  "updated_at": "2023-02-24T13:55:54Z",
-  "pushed_at": "2023-02-27T21:33:30Z",
+  "updated_at": "2023-03-04T15:20:16Z",
+  "pushed_at": "2023-03-04T18:31:00Z",
   "git_url": "git://github.com/mingchen/docker-android-build-box.git",
   "ssh_url": "git@github.com:mingchen/docker-android-build-box.git",
   "clone_url": "https://github.com/mingchen/docker-android-build-box.git",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 199
+  "_index": 201
 }

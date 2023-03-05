@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/conwnet/github1s/releases{/id}",
   "deployments_url": "https://api.github.com/repos/conwnet/github1s/deployments",
   "created_at": "2019-06-16T09:55:25Z",
-  "updated_at": "2023-03-04T01:30:07Z",
+  "updated_at": "2023-03-05T01:31:21Z",
   "pushed_at": "2023-03-01T09:30:37Z",
   "git_url": "git://github.com/conwnet/github1s.git",
   "ssh_url": "git@github.com:conwnet/github1s.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 782,
+  "forks_count": 781,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,7 +102,7 @@
     "vscode"
   ],
   "visibility": "public",
-  "forks": 782,
+  "forks": 781,
   "open_issues": 59,
   "watchers": 21742,
   "default_branch": "master",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1161
+  "_index": 1163
 }
