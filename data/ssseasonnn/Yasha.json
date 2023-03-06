@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/ssseasonnn/Yasha",
-  "description": "Kotlin-based modern RecyclerView rendering weapon",
+  "description": "Kotlin-based modern RecyclerView rendering tools",
   "fork": false,
   "url": "https://api.github.com/repos/ssseasonnn/Yasha",
   "forks_url": "https://api.github.com/repos/ssseasonnn/Yasha/forks",
@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ssseasonnn/Yasha/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ssseasonnn/Yasha/deployments",
   "created_at": "2018-06-04T07:16:15Z",
-  "updated_at": "2022-12-21T06:44:44Z",
+  "updated_at": "2023-03-06T02:09:17Z",
   "pushed_at": "2022-03-26T09:07:36Z",
   "git_url": "git://github.com/ssseasonnn/Yasha.git",
   "ssh_url": "git@github.com:ssseasonnn/Yasha.git",
@@ -98,6 +98,7 @@
   "is_template": false,
   "web_commit_signoff_required": false,
   "topics": [
+    "android",
     "kotlin",
     "recyclerview"
   ],
@@ -113,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2128
+  "_index": 2130
 }

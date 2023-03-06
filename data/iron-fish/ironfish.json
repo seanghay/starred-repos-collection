@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 200,
+  "open_issues_count": 175,
   "license": {
     "key": "mpl-2.0",
     "name": "Mozilla Public License 2.0",
@@ -104,7 +104,7 @@
   ],
   "visibility": "public",
   "forks": 518,
-  "open_issues": 200,
+  "open_issues": 175,
   "watchers": 827,
   "default_branch": "master",
   "permissions": {
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 662
+  "_index": 664
 }

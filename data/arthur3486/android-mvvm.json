@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/arthur3486/android-mvvm.git",
   "svn_url": "https://github.com/arthur3486/android-mvvm",
   "homepage": "",
-  "size": 38937,
+  "size": 39074,
   "stargazers_count": 108,
   "watchers_count": 108,
   "language": "Kotlin",
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1536
+  "_index": 1538
 }

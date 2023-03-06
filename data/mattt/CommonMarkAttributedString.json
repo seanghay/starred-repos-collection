@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mattt/CommonMarkAttributedString/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mattt/CommonMarkAttributedString/deployments",
   "created_at": "2020-03-06T13:49:20Z",
-  "updated_at": "2023-02-26T06:41:50Z",
+  "updated_at": "2023-03-05T19:09:28Z",
   "pushed_at": "2021-08-04T21:42:05Z",
   "git_url": "git://github.com/mattt/CommonMarkAttributedString.git",
   "ssh_url": "git@github.com:mattt/CommonMarkAttributedString.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mattt/CommonMarkAttributedString",
   "homepage": "",
   "size": 33,
-  "stargazers_count": 413,
-  "watchers_count": 413,
+  "stargazers_count": 414,
+  "watchers_count": 414,
   "language": "Swift",
   "has_issues": true,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 18,
   "open_issues": 4,
-  "watchers": 413,
+  "watchers": 414,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1165
+  "_index": 1167
 }

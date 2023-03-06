@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/lit/lit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lit/lit/deployments",
   "created_at": "2017-06-29T16:27:16Z",
-  "updated_at": "2023-03-05T02:12:31Z",
-  "pushed_at": "2023-03-03T21:23:04Z",
+  "updated_at": "2023-03-06T01:43:47Z",
+  "pushed_at": "2023-03-05T05:38:59Z",
   "git_url": "git://github.com/lit/lit.git",
   "ssh_url": "git@github.com:lit/lit.git",
   "clone_url": "https://github.com/lit/lit.git",
   "svn_url": "https://github.com/lit/lit",
   "homepage": "https://lit.dev",
-  "size": 44849,
-  "stargazers_count": 13941,
-  "watchers_count": 13941,
+  "size": 45695,
+  "stargazers_count": 13953,
+  "watchers_count": 13953,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 711,
+  "forks_count": 713,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "lit-html"
   ],
   "visibility": "public",
-  "forks": 711,
+  "forks": 713,
   "open_issues": 395,
-  "watchers": 13941,
+  "watchers": 13953,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 605
+  "_index": 607
 }

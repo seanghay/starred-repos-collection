@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/goauthentik/authentik/releases{/id}",
   "deployments_url": "https://api.github.com/repos/goauthentik/authentik/deployments",
   "created_at": "2019-12-30T09:19:48Z",
-  "updated_at": "2023-03-04T23:36:59Z",
-  "pushed_at": "2023-03-04T18:43:38Z",
+  "updated_at": "2023-03-05T22:42:45Z",
+  "pushed_at": "2023-03-05T21:50:18Z",
   "git_url": "git://github.com/goauthentik/authentik.git",
   "ssh_url": "git@github.com:goauthentik/authentik.git",
   "clone_url": "https://github.com/goauthentik/authentik.git",
   "svn_url": "https://github.com/goauthentik/authentik",
   "homepage": "https://goauthentik.io",
   "size": 166249,
-  "stargazers_count": 3284,
-  "watchers_count": 3284,
+  "stargazers_count": 3290,
+  "watchers_count": 3290,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 265,
+  "forks_count": 267,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 276,
+  "open_issues_count": 278,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -118,9 +118,9 @@
     "sso"
   ],
   "visibility": "public",
-  "forks": 265,
-  "open_issues": 276,
-  "watchers": 3284,
+  "forks": 267,
+  "open_issues": 278,
+  "watchers": 3290,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 806
+  "_index": 808
 }

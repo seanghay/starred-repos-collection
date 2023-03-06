@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bmcmahen/sancho/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bmcmahen/sancho/deployments",
   "created_at": "2019-02-25T20:50:06Z",
-  "updated_at": "2023-03-02T19:36:49Z",
+  "updated_at": "2023-03-05T11:44:42Z",
   "pushed_at": "2022-12-10T08:26:04Z",
   "git_url": "git://github.com/bmcmahen/sancho.git",
   "ssh_url": "git@github.com:bmcmahen/sancho.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/bmcmahen/sancho",
   "homepage": "https://sancho-ui.com",
   "size": 4765,
-  "stargazers_count": 413,
-  "watchers_count": 413,
+  "stargazers_count": 412,
+  "watchers_count": 412,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 33,
   "open_issues": 53,
-  "watchers": 413,
+  "watchers": 412,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1358
+  "_index": 1360
 }

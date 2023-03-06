@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/juliomrqz/nuxt-optimized-images/deployments",
   "created_at": "2019-02-28T11:52:22Z",
   "updated_at": "2023-02-27T02:19:04Z",
-  "pushed_at": "2023-02-03T15:50:18Z",
+  "pushed_at": "2023-03-05T18:34:39Z",
   "git_url": "git://github.com/juliomrqz/nuxt-optimized-images.git",
   "ssh_url": "git@github.com:juliomrqz/nuxt-optimized-images.git",
   "clone_url": "https://github.com/juliomrqz/nuxt-optimized-images.git",
   "svn_url": "https://github.com/juliomrqz/nuxt-optimized-images",
   "homepage": "https://marquez.co/docs/nuxt-optimized-images/",
-  "size": 5231,
+  "size": 5384,
   "stargazers_count": 855,
   "watchers_count": 855,
   "language": "JavaScript",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 274
+  "_index": 276
 }

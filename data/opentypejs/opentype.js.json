@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/opentypejs/opentype.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/opentypejs/opentype.js/deployments",
   "created_at": "2013-09-27T12:36:16Z",
-  "updated_at": "2023-03-04T12:08:56Z",
-  "pushed_at": "2023-03-04T01:41:31Z",
+  "updated_at": "2023-03-05T22:41:04Z",
+  "pushed_at": "2023-03-05T19:53:05Z",
   "git_url": "git://github.com/opentypejs/opentype.js.git",
   "ssh_url": "git@github.com:opentypejs/opentype.js.git",
   "clone_url": "https://github.com/opentypejs/opentype.js.git",
   "svn_url": "https://github.com/opentypejs/opentype.js",
   "homepage": "https://opentype.js.org/",
-  "size": 6801,
-  "stargazers_count": 3834,
-  "watchers_count": 3834,
+  "size": 6808,
+  "stargazers_count": 3835,
+  "watchers_count": 3835,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 165,
+  "open_issues_count": 164,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -110,8 +110,8 @@
   ],
   "visibility": "public",
   "forks": 426,
-  "open_issues": 165,
-  "watchers": 3834,
+  "open_issues": 164,
+  "watchers": 3835,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 741
+  "_index": 743
 }

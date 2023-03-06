@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/releases{/id}",
   "deployments_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/deployments",
   "created_at": "2022-08-22T14:05:26Z",
-  "updated_at": "2023-03-05T02:33:01Z",
+  "updated_at": "2023-03-06T02:20:25Z",
   "pushed_at": "2023-03-05T00:32:12Z",
   "git_url": "git://github.com/AUTOMATIC1111/stable-diffusion-webui.git",
   "ssh_url": "git@github.com:AUTOMATIC1111/stable-diffusion-webui.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
   "homepage": null,
   "size": 28167,
-  "stargazers_count": 43533,
-  "watchers_count": 43533,
+  "stargazers_count": 43969,
+  "watchers_count": 43969,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 8041,
+  "forks_count": 8123,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 8041,
+  "forks": 8123,
   "open_issues": 1537,
-  "watchers": 43533,
+  "watchers": 43969,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 23
+  "_index": 25
 }

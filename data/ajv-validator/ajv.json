@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ajv-validator/ajv/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ajv-validator/ajv/deployments",
   "created_at": "2015-05-19T23:23:32Z",
-  "updated_at": "2023-03-05T02:06:44Z",
-  "pushed_at": "2023-03-03T07:01:46Z",
+  "updated_at": "2023-03-06T02:06:48Z",
+  "pushed_at": "2023-03-05T20:09:07Z",
   "git_url": "git://github.com/ajv-validator/ajv.git",
   "ssh_url": "git@github.com:ajv-validator/ajv.git",
   "clone_url": "https://github.com/ajv-validator/ajv.git",
   "svn_url": "https://github.com/ajv-validator/ajv",
   "homepage": "https://ajv.js.org",
   "size": 27532,
-  "stargazers_count": 12236,
-  "watchers_count": 12236,
+  "stargazers_count": 12239,
+  "watchers_count": 12239,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 882,
+  "forks_count": 883,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 246,
+  "open_issues_count": 247,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,9 +103,9 @@
     "validator"
   ],
   "visibility": "public",
-  "forks": 882,
-  "open_issues": 246,
-  "watchers": 12236,
+  "forks": 883,
+  "open_issues": 247,
+  "watchers": 12239,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2370
+  "_index": 2372
 }

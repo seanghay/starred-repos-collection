@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/yume-chan/ya-webadb/deployments",
   "created_at": "2020-01-31T08:17:11Z",
   "updated_at": "2023-03-04T14:36:49Z",
-  "pushed_at": "2023-03-03T14:26:51Z",
+  "pushed_at": "2023-03-05T16:18:18Z",
   "git_url": "git://github.com/yume-chan/ya-webadb.git",
   "ssh_url": "git@github.com:yume-chan/ya-webadb.git",
   "clone_url": "https://github.com/yume-chan/ya-webadb.git",
   "svn_url": "https://github.com/yume-chan/ya-webadb",
   "homepage": "https://yume-chan.github.io/ya-webadb",
-  "size": 181899,
+  "size": 183490,
   "stargazers_count": 1094,
   "watchers_count": 1094,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 33,
+  "open_issues_count": 32,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,7 +108,7 @@
   ],
   "visibility": "public",
   "forks": 169,
-  "open_issues": 33,
+  "open_issues": 32,
   "watchers": 1094,
   "default_branch": "main",
   "permissions": {
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1211
+  "_index": 1213
 }

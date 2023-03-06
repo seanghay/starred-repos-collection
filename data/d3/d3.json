@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/d3/d3/releases{/id}",
   "deployments_url": "https://api.github.com/repos/d3/d3/deployments",
   "created_at": "2010-09-27T17:22:42Z",
-  "updated_at": "2023-03-04T16:35:57Z",
+  "updated_at": "2023-03-06T01:35:59Z",
   "pushed_at": "2023-01-18T18:34:17Z",
   "git_url": "git://github.com/d3/d3.git",
   "ssh_url": "git@github.com:d3/d3.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 23289,
+  "forks_count": 23288,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,7 +105,7 @@
     "visualization"
   ],
   "visibility": "public",
-  "forks": 23289,
+  "forks": 23288,
   "open_issues": 5,
   "watchers": 104540,
   "default_branch": "main",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2493
+  "_index": 2495
 }

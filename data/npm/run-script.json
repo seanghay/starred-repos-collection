@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 20,
+  "forks_count": 19,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -101,7 +101,7 @@
     "npm-cli"
   ],
   "visibility": "public",
-  "forks": 20,
+  "forks": 19,
   "open_issues": 6,
   "watchers": 40,
   "default_branch": "main",
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1695
+  "_index": 1697
 }

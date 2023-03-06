@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/okonet/lint-staged/releases{/id}",
   "deployments_url": "https://api.github.com/repos/okonet/lint-staged/deployments",
   "created_at": "2016-01-15T07:51:21Z",
-  "updated_at": "2023-03-04T21:58:22Z",
-  "pushed_at": "2023-03-02T09:29:32Z",
+  "updated_at": "2023-03-05T23:13:03Z",
+  "pushed_at": "2023-03-05T14:39:23Z",
   "git_url": "git://github.com/okonet/lint-staged.git",
   "ssh_url": "git@github.com:okonet/lint-staged.git",
   "clone_url": "https://github.com/okonet/lint-staged.git",
   "svn_url": "https://github.com/okonet/lint-staged",
   "homepage": "",
-  "size": 5411,
-  "stargazers_count": 11540,
-  "watchers_count": 11540,
+  "size": 5432,
+  "stargazers_count": 11544,
+  "watchers_count": 11544,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 101,
+  "open_issues_count": 102,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,8 +108,8 @@
   ],
   "visibility": "public",
   "forks": 423,
-  "open_issues": 101,
-  "watchers": 11540,
+  "open_issues": 102,
+  "watchers": 11544,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 515
+  "_index": 517
 }

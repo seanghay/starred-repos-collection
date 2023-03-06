@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/DrKLO/Telegram/releases{/id}",
   "deployments_url": "https://api.github.com/repos/DrKLO/Telegram/deployments",
   "created_at": "2013-10-25T14:08:10Z",
-  "updated_at": "2023-03-04T22:04:54Z",
-  "pushed_at": "2023-03-04T18:41:59Z",
+  "updated_at": "2023-03-06T00:20:16Z",
+  "pushed_at": "2023-03-05T04:45:10Z",
   "git_url": "git://github.com/DrKLO/Telegram.git",
   "ssh_url": "git@github.com:DrKLO/Telegram.git",
   "clone_url": "https://github.com/DrKLO/Telegram.git",
   "svn_url": "https://github.com/DrKLO/Telegram",
   "homepage": null,
   "size": 390206,
-  "stargazers_count": 21636,
-  "watchers_count": 21636,
+  "stargazers_count": 21643,
+  "watchers_count": 21643,
   "language": "Java",
   "has_issues": false,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 7292,
+  "forks_count": 7291,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -101,9 +101,9 @@
     "telegram"
   ],
   "visibility": "public",
-  "forks": 7292,
+  "forks": 7291,
   "open_issues": 502,
-  "watchers": 21636,
+  "watchers": 21643,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2389
+  "_index": 2391
 }

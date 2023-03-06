@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/localtunnel/localtunnel/releases{/id}",
   "deployments_url": "https://api.github.com/repos/localtunnel/localtunnel/deployments",
   "created_at": "2012-06-18T02:33:30Z",
-  "updated_at": "2023-03-05T00:04:57Z",
+  "updated_at": "2023-03-06T02:20:38Z",
   "pushed_at": "2023-02-28T12:24:09Z",
   "git_url": "git://github.com/localtunnel/localtunnel.git",
   "ssh_url": "git@github.com:localtunnel/localtunnel.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/localtunnel/localtunnel",
   "homepage": "https://localtunnel.me",
   "size": 187,
-  "stargazers_count": 15772,
-  "watchers_count": 15772,
+  "stargazers_count": 15782,
+  "watchers_count": 15782,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 1191,
   "open_issues": 154,
-  "watchers": 15772,
+  "watchers": 15782,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 795
+  "_index": 797
 }
