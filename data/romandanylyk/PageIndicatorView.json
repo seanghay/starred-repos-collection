@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/romandanylyk/PageIndicatorView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/romandanylyk/PageIndicatorView/deployments",
   "created_at": "2016-08-20T19:25:32Z",
-  "updated_at": "2023-03-01T17:57:12Z",
+  "updated_at": "2023-03-06T15:09:42Z",
   "pushed_at": "2021-10-15T05:11:14Z",
   "git_url": "git://github.com/romandanylyk/PageIndicatorView.git",
   "ssh_url": "git@github.com:romandanylyk/PageIndicatorView.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1944
+  "_index": 1946
 }

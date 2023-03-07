@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wanliyang1990/wlmedia/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wanliyang1990/wlmedia/deployments",
   "created_at": "2018-12-31T08:08:23Z",
-  "updated_at": "2023-02-20T02:19:30Z",
+  "updated_at": "2023-03-06T15:06:00Z",
   "pushed_at": "2021-05-27T01:47:50Z",
   "git_url": "git://github.com/wanliyang1990/wlmedia.git",
   "ssh_url": "git@github.com:wanliyang1990/wlmedia.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wanliyang1990/wlmedia",
   "homepage": "",
   "size": 249994,
-  "stargazers_count": 662,
-  "watchers_count": 662,
+  "stargazers_count": 661,
+  "watchers_count": 661,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 141,
   "open_issues": 3,
-  "watchers": 662,
+  "watchers": 661,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1807
+  "_index": 1809
 }

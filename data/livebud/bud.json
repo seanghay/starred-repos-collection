@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/livebud/bud.git",
   "svn_url": "https://github.com/livebud/bud",
   "homepage": "",
-  "size": 9387,
+  "size": 9375,
   "stargazers_count": 5058,
   "watchers_count": 5058,
   "language": "Go",
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 482
+  "_index": 484
 }

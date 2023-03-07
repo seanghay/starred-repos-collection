@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/lukeed/resolve.exports/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lukeed/resolve.exports/deployments",
   "created_at": "2021-01-08T21:46:01Z",
-  "updated_at": "2023-02-28T22:22:01Z",
-  "pushed_at": "2023-03-04T04:45:40Z",
+  "updated_at": "2023-03-06T20:50:04Z",
+  "pushed_at": "2023-03-06T19:02:11Z",
   "git_url": "git://github.com/lukeed/resolve.exports.git",
   "ssh_url": "git@github.com:lukeed/resolve.exports.git",
   "clone_url": "https://github.com/lukeed/resolve.exports.git",
   "svn_url": "https://github.com/lukeed/resolve.exports",
   "homepage": "",
-  "size": 89,
+  "size": 92,
   "stargazers_count": 253,
   "watchers_count": 253,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 3,
+  "open_issues_count": 2,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 13,
-  "open_issues": 3,
+  "open_issues": 2,
   "watchers": 253,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 381
+  "_index": 383
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/MarkusJx/node-java-bridge/deployments",
   "created_at": "2021-04-22T08:40:25Z",
   "updated_at": "2023-03-05T13:08:45Z",
-  "pushed_at": "2023-03-05T19:47:06Z",
+  "pushed_at": "2023-03-06T15:38:14Z",
   "git_url": "git://github.com/MarkusJx/node-java-bridge.git",
   "ssh_url": "git@github.com:MarkusJx/node-java-bridge.git",
   "clone_url": "https://github.com/MarkusJx/node-java-bridge.git",
   "svn_url": "https://github.com/MarkusJx/node-java-bridge",
   "homepage": "https://markusjx.github.io/node-java-bridge/",
-  "size": 676,
+  "size": 823,
   "stargazers_count": 77,
   "watchers_count": 77,
   "language": "TypeScript",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 307
+  "_index": 309
 }

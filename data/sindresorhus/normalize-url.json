@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/normalize-url/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/normalize-url/deployments",
   "created_at": "2015-01-11T14:19:55Z",
-  "updated_at": "2023-02-28T12:01:01Z",
+  "updated_at": "2023-03-06T20:42:21Z",
   "pushed_at": "2022-12-08T17:38:30Z",
   "git_url": "git://github.com/sindresorhus/normalize-url.git",
   "ssh_url": "git@github.com:sindresorhus/normalize-url.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sindresorhus/normalize-url",
   "homepage": null,
   "size": 146,
-  "stargazers_count": 771,
-  "watchers_count": 771,
+  "stargazers_count": 772,
+  "watchers_count": 772,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 122,
   "open_issues": 7,
-  "watchers": 771,
+  "watchers": 772,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 578
+  "_index": 580
 }

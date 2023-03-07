@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Trendyol/medusa/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Trendyol/medusa/deployments",
   "created_at": "2018-11-08T07:28:46Z",
-  "updated_at": "2023-03-05T08:35:28Z",
+  "updated_at": "2023-03-06T14:33:27Z",
   "pushed_at": "2023-02-28T14:45:16Z",
   "git_url": "git://github.com/Trendyol/medusa.git",
   "ssh_url": "git@github.com:Trendyol/medusa.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Trendyol/medusa",
   "homepage": null,
   "size": 645,
-  "stargazers_count": 464,
-  "watchers_count": 464,
+  "stargazers_count": 465,
+  "watchers_count": 465,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 59,
   "open_issues": 11,
-  "watchers": 464,
+  "watchers": 465,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1480
+  "_index": 1482
 }

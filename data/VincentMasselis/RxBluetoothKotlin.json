@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/VincentMasselis/RxBluetoothKotlin/releases{/id}",
   "deployments_url": "https://api.github.com/repos/VincentMasselis/RxBluetoothKotlin/deployments",
   "created_at": "2017-03-16T10:50:22Z",
-  "updated_at": "2023-02-17T02:38:28Z",
+  "updated_at": "2023-03-06T10:33:17Z",
   "pushed_at": "2021-11-18T13:24:30Z",
   "git_url": "git://github.com/VincentMasselis/RxBluetoothKotlin.git",
   "ssh_url": "git@github.com:VincentMasselis/RxBluetoothKotlin.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/VincentMasselis/RxBluetoothKotlin",
   "homepage": "",
   "size": 749,
-  "stargazers_count": 82,
-  "watchers_count": 82,
+  "stargazers_count": 81,
+  "watchers_count": 81,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 12,
   "open_issues": 3,
-  "watchers": 82,
+  "watchers": 81,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2077
+  "_index": 2079
 }
