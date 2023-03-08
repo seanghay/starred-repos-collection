@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/localstack/localstack/releases{/id}",
   "deployments_url": "https://api.github.com/repos/localstack/localstack/deployments",
   "created_at": "2016-10-25T23:48:03Z",
-  "updated_at": "2023-03-07T00:49:18Z",
-  "pushed_at": "2023-03-06T20:35:58Z",
+  "updated_at": "2023-03-07T20:37:05Z",
+  "pushed_at": "2023-03-07T21:46:54Z",
   "git_url": "git://github.com/localstack/localstack.git",
   "ssh_url": "git@github.com:localstack/localstack.git",
   "clone_url": "https://github.com/localstack/localstack.git",
   "svn_url": "https://github.com/localstack/localstack",
   "homepage": "https://localstack.cloud",
-  "size": 39820,
-  "stargazers_count": 46115,
-  "watchers_count": 46115,
+  "size": 40075,
+  "stargazers_count": 46122,
+  "watchers_count": 46122,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 3489,
+  "forks_count": 3491,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "testing"
   ],
   "visibility": "public",
-  "forks": 3489,
+  "forks": 3491,
   "open_issues": 348,
-  "watchers": 46115,
+  "watchers": 46122,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 790
+  "_index": 792
 }

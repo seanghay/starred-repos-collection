@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/connors/photon/releases{/id}",
   "deployments_url": "https://api.github.com/repos/connors/photon/deployments",
   "created_at": "2015-09-28T04:03:26Z",
-  "updated_at": "2023-03-06T11:35:41Z",
+  "updated_at": "2023-03-07T16:20:12Z",
   "pushed_at": "2022-10-23T10:19:31Z",
   "git_url": "git://github.com/connors/photon.git",
   "ssh_url": "git@github.com:connors/photon.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/connors/photon",
   "homepage": "photonkit.com",
   "size": 3152,
-  "stargazers_count": 9912,
-  "watchers_count": 9912,
+  "stargazers_count": 9911,
+  "watchers_count": 9911,
   "language": "CSS",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 588,
   "open_issues": 84,
-  "watchers": 9912,
+  "watchers": 9911,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2381
+  "_index": 2383
 }

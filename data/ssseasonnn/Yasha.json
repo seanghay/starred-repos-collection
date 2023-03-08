@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/ssseasonnn/Yasha",
-  "description": "Kotlin-based modern RecyclerView rendering tools",
+  "description": "A DSL library for rendering RecyclerView and ViewPager.",
   "fork": false,
   "url": "https://api.github.com/repos/ssseasonnn/Yasha",
   "forks_url": "https://api.github.com/repos/ssseasonnn/Yasha/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ssseasonnn/Yasha/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ssseasonnn/Yasha/deployments",
   "created_at": "2018-06-04T07:16:15Z",
-  "updated_at": "2023-03-06T02:09:17Z",
-  "pushed_at": "2023-03-06T08:45:34Z",
+  "updated_at": "2023-03-07T06:18:26Z",
+  "pushed_at": "2023-03-07T03:41:55Z",
   "git_url": "git://github.com/ssseasonnn/Yasha.git",
   "ssh_url": "git@github.com:ssseasonnn/Yasha.git",
   "clone_url": "https://github.com/ssseasonnn/Yasha.git",
   "svn_url": "https://github.com/ssseasonnn/Yasha",
   "homepage": "",
-  "size": 3680,
-  "stargazers_count": 514,
-  "watchers_count": 514,
+  "size": 3687,
+  "stargazers_count": 513,
+  "watchers_count": 513,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -99,13 +99,15 @@
   "web_commit_signoff_required": false,
   "topics": [
     "android",
+    "dsl",
     "kotlin",
-    "recyclerview"
+    "recyclerview",
+    "viewpager"
   ],
   "visibility": "public",
   "forks": 56,
   "open_issues": 5,
-  "watchers": 514,
+  "watchers": 513,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2132
+  "_index": 2134
 }

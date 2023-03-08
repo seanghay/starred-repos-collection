@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mapsme/omim/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mapsme/omim/deployments",
   "created_at": "2015-09-20T02:57:13Z",
-  "updated_at": "2023-03-05T19:51:48Z",
+  "updated_at": "2023-03-07T10:04:47Z",
   "pushed_at": "2022-10-05T00:36:11Z",
   "git_url": "git://github.com/mapsme/omim.git",
   "ssh_url": "git@github.com:mapsme/omim.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mapsme/omim",
   "homepage": "",
   "size": 5148685,
-  "stargazers_count": 4476,
-  "watchers_count": 4476,
+  "stargazers_count": 4475,
+  "watchers_count": 4475,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 1159,
   "open_issues": 994,
-  "watchers": 4476,
+  "watchers": 4475,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 209
+  "_index": 211
 }

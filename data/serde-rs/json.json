@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/serde-rs/json/releases{/id}",
   "deployments_url": "https://api.github.com/repos/serde-rs/json/deployments",
   "created_at": "2015-05-19T16:30:20Z",
-  "updated_at": "2023-03-06T09:48:17Z",
-  "pushed_at": "2023-03-07T00:50:26Z",
+  "updated_at": "2023-03-07T22:33:28Z",
+  "pushed_at": "2023-03-07T17:24:48Z",
   "git_url": "git://github.com/serde-rs/json.git",
   "ssh_url": "git@github.com:serde-rs/json.git",
   "clone_url": "https://github.com/serde-rs/json.git",
   "svn_url": "https://github.com/serde-rs/json",
   "homepage": "",
   "size": 2551,
-  "stargazers_count": 3727,
-  "watchers_count": 3727,
+  "stargazers_count": 3733,
+  "watchers_count": 3733,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 465,
+  "forks_count": 464,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 124,
+  "open_issues_count": 125,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -103,9 +103,9 @@
     "serde"
   ],
   "visibility": "public",
-  "forks": 465,
-  "open_issues": 124,
-  "watchers": 3727,
+  "forks": 464,
+  "open_issues": 125,
+  "watchers": 3733,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 606
+  "_index": 608
 }

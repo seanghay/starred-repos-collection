@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/LeaVerou/parsel/releases{/id}",
   "deployments_url": "https://api.github.com/repos/LeaVerou/parsel/deployments",
   "created_at": "2020-08-29T10:48:46Z",
-  "updated_at": "2023-03-07T00:02:35Z",
-  "pushed_at": "2023-03-06T08:42:44Z",
+  "updated_at": "2023-03-08T01:45:56Z",
+  "pushed_at": "2023-03-08T01:48:51Z",
   "git_url": "git://github.com/LeaVerou/parsel.git",
   "ssh_url": "git@github.com:LeaVerou/parsel.git",
   "clone_url": "https://github.com/LeaVerou/parsel.git",
   "svn_url": "https://github.com/LeaVerou/parsel",
-  "homepage": "https://projects.verou.me/parsel",
-  "size": 89,
-  "stargazers_count": 338,
-  "watchers_count": 338,
+  "homepage": "https://parsel.verou.me/",
+  "size": 71,
+  "stargazers_count": 339,
+  "watchers_count": 339,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 8,
+  "open_issues_count": 7,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,8 +103,8 @@
   ],
   "visibility": "public",
   "forks": 22,
-  "open_issues": 8,
-  "watchers": 338,
+  "open_issues": 7,
+  "watchers": 339,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 244
+  "_index": 246
 }
