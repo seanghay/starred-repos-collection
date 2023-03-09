@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/massivemadness/Squircle-CE/deployments",
   "created_at": "2017-08-17T10:07:48Z",
   "updated_at": "2023-03-07T09:50:25Z",
-  "pushed_at": "2023-03-05T16:40:28Z",
+  "pushed_at": "2023-03-09T00:24:51Z",
   "git_url": "git://github.com/massivemadness/Squircle-CE.git",
   "ssh_url": "git@github.com:massivemadness/Squircle-CE.git",
   "clone_url": "https://github.com/massivemadness/Squircle-CE.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 65,
+  "forks_count": 66,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,7 +107,7 @@
     "text-editor"
   ],
   "visibility": "public",
-  "forks": 65,
+  "forks": 66,
   "open_issues": 47,
   "watchers": 612,
   "default_branch": "master",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1063
+  "_index": 1064
 }

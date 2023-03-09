@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/JetBrains/JetBrainsMono/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JetBrains/JetBrainsMono/deployments",
   "created_at": "2019-03-01T14:23:25Z",
-  "updated_at": "2023-03-07T15:26:55Z",
+  "updated_at": "2023-03-09T02:15:32Z",
   "pushed_at": "2023-03-04T23:31:52Z",
   "git_url": "git://github.com/JetBrains/JetBrainsMono.git",
   "ssh_url": "git@github.com:JetBrains/JetBrainsMono.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/JetBrains/JetBrainsMono",
   "homepage": "https://jetbrains.com/mono",
   "size": 97301,
-  "stargazers_count": 8663,
-  "watchers_count": 8663,
+  "stargazers_count": 8665,
+  "watchers_count": 8665,
   "language": "Shell",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 90,
+  "open_issues_count": 91,
   "license": {
     "key": "ofl-1.1",
     "name": "SIL Open Font License 1.1",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 265,
-  "open_issues": 90,
-  "watchers": 8663,
+  "open_issues": 91,
+  "watchers": 8665,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1727
+  "_index": 1728
 }

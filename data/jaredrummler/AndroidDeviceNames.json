@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jaredrummler/AndroidDeviceNames/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jaredrummler/AndroidDeviceNames/deployments",
   "created_at": "2015-09-28T19:50:36Z",
-  "updated_at": "2023-03-07T06:56:56Z",
+  "updated_at": "2023-03-08T22:24:16Z",
   "pushed_at": "2022-12-06T15:29:43Z",
   "git_url": "git://github.com/jaredrummler/AndroidDeviceNames.git",
   "ssh_url": "git@github.com:jaredrummler/AndroidDeviceNames.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jaredrummler/AndroidDeviceNames",
   "homepage": null,
   "size": 20627,
-  "stargazers_count": 1319,
-  "watchers_count": 1319,
+  "stargazers_count": 1318,
+  "watchers_count": 1318,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 182,
   "open_issues": 23,
-  "watchers": 1319,
+  "watchers": 1318,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2271
+  "_index": 2272
 }

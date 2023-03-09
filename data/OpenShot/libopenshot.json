@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 233,
+  "forks_count": 234,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 35,
+  "open_issues_count": 36,
   "license": {
     "key": "lgpl-3.0",
     "name": "GNU Lesser General Public License v3.0",
@@ -112,8 +112,8 @@
     "videoeditor-sdk"
   ],
   "visibility": "public",
-  "forks": 233,
-  "open_issues": 35,
+  "forks": 234,
+  "open_issues": 36,
   "watchers": 972,
   "default_branch": "develop",
   "permissions": {
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 969
+  "_index": 970
 }

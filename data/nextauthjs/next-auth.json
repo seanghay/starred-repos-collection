@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/nextauthjs/next-auth/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nextauthjs/next-auth/deployments",
   "created_at": "2018-01-27T12:28:16Z",
-  "updated_at": "2023-03-08T01:21:16Z",
-  "pushed_at": "2023-03-07T19:11:08Z",
+  "updated_at": "2023-03-09T00:40:23Z",
+  "pushed_at": "2023-03-08T18:17:22Z",
   "git_url": "git://github.com/nextauthjs/next-auth.git",
   "ssh_url": "git@github.com:nextauthjs/next-auth.git",
   "clone_url": "https://github.com/nextauthjs/next-auth.git",
   "svn_url": "https://github.com/nextauthjs/next-auth",
   "homepage": "https://authjs.dev",
-  "size": 30158,
-  "stargazers_count": 15100,
-  "watchers_count": 15100,
+  "size": 30210,
+  "stargazers_count": 15120,
+  "watchers_count": 15120,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1812,
+  "forks_count": 1814,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 204,
+  "open_issues_count": 205,
   "license": {
     "key": "isc",
     "name": "ISC License",
@@ -118,9 +118,9 @@
     "web"
   ],
   "visibility": "public",
-  "forks": 1812,
-  "open_issues": 204,
-  "watchers": 15100,
+  "forks": 1814,
+  "open_issues": 205,
+  "watchers": 15120,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 498
+  "_index": 499
 }

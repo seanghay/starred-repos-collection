@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/unjs/pathe/deployments",
   "created_at": "2021-09-22T18:20:03Z",
   "updated_at": "2023-03-05T07:37:48Z",
-  "pushed_at": "2023-03-04T06:04:13Z",
+  "pushed_at": "2023-03-09T01:39:32Z",
   "git_url": "git://github.com/unjs/pathe.git",
   "ssh_url": "git@github.com:unjs/pathe.git",
   "clone_url": "https://github.com/unjs/pathe.git",
   "svn_url": "https://github.com/unjs/pathe",
   "homepage": "",
-  "size": 484,
+  "size": 541,
   "stargazers_count": 227,
   "watchers_count": 227,
   "language": "TypeScript",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 877
+  "_index": 878
 }
