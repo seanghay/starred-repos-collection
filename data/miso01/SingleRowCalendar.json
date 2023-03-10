@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/miso01/SingleRowCalendar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/miso01/SingleRowCalendar/deployments",
   "created_at": "2019-09-28T19:55:20Z",
-  "updated_at": "2023-02-26T23:27:12Z",
+  "updated_at": "2023-03-09T19:22:09Z",
   "pushed_at": "2022-06-17T14:48:41Z",
   "git_url": "git://github.com/miso01/SingleRowCalendar.git",
   "ssh_url": "git@github.com:miso01/SingleRowCalendar.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/miso01/SingleRowCalendar",
   "homepage": "",
   "size": 7428,
-  "stargazers_count": 296,
-  "watchers_count": 296,
+  "stargazers_count": 297,
+  "watchers_count": 297,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 49,
+  "forks_count": 48,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 49,
+  "forks": 48,
   "open_issues": 24,
-  "watchers": 296,
+  "watchers": 297,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1372
+  "_index": 1378
 }

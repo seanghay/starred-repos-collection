@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/kean/Nuke/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kean/Nuke/deployments",
   "created_at": "2015-03-11T10:53:26Z",
-  "updated_at": "2023-03-09T02:03:04Z",
-  "pushed_at": "2023-03-04T19:21:59Z",
+  "updated_at": "2023-03-09T12:55:09Z",
+  "pushed_at": "2023-03-09T20:34:54Z",
   "git_url": "git://github.com/kean/Nuke.git",
   "ssh_url": "git@github.com:kean/Nuke.git",
   "clone_url": "https://github.com/kean/Nuke.git",
   "svn_url": "https://github.com/kean/Nuke",
   "homepage": "https://kean.blog/nuke",
-  "size": 11834,
-  "stargazers_count": 7223,
-  "watchers_count": 7223,
+  "size": 11839,
+  "stargazers_count": 7226,
+  "watchers_count": 7226,
   "language": "Swift",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 465,
+  "forks_count": 466,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 0,
+  "open_issues_count": 1,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,9 +106,9 @@
     "webp"
   ],
   "visibility": "public",
-  "forks": 465,
-  "open_issues": 0,
-  "watchers": 7223,
+  "forks": 466,
+  "open_issues": 1,
+  "watchers": 7226,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1459
+  "_index": 1465
 }

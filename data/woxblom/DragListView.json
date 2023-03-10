@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/woxblom/DragListView/deployments",
   "created_at": "2015-01-27T14:47:52Z",
   "updated_at": "2023-01-25T22:16:10Z",
-  "pushed_at": "2020-07-17T11:18:55Z",
+  "pushed_at": "2023-03-09T17:40:00Z",
   "git_url": "git://github.com/woxblom/DragListView.git",
   "ssh_url": "git@github.com:woxblom/DragListView.git",
   "clone_url": "https://github.com/woxblom/DragListView.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1,
+  "open_issues_count": 2,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 176,
-  "open_issues": 1,
+  "open_issues": 2,
   "watchers": 661,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2012
+  "_index": 2018
 }

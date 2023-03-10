@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/pop-os/cosmic-text/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pop-os/cosmic-text/deployments",
   "created_at": "2022-10-18T18:07:53Z",
-  "updated_at": "2023-03-08T13:17:30Z",
-  "pushed_at": "2023-03-06T21:46:53Z",
+  "updated_at": "2023-03-10T01:54:28Z",
+  "pushed_at": "2023-03-09T04:04:28Z",
   "git_url": "git://github.com/pop-os/cosmic-text.git",
   "ssh_url": "git@github.com:pop-os/cosmic-text.git",
   "clone_url": "https://github.com/pop-os/cosmic-text.git",
   "svn_url": "https://github.com/pop-os/cosmic-text",
   "homepage": "https://pop-os.github.io/cosmic-text/cosmic_text/",
-  "size": 31163,
-  "stargazers_count": 929,
-  "watchers_count": 929,
+  "size": 31177,
+  "stargazers_count": 936,
+  "watchers_count": 936,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 25,
   "open_issues": 35,
-  "watchers": 929,
+  "watchers": 936,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 160
+  "_index": 166
 }

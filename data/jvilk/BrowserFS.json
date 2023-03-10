@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/jvilk/BrowserFS/deployments",
   "created_at": "2013-04-18T17:32:50Z",
   "updated_at": "2023-03-07T14:10:57Z",
-  "pushed_at": "2023-03-03T19:45:21Z",
+  "pushed_at": "2023-03-09T02:36:56Z",
   "git_url": "git://github.com/jvilk/BrowserFS.git",
   "ssh_url": "git@github.com:jvilk/BrowserFS.git",
   "clone_url": "https://github.com/jvilk/BrowserFS.git",
   "svn_url": "https://github.com/jvilk/BrowserFS",
   "homepage": null,
-  "size": 8354,
+  "size": 8375,
   "stargazers_count": 2835,
   "watchers_count": 2835,
   "language": "JavaScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 89,
+  "open_issues_count": 66,
   "license": {
     "key": "other",
     "name": "Other",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 225,
-  "open_issues": 89,
+  "open_issues": 66,
   "watchers": 2835,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1016
+  "_index": 1022
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/graphql-nexus/nexus/releases{/id}",
   "deployments_url": "https://api.github.com/repos/graphql-nexus/nexus/deployments",
   "created_at": "2018-11-02T21:11:33Z",
-  "updated_at": "2023-03-08T21:44:58Z",
+  "updated_at": "2023-03-10T02:06:47Z",
   "pushed_at": "2023-02-02T16:49:00Z",
   "git_url": "git://github.com/graphql-nexus/nexus.git",
   "ssh_url": "git@github.com:graphql-nexus/nexus.git",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 695
+  "_index": 701
 }

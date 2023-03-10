@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nicklockwood/LRUCache/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nicklockwood/LRUCache/deployments",
   "created_at": "2021-08-05T23:25:40Z",
-  "updated_at": "2023-03-07T03:03:04Z",
+  "updated_at": "2023-03-09T04:15:24Z",
   "pushed_at": "2022-09-16T17:44:37Z",
   "git_url": "git://github.com/nicklockwood/LRUCache.git",
   "ssh_url": "git@github.com:nicklockwood/LRUCache.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nicklockwood/LRUCache",
   "homepage": "",
   "size": 30,
-  "stargazers_count": 293,
-  "watchers_count": 293,
+  "stargazers_count": 294,
+  "watchers_count": 294,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 17,
   "open_issues": 1,
-  "watchers": 293,
+  "watchers": 294,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 926
+  "_index": 932
 }

@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/naver/egjs-grid/deployments",
   "created_at": "2021-03-25T04:49:29Z",
   "updated_at": "2023-03-05T16:03:59Z",
-  "pushed_at": "2023-02-16T06:56:01Z",
+  "pushed_at": "2023-03-09T21:16:53Z",
   "git_url": "git://github.com/naver/egjs-grid.git",
   "ssh_url": "git@github.com:naver/egjs-grid.git",
   "clone_url": "https://github.com/naver/egjs-grid.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 13,
+  "forks_count": 14,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 8,
+  "open_issues_count": 10,
   "license": {
     "key": "other",
     "name": "Other",
@@ -111,8 +111,8 @@
     "vue"
   ],
   "visibility": "public",
-  "forks": 13,
-  "open_issues": 8,
+  "forks": 14,
+  "open_issues": 10,
   "watchers": 194,
   "default_branch": "main",
   "permissions": {
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 714
+  "_index": 720
 }

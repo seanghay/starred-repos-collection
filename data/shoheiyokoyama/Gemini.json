@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/shoheiyokoyama/Gemini/releases{/id}",
   "deployments_url": "https://api.github.com/repos/shoheiyokoyama/Gemini/deployments",
   "created_at": "2017-06-10T08:00:56Z",
-  "updated_at": "2023-03-07T10:23:04Z",
+  "updated_at": "2023-03-09T04:00:19Z",
   "pushed_at": "2022-07-22T03:27:45Z",
   "git_url": "git://github.com/shoheiyokoyama/Gemini.git",
   "ssh_url": "git@github.com:shoheiyokoyama/Gemini.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/shoheiyokoyama/Gemini",
   "homepage": "https://www.youtube.com/watch?v=bPtq5E6lKzw&utm_content=bufferfa3fd&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
   "size": 3707,
-  "stargazers_count": 3067,
-  "watchers_count": 3067,
+  "stargazers_count": 3068,
+  "watchers_count": 3068,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 177,
+  "forks_count": 176,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,9 +110,9 @@
     "uicollectionview"
   ],
   "visibility": "public",
-  "forks": 177,
+  "forks": 176,
   "open_issues": 17,
-  "watchers": 3067,
+  "watchers": 3068,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2232
+  "_index": 2238
 }

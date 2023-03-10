@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/github/branch-deploy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/github/branch-deploy/deployments",
   "created_at": "2022-04-28T13:51:25Z",
-  "updated_at": "2023-03-08T11:14:26Z",
-  "pushed_at": "2023-03-07T17:42:25Z",
+  "updated_at": "2023-03-09T08:02:33Z",
+  "pushed_at": "2023-03-10T00:21:53Z",
   "git_url": "git://github.com/github/branch-deploy.git",
   "ssh_url": "git@github.com:github/branch-deploy.git",
   "clone_url": "https://github.com/github/branch-deploy.git",
   "svn_url": "https://github.com/github/branch-deploy",
   "homepage": "https://github.com/marketplace/actions/branch-deploy",
-  "size": 2978,
-  "stargazers_count": 148,
-  "watchers_count": 148,
+  "size": 3458,
+  "stargazers_count": 149,
+  "watchers_count": 149,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 26,
+  "forks_count": 27,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 5,
+  "open_issues_count": 7,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,9 +106,9 @@
     "issueops"
   ],
   "visibility": "public",
-  "forks": 26,
-  "open_issues": 5,
-  "watchers": 148,
+  "forks": 27,
+  "open_issues": 7,
+  "watchers": 149,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 86
+  "_index": 92
 }

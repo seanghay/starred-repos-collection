@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 869,
+  "forks_count": 870,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,7 +108,7 @@
     "p5xjs"
   ],
   "visibility": "public",
-  "forks": 869,
+  "forks": 870,
   "open_issues": 296,
   "watchers": 5964,
   "default_branch": "main",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2393
+  "_index": 2399
 }

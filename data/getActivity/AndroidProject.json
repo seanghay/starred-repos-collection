@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1197,
+  "forks_count": 1196,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -119,7 +119,7 @@
     "toast"
   ],
   "visibility": "public",
-  "forks": 1197,
+  "forks": 1196,
   "open_issues": 3,
   "watchers": 5504,
   "default_branch": "master",
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1916
+  "_index": 1922
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jobtoday/react-native-image-viewing/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jobtoday/react-native-image-viewing/deployments",
   "created_at": "2019-11-07T20:44:32Z",
-  "updated_at": "2023-03-07T23:09:15Z",
+  "updated_at": "2023-03-09T21:59:58Z",
   "pushed_at": "2023-02-09T08:51:48Z",
   "git_url": "git://github.com/jobtoday/react-native-image-viewing.git",
   "ssh_url": "git@github.com:jobtoday/react-native-image-viewing.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jobtoday/react-native-image-viewing",
   "homepage": "https://exp.host/@antonkalinin/react-native-image-viewing",
   "size": 22318,
-  "stargazers_count": 687,
-  "watchers_count": 687,
+  "stargazers_count": 688,
+  "watchers_count": 688,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 205,
   "open_issues": 93,
-  "watchers": 687,
+  "watchers": 688,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 664
+  "_index": 670
 }
