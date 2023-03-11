@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/papercss/papercss/releases{/id}",
   "deployments_url": "https://api.github.com/repos/papercss/papercss/deployments",
   "created_at": "2017-08-23T20:15:22Z",
-  "updated_at": "2023-03-03T09:40:28Z",
+  "updated_at": "2023-03-10T17:25:42Z",
   "pushed_at": "2023-03-04T02:27:34Z",
   "git_url": "git://github.com/papercss/papercss.git",
   "ssh_url": "git@github.com:papercss/papercss.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/papercss/papercss",
   "homepage": "https://getpapercss.com",
   "size": 4725,
-  "stargazers_count": 3834,
-  "watchers_count": 3834,
+  "stargazers_count": 3835,
+  "watchers_count": 3835,
   "language": "SCSS",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 212,
   "open_issues": 36,
-  "watchers": 3834,
+  "watchers": 3835,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2535
+  "_index": 2538
 }

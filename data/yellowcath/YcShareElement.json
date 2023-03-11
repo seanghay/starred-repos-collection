@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yellowcath/YcShareElement/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yellowcath/YcShareElement/deployments",
   "created_at": "2018-10-12T02:45:09Z",
-  "updated_at": "2023-03-07T09:00:52Z",
+  "updated_at": "2023-03-10T06:41:43Z",
   "pushed_at": "2020-11-22T06:12:52Z",
   "git_url": "git://github.com/yellowcath/YcShareElement.git",
   "ssh_url": "git@github.com:yellowcath/YcShareElement.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yellowcath/YcShareElement",
   "homepage": null,
   "size": 27375,
-  "stargazers_count": 528,
-  "watchers_count": 528,
+  "stargazers_count": 529,
+  "watchers_count": 529,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 69,
   "open_issues": 7,
-  "watchers": 528,
+  "watchers": 529,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1823
+  "_index": 1826
 }

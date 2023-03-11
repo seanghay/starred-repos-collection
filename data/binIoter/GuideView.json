@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/binIoter/GuideView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/binIoter/GuideView/deployments",
   "created_at": "2016-06-19T08:52:25Z",
-  "updated_at": "2023-03-09T09:31:17Z",
+  "updated_at": "2023-03-10T05:17:40Z",
   "pushed_at": "2022-04-19T13:38:20Z",
   "git_url": "git://github.com/binIoter/GuideView.git",
   "ssh_url": "git@github.com:binIoter/GuideView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/binIoter/GuideView",
   "homepage": "",
   "size": 7068,
-  "stargazers_count": 3786,
-  "watchers_count": 3786,
+  "stargazers_count": 3785,
+  "watchers_count": 3785,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 649,
   "open_issues": 27,
-  "watchers": 3786,
+  "watchers": 3785,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1586
+  "_index": 1589
 }

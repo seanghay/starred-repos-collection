@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/arrow-kt/arrow/deployments",
   "created_at": "2017-03-24T10:43:11Z",
   "updated_at": "2023-03-09T19:51:17Z",
-  "pushed_at": "2023-03-09T19:10:40Z",
+  "pushed_at": "2023-03-10T23:04:06Z",
   "git_url": "git://github.com/arrow-kt/arrow.git",
   "ssh_url": "git@github.com:arrow-kt/arrow.git",
   "clone_url": "https://github.com/arrow-kt/arrow.git",
   "svn_url": "https://github.com/arrow-kt/arrow",
   "homepage": "http://arrow-kt.io",
-  "size": 30380,
+  "size": 32020,
   "stargazers_count": 5531,
   "watchers_count": 5531,
   "language": "Kotlin",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 65,
+  "open_issues_count": 63,
   "license": {
     "key": "other",
     "name": "Other",
@@ -118,7 +118,7 @@
   ],
   "visibility": "public",
   "forks": 402,
-  "open_issues": 65,
+  "open_issues": 63,
   "watchers": 5531,
   "default_branch": "main",
   "permissions": {
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2272
+  "_index": 2275
 }

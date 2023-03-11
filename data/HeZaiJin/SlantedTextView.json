@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/HeZaiJin/SlantedTextView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/HeZaiJin/SlantedTextView/deployments",
   "created_at": "2016-06-30T01:41:30Z",
-  "updated_at": "2023-03-06T15:32:04Z",
+  "updated_at": "2023-03-10T08:43:55Z",
   "pushed_at": "2023-02-19T02:51:35Z",
   "git_url": "git://github.com/HeZaiJin/SlantedTextView.git",
   "ssh_url": "git@github.com:HeZaiJin/SlantedTextView.git",
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1576
+  "_index": 1579
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/probot/smee.io/releases{/id}",
   "deployments_url": "https://api.github.com/repos/probot/smee.io/deployments",
   "created_at": "2019-03-31T17:14:03Z",
-  "updated_at": "2023-03-08T03:33:49Z",
+  "updated_at": "2023-03-10T23:10:03Z",
   "pushed_at": "2023-03-04T03:31:41Z",
   "git_url": "git://github.com/probot/smee.io.git",
   "ssh_url": "git@github.com:probot/smee.io.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/probot/smee.io",
   "homepage": "https://smee.io",
   "size": 1192,
-  "stargazers_count": 225,
-  "watchers_count": 225,
+  "stargazers_count": 226,
+  "watchers_count": 226,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 61,
   "open_issues": 53,
-  "watchers": 225,
+  "watchers": 226,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 390
+  "_index": 393
 }

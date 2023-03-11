@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/shichaohui/PageRecyelerViewDemo/releases{/id}",
   "deployments_url": "https://api.github.com/repos/shichaohui/PageRecyelerViewDemo/deployments",
   "created_at": "2015-08-05T02:15:05Z",
-  "updated_at": "2023-03-04T12:31:49Z",
+  "updated_at": "2023-03-10T08:18:42Z",
   "pushed_at": "2019-07-03T03:31:28Z",
   "git_url": "git://github.com/shichaohui/PageRecyelerViewDemo.git",
   "ssh_url": "git@github.com:shichaohui/PageRecyelerViewDemo.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/shichaohui/PageRecyelerViewDemo",
   "homepage": "http://blog.csdn.net/u014165119/article/details/46834265",
   "size": 33,
-  "stargazers_count": 280,
-  "watchers_count": 280,
+  "stargazers_count": 281,
+  "watchers_count": 281,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 64,
+  "forks_count": 65,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -93,9 +93,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 64,
+  "forks": 65,
   "open_issues": 5,
-  "watchers": 280,
+  "watchers": 281,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1496
+  "_index": 1499
 }
