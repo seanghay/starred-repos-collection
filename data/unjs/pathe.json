@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/unjs/pathe.git",
   "svn_url": "https://github.com/unjs/pathe",
   "homepage": "",
-  "size": 541,
+  "size": 602,
   "stargazers_count": 227,
   "watchers_count": 227,
   "language": "TypeScript",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 887
+  "_index": 894
 }

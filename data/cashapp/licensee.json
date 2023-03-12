@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/cashapp/licensee.git",
   "svn_url": "https://github.com/cashapp/licensee",
   "homepage": "https://cashapp.github.io/licensee/docs/1.x/",
-  "size": 1350,
+  "size": 1363,
   "stargazers_count": 516,
   "watchers_count": 516,
   "language": "Kotlin",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1055
+  "_index": 1062
 }

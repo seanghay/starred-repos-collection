@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Blankj/AndroidUtilCode/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Blankj/AndroidUtilCode/deployments",
   "created_at": "2016-07-30T18:18:32Z",
-  "updated_at": "2023-03-10T11:45:25Z",
+  "updated_at": "2023-03-11T13:13:18Z",
   "pushed_at": "2023-01-16T07:09:58Z",
   "git_url": "git://github.com/Blankj/AndroidUtilCode.git",
   "ssh_url": "git@github.com:Blankj/AndroidUtilCode.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Blankj/AndroidUtilCode",
   "homepage": "https://blankj.com/2016/07/31/android-utils-code/",
   "size": 47327,
-  "stargazers_count": 31928,
-  "watchers_count": 31928,
+  "stargazers_count": 31930,
+  "watchers_count": 31930,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 10555,
+  "forks_count": 10553,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -120,9 +120,9 @@
     "utils"
   ],
   "visibility": "public",
-  "forks": 10555,
+  "forks": 10553,
   "open_issues": 251,
-  "watchers": 31928,
+  "watchers": 31930,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1949
+  "_index": 1956
 }

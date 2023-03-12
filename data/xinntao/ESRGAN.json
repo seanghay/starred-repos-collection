@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/xinntao/ESRGAN/releases{/id}",
   "deployments_url": "https://api.github.com/repos/xinntao/ESRGAN/deployments",
   "created_at": "2018-08-31T08:18:41Z",
-  "updated_at": "2023-03-10T14:55:27Z",
+  "updated_at": "2023-03-11T23:11:15Z",
   "pushed_at": "2022-10-19T02:33:55Z",
   "git_url": "git://github.com/xinntao/ESRGAN.git",
   "ssh_url": "git@github.com:xinntao/ESRGAN.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 918,
+  "forks_count": 919,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -101,7 +101,7 @@
     "esrgan"
   ],
   "visibility": "public",
-  "forks": 918,
+  "forks": 919,
   "open_issues": 91,
   "watchers": 4893,
   "default_branch": "master",
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 69
+  "_index": 76
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Flagsmith/flagsmith/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Flagsmith/flagsmith/deployments",
   "created_at": "2018-06-05T10:49:57Z",
-  "updated_at": "2023-03-10T18:26:16Z",
-  "pushed_at": "2023-03-10T23:24:55Z",
+  "updated_at": "2023-03-11T17:14:32Z",
+  "pushed_at": "2023-03-11T09:40:27Z",
   "git_url": "git://github.com/Flagsmith/flagsmith.git",
   "ssh_url": "git@github.com:Flagsmith/flagsmith.git",
   "clone_url": "https://github.com/Flagsmith/flagsmith.git",
   "svn_url": "https://github.com/Flagsmith/flagsmith",
   "homepage": "https://flagsmith.com/",
-  "size": 25194,
-  "stargazers_count": 2232,
-  "watchers_count": 2232,
+  "size": 25199,
+  "stargazers_count": 2234,
+  "watchers_count": 2234,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 148,
+  "open_issues_count": 147,
   "license": {
     "key": "other",
     "name": "Other",
@@ -118,8 +118,8 @@
   ],
   "visibility": "public",
   "forks": 158,
-  "open_issues": 148,
-  "watchers": 2232,
+  "open_issues": 147,
+  "watchers": 2234,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 585
+  "_index": 592
 }

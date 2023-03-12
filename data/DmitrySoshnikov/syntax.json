@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/DmitrySoshnikov/syntax/deployments",
   "created_at": "2015-11-27T05:30:04Z",
   "updated_at": "2023-03-08T22:09:07Z",
-  "pushed_at": "2023-03-01T11:41:40Z",
+  "pushed_at": "2023-03-11T21:16:02Z",
   "git_url": "git://github.com/DmitrySoshnikov/syntax.git",
   "ssh_url": "git@github.com:DmitrySoshnikov/syntax.git",
   "clone_url": "https://github.com/DmitrySoshnikov/syntax.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 43,
+  "open_issues_count": 44,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 69,
-  "open_issues": 43,
+  "open_issues": 44,
   "watchers": 486,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1061
+  "_index": 1068
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/square/papa/deployments",
   "created_at": "2021-09-17T21:54:28Z",
   "updated_at": "2023-03-04T13:20:20Z",
-  "pushed_at": "2023-03-11T00:41:28Z",
+  "pushed_at": "2023-03-11T22:12:19Z",
   "git_url": "git://github.com/square/papa.git",
   "ssh_url": "git@github.com:square/papa.git",
   "clone_url": "https://github.com/square/papa.git",
   "svn_url": "https://github.com/square/papa",
   "homepage": "",
-  "size": 487,
+  "size": 498,
   "stargazers_count": 251,
   "watchers_count": 251,
   "language": "Kotlin",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 12,
+  "open_issues_count": 7,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 12,
-  "open_issues": 12,
+  "open_issues": 7,
   "watchers": 251,
   "default_branch": "main",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 871
+  "_index": 878
 }

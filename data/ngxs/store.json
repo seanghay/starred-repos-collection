@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/ngxs/store.git",
   "svn_url": "https://github.com/ngxs/store",
   "homepage": "http://ngxs.io",
-  "size": 17175,
+  "size": 17176,
   "stargazers_count": 3354,
   "watchers_count": 3354,
   "language": "TypeScript",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2475
+  "_index": 2482
 }

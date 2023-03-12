@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bootandy/dust/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bootandy/dust/deployments",
   "created_at": "2018-03-16T19:49:52Z",
-  "updated_at": "2023-03-10T21:55:16Z",
+  "updated_at": "2023-03-11T21:36:31Z",
   "pushed_at": "2023-03-06T21:43:15Z",
   "git_url": "git://github.com/bootandy/dust.git",
   "ssh_url": "git@github.com:bootandy/dust.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/bootandy/dust",
   "homepage": "",
   "size": 598,
-  "stargazers_count": 5916,
-  "watchers_count": 5916,
+  "stargazers_count": 5922,
+  "watchers_count": 5922,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 136,
   "open_issues": 8,
-  "watchers": 5916,
+  "watchers": 5922,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 620
+  "_index": 627
 }

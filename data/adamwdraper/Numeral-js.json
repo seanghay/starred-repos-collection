@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/adamwdraper/Numeral-js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/adamwdraper/Numeral-js/deployments",
   "created_at": "2012-10-01T20:50:23Z",
-  "updated_at": "2023-03-10T21:04:21Z",
+  "updated_at": "2023-03-11T23:08:08Z",
   "pushed_at": "2023-01-09T07:06:12Z",
   "git_url": "git://github.com/adamwdraper/Numeral-js.git",
   "ssh_url": "git@github.com:adamwdraper/Numeral-js.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 772
+  "_index": 779
 }

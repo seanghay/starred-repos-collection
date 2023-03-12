@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ng-book/angular2-rxjs-chat/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ng-book/angular2-rxjs-chat/deployments",
   "created_at": "2015-09-09T18:03:49Z",
-  "updated_at": "2023-03-06T05:50:10Z",
+  "updated_at": "2023-03-12T00:38:34Z",
   "pushed_at": "2020-12-05T13:57:13Z",
   "git_url": "git://github.com/ng-book/angular2-rxjs-chat.git",
   "ssh_url": "git@github.com:ng-book/angular2-rxjs-chat.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ng-book/angular2-rxjs-chat",
   "homepage": null,
   "size": 2639,
-  "stargazers_count": 1667,
-  "watchers_count": 1667,
+  "stargazers_count": 1668,
+  "watchers_count": 1668,
   "language": "CSS",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 526,
   "open_issues": 36,
-  "watchers": 1667,
+  "watchers": 1668,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2495
+  "_index": 2502
 }

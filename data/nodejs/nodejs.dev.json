@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/nodejs/nodejs.dev/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nodejs/nodejs.dev/deployments",
   "created_at": "2019-01-29T17:59:15Z",
-  "updated_at": "2023-03-10T14:53:18Z",
-  "pushed_at": "2023-03-11T01:53:11Z",
+  "updated_at": "2023-03-11T15:20:56Z",
+  "pushed_at": "2023-03-11T13:02:26Z",
   "git_url": "git://github.com/nodejs/nodejs.dev.git",
   "ssh_url": "git@github.com:nodejs/nodejs.dev.git",
   "clone_url": "https://github.com/nodejs/nodejs.dev.git",
   "svn_url": "https://github.com/nodejs/nodejs.dev",
   "homepage": "https://nodejs.dev",
-  "size": 109805,
-  "stargazers_count": 2245,
-  "watchers_count": 2245,
+  "size": 109838,
+  "stargazers_count": 2247,
+  "watchers_count": 2247,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 1017,
+  "forks_count": 1018,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 21,
+  "open_issues_count": 19,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,9 +108,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 1017,
-  "open_issues": 21,
-  "watchers": 2245,
+  "forks": 1018,
+  "open_issues": 19,
+  "watchers": 2247,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1197
+  "_index": 1204
 }

@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/gradle/gradle/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gradle/gradle/deployments",
   "created_at": "2009-09-09T18:27:19Z",
-  "updated_at": "2023-03-11T01:53:56Z",
-  "pushed_at": "2023-03-11T02:03:34Z",
+  "updated_at": "2023-03-11T16:05:44Z",
+  "pushed_at": "2023-03-12T02:03:29Z",
   "git_url": "git://github.com/gradle/gradle.git",
   "ssh_url": "git@github.com:gradle/gradle.git",
   "clone_url": "https://github.com/gradle/gradle.git",
   "svn_url": "https://github.com/gradle/gradle",
   "homepage": "https://gradle.org",
-  "size": 474365,
+  "size": 474381,
   "stargazers_count": 14449,
   "watchers_count": 14449,
   "language": "Groovy",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 4115,
+  "forks_count": 4116,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "hacktoberfest"
   ],
   "visibility": "public",
-  "forks": 4115,
+  "forks": 4116,
   "open_issues": 2232,
   "watchers": 14449,
   "default_branch": "master",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1942
+  "_index": 1949
 }

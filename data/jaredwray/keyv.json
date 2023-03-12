@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/jaredwray/keyv/deployments",
   "created_at": "2017-07-07T13:24:15Z",
   "updated_at": "2023-03-10T09:20:52Z",
-  "pushed_at": "2023-03-10T20:32:20Z",
+  "pushed_at": "2023-03-11T22:46:44Z",
   "git_url": "git://github.com/jaredwray/keyv.git",
   "ssh_url": "git@github.com:jaredwray/keyv.git",
   "clone_url": "https://github.com/jaredwray/keyv.git",
   "svn_url": "https://github.com/jaredwray/keyv",
   "homepage": "https://keyv.org",
-  "size": 1211,
+  "size": 1207,
   "stargazers_count": 2084,
   "watchers_count": 2084,
   "language": "JavaScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 8,
+  "open_issues_count": 7,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,7 +112,7 @@
   ],
   "visibility": "public",
   "forks": 121,
-  "open_issues": 8,
+  "open_issues": 7,
   "watchers": 2084,
   "default_branch": "main",
   "permissions": {
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 726
+  "_index": 733
 }
