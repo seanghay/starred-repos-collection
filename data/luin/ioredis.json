@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/luin/ioredis/releases{/id}",
   "deployments_url": "https://api.github.com/repos/luin/ioredis/deployments",
   "created_at": "2015-04-02T06:42:46Z",
-  "updated_at": "2023-03-11T19:08:24Z",
+  "updated_at": "2023-03-12T14:52:50Z",
   "pushed_at": "2023-03-06T16:29:22Z",
   "git_url": "git://github.com/luin/ioredis.git",
   "ssh_url": "git@github.com:luin/ioredis.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/luin/ioredis",
   "homepage": "",
   "size": 5528,
-  "stargazers_count": 11764,
-  "watchers_count": 11764,
+  "stargazers_count": 11766,
+  "watchers_count": 11766,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 1051,
   "open_issues": 209,
-  "watchers": 11764,
+  "watchers": 11766,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 683
+  "_index": 684
 }

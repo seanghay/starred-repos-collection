@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/AykutSarac/jsoncrack.com",
-  "description": "🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!",
+  "description": "⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.",
   "fork": false,
   "url": "https://api.github.com/repos/AykutSarac/jsoncrack.com",
   "forks_url": "https://api.github.com/repos/AykutSarac/jsoncrack.com/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/AykutSarac/jsoncrack.com/releases{/id}",
   "deployments_url": "https://api.github.com/repos/AykutSarac/jsoncrack.com/deployments",
   "created_at": "2022-01-30T15:25:18Z",
-  "updated_at": "2023-03-11T21:04:17Z",
-  "pushed_at": "2023-03-11T16:57:12Z",
+  "updated_at": "2023-03-13T01:57:10Z",
+  "pushed_at": "2023-03-12T11:48:34Z",
   "git_url": "git://github.com/AykutSarac/jsoncrack.com.git",
   "ssh_url": "git@github.com:AykutSarac/jsoncrack.com.git",
   "clone_url": "https://github.com/AykutSarac/jsoncrack.com.git",
   "svn_url": "https://github.com/AykutSarac/jsoncrack.com",
-  "homepage": "https://jsoncrack.com",
-  "size": 24231,
-  "stargazers_count": 22124,
-  "watchers_count": 22124,
+  "homepage": "https://jsoncrack.com/",
+  "size": 24232,
+  "stargazers_count": 22130,
+  "watchers_count": 22130,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 1138,
+  "forks_count": 1139,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "visualization"
   ],
   "visibility": "public",
-  "forks": 1138,
+  "forks": 1139,
   "open_issues": 42,
-  "watchers": 22124,
+  "watchers": 22130,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 545
+  "_index": 546
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/apple/swift-markdown/releases{/id}",
   "deployments_url": "https://api.github.com/repos/apple/swift-markdown/deployments",
   "created_at": "2021-07-19T16:42:24Z",
-  "updated_at": "2023-03-11T21:03:18Z",
+  "updated_at": "2023-03-13T01:52:07Z",
   "pushed_at": "2023-03-11T11:01:53Z",
   "git_url": "git://github.com/apple/swift-markdown.git",
   "ssh_url": "git@github.com:apple/swift-markdown.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/apple/swift-markdown",
   "homepage": "https://apple.github.io/swift-markdown/documentation/markdown",
   "size": 1078,
-  "stargazers_count": 2087,
-  "watchers_count": 2087,
+  "stargazers_count": 2089,
+  "watchers_count": 2089,
   "language": "Swift",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 29,
+  "open_issues_count": 28,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 120,
-  "open_issues": 29,
-  "watchers": 2087,
+  "open_issues": 28,
+  "watchers": 2089,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 791
+  "_index": 792
 }

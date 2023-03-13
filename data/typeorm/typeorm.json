@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/typeorm/typeorm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/typeorm/typeorm/deployments",
   "created_at": "2016-02-29T07:41:14Z",
-  "updated_at": "2023-03-11T20:01:28Z",
-  "pushed_at": "2023-03-11T21:16:36Z",
+  "updated_at": "2023-03-12T23:51:37Z",
+  "pushed_at": "2023-03-12T03:25:09Z",
   "git_url": "git://github.com/typeorm/typeorm.git",
   "ssh_url": "git@github.com:typeorm/typeorm.git",
   "clone_url": "https://github.com/typeorm/typeorm.git",
   "svn_url": "https://github.com/typeorm/typeorm",
   "homepage": "http://typeorm.io",
   "size": 25769,
-  "stargazers_count": 30726,
-  "watchers_count": 30726,
+  "stargazers_count": 30730,
+  "watchers_count": 30730,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 5696,
+  "forks_count": 5697,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -120,9 +120,9 @@
     "websql"
   ],
   "visibility": "public",
-  "forks": 5696,
+  "forks": 5697,
   "open_issues": 1887,
-  "watchers": 30726,
+  "watchers": 30730,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1226
+  "_index": 1227
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Kong/httpsnippet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Kong/httpsnippet/deployments",
   "created_at": "2015-02-04T23:44:13Z",
-  "updated_at": "2023-03-09T08:41:58Z",
+  "updated_at": "2023-03-12T22:01:14Z",
   "pushed_at": "2023-02-23T08:31:54Z",
   "git_url": "git://github.com/Kong/httpsnippet.git",
   "ssh_url": "git@github.com:Kong/httpsnippet.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Kong/httpsnippet",
   "homepage": "",
   "size": 1162,
-  "stargazers_count": 979,
-  "watchers_count": 979,
+  "stargazers_count": 981,
+  "watchers_count": 981,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -103,7 +103,7 @@
   "visibility": "public",
   "forks": 206,
   "open_issues": 26,
-  "watchers": 979,
+  "watchers": 981,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1541
+  "_index": 1542
 }
