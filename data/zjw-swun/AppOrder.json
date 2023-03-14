@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/zjw-swun/AppOrder/releases{/id}",
   "deployments_url": "https://api.github.com/repos/zjw-swun/AppOrder/deployments",
   "created_at": "2018-04-04T18:35:13Z",
-  "updated_at": "2022-11-21T08:09:25Z",
+  "updated_at": "2023-03-13T07:26:01Z",
   "pushed_at": "2019-12-01T18:59:05Z",
   "git_url": "git://github.com/zjw-swun/AppOrder.git",
   "ssh_url": "git@github.com:zjw-swun/AppOrder.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/zjw-swun/AppOrder",
   "homepage": "",
   "size": 1886,
-  "stargazers_count": 244,
-  "watchers_count": 244,
+  "stargazers_count": 243,
+  "watchers_count": 243,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -99,7 +99,7 @@
   "visibility": "public",
   "forks": 36,
   "open_issues": 2,
-  "watchers": 244,
+  "watchers": 243,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -108,5 +108,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1851
+  "_index": 1853
 }

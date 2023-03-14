@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/square/papa/deployments",
   "created_at": "2021-09-17T21:54:28Z",
   "updated_at": "2023-03-04T13:20:20Z",
-  "pushed_at": "2023-03-11T22:12:19Z",
+  "pushed_at": "2023-03-14T00:57:58Z",
   "git_url": "git://github.com/square/papa.git",
   "ssh_url": "git@github.com:square/papa.git",
   "clone_url": "https://github.com/square/papa.git",
   "svn_url": "https://github.com/square/papa",
   "homepage": "",
-  "size": 498,
+  "size": 508,
   "stargazers_count": 251,
   "watchers_count": 251,
   "language": "Kotlin",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 879
+  "_index": 882
 }

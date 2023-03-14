@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 66,
+  "forks_count": 67,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 24,
+  "open_issues_count": 23,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -113,8 +113,8 @@
     "room-database"
   ],
   "visibility": "public",
-  "forks": 66,
-  "open_issues": 24,
+  "forks": 67,
+  "open_issues": 23,
   "watchers": 420,
   "default_branch": "main",
   "permissions": {
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1523
+  "_index": 1525
 }

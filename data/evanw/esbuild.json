@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/evanw/esbuild/releases{/id}",
   "deployments_url": "https://api.github.com/repos/evanw/esbuild/deployments",
   "created_at": "2016-06-14T16:08:50Z",
-  "updated_at": "2023-03-12T22:14:29Z",
-  "pushed_at": "2023-03-11T19:08:47Z",
+  "updated_at": "2023-03-14T01:06:44Z",
+  "pushed_at": "2023-03-13T17:36:08Z",
   "git_url": "git://github.com/evanw/esbuild.git",
   "ssh_url": "git@github.com:evanw/esbuild.git",
   "clone_url": "https://github.com/evanw/esbuild.git",
   "svn_url": "https://github.com/evanw/esbuild",
   "homepage": "https://esbuild.github.io/",
-  "size": 16148,
-  "stargazers_count": 34831,
-  "watchers_count": 34831,
+  "size": 16149,
+  "stargazers_count": 34840,
+  "watchers_count": 34840,
   "language": "Go",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 985,
+  "forks_count": 986,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 295,
+  "open_issues_count": 296,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -111,9 +111,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 985,
-  "open_issues": 295,
-  "watchers": 34831,
+  "forks": 986,
+  "open_issues": 296,
+  "watchers": 34840,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1415
+  "_index": 1417
 }

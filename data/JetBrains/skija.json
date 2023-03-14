@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/JetBrains/skija/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JetBrains/skija/deployments",
   "created_at": "2020-04-06T17:25:23Z",
-  "updated_at": "2023-03-10T19:55:46Z",
+  "updated_at": "2023-03-14T01:44:13Z",
   "pushed_at": "2022-12-12T13:52:53Z",
   "git_url": "git://github.com/JetBrains/skija.git",
   "ssh_url": "git@github.com:JetBrains/skija.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1244
+  "_index": 1246
 }

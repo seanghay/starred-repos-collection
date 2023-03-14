@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/microsoft/unilm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microsoft/unilm/deployments",
   "created_at": "2019-07-23T04:15:28Z",
-  "updated_at": "2023-03-13T01:01:35Z",
-  "pushed_at": "2023-03-12T14:28:45Z",
+  "updated_at": "2023-03-14T01:48:11Z",
+  "pushed_at": "2023-03-13T23:58:53Z",
   "git_url": "git://github.com/microsoft/unilm.git",
   "ssh_url": "git@github.com:microsoft/unilm.git",
   "clone_url": "https://github.com/microsoft/unilm.git",
   "svn_url": "https://github.com/microsoft/unilm",
   "homepage": "https://aka.ms/nlpagi",
-  "size": 18031,
-  "stargazers_count": 10549,
-  "watchers_count": 10549,
+  "size": 18142,
+  "stargazers_count": 10604,
+  "watchers_count": 10604,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1643,
+  "forks_count": 1650,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 295,
+  "open_issues_count": 300,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,6 +105,7 @@
     "document-foundation-model",
     "foundation-models",
     "kosmos",
+    "kosmos-1",
     "layoutlm",
     "layoutxlm",
     "llm",
@@ -119,9 +120,9 @@
     "xlm-e"
   ],
   "visibility": "public",
-  "forks": 1643,
-  "open_issues": 295,
-  "watchers": 10549,
+  "forks": 1650,
+  "open_issues": 300,
+  "watchers": 10604,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -130,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 36
+  "_index": 39
 }

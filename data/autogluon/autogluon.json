@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/autogluon/autogluon/releases{/id}",
   "deployments_url": "https://api.github.com/repos/autogluon/autogluon/deployments",
   "created_at": "2019-07-29T18:51:24Z",
-  "updated_at": "2023-03-12T16:54:33Z",
-  "pushed_at": "2023-03-13T00:49:36Z",
+  "updated_at": "2023-03-13T16:39:10Z",
+  "pushed_at": "2023-03-14T00:29:00Z",
   "git_url": "git://github.com/autogluon/autogluon.git",
   "ssh_url": "git@github.com:autogluon/autogluon.git",
   "clone_url": "https://github.com/autogluon/autogluon.git",
   "svn_url": "https://github.com/autogluon/autogluon",
   "homepage": "https://auto.gluon.ai/",
-  "size": 19083,
-  "stargazers_count": 5433,
-  "watchers_count": 5433,
+  "size": 19302,
+  "stargazers_count": 5437,
+  "watchers_count": 5437,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 703,
+  "forks_count": 705,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 212,
+  "open_issues_count": 210,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -120,9 +120,9 @@
     "transfer-learning"
   ],
   "visibility": "public",
-  "forks": 703,
-  "open_issues": 212,
-  "watchers": 5433,
+  "forks": 705,
+  "open_issues": 210,
+  "watchers": 5437,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 880
+  "_index": 883
 }
