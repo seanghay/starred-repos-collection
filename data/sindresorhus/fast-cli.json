@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/fast-cli/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/fast-cli/deployments",
   "created_at": "2016-05-18T21:24:15Z",
-  "updated_at": "2023-03-07T13:30:37Z",
+  "updated_at": "2023-03-14T19:13:28Z",
   "pushed_at": "2022-07-17T10:29:23Z",
   "git_url": "git://github.com/sindresorhus/fast-cli.git",
   "ssh_url": "git@github.com:sindresorhus/fast-cli.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sindresorhus/fast-cli",
   "homepage": "",
   "size": 1469,
-  "stargazers_count": 2425,
-  "watchers_count": 2425,
+  "stargazers_count": 2426,
+  "watchers_count": 2426,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 121,
   "open_issues": 11,
-  "watchers": 2425,
+  "watchers": 2426,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 276
+  "_index": 285
 }

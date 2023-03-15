@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/remult/remult/releases{/id}",
   "deployments_url": "https://api.github.com/repos/remult/remult/deployments",
   "created_at": "2017-10-30T15:55:17Z",
-  "updated_at": "2023-03-14T01:54:55Z",
-  "pushed_at": "2023-03-13T06:08:39Z",
+  "updated_at": "2023-03-15T00:20:10Z",
+  "pushed_at": "2023-03-14T13:25:56Z",
   "git_url": "git://github.com/remult/remult.git",
   "ssh_url": "git@github.com:remult/remult.git",
   "clone_url": "https://github.com/remult/remult.git",
   "svn_url": "https://github.com/remult/remult",
   "homepage": "https://remult.dev",
-  "size": 22034,
-  "stargazers_count": 1900,
-  "watchers_count": 1900,
+  "size": 22246,
+  "stargazers_count": 1909,
+  "watchers_count": 1909,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 67,
+  "forks_count": 68,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -111,9 +111,9 @@
     "validation"
   ],
   "visibility": "public",
-  "forks": 67,
+  "forks": 68,
   "open_issues": 23,
-  "watchers": 1900,
+  "watchers": 1909,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 363
+  "_index": 372
 }

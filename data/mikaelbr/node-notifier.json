@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mikaelbr/node-notifier/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mikaelbr/node-notifier/deployments",
   "created_at": "2012-12-02T09:53:24Z",
-  "updated_at": "2023-03-11T12:19:09Z",
+  "updated_at": "2023-03-14T14:57:03Z",
   "pushed_at": "2023-02-09T19:52:05Z",
   "git_url": "git://github.com/mikaelbr/node-notifier.git",
   "ssh_url": "git@github.com:mikaelbr/node-notifier.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mikaelbr/node-notifier",
   "homepage": "",
   "size": 8493,
-  "stargazers_count": 5558,
-  "watchers_count": 5558,
+  "stargazers_count": 5560,
+  "watchers_count": 5560,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 334,
+  "forks_count": 335,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,9 +108,9 @@
     "toasters"
   ],
   "visibility": "public",
-  "forks": 334,
+  "forks": 335,
   "open_issues": 113,
-  "watchers": 5558,
+  "watchers": 5560,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2521
+  "_index": 2530
 }

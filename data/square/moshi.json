@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/square/moshi/releases{/id}",
   "deployments_url": "https://api.github.com/repos/square/moshi/deployments",
   "created_at": "2014-08-09T15:58:42Z",
-  "updated_at": "2023-03-13T12:54:06Z",
+  "updated_at": "2023-03-15T00:33:45Z",
   "pushed_at": "2023-03-13T11:54:34Z",
   "git_url": "git://github.com/square/moshi.git",
   "ssh_url": "git@github.com:square/moshi.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/square/moshi",
   "homepage": "https://square.github.io/moshi/1.x/",
   "size": 4463,
-  "stargazers_count": 8814,
-  "watchers_count": 8814,
+  "stargazers_count": 8816,
+  "watchers_count": 8816,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 718,
   "open_issues": 99,
-  "watchers": 8814,
+  "watchers": 8816,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2049
+  "_index": 2058
 }

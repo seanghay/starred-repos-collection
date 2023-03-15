@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/rust-ml/linfa/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rust-ml/linfa/deployments",
   "created_at": "2018-04-05T07:03:30Z",
-  "updated_at": "2023-03-12T23:12:29Z",
-  "pushed_at": "2023-03-10T03:05:35Z",
+  "updated_at": "2023-03-14T16:52:45Z",
+  "pushed_at": "2023-03-14T05:28:30Z",
   "git_url": "git://github.com/rust-ml/linfa.git",
   "ssh_url": "git@github.com:rust-ml/linfa.git",
   "clone_url": "https://github.com/rust-ml/linfa.git",
   "svn_url": "https://github.com/rust-ml/linfa",
   "homepage": "",
-  "size": 4659,
-  "stargazers_count": 2423,
-  "watchers_count": 2423,
+  "size": 4673,
+  "stargazers_count": 2427,
+  "watchers_count": 2427,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 160,
+  "forks_count": 161,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 50,
+  "open_issues_count": 51,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -104,9 +104,9 @@
     "scientific-computing"
   ],
   "visibility": "public",
-  "forks": 160,
-  "open_issues": 50,
-  "watchers": 2423,
+  "forks": 161,
+  "open_issues": 51,
+  "watchers": 2427,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 517
+  "_index": 526
 }

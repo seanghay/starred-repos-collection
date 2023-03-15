@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nihui/ncnn-android-squeezenet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nihui/ncnn-android-squeezenet/deployments",
   "created_at": "2019-08-25T10:55:42Z",
-  "updated_at": "2023-02-22T09:25:37Z",
+  "updated_at": "2023-03-14T10:55:39Z",
   "pushed_at": "2021-06-22T06:33:46Z",
   "git_url": "git://github.com/nihui/ncnn-android-squeezenet.git",
   "ssh_url": "git@github.com:nihui/ncnn-android-squeezenet.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nihui/ncnn-android-squeezenet",
   "homepage": "",
   "size": 5376,
-  "stargazers_count": 113,
-  "watchers_count": 113,
+  "stargazers_count": 114,
+  "watchers_count": 114,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 38,
   "open_issues": 10,
-  "watchers": 113,
+  "watchers": 114,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 84
+  "_index": 93
 }
