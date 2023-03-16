@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 833,
+  "forks_count": 832,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "openid-connect"
   ],
   "visibility": "public",
-  "forks": 833,
+  "forks": 832,
   "open_issues": 168,
   "watchers": 2392,
   "default_branch": "master",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 902
+  "_index": 908
 }

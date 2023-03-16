@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/markusfisch/BinaryEye/deployments",
   "created_at": "2017-08-27T13:03:48Z",
   "updated_at": "2023-03-14T18:00:21Z",
-  "pushed_at": "2023-03-01T20:42:35Z",
+  "pushed_at": "2023-03-15T23:23:21Z",
   "git_url": "git://github.com/markusfisch/BinaryEye.git",
   "ssh_url": "git@github.com:markusfisch/BinaryEye.git",
   "clone_url": "https://github.com/markusfisch/BinaryEye.git",
   "svn_url": "https://github.com/markusfisch/BinaryEye",
   "homepage": "https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye",
-  "size": 21452,
+  "size": 21494,
   "stargazers_count": 872,
   "watchers_count": 872,
   "language": "Kotlin",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1096
+  "_index": 1102
 }

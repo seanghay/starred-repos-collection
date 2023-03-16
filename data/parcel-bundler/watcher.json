@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/parcel-bundler/watcher/releases{/id}",
   "deployments_url": "https://api.github.com/repos/parcel-bundler/watcher/deployments",
   "created_at": "2019-03-12T06:11:04Z",
-  "updated_at": "2023-03-14T08:06:39Z",
-  "pushed_at": "2023-03-14T16:35:18Z",
+  "updated_at": "2023-03-15T05:52:06Z",
+  "pushed_at": "2023-03-15T22:50:45Z",
   "git_url": "git://github.com/parcel-bundler/watcher.git",
   "ssh_url": "git@github.com:parcel-bundler/watcher.git",
   "clone_url": "https://github.com/parcel-bundler/watcher.git",
   "svn_url": "https://github.com/parcel-bundler/watcher",
   "homepage": "",
   "size": 2066,
-  "stargazers_count": 436,
-  "watchers_count": 436,
+  "stargazers_count": 437,
+  "watchers_count": 437,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 34,
+  "open_issues_count": 35,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 23,
-  "open_issues": 34,
-  "watchers": 436,
+  "open_issues": 35,
+  "watchers": 437,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 814
+  "_index": 820
 }

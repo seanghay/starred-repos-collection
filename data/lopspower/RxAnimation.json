@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lopspower/RxAnimation/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lopspower/RxAnimation/deployments",
   "created_at": "2019-06-18T15:59:51Z",
-  "updated_at": "2023-02-28T14:04:22Z",
+  "updated_at": "2023-03-15T18:08:12Z",
   "pushed_at": "2022-11-25T11:37:58Z",
   "git_url": "git://github.com/lopspower/RxAnimation.git",
   "ssh_url": "git@github.com:lopspower/RxAnimation.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lopspower/RxAnimation",
   "homepage": "",
   "size": 4539,
-  "stargazers_count": 585,
-  "watchers_count": 585,
+  "stargazers_count": 586,
+  "watchers_count": 586,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 47,
   "open_issues": 4,
-  "watchers": 585,
+  "watchers": 586,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1920
+  "_index": 1926
 }

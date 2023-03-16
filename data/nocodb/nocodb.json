@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/nocodb/nocodb/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nocodb/nocodb/deployments",
   "created_at": "2017-10-29T18:51:48Z",
-  "updated_at": "2023-03-15T00:54:30Z",
-  "pushed_at": "2023-03-15T01:14:26Z",
+  "updated_at": "2023-03-15T21:22:14Z",
+  "pushed_at": "2023-03-15T17:28:22Z",
   "git_url": "git://github.com/nocodb/nocodb.git",
   "ssh_url": "git@github.com:nocodb/nocodb.git",
   "clone_url": "https://github.com/nocodb/nocodb.git",
   "svn_url": "https://github.com/nocodb/nocodb",
   "homepage": "https://nocodb.com",
-  "size": 903656,
-  "stargazers_count": 34878,
-  "watchers_count": 34878,
+  "size": 903818,
+  "stargazers_count": 34901,
+  "watchers_count": 34901,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2165,
+  "forks_count": 2166,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 403,
+  "open_issues_count": 400,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -118,9 +118,9 @@
     "swagger"
   ],
   "visibility": "public",
-  "forks": 2165,
-  "open_issues": 403,
-  "watchers": 34878,
+  "forks": 2166,
+  "open_issues": 400,
+  "watchers": 34901,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 951
+  "_index": 957
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/osquery/osquery/releases{/id}",
   "deployments_url": "https://api.github.com/repos/osquery/osquery/deployments",
   "created_at": "2014-07-29T20:27:33Z",
-  "updated_at": "2023-03-15T01:14:21Z",
-  "pushed_at": "2023-03-12T18:56:42Z",
+  "updated_at": "2023-03-16T00:29:48Z",
+  "pushed_at": "2023-03-15T18:09:38Z",
   "git_url": "git://github.com/osquery/osquery.git",
   "ssh_url": "git@github.com:osquery/osquery.git",
   "clone_url": "https://github.com/osquery/osquery.git",
   "svn_url": "https://github.com/osquery/osquery",
   "homepage": "https://osquery.io",
   "size": 26186,
-  "stargazers_count": 20106,
-  "watchers_count": 20106,
+  "stargazers_count": 20113,
+  "watchers_count": 20113,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 564,
+  "open_issues_count": 566,
   "license": {
     "key": "other",
     "name": "Other",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 2399,
-  "open_issues": 564,
-  "watchers": 20106,
+  "open_issues": 566,
+  "watchers": 20113,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1733
+  "_index": 1739
 }

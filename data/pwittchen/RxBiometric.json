@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pwittchen/RxBiometric/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pwittchen/RxBiometric/deployments",
   "created_at": "2018-08-15T09:44:33Z",
-  "updated_at": "2023-01-12T15:34:30Z",
+  "updated_at": "2023-03-15T15:05:07Z",
   "pushed_at": "2022-04-23T16:50:50Z",
   "git_url": "git://github.com/pwittchen/RxBiometric.git",
   "ssh_url": "git@github.com:pwittchen/RxBiometric.git",
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2304
+  "_index": 2310
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/meilisearch/milli/releases{/id}",
   "deployments_url": "https://api.github.com/repos/meilisearch/milli/deployments",
   "created_at": "2020-05-31T12:21:55Z",
-  "updated_at": "2023-03-11T03:30:24Z",
+  "updated_at": "2023-03-15T18:46:48Z",
   "pushed_at": "2023-03-01T23:04:48Z",
   "git_url": "git://github.com/meilisearch/milli.git",
   "ssh_url": "git@github.com:meilisearch/milli.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/meilisearch/milli",
   "homepage": "",
   "size": 6594,
-  "stargazers_count": 458,
-  "watchers_count": 458,
+  "stargazers_count": 459,
+  "watchers_count": 459,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 89,
   "open_issues": 5,
-  "watchers": 458,
+  "watchers": 459,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 712
+  "_index": 718
 }

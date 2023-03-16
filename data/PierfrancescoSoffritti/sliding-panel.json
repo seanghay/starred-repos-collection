@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/PierfrancescoSoffritti/sliding-panel/releases{/id}",
   "deployments_url": "https://api.github.com/repos/PierfrancescoSoffritti/sliding-panel/deployments",
   "created_at": "2016-06-29T08:51:56Z",
-  "updated_at": "2023-03-02T05:54:00Z",
+  "updated_at": "2023-03-15T14:18:07Z",
   "pushed_at": "2021-09-24T13:48:44Z",
   "git_url": "git://github.com/PierfrancescoSoffritti/sliding-panel.git",
   "ssh_url": "git@github.com:PierfrancescoSoffritti/sliding-panel.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/PierfrancescoSoffritti/sliding-panel",
   "homepage": "",
   "size": 6054,
-  "stargazers_count": 442,
-  "watchers_count": 442,
+  "stargazers_count": 443,
+  "watchers_count": 443,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 75,
   "open_issues": 7,
-  "watchers": 442,
+  "watchers": 443,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2159
+  "_index": 2165
 }

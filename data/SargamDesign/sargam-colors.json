@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/SargamDesign/sargam-colors",
-  "description": "A simple scalable color system for designing warm welcoming, caring websites and apps.",
+  "description": "Scalable color system for welcoming websites and apps.",
   "fork": false,
   "url": "https://api.github.com/repos/SargamDesign/sargam-colors",
   "forks_url": "https://api.github.com/repos/SargamDesign/sargam-colors/forks",
@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/SargamDesign/sargam-colors/releases{/id}",
   "deployments_url": "https://api.github.com/repos/SargamDesign/sargam-colors/deployments",
   "created_at": "2022-10-12T00:16:58Z",
-  "updated_at": "2022-11-17T10:25:05Z",
+  "updated_at": "2023-03-15T21:06:37Z",
   "pushed_at": "2023-03-09T00:02:18Z",
   "git_url": "git://github.com/SargamDesign/sargam-colors.git",
   "ssh_url": "git@github.com:SargamDesign/sargam-colors.git",
@@ -101,6 +101,7 @@
     "color-palette",
     "color-system",
     "colors",
+    "css",
     "design-system",
     "design-tokens",
     "theme",
@@ -119,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 269
+  "_index": 275
 }
