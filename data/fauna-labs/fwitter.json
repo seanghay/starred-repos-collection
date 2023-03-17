@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fauna-labs/fwitter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fauna-labs/fwitter/deployments",
   "created_at": "2020-04-17T11:14:57Z",
-  "updated_at": "2023-03-09T15:01:15Z",
+  "updated_at": "2023-03-16T16:54:33Z",
   "pushed_at": "2022-05-25T05:20:47Z",
   "git_url": "git://github.com/fauna-labs/fwitter.git",
   "ssh_url": "git@github.com:fauna-labs/fwitter.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/fauna-labs/fwitter",
   "homepage": "",
   "size": 6617,
-  "stargazers_count": 294,
-  "watchers_count": 294,
+  "stargazers_count": 295,
+  "watchers_count": 295,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 96,
   "open_issues": 5,
-  "watchers": 294,
+  "watchers": 295,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1480
+  "_index": 1482
 }

@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/Kotlin/kotlinx-datetime/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Kotlin/kotlinx-datetime/deployments",
   "created_at": "2019-10-17T17:33:02Z",
-  "updated_at": "2023-03-16T01:11:13Z",
-  "pushed_at": "2023-03-15T21:55:16Z",
+  "updated_at": "2023-03-16T23:33:40Z",
+  "pushed_at": "2023-03-16T11:10:55Z",
   "git_url": "git://github.com/Kotlin/kotlinx-datetime.git",
   "ssh_url": "git@github.com:Kotlin/kotlinx-datetime.git",
   "clone_url": "https://github.com/Kotlin/kotlinx-datetime.git",
   "svn_url": "https://github.com/Kotlin/kotlinx-datetime",
   "homepage": "",
-  "size": 802,
+  "size": 860,
   "stargazers_count": 1652,
   "watchers_count": 1652,
   "language": "Kotlin",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1349
+  "_index": 1351
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/Reedyuk/blue-falcon/deployments",
   "created_at": "2019-08-15T12:45:24Z",
   "updated_at": "2023-03-15T22:50:24Z",
-  "pushed_at": "2023-01-10T11:05:53Z",
+  "pushed_at": "2023-03-16T18:22:02Z",
   "git_url": "git://github.com/Reedyuk/blue-falcon.git",
   "ssh_url": "git@github.com:Reedyuk/blue-falcon.git",
   "clone_url": "https://github.com/Reedyuk/blue-falcon.git",
   "svn_url": "https://github.com/Reedyuk/blue-falcon",
   "homepage": "https://bluefalcon.dev",
-  "size": 866,
+  "size": 882,
   "stargazers_count": 235,
   "watchers_count": 235,
   "language": "Kotlin",
@@ -88,11 +88,11 @@
   "disabled": false,
   "open_issues_count": 8,
   "license": {
-    "key": "mit",
-    "name": "MIT License",
-    "spdx_id": "MIT",
-    "url": "https://api.github.com/licenses/mit",
-    "node_id": "MDc6TGljZW5zZTEz"
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
   },
   "allow_forking": true,
   "is_template": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1434
+  "_index": 1436
 }

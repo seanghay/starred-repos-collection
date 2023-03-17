@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/lumeland/lume/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lumeland/lume/deployments",
   "created_at": "2020-09-07T19:20:28Z",
-  "updated_at": "2023-03-15T23:51:51Z",
-  "pushed_at": "2023-03-15T17:53:48Z",
+  "updated_at": "2023-03-16T08:23:02Z",
+  "pushed_at": "2023-03-16T09:53:50Z",
   "git_url": "git://github.com/lumeland/lume.git",
   "ssh_url": "git@github.com:lumeland/lume.git",
   "clone_url": "https://github.com/lumeland/lume.git",
   "svn_url": "https://github.com/lumeland/lume",
   "homepage": "https://lume.land",
-  "size": 3251,
-  "stargazers_count": 1168,
-  "watchers_count": 1168,
+  "size": 3258,
+  "stargazers_count": 1169,
+  "watchers_count": 1169,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 23,
+  "open_issues_count": 22,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -113,8 +113,8 @@
   ],
   "visibility": "public",
   "forks": 46,
-  "open_issues": 23,
-  "watchers": 1168,
+  "open_issues": 22,
+  "watchers": 1169,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 292
+  "_index": 294
 }

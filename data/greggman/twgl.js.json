@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/greggman/twgl.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/greggman/twgl.js/deployments",
   "created_at": "2015-03-27T10:59:26Z",
-  "updated_at": "2023-03-14T20:38:22Z",
-  "pushed_at": "2023-02-03T05:03:18Z",
+  "updated_at": "2023-03-16T07:01:44Z",
+  "pushed_at": "2023-03-16T16:13:39Z",
   "git_url": "git://github.com/greggman/twgl.js.git",
   "ssh_url": "git@github.com:greggman/twgl.js.git",
   "clone_url": "https://github.com/greggman/twgl.js.git",
   "svn_url": "https://github.com/greggman/twgl.js",
   "homepage": "http://twgljs.org",
-  "size": 26550,
-  "stargazers_count": 2317,
-  "watchers_count": 2317,
+  "size": 26610,
+  "stargazers_count": 2319,
+  "watchers_count": 2319,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 251,
+  "forks_count": 252,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 51,
+  "open_issues_count": 50,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -102,9 +102,9 @@
     "webgl2"
   ],
   "visibility": "public",
-  "forks": 251,
-  "open_issues": 51,
-  "watchers": 2317,
+  "forks": 252,
+  "open_issues": 50,
+  "watchers": 2319,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1144
+  "_index": 1146
 }

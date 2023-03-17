@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 120,
+  "forks_count": 119,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,7 +102,7 @@
     "tween"
   ],
   "visibility": "public",
-  "forks": 120,
+  "forks": 119,
   "open_issues": 3,
   "watchers": 754,
   "default_branch": "master",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2046
+  "_index": 2048
 }

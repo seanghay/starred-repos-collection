@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/http-party/node-http-proxy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/http-party/node-http-proxy/deployments",
   "created_at": "2010-07-24T18:30:12Z",
-  "updated_at": "2023-03-14T14:35:02Z",
-  "pushed_at": "2023-03-07T10:39:27Z",
+  "updated_at": "2023-03-17T01:17:54Z",
+  "pushed_at": "2023-03-16T14:04:59Z",
   "git_url": "git://github.com/http-party/node-http-proxy.git",
   "ssh_url": "git@github.com:http-party/node-http-proxy.git",
   "clone_url": "https://github.com/http-party/node-http-proxy.git",
   "svn_url": "https://github.com/http-party/node-http-proxy",
   "homepage": "https://github.com/http-party/node-http-proxy",
-  "size": 1609,
-  "stargazers_count": 13261,
-  "watchers_count": 13261,
+  "size": 1626,
+  "stargazers_count": 13266,
+  "watchers_count": 13266,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 1913,
   "open_issues": 584,
-  "watchers": 13261,
+  "watchers": 13266,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 77
+  "_index": 79
 }

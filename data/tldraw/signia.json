@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/tldraw/signia/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tldraw/signia/deployments",
   "created_at": "2023-01-16T22:20:49Z",
-  "updated_at": "2023-03-15T14:59:34Z",
-  "pushed_at": "2023-03-15T15:36:46Z",
+  "updated_at": "2023-03-17T01:02:20Z",
+  "pushed_at": "2023-03-16T19:38:13Z",
   "git_url": "git://github.com/tldraw/signia.git",
   "ssh_url": "git@github.com:tldraw/signia.git",
   "clone_url": "https://github.com/tldraw/signia.git",
   "svn_url": "https://github.com/tldraw/signia",
   "homepage": "https://signia.tldraw.dev",
-  "size": 4321,
-  "stargazers_count": 615,
-  "watchers_count": 615,
+  "size": 4330,
+  "stargazers_count": 619,
+  "watchers_count": 619,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 6,
+  "forks_count": 7,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 6,
+  "open_issues_count": 7,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,9 +106,9 @@
     "state-management"
   ],
   "visibility": "public",
-  "forks": 6,
-  "open_issues": 6,
-  "watchers": 615,
+  "forks": 7,
+  "open_issues": 7,
+  "watchers": 619,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 48
+  "_index": 50
 }
