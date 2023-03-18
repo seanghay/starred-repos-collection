@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/CarGuo/GSYVideoPlayer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/CarGuo/GSYVideoPlayer/deployments",
   "created_at": "2016-11-13T12:34:31Z",
-  "updated_at": "2023-03-17T00:08:52Z",
-  "pushed_at": "2023-03-15T05:09:30Z",
+  "updated_at": "2023-03-17T12:44:39Z",
+  "pushed_at": "2023-03-17T07:37:03Z",
   "git_url": "git://github.com/CarGuo/GSYVideoPlayer.git",
   "ssh_url": "git@github.com:CarGuo/GSYVideoPlayer.git",
   "clone_url": "https://github.com/CarGuo/GSYVideoPlayer.git",
   "svn_url": "https://github.com/CarGuo/GSYVideoPlayer",
   "homepage": "https://juejin.im/user/582aca2ba22b9d006b59ae68/posts",
-  "size": 333392,
-  "stargazers_count": 18346,
-  "watchers_count": 18346,
+  "size": 333394,
+  "stargazers_count": 18349,
+  "watchers_count": 18349,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 4003,
+  "forks_count": 4004,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 17,
+  "open_issues_count": 18,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -108,9 +108,9 @@
     "videocache"
   ],
   "visibility": "public",
-  "forks": 4003,
-  "open_issues": 17,
-  "watchers": 18346,
+  "forks": 4004,
+  "open_issues": 18,
+  "watchers": 18349,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2230
+  "_index": 2232
 }

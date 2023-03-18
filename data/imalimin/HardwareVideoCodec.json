@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/imalimin/HardwareVideoCodec/releases{/id}",
   "deployments_url": "https://api.github.com/repos/imalimin/HardwareVideoCodec/deployments",
   "created_at": "2018-07-30T14:25:30Z",
-  "updated_at": "2023-03-06T07:44:45Z",
+  "updated_at": "2023-03-17T02:20:46Z",
   "pushed_at": "2020-12-19T21:23:41Z",
   "git_url": "git://github.com/imalimin/HardwareVideoCodec.git",
   "ssh_url": "git@github.com:imalimin/HardwareVideoCodec.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/imalimin/HardwareVideoCodec",
   "homepage": "",
   "size": 96832,
-  "stargazers_count": 433,
-  "watchers_count": 433,
+  "stargazers_count": 434,
+  "watchers_count": 434,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 115,
   "open_issues": 13,
-  "watchers": 433,
+  "watchers": 434,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 950
+  "_index": 952
 }

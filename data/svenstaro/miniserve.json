@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/svenstaro/miniserve/releases{/id}",
   "deployments_url": "https://api.github.com/repos/svenstaro/miniserve/deployments",
   "created_at": "2018-04-26T09:52:56Z",
-  "updated_at": "2023-03-15T12:10:44Z",
-  "pushed_at": "2023-03-16T05:03:56Z",
+  "updated_at": "2023-03-17T16:04:49Z",
+  "pushed_at": "2023-03-17T05:02:40Z",
   "git_url": "git://github.com/svenstaro/miniserve.git",
   "ssh_url": "git@github.com:svenstaro/miniserve.git",
   "clone_url": "https://github.com/svenstaro/miniserve.git",
   "svn_url": "https://github.com/svenstaro/miniserve",
   "homepage": "",
-  "size": 3296,
-  "stargazers_count": 4389,
-  "watchers_count": 4389,
+  "size": 3363,
+  "stargazers_count": 4391,
+  "watchers_count": 4391,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 66,
+  "open_issues_count": 68,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,8 +108,8 @@
   ],
   "visibility": "public",
   "forks": 235,
-  "open_issues": 66,
-  "watchers": 4389,
+  "open_issues": 68,
+  "watchers": 4391,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 407
+  "_index": 409
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/honojs/hono/releases{/id}",
   "deployments_url": "https://api.github.com/repos/honojs/hono/deployments",
   "created_at": "2021-12-14T20:05:30Z",
-  "updated_at": "2023-03-17T02:06:47Z",
-  "pushed_at": "2023-03-16T21:05:47Z",
+  "updated_at": "2023-03-18T01:14:12Z",
+  "pushed_at": "2023-03-17T07:50:41Z",
   "git_url": "git://github.com/honojs/hono.git",
   "ssh_url": "git@github.com:honojs/hono.git",
   "clone_url": "https://github.com/honojs/hono.git",
   "svn_url": "https://github.com/honojs/hono",
   "homepage": "https://hono.dev",
   "size": 3636,
-  "stargazers_count": 3848,
-  "watchers_count": 3848,
+  "stargazers_count": 3859,
+  "watchers_count": 3859,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 80,
+  "open_issues_count": 76,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -98,10 +98,12 @@
   "is_template": false,
   "web_commit_signoff_required": false,
   "topics": [
+    "aws-lambda",
     "bun",
     "cloudflare",
     "cloudflare-workers",
     "deno",
+    "lagon",
     "npm",
     "router",
     "typescript",
@@ -109,8 +111,8 @@
   ],
   "visibility": "public",
   "forks": 111,
-  "open_issues": 80,
-  "watchers": 3848,
+  "open_issues": 76,
+  "watchers": 3859,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 454
+  "_index": 456
 }

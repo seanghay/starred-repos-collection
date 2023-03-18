@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/acro5piano/typed-graphqlify/releases{/id}",
   "deployments_url": "https://api.github.com/repos/acro5piano/typed-graphqlify/deployments",
   "created_at": "2018-12-18T19:46:09Z",
-  "updated_at": "2023-03-16T21:19:56Z",
+  "updated_at": "2023-03-17T05:13:53Z",
   "pushed_at": "2023-03-01T16:57:52Z",
   "git_url": "git://github.com/acro5piano/typed-graphqlify.git",
   "ssh_url": "git@github.com:acro5piano/typed-graphqlify.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/acro5piano/typed-graphqlify",
   "homepage": "https://www.npmjs.com/package/typed-graphqlify",
   "size": 2925,
-  "stargazers_count": 640,
-  "watchers_count": 640,
+  "stargazers_count": 641,
+  "watchers_count": 641,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 28,
   "open_issues": 22,
-  "watchers": 640,
+  "watchers": 641,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2378
+  "_index": 2380
 }

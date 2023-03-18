@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/running-libo/CoordinatorlayoutFull/releases{/id}",
   "deployments_url": "https://api.github.com/repos/running-libo/CoordinatorlayoutFull/deployments",
   "created_at": "2017-11-03T09:09:35Z",
-  "updated_at": "2022-11-03T03:21:48Z",
+  "updated_at": "2023-03-17T05:44:51Z",
   "pushed_at": "2020-06-09T09:18:08Z",
   "git_url": "git://github.com/running-libo/CoordinatorlayoutFull.git",
   "ssh_url": "git@github.com:running-libo/CoordinatorlayoutFull.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/running-libo/CoordinatorlayoutFull",
   "homepage": null,
   "size": 208,
-  "stargazers_count": 45,
-  "watchers_count": 45,
+  "stargazers_count": 46,
+  "watchers_count": 46,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 13,
   "open_issues": 0,
-  "watchers": 45,
+  "watchers": 46,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1407
+  "_index": 1409
 }

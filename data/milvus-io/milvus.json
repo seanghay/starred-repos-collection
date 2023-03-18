@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/milvus-io/milvus",
-  "description": "Vector database for scalable similarity search and AI applications.",
+  "description": "A cloud-native vector database with high-performance and high scalability.",
   "fork": false,
   "url": "https://api.github.com/repos/milvus-io/milvus",
   "forks_url": "https://api.github.com/repos/milvus-io/milvus/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/milvus-io/milvus/releases{/id}",
   "deployments_url": "https://api.github.com/repos/milvus-io/milvus/deployments",
   "created_at": "2019-09-16T06:43:43Z",
-  "updated_at": "2023-03-16T23:52:37Z",
-  "pushed_at": "2023-03-17T01:54:26Z",
+  "updated_at": "2023-03-18T01:28:05Z",
+  "pushed_at": "2023-03-18T01:56:55Z",
   "git_url": "git://github.com/milvus-io/milvus.git",
   "ssh_url": "git@github.com:milvus-io/milvus.git",
   "clone_url": "https://github.com/milvus-io/milvus.git",
   "svn_url": "https://github.com/milvus-io/milvus",
   "homepage": "https://milvus.io",
-  "size": 148638,
-  "stargazers_count": 15376,
-  "watchers_count": 15376,
+  "size": 148672,
+  "stargazers_count": 15388,
+  "watchers_count": 15388,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1971,
+  "forks_count": 1972,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 372,
+  "open_issues_count": 379,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -119,9 +119,9 @@
     "video-search"
   ],
   "visibility": "public",
-  "forks": 1971,
-  "open_issues": 372,
-  "watchers": 15376,
+  "forks": 1972,
+  "open_issues": 379,
+  "watchers": 15388,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 831
+  "_index": 833
 }

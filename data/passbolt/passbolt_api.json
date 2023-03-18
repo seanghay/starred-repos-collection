@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/passbolt/passbolt_api/releases{/id}",
   "deployments_url": "https://api.github.com/repos/passbolt/passbolt_api/deployments",
   "created_at": "2016-02-23T01:14:59Z",
-  "updated_at": "2023-03-16T20:31:50Z",
-  "pushed_at": "2023-03-06T14:01:20Z",
+  "updated_at": "2023-03-17T19:54:50Z",
+  "pushed_at": "2023-03-17T15:47:22Z",
   "git_url": "git://github.com/passbolt/passbolt_api.git",
   "ssh_url": "git@github.com:passbolt/passbolt_api.git",
   "clone_url": "https://github.com/passbolt/passbolt_api.git",
   "svn_url": "https://github.com/passbolt/passbolt_api",
   "homepage": "https://www.passbolt.com",
-  "size": 132329,
-  "stargazers_count": 3602,
-  "watchers_count": 3602,
+  "size": 133061,
+  "stargazers_count": 3607,
+  "watchers_count": 3607,
   "language": "PHP",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 263,
+  "forks_count": 264,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 38,
+  "open_issues_count": 31,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -105,9 +105,9 @@
     "security"
   ],
   "visibility": "public",
-  "forks": 263,
-  "open_issues": 38,
-  "watchers": 3602,
+  "forks": 264,
+  "open_issues": 31,
+  "watchers": 3607,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2351
+  "_index": 2353
 }

@@ -96,7 +96,7 @@
   },
   "allow_forking": true,
   "is_template": false,
-  "web_commit_signoff_required": false,
+  "web_commit_signoff_required": true,
   "topics": [
     "aws",
     "computer-vision",
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 89
+  "_index": 91
 }
