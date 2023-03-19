@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/square/curtains/deployments",
   "created_at": "2021-02-01T19:24:16Z",
   "updated_at": "2023-03-12T07:49:05Z",
-  "pushed_at": "2022-06-28T04:05:44Z",
+  "pushed_at": "2023-03-18T23:22:52Z",
   "git_url": "git://github.com/square/curtains.git",
   "ssh_url": "git@github.com:square/curtains.git",
   "clone_url": "https://github.com/square/curtains.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 30,
+  "forks_count": 31,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 4,
+  "open_issues_count": 5,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,8 +99,8 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 30,
-  "open_issues": 4,
+  "forks": 31,
+  "open_issues": 5,
   "watchers": 548,
   "default_branch": "main",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1211
+  "_index": 1213
 }

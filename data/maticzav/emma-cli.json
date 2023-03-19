@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/maticzav/emma-cli/deployments",
   "created_at": "2018-03-06T15:33:46Z",
   "updated_at": "2023-03-13T19:26:52Z",
-  "pushed_at": "2023-01-24T00:51:14Z",
+  "pushed_at": "2023-03-18T10:10:10Z",
   "git_url": "git://github.com/maticzav/emma-cli.git",
   "ssh_url": "git@github.com:maticzav/emma-cli.git",
   "clone_url": "https://github.com/maticzav/emma-cli.git",
   "svn_url": "https://github.com/maticzav/emma-cli",
   "homepage": "",
-  "size": 26930,
+  "size": 26782,
   "stargazers_count": 1217,
   "watchers_count": 1217,
   "language": "TypeScript",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2374
+  "_index": 2376
 }

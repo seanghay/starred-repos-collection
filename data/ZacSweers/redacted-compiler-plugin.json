@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/deployments",
   "created_at": "2018-03-18T00:35:50Z",
-  "updated_at": "2023-03-13T02:09:34Z",
+  "updated_at": "2023-03-18T20:15:39Z",
   "pushed_at": "2023-03-16T20:25:21Z",
   "git_url": "git://github.com/ZacSweers/redacted-compiler-plugin.git",
   "ssh_url": "git@github.com:ZacSweers/redacted-compiler-plugin.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ZacSweers/redacted-compiler-plugin",
   "homepage": "",
   "size": 645,
-  "stargazers_count": 317,
-  "watchers_count": 317,
+  "stargazers_count": 318,
+  "watchers_count": 318,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 28,
   "open_issues": 4,
-  "watchers": 317,
+  "watchers": 318,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1703
+  "_index": 1705
 }

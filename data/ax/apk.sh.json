@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ax/apk.sh/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ax/apk.sh/deployments",
   "created_at": "2022-09-22T13:23:12Z",
-  "updated_at": "2023-03-16T13:29:03Z",
+  "updated_at": "2023-03-18T18:34:16Z",
   "pushed_at": "2023-02-17T18:04:35Z",
   "git_url": "git://github.com/ax/apk.sh.git",
   "ssh_url": "git@github.com:ax/apk.sh.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ax/apk.sh",
   "homepage": "",
   "size": 45,
-  "stargazers_count": 1971,
-  "watchers_count": 1971,
+  "stargazers_count": 1972,
+  "watchers_count": 1972,
   "language": "Shell",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 92,
   "open_issues": 3,
-  "watchers": 1971,
+  "watchers": 1972,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 188
+  "_index": 190
 }

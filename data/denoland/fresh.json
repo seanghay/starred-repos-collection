@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/denoland/fresh/releases{/id}",
   "deployments_url": "https://api.github.com/repos/denoland/fresh/deployments",
   "created_at": "2021-05-07T14:42:26Z",
-  "updated_at": "2023-03-17T20:45:52Z",
-  "pushed_at": "2023-03-16T08:52:32Z",
+  "updated_at": "2023-03-18T20:18:51Z",
+  "pushed_at": "2023-03-18T11:04:31Z",
   "git_url": "git://github.com/denoland/fresh.git",
   "ssh_url": "git@github.com:denoland/fresh.git",
   "clone_url": "https://github.com/denoland/fresh.git",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 468
+  "_index": 470
 }

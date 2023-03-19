@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/hdodenhof/CircleImageView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hdodenhof/CircleImageView/deployments",
   "created_at": "2014-01-17T16:44:46Z",
-  "updated_at": "2023-03-15T17:13:59Z",
+  "updated_at": "2023-03-18T19:59:08Z",
   "pushed_at": "2023-01-10T19:03:41Z",
   "git_url": "git://github.com/hdodenhof/CircleImageView.git",
   "ssh_url": "git@github.com:hdodenhof/CircleImageView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/hdodenhof/CircleImageView",
   "homepage": "",
   "size": 1003,
-  "stargazers_count": 14391,
-  "watchers_count": 14391,
+  "stargazers_count": 14392,
+  "watchers_count": 14392,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 3140,
   "open_issues": 4,
-  "watchers": 14391,
+  "watchers": 14392,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1904
+  "_index": 1906
 }

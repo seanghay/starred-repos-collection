@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ArthurHub/Android-Image-Cropper/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ArthurHub/Android-Image-Cropper/deployments",
   "created_at": "2015-01-15T10:49:37Z",
-  "updated_at": "2023-03-17T06:49:04Z",
-  "pushed_at": "2022-03-06T15:04:05Z",
+  "updated_at": "2023-03-18T08:50:03Z",
+  "pushed_at": "2023-03-18T08:18:22Z",
   "git_url": "git://github.com/ArthurHub/Android-Image-Cropper.git",
   "ssh_url": "git@github.com:ArthurHub/Android-Image-Cropper.git",
   "clone_url": "https://github.com/ArthurHub/Android-Image-Cropper.git",
   "svn_url": "https://github.com/ArthurHub/Android-Image-Cropper",
   "homepage": "",
   "size": 26035,
-  "stargazers_count": 6231,
-  "watchers_count": 6231,
+  "stargazers_count": 6232,
+  "watchers_count": 6232,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1327,
+  "forks_count": 1329,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 361,
+  "open_issues_count": 362,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -103,9 +103,9 @@
     "cropper"
   ],
   "visibility": "public",
-  "forks": 1327,
-  "open_issues": 361,
-  "watchers": 6231,
+  "forks": 1329,
+  "open_issues": 362,
+  "watchers": 6232,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2211
+  "_index": 2213
 }

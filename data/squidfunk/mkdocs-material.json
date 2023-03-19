@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/squidfunk/mkdocs-material/releases{/id}",
   "deployments_url": "https://api.github.com/repos/squidfunk/mkdocs-material/deployments",
   "created_at": "2016-01-28T22:09:23Z",
-  "updated_at": "2023-03-17T23:52:26Z",
+  "updated_at": "2023-03-18T22:39:12Z",
   "pushed_at": "2023-03-17T14:43:50Z",
   "git_url": "git://github.com/squidfunk/mkdocs-material.git",
   "ssh_url": "git@github.com:squidfunk/mkdocs-material.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/squidfunk/mkdocs-material",
   "homepage": "https://squidfunk.github.io/mkdocs-material/",
   "size": 231844,
-  "stargazers_count": 13111,
-  "watchers_count": 13111,
+  "stargazers_count": 13119,
+  "watchers_count": 13119,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 2853,
+  "forks_count": 2855,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 18,
+  "open_issues_count": 21,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,9 +106,9 @@
     "theme"
   ],
   "visibility": "public",
-  "forks": 2853,
-  "open_issues": 18,
-  "watchers": 13111,
+  "forks": 2855,
+  "open_issues": 21,
+  "watchers": 13119,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1511
+  "_index": 1513
 }

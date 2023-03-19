@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/square/wire/releases{/id}",
   "deployments_url": "https://api.github.com/repos/square/wire/deployments",
   "created_at": "2013-08-21T15:45:47Z",
-  "updated_at": "2023-03-16T17:40:41Z",
-  "pushed_at": "2023-03-17T17:39:25Z",
+  "updated_at": "2023-03-18T08:57:05Z",
+  "pushed_at": "2023-03-18T21:53:33Z",
   "git_url": "git://github.com/square/wire.git",
   "ssh_url": "git@github.com:square/wire.git",
   "clone_url": "https://github.com/square/wire.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 558,
+  "forks_count": 559,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,7 +99,7 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 558,
+  "forks": 559,
   "open_issues": 156,
   "watchers": 3977,
   "default_branch": "master",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1434
+  "_index": 1436
 }

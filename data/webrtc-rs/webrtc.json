@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/webrtc-rs/webrtc/releases{/id}",
   "deployments_url": "https://api.github.com/repos/webrtc-rs/webrtc/deployments",
   "created_at": "2019-08-15T06:18:40Z",
-  "updated_at": "2023-03-17T20:30:55Z",
-  "pushed_at": "2023-03-08T15:11:27Z",
+  "updated_at": "2023-03-18T13:00:13Z",
+  "pushed_at": "2023-03-18T09:37:52Z",
   "git_url": "git://github.com/webrtc-rs/webrtc.git",
   "ssh_url": "git@github.com:webrtc-rs/webrtc.git",
   "clone_url": "https://github.com/webrtc-rs/webrtc.git",
   "svn_url": "https://github.com/webrtc-rs/webrtc",
   "homepage": "https://webrtc.rs",
   "size": 12491,
-  "stargazers_count": 2841,
-  "watchers_count": 2841,
+  "stargazers_count": 2842,
+  "watchers_count": 2842,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 208,
+  "forks_count": 207,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 91,
+  "open_issues_count": 92,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -104,9 +104,9 @@
     "webrtc"
   ],
   "visibility": "public",
-  "forks": 208,
-  "open_issues": 91,
-  "watchers": 2841,
+  "forks": 207,
+  "open_issues": 92,
+  "watchers": 2842,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 553
+  "_index": 555
 }
