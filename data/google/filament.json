@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/filament/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/filament/deployments",
   "created_at": "2018-08-03T17:26:00Z",
-  "updated_at": "2023-03-18T21:20:41Z",
+  "updated_at": "2023-03-20T01:41:39Z",
   "pushed_at": "2023-03-17T23:21:07Z",
   "git_url": "git://github.com/google/filament.git",
   "ssh_url": "git@github.com:google/filament.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/filament",
   "homepage": "https://google.github.io/filament/",
   "size": 672533,
-  "stargazers_count": 15437,
-  "watchers_count": 15437,
+  "stargazers_count": 15440,
+  "watchers_count": 15440,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -115,7 +115,7 @@
   "visibility": "public",
   "forks": 1605,
   "open_issues": 103,
-  "watchers": 15437,
+  "watchers": 15440,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2273
+  "_index": 2281
 }

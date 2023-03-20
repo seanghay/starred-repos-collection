@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tc39/proposal-decorators/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tc39/proposal-decorators/deployments",
   "created_at": "2017-04-28T16:58:41Z",
-  "updated_at": "2023-03-17T13:32:47Z",
+  "updated_at": "2023-03-19T08:44:59Z",
   "pushed_at": "2023-03-02T13:18:37Z",
   "git_url": "git://github.com/tc39/proposal-decorators.git",
   "ssh_url": "git@github.com:tc39/proposal-decorators.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/tc39/proposal-decorators",
   "homepage": "https://arai-a.github.io/ecma262-compare/?pr=2417",
   "size": 588,
-  "stargazers_count": 2385,
-  "watchers_count": 2385,
+  "stargazers_count": 2387,
+  "watchers_count": 2387,
   "language": null,
   "has_issues": true,
   "has_projects": false,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 107,
   "open_issues": 35,
-  "watchers": 2385,
+  "watchers": 2387,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 447
+  "_index": 455
 }

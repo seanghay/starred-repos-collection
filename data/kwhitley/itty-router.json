@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kwhitley/itty-router/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kwhitley/itty-router/deployments",
   "created_at": "2020-04-15T15:32:28Z",
-  "updated_at": "2023-03-18T09:31:43Z",
+  "updated_at": "2023-03-19T11:57:25Z",
   "pushed_at": "2023-03-10T10:24:42Z",
   "git_url": "git://github.com/kwhitley/itty-router.git",
   "ssh_url": "git@github.com:kwhitley/itty-router.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/kwhitley/itty-router",
   "homepage": "",
   "size": 978,
-  "stargazers_count": 1009,
-  "watchers_count": 1009,
+  "stargazers_count": 1010,
+  "watchers_count": 1010,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -115,7 +115,7 @@
   "visibility": "public",
   "forks": 51,
   "open_issues": 9,
-  "watchers": 1009,
+  "watchers": 1010,
   "default_branch": "v3.x",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 362
+  "_index": 370
 }

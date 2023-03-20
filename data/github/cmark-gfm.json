@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/github/cmark-gfm/deployments",
   "created_at": "2016-12-01T01:48:24Z",
   "updated_at": "2023-03-13T02:02:18Z",
-  "pushed_at": "2023-03-09T16:08:04Z",
+  "pushed_at": "2023-03-19T19:55:09Z",
   "git_url": "git://github.com/github/cmark-gfm.git",
   "ssh_url": "git@github.com:github/cmark-gfm.git",
   "clone_url": "https://github.com/github/cmark-gfm.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 96,
+  "open_issues_count": 97,
   "license": {
     "key": "other",
     "name": "Other",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 173,
-  "open_issues": 96,
+  "open_issues": 97,
   "watchers": 755,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 815
+  "_index": 823
 }

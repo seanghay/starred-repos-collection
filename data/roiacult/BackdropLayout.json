@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/roiacult/BackdropLayout/releases{/id}",
   "deployments_url": "https://api.github.com/repos/roiacult/BackdropLayout/deployments",
   "created_at": "2019-05-16T15:45:02Z",
-  "updated_at": "2022-12-05T16:21:04Z",
+  "updated_at": "2023-03-19T11:44:33Z",
   "pushed_at": "2020-09-07T19:46:53Z",
   "git_url": "git://github.com/roiacult/BackdropLayout.git",
   "ssh_url": "git@github.com:roiacult/BackdropLayout.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/roiacult/BackdropLayout",
   "homepage": "https://material.io/design/components/backdrop.html",
   "size": 2015,
-  "stargazers_count": 160,
-  "watchers_count": 160,
+  "stargazers_count": 159,
+  "watchers_count": 159,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 25,
   "open_issues": 0,
-  "watchers": 160,
+  "watchers": 159,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1840
+  "_index": 1848
 }

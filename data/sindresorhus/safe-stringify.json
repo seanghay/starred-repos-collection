@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/safe-stringify/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/safe-stringify/deployments",
   "created_at": "2022-04-01T18:16:15Z",
-  "updated_at": "2023-01-31T19:42:29Z",
-  "pushed_at": "2022-07-26T14:46:40Z",
+  "updated_at": "2023-03-19T20:04:13Z",
+  "pushed_at": "2023-03-19T16:31:19Z",
   "git_url": "git://github.com/sindresorhus/safe-stringify.git",
   "ssh_url": "git@github.com:sindresorhus/safe-stringify.git",
   "clone_url": "https://github.com/sindresorhus/safe-stringify.git",
   "svn_url": "https://github.com/sindresorhus/safe-stringify",
   "homepage": null,
-  "size": 8,
-  "stargazers_count": 55,
-  "watchers_count": 55,
+  "size": 12,
+  "stargazers_count": 58,
+  "watchers_count": 58,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 3,
+  "open_issues_count": 1,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 4,
-  "open_issues": 3,
-  "watchers": 55,
+  "open_issues": 1,
+  "watchers": 58,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 562
+  "_index": 570
 }
