@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wasm3/wasm3/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wasm3/wasm3/deployments",
   "created_at": "2019-10-01T17:06:03Z",
-  "updated_at": "2023-03-20T01:37:21Z",
+  "updated_at": "2023-03-20T21:37:15Z",
   "pushed_at": "2023-01-26T10:07:55Z",
   "git_url": "git://github.com/wasm3/wasm3.git",
   "ssh_url": "git@github.com:wasm3/wasm3.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 378,
+  "forks_count": 379,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 53,
+  "open_issues_count": 52,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -113,8 +113,8 @@
     "webassembly"
   ],
   "visibility": "public",
-  "forks": 378,
-  "open_issues": 53,
+  "forks": 379,
+  "open_issues": 52,
   "watchers": 5955,
   "default_branch": "main",
   "permissions": {
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 167
+  "_index": 172
 }

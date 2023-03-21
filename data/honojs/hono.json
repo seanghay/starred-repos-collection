@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/honojs/hono",
-  "description": "Ultrafast web framework for the Edge",
+  "description": "Ultrafast web framework for the Edges",
   "fork": false,
   "url": "https://api.github.com/repos/honojs/hono",
   "forks_url": "https://api.github.com/repos/honojs/hono/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/honojs/hono/releases{/id}",
   "deployments_url": "https://api.github.com/repos/honojs/hono/deployments",
   "created_at": "2021-12-14T20:05:30Z",
-  "updated_at": "2023-03-20T01:24:54Z",
-  "pushed_at": "2023-03-19T09:23:20Z",
+  "updated_at": "2023-03-20T23:53:18Z",
+  "pushed_at": "2023-03-20T14:36:13Z",
   "git_url": "git://github.com/honojs/hono.git",
   "ssh_url": "git@github.com:honojs/hono.git",
   "clone_url": "https://github.com/honojs/hono.git",
   "svn_url": "https://github.com/honojs/hono",
   "homepage": "https://hono.dev",
-  "size": 3669,
-  "stargazers_count": 3887,
-  "watchers_count": 3887,
+  "size": 3683,
+  "stargazers_count": 3901,
+  "watchers_count": 3901,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 113,
   "open_issues": 77,
-  "watchers": 3887,
+  "watchers": 3901,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 466
+  "_index": 471
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/alibaba/UltraViewPager/releases{/id}",
   "deployments_url": "https://api.github.com/repos/alibaba/UltraViewPager/deployments",
   "created_at": "2017-03-29T13:31:53Z",
-  "updated_at": "2023-03-15T03:02:45Z",
+  "updated_at": "2023-03-20T12:28:34Z",
   "pushed_at": "2021-07-14T04:48:51Z",
   "git_url": "git://github.com/alibaba/UltraViewPager.git",
   "ssh_url": "git@github.com:alibaba/UltraViewPager.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/alibaba/UltraViewPager",
   "homepage": null,
   "size": 8873,
-  "stargazers_count": 5014,
-  "watchers_count": 5014,
+  "stargazers_count": 5012,
+  "watchers_count": 5012,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 685,
   "open_issues": 57,
-  "watchers": 5014,
+  "watchers": 5012,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1907
+  "_index": 1912
 }

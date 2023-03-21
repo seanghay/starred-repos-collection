@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/google/wireit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/wireit/deployments",
   "created_at": "2021-12-22T15:52:53Z",
-  "updated_at": "2023-03-18T03:10:15Z",
-  "pushed_at": "2023-03-17T12:02:24Z",
+  "updated_at": "2023-03-20T15:40:55Z",
+  "pushed_at": "2023-03-20T12:07:13Z",
   "git_url": "git://github.com/google/wireit.git",
   "ssh_url": "git@github.com:google/wireit.git",
   "clone_url": "https://github.com/google/wireit.git",
   "svn_url": "https://github.com/google/wireit",
   "homepage": "",
-  "size": 4012,
-  "stargazers_count": 4354,
-  "watchers_count": 4354,
+  "size": 4153,
+  "stargazers_count": 4357,
+  "watchers_count": 4357,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 58,
+  "open_issues_count": 59,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 71,
-  "open_issues": 58,
-  "watchers": 4354,
+  "open_issues": 59,
+  "watchers": 4357,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 572
+  "_index": 577
 }

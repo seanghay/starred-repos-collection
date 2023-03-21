@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/cpp-best-practices/gui_starter_template/releases{/id}",
   "deployments_url": "https://api.github.com/repos/cpp-best-practices/gui_starter_template/deployments",
   "created_at": "2017-08-18T19:12:35Z",
-  "updated_at": "2023-03-19T15:45:03Z",
+  "updated_at": "2023-03-20T21:20:56Z",
   "pushed_at": "2023-02-20T00:11:11Z",
   "git_url": "git://github.com/cpp-best-practices/gui_starter_template.git",
   "ssh_url": "git@github.com:cpp-best-practices/gui_starter_template.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/cpp-best-practices/gui_starter_template",
   "homepage": "",
   "size": 765,
-  "stargazers_count": 2359,
-  "watchers_count": 2359,
+  "stargazers_count": 2360,
+  "watchers_count": 2360,
   "language": "CMake",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 444,
+  "forks_count": 445,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 444,
+  "forks": 445,
   "open_issues": 30,
-  "watchers": 2359,
+  "watchers": 2360,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 839
+  "_index": 844
 }

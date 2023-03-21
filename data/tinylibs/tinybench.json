@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tinylibs/tinybench/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tinylibs/tinybench/deployments",
   "created_at": "2022-07-30T07:57:59Z",
-  "updated_at": "2023-03-17T20:31:30Z",
+  "updated_at": "2023-03-20T11:45:35Z",
   "pushed_at": "2023-03-04T05:38:45Z",
   "git_url": "git://github.com/tinylibs/tinybench.git",
   "ssh_url": "git@github.com:tinylibs/tinybench.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/tinylibs/tinybench",
   "homepage": "",
   "size": 343,
-  "stargazers_count": 585,
-  "watchers_count": 585,
+  "stargazers_count": 586,
+  "watchers_count": 586,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 14,
   "open_issues": 0,
-  "watchers": 585,
+  "watchers": 586,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 337
+  "_index": 342
 }

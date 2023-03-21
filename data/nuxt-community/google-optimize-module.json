@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/nuxt-community/google-optimize-module/deployments",
   "created_at": "2018-06-28T08:43:21Z",
   "updated_at": "2023-02-26T06:00:18Z",
-  "pushed_at": "2022-04-25T09:28:40Z",
+  "pushed_at": "2023-03-20T15:20:08Z",
   "git_url": "git://github.com/nuxt-community/google-optimize-module.git",
   "ssh_url": "git@github.com:nuxt-community/google-optimize-module.git",
   "clone_url": "https://github.com/nuxt-community/google-optimize-module.git",
   "svn_url": "https://github.com/nuxt-community/google-optimize-module",
   "homepage": null,
-  "size": 146,
+  "size": 150,
   "stargazers_count": 220,
   "watchers_count": 220,
   "language": "JavaScript",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 850
+  "_index": 855
 }

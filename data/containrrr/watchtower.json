@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/containrrr/watchtower/releases{/id}",
   "deployments_url": "https://api.github.com/repos/containrrr/watchtower/deployments",
   "created_at": "2015-07-13T21:21:53Z",
-  "updated_at": "2023-03-19T22:22:49Z",
-  "pushed_at": "2023-03-13T18:58:09Z",
+  "updated_at": "2023-03-21T00:17:23Z",
+  "pushed_at": "2023-03-20T19:04:40Z",
   "git_url": "git://github.com/containrrr/watchtower.git",
   "ssh_url": "git@github.com:containrrr/watchtower.git",
   "clone_url": "https://github.com/containrrr/watchtower.git",
   "svn_url": "https://github.com/containrrr/watchtower",
   "homepage": "https://containrrr.dev/watchtower/",
-  "size": 4888,
-  "stargazers_count": 13276,
-  "watchers_count": 13276,
+  "size": 4852,
+  "stargazers_count": 13285,
+  "watchers_count": 13285,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 708,
+  "forks_count": 707,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 89,
+  "open_issues_count": 92,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -110,9 +110,9 @@
     "watchtower"
   ],
   "visibility": "public",
-  "forks": 708,
-  "open_issues": 89,
-  "watchers": 13276,
+  "forks": 707,
+  "open_issues": 92,
+  "watchers": 13285,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 612
+  "_index": 617
 }

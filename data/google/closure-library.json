@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/google/closure-library.git",
   "svn_url": "https://github.com/google/closure-library",
   "homepage": "code.google.com/closure/library/",
-  "size": 202824,
+  "size": 202826,
   "stargazers_count": 4647,
   "watchers_count": 4647,
   "language": "JavaScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 205,
+  "open_issues_count": 206,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -106,7 +106,7 @@
   ],
   "visibility": "public",
   "forks": 1053,
-  "open_issues": 205,
+  "open_issues": 206,
   "watchers": 4647,
   "default_branch": "master",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2032
+  "_index": 2037
 }

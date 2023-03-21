@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/daybrush/scenejs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/daybrush/scenejs/deployments",
   "created_at": "2017-03-24T08:20:40Z",
-  "updated_at": "2023-03-18T16:11:12Z",
+  "updated_at": "2023-03-20T15:20:32Z",
   "pushed_at": "2023-03-14T13:26:32Z",
   "git_url": "git://github.com/daybrush/scenejs.git",
   "ssh_url": "git@github.com:daybrush/scenejs.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/daybrush/scenejs",
   "homepage": "https://daybrush.com/scenejs",
   "size": 16746,
-  "stargazers_count": 2425,
-  "watchers_count": 2425,
+  "stargazers_count": 2426,
+  "watchers_count": 2426,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -118,7 +118,7 @@
   "visibility": "public",
   "forks": 147,
   "open_issues": 24,
-  "watchers": 2425,
+  "watchers": 2426,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 24
+  "_index": 29
 }

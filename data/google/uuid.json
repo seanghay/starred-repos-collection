@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/uuid/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/uuid/deployments",
   "created_at": "2016-02-12T22:17:59Z",
-  "updated_at": "2023-03-20T01:43:00Z",
+  "updated_at": "2023-03-20T19:16:25Z",
   "pushed_at": "2022-11-13T13:01:54Z",
   "git_url": "git://github.com/google/uuid.git",
   "ssh_url": "git@github.com:google/uuid.git",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1100
+  "_index": 1105
 }
