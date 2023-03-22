@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Kotlin/dukat/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Kotlin/dukat/deployments",
   "created_at": "2018-11-28T13:59:13Z",
-  "updated_at": "2023-03-20T23:28:43Z",
+  "updated_at": "2023-03-21T19:31:39Z",
   "pushed_at": "2023-02-08T22:59:46Z",
   "git_url": "git://github.com/Kotlin/dukat.git",
   "ssh_url": "git@github.com:Kotlin/dukat.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Kotlin/dukat",
   "homepage": "",
   "size": 7886,
-  "stargazers_count": 472,
-  "watchers_count": 472,
+  "stargazers_count": 473,
+  "watchers_count": 473,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -103,7 +103,7 @@
   "visibility": "public",
   "forks": 41,
   "open_issues": 241,
-  "watchers": 472,
+  "watchers": 473,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2074
+  "_index": 2079
 }

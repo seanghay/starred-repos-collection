@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/nektos/act/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nektos/act/deployments",
   "created_at": "2019-01-02T19:53:43Z",
-  "updated_at": "2023-03-21T01:30:02Z",
-  "pushed_at": "2023-03-20T22:22:39Z",
+  "updated_at": "2023-03-22T01:05:28Z",
+  "pushed_at": "2023-03-21T22:16:46Z",
   "git_url": "git://github.com/nektos/act.git",
   "ssh_url": "git@github.com:nektos/act.git",
   "clone_url": "https://github.com/nektos/act.git",
   "svn_url": "https://github.com/nektos/act",
   "homepage": "",
   "size": 6470,
-  "stargazers_count": 36254,
-  "watchers_count": 36254,
+  "stargazers_count": 36306,
+  "watchers_count": 36306,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 909,
+  "forks_count": 912,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "golang"
   ],
   "visibility": "public",
-  "forks": 909,
+  "forks": 912,
   "open_issues": 97,
-  "watchers": 36254,
+  "watchers": 36306,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 545
+  "_index": 550
 }

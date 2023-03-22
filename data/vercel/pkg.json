@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/vercel/pkg/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vercel/pkg/deployments",
   "created_at": "2016-08-08T19:41:59Z",
-  "updated_at": "2023-03-21T01:37:54Z",
-  "pushed_at": "2023-03-20T14:37:07Z",
+  "updated_at": "2023-03-21T21:47:34Z",
+  "pushed_at": "2023-03-21T10:12:06Z",
   "git_url": "git://github.com/vercel/pkg.git",
   "ssh_url": "git@github.com:vercel/pkg.git",
   "clone_url": "https://github.com/vercel/pkg.git",
   "svn_url": "https://github.com/vercel/pkg",
   "homepage": "https://npmjs.com/pkg",
-  "size": 41225,
-  "stargazers_count": 22974,
-  "watchers_count": 22974,
+  "size": 41228,
+  "stargazers_count": 22976,
+  "watchers_count": 22976,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 55,
+  "open_issues_count": 56,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 971,
-  "open_issues": 55,
-  "watchers": 22974,
+  "open_issues": 56,
+  "watchers": 22976,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2556
+  "_index": 2561
 }

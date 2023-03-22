@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/causal-agent/scraper/releases{/id}",
   "deployments_url": "https://api.github.com/repos/causal-agent/scraper/deployments",
   "created_at": "2016-01-01T21:45:09Z",
-  "updated_at": "2023-03-20T07:44:57Z",
+  "updated_at": "2023-03-21T19:55:09Z",
   "pushed_at": "2023-03-06T07:48:51Z",
   "git_url": "git://github.com/causal-agent/scraper.git",
   "ssh_url": "git@github.com:causal-agent/scraper.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/causal-agent/scraper",
   "homepage": "https://docs.rs/scraper",
   "size": 4398,
-  "stargazers_count": 1308,
-  "watchers_count": 1308,
+  "stargazers_count": 1310,
+  "watchers_count": 1310,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 72,
   "open_issues": 9,
-  "watchers": 1308,
+  "watchers": 1310,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 188
+  "_index": 193
 }

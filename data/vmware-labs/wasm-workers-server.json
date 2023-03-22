@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/vmware-labs/wasm-workers-server",
-  "description": "🚀 A WebAssembly framework to develop and run serverless applications",
+  "description": "🚀 An OSS project to develop and run serverless applications on WebAssembly",
   "fork": false,
   "url": "https://api.github.com/repos/vmware-labs/wasm-workers-server",
   "forks_url": "https://api.github.com/repos/vmware-labs/wasm-workers-server/forks",
@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/vmware-labs/wasm-workers-server/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vmware-labs/wasm-workers-server/deployments",
   "created_at": "2022-10-10T09:29:34Z",
-  "updated_at": "2023-03-20T14:56:22Z",
+  "updated_at": "2023-03-21T10:34:03Z",
   "pushed_at": "2023-03-20T12:57:28Z",
   "git_url": "git://github.com/vmware-labs/wasm-workers-server.git",
   "ssh_url": "git@github.com:vmware-labs/wasm-workers-server.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 285
+  "_index": 290
 }

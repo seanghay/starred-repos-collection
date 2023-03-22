@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lukeed/rosetta/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lukeed/rosetta/deployments",
   "created_at": "2020-03-19T01:29:35Z",
-  "updated_at": "2023-03-15T21:01:14Z",
+  "updated_at": "2023-03-21T09:15:16Z",
   "pushed_at": "2021-06-20T22:38:26Z",
   "git_url": "git://github.com/lukeed/rosetta.git",
   "ssh_url": "git@github.com:lukeed/rosetta.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lukeed/rosetta",
   "homepage": "",
   "size": 206,
-  "stargazers_count": 724,
-  "watchers_count": 724,
+  "stargazers_count": 725,
+  "watchers_count": 725,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 15,
   "open_issues": 3,
-  "watchers": 724,
+  "watchers": 725,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1556
+  "_index": 1561
 }

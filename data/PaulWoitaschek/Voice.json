@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/PaulWoitaschek/Voice/releases{/id}",
   "deployments_url": "https://api.github.com/repos/PaulWoitaschek/Voice/deployments",
   "created_at": "2014-08-02T22:01:39Z",
-  "updated_at": "2023-03-20T18:18:17Z",
-  "pushed_at": "2023-03-20T20:43:48Z",
+  "updated_at": "2023-03-21T23:09:07Z",
+  "pushed_at": "2023-03-22T00:46:29Z",
   "git_url": "git://github.com/PaulWoitaschek/Voice.git",
   "ssh_url": "git@github.com:PaulWoitaschek/Voice.git",
   "clone_url": "https://github.com/PaulWoitaschek/Voice.git",
   "svn_url": "https://github.com/PaulWoitaschek/Voice",
   "homepage": "",
-  "size": 116708,
-  "stargazers_count": 1882,
-  "watchers_count": 1882,
+  "size": 116711,
+  "stargazers_count": 1883,
+  "watchers_count": 1883,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 343,
+  "forks_count": 342,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "minimal"
   ],
   "visibility": "public",
-  "forks": 343,
+  "forks": 342,
   "open_issues": 106,
-  "watchers": 1882,
+  "watchers": 1883,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1989
+  "_index": 1994
 }

@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/FerretDB/FerretDB",
-  "description": "A truly Open Source MongoDB alternative",
+  "description": "Open Source, MongoDB-compatible document database",
   "fork": false,
   "url": "https://api.github.com/repos/FerretDB/FerretDB",
   "forks_url": "https://api.github.com/repos/FerretDB/FerretDB/forks",
@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/FerretDB/FerretDB/releases{/id}",
   "deployments_url": "https://api.github.com/repos/FerretDB/FerretDB/deployments",
   "created_at": "2021-10-30T08:06:36Z",
-  "updated_at": "2023-03-21T01:31:39Z",
-  "pushed_at": "2023-03-21T00:38:49Z",
+  "updated_at": "2023-03-21T21:59:36Z",
+  "pushed_at": "2023-03-22T01:58:12Z",
   "git_url": "git://github.com/FerretDB/FerretDB.git",
   "ssh_url": "git@github.com:FerretDB/FerretDB.git",
   "clone_url": "https://github.com/FerretDB/FerretDB.git",
   "svn_url": "https://github.com/FerretDB/FerretDB",
   "homepage": "https://www.ferretdb.io",
-  "size": 5648,
+  "size": 5677,
   "stargazers_count": 5255,
   "watchers_count": 5255,
   "language": "Go",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 383,
+  "open_issues_count": 384,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,6 +99,7 @@
   "web_commit_signoff_required": false,
   "topics": [
     "database",
+    "document",
     "go",
     "golang",
     "mongo",
@@ -110,7 +111,7 @@
   ],
   "visibility": "public",
   "forks": 203,
-  "open_issues": 383,
+  "open_issues": 384,
   "watchers": 5255,
   "default_branch": "main",
   "permissions": {
@@ -120,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 772
+  "_index": 777
 }

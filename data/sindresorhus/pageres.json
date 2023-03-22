@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/pageres/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/pageres/deployments",
   "created_at": "2014-02-07T18:15:18Z",
-  "updated_at": "2023-03-20T03:05:05Z",
+  "updated_at": "2023-03-21T09:27:21Z",
   "pushed_at": "2022-10-27T09:13:39Z",
   "git_url": "git://github.com/sindresorhus/pageres.git",
   "ssh_url": "git@github.com:sindresorhus/pageres.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sindresorhus/pageres",
   "homepage": "",
   "size": 8958,
-  "stargazers_count": 9539,
-  "watchers_count": 9539,
+  "stargazers_count": 9540,
+  "watchers_count": 9540,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 783,
   "open_issues": 19,
-  "watchers": 9539,
+  "watchers": 9540,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 603
+  "_index": 608
 }
