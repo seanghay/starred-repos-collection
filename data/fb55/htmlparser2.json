@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/fb55/htmlparser2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fb55/htmlparser2/deployments",
   "created_at": "2011-08-27T12:25:15Z",
-  "updated_at": "2023-03-20T07:02:46Z",
-  "pushed_at": "2023-03-21T13:07:09Z",
+  "updated_at": "2023-03-23T02:00:31Z",
+  "pushed_at": "2023-03-22T23:47:42Z",
   "git_url": "git://github.com/fb55/htmlparser2.git",
   "ssh_url": "git@github.com:fb55/htmlparser2.git",
   "clone_url": "https://github.com/fb55/htmlparser2.git",
   "svn_url": "https://github.com/fb55/htmlparser2",
   "homepage": "https://feedic.com/htmlparser2",
-  "size": 4787,
-  "stargazers_count": 3795,
-  "watchers_count": 3795,
+  "size": 4789,
+  "stargazers_count": 3796,
+  "watchers_count": 3796,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 370,
+  "forks_count": 371,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 4,
+  "open_issues_count": 2,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,9 +107,9 @@
     "xml"
   ],
   "visibility": "public",
-  "forks": 370,
-  "open_issues": 4,
-  "watchers": 3795,
+  "forks": 371,
+  "open_issues": 2,
+  "watchers": 3796,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 388
+  "_index": 390
 }

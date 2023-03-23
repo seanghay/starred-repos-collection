@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/MrTrying/ExpandableText-Example/releases{/id}",
   "deployments_url": "https://api.github.com/repos/MrTrying/ExpandableText-Example/deployments",
   "created_at": "2019-07-11T06:20:13Z",
-  "updated_at": "2023-02-07T05:34:08Z",
+  "updated_at": "2023-03-22T13:14:43Z",
   "pushed_at": "2019-10-16T12:14:50Z",
   "git_url": "git://github.com/MrTrying/ExpandableText-Example.git",
   "ssh_url": "git@github.com:MrTrying/ExpandableText-Example.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/MrTrying/ExpandableText-Example",
   "homepage": null,
   "size": 85,
-  "stargazers_count": 131,
-  "watchers_count": 131,
+  "stargazers_count": 132,
+  "watchers_count": 132,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 68,
   "open_issues": 6,
-  "watchers": 131,
+  "watchers": 132,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1513
+  "_index": 1515
 }

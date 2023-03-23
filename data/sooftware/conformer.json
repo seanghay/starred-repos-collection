@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 121,
+  "forks_count": 124,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -112,7 +112,7 @@
     "transformer-xl"
   ],
   "visibility": "public",
-  "forks": 121,
+  "forks": 124,
   "open_issues": 16,
   "watchers": 619,
   "default_branch": "main",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 6
+  "_index": 8
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/square/Cleanse/releases{/id}",
   "deployments_url": "https://api.github.com/repos/square/Cleanse/deployments",
   "created_at": "2016-06-08T00:24:36Z",
-  "updated_at": "2023-03-18T21:24:24Z",
+  "updated_at": "2023-03-22T17:02:03Z",
   "pushed_at": "2023-03-18T23:19:12Z",
   "git_url": "git://github.com/square/Cleanse.git",
   "ssh_url": "git@github.com:square/Cleanse.git",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 816
+  "_index": 818
 }

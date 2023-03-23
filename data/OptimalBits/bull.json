@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/OptimalBits/bull/releases{/id}",
   "deployments_url": "https://api.github.com/repos/OptimalBits/bull/deployments",
   "created_at": "2013-06-27T14:35:35Z",
-  "updated_at": "2023-03-21T17:23:54Z",
+  "updated_at": "2023-03-22T16:24:48Z",
   "pushed_at": "2023-03-18T11:23:58Z",
   "git_url": "git://github.com/OptimalBits/bull.git",
   "ssh_url": "git@github.com:OptimalBits/bull.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/OptimalBits/bull",
   "homepage": "",
   "size": 3389,
-  "stargazers_count": 13807,
-  "watchers_count": 13807,
+  "stargazers_count": 13810,
+  "watchers_count": 13810,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 1436,
   "open_issues": 183,
-  "watchers": 13807,
+  "watchers": 13810,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1433
+  "_index": 1435
 }

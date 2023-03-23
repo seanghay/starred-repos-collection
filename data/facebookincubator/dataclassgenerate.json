@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/facebookincubator/dataclassgenerate/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookincubator/dataclassgenerate/deployments",
   "created_at": "2023-02-15T21:15:02Z",
-  "updated_at": "2023-03-21T02:57:43Z",
-  "pushed_at": "2023-03-21T05:45:18Z",
+  "updated_at": "2023-03-22T17:02:36Z",
+  "pushed_at": "2023-03-22T17:12:30Z",
   "git_url": "git://github.com/facebookincubator/dataclassgenerate.git",
   "ssh_url": "git@github.com:facebookincubator/dataclassgenerate.git",
   "clone_url": "https://github.com/facebookincubator/dataclassgenerate.git",
   "svn_url": "https://github.com/facebookincubator/dataclassgenerate",
   "homepage": "",
-  "size": 134,
-  "stargazers_count": 109,
-  "watchers_count": 109,
+  "size": 156,
+  "stargazers_count": 110,
+  "watchers_count": 110,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 0,
+  "open_issues_count": 1,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 1,
-  "open_issues": 0,
-  "watchers": 109,
+  "open_issues": 1,
+  "watchers": 110,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 31
+  "_index": 33
 }

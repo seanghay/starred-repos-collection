@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/donkingliang/ConsecutiveScroller.git",
   "svn_url": "https://github.com/donkingliang/ConsecutiveScroller",
   "homepage": "",
-  "size": 7261,
+  "size": 7289,
   "stargazers_count": 2298,
   "watchers_count": 2298,
   "language": "Java",
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1584
+  "_index": 1586
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ztjhz/FreeChatGPT/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ztjhz/FreeChatGPT/deployments",
   "created_at": "2023-03-03T22:16:18Z",
-  "updated_at": "2023-03-22T01:53:54Z",
-  "pushed_at": "2023-03-21T05:06:26Z",
+  "updated_at": "2023-03-23T02:00:40Z",
+  "pushed_at": "2023-03-22T17:26:55Z",
   "git_url": "git://github.com/ztjhz/FreeChatGPT.git",
   "ssh_url": "git@github.com:ztjhz/FreeChatGPT.git",
   "clone_url": "https://github.com/ztjhz/FreeChatGPT.git",
   "svn_url": "https://github.com/ztjhz/FreeChatGPT",
   "homepage": "https://freechatgpt.chat",
-  "size": 23941,
-  "stargazers_count": 1053,
-  "watchers_count": 1053,
+  "size": 25985,
+  "stargazers_count": 1115,
+  "watchers_count": 1115,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 291,
+  "forks_count": 312,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 36,
+  "open_issues_count": 38,
   "license": {
     "key": "cc0-1.0",
     "name": "Creative Commons Zero v1.0 Universal",
@@ -105,9 +105,9 @@
     "gpt-4"
   ],
   "visibility": "public",
-  "forks": 291,
-  "open_issues": 36,
-  "watchers": 1053,
+  "forks": 312,
+  "open_issues": 38,
+  "watchers": 1115,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 39
+  "_index": 41
 }
