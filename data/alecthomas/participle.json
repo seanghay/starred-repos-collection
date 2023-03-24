@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/alecthomas/participle/deployments",
   "created_at": "2016-06-28T14:25:14Z",
   "updated_at": "2023-03-22T09:16:15Z",
-  "pushed_at": "2023-03-22T03:41:16Z",
+  "pushed_at": "2023-03-23T16:11:45Z",
   "git_url": "git://github.com/alecthomas/participle.git",
   "ssh_url": "git@github.com:alecthomas/participle.git",
   "clone_url": "https://github.com/alecthomas/participle.git",
   "svn_url": "https://github.com/alecthomas/participle",
   "homepage": "",
-  "size": 900,
+  "size": 899,
   "stargazers_count": 2852,
   "watchers_count": 2852,
   "language": "Go",
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 669
+  "_index": 670
 }

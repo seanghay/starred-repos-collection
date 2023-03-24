@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/igalata/Bubble-Picker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/igalata/Bubble-Picker/deployments",
   "created_at": "2017-03-09T03:48:04Z",
-  "updated_at": "2023-03-21T07:06:50Z",
+  "updated_at": "2023-03-23T23:18:17Z",
   "pushed_at": "2021-05-01T00:53:17Z",
   "git_url": "git://github.com/igalata/Bubble-Picker.git",
   "ssh_url": "git@github.com:igalata/Bubble-Picker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/igalata/Bubble-Picker",
   "homepage": "https://medium.com/@igalata13/how-to-create-a-bubble-selection-animation-on-android-627044da4854#.js8nebsx6",
   "size": 14370,
-  "stargazers_count": 1389,
-  "watchers_count": 1389,
+  "stargazers_count": 1388,
+  "watchers_count": 1388,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 243,
+  "forks_count": 244,
   "mirror_url": null,
   "archived": true,
   "disabled": false,
@@ -102,9 +102,9 @@
     "selection"
   ],
   "visibility": "public",
-  "forks": 243,
+  "forks": 244,
   "open_issues": 59,
-  "watchers": 1389,
+  "watchers": 1388,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2195
+  "_index": 2196
 }

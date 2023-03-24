@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/compiler-explorer/compiler-explorer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/compiler-explorer/compiler-explorer/deployments",
   "created_at": "2012-05-23T01:31:17Z",
-  "updated_at": "2023-03-23T00:25:39Z",
-  "pushed_at": "2023-03-23T01:32:33Z",
+  "updated_at": "2023-03-23T23:18:37Z",
+  "pushed_at": "2023-03-23T19:47:46Z",
   "git_url": "git://github.com/compiler-explorer/compiler-explorer.git",
   "ssh_url": "git@github.com:compiler-explorer/compiler-explorer.git",
   "clone_url": "https://github.com/compiler-explorer/compiler-explorer.git",
   "svn_url": "https://github.com/compiler-explorer/compiler-explorer",
   "homepage": "https://godbolt.org/",
-  "size": 56587,
-  "stargazers_count": 12826,
-  "watchers_count": 12826,
+  "size": 56589,
+  "stargazers_count": 12828,
+  "watchers_count": 12828,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 635,
+  "open_issues_count": 636,
   "license": {
     "key": "bsd-2-clause",
     "name": "BSD 2-Clause \"Simplified\" License",
@@ -113,8 +113,8 @@
   ],
   "visibility": "public",
   "forks": 1448,
-  "open_issues": 635,
-  "watchers": 12826,
+  "open_issues": 636,
+  "watchers": 12828,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 175
+  "_index": 176
 }

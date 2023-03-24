@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/MinimalCompact/thumbor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/MinimalCompact/thumbor/deployments",
   "created_at": "2018-07-01T19:40:19Z",
-  "updated_at": "2023-03-22T11:18:55Z",
+  "updated_at": "2023-03-23T20:02:24Z",
   "pushed_at": "2023-03-22T08:31:20Z",
   "git_url": "git://github.com/MinimalCompact/thumbor.git",
   "ssh_url": "git@github.com:MinimalCompact/thumbor.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/MinimalCompact/thumbor",
   "homepage": "",
   "size": 195,
-  "stargazers_count": 235,
-  "watchers_count": 235,
+  "stargazers_count": 236,
+  "watchers_count": 236,
   "language": "Smarty",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 73,
   "open_issues": 9,
-  "watchers": 235,
+  "watchers": 236,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 680
+  "_index": 681
 }

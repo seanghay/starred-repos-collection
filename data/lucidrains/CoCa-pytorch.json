@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lucidrains/CoCa-pytorch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lucidrains/CoCa-pytorch/deployments",
   "created_at": "2022-05-05T19:41:01Z",
-  "updated_at": "2023-03-23T00:34:02Z",
+  "updated_at": "2023-03-23T15:52:02Z",
   "pushed_at": "2023-01-19T04:24:51Z",
   "git_url": "git://github.com/lucidrains/CoCa-pytorch.git",
   "ssh_url": "git@github.com:lucidrains/CoCa-pytorch.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lucidrains/CoCa-pytorch",
   "homepage": "",
   "size": 585,
-  "stargazers_count": 669,
-  "watchers_count": 669,
+  "stargazers_count": 671,
+  "watchers_count": 671,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 65,
+  "forks_count": 64,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "transformers"
   ],
   "visibility": "public",
-  "forks": 65,
+  "forks": 64,
   "open_issues": 6,
-  "watchers": 669,
+  "watchers": 671,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 9
+  "_index": 10
 }

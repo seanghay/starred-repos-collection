@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/foliojs/linebreak/deployments",
   "created_at": "2014-02-16T05:43:03Z",
   "updated_at": "2023-03-22T18:50:56Z",
-  "pushed_at": "2023-03-22T07:30:38Z",
+  "pushed_at": "2023-03-23T02:20:24Z",
   "git_url": "git://github.com/foliojs/linebreak.git",
   "ssh_url": "git@github.com:foliojs/linebreak.git",
   "clone_url": "https://github.com/foliojs/linebreak.git",
   "svn_url": "https://github.com/foliojs/linebreak",
   "homepage": null,
-  "size": 694,
+  "size": 697,
   "stargazers_count": 161,
   "watchers_count": 161,
   "language": "JavaScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 6,
+  "open_issues_count": 5,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 36,
-  "open_issues": 6,
+  "open_issues": 5,
   "watchers": 161,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 163
+  "_index": 164
 }

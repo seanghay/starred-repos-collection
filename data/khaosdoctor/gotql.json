@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/khaosdoctor/gotql/releases{/id}",
   "deployments_url": "https://api.github.com/repos/khaosdoctor/gotql/deployments",
   "created_at": "2017-11-28T21:46:58Z",
-  "updated_at": "2023-03-11T12:20:46Z",
+  "updated_at": "2023-03-23T21:16:05Z",
   "pushed_at": "2023-03-04T02:53:02Z",
   "git_url": "git://github.com/khaosdoctor/gotql.git",
   "ssh_url": "git@github.com:khaosdoctor/gotql.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/khaosdoctor/gotql",
   "homepage": "",
   "size": 2440,
-  "stargazers_count": 393,
-  "watchers_count": 393,
+  "stargazers_count": 392,
+  "watchers_count": 392,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 23,
   "open_issues": 9,
-  "watchers": 393,
+  "watchers": 392,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 442
+  "_index": 443
 }

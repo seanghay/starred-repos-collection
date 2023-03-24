@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/rust-skia/rust-skia/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rust-skia/rust-skia/deployments",
   "created_at": "2018-12-07T07:25:31Z",
-  "updated_at": "2023-03-22T10:57:02Z",
-  "pushed_at": "2023-03-22T23:43:57Z",
+  "updated_at": "2023-03-23T12:33:43Z",
+  "pushed_at": "2023-03-23T21:54:24Z",
   "git_url": "git://github.com/rust-skia/rust-skia.git",
   "ssh_url": "git@github.com:rust-skia/rust-skia.git",
   "clone_url": "https://github.com/rust-skia/rust-skia.git",
   "svn_url": "https://github.com/rust-skia/rust-skia",
   "homepage": "",
-  "size": 5701,
-  "stargazers_count": 1017,
-  "watchers_count": 1017,
+  "size": 5827,
+  "stargazers_count": 1018,
+  "watchers_count": 1018,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 42,
+  "open_issues_count": 41,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,8 +112,8 @@
   ],
   "visibility": "public",
   "forks": 93,
-  "open_issues": 42,
-  "watchers": 1017,
+  "open_issues": 41,
+  "watchers": 1018,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 100
+  "_index": 101
 }

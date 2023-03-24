@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/commaai/openpilot/releases{/id}",
   "deployments_url": "https://api.github.com/repos/commaai/openpilot/deployments",
   "created_at": "2016-11-24T01:33:30Z",
-  "updated_at": "2023-03-23T00:20:38Z",
-  "pushed_at": "2023-03-23T01:41:10Z",
+  "updated_at": "2023-03-23T22:21:57Z",
+  "pushed_at": "2023-03-24T01:39:54Z",
   "git_url": "git://github.com/commaai/openpilot.git",
   "ssh_url": "git@github.com:commaai/openpilot.git",
   "clone_url": "https://github.com/commaai/openpilot.git",
   "svn_url": "https://github.com/commaai/openpilot",
   "homepage": "https://comma.ai/",
-  "size": 2286745,
-  "stargazers_count": 38964,
-  "watchers_count": 38964,
+  "size": 2327533,
+  "stargazers_count": 38968,
+  "watchers_count": 38968,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 7112,
   "open_issues": 358,
-  "watchers": 38964,
+  "watchers": 38968,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 993
+  "_index": 994
 }
