@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/austintheriot/hand-crafted-wasm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/austintheriot/hand-crafted-wasm/deployments",
   "created_at": "2021-11-05T20:07:19Z",
-  "updated_at": "2023-03-20T06:30:01Z",
-  "pushed_at": "2023-03-24T01:52:23Z",
+  "updated_at": "2023-03-24T20:51:19Z",
+  "pushed_at": "2023-03-25T01:32:00Z",
   "git_url": "git://github.com/austintheriot/hand-crafted-wasm.git",
   "ssh_url": "git@github.com:austintheriot/hand-crafted-wasm.git",
   "clone_url": "https://github.com/austintheriot/hand-crafted-wasm.git",
   "svn_url": "https://github.com/austintheriot/hand-crafted-wasm",
   "homepage": "https://austintheriot.github.io/hand-crafted-wasm/",
-  "size": 29753,
-  "stargazers_count": 33,
-  "watchers_count": 33,
+  "size": 29892,
+  "stargazers_count": 37,
+  "watchers_count": 37,
   "language": "WebAssembly",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 0,
   "open_issues": 0,
-  "watchers": 33,
+  "watchers": 37,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 17
+  "_index": 19
 }

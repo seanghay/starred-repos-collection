@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/versatica/mediasoup/releases{/id}",
   "deployments_url": "https://api.github.com/repos/versatica/mediasoup/deployments",
   "created_at": "2014-12-12T12:00:36Z",
-  "updated_at": "2023-03-23T17:30:15Z",
-  "pushed_at": "2023-03-23T14:49:11Z",
+  "updated_at": "2023-03-24T04:15:26Z",
+  "pushed_at": "2023-03-24T11:33:12Z",
   "git_url": "git://github.com/versatica/mediasoup.git",
   "ssh_url": "git@github.com:versatica/mediasoup.git",
   "clone_url": "https://github.com/versatica/mediasoup.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 31,
+  "open_issues_count": 32,
   "license": {
     "key": "isc",
     "name": "ISC License",
@@ -107,7 +107,7 @@
   ],
   "visibility": "public",
   "forks": 984,
-  "open_issues": 31,
+  "open_issues": 32,
   "watchers": 5159,
   "default_branch": "v3",
   "permissions": {
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 601
+  "_index": 603
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/dbeaver/dbeaver/releases{/id}",
   "deployments_url": "https://api.github.com/repos/dbeaver/dbeaver/deployments",
   "created_at": "2015-10-21T08:26:28Z",
-  "updated_at": "2023-03-24T01:54:44Z",
-  "pushed_at": "2023-03-23T21:17:24Z",
+  "updated_at": "2023-03-24T23:26:45Z",
+  "pushed_at": "2023-03-24T16:21:41Z",
   "git_url": "git://github.com/dbeaver/dbeaver.git",
   "ssh_url": "git@github.com:dbeaver/dbeaver.git",
   "clone_url": "https://github.com/dbeaver/dbeaver.git",
   "svn_url": "https://github.com/dbeaver/dbeaver",
   "homepage": "https://dbeaver.io",
-  "size": 284737,
-  "stargazers_count": 31178,
-  "watchers_count": 31178,
+  "size": 284711,
+  "stargazers_count": 31201,
+  "watchers_count": 31201,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1750,
+  "open_issues_count": 1752,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -115,8 +115,8 @@
   ],
   "visibility": "public",
   "forks": 2807,
-  "open_issues": 1750,
-  "watchers": 31178,
+  "open_issues": 1752,
+  "watchers": 31201,
   "default_branch": "devel",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 599
+  "_index": 601
 }

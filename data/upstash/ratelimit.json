@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/upstash/ratelimit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/upstash/ratelimit/deployments",
   "created_at": "2022-04-20T07:29:46Z",
-  "updated_at": "2023-03-23T19:48:52Z",
+  "updated_at": "2023-03-24T20:20:34Z",
   "pushed_at": "2023-03-10T16:27:32Z",
   "git_url": "git://github.com/upstash/ratelimit.git",
   "ssh_url": "git@github.com:upstash/ratelimit.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/upstash/ratelimit",
   "homepage": "",
   "size": 523,
-  "stargazers_count": 499,
-  "watchers_count": 499,
+  "stargazers_count": 504,
+  "watchers_count": 504,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1,
+  "open_issues_count": 2,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,8 +104,8 @@
   ],
   "visibility": "public",
   "forks": 3,
-  "open_issues": 1,
-  "watchers": 499,
+  "open_issues": 2,
+  "watchers": 504,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 23
+  "_index": 25
 }

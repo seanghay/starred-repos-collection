@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Rajawali/Rajawali/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Rajawali/Rajawali/deployments",
   "created_at": "2011-07-07T10:29:45Z",
-  "updated_at": "2023-03-23T20:42:03Z",
+  "updated_at": "2023-03-24T15:23:16Z",
   "pushed_at": "2023-03-03T20:57:10Z",
   "git_url": "git://github.com/Rajawali/Rajawali.git",
   "ssh_url": "git@github.com:Rajawali/Rajawali.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 187,
+  "open_issues_count": 188,
   "license": {
     "key": "other",
     "name": "Other",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 694,
-  "open_issues": 187,
+  "open_issues": 188,
   "watchers": 2238,
   "default_branch": "develop",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1002
+  "_index": 1004
 }

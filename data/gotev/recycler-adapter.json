@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/gotev/recycler-adapter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gotev/recycler-adapter/deployments",
   "created_at": "2016-10-11T09:54:12Z",
-  "updated_at": "2022-11-04T12:14:09Z",
+  "updated_at": "2023-03-24T20:35:25Z",
   "pushed_at": "2021-10-14T17:15:11Z",
   "git_url": "git://github.com/gotev/recycler-adapter.git",
   "ssh_url": "git@github.com:gotev/recycler-adapter.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/gotev/recycler-adapter",
   "homepage": "",
   "size": 3153,
-  "stargazers_count": 128,
-  "watchers_count": 128,
+  "stargazers_count": 127,
+  "watchers_count": 127,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -121,7 +121,7 @@
   "visibility": "public",
   "forks": 16,
   "open_issues": 0,
-  "watchers": 128,
+  "watchers": 127,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1709
+  "_index": 1711
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/KhronosGroup/Vulkan-Samples/releases{/id}",
   "deployments_url": "https://api.github.com/repos/KhronosGroup/Vulkan-Samples/deployments",
   "created_at": "2019-10-29T16:10:56Z",
-  "updated_at": "2023-03-24T00:41:36Z",
-  "pushed_at": "2023-03-23T15:06:29Z",
+  "updated_at": "2023-03-24T19:17:32Z",
+  "pushed_at": "2023-03-24T18:47:35Z",
   "git_url": "git://github.com/KhronosGroup/Vulkan-Samples.git",
   "ssh_url": "git@github.com:KhronosGroup/Vulkan-Samples.git",
   "clone_url": "https://github.com/KhronosGroup/Vulkan-Samples.git",
   "svn_url": "https://github.com/KhronosGroup/Vulkan-Samples",
   "homepage": "https://github.khronos.org/Vulkan-Samples/",
   "size": 45484,
-  "stargazers_count": 3015,
-  "watchers_count": 3015,
+  "stargazers_count": 3019,
+  "watchers_count": 3019,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 439,
+  "forks_count": 440,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 71,
+  "open_issues_count": 73,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -109,9 +109,9 @@
     "vulkan-samples"
   ],
   "visibility": "public",
-  "forks": 439,
-  "open_issues": 71,
-  "watchers": 3015,
+  "forks": 440,
+  "open_issues": 73,
+  "watchers": 3019,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1939
+  "_index": 1941
 }

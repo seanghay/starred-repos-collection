@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/hayes/pothos/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hayes/pothos/deployments",
   "created_at": "2019-10-11T06:51:46Z",
-  "updated_at": "2023-03-24T00:56:58Z",
-  "pushed_at": "2023-03-23T05:53:37Z",
+  "updated_at": "2023-03-25T01:50:31Z",
+  "pushed_at": "2023-03-24T21:43:00Z",
   "git_url": "git://github.com/hayes/pothos.git",
   "ssh_url": "git@github.com:hayes/pothos.git",
   "clone_url": "https://github.com/hayes/pothos.git",
   "svn_url": "https://github.com/hayes/pothos",
   "homepage": "https://pothos-graphql.dev",
-  "size": 69203,
-  "stargazers_count": 1739,
-  "watchers_count": 1739,
+  "size": 69223,
+  "stargazers_count": 1743,
+  "watchers_count": 1743,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 30,
+  "open_issues_count": 31,
   "license": {
     "key": "isc",
     "name": "ISC License",
@@ -103,8 +103,8 @@
   ],
   "visibility": "public",
   "forks": 112,
-  "open_issues": 30,
-  "watchers": 1739,
+  "open_issues": 31,
+  "watchers": 1743,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1100
+  "_index": 1102
 }

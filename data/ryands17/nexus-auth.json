@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/ryands17/nexus-auth/deployments",
   "created_at": "2019-08-13T18:44:44Z",
   "updated_at": "2023-03-17T03:47:43Z",
-  "pushed_at": "2023-03-23T23:18:48Z",
+  "pushed_at": "2023-03-25T01:52:17Z",
   "git_url": "git://github.com/ryands17/nexus-auth.git",
   "ssh_url": "git@github.com:ryands17/nexus-auth.git",
   "clone_url": "https://github.com/ryands17/nexus-auth.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 9,
+  "open_issues_count": 11,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -99,7 +99,7 @@
   ],
   "visibility": "public",
   "forks": 20,
-  "open_issues": 9,
+  "open_issues": 11,
   "watchers": 159,
   "default_branch": "master",
   "permissions": {
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 695
+  "_index": 697
 }

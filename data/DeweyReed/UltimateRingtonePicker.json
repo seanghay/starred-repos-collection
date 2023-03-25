@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/DeweyReed/UltimateRingtonePicker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/DeweyReed/UltimateRingtonePicker/deployments",
   "created_at": "2018-09-15T03:44:11Z",
-  "updated_at": "2023-02-25T02:20:56Z",
+  "updated_at": "2023-03-24T06:09:59Z",
   "pushed_at": "2022-12-11T09:21:23Z",
   "git_url": "git://github.com/DeweyReed/UltimateRingtonePicker.git",
   "ssh_url": "git@github.com:DeweyReed/UltimateRingtonePicker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/DeweyReed/UltimateRingtonePicker",
   "homepage": "",
   "size": 945,
-  "stargazers_count": 62,
-  "watchers_count": 62,
+  "stargazers_count": 61,
+  "watchers_count": 61,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 10,
   "open_issues": 3,
-  "watchers": 62,
+  "watchers": 61,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2062
+  "_index": 2064
 }

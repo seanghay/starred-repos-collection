@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/meilisearch/meilisearch-js.git",
   "svn_url": "https://github.com/meilisearch/meilisearch-js",
   "homepage": "https://www.meilisearch.com",
-  "size": 10850,
+  "size": 10851,
   "stargazers_count": 499,
   "watchers_count": 499,
   "language": "TypeScript",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 747
+  "_index": 749
 }
