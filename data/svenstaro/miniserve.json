@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/svenstaro/miniserve.git",
   "svn_url": "https://github.com/svenstaro/miniserve",
   "homepage": "",
-  "size": 3429,
+  "size": 3271,
   "stargazers_count": 4414,
   "watchers_count": 4414,
   "language": "Rust",
