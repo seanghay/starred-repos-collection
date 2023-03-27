@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/helm/helm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/helm/helm/deployments",
   "created_at": "2015-10-06T01:07:32Z",
-  "updated_at": "2023-03-25T18:50:18Z",
+  "updated_at": "2023-03-26T18:36:51Z",
   "pushed_at": "2023-03-24T15:05:35Z",
   "git_url": "git://github.com/helm/helm.git",
   "ssh_url": "git@github.com:helm/helm.git",
