@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/micromatch/picomatch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/micromatch/picomatch/deployments",
   "created_at": "2018-11-05T12:06:49Z",
-  "updated_at": "2023-03-19T18:10:12Z",
+  "updated_at": "2023-03-27T10:23:56Z",
   "pushed_at": "2022-08-17T17:56:13Z",
   "git_url": "git://github.com/micromatch/picomatch.git",
   "ssh_url": "git@github.com:micromatch/picomatch.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/micromatch/picomatch",
   "homepage": "https://github.com/micromatch",
   "size": 819,
-  "stargazers_count": 706,
-  "watchers_count": 706,
+  "stargazers_count": 707,
+  "watchers_count": 707,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -118,7 +118,7 @@
   "visibility": "public",
   "forks": 51,
   "open_issues": 33,
-  "watchers": 706,
+  "watchers": 707,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 318
+  "_index": 322
 }

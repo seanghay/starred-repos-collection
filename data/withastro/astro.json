@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/withastro/astro",
-  "description": "Astro is the all-in-one web framework designed for speed 🏝️✨",
+  "description": "The all-in-one web framework designed for speed. ⭐️ Star to support our work!",
   "fork": false,
   "url": "https://api.github.com/repos/withastro/astro",
   "forks_url": "https://api.github.com/repos/withastro/astro/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/withastro/astro/releases{/id}",
   "deployments_url": "https://api.github.com/repos/withastro/astro/deployments",
   "created_at": "2021-03-15T17:19:47Z",
-  "updated_at": "2023-03-27T01:50:18Z",
-  "pushed_at": "2023-03-26T19:49:22Z",
+  "updated_at": "2023-03-27T23:39:52Z",
+  "pushed_at": "2023-03-28T02:05:03Z",
   "git_url": "git://github.com/withastro/astro.git",
   "ssh_url": "git@github.com:withastro/astro.git",
   "clone_url": "https://github.com/withastro/astro.git",
   "svn_url": "https://github.com/withastro/astro",
   "homepage": "https://astro.build",
-  "size": 139128,
-  "stargazers_count": 28722,
-  "watchers_count": 28722,
+  "size": 138951,
+  "stargazers_count": 28740,
+  "watchers_count": 28740,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1414,
+  "forks_count": 1420,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 158,
+  "open_issues_count": 162,
   "license": {
     "key": "other",
     "name": "Other",
@@ -111,9 +111,9 @@
     "universal"
   ],
   "visibility": "public",
-  "forks": 1414,
-  "open_issues": 158,
-  "watchers": 28722,
+  "forks": 1420,
+  "open_issues": 162,
+  "watchers": 28740,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1030
+  "_index": 1034
 }

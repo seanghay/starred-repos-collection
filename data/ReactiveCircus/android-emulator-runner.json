@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/ReactiveCircus/android-emulator-runner/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ReactiveCircus/android-emulator-runner/deployments",
   "created_at": "2019-11-05T15:45:42Z",
-  "updated_at": "2023-03-27T01:04:44Z",
-  "pushed_at": "2023-03-18T08:51:55Z",
+  "updated_at": "2023-03-27T13:22:32Z",
+  "pushed_at": "2023-03-27T23:44:42Z",
   "git_url": "git://github.com/ReactiveCircus/android-emulator-runner.git",
   "ssh_url": "git@github.com:ReactiveCircus/android-emulator-runner.git",
   "clone_url": "https://github.com/ReactiveCircus/android-emulator-runner.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 151,
+  "forks_count": 152,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 36,
+  "open_issues_count": 38,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -104,8 +104,8 @@
     "testing"
   ],
   "visibility": "public",
-  "forks": 151,
-  "open_issues": 36,
+  "forks": 152,
+  "open_issues": 38,
   "watchers": 713,
   "default_branch": "main",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 416
+  "_index": 420
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/AnyLifeZLB/ScrollTextView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/AnyLifeZLB/ScrollTextView/deployments",
   "created_at": "2015-10-19T03:03:06Z",
-  "updated_at": "2023-03-24T09:00:56Z",
+  "updated_at": "2023-03-28T01:52:07Z",
   "pushed_at": "2022-12-19T09:16:45Z",
   "git_url": "git://github.com/AnyLifeZLB/ScrollTextView.git",
   "ssh_url": "git@github.com:AnyLifeZLB/ScrollTextView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/AnyLifeZLB/ScrollTextView",
   "homepage": "",
   "size": 1218,
-  "stargazers_count": 519,
-  "watchers_count": 519,
+  "stargazers_count": 521,
+  "watchers_count": 521,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -100,7 +100,7 @@
   "visibility": "public",
   "forks": 106,
   "open_issues": 1,
-  "watchers": 519,
+  "watchers": 521,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1627
+  "_index": 1631
 }

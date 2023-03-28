@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/railwayapp/cli/deployments",
   "created_at": "2020-10-01T18:34:48Z",
   "updated_at": "2023-03-25T17:48:56Z",
-  "pushed_at": "2023-03-25T03:17:20Z",
+  "pushed_at": "2023-03-27T23:49:31Z",
   "git_url": "git://github.com/railwayapp/cli.git",
   "ssh_url": "git@github.com:railwayapp/cli.git",
   "clone_url": "https://github.com/railwayapp/cli.git",
   "svn_url": "https://github.com/railwayapp/cli",
   "homepage": "https://railway.app",
-  "size": 604,
+  "size": 624,
   "stargazers_count": 188,
   "watchers_count": 188,
   "language": "Rust",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 25,
+  "open_issues_count": 27,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,7 +104,7 @@
   ],
   "visibility": "public",
   "forks": 52,
-  "open_issues": 25,
+  "open_issues": 27,
   "watchers": 188,
   "default_branch": "master",
   "permissions": {
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1161
+  "_index": 1165
 }

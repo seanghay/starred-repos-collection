@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 907,
+  "forks_count": 906,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -114,7 +114,7 @@
     "ypimagepicker"
   ],
   "visibility": "public",
-  "forks": 907,
+  "forks": 906,
   "open_issues": 141,
   "watchers": 4031,
   "default_branch": "master",
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2172
+  "_index": 2176
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/JoeyDeVries/LearnOpenGL/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JoeyDeVries/LearnOpenGL/deployments",
   "created_at": "2015-03-23T14:21:27Z",
-  "updated_at": "2023-03-26T17:52:51Z",
-  "pushed_at": "2023-03-18T13:22:31Z",
+  "updated_at": "2023-03-27T22:40:07Z",
+  "pushed_at": "2023-03-27T09:38:36Z",
   "git_url": "git://github.com/JoeyDeVries/LearnOpenGL.git",
   "ssh_url": "git@github.com:JoeyDeVries/LearnOpenGL.git",
   "clone_url": "https://github.com/JoeyDeVries/LearnOpenGL.git",
   "svn_url": "https://github.com/JoeyDeVries/LearnOpenGL",
   "homepage": "https://learnopengl.com",
-  "size": 204871,
-  "stargazers_count": 8635,
-  "watchers_count": 8635,
+  "size": 204645,
+  "stargazers_count": 8640,
+  "watchers_count": 8640,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 2478,
   "open_issues": 119,
-  "watchers": 8635,
+  "watchers": 8640,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1005
+  "_index": 1009
 }

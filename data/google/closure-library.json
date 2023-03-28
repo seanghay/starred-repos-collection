@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/google/closure-library.git",
   "svn_url": "https://github.com/google/closure-library",
   "homepage": "code.google.com/closure/library/",
-  "size": 202833,
+  "size": 202505,
   "stargazers_count": 4652,
   "watchers_count": 4652,
   "language": "JavaScript",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2047
+  "_index": 2051
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sannies/mp4parser/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sannies/mp4parser/deployments",
   "created_at": "2013-09-15T21:37:40Z",
-  "updated_at": "2023-03-21T03:04:28Z",
+  "updated_at": "2023-03-27T11:47:29Z",
   "pushed_at": "2023-03-17T12:46:18Z",
   "git_url": "git://github.com/sannies/mp4parser.git",
   "ssh_url": "git@github.com:sannies/mp4parser.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sannies/mp4parser",
   "homepage": null,
   "size": 53567,
-  "stargazers_count": 2648,
-  "watchers_count": 2648,
+  "stargazers_count": 2649,
+  "watchers_count": 2649,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 561,
   "open_issues": 259,
-  "watchers": 2648,
+  "watchers": 2649,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2374
+  "_index": 2378
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ibrahimsn98/SmoothBottomBar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ibrahimsn98/SmoothBottomBar/deployments",
   "created_at": "2019-10-25T13:55:21Z",
-  "updated_at": "2023-03-26T09:07:17Z",
+  "updated_at": "2023-03-27T13:46:38Z",
   "pushed_at": "2022-10-28T18:27:59Z",
   "git_url": "git://github.com/ibrahimsn98/SmoothBottomBar.git",
   "ssh_url": "git@github.com:ibrahimsn98/SmoothBottomBar.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ibrahimsn98/SmoothBottomBar",
   "homepage": null,
   "size": 1687,
-  "stargazers_count": 1744,
-  "watchers_count": 1744,
+  "stargazers_count": 1745,
+  "watchers_count": 1745,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 239,
   "open_issues": 45,
-  "watchers": 1744,
+  "watchers": 1745,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1981
+  "_index": 1985
 }

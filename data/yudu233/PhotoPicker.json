@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yudu233/PhotoPicker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yudu233/PhotoPicker/deployments",
   "created_at": "2017-05-07T05:16:19Z",
-  "updated_at": "2023-02-23T06:56:43Z",
+  "updated_at": "2023-03-27T06:00:44Z",
   "pushed_at": "2020-12-07T04:32:00Z",
   "git_url": "git://github.com/yudu233/PhotoPicker.git",
   "ssh_url": "git@github.com:yudu233/PhotoPicker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yudu233/PhotoPicker",
   "homepage": "",
   "size": 20517,
-  "stargazers_count": 113,
-  "watchers_count": 113,
+  "stargazers_count": 114,
+  "watchers_count": 114,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -102,7 +102,7 @@
   "visibility": "public",
   "forks": 21,
   "open_issues": 4,
-  "watchers": 113,
+  "watchers": 114,
   "default_branch": "androidx",
   "permissions": {
     "admin": false,
@@ -111,5 +111,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1830
+  "_index": 1834
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/microsoft/visual-chatgpt/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microsoft/visual-chatgpt/deployments",
   "created_at": "2023-03-02T09:04:28Z",
-  "updated_at": "2023-03-27T02:00:36Z",
+  "updated_at": "2023-03-28T01:49:13Z",
   "pushed_at": "2023-03-25T17:54:25Z",
   "git_url": "git://github.com/microsoft/visual-chatgpt.git",
   "ssh_url": "git@github.com:microsoft/visual-chatgpt.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/microsoft/visual-chatgpt",
   "homepage": "",
   "size": 9809,
-  "stargazers_count": 26426,
-  "watchers_count": 26426,
+  "stargazers_count": 26646,
+  "watchers_count": 26646,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2304,
+  "forks_count": 2341,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 128,
+  "open_issues_count": 131,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 2304,
-  "open_issues": 128,
-  "watchers": 26426,
+  "forks": 2341,
+  "open_issues": 131,
+  "watchers": 26646,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 49
+  "_index": 53
 }
