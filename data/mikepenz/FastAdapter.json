@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mikepenz/FastAdapter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mikepenz/FastAdapter/deployments",
   "created_at": "2015-12-28T11:05:32Z",
-  "updated_at": "2023-03-27T19:11:24Z",
+  "updated_at": "2023-03-28T19:28:55Z",
   "pushed_at": "2023-01-10T07:21:03Z",
   "git_url": "git://github.com/mikepenz/FastAdapter.git",
   "ssh_url": "git@github.com:mikepenz/FastAdapter.git",

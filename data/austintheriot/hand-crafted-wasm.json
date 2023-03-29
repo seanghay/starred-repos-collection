@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/austintheriot/hand-crafted-wasm.git",
   "svn_url": "https://github.com/austintheriot/hand-crafted-wasm",
   "homepage": "https://austintheriot.github.io/hand-crafted-wasm/",
-  "size": 30054,
+  "size": 30059,
   "stargazers_count": 48,
   "watchers_count": 48,
   "language": "WebAssembly",
