@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wuhaoyu1990/MagicCamera/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wuhaoyu1990/MagicCamera/deployments",
   "created_at": "2016-01-08T11:36:56Z",
-  "updated_at": "2023-03-24T01:39:02Z",
+  "updated_at": "2023-03-30T01:53:51Z",
   "pushed_at": "2020-10-22T09:22:50Z",
   "git_url": "git://github.com/wuhaoyu1990/MagicCamera.git",
   "ssh_url": "git@github.com:wuhaoyu1990/MagicCamera.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wuhaoyu1990/MagicCamera",
   "homepage": "",
   "size": 17476,
-  "stargazers_count": 5300,
-  "watchers_count": 5300,
+  "stargazers_count": 5302,
+  "watchers_count": 5302,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1612,
+  "forks_count": 1613,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -93,9 +93,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 1612,
+  "forks": 1613,
   "open_issues": 99,
-  "watchers": 5300,
+  "watchers": 5302,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2289
+  "_index": 2291
 }

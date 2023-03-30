@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/RazrFalcon/resvg/releases{/id}",
   "deployments_url": "https://api.github.com/repos/RazrFalcon/resvg/deployments",
   "created_at": "2016-10-27T16:07:55Z",
-  "updated_at": "2023-03-28T14:43:09Z",
-  "pushed_at": "2023-03-28T18:50:25Z",
+  "updated_at": "2023-03-29T22:29:59Z",
+  "pushed_at": "2023-03-29T22:42:06Z",
   "git_url": "git://github.com/RazrFalcon/resvg.git",
   "ssh_url": "git@github.com:RazrFalcon/resvg.git",
   "clone_url": "https://github.com/RazrFalcon/resvg.git",
   "svn_url": "https://github.com/RazrFalcon/resvg",
   "homepage": "",
-  "size": 13949,
-  "stargazers_count": 1921,
-  "watchers_count": 1921,
+  "size": 13951,
+  "stargazers_count": 1922,
+  "watchers_count": 1922,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 164,
+  "forks_count": 165,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 73,
+  "open_issues_count": 74,
   "license": {
     "key": "mpl-2.0",
     "name": "Mozilla Public License 2.0",
@@ -102,9 +102,9 @@
     "svg"
   ],
   "visibility": "public",
-  "forks": 164,
-  "open_issues": 73,
-  "watchers": 1921,
+  "forks": 165,
+  "open_issues": 74,
+  "watchers": 1922,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 316
+  "_index": 318
 }

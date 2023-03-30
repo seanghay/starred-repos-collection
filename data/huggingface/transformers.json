@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/huggingface/transformers/releases{/id}",
   "deployments_url": "https://api.github.com/repos/huggingface/transformers/deployments",
   "created_at": "2018-10-29T13:56:00Z",
-  "updated_at": "2023-03-29T02:13:07Z",
-  "pushed_at": "2023-03-28T19:13:39Z",
+  "updated_at": "2023-03-30T02:05:03Z",
+  "pushed_at": "2023-03-30T01:35:24Z",
   "git_url": "git://github.com/huggingface/transformers.git",
   "ssh_url": "git@github.com:huggingface/transformers.git",
   "clone_url": "https://github.com/huggingface/transformers.git",
   "svn_url": "https://github.com/huggingface/transformers",
   "homepage": "https://huggingface.co/transformers",
-  "size": 134968,
-  "stargazers_count": 88252,
-  "watchers_count": 88252,
+  "size": 135120,
+  "stargazers_count": 88529,
+  "watchers_count": 88529,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 18987,
+  "forks_count": 19014,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 619,
+  "open_issues_count": 620,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -120,9 +120,9 @@
     "transformer"
   ],
   "visibility": "public",
-  "forks": 18987,
-  "open_issues": 619,
-  "watchers": 88252,
+  "forks": 19014,
+  "open_issues": 620,
+  "watchers": 88529,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 130
+  "_index": 132
 }

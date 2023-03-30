@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/joblib/joblib/deployments",
   "created_at": "2010-05-07T06:48:26Z",
   "updated_at": "2023-03-28T16:50:42Z",
-  "pushed_at": "2023-03-28T00:10:19Z",
+  "pushed_at": "2023-03-29T18:50:59Z",
   "git_url": "git://github.com/joblib/joblib.git",
   "ssh_url": "git@github.com:joblib/joblib.git",
   "clone_url": "https://github.com/joblib/joblib.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 371,
+  "forks_count": 372,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 380,
+  "open_issues_count": 379,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -106,8 +106,8 @@
     "threading"
   ],
   "visibility": "public",
-  "forks": 371,
-  "open_issues": 380,
+  "forks": 372,
+  "open_issues": 379,
   "watchers": 3099,
   "default_branch": "master",
   "permissions": {
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 78
+  "_index": 80
 }

@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/manicmaniac/sips-js-api.git",
   "svn_url": "https://github.com/manicmaniac/sips-js-api",
   "homepage": "https://manicmaniac.github.io/sips-js-api/",
-  "size": 351,
+  "size": 344,
   "stargazers_count": 79,
   "watchers_count": 79,
   "language": null,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 118
+  "_index": 120
 }

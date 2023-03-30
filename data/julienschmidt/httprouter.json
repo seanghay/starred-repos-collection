@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/julienschmidt/httprouter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/julienschmidt/httprouter/deployments",
   "created_at": "2013-12-05T15:10:55Z",
-  "updated_at": "2023-03-28T04:50:30Z",
+  "updated_at": "2023-03-29T14:38:47Z",
   "pushed_at": "2023-03-20T02:18:47Z",
   "git_url": "git://github.com/julienschmidt/httprouter.git",
   "ssh_url": "git@github.com:julienschmidt/httprouter.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/julienschmidt/httprouter",
   "homepage": "https://pkg.go.dev/github.com/julienschmidt/httprouter",
   "size": 269,
-  "stargazers_count": 15115,
-  "watchers_count": 15115,
+  "stargazers_count": 15120,
+  "watchers_count": 15120,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1412,
+  "forks_count": 1413,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,9 +106,9 @@
     "router"
   ],
   "visibility": "public",
-  "forks": 1412,
+  "forks": 1413,
   "open_issues": 80,
-  "watchers": 15115,
+  "watchers": 15120,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1074
+  "_index": 1076
 }

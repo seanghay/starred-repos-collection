@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/razir/ProgressButton/releases{/id}",
   "deployments_url": "https://api.github.com/repos/razir/ProgressButton/deployments",
   "created_at": "2019-04-19T10:28:06Z",
-  "updated_at": "2023-03-27T13:37:27Z",
+  "updated_at": "2023-03-29T03:21:08Z",
   "pushed_at": "2021-03-16T19:57:51Z",
   "git_url": "git://github.com/razir/ProgressButton.git",
   "ssh_url": "git@github.com:razir/ProgressButton.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/razir/ProgressButton",
   "homepage": "",
   "size": 1398,
-  "stargazers_count": 846,
-  "watchers_count": 846,
+  "stargazers_count": 847,
+  "watchers_count": 847,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 74,
   "open_issues": 9,
-  "watchers": 846,
+  "watchers": 847,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2175
+  "_index": 2177
 }

@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 200,
+  "forks_count": 199,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,7 +105,7 @@
     "opengl"
   ],
   "visibility": "public",
-  "forks": 200,
+  "forks": 199,
   "open_issues": 21,
   "watchers": 1014,
   "default_branch": "master",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2128
+  "_index": 2130
 }

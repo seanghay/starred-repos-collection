@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/vanilla-extract-css/vanilla-extract/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vanilla-extract-css/vanilla-extract/deployments",
   "created_at": "2021-03-26T05:10:54Z",
-  "updated_at": "2023-03-29T01:03:56Z",
-  "pushed_at": "2023-03-28T04:51:53Z",
+  "updated_at": "2023-03-29T22:25:54Z",
+  "pushed_at": "2023-03-29T12:49:02Z",
   "git_url": "git://github.com/vanilla-extract-css/vanilla-extract.git",
   "ssh_url": "git@github.com:vanilla-extract-css/vanilla-extract.git",
   "clone_url": "https://github.com/vanilla-extract-css/vanilla-extract.git",
   "svn_url": "https://github.com/vanilla-extract-css/vanilla-extract",
   "homepage": "https://vanilla-extract.style",
-  "size": 6909,
-  "stargazers_count": 7821,
-  "watchers_count": 7821,
+  "size": 6916,
+  "stargazers_count": 7830,
+  "watchers_count": 7830,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 207,
   "open_issues": 48,
-  "watchers": 7821,
+  "watchers": 7830,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 501
+  "_index": 503
 }

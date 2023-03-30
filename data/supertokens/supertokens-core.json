@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/supertokens/supertokens-core/releases{/id}",
   "deployments_url": "https://api.github.com/repos/supertokens/supertokens-core/deployments",
   "created_at": "2020-01-05T13:30:52Z",
-  "updated_at": "2023-03-29T01:59:14Z",
-  "pushed_at": "2023-03-28T16:13:54Z",
+  "updated_at": "2023-03-30T02:03:10Z",
+  "pushed_at": "2023-03-29T13:13:19Z",
   "git_url": "git://github.com/supertokens/supertokens-core.git",
   "ssh_url": "git@github.com:supertokens/supertokens-core.git",
   "clone_url": "https://github.com/supertokens/supertokens-core.git",
   "svn_url": "https://github.com/supertokens/supertokens-core",
   "homepage": "https://supertokens.com",
-  "size": 20296,
-  "stargazers_count": 8382,
-  "watchers_count": 8382,
+  "size": 20351,
+  "stargazers_count": 8392,
+  "watchers_count": 8392,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -121,7 +121,7 @@
   "visibility": "public",
   "forks": 297,
   "open_issues": 96,
-  "watchers": 8382,
+  "watchers": 8392,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 643
+  "_index": 645
 }

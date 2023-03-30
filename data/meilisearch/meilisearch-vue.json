@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/meilisearch/meilisearch-vue/releases{/id}",
   "deployments_url": "https://api.github.com/repos/meilisearch/meilisearch-vue/deployments",
   "created_at": "2020-07-07T15:22:41Z",
-  "updated_at": "2023-03-23T08:43:48Z",
+  "updated_at": "2023-03-29T19:52:52Z",
   "pushed_at": "2023-02-21T10:27:22Z",
   "git_url": "git://github.com/meilisearch/meilisearch-vue.git",
   "ssh_url": "git@github.com:meilisearch/meilisearch-vue.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 742
+  "_index": 744
 }
