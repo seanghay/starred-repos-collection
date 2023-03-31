@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/UweTrottmann/SeriesGuide/releases{/id}",
   "deployments_url": "https://api.github.com/repos/UweTrottmann/SeriesGuide/deployments",
   "created_at": "2011-07-03T10:26:37Z",
-  "updated_at": "2023-03-30T00:24:37Z",
-  "pushed_at": "2023-03-24T11:36:37Z",
+  "updated_at": "2023-03-30T17:19:46Z",
+  "pushed_at": "2023-03-30T15:17:42Z",
   "git_url": "git://github.com/UweTrottmann/SeriesGuide.git",
   "ssh_url": "git@github.com:UweTrottmann/SeriesGuide.git",
   "clone_url": "https://github.com/UweTrottmann/SeriesGuide.git",
   "svn_url": "https://github.com/UweTrottmann/SeriesGuide",
   "homepage": "https://seriesgui.de",
-  "size": 129781,
-  "stargazers_count": 1761,
-  "watchers_count": 1761,
+  "size": 129824,
+  "stargazers_count": 1762,
+  "watchers_count": 1762,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 401,
+  "forks_count": 402,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 48,
+  "open_issues_count": 49,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -106,9 +106,9 @@
     "tv"
   ],
   "visibility": "public",
-  "forks": 401,
-  "open_issues": 48,
-  "watchers": 1761,
+  "forks": 402,
+  "open_issues": 49,
+  "watchers": 1762,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1754
+  "_index": 1755
 }

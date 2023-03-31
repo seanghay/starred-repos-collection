@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/daybrush/infinite-viewer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/daybrush/infinite-viewer/deployments",
   "created_at": "2019-10-11T01:04:40Z",
-  "updated_at": "2023-03-26T12:49:35Z",
-  "pushed_at": "2023-03-26T07:24:35Z",
+  "updated_at": "2023-03-30T16:26:30Z",
+  "pushed_at": "2023-03-30T14:03:16Z",
   "git_url": "git://github.com/daybrush/infinite-viewer.git",
   "ssh_url": "git@github.com:daybrush/infinite-viewer.git",
   "clone_url": "https://github.com/daybrush/infinite-viewer.git",
   "svn_url": "https://github.com/daybrush/infinite-viewer",
   "homepage": "https://daybrush.com/infinite-viewer/",
-  "size": 8202,
-  "stargazers_count": 142,
-  "watchers_count": 142,
+  "size": 8350,
+  "stargazers_count": 143,
+  "watchers_count": 143,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 24,
   "open_issues": 25,
-  "watchers": 142,
+  "watchers": 143,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 49
+  "_index": 50
 }

@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/jonschlinkert/remarkable/deployments",
   "created_at": "2014-09-01T17:57:42Z",
   "updated_at": "2023-03-28T21:40:13Z",
-  "pushed_at": "2022-12-09T04:47:42Z",
+  "pushed_at": "2023-03-30T05:55:40Z",
   "git_url": "git://github.com/jonschlinkert/remarkable.git",
   "ssh_url": "git@github.com:jonschlinkert/remarkable.git",
   "clone_url": "https://github.com/jonschlinkert/remarkable.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 396,
+  "forks_count": 397,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 129,
+  "open_issues_count": 130,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -115,8 +115,8 @@
     "syntax-highlighting"
   ],
   "visibility": "public",
-  "forks": 396,
-  "open_issues": 129,
+  "forks": 397,
+  "open_issues": 130,
   "watchers": 5504,
   "default_branch": "master",
   "permissions": {
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1085
+  "_index": 1086
 }

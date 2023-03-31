@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/upstash/ratelimit/deployments",
   "created_at": "2022-04-20T07:29:46Z",
   "updated_at": "2023-03-29T23:36:12Z",
-  "pushed_at": "2023-03-29T17:29:45Z",
+  "pushed_at": "2023-03-30T18:04:50Z",
   "git_url": "git://github.com/upstash/ratelimit.git",
   "ssh_url": "git@github.com:upstash/ratelimit.git",
   "clone_url": "https://github.com/upstash/ratelimit.git",
   "svn_url": "https://github.com/upstash/ratelimit",
   "homepage": "",
-  "size": 548,
+  "size": 554,
   "stargazers_count": 525,
   "watchers_count": 525,
   "language": "TypeScript",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 31
+  "_index": 32
 }

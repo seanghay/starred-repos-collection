@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Gurupreet/ComposeCookBook/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Gurupreet/ComposeCookBook/deployments",
   "created_at": "2020-09-06T07:41:44Z",
-  "updated_at": "2023-03-29T09:35:46Z",
+  "updated_at": "2023-03-30T19:02:23Z",
   "pushed_at": "2023-02-08T09:25:45Z",
   "git_url": "git://github.com/Gurupreet/ComposeCookBook.git",
   "ssh_url": "git@github.com:Gurupreet/ComposeCookBook.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Gurupreet/ComposeCookBook",
   "homepage": "",
   "size": 79296,
-  "stargazers_count": 5147,
-  "watchers_count": 5147,
+  "stargazers_count": 5151,
+  "watchers_count": 5151,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 663,
+  "forks_count": 664,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,9 +109,9 @@
     "kotlin-android"
   ],
   "visibility": "public",
-  "forks": 663,
+  "forks": 664,
   "open_issues": 9,
-  "watchers": 5147,
+  "watchers": 5151,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1290
+  "_index": 1291
 }

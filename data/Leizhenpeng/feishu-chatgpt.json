@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Leizhenpeng/feishu-chatgpt/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Leizhenpeng/feishu-chatgpt/deployments",
   "created_at": "2023-02-07T10:18:28Z",
-  "updated_at": "2023-03-30T01:59:29Z",
-  "pushed_at": "2023-03-29T10:11:05Z",
+  "updated_at": "2023-03-31T02:00:42Z",
+  "pushed_at": "2023-03-30T03:26:28Z",
   "git_url": "git://github.com/Leizhenpeng/feishu-chatgpt.git",
   "ssh_url": "git@github.com:Leizhenpeng/feishu-chatgpt.git",
   "clone_url": "https://github.com/Leizhenpeng/feishu-chatgpt.git",
   "svn_url": "https://github.com/Leizhenpeng/feishu-chatgpt",
   "homepage": "",
-  "size": 15921,
-  "stargazers_count": 2349,
-  "watchers_count": 2349,
+  "size": 15926,
+  "stargazers_count": 2467,
+  "watchers_count": 2467,
   "language": "Go",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 379,
+  "forks_count": 385,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 42,
+  "open_issues_count": 43,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -106,9 +106,9 @@
     "openai"
   ],
   "visibility": "public",
-  "forks": 379,
-  "open_issues": 42,
-  "watchers": 2349,
+  "forks": 385,
+  "open_issues": 43,
+  "watchers": 2467,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 37
+  "_index": 38
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/paketo-buildpacks/node-engine/deployments",
   "created_at": "2018-09-24T23:53:39Z",
   "updated_at": "2023-03-22T12:14:21Z",
-  "pushed_at": "2023-03-29T16:44:49Z",
+  "pushed_at": "2023-03-30T22:45:21Z",
   "git_url": "git://github.com/paketo-buildpacks/node-engine.git",
   "ssh_url": "git@github.com:paketo-buildpacks/node-engine.git",
   "clone_url": "https://github.com/paketo-buildpacks/node-engine.git",
   "svn_url": "https://github.com/paketo-buildpacks/node-engine",
   "homepage": "",
-  "size": 6745,
+  "size": 6898,
   "stargazers_count": 17,
   "watchers_count": 17,
   "language": "Go",
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 493
+  "_index": 494
 }

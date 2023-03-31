@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/KhronosGroup/GLSL/deployments",
   "created_at": "2017-03-05T00:37:33Z",
   "updated_at": "2023-03-18T22:33:46Z",
-  "pushed_at": "2023-03-27T20:36:21Z",
+  "pushed_at": "2023-03-30T15:00:06Z",
   "git_url": "git://github.com/KhronosGroup/GLSL.git",
   "ssh_url": "git@github.com:KhronosGroup/GLSL.git",
   "clone_url": "https://github.com/KhronosGroup/GLSL.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 52,
+  "open_issues_count": 53,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -94,7 +94,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 90,
-  "open_issues": 52,
+  "open_issues": 53,
   "watchers": 252,
   "default_branch": "master",
   "permissions": {
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1042
+  "_index": 1043
 }

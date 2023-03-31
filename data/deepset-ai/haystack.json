@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/deepset-ai/haystack",
-  "description": ":mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-3 and alike). Haystack offers production-ready tools to quickly build ChatGPT-like question answering, semantic search, text generation, and more.",
+  "description": ":mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex decision making, question answering, semantic search, text generation applications, and more.",
   "fork": false,
   "url": "https://api.github.com/repos/deepset-ai/haystack",
   "forks_url": "https://api.github.com/repos/deepset-ai/haystack/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/deepset-ai/haystack/releases{/id}",
   "deployments_url": "https://api.github.com/repos/deepset-ai/haystack/deployments",
   "created_at": "2019-11-14T09:05:28Z",
-  "updated_at": "2023-03-30T01:54:20Z",
-  "pushed_at": "2023-03-29T20:38:27Z",
+  "updated_at": "2023-03-31T01:45:56Z",
+  "pushed_at": "2023-03-30T19:18:30Z",
   "git_url": "git://github.com/deepset-ai/haystack.git",
   "ssh_url": "git@github.com:deepset-ai/haystack.git",
   "clone_url": "https://github.com/deepset-ai/haystack.git",
   "svn_url": "https://github.com/deepset-ai/haystack",
   "homepage": "https://haystack.deepset.ai",
-  "size": 37003,
-  "stargazers_count": 7615,
-  "watchers_count": 7615,
+  "size": 36974,
+  "stargazers_count": 7641,
+  "watchers_count": 7641,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1111,
+  "forks_count": 1113,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 342,
+  "open_issues_count": 340,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -120,9 +120,9 @@
     "transformers"
   ],
   "visibility": "public",
-  "forks": 1111,
-  "open_issues": 342,
-  "watchers": 7615,
+  "forks": 1113,
+  "open_issues": 340,
+  "watchers": 7641,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 7
+  "_index": 8
 }

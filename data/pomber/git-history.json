@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pomber/git-history/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pomber/git-history/deployments",
   "created_at": "2019-02-04T21:00:39Z",
-  "updated_at": "2023-03-27T14:57:52Z",
+  "updated_at": "2023-03-30T12:46:12Z",
   "pushed_at": "2023-03-23T11:31:47Z",
   "git_url": "git://github.com/pomber/git-history.git",
   "ssh_url": "git@github.com:pomber/git-history.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/pomber/git-history",
   "homepage": "https://githistory.xyz/",
   "size": 33137,
-  "stargazers_count": 13244,
-  "watchers_count": 13244,
+  "stargazers_count": 13243,
+  "watchers_count": 13243,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 544,
   "open_issues": 76,
-  "watchers": 13244,
+  "watchers": 13243,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2395
+  "_index": 2396
 }

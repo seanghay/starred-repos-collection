@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yargs/yargs-parser/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yargs/yargs-parser/deployments",
   "created_at": "2016-01-23T21:03:32Z",
-  "updated_at": "2023-03-11T09:33:32Z",
+  "updated_at": "2023-03-30T09:56:32Z",
   "pushed_at": "2023-03-24T15:45:48Z",
   "git_url": "git://github.com/yargs/yargs-parser.git",
   "ssh_url": "git@github.com:yargs/yargs-parser.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yargs/yargs-parser",
   "homepage": "http://yargs.js.org/",
   "size": 858,
-  "stargazers_count": 446,
-  "watchers_count": 446,
+  "stargazers_count": 447,
+  "watchers_count": 447,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 131,
   "open_issues": 65,
-  "watchers": 446,
+  "watchers": 447,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2525
+  "_index": 2526
 }

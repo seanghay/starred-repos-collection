@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/rubbrband/rubbrband/deployments",
   "created_at": "2023-02-26T01:06:38Z",
   "updated_at": "2023-03-29T00:54:51Z",
-  "pushed_at": "2023-03-30T02:01:20Z",
+  "pushed_at": "2023-03-30T23:34:56Z",
   "git_url": "git://github.com/rubbrband/rubbrband.git",
   "ssh_url": "git@github.com:rubbrband/rubbrband.git",
   "clone_url": "https://github.com/rubbrband/rubbrband.git",
   "svn_url": "https://github.com/rubbrband/rubbrband",
   "homepage": "https://rubbrband.gitbook.io/cli-docs/",
-  "size": 64,
+  "size": 61,
   "stargazers_count": 101,
   "watchers_count": 101,
   "language": "Shell",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 97
+  "_index": 98
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/g-truc/glm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/g-truc/glm/deployments",
   "created_at": "2012-09-06T00:04:56Z",
-  "updated_at": "2023-03-29T15:10:10Z",
-  "pushed_at": "2023-03-26T20:09:31Z",
+  "updated_at": "2023-03-30T14:29:55Z",
+  "pushed_at": "2023-03-30T18:59:48Z",
   "git_url": "git://github.com/g-truc/glm.git",
   "ssh_url": "git@github.com:g-truc/glm.git",
   "clone_url": "https://github.com/g-truc/glm.git",
   "svn_url": "https://github.com/g-truc/glm",
   "homepage": "https://glm.g-truc.net",
   "size": 70888,
-  "stargazers_count": 7362,
-  "watchers_count": 7362,
+  "stargazers_count": 7370,
+  "watchers_count": 7370,
   "language": "C++",
   "has_issues": false,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1788,
+  "forks_count": 1787,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 80,
+  "open_issues_count": 81,
   "license": {
     "key": "other",
     "name": "Other",
@@ -112,9 +112,9 @@
     "vulkan"
   ],
   "visibility": "public",
-  "forks": 1788,
-  "open_issues": 80,
-  "watchers": 7362,
+  "forks": 1787,
+  "open_issues": 81,
+  "watchers": 7370,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2153
+  "_index": 2154
 }
