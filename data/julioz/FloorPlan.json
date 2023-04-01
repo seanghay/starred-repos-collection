@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/julioz/FloorPlan/deployments",
   "created_at": "2020-04-02T16:54:16Z",
   "updated_at": "2023-01-06T08:07:35Z",
-  "pushed_at": "2022-12-12T12:58:30Z",
+  "pushed_at": "2023-03-31T10:09:02Z",
   "git_url": "git://github.com/julioz/FloorPlan.git",
   "ssh_url": "git@github.com:julioz/FloorPlan.git",
   "clone_url": "https://github.com/julioz/FloorPlan.git",
   "svn_url": "https://github.com/julioz/FloorPlan",
   "homepage": "https://julioz.github.io/FloorPlan/",
-  "size": 24852,
+  "size": 24894,
   "stargazers_count": 178,
   "watchers_count": 178,
   "language": "Kotlin",
@@ -86,8 +86,14 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 5,
-  "license": null,
+  "open_issues_count": 4,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
   "allow_forking": true,
   "is_template": false,
   "web_commit_signoff_required": false,
@@ -98,7 +104,7 @@
   ],
   "visibility": "public",
   "forks": 6,
-  "open_issues": 5,
+  "open_issues": 4,
   "watchers": 178,
   "default_branch": "master",
   "permissions": {
@@ -108,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1588
+  "_index": 1593
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/orhun/git-cliff/releases{/id}",
   "deployments_url": "https://api.github.com/repos/orhun/git-cliff/deployments",
   "created_at": "2021-05-30T11:11:58Z",
-  "updated_at": "2023-03-30T18:11:54Z",
-  "pushed_at": "2023-03-30T12:02:18Z",
+  "updated_at": "2023-04-01T01:49:21Z",
+  "pushed_at": "2023-03-31T19:49:47Z",
   "git_url": "git://github.com/orhun/git-cliff.git",
   "ssh_url": "git@github.com:orhun/git-cliff.git",
   "clone_url": "https://github.com/orhun/git-cliff.git",
   "svn_url": "https://github.com/orhun/git-cliff",
   "homepage": "https://git-cliff.org",
-  "size": 761,
-  "stargazers_count": 5387,
-  "watchers_count": 5387,
+  "size": 763,
+  "stargazers_count": 5393,
+  "watchers_count": 5393,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 19,
+  "open_issues_count": 18,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -111,8 +111,8 @@
   ],
   "visibility": "public",
   "forks": 95,
-  "open_issues": 19,
-  "watchers": 5387,
+  "open_issues": 18,
+  "watchers": 5393,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 969
+  "_index": 974
 }

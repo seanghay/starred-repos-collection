@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/coil-kt/coil/releases{/id}",
   "deployments_url": "https://api.github.com/repos/coil-kt/coil/deployments",
   "created_at": "2019-08-10T21:28:21Z",
-  "updated_at": "2023-03-31T01:42:04Z",
-  "pushed_at": "2023-03-30T20:08:46Z",
+  "updated_at": "2023-03-31T16:14:02Z",
+  "pushed_at": "2023-03-31T17:51:44Z",
   "git_url": "git://github.com/coil-kt/coil.git",
   "ssh_url": "git@github.com:coil-kt/coil.git",
   "clone_url": "https://github.com/coil-kt/coil.git",
   "svn_url": "https://github.com/coil-kt/coil",
   "homepage": "https://coil-kt.github.io/coil/",
-  "size": 136035,
-  "stargazers_count": 9023,
-  "watchers_count": 9023,
+  "size": 136031,
+  "stargazers_count": 9026,
+  "watchers_count": 9026,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 575,
   "open_issues": 24,
-  "watchers": 9023,
+  "watchers": 9026,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2089
+  "_index": 2094
 }

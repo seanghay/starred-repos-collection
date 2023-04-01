@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/grafika/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/grafika/deployments",
   "created_at": "2013-12-19T18:36:53Z",
-  "updated_at": "2023-03-30T07:56:32Z",
+  "updated_at": "2023-03-31T08:43:36Z",
   "pushed_at": "2023-03-07T22:34:24Z",
   "git_url": "git://github.com/google/grafika.git",
   "ssh_url": "git@github.com:google/grafika.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/grafika",
   "homepage": "",
   "size": 1092,
-  "stargazers_count": 5787,
-  "watchers_count": 5787,
+  "stargazers_count": 5788,
+  "watchers_count": 5788,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 1428,
   "open_issues": 59,
-  "watchers": 5787,
+  "watchers": 5788,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2307
+  "_index": 2312
 }

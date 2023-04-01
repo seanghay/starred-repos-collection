@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/open-cli-tools/concurrently/releases{/id}",
   "deployments_url": "https://api.github.com/repos/open-cli-tools/concurrently/deployments",
   "created_at": "2015-02-05T22:27:51Z",
-  "updated_at": "2023-03-30T15:50:32Z",
-  "pushed_at": "2023-03-29T08:10:08Z",
+  "updated_at": "2023-03-31T08:43:16Z",
+  "pushed_at": "2023-03-31T09:39:07Z",
   "git_url": "git://github.com/open-cli-tools/concurrently.git",
   "ssh_url": "git@github.com:open-cli-tools/concurrently.git",
   "clone_url": "https://github.com/open-cli-tools/concurrently.git",
   "svn_url": "https://github.com/open-cli-tools/concurrently",
   "homepage": "https://www.npmjs.com/package/concurrently",
   "size": 2374,
-  "stargazers_count": 6025,
-  "watchers_count": 6025,
+  "stargazers_count": 6026,
+  "watchers_count": 6026,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 232,
+  "forks_count": 233,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 47,
+  "open_issues_count": 48,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,9 +106,9 @@
     "spawn"
   ],
   "visibility": "public",
-  "forks": 232,
-  "open_issues": 47,
-  "watchers": 6025,
+  "forks": 233,
+  "open_issues": 48,
+  "watchers": 6026,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1830
+  "_index": 1835
 }

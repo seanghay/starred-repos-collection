@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Simonwep/pickr/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Simonwep/pickr/deployments",
   "created_at": "2018-05-27T19:39:23Z",
-  "updated_at": "2023-03-30T10:44:54Z",
+  "updated_at": "2023-03-31T07:48:27Z",
   "pushed_at": "2022-11-01T19:30:28Z",
   "git_url": "git://github.com/Simonwep/pickr.git",
   "ssh_url": "git@github.com:Simonwep/pickr.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Simonwep/pickr",
   "homepage": "https://simonwep.github.io/pickr",
   "size": 6402,
-  "stargazers_count": 4003,
-  "watchers_count": 4003,
+  "stargazers_count": 4004,
+  "watchers_count": 4004,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -117,7 +117,7 @@
   "visibility": "public",
   "forks": 279,
   "open_issues": 29,
-  "watchers": 4003,
+  "watchers": 4004,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2513
+  "_index": 2518
 }

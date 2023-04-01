@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/JakeWharton/ThreeTenABP/deployments",
   "created_at": "2015-07-03T17:35:09Z",
   "updated_at": "2023-03-26T08:27:24Z",
-  "pushed_at": "2023-03-31T02:03:54Z",
+  "pushed_at": "2023-03-31T04:04:53Z",
   "git_url": "git://github.com/JakeWharton/ThreeTenABP.git",
   "ssh_url": "git@github.com:JakeWharton/ThreeTenABP.git",
   "clone_url": "https://github.com/JakeWharton/ThreeTenABP.git",
   "svn_url": "https://github.com/JakeWharton/ThreeTenABP",
   "homepage": "",
-  "size": 383,
+  "size": 395,
   "stargazers_count": 3527,
   "watchers_count": 3527,
   "language": "Java",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 7,
+  "open_issues_count": 5,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 136,
-  "open_issues": 7,
+  "open_issues": 5,
   "watchers": 3527,
   "default_branch": "trunk",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1984
+  "_index": 1989
 }
