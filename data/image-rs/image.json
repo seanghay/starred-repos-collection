@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/image-rs/image/releases{/id}",
   "deployments_url": "https://api.github.com/repos/image-rs/image/deployments",
   "created_at": "2014-05-25T11:39:07Z",
-  "updated_at": "2023-03-31T08:23:05Z",
+  "updated_at": "2023-04-01T23:24:38Z",
   "pushed_at": "2023-03-29T02:22:26Z",
   "git_url": "git://github.com/image-rs/image.git",
   "ssh_url": "git@github.com:image-rs/image.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/image-rs/image",
   "homepage": "",
   "size": 23364,
-  "stargazers_count": 3704,
-  "watchers_count": 3704,
+  "stargazers_count": 3709,
+  "watchers_count": 3709,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 519,
   "open_issues": 261,
-  "watchers": 3704,
+  "watchers": 3709,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 411
+  "_index": 417
 }

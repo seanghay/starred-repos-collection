@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/google/blockly/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/blockly/deployments",
   "created_at": "2013-10-25T21:13:33Z",
-  "updated_at": "2023-03-31T18:47:40Z",
-  "pushed_at": "2023-03-30T23:09:03Z",
+  "updated_at": "2023-04-01T18:04:51Z",
+  "pushed_at": "2023-04-01T02:12:42Z",
   "git_url": "git://github.com/google/blockly.git",
   "ssh_url": "git@github.com:google/blockly.git",
   "clone_url": "https://github.com/google/blockly.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 468,
+  "open_issues_count": 470,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 3466,
-  "open_issues": 468,
+  "open_issues": 470,
   "watchers": 11118,
   "default_branch": "develop",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 770
+  "_index": 776
 }

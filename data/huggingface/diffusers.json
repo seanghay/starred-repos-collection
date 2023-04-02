@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/huggingface/diffusers/releases{/id}",
   "deployments_url": "https://api.github.com/repos/huggingface/diffusers/deployments",
   "created_at": "2022-05-30T16:04:02Z",
-  "updated_at": "2023-04-01T01:53:38Z",
-  "pushed_at": "2023-03-31T23:45:13Z",
+  "updated_at": "2023-04-02T01:35:02Z",
+  "pushed_at": "2023-04-01T11:40:40Z",
   "git_url": "git://github.com/huggingface/diffusers.git",
   "ssh_url": "git@github.com:huggingface/diffusers.git",
   "clone_url": "https://github.com/huggingface/diffusers.git",
   "svn_url": "https://github.com/huggingface/diffusers",
   "homepage": "https://huggingface.co/docs/diffusers",
   "size": 15818,
-  "stargazers_count": 12566,
-  "watchers_count": 12566,
+  "stargazers_count": 12608,
+  "watchers_count": 12608,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2496,
+  "forks_count": 2500,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,9 +109,9 @@
     "text2image"
   ],
   "visibility": "public",
-  "forks": 2496,
+  "forks": 2500,
   "open_issues": 299,
-  "watchers": 12566,
+  "watchers": 12608,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 237
+  "_index": 243
 }

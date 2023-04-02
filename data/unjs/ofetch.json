@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/unjs/ofetch.git",
   "svn_url": "https://github.com/unjs/ofetch",
   "homepage": "",
-  "size": 967,
+  "size": 1014,
   "stargazers_count": 1975,
   "watchers_count": 1975,
   "language": "TypeScript",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 77
+  "_index": 83
 }

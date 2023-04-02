@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 55,
+  "open_issues_count": 56,
   "license": {
     "key": "lgpl-2.1",
     "name": "GNU Lesser General Public License v2.1",
@@ -119,7 +119,7 @@
   ],
   "visibility": "public",
   "forks": 593,
-  "open_issues": 55,
+  "open_issues": 56,
   "watchers": 7792,
   "default_branch": "master",
   "permissions": {
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 753
+  "_index": 759
 }

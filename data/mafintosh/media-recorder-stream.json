@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mafintosh/media-recorder-stream/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mafintosh/media-recorder-stream/deployments",
   "created_at": "2016-05-18T15:19:30Z",
-  "updated_at": "2023-01-04T08:06:16Z",
+  "updated_at": "2023-04-01T18:21:54Z",
   "pushed_at": "2021-06-22T20:31:20Z",
   "git_url": "git://github.com/mafintosh/media-recorder-stream.git",
   "ssh_url": "git@github.com:mafintosh/media-recorder-stream.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mafintosh/media-recorder-stream",
   "homepage": null,
   "size": 7,
-  "stargazers_count": 95,
-  "watchers_count": 95,
+  "stargazers_count": 96,
+  "watchers_count": 96,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 16,
   "open_issues": 2,
-  "watchers": 95,
+  "watchers": 96,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 196
+  "_index": 202
 }

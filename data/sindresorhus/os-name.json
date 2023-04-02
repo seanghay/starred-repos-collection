@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/os-name/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/os-name/deployments",
   "created_at": "2014-06-07T22:51:51Z",
-  "updated_at": "2023-03-27T12:06:25Z",
+  "updated_at": "2023-04-01T06:17:33Z",
   "pushed_at": "2022-12-07T13:18:14Z",
   "git_url": "git://github.com/sindresorhus/os-name.git",
   "ssh_url": "git@github.com:sindresorhus/os-name.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sindresorhus/os-name",
   "homepage": "",
   "size": 34,
-  "stargazers_count": 137,
-  "watchers_count": 137,
+  "stargazers_count": 138,
+  "watchers_count": 138,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 15,
   "open_issues": 1,
-  "watchers": 137,
+  "watchers": 138,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 227
+  "_index": 233
 }

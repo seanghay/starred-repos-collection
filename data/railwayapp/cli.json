@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 51,
+  "forks_count": 52,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "railway"
   ],
   "visibility": "public",
-  "forks": 51,
+  "forks": 52,
   "open_issues": 28,
   "watchers": 189,
   "default_branch": "master",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1173
+  "_index": 1179
 }

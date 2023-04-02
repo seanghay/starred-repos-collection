@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/goccy/go-json/releases{/id}",
   "deployments_url": "https://api.github.com/repos/goccy/go-json/deployments",
   "created_at": "2020-04-19T09:32:36Z",
-  "updated_at": "2023-03-31T21:23:15Z",
+  "updated_at": "2023-04-01T22:26:46Z",
   "pushed_at": "2023-03-26T12:39:23Z",
   "git_url": "git://github.com/goccy/go-json.git",
   "ssh_url": "git@github.com:goccy/go-json.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/goccy/go-json",
   "homepage": null,
   "size": 4806,
-  "stargazers_count": 2182,
-  "watchers_count": 2182,
+  "stargazers_count": 2184,
+  "watchers_count": 2184,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 97,
   "open_issues": 41,
-  "watchers": 2182,
+  "watchers": 2184,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1254
+  "_index": 1260
 }

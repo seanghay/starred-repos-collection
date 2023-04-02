@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/rsms/inter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rsms/inter/deployments",
   "created_at": "2017-08-22T07:14:17Z",
-  "updated_at": "2023-03-30T22:01:31Z",
+  "updated_at": "2023-04-01T20:18:47Z",
   "pushed_at": "2023-03-15T21:02:32Z",
   "git_url": "git://github.com/rsms/inter.git",
   "ssh_url": "git@github.com:rsms/inter.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 88,
+  "open_issues_count": 89,
   "license": {
     "key": "other",
     "name": "Other",
@@ -104,7 +104,7 @@
   ],
   "visibility": "public",
   "forks": 363,
-  "open_issues": 88,
+  "open_issues": 89,
   "watchers": 15184,
   "default_branch": "master",
   "permissions": {
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 245
+  "_index": 251
 }
