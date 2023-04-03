@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/easingthemes/ssh-deploy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/easingthemes/ssh-deploy/deployments",
   "created_at": "2019-09-25T21:15:52Z",
-  "updated_at": "2023-04-01T07:42:31Z",
+  "updated_at": "2023-04-02T12:12:10Z",
   "pushed_at": "2023-02-21T22:13:05Z",
   "git_url": "git://github.com/easingthemes/ssh-deploy.git",
   "ssh_url": "git@github.com:easingthemes/ssh-deploy.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/easingthemes/ssh-deploy",
   "homepage": "",
   "size": 246,
-  "stargazers_count": 780,
-  "watchers_count": 780,
+  "stargazers_count": 779,
+  "watchers_count": 779,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 104,
   "open_issues": 11,
-  "watchers": 780,
+  "watchers": 779,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 595
+  "_index": 599
 }

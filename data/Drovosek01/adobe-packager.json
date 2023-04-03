@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Drovosek01/adobe-packager/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Drovosek01/adobe-packager/deployments",
   "created_at": "2021-08-26T18:20:47Z",
-  "updated_at": "2023-03-31T05:37:45Z",
+  "updated_at": "2023-04-02T22:03:32Z",
   "pushed_at": "2022-07-07T01:56:49Z",
   "git_url": "git://github.com/Drovosek01/adobe-packager.git",
   "ssh_url": "git@github.com:Drovosek01/adobe-packager.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Drovosek01/adobe-packager",
   "homepage": "",
   "size": 42,
-  "stargazers_count": 770,
-  "watchers_count": 770,
+  "stargazers_count": 772,
+  "watchers_count": 772,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -100,7 +100,7 @@
   "visibility": "public",
   "forks": 91,
   "open_issues": 13,
-  "watchers": 770,
+  "watchers": 772,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 932
+  "_index": 936
 }

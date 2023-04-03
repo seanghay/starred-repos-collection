@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/containers/youki/releases{/id}",
   "deployments_url": "https://api.github.com/repos/containers/youki/deployments",
   "created_at": "2021-03-27T11:06:58Z",
-  "updated_at": "2023-04-02T01:15:14Z",
-  "pushed_at": "2023-03-31T09:15:56Z",
+  "updated_at": "2023-04-03T00:35:49Z",
+  "pushed_at": "2023-04-03T01:56:21Z",
   "git_url": "git://github.com/containers/youki.git",
   "ssh_url": "git@github.com:containers/youki.git",
   "clone_url": "https://github.com/containers/youki.git",
   "svn_url": "https://github.com/containers/youki",
   "homepage": "https://containers.github.io/youki/",
   "size": 19622,
-  "stargazers_count": 4527,
-  "watchers_count": 4527,
+  "stargazers_count": 4529,
+  "watchers_count": 4529,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 51,
+  "open_issues_count": 57,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 254,
-  "open_issues": 51,
-  "watchers": 4527,
+  "open_issues": 57,
+  "watchers": 4529,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1039
+  "_index": 1043
 }

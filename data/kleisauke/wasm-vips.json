@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/kleisauke/wasm-vips/deployments",
   "created_at": "2020-09-01T07:00:31Z",
   "updated_at": "2023-03-31T15:35:39Z",
-  "pushed_at": "2023-03-31T14:10:21Z",
+  "pushed_at": "2023-04-02T14:15:56Z",
   "git_url": "git://github.com/kleisauke/wasm-vips.git",
   "ssh_url": "git@github.com:kleisauke/wasm-vips.git",
   "clone_url": "https://github.com/kleisauke/wasm-vips.git",
   "svn_url": "https://github.com/kleisauke/wasm-vips",
   "homepage": "https://kleisauke.github.io/wasm-vips/",
-  "size": 7214,
+  "size": 7215,
   "stargazers_count": 291,
   "watchers_count": 291,
   "language": "C++",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 41
+  "_index": 45
 }

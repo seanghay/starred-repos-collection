@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/google/json_serializable.dart/deployments",
   "created_at": "2017-07-18T20:48:49Z",
   "updated_at": "2023-03-31T09:23:37Z",
-  "pushed_at": "2023-04-01T04:56:45Z",
+  "pushed_at": "2023-04-02T18:41:10Z",
   "git_url": "git://github.com/google/json_serializable.dart.git",
   "ssh_url": "git@github.com:google/json_serializable.dart.git",
   "clone_url": "https://github.com/google/json_serializable.dart.git",
   "svn_url": "https://github.com/google/json_serializable.dart",
   "homepage": "https://pub.dev/packages/json_serializable",
-  "size": 2514,
+  "size": 2511,
   "stargazers_count": 1411,
   "watchers_count": 1411,
   "language": "Dart",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 76,
+  "open_issues_count": 75,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -105,7 +105,7 @@
   ],
   "visibility": "public",
   "forks": 360,
-  "open_issues": 76,
+  "open_issues": 75,
   "watchers": 1411,
   "default_branch": "master",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 985
+  "_index": 989
 }

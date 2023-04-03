@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/coder/coder/releases{/id}",
   "deployments_url": "https://api.github.com/repos/coder/coder/deployments",
   "created_at": "2021-12-22T06:08:52Z",
-  "updated_at": "2023-04-01T22:07:35Z",
-  "pushed_at": "2023-04-02T01:53:43Z",
+  "updated_at": "2023-04-03T01:30:20Z",
+  "pushed_at": "2023-04-03T01:19:22Z",
   "git_url": "git://github.com/coder/coder.git",
   "ssh_url": "git@github.com:coder/coder.git",
   "clone_url": "https://github.com/coder/coder.git",
   "svn_url": "https://github.com/coder/coder",
   "homepage": "https://coder.com",
-  "size": 113646,
-  "stargazers_count": 3969,
-  "watchers_count": 3969,
+  "size": 113689,
+  "stargazers_count": 3978,
+  "watchers_count": 3978,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 295,
+  "forks_count": 296,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,9 +109,9 @@
     "vscode"
   ],
   "visibility": "public",
-  "forks": 295,
+  "forks": 296,
   "open_issues": 433,
-  "watchers": 3969,
+  "watchers": 3978,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 539
+  "_index": 543
 }

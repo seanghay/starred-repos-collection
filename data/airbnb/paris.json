@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/airbnb/paris/releases{/id}",
   "deployments_url": "https://api.github.com/repos/airbnb/paris/deployments",
   "created_at": "2017-12-18T20:13:09Z",
-  "updated_at": "2023-03-30T07:35:03Z",
+  "updated_at": "2023-04-02T14:17:09Z",
   "pushed_at": "2022-11-08T11:40:52Z",
   "git_url": "git://github.com/airbnb/paris.git",
   "ssh_url": "git@github.com:airbnb/paris.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/airbnb/paris",
   "homepage": "",
   "size": 28296,
-  "stargazers_count": 1846,
-  "watchers_count": 1846,
+  "stargazers_count": 1845,
+  "watchers_count": 1845,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 90,
   "open_issues": 52,
-  "watchers": 1846,
+  "watchers": 1845,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1789
+  "_index": 1793
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/zengzhaoxing/SharpView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/zengzhaoxing/SharpView/deployments",
   "created_at": "2017-12-03T14:27:13Z",
-  "updated_at": "2022-05-14T11:31:10Z",
+  "updated_at": "2023-04-02T12:04:01Z",
   "pushed_at": "2021-07-27T11:21:13Z",
   "git_url": "git://github.com/zengzhaoxing/SharpView.git",
   "ssh_url": "git@github.com:zengzhaoxing/SharpView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/zengzhaoxing/SharpView",
   "homepage": "",
   "size": 791,
-  "stargazers_count": 140,
-  "watchers_count": 140,
+  "stargazers_count": 139,
+  "watchers_count": 139,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 16,
   "open_issues": 3,
-  "watchers": 140,
+  "watchers": 139,
   "default_branch": "release",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1531
+  "_index": 1535
 }

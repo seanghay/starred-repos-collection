@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ncarlier/webhookd/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ncarlier/webhookd/deployments",
   "created_at": "2014-09-24T13:05:46Z",
-  "updated_at": "2023-03-31T10:15:21Z",
+  "updated_at": "2023-04-02T16:01:15Z",
   "pushed_at": "2023-04-01T06:31:04Z",
   "git_url": "git://github.com/ncarlier/webhookd.git",
   "ssh_url": "git@github.com:ncarlier/webhookd.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ncarlier/webhookd",
   "homepage": null,
   "size": 444,
-  "stargazers_count": 597,
-  "watchers_count": 597,
+  "stargazers_count": 599,
+  "watchers_count": 599,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 58,
+  "forks_count": 59,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,9 +110,9 @@
     "webhook-server"
   ],
   "visibility": "public",
-  "forks": 58,
+  "forks": 59,
   "open_issues": 12,
-  "watchers": 597,
+  "watchers": 599,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 854
+  "_index": 858
 }

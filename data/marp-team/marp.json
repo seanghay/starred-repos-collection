@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/marp-team/marp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/marp-team/marp/deployments",
   "created_at": "2018-03-25T12:47:38Z",
-  "updated_at": "2023-04-01T18:15:12Z",
+  "updated_at": "2023-04-02T16:21:42Z",
   "pushed_at": "2023-03-18T13:28:04Z",
   "git_url": "git://github.com/marp-team/marp.git",
   "ssh_url": "git@github.com:marp-team/marp.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/marp-team/marp",
   "homepage": "https://marp.app/",
   "size": 5299,
-  "stargazers_count": 5810,
-  "watchers_count": 5810,
+  "stargazers_count": 5813,
+  "watchers_count": 5813,
   "language": "TypeScript",
   "has_issues": false,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 109,
   "open_issues": 0,
-  "watchers": 5810,
+  "watchers": 5813,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1018
+  "_index": 1022
 }
