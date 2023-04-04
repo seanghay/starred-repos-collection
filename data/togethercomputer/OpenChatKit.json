@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/togethercomputer/OpenChatKit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/togethercomputer/OpenChatKit/deployments",
   "created_at": "2023-03-03T00:12:53Z",
-  "updated_at": "2023-04-03T01:53:58Z",
+  "updated_at": "2023-04-04T01:58:21Z",
   "pushed_at": "2023-04-02T22:51:49Z",
   "git_url": "git://github.com/togethercomputer/OpenChatKit.git",
   "ssh_url": "git@github.com:togethercomputer/OpenChatKit.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/togethercomputer/OpenChatKit",
   "homepage": null,
   "size": 96,
-  "stargazers_count": 7111,
-  "watchers_count": 7111,
+  "stargazers_count": 7166,
+  "watchers_count": 7166,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 763,
+  "forks_count": 775,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 47,
+  "open_issues_count": 48,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 763,
-  "open_issues": 47,
-  "watchers": 7111,
+  "forks": 775,
+  "open_issues": 48,
+  "watchers": 7166,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 54
+  "_index": 55
 }

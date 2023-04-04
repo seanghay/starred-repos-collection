@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 135,
+  "forks_count": 136,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 39,
+  "open_issues_count": 40,
   "license": {
     "key": "other",
     "name": "Other",
@@ -106,8 +106,8 @@
     "typo-tolerance"
   ],
   "visibility": "public",
-  "forks": 135,
-  "open_issues": 39,
+  "forks": 136,
+  "open_issues": 40,
   "watchers": 5614,
   "default_branch": "main",
   "permissions": {
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 450
+  "_index": 451
 }

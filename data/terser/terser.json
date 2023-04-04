@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 355,
+  "forks_count": 356,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 263,
+  "open_issues_count": 264,
   "license": {
     "key": "other",
     "name": "Other",
@@ -106,8 +106,8 @@
     "uglifyjs"
   ],
   "visibility": "public",
-  "forks": 355,
-  "open_issues": 263,
+  "forks": 356,
+  "open_issues": 264,
   "watchers": 7755,
   "default_branch": "master",
   "permissions": {
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 389
+  "_index": 390
 }

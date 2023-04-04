@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/signalapp/libsignal/releases{/id}",
   "deployments_url": "https://api.github.com/repos/signalapp/libsignal/deployments",
   "created_at": "2020-09-12T03:00:47Z",
-  "updated_at": "2023-04-02T13:47:56Z",
+  "updated_at": "2023-04-03T12:26:18Z",
   "pushed_at": "2023-03-11T08:02:39Z",
   "git_url": "git://github.com/signalapp/libsignal.git",
   "ssh_url": "git@github.com:signalapp/libsignal.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/signalapp/libsignal",
   "homepage": "",
   "size": 4562,
-  "stargazers_count": 1865,
-  "watchers_count": 1865,
+  "stargazers_count": 1866,
+  "watchers_count": 1866,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 234,
+  "forks_count": 235,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 15,
+  "open_issues_count": 14,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 234,
-  "open_issues": 15,
-  "watchers": 1865,
+  "forks": 235,
+  "open_issues": 14,
+  "watchers": 1866,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 495
+  "_index": 496
 }

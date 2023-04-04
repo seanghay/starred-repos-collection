@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/railwayapp/nixpacks/deployments",
   "created_at": "2022-03-27T05:10:16Z",
   "updated_at": "2023-04-01T12:08:48Z",
-  "pushed_at": "2023-03-30T20:15:03Z",
+  "pushed_at": "2023-04-04T00:11:23Z",
   "git_url": "git://github.com/railwayapp/nixpacks.git",
   "ssh_url": "git@github.com:railwayapp/nixpacks.git",
   "clone_url": "https://github.com/railwayapp/nixpacks.git",
   "svn_url": "https://github.com/railwayapp/nixpacks",
   "homepage": "https://nixpacks.com",
-  "size": 35640,
+  "size": 35641,
   "stargazers_count": 1530,
   "watchers_count": 1530,
   "language": "Rust",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 101,
+  "forks_count": 100,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 53,
+  "open_issues_count": 55,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,8 +106,8 @@
     "rust"
   ],
   "visibility": "public",
-  "forks": 101,
-  "open_issues": 53,
+  "forks": 100,
+  "open_issues": 55,
   "watchers": 1530,
   "default_branch": "main",
   "permissions": {
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 511
+  "_index": 512
 }

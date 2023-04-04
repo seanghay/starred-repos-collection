@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ultralytics/yolov5/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ultralytics/yolov5/deployments",
   "created_at": "2020-05-18T03:45:11Z",
-  "updated_at": "2023-04-03T01:38:24Z",
-  "pushed_at": "2023-04-01T11:02:53Z",
+  "updated_at": "2023-04-04T01:52:11Z",
+  "pushed_at": "2023-04-03T23:06:45Z",
   "git_url": "git://github.com/ultralytics/yolov5.git",
   "ssh_url": "git@github.com:ultralytics/yolov5.git",
   "clone_url": "https://github.com/ultralytics/yolov5.git",
   "svn_url": "https://github.com/ultralytics/yolov5",
   "homepage": "https://docs.ultralytics.com",
-  "size": 14676,
-  "stargazers_count": 36922,
-  "watchers_count": 36922,
+  "size": 14693,
+  "stargazers_count": 36968,
+  "watchers_count": 36968,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 13335,
+  "forks_count": 13347,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 268,
+  "open_issues_count": 261,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -113,9 +113,9 @@
     "yolov5"
   ],
   "visibility": "public",
-  "forks": 13335,
-  "open_issues": 268,
-  "watchers": 36922,
+  "forks": 13347,
+  "open_issues": 261,
+  "watchers": 36968,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 163
+  "_index": 164
 }

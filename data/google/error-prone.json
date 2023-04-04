@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/google/error-prone/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/error-prone/deployments",
   "created_at": "2014-08-21T23:26:50Z",
-  "updated_at": "2023-04-02T14:15:39Z",
-  "pushed_at": "2023-03-31T14:24:39Z",
+  "updated_at": "2023-04-03T14:37:17Z",
+  "pushed_at": "2023-04-03T13:56:46Z",
   "git_url": "git://github.com/google/error-prone.git",
   "ssh_url": "git@github.com:google/error-prone.git",
   "clone_url": "https://github.com/google/error-prone.git",
   "svn_url": "https://github.com/google/error-prone",
   "homepage": "https://errorprone.info",
-  "size": 116325,
-  "stargazers_count": 6393,
-  "watchers_count": 6393,
+  "size": 116342,
+  "stargazers_count": 6395,
+  "watchers_count": 6395,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 381,
+  "open_issues_count": 380,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -103,8 +103,8 @@
   ],
   "visibility": "public",
   "forks": 725,
-  "open_issues": 381,
-  "watchers": 6393,
+  "open_issues": 380,
+  "watchers": 6395,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1340
+  "_index": 1341
 }

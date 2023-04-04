@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/kotest/kotest/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kotest/kotest/deployments",
   "created_at": "2015-11-29T16:32:15Z",
-  "updated_at": "2023-04-02T22:20:12Z",
-  "pushed_at": "2023-04-02T23:43:30Z",
+  "updated_at": "2023-04-04T01:07:57Z",
+  "pushed_at": "2023-04-03T19:59:38Z",
   "git_url": "git://github.com/kotest/kotest.git",
   "ssh_url": "git@github.com:kotest/kotest.git",
   "clone_url": "https://github.com/kotest/kotest.git",
   "svn_url": "https://github.com/kotest/kotest",
   "homepage": "https://kotest.io",
-  "size": 21337,
-  "stargazers_count": 3865,
-  "watchers_count": 3865,
+  "size": 21556,
+  "stargazers_count": 3868,
+  "watchers_count": 3868,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 90,
+  "open_issues_count": 86,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -109,8 +109,8 @@
   ],
   "visibility": "public",
   "forks": 587,
-  "open_issues": 90,
-  "watchers": 3865,
+  "open_issues": 86,
+  "watchers": 3868,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2365
+  "_index": 2366
 }
