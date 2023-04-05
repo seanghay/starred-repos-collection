@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/chbrown/rfc6902/releases{/id}",
   "deployments_url": "https://api.github.com/repos/chbrown/rfc6902/deployments",
   "created_at": "2014-01-18T21:04:29Z",
-  "updated_at": "2023-03-31T06:59:52Z",
+  "updated_at": "2023-04-04T19:09:15Z",
   "pushed_at": "2022-04-02T04:03:21Z",
   "git_url": "git://github.com/chbrown/rfc6902.git",
   "ssh_url": "git@github.com:chbrown/rfc6902.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/chbrown/rfc6902",
   "homepage": "https://chbrown.github.io/rfc6902/",
   "size": 1250,
-  "stargazers_count": 271,
-  "watchers_count": 271,
+  "stargazers_count": 273,
+  "watchers_count": 273,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 33,
   "open_issues": 12,
-  "watchers": 271,
+  "watchers": 273,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 360
+  "_index": 361
 }

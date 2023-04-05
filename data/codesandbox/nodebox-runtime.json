@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/codesandbox/nodebox-runtime/releases{/id}",
   "deployments_url": "https://api.github.com/repos/codesandbox/nodebox-runtime/deployments",
   "created_at": "2023-02-01T13:22:59Z",
-  "updated_at": "2023-03-30T13:34:11Z",
+  "updated_at": "2023-04-04T19:30:48Z",
   "pushed_at": "2023-03-20T12:53:30Z",
   "git_url": "git://github.com/codesandbox/nodebox-runtime.git",
   "ssh_url": "git@github.com:codesandbox/nodebox-runtime.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/codesandbox/nodebox-runtime",
   "homepage": "https://sandpack.codesandbox.io/docs/advanced-usage/nodebox",
   "size": 42727,
-  "stargazers_count": 498,
-  "watchers_count": 498,
+  "stargazers_count": 502,
+  "watchers_count": 502,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 6,
+  "open_issues_count": 7,
   "license": {
     "key": "other",
     "name": "Other",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 23,
-  "open_issues": 6,
-  "watchers": 498,
+  "open_issues": 7,
+  "watchers": 502,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 141
+  "_index": 142
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/android/compose-samples/releases{/id}",
   "deployments_url": "https://api.github.com/repos/android/compose-samples/deployments",
   "created_at": "2019-09-27T09:51:19Z",
-  "updated_at": "2023-04-04T01:36:49Z",
-  "pushed_at": "2023-03-31T17:54:17Z",
+  "updated_at": "2023-04-04T23:19:49Z",
+  "pushed_at": "2023-04-04T03:33:28Z",
   "git_url": "git://github.com/android/compose-samples.git",
   "ssh_url": "git@github.com:android/compose-samples.git",
   "clone_url": "https://github.com/android/compose-samples.git",
   "svn_url": "https://github.com/android/compose-samples",
   "homepage": "https://developer.android.com/jetpack/compose",
-  "size": 175649,
-  "stargazers_count": 15234,
-  "watchers_count": 15234,
+  "size": 175658,
+  "stargazers_count": 15244,
+  "watchers_count": 15244,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3704,
+  "forks_count": 3707,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 16,
+  "open_issues_count": 17,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -102,9 +102,9 @@
     "jetpack-compose"
   ],
   "visibility": "public",
-  "forks": 3704,
-  "open_issues": 16,
-  "watchers": 15234,
+  "forks": 3707,
+  "open_issues": 17,
+  "watchers": 15244,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1388
+  "_index": 1389
 }

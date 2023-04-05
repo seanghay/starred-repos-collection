@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/nhost/nhost/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nhost/nhost/deployments",
   "created_at": "2021-02-09T13:33:34Z",
-  "updated_at": "2023-04-03T14:10:05Z",
-  "pushed_at": "2023-04-03T21:33:32Z",
+  "updated_at": "2023-04-04T15:27:33Z",
+  "pushed_at": "2023-04-04T16:45:27Z",
   "git_url": "git://github.com/nhost/nhost.git",
   "ssh_url": "git@github.com:nhost/nhost.git",
   "clone_url": "https://github.com/nhost/nhost.git",
   "svn_url": "https://github.com/nhost/nhost",
   "homepage": "https://nhost.io",
-  "size": 156770,
-  "stargazers_count": 6485,
-  "watchers_count": 6485,
+  "size": 157502,
+  "stargazers_count": 6491,
+  "watchers_count": 6491,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 361,
+  "forks_count": 362,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -119,9 +119,9 @@
     "vue"
   ],
   "visibility": "public",
-  "forks": 361,
+  "forks": 362,
   "open_issues": 161,
-  "watchers": 6485,
+  "watchers": 6491,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 979
+  "_index": 980
 }

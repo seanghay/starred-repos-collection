@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/rechsteiner/Parchment/deployments",
   "created_at": "2016-03-13T15:04:27Z",
   "updated_at": "2023-04-03T11:45:59Z",
-  "pushed_at": "2023-04-03T19:52:51Z",
+  "pushed_at": "2023-04-04T06:59:37Z",
   "git_url": "git://github.com/rechsteiner/Parchment.git",
   "ssh_url": "git@github.com:rechsteiner/Parchment.git",
   "clone_url": "https://github.com/rechsteiner/Parchment.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 21,
+  "open_issues_count": 20,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,7 +109,7 @@
   ],
   "visibility": "public",
   "forks": 390,
-  "open_issues": 21,
+  "open_issues": 20,
   "watchers": 3074,
   "default_branch": "main",
   "permissions": {
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1131
+  "_index": 1132
 }

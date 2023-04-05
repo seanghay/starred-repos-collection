@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/MarkusJx/node-java-bridge/deployments",
   "created_at": "2021-04-22T08:40:25Z",
   "updated_at": "2023-03-31T13:26:13Z",
-  "pushed_at": "2023-04-02T10:23:56Z",
+  "pushed_at": "2023-04-04T13:46:06Z",
   "git_url": "git://github.com/MarkusJx/node-java-bridge.git",
   "ssh_url": "git@github.com:MarkusJx/node-java-bridge.git",
   "clone_url": "https://github.com/MarkusJx/node-java-bridge.git",
   "svn_url": "https://github.com/MarkusJx/node-java-bridge",
   "homepage": "https://markusjx.github.io/node-java-bridge/",
-  "size": 844,
+  "size": 1050,
   "stargazers_count": 88,
   "watchers_count": 88,
   "language": "Rust",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2,
+  "open_issues_count": 4,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,7 +109,7 @@
   ],
   "visibility": "public",
   "forks": 5,
-  "open_issues": 2,
+  "open_issues": 4,
   "watchers": 88,
   "default_branch": "main",
   "permissions": {
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 399
+  "_index": 400
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/miguelbcr/RxPaparazzo/releases{/id}",
   "deployments_url": "https://api.github.com/repos/miguelbcr/RxPaparazzo/deployments",
   "created_at": "2016-05-02T15:27:08Z",
-  "updated_at": "2023-03-19T05:47:06Z",
+  "updated_at": "2023-04-04T10:49:13Z",
   "pushed_at": "2020-08-20T07:46:18Z",
   "git_url": "git://github.com/miguelbcr/RxPaparazzo.git",
   "ssh_url": "git@github.com:miguelbcr/RxPaparazzo.git",

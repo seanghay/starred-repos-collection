@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/snail007/goproxy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/snail007/goproxy/deployments",
   "created_at": "2017-09-11T11:10:28Z",
-  "updated_at": "2023-04-03T16:16:33Z",
+  "updated_at": "2023-04-04T14:26:21Z",
   "pushed_at": "2023-03-29T00:38:04Z",
   "git_url": "git://github.com/snail007/goproxy.git",
   "ssh_url": "git@github.com:snail007/goproxy.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/snail007/goproxy",
   "homepage": "https://snail007.host900.com/goproxy/manual/zh/",
   "size": 3498,
-  "stargazers_count": 13649,
-  "watchers_count": 13649,
+  "stargazers_count": 13656,
+  "watchers_count": 13656,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 2702,
+  "forks_count": 2703,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -120,9 +120,9 @@
     "websocket-proxy"
   ],
   "visibility": "public",
-  "forks": 2702,
+  "forks": 2703,
   "open_issues": 112,
-  "watchers": 13649,
+  "watchers": 13656,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 519
+  "_index": 520
 }
