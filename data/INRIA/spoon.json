@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/INRIA/spoon/deployments",
   "created_at": "2013-11-06T15:29:59Z",
   "updated_at": "2023-04-04T19:33:59Z",
-  "pushed_at": "2023-04-04T23:39:06Z",
+  "pushed_at": "2023-04-05T19:42:52Z",
   "git_url": "git://github.com/INRIA/spoon.git",
   "ssh_url": "git@github.com:INRIA/spoon.git",
   "clone_url": "https://github.com/INRIA/spoon.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 315,
+  "forks_count": 316,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -116,7 +116,7 @@
     "static-analysis"
   ],
   "visibility": "public",
-  "forks": 315,
+  "forks": 316,
   "open_issues": 289,
   "watchers": 1472,
   "default_branch": "master",
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1138
+  "_index": 1144
 }

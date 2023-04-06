@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/theduke/quickjs-rs/deployments",
   "created_at": "2019-07-16T08:03:56Z",
   "updated_at": "2023-03-29T08:05:31Z",
-  "pushed_at": "2022-06-23T03:53:20Z",
+  "pushed_at": "2023-04-05T14:16:16Z",
   "git_url": "git://github.com/theduke/quickjs-rs.git",
   "ssh_url": "git@github.com:theduke/quickjs-rs.git",
   "clone_url": "https://github.com/theduke/quickjs-rs.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 47,
+  "forks_count": 48,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 30,
+  "open_issues_count": 31,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,8 +104,8 @@
     "rust-lang"
   ],
   "visibility": "public",
-  "forks": 47,
-  "open_issues": 30,
+  "forks": 48,
+  "open_issues": 31,
   "watchers": 500,
   "default_branch": "master",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 61
+  "_index": 67
 }

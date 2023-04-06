@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/orhanobut/logger/releases{/id}",
   "deployments_url": "https://api.github.com/repos/orhanobut/logger/deployments",
   "created_at": "2015-03-20T22:30:12Z",
-  "updated_at": "2023-04-04T01:57:25Z",
+  "updated_at": "2023-04-05T12:48:52Z",
   "pushed_at": "2022-09-14T10:04:00Z",
   "git_url": "git://github.com/orhanobut/logger.git",
   "ssh_url": "git@github.com:orhanobut/logger.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/orhanobut/logger",
   "homepage": "",
   "size": 1873,
-  "stargazers_count": 13554,
-  "watchers_count": 13554,
+  "stargazers_count": 13553,
+  "watchers_count": 13553,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 2140,
   "open_issues": 79,
-  "watchers": 13554,
+  "watchers": 13553,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1951
+  "_index": 1957
 }
