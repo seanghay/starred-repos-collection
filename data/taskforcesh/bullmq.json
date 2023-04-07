@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/taskforcesh/bullmq/deployments",
   "created_at": "2018-12-19T21:46:28Z",
   "updated_at": "2023-04-05T20:42:47Z",
-  "pushed_at": "2023-04-05T23:57:59Z",
+  "pushed_at": "2023-04-06T19:48:22Z",
   "git_url": "git://github.com/taskforcesh/bullmq.git",
   "ssh_url": "git@github.com:taskforcesh/bullmq.git",
   "clone_url": "https://github.com/taskforcesh/bullmq.git",
   "svn_url": "https://github.com/taskforcesh/bullmq",
   "homepage": "https://bullmq.io",
-  "size": 20500,
+  "size": 20696,
   "stargazers_count": 3563,
   "watchers_count": 3563,
   "language": "TypeScript",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1279
+  "_index": 1283
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/microsoft/playwright/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microsoft/playwright/deployments",
   "created_at": "2019-11-15T18:32:42Z",
-  "updated_at": "2023-04-06T01:56:22Z",
-  "pushed_at": "2023-04-06T01:16:11Z",
+  "updated_at": "2023-04-07T01:48:59Z",
+  "pushed_at": "2023-04-07T01:40:29Z",
   "git_url": "git://github.com/microsoft/playwright.git",
   "ssh_url": "git@github.com:microsoft/playwright.git",
   "clone_url": "https://github.com/microsoft/playwright.git",
   "svn_url": "https://github.com/microsoft/playwright",
   "homepage": "https://playwright.dev",
-  "size": 149627,
-  "stargazers_count": 49338,
-  "watchers_count": 49338,
+  "size": 148691,
+  "stargazers_count": 49395,
+  "watchers_count": 49395,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2450,
+  "forks_count": 2454,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -111,9 +111,9 @@
     "webkit"
   ],
   "visibility": "public",
-  "forks": 2450,
+  "forks": 2454,
   "open_issues": 761,
-  "watchers": 49338,
+  "watchers": 49395,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 875
+  "_index": 879
 }

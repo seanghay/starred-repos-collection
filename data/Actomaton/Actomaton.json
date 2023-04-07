@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Actomaton/Actomaton/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Actomaton/Actomaton/deployments",
   "created_at": "2021-09-05T12:35:44Z",
-  "updated_at": "2023-03-31T08:06:48Z",
+  "updated_at": "2023-04-06T02:12:39Z",
   "pushed_at": "2023-02-21T11:18:57Z",
   "git_url": "git://github.com/Actomaton/Actomaton.git",
   "ssh_url": "git@github.com:Actomaton/Actomaton.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Actomaton/Actomaton",
   "homepage": "",
   "size": 1322,
-  "stargazers_count": 207,
-  "watchers_count": 207,
+  "stargazers_count": 208,
+  "watchers_count": 208,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2,
+  "open_issues_count": 3,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 8,
-  "open_issues": 2,
-  "watchers": 207,
+  "open_issues": 3,
+  "watchers": 208,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 996
+  "_index": 1000
 }

@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/pdf-rs/pdf/deployments",
   "created_at": "2016-12-11T11:00:01Z",
   "updated_at": "2023-04-05T18:37:56Z",
-  "pushed_at": "2023-03-26T08:58:29Z",
+  "pushed_at": "2023-04-06T03:36:36Z",
   "git_url": "git://github.com/pdf-rs/pdf.git",
   "ssh_url": "git@github.com:pdf-rs/pdf.git",
   "clone_url": "https://github.com/pdf-rs/pdf.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 81,
+  "forks_count": 82,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 24,
+  "open_issues_count": 25,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,8 +103,8 @@
     "rust"
   ],
   "visibility": "public",
-  "forks": 81,
-  "open_issues": 24,
+  "forks": 82,
+  "open_issues": 25,
   "watchers": 759,
   "default_branch": "master",
   "permissions": {
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 194
+  "_index": 198
 }

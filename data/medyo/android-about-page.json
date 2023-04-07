@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/medyo/android-about-page/releases{/id}",
   "deployments_url": "https://api.github.com/repos/medyo/android-about-page/deployments",
   "created_at": "2016-04-20T23:26:30Z",
-  "updated_at": "2023-04-05T11:16:37Z",
+  "updated_at": "2023-04-06T11:31:52Z",
   "pushed_at": "2022-08-25T02:31:51Z",
   "git_url": "git://github.com/medyo/android-about-page.git",
   "ssh_url": "git@github.com:medyo/android-about-page.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/medyo/android-about-page",
   "homepage": null,
   "size": 983,
-  "stargazers_count": 2027,
-  "watchers_count": 2027,
+  "stargazers_count": 2028,
+  "watchers_count": 2028,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 297,
+  "forks_count": 296,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -96,9 +96,9 @@
     "android-ui"
   ],
   "visibility": "public",
-  "forks": 297,
+  "forks": 296,
   "open_issues": 19,
-  "watchers": 2027,
+  "watchers": 2028,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -107,5 +107,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1234
+  "_index": 1238
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/timusus/RecyclerView-FastScroll/releases{/id}",
   "deployments_url": "https://api.github.com/repos/timusus/RecyclerView-FastScroll/deployments",
   "created_at": "2016-01-13T01:35:25Z",
-  "updated_at": "2023-03-29T12:00:52Z",
+  "updated_at": "2023-04-06T22:54:15Z",
   "pushed_at": "2022-03-30T14:16:17Z",
   "git_url": "git://github.com/timusus/RecyclerView-FastScroll.git",
   "ssh_url": "git@github.com:timusus/RecyclerView-FastScroll.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/timusus/RecyclerView-FastScroll",
   "homepage": null,
   "size": 1863,
-  "stargazers_count": 1367,
-  "watchers_count": 1367,
+  "stargazers_count": 1368,
+  "watchers_count": 1368,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 184,
   "open_issues": 13,
-  "watchers": 1367,
+  "watchers": 1368,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 576
+  "_index": 580
 }

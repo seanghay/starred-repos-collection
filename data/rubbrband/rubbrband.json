@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/rubbrband/rubbrband/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rubbrband/rubbrband/deployments",
   "created_at": "2023-02-26T01:06:38Z",
-  "updated_at": "2023-04-06T01:13:31Z",
-  "pushed_at": "2023-04-05T18:05:13Z",
+  "updated_at": "2023-04-07T00:59:32Z",
+  "pushed_at": "2023-04-06T06:18:44Z",
   "git_url": "git://github.com/rubbrband/rubbrband.git",
   "ssh_url": "git@github.com:rubbrband/rubbrband.git",
   "clone_url": "https://github.com/rubbrband/rubbrband.git",
   "svn_url": "https://github.com/rubbrband/rubbrband",
   "homepage": "https://rubbrband.gitbook.io/cli-docs/",
-  "size": 88,
-  "stargazers_count": 113,
-  "watchers_count": 113,
+  "size": 89,
+  "stargazers_count": 118,
+  "watchers_count": 118,
   "language": "Shell",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1,
+  "open_issues_count": 0,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 6,
-  "open_issues": 1,
-  "watchers": 113,
+  "open_issues": 0,
+  "watchers": 118,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 121
+  "_index": 125
 }
