@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/abiosoft/colima/releases{/id}",
   "deployments_url": "https://api.github.com/repos/abiosoft/colima/deployments",
   "created_at": "2021-09-04T09:52:22Z",
-  "updated_at": "2023-04-07T00:50:18Z",
+  "updated_at": "2023-04-07T22:09:49Z",
   "pushed_at": "2023-04-02T15:23:18Z",
   "git_url": "git://github.com/abiosoft/colima.git",
   "ssh_url": "git@github.com:abiosoft/colima.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/abiosoft/colima",
   "homepage": "",
   "size": 2551,
-  "stargazers_count": 10665,
-  "watchers_count": 10665,
+  "stargazers_count": 10689,
+  "watchers_count": 10689,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 245,
+  "forks_count": 246,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 155,
+  "open_issues_count": 154,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -111,9 +111,9 @@
     "nerdctl"
   ],
   "visibility": "public",
-  "forks": 245,
-  "open_issues": 155,
-  "watchers": 10665,
+  "forks": 246,
+  "open_issues": 154,
+  "watchers": 10689,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 719
+  "_index": 720
 }

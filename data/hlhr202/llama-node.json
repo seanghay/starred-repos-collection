@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/hlhr202/llama-node/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hlhr202/llama-node/deployments",
   "created_at": "2023-03-20T10:47:19Z",
-  "updated_at": "2023-04-07T00:43:02Z",
-  "pushed_at": "2023-04-06T18:48:52Z",
+  "updated_at": "2023-04-08T01:53:17Z",
+  "pushed_at": "2023-04-07T20:17:18Z",
   "git_url": "git://github.com/hlhr202/llama-node.git",
   "ssh_url": "git@github.com:hlhr202/llama-node.git",
   "clone_url": "https://github.com/hlhr202/llama-node.git",
   "svn_url": "https://github.com/hlhr202/llama-node",
   "homepage": "https://www.npmjs.com/package/llama-node",
-  "size": 29765,
-  "stargazers_count": 54,
-  "watchers_count": 54,
+  "size": 30030,
+  "stargazers_count": 63,
+  "watchers_count": 63,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -116,7 +116,7 @@
   "visibility": "public",
   "forks": 2,
   "open_issues": 1,
-  "watchers": 54,
+  "watchers": 63,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 36
+  "_index": 37
 }

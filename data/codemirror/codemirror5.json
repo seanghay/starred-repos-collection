@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/codemirror/codemirror5/releases{/id}",
   "deployments_url": "https://api.github.com/repos/codemirror/codemirror5/deployments",
   "created_at": "2011-01-14T13:44:03Z",
-  "updated_at": "2023-04-06T21:30:50Z",
+  "updated_at": "2023-04-07T20:38:15Z",
   "pushed_at": "2023-03-16T17:03:31Z",
   "git_url": "git://github.com/codemirror/codemirror5.git",
   "ssh_url": "git@github.com:codemirror/codemirror5.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/codemirror/codemirror5",
   "homepage": "http://codemirror.net/5/",
   "size": 19148,
-  "stargazers_count": 25793,
-  "watchers_count": 25793,
+  "stargazers_count": 25800,
+  "watchers_count": 25800,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 4995,
+  "forks_count": 4996,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 416,
+  "open_issues_count": 417,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 4995,
-  "open_issues": 416,
-  "watchers": 25793,
+  "forks": 4996,
+  "open_issues": 417,
+  "watchers": 25800,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1563
+  "_index": 1564
 }
