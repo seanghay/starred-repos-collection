@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/crxjs/chrome-extension-tools.git",
   "svn_url": "https://github.com/crxjs/chrome-extension-tools",
   "homepage": "https://crxjs.dev/vite-plugin",
-  "size": 9892,
+  "size": 9729,
   "stargazers_count": 1270,
   "watchers_count": 1270,
   "language": "TypeScript",

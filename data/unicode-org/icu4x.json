@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/unicode-org/icu4x.git",
   "svn_url": "https://github.com/unicode-org/icu4x",
   "homepage": "https://icu4x.unicode.org",
-  "size": 315658,
+  "size": 315651,
   "stargazers_count": 1000,
   "watchers_count": 1000,
   "language": "Rust",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 374,
+  "open_issues_count": 375,
   "license": {
     "key": "other",
     "name": "Other",
@@ -107,7 +107,7 @@
   ],
   "visibility": "public",
   "forks": 111,
-  "open_issues": 374,
+  "open_issues": 375,
   "watchers": 1000,
   "default_branch": "main",
   "permissions": {

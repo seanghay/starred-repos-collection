@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 458,
+  "open_issues_count": 459,
   "license": {
     "key": "bsl-1.0",
     "name": "Boost Software License 1.0",
@@ -114,7 +114,7 @@
   ],
   "visibility": "public",
   "forks": 417,
-  "open_issues": 458,
+  "open_issues": 459,
   "watchers": 5088,
   "default_branch": "master",
   "permissions": {

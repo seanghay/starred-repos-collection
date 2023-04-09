@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 7974,
+  "forks_count": 7973,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2810,
+  "open_issues_count": 2811,
   "license": {
     "key": "gpl-2.0",
     "name": "GNU General Public License v2.0",
@@ -106,8 +106,8 @@
     "video"
   ],
   "visibility": "public",
-  "forks": 7974,
-  "open_issues": 2810,
+  "forks": 7973,
+  "open_issues": 2811,
   "watchers": 31280,
   "default_branch": "master",
   "permissions": {
