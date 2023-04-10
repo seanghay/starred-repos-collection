@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/kivy/kivy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kivy/kivy/deployments",
   "created_at": "2010-11-03T20:27:32Z",
-  "updated_at": "2023-04-08T17:33:19Z",
-  "pushed_at": "2023-04-08T14:27:05Z",
+  "updated_at": "2023-04-09T18:35:54Z",
+  "pushed_at": "2023-04-09T22:39:46Z",
   "git_url": "git://github.com/kivy/kivy.git",
   "ssh_url": "git@github.com:kivy/kivy.git",
   "clone_url": "https://github.com/kivy/kivy.git",
   "svn_url": "https://github.com/kivy/kivy",
   "homepage": "https://kivy.org",
-  "size": 75458,
-  "stargazers_count": 15726,
-  "watchers_count": 15726,
+  "size": 75459,
+  "stargazers_count": 15730,
+  "watchers_count": 15730,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3014,
+  "forks_count": 3015,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 968,
+  "open_issues_count": 969,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,9 +109,9 @@
     "windows"
   ],
   "visibility": "public",
-  "forks": 3014,
-  "open_issues": 968,
-  "watchers": 15726,
+  "forks": 3015,
+  "open_issues": 969,
+  "watchers": 15730,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1955
+  "_index": 1957
 }

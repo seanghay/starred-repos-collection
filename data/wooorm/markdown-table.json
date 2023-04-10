@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wooorm/markdown-table/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wooorm/markdown-table/deployments",
   "created_at": "2014-10-04T17:30:06Z",
-  "updated_at": "2023-04-04T22:19:35Z",
+  "updated_at": "2023-04-09T08:12:06Z",
   "pushed_at": "2023-01-25T14:57:17Z",
   "git_url": "git://github.com/wooorm/markdown-table.git",
   "ssh_url": "git@github.com:wooorm/markdown-table.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wooorm/markdown-table",
   "homepage": "",
   "size": 149,
-  "stargazers_count": 241,
-  "watchers_count": 241,
+  "stargazers_count": 242,
+  "watchers_count": 242,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 25,
   "open_issues": 1,
-  "watchers": 241,
+  "watchers": 242,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 550
+  "_index": 552
 }

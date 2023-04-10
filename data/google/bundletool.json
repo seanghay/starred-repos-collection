@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/google/bundletool/deployments",
   "created_at": "2018-05-04T07:24:09Z",
   "updated_at": "2023-04-08T05:28:50Z",
-  "pushed_at": "2023-03-23T17:15:50Z",
+  "pushed_at": "2023-04-10T00:40:45Z",
   "git_url": "git://github.com/google/bundletool.git",
   "ssh_url": "git@github.com:google/bundletool.git",
   "clone_url": "https://github.com/google/bundletool.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 355,
+  "forks_count": 356,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 46,
+  "open_issues_count": 47,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -104,8 +104,8 @@
     "android-testing"
   ],
   "visibility": "public",
-  "forks": 355,
-  "open_issues": 46,
+  "forks": 356,
+  "open_issues": 47,
   "watchers": 3017,
   "default_branch": "master",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2171
+  "_index": 2173
 }
