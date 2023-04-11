@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mapbox/tiny-sdf/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mapbox/tiny-sdf/deployments",
   "created_at": "2016-12-09T16:23:12Z",
-  "updated_at": "2023-03-28T15:33:58Z",
+  "updated_at": "2023-04-10T16:13:44Z",
   "pushed_at": "2023-02-08T20:28:42Z",
   "git_url": "git://github.com/mapbox/tiny-sdf.git",
   "ssh_url": "git@github.com:mapbox/tiny-sdf.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mapbox/tiny-sdf",
   "homepage": "http://mapbox.github.io/tiny-sdf/",
   "size": 278,
-  "stargazers_count": 479,
-  "watchers_count": 479,
+  "stargazers_count": 480,
+  "watchers_count": 480,
   "language": "HTML",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 51,
   "open_issues": 7,
-  "watchers": 479,
+  "watchers": 480,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 503
+  "_index": 507
 }

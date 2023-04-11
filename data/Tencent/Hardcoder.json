@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Tencent/Hardcoder/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Tencent/Hardcoder/deployments",
   "created_at": "2019-09-26T07:19:44Z",
-  "updated_at": "2023-04-04T03:26:23Z",
+  "updated_at": "2023-04-10T02:30:35Z",
   "pushed_at": "2023-04-07T11:27:26Z",
   "git_url": "git://github.com/Tencent/Hardcoder.git",
   "ssh_url": "git@github.com:Tencent/Hardcoder.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Tencent/Hardcoder",
   "homepage": "",
   "size": 92893,
-  "stargazers_count": 2084,
-  "watchers_count": 2084,
+  "stargazers_count": 2085,
+  "watchers_count": 2085,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 203,
   "open_issues": 16,
-  "watchers": 2084,
+  "watchers": 2085,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1011
+  "_index": 1015
 }

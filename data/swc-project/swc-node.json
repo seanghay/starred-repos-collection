@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/swc-project/swc-node/deployments",
   "created_at": "2020-07-16T06:04:37Z",
   "updated_at": "2023-04-09T16:46:55Z",
-  "pushed_at": "2023-04-08T20:50:51Z",
+  "pushed_at": "2023-04-10T20:00:36Z",
   "git_url": "git://github.com/swc-project/swc-node.git",
   "ssh_url": "git@github.com:swc-project/swc-node.git",
   "clone_url": "https://github.com/swc-project/swc-node.git",
   "svn_url": "https://github.com/swc-project/swc-node",
   "homepage": null,
-  "size": 3998,
+  "size": 4280,
   "stargazers_count": 1334,
   "watchers_count": 1334,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 35,
+  "open_issues_count": 32,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 50,
-  "open_issues": 35,
+  "open_issues": 32,
   "watchers": 1334,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 217
+  "_index": 221
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/alexfoxy/lax.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/alexfoxy/lax.js/deployments",
   "created_at": "2019-03-12T09:21:03Z",
-  "updated_at": "2023-04-09T08:39:47Z",
+  "updated_at": "2023-04-11T00:13:13Z",
   "pushed_at": "2023-03-04T03:20:41Z",
   "git_url": "git://github.com/alexfoxy/lax.js.git",
   "ssh_url": "git@github.com:alexfoxy/lax.js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/alexfoxy/lax.js",
   "homepage": "",
   "size": 5080,
-  "stargazers_count": 9581,
-  "watchers_count": 9581,
+  "stargazers_count": 9584,
+  "watchers_count": 9584,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 479,
   "open_issues": 16,
-  "watchers": 9581,
+  "watchers": 9584,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2378
+  "_index": 2382
 }

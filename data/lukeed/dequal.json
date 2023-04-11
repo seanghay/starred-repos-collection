@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lukeed/dequal/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lukeed/dequal/deployments",
   "created_at": "2019-03-07T21:17:50Z",
-  "updated_at": "2023-04-04T09:04:43Z",
+  "updated_at": "2023-04-10T13:07:42Z",
   "pushed_at": "2022-07-11T23:29:04Z",
   "git_url": "git://github.com/lukeed/dequal.git",
   "ssh_url": "git@github.com:lukeed/dequal.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lukeed/dequal",
   "homepage": "",
   "size": 31,
-  "stargazers_count": 1175,
-  "watchers_count": 1175,
+  "stargazers_count": 1174,
+  "watchers_count": 1174,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 21,
   "open_issues": 5,
-  "watchers": 1175,
+  "watchers": 1174,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 369
+  "_index": 373
 }

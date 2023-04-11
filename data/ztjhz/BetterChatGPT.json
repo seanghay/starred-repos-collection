@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/ztjhz/BetterChatGPT",
-  "description": "Play and chat smarter with Better ChatGPT - an amazing open-source web app with a better UI for exploring OpenAI's ChatGPT API! (Website + Windows + MacOS + Linux)",
+  "description": "An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)",
   "fork": false,
   "url": "https://api.github.com/repos/ztjhz/BetterChatGPT",
   "forks_url": "https://api.github.com/repos/ztjhz/BetterChatGPT/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ztjhz/BetterChatGPT/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ztjhz/BetterChatGPT/deployments",
   "created_at": "2023-03-03T22:16:18Z",
-  "updated_at": "2023-04-10T01:25:56Z",
-  "pushed_at": "2023-04-09T15:11:06Z",
+  "updated_at": "2023-04-11T01:49:15Z",
+  "pushed_at": "2023-04-10T15:57:01Z",
   "git_url": "git://github.com/ztjhz/BetterChatGPT.git",
   "ssh_url": "git@github.com:ztjhz/BetterChatGPT.git",
   "clone_url": "https://github.com/ztjhz/BetterChatGPT.git",
   "svn_url": "https://github.com/ztjhz/BetterChatGPT",
   "homepage": "http://bettergpt.chat/",
-  "size": 1792,
-  "stargazers_count": 2378,
-  "watchers_count": 2378,
+  "size": 1811,
+  "stargazers_count": 2448,
+  "watchers_count": 2448,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 727,
+  "forks_count": 738,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,9 +106,9 @@
     "gpt-4"
   ],
   "visibility": "public",
-  "forks": 727,
+  "forks": 738,
   "open_issues": 40,
-  "watchers": 2378,
+  "watchers": 2448,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 81
+  "_index": 85
 }

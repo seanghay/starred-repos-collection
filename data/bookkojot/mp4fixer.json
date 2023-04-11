@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 61,
+  "forks_count": 60,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "videorecover"
   ],
   "visibility": "public",
-  "forks": 61,
+  "forks": 60,
   "open_issues": 12,
   "watchers": 298,
   "default_branch": "master",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1504
+  "_index": 1508
 }

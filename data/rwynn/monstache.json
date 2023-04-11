@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/rwynn/monstache/deployments",
   "created_at": "2016-05-14T18:25:17Z",
   "updated_at": "2023-04-06T08:57:35Z",
-  "pushed_at": "2023-04-09T03:07:52Z",
+  "pushed_at": "2023-04-10T16:58:53Z",
   "git_url": "git://github.com/rwynn/monstache.git",
   "ssh_url": "git@github.com:rwynn/monstache.git",
   "clone_url": "https://github.com/rwynn/monstache.git",
   "svn_url": "https://github.com/rwynn/monstache",
   "homepage": "https://rwynn.github.io/monstache-site/",
-  "size": 1358,
+  "size": 1410,
   "stargazers_count": 1133,
   "watchers_count": 1133,
   "language": "Go",
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 862
+  "_index": 866
 }

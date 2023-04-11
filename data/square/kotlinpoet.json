@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/square/kotlinpoet/deployments",
   "created_at": "2017-03-01T04:59:42Z",
   "updated_at": "2023-04-08T19:50:08Z",
-  "pushed_at": "2023-04-09T21:20:05Z",
+  "pushed_at": "2023-04-10T21:20:25Z",
   "git_url": "git://github.com/square/kotlinpoet.git",
   "ssh_url": "git@github.com:square/kotlinpoet.git",
   "clone_url": "https://github.com/square/kotlinpoet.git",
   "svn_url": "https://github.com/square/kotlinpoet",
   "homepage": "https://square.github.io/kotlinpoet/",
-  "size": 5523,
+  "size": 5524,
   "stargazers_count": 3480,
   "watchers_count": 3480,
   "language": "Kotlin",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2468
+  "_index": 2472
 }

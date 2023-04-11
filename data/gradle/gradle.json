@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/gradle/gradle/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gradle/gradle/deployments",
   "created_at": "2009-09-09T18:27:19Z",
-  "updated_at": "2023-04-10T00:35:25Z",
-  "pushed_at": "2023-04-10T01:02:57Z",
+  "updated_at": "2023-04-10T21:13:50Z",
+  "pushed_at": "2023-04-11T01:39:56Z",
   "git_url": "git://github.com/gradle/gradle.git",
   "ssh_url": "git@github.com:gradle/gradle.git",
   "clone_url": "https://github.com/gradle/gradle.git",
   "svn_url": "https://github.com/gradle/gradle",
   "homepage": "https://gradle.org",
-  "size": 480642,
-  "stargazers_count": 14549,
-  "watchers_count": 14549,
+  "size": 480867,
+  "stargazers_count": 14548,
+  "watchers_count": 14548,
   "language": "Groovy",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 4129,
+  "forks_count": 4132,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2306,
+  "open_issues_count": 2317,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -103,9 +103,9 @@
     "hacktoberfest"
   ],
   "visibility": "public",
-  "forks": 4129,
-  "open_issues": 2306,
-  "watchers": 14549,
+  "forks": 4132,
+  "open_issues": 2317,
+  "watchers": 14548,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2032
+  "_index": 2036
 }

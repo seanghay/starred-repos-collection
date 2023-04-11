@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Milkdown/milkdown/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Milkdown/milkdown/deployments",
   "created_at": "2021-03-09T07:40:18Z",
-  "updated_at": "2023-04-09T12:23:37Z",
+  "updated_at": "2023-04-11T01:24:01Z",
   "pushed_at": "2023-04-10T00:46:25Z",
   "git_url": "git://github.com/Milkdown/milkdown.git",
   "ssh_url": "git@github.com:Milkdown/milkdown.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Milkdown/milkdown",
   "homepage": "https://milkdown.dev",
   "size": 100995,
-  "stargazers_count": 7305,
-  "watchers_count": 7305,
+  "stargazers_count": 7309,
+  "watchers_count": 7309,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -114,7 +114,7 @@
   "visibility": "public",
   "forks": 325,
   "open_issues": 3,
-  "watchers": 7305,
+  "watchers": 7309,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1150
+  "_index": 1154
 }

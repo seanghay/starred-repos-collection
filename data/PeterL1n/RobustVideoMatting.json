@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/PeterL1n/RobustVideoMatting/releases{/id}",
   "deployments_url": "https://api.github.com/repos/PeterL1n/RobustVideoMatting/deployments",
   "created_at": "2021-08-30T20:57:44Z",
-  "updated_at": "2023-04-09T10:53:02Z",
-  "pushed_at": "2023-03-23T14:28:36Z",
+  "updated_at": "2023-04-11T00:10:58Z",
+  "pushed_at": "2023-04-10T15:03:59Z",
   "git_url": "git://github.com/PeterL1n/RobustVideoMatting.git",
   "ssh_url": "git@github.com:PeterL1n/RobustVideoMatting.git",
   "clone_url": "https://github.com/PeterL1n/RobustVideoMatting.git",
   "svn_url": "https://github.com/PeterL1n/RobustVideoMatting",
   "homepage": "https://peterl1n.github.io/RobustVideoMatting/",
   "size": 9193,
-  "stargazers_count": 6899,
-  "watchers_count": 6899,
+  "stargazers_count": 6903,
+  "watchers_count": 6903,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 926,
   "open_issues": 77,
-  "watchers": 6899,
+  "watchers": 6903,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 972
+  "_index": 976
 }

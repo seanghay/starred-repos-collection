@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/googlemaps/google-maps-ios-utils/deployments",
   "created_at": "2013-08-30T07:03:23Z",
   "updated_at": "2023-04-04T09:47:34Z",
-  "pushed_at": "2023-04-03T23:32:02Z",
+  "pushed_at": "2023-04-11T00:30:52Z",
   "git_url": "git://github.com/googlemaps/google-maps-ios-utils.git",
   "ssh_url": "git@github.com:googlemaps/google-maps-ios-utils.git",
   "clone_url": "https://github.com/googlemaps/google-maps-ios-utils.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 41,
+  "open_issues_count": 40,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -107,7 +107,7 @@
   ],
   "visibility": "public",
   "forks": 367,
-  "open_issues": 41,
+  "open_issues": 40,
   "watchers": 664,
   "default_branch": "main",
   "permissions": {
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 805
+  "_index": 809
 }

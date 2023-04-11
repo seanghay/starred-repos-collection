@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/tuananh/camaro/deployments",
   "created_at": "2017-06-01T09:19:01Z",
   "updated_at": "2023-03-29T23:11:30Z",
-  "pushed_at": "2022-11-03T10:52:32Z",
+  "pushed_at": "2023-04-10T17:57:16Z",
   "git_url": "git://github.com/tuananh/camaro.git",
   "ssh_url": "git@github.com:tuananh/camaro.git",
   "clone_url": "https://github.com/tuananh/camaro.git",
   "svn_url": "https://github.com/tuananh/camaro",
   "homepage": null,
-  "size": 2604,
+  "size": 2606,
   "stargazers_count": 486,
   "watchers_count": 486,
   "language": "JavaScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 7,
+  "open_issues_count": 8,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,7 +112,7 @@
   ],
   "visibility": "public",
   "forks": 25,
-  "open_issues": 7,
+  "open_issues": 8,
   "watchers": 486,
   "default_branch": "develop",
   "permissions": {
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1294
+  "_index": 1298
 }

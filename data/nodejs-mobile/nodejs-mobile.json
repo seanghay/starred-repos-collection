@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nodejs-mobile/nodejs-mobile/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nodejs-mobile/nodejs-mobile/deployments",
   "created_at": "2021-10-07T17:51:52Z",
-  "updated_at": "2023-04-05T18:01:00Z",
+  "updated_at": "2023-04-10T09:38:07Z",
   "pushed_at": "2023-02-21T17:44:04Z",
   "git_url": "git://github.com/nodejs-mobile/nodejs-mobile.git",
   "ssh_url": "git@github.com:nodejs-mobile/nodejs-mobile.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nodejs-mobile/nodejs-mobile",
   "homepage": "https://code.janeasystems.com/nodejs-mobile",
   "size": 664929,
-  "stargazers_count": 170,
-  "watchers_count": 170,
+  "stargazers_count": 171,
+  "watchers_count": 171,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 18,
   "open_issues": 2,
-  "watchers": 170,
+  "watchers": 171,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 823
+  "_index": 827
 }

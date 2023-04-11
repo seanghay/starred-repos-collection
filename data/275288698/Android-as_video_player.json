@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/275288698/Android-as_video_player/releases{/id}",
   "deployments_url": "https://api.github.com/repos/275288698/Android-as_video_player/deployments",
   "created_at": "2018-05-10T02:02:57Z",
-  "updated_at": "2022-09-03T04:19:29Z",
+  "updated_at": "2023-04-10T02:12:31Z",
   "pushed_at": "2018-04-08T03:58:10Z",
   "git_url": "git://github.com/275288698/Android-as_video_player.git",
   "ssh_url": "git@github.com:275288698/Android-as_video_player.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/275288698/Android-as_video_player",
   "homepage": null,
   "size": 2775,
-  "stargazers_count": 11,
-  "watchers_count": 11,
+  "stargazers_count": 12,
+  "watchers_count": 12,
   "language": "C++",
   "has_issues": false,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 59,
   "open_issues": 0,
-  "watchers": 11,
+  "watchers": 12,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1053
+  "_index": 1057
 }
