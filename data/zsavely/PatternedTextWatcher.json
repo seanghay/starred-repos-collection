@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/zsavely/PatternedTextWatcher/releases{/id}",
   "deployments_url": "https://api.github.com/repos/zsavely/PatternedTextWatcher/deployments",
   "created_at": "2016-02-25T17:32:32Z",
-  "updated_at": "2023-01-28T11:50:52Z",
+  "updated_at": "2023-04-11T10:39:52Z",
   "pushed_at": "2020-11-17T12:16:08Z",
   "git_url": "git://github.com/zsavely/PatternedTextWatcher.git",
   "ssh_url": "git@github.com:zsavely/PatternedTextWatcher.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/zsavely/PatternedTextWatcher",
   "homepage": null,
   "size": 262,
-  "stargazers_count": 25,
-  "watchers_count": 25,
+  "stargazers_count": 26,
+  "watchers_count": 26,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 6,
   "open_issues": 0,
-  "watchers": 25,
+  "watchers": 26,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1705
+  "_index": 1713
 }

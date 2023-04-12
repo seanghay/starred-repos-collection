@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/permissions-dispatcher/PermissionsDispatcher/releases{/id}",
   "deployments_url": "https://api.github.com/repos/permissions-dispatcher/PermissionsDispatcher/deployments",
   "created_at": "2015-08-15T21:41:05Z",
-  "updated_at": "2023-04-10T17:15:16Z",
+  "updated_at": "2023-04-11T08:17:31Z",
   "pushed_at": "2022-09-24T00:46:05Z",
   "git_url": "git://github.com/permissions-dispatcher/PermissionsDispatcher.git",
   "ssh_url": "git@github.com:permissions-dispatcher/PermissionsDispatcher.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/permissions-dispatcher/PermissionsDispatcher",
   "homepage": "https://github.com/permissions-dispatcher/PermissionsDispatcher",
   "size": 3009,
-  "stargazers_count": 11103,
-  "watchers_count": 11103,
+  "stargazers_count": 11104,
+  "watchers_count": 11104,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1439,
+  "forks_count": 1438,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "permissions-android"
   ],
   "visibility": "public",
-  "forks": 1439,
+  "forks": 1438,
   "open_issues": 28,
-  "watchers": 11103,
+  "watchers": 11104,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2222
+  "_index": 2230
 }

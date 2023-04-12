@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/edent/SuperTinyIcons/releases{/id}",
   "deployments_url": "https://api.github.com/repos/edent/SuperTinyIcons/deployments",
   "created_at": "2017-04-13T23:28:34Z",
-  "updated_at": "2023-04-10T15:21:32Z",
-  "pushed_at": "2023-04-08T21:15:07Z",
+  "updated_at": "2023-04-11T15:20:21Z",
+  "pushed_at": "2023-04-11T17:21:42Z",
   "git_url": "git://github.com/edent/SuperTinyIcons.git",
   "ssh_url": "git@github.com:edent/SuperTinyIcons.git",
   "clone_url": "https://github.com/edent/SuperTinyIcons.git",
   "svn_url": "https://github.com/edent/SuperTinyIcons",
   "homepage": "",
-  "size": 8390,
-  "stargazers_count": 13993,
-  "watchers_count": 13993,
+  "size": 8399,
+  "stargazers_count": 13991,
+  "watchers_count": 13991,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 859,
   "open_issues": 11,
-  "watchers": 13993,
+  "watchers": 13991,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1593
+  "_index": 1601
 }

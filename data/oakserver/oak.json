@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/oakserver/oak/releases{/id}",
   "deployments_url": "https://api.github.com/repos/oakserver/oak/deployments",
   "created_at": "2018-12-12T10:20:46Z",
-  "updated_at": "2023-04-11T01:09:01Z",
+  "updated_at": "2023-04-11T20:42:45Z",
   "pushed_at": "2023-04-09T23:10:34Z",
   "git_url": "git://github.com/oakserver/oak.git",
   "ssh_url": "git@github.com:oakserver/oak.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/oakserver/oak",
   "homepage": "https://oakserver.github.io/oak/",
   "size": 53668,
-  "stargazers_count": 4659,
-  "watchers_count": 4659,
+  "stargazers_count": 4665,
+  "watchers_count": 4665,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 230,
   "open_issues": 58,
-  "watchers": 4659,
+  "watchers": 4665,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1526
+  "_index": 1534
 }

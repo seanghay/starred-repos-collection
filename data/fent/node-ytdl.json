@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 156,
+  "forks_count": 155,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "youtube-downloader"
   ],
   "visibility": "public",
-  "forks": 156,
+  "forks": 155,
   "open_issues": 27,
   "watchers": 1168,
   "default_branch": "master",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 113
+  "_index": 121
 }

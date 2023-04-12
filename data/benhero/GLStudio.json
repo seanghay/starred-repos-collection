@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/benhero/GLStudio/releases{/id}",
   "deployments_url": "https://api.github.com/repos/benhero/GLStudio/deployments",
   "created_at": "2017-09-01T08:46:46Z",
-  "updated_at": "2023-04-03T13:43:29Z",
+  "updated_at": "2023-04-11T13:24:42Z",
   "pushed_at": "2021-07-26T05:58:07Z",
   "git_url": "git://github.com/benhero/GLStudio.git",
   "ssh_url": "git@github.com:benhero/GLStudio.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/benhero/GLStudio",
   "homepage": "https://github.com/benhero/GLStudio",
   "size": 1636,
-  "stargazers_count": 302,
-  "watchers_count": 302,
+  "stargazers_count": 303,
+  "watchers_count": 303,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -100,7 +100,7 @@
   "visibility": "public",
   "forks": 57,
   "open_issues": 0,
-  "watchers": 302,
+  "watchers": 303,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1049
+  "_index": 1057
 }

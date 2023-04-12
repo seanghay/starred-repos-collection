@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kettsun0123/Floaty/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kettsun0123/Floaty/deployments",
   "created_at": "2017-11-22T11:06:11Z",
-  "updated_at": "2022-11-26T22:44:04Z",
+  "updated_at": "2023-04-11T08:43:12Z",
   "pushed_at": "2018-02-22T02:22:24Z",
   "git_url": "git://github.com/kettsun0123/Floaty.git",
   "ssh_url": "git@github.com:kettsun0123/Floaty.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/kettsun0123/Floaty",
   "homepage": "",
   "size": 736,
-  "stargazers_count": 96,
-  "watchers_count": 96,
+  "stargazers_count": 97,
+  "watchers_count": 97,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 9,
   "open_issues": 3,
-  "watchers": 96,
+  "watchers": 97,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2334
+  "_index": 2342
 }

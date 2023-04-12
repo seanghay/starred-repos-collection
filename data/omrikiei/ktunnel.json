@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/omrikiei/ktunnel/releases{/id}",
   "deployments_url": "https://api.github.com/repos/omrikiei/ktunnel/deployments",
   "created_at": "2019-09-25T14:41:20Z",
-  "updated_at": "2023-04-10T21:39:23Z",
+  "updated_at": "2023-04-11T14:32:32Z",
   "pushed_at": "2023-04-08T11:39:23Z",
   "git_url": "git://github.com/omrikiei/ktunnel.git",
   "ssh_url": "git@github.com:omrikiei/ktunnel.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 889
+  "_index": 897
 }

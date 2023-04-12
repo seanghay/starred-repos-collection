@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 30,
+  "forks_count": 31,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "macos-menubar"
   ],
   "visibility": "public",
-  "forks": 30,
+  "forks": 31,
   "open_issues": 3,
   "watchers": 1052,
   "default_branch": "main",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1254
+  "_index": 1262
 }

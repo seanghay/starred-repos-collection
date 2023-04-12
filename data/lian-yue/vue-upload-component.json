@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lian-yue/vue-upload-component/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lian-yue/vue-upload-component/deployments",
   "created_at": "2016-05-20T02:07:39Z",
-  "updated_at": "2023-04-10T14:12:02Z",
+  "updated_at": "2023-04-12T01:49:54Z",
   "pushed_at": "2023-03-14T20:07:18Z",
   "git_url": "git://github.com/lian-yue/vue-upload-component.git",
   "ssh_url": "git@github.com:lian-yue/vue-upload-component.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lian-yue/vue-upload-component",
   "homepage": "",
   "size": 9648,
-  "stargazers_count": 2589,
-  "watchers_count": 2589,
+  "stargazers_count": 2590,
+  "watchers_count": 2590,
   "language": "Vue",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 698,
   "open_issues": 195,
-  "watchers": 2589,
+  "watchers": 2590,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 703
+  "_index": 711
 }

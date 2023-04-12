@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wuyr/LitePager/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wuyr/LitePager/deployments",
   "created_at": "2019-04-04T06:50:25Z",
-  "updated_at": "2023-03-14T08:57:49Z",
+  "updated_at": "2023-04-12T01:47:28Z",
   "pushed_at": "2020-04-12T09:54:49Z",
   "git_url": "git://github.com/wuyr/LitePager.git",
   "ssh_url": "git@github.com:wuyr/LitePager.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wuyr/LitePager",
   "homepage": "",
   "size": 23550,
-  "stargazers_count": 595,
-  "watchers_count": 595,
+  "stargazers_count": 603,
+  "watchers_count": 603,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 55,
   "open_issues": 9,
-  "watchers": 595,
+  "watchers": 603,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2160
+  "_index": 2168
 }

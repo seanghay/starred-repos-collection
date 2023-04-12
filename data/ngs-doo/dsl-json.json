@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ngs-doo/dsl-json/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ngs-doo/dsl-json/deployments",
   "created_at": "2015-11-02T09:17:39Z",
-  "updated_at": "2023-04-07T22:42:40Z",
+  "updated_at": "2023-04-11T02:24:49Z",
   "pushed_at": "2023-02-28T02:32:44Z",
   "git_url": "git://github.com/ngs-doo/dsl-json.git",
   "ssh_url": "git@github.com:ngs-doo/dsl-json.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ngs-doo/dsl-json",
   "homepage": "https://dsl-platform.com",
   "size": 2350,
-  "stargazers_count": 868,
-  "watchers_count": 868,
+  "stargazers_count": 869,
+  "watchers_count": 869,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 105,
   "open_issues": 34,
-  "watchers": 868,
+  "watchers": 869,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1670
+  "_index": 1678
 }
