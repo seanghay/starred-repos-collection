@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/vendure-ecommerce/vendure/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vendure-ecommerce/vendure/deployments",
   "created_at": "2018-06-11T14:29:20Z",
-  "updated_at": "2023-04-12T00:20:17Z",
-  "pushed_at": "2023-04-11T08:00:04Z",
+  "updated_at": "2023-04-12T08:23:03Z",
+  "pushed_at": "2023-04-12T18:04:19Z",
   "git_url": "git://github.com/vendure-ecommerce/vendure.git",
   "ssh_url": "git@github.com:vendure-ecommerce/vendure.git",
   "clone_url": "https://github.com/vendure-ecommerce/vendure.git",
   "svn_url": "https://github.com/vendure-ecommerce/vendure",
   "homepage": "https://www.vendure.io",
   "size": 43254,
-  "stargazers_count": 4330,
-  "watchers_count": 4330,
+  "stargazers_count": 4333,
+  "watchers_count": 4333,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 730,
   "open_issues": 272,
-  "watchers": 4330,
+  "watchers": 4333,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 979
+  "_index": 982
 }

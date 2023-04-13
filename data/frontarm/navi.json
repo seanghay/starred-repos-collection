@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/frontarm/navi/releases{/id}",
   "deployments_url": "https://api.github.com/repos/frontarm/navi/deployments",
   "created_at": "2016-09-24T07:44:26Z",
-  "updated_at": "2023-04-06T12:09:10Z",
+  "updated_at": "2023-04-12T06:13:29Z",
   "pushed_at": "2022-08-03T03:47:23Z",
   "git_url": "git://github.com/frontarm/navi.git",
   "ssh_url": "git@github.com:frontarm/navi.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/frontarm/navi",
   "homepage": "https://frontarm.com/navi/",
   "size": 6862,
-  "stargazers_count": 2064,
-  "watchers_count": 2064,
+  "stargazers_count": 2065,
+  "watchers_count": 2065,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 71,
+  "forks_count": 70,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "seo"
   ],
   "visibility": "public",
-  "forks": 71,
+  "forks": 70,
   "open_issues": 44,
-  "watchers": 2064,
+  "watchers": 2065,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2456
+  "_index": 2459
 }

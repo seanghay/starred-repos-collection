@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sagar-viradiya/eazypermissions/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sagar-viradiya/eazypermissions/deployments",
   "created_at": "2019-04-19T09:55:19Z",
-  "updated_at": "2023-02-10T01:34:01Z",
+  "updated_at": "2023-04-12T17:45:41Z",
   "pushed_at": "2020-10-06T08:13:23Z",
   "git_url": "git://github.com/sagar-viradiya/eazypermissions.git",
   "ssh_url": "git@github.com:sagar-viradiya/eazypermissions.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sagar-viradiya/eazypermissions",
   "homepage": "",
   "size": 953,
-  "stargazers_count": 248,
-  "watchers_count": 248,
+  "stargazers_count": 249,
+  "watchers_count": 249,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 24,
   "open_issues": 6,
-  "watchers": 248,
+  "watchers": 249,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1694
+  "_index": 1697
 }

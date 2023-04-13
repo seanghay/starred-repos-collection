@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/egoist/rollup-plugin-esbuild/releases{/id}",
   "deployments_url": "https://api.github.com/repos/egoist/rollup-plugin-esbuild/deployments",
   "created_at": "2020-05-09T04:06:51Z",
-  "updated_at": "2023-04-06T05:30:35Z",
+  "updated_at": "2023-04-12T14:51:01Z",
   "pushed_at": "2023-02-13T13:52:43Z",
   "git_url": "git://github.com/egoist/rollup-plugin-esbuild.git",
   "ssh_url": "git@github.com:egoist/rollup-plugin-esbuild.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/egoist/rollup-plugin-esbuild",
   "homepage": "",
   "size": 664,
-  "stargazers_count": 553,
-  "watchers_count": 553,
+  "stargazers_count": 554,
+  "watchers_count": 554,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 38,
   "open_issues": 30,
-  "watchers": 553,
+  "watchers": 554,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 307
+  "_index": 310
 }

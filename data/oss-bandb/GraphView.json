@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/oss-bandb/GraphView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/oss-bandb/GraphView/deployments",
   "created_at": "2018-02-21T15:53:31Z",
-  "updated_at": "2023-04-03T02:00:31Z",
+  "updated_at": "2023-04-12T11:33:43Z",
   "pushed_at": "2021-04-10T12:34:56Z",
   "git_url": "git://github.com/oss-bandb/GraphView.git",
   "ssh_url": "git@github.com:oss-bandb/GraphView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/oss-bandb/GraphView",
   "homepage": "",
   "size": 2092,
-  "stargazers_count": 995,
-  "watchers_count": 995,
+  "stargazers_count": 997,
+  "watchers_count": 997,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 127,
+  "forks_count": 128,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,9 +108,9 @@
     "view"
   ],
   "visibility": "public",
-  "forks": 127,
+  "forks": 128,
   "open_issues": 13,
-  "watchers": 995,
+  "watchers": 997,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2106
+  "_index": 2109
 }

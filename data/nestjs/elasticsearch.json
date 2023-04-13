@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/nestjs/elasticsearch/deployments",
   "created_at": "2018-06-24T10:01:20Z",
   "updated_at": "2023-03-30T16:47:46Z",
-  "pushed_at": "2023-04-11T01:58:03Z",
+  "pushed_at": "2023-04-13T00:08:45Z",
   "git_url": "git://github.com/nestjs/elasticsearch.git",
   "ssh_url": "git@github.com:nestjs/elasticsearch.git",
   "clone_url": "https://github.com/nestjs/elasticsearch.git",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 823
+  "_index": 826
 }

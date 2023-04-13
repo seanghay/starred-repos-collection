@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/siwangqishiq/ImageEditor-Android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/siwangqishiq/ImageEditor-Android/deployments",
   "created_at": "2015-08-10T03:09:30Z",
-  "updated_at": "2023-04-11T11:24:43Z",
+  "updated_at": "2023-04-12T06:14:20Z",
   "pushed_at": "2022-09-28T05:57:17Z",
   "git_url": "git://github.com/siwangqishiq/ImageEditor-Android.git",
   "ssh_url": "git@github.com:siwangqishiq/ImageEditor-Android.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/siwangqishiq/ImageEditor-Android",
   "homepage": "",
   "size": 25000,
-  "stargazers_count": 2072,
-  "watchers_count": 2072,
+  "stargazers_count": 2074,
+  "watchers_count": 2074,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 561,
   "open_issues": 21,
-  "watchers": 2072,
+  "watchers": 2074,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 201
+  "_index": 204
 }

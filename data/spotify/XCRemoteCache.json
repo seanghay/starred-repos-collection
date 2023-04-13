@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/spotify/XCRemoteCache.git",
   "svn_url": "https://github.com/spotify/XCRemoteCache",
   "homepage": null,
-  "size": 3654,
+  "size": 3681,
   "stargazers_count": 769,
   "watchers_count": 769,
   "language": "Swift",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 810
+  "_index": 813
 }

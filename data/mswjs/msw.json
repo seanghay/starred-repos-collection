@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/mswjs/msw/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mswjs/msw/deployments",
   "created_at": "2018-11-13T14:58:44Z",
-  "updated_at": "2023-04-12T01:25:58Z",
-  "pushed_at": "2023-04-11T22:25:05Z",
+  "updated_at": "2023-04-13T01:09:38Z",
+  "pushed_at": "2023-04-12T17:35:32Z",
   "git_url": "git://github.com/mswjs/msw.git",
   "ssh_url": "git@github.com:mswjs/msw.git",
   "clone_url": "https://github.com/mswjs/msw.git",
   "svn_url": "https://github.com/mswjs/msw",
   "homepage": "https://mswjs.io",
-  "size": 8793,
-  "stargazers_count": 11991,
-  "watchers_count": 11991,
+  "size": 8658,
+  "stargazers_count": 12001,
+  "watchers_count": 12001,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 381,
+  "forks_count": 382,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 78,
+  "open_issues_count": 79,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -111,9 +111,9 @@
     "service-worker"
   ],
   "visibility": "public",
-  "forks": 381,
-  "open_issues": 78,
-  "watchers": 11991,
+  "forks": 382,
+  "open_issues": 79,
+  "watchers": 12001,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 601
+  "_index": 604
 }

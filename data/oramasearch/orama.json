@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/oramasearch/orama/releases{/id}",
   "deployments_url": "https://api.github.com/repos/oramasearch/orama/deployments",
   "created_at": "2022-05-10T12:01:50Z",
-  "updated_at": "2023-04-12T01:11:57Z",
+  "updated_at": "2023-04-12T16:27:33Z",
   "pushed_at": "2023-04-11T16:27:56Z",
   "git_url": "git://github.com/oramasearch/orama.git",
   "ssh_url": "git@github.com:oramasearch/orama.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/oramasearch/orama",
   "homepage": "https://docs.oramasearch.com",
   "size": 25951,
-  "stargazers_count": 5640,
-  "watchers_count": 5640,
+  "stargazers_count": 5643,
+  "watchers_count": 5643,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 138,
   "open_issues": 42,
-  "watchers": 5640,
+  "watchers": 5643,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 477
+  "_index": 480
 }
