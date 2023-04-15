@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Torantulino/Auto-GPT/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Torantulino/Auto-GPT/deployments",
   "created_at": "2023-03-16T09:21:07Z",
-  "updated_at": "2023-04-14T01:57:27Z",
-  "pushed_at": "2023-04-14T01:52:34Z",
+  "updated_at": "2023-04-15T02:00:12Z",
+  "pushed_at": "2023-04-15T01:59:30Z",
   "git_url": "git://github.com/Torantulino/Auto-GPT.git",
   "ssh_url": "git@github.com:Torantulino/Auto-GPT.git",
   "clone_url": "https://github.com/Torantulino/Auto-GPT.git",
   "svn_url": "https://github.com/Torantulino/Auto-GPT",
   "homepage": "",
-  "size": 871,
-  "stargazers_count": 49171,
-  "watchers_count": 49171,
+  "size": 1029,
+  "stargazers_count": 61885,
+  "watchers_count": 61885,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 6587,
+  "forks_count": 8663,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 498,
+  "open_issues_count": 587,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,9 +104,9 @@
     "python"
   ],
   "visibility": "public",
-  "forks": 6587,
-  "open_issues": 498,
-  "watchers": 49171,
+  "forks": 8663,
+  "open_issues": 587,
+  "watchers": 61885,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 8
+  "_index": 9
 }

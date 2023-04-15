@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/GetStream/AvengersChat/deployments",
   "created_at": "2021-10-22T09:07:11Z",
   "updated_at": "2023-03-27T05:40:06Z",
-  "pushed_at": "2022-10-12T00:06:38Z",
+  "pushed_at": "2023-04-14T15:35:10Z",
   "git_url": "git://github.com/GetStream/AvengersChat.git",
   "ssh_url": "git@github.com:GetStream/AvengersChat.git",
   "clone_url": "https://github.com/GetStream/AvengersChat.git",
   "svn_url": "https://github.com/GetStream/AvengersChat",
   "homepage": "",
-  "size": 87229,
+  "size": 87231,
   "stargazers_count": 357,
   "watchers_count": 357,
   "language": "Kotlin",
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 803
+  "_index": 804
 }

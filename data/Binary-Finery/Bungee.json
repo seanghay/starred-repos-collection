@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Binary-Finery/Bungee/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Binary-Finery/Bungee/deployments",
   "created_at": "2017-12-26T20:25:23Z",
-  "updated_at": "2023-03-20T11:49:14Z",
+  "updated_at": "2023-04-14T08:52:51Z",
   "pushed_at": "2021-02-16T13:20:56Z",
   "git_url": "git://github.com/Binary-Finery/Bungee.git",
   "ssh_url": "git@github.com:Binary-Finery/Bungee.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Binary-Finery/Bungee",
   "homepage": "",
   "size": 160,
-  "stargazers_count": 170,
-  "watchers_count": 170,
+  "stargazers_count": 171,
+  "watchers_count": 171,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 30,
   "open_issues": 12,
-  "watchers": 170,
+  "watchers": 171,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1475
+  "_index": 1476
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/princekin-f/EasyFloat/releases{/id}",
   "deployments_url": "https://api.github.com/repos/princekin-f/EasyFloat/deployments",
   "created_at": "2019-08-06T08:02:06Z",
-  "updated_at": "2023-04-12T07:24:08Z",
+  "updated_at": "2023-04-14T13:18:07Z",
   "pushed_at": "2022-11-25T06:20:31Z",
   "git_url": "git://github.com/princekin-f/EasyFloat.git",
   "ssh_url": "git@github.com:princekin-f/EasyFloat.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/princekin-f/EasyFloat",
   "homepage": "",
   "size": 28423,
-  "stargazers_count": 2898,
-  "watchers_count": 2898,
+  "stargazers_count": 2900,
+  "watchers_count": 2900,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 371,
   "open_issues": 62,
-  "watchers": 2898,
+  "watchers": 2900,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1997
+  "_index": 1998
 }

@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/ReactiveCircus/app-versioning.git",
   "svn_url": "https://github.com/ReactiveCircus/app-versioning",
   "homepage": "",
-  "size": 603,
+  "size": 606,
   "stargazers_count": 158,
   "watchers_count": 158,
   "language": "Kotlin",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1005
+  "_index": 1006
 }

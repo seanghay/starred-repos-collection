@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/victorgarciaesgi/nuxt-typed-router/deployments",
   "created_at": "2020-01-08T14:03:01Z",
   "updated_at": "2023-04-10T15:07:52Z",
-  "pushed_at": "2023-04-13T14:08:35Z",
+  "pushed_at": "2023-04-14T15:56:12Z",
   "git_url": "git://github.com/victorgarciaesgi/nuxt-typed-router.git",
   "ssh_url": "git@github.com:victorgarciaesgi/nuxt-typed-router.git",
   "clone_url": "https://github.com/victorgarciaesgi/nuxt-typed-router.git",
   "svn_url": "https://github.com/victorgarciaesgi/nuxt-typed-router",
   "homepage": "https://nuxt-typed-router.vercel.app",
-  "size": 15493,
+  "size": 15520,
   "stargazers_count": 187,
   "watchers_count": 187,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 3,
+  "open_issues_count": 4,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,7 +112,7 @@
   ],
   "visibility": "public",
   "forks": 5,
-  "open_issues": 3,
+  "open_issues": 4,
   "watchers": 187,
   "default_branch": "master",
   "permissions": {
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 717
+  "_index": 718
 }

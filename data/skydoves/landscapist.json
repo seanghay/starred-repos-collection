@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/skydoves/landscapist/releases{/id}",
   "deployments_url": "https://api.github.com/repos/skydoves/landscapist/deployments",
   "created_at": "2020-09-24T16:18:03Z",
-  "updated_at": "2023-04-14T00:38:34Z",
-  "pushed_at": "2023-04-13T10:29:09Z",
+  "updated_at": "2023-04-14T16:52:55Z",
+  "pushed_at": "2023-04-14T11:56:05Z",
   "git_url": "git://github.com/skydoves/landscapist.git",
   "ssh_url": "git@github.com:skydoves/landscapist.git",
   "clone_url": "https://github.com/skydoves/landscapist.git",
   "svn_url": "https://github.com/skydoves/landscapist",
   "homepage": "",
-  "size": 5115,
-  "stargazers_count": 1538,
-  "watchers_count": 1538,
+  "size": 5127,
+  "stargazers_count": 1541,
+  "watchers_count": 1541,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2,
+  "open_issues_count": 3,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -114,8 +114,8 @@
   ],
   "visibility": "public",
   "forks": 88,
-  "open_issues": 2,
-  "watchers": 1538,
+  "open_issues": 3,
+  "watchers": 1541,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1331
+  "_index": 1332
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ToolJet/ToolJet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ToolJet/ToolJet/deployments",
   "created_at": "2021-03-30T08:51:34Z",
-  "updated_at": "2023-04-13T13:43:35Z",
-  "pushed_at": "2023-04-13T21:19:13Z",
+  "updated_at": "2023-04-15T00:54:57Z",
+  "pushed_at": "2023-04-14T16:26:43Z",
   "git_url": "git://github.com/ToolJet/ToolJet.git",
   "ssh_url": "git@github.com:ToolJet/ToolJet.git",
   "clone_url": "https://github.com/ToolJet/ToolJet.git",
   "svn_url": "https://github.com/ToolJet/ToolJet",
   "homepage": "https://tooljet.com",
-  "size": 630023,
-  "stargazers_count": 18716,
-  "watchers_count": 18716,
+  "size": 630090,
+  "stargazers_count": 18722,
+  "watchers_count": 18722,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1666,
+  "forks_count": 1671,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 352,
+  "open_issues_count": 353,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -119,9 +119,9 @@
     "web-development-tools"
   ],
   "visibility": "public",
-  "forks": 1666,
-  "open_issues": 352,
-  "watchers": 18716,
+  "forks": 1671,
+  "open_issues": 353,
+  "watchers": 18722,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 399
+  "_index": 400
 }

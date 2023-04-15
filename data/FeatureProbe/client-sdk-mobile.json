@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/FeatureProbe/client-sdk-mobile/releases{/id}",
   "deployments_url": "https://api.github.com/repos/FeatureProbe/client-sdk-mobile/deployments",
   "created_at": "2022-05-25T05:25:33Z",
-  "updated_at": "2023-04-10T07:45:09Z",
+  "updated_at": "2023-04-14T08:52:25Z",
   "pushed_at": "2023-03-01T10:51:20Z",
   "git_url": "git://github.com/FeatureProbe/client-sdk-mobile.git",
   "ssh_url": "git@github.com:FeatureProbe/client-sdk-mobile.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/FeatureProbe/client-sdk-mobile",
   "homepage": "",
   "size": 2099,
-  "stargazers_count": 39,
-  "watchers_count": 39,
+  "stargazers_count": 40,
+  "watchers_count": 40,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 5,
   "open_issues": 1,
-  "watchers": 39,
+  "watchers": 40,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 440
+  "_index": 441
 }
