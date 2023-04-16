@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/jsdom/jsdom/deployments",
   "created_at": "2010-01-19T06:55:19Z",
   "updated_at": "2023-04-14T18:23:54Z",
-  "pushed_at": "2023-04-14T06:43:58Z",
+  "pushed_at": "2023-04-15T17:30:23Z",
   "git_url": "git://github.com/jsdom/jsdom.git",
   "ssh_url": "git@github.com:jsdom/jsdom.git",
   "clone_url": "https://github.com/jsdom/jsdom.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1606,
+  "forks_count": 1607,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,7 +105,7 @@
     "nodejs"
   ],
   "visibility": "public",
-  "forks": 1606,
+  "forks": 1607,
   "open_issues": 472,
   "watchers": 18678,
   "default_branch": "master",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 609
+  "_index": 610
 }

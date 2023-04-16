@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jitsi/jitsi-meet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jitsi/jitsi-meet/deployments",
   "created_at": "2013-12-16T12:51:09Z",
-  "updated_at": "2023-04-14T19:31:27Z",
+  "updated_at": "2023-04-15T12:55:02Z",
   "pushed_at": "2023-04-14T23:25:58Z",
   "git_url": "git://github.com/jitsi/jitsi-meet.git",
   "ssh_url": "git@github.com:jitsi/jitsi-meet.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 6136,
+  "forks_count": 6138,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 411,
+  "open_issues_count": 412,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -110,8 +110,8 @@
     "webrtc"
   ],
   "visibility": "public",
-  "forks": 6136,
-  "open_issues": 411,
+  "forks": 6138,
+  "open_issues": 412,
   "watchers": 19575,
   "default_branch": "master",
   "permissions": {
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 530
+  "_index": 531
 }

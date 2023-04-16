@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/SaschaWillems/Vulkan/releases{/id}",
   "deployments_url": "https://api.github.com/repos/SaschaWillems/Vulkan/deployments",
   "created_at": "2015-06-21T18:48:22Z",
-  "updated_at": "2023-04-15T00:10:23Z",
-  "pushed_at": "2023-04-14T16:31:56Z",
+  "updated_at": "2023-04-16T01:41:41Z",
+  "pushed_at": "2023-04-15T16:29:16Z",
   "git_url": "git://github.com/SaschaWillems/Vulkan.git",
   "ssh_url": "git@github.com:SaschaWillems/Vulkan.git",
   "clone_url": "https://github.com/SaschaWillems/Vulkan.git",
   "svn_url": "https://github.com/SaschaWillems/Vulkan",
   "homepage": null,
-  "size": 217460,
-  "stargazers_count": 8455,
-  "watchers_count": 8455,
+  "size": 217466,
+  "stargazers_count": 8464,
+  "watchers_count": 8464,
   "language": "GLSL",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1728,
+  "forks_count": 1732,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 25,
+  "open_issues_count": 24,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -102,9 +102,9 @@
     "vulkan-api"
   ],
   "visibility": "public",
-  "forks": 1728,
-  "open_issues": 25,
-  "watchers": 8455,
+  "forks": 1732,
+  "open_issues": 24,
+  "watchers": 8464,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1024
+  "_index": 1025
 }

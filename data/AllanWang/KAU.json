@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/AllanWang/KAU/releases{/id}",
   "deployments_url": "https://api.github.com/repos/AllanWang/KAU/deployments",
   "created_at": "2017-06-10T23:10:37Z",
-  "updated_at": "2023-04-11T21:18:09Z",
+  "updated_at": "2023-04-15T06:06:44Z",
   "pushed_at": "2022-09-15T22:22:55Z",
   "git_url": "git://github.com/AllanWang/KAU.git",
   "ssh_url": "git@github.com:AllanWang/KAU.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/AllanWang/KAU",
   "homepage": "https://allanwang.github.io/KAU/",
   "size": 2607,
-  "stargazers_count": 214,
-  "watchers_count": 214,
+  "stargazers_count": 216,
+  "watchers_count": 216,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -120,7 +120,7 @@
   "visibility": "public",
   "forks": 27,
   "open_issues": 5,
-  "watchers": 214,
+  "watchers": 216,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1689
+  "_index": 1690
 }

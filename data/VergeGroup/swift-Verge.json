@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/VergeGroup/swift-Verge",
-  "description": "🟣 Verge is a very tunable state-management engine on iOS App (UIKit / SwiftUI) and built-in ORM.",
+  "description": "🟣 A robust Swift state-management framework designed for complex applications, featuring an integrated ORM for efficient data handling.",
   "fork": false,
   "url": "https://api.github.com/repos/VergeGroup/swift-Verge",
   "forks_url": "https://api.github.com/repos/VergeGroup/swift-Verge/forks",
@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/VergeGroup/swift-Verge/releases{/id}",
   "deployments_url": "https://api.github.com/repos/VergeGroup/swift-Verge/deployments",
   "created_at": "2017-10-17T20:15:00Z",
-  "updated_at": "2023-04-11T11:38:51Z",
+  "updated_at": "2023-04-15T14:27:43Z",
   "pushed_at": "2023-04-12T16:51:13Z",
   "git_url": "git://github.com/VergeGroup/swift-Verge.git",
   "ssh_url": "git@github.com:VergeGroup/swift-Verge.git",
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1162
+  "_index": 1163
 }

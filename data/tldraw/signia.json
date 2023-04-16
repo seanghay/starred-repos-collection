@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tldraw/signia/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tldraw/signia/deployments",
   "created_at": "2023-01-16T22:20:49Z",
-  "updated_at": "2023-04-14T14:05:07Z",
+  "updated_at": "2023-04-16T00:41:39Z",
   "pushed_at": "2023-04-11T13:05:37Z",
   "git_url": "git://github.com/tldraw/signia.git",
   "ssh_url": "git@github.com:tldraw/signia.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/tldraw/signia",
   "homepage": "https://signia.tldraw.dev",
   "size": 4541,
-  "stargazers_count": 675,
-  "watchers_count": 675,
+  "stargazers_count": 678,
+  "watchers_count": 678,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 7,
   "open_issues": 10,
-  "watchers": 675,
+  "watchers": 678,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 130
+  "_index": 131
 }

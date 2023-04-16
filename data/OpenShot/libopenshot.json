@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/OpenShot/libopenshot/releases{/id}",
   "deployments_url": "https://api.github.com/repos/OpenShot/libopenshot/deployments",
   "created_at": "2015-03-09T20:26:42Z",
-  "updated_at": "2023-04-12T13:45:00Z",
+  "updated_at": "2023-04-15T09:09:36Z",
   "pushed_at": "2023-04-14T23:54:26Z",
   "git_url": "git://github.com/OpenShot/libopenshot.git",
   "ssh_url": "git@github.com:OpenShot/libopenshot.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/OpenShot/libopenshot",
   "homepage": "http://www.openshot.org",
   "size": 119913,
-  "stargazers_count": 983,
-  "watchers_count": 983,
+  "stargazers_count": 984,
+  "watchers_count": 984,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 35,
+  "open_issues_count": 37,
   "license": {
     "key": "lgpl-3.0",
     "name": "GNU Lesser General Public License v3.0",
@@ -113,8 +113,8 @@
   ],
   "visibility": "public",
   "forks": 237,
-  "open_issues": 35,
-  "watchers": 983,
+  "open_issues": 37,
+  "watchers": 984,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1087
+  "_index": 1088
 }

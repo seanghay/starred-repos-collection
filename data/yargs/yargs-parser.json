@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/yargs/yargs-parser/deployments",
   "created_at": "2016-01-23T21:03:32Z",
   "updated_at": "2023-04-07T05:25:21Z",
-  "pushed_at": "2023-04-07T03:50:25Z",
+  "pushed_at": "2023-04-15T02:17:19Z",
   "git_url": "git://github.com/yargs/yargs-parser.git",
   "ssh_url": "git@github.com:yargs/yargs-parser.git",
   "clone_url": "https://github.com/yargs/yargs-parser.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2571
+  "_index": 2572
 }

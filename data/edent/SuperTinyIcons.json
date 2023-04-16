@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/edent/SuperTinyIcons/releases{/id}",
   "deployments_url": "https://api.github.com/repos/edent/SuperTinyIcons/deployments",
   "created_at": "2017-04-13T23:28:34Z",
-  "updated_at": "2023-04-15T00:15:47Z",
+  "updated_at": "2023-04-15T15:24:26Z",
   "pushed_at": "2023-04-11T17:21:42Z",
   "git_url": "git://github.com/edent/SuperTinyIcons.git",
   "ssh_url": "git@github.com:edent/SuperTinyIcons.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 859,
+  "forks_count": 860,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,7 +106,7 @@
     "tiny-social-icons"
   ],
   "visibility": "public",
-  "forks": 859,
+  "forks": 860,
   "open_issues": 11,
   "watchers": 13997,
   "default_branch": "master",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1605
+  "_index": 1606
 }
