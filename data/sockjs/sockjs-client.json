@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/sockjs/sockjs-client/deployments",
   "created_at": "2011-07-22T14:12:01Z",
   "updated_at": "2023-04-13T14:24:06Z",
-  "pushed_at": "2023-02-26T12:16:05Z",
+  "pushed_at": "2023-04-16T11:46:56Z",
   "git_url": "git://github.com/sockjs/sockjs-client.git",
   "ssh_url": "git@github.com:sockjs/sockjs-client.git",
   "clone_url": "https://github.com/sockjs/sockjs-client.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 13,
+  "open_issues_count": 14,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,7 +105,7 @@
   ],
   "visibility": "public",
   "forks": 1323,
-  "open_issues": 13,
+  "open_issues": 14,
   "watchers": 8186,
   "default_branch": "main",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1180
+  "_index": 1181
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/kubernetes/ingress-nginx/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kubernetes/ingress-nginx/deployments",
   "created_at": "2016-11-04T22:54:14Z",
-  "updated_at": "2023-04-16T00:47:36Z",
-  "pushed_at": "2023-04-13T18:27:23Z",
+  "updated_at": "2023-04-17T00:55:27Z",
+  "pushed_at": "2023-04-17T00:50:24Z",
   "git_url": "git://github.com/kubernetes/ingress-nginx.git",
   "ssh_url": "git@github.com:kubernetes/ingress-nginx.git",
   "clone_url": "https://github.com/kubernetes/ingress-nginx.git",
   "svn_url": "https://github.com/kubernetes/ingress-nginx",
   "homepage": "https://kubernetes.github.io/ingress-nginx/",
-  "size": 141094,
-  "stargazers_count": 14741,
-  "watchers_count": 14741,
+  "size": 141422,
+  "stargazers_count": 14743,
+  "watchers_count": 14743,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 7725,
+  "forks_count": 7726,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 386,
+  "open_issues_count": 387,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -103,9 +103,9 @@
     "nginx"
   ],
   "visibility": "public",
-  "forks": 7725,
-  "open_issues": 386,
-  "watchers": 14741,
+  "forks": 7726,
+  "open_issues": 387,
+  "watchers": 14743,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1048
+  "_index": 1049
 }

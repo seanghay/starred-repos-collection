@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yu-takagi/StableDiffusionReconstruction/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yu-takagi/StableDiffusionReconstruction/deployments",
   "created_at": "2023-02-28T08:42:17Z",
-  "updated_at": "2023-04-14T20:52:44Z",
+  "updated_at": "2023-04-16T22:02:20Z",
   "pushed_at": "2023-03-07T14:11:44Z",
   "git_url": "git://github.com/yu-takagi/StableDiffusionReconstruction.git",
   "ssh_url": "git@github.com:yu-takagi/StableDiffusionReconstruction.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yu-takagi/StableDiffusionReconstruction",
   "homepage": null,
   "size": 2571,
-  "stargazers_count": 847,
-  "watchers_count": 847,
+  "stargazers_count": 848,
+  "watchers_count": 848,
   "language": null,
   "has_issues": false,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 22,
   "open_issues": 0,
-  "watchers": 847,
+  "watchers": 848,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 125
+  "_index": 126
 }

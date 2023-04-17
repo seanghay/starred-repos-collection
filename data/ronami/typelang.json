@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ronami/typelang/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ronami/typelang/deployments",
   "created_at": "2020-10-22T19:49:44Z",
-  "updated_at": "2023-04-05T04:42:55Z",
+  "updated_at": "2023-04-16T22:33:19Z",
   "pushed_at": "2020-10-28T16:14:58Z",
   "git_url": "git://github.com/ronami/typelang.git",
   "ssh_url": "git@github.com:ronami/typelang.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ronami/typelang",
   "homepage": "",
   "size": 150,
-  "stargazers_count": 197,
-  "watchers_count": 197,
+  "stargazers_count": 198,
+  "watchers_count": 198,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 0,
+  "forks_count": 1,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,9 +106,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 0,
+  "forks": 1,
   "open_issues": 2,
-  "watchers": 197,
+  "watchers": 198,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1371
+  "_index": 1372
 }

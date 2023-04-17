@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Brooooooklyn/canvas/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Brooooooklyn/canvas/deployments",
   "created_at": "2020-08-30T03:08:40Z",
-  "updated_at": "2023-04-15T19:25:02Z",
+  "updated_at": "2023-04-16T09:42:26Z",
   "pushed_at": "2023-04-09T13:35:13Z",
   "git_url": "git://github.com/Brooooooklyn/canvas.git",
   "ssh_url": "git@github.com:Brooooooklyn/canvas.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Brooooooklyn/canvas",
   "homepage": "https://vercel.skia.rs",
   "size": 48397,
-  "stargazers_count": 1214,
-  "watchers_count": 1214,
+  "stargazers_count": 1215,
+  "watchers_count": 1215,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 51,
   "open_issues": 36,
-  "watchers": 1214,
+  "watchers": 1215,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 438
+  "_index": 439
 }

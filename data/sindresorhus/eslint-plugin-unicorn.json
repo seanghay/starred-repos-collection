@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/eslint-plugin-unicorn/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/eslint-plugin-unicorn/deployments",
   "created_at": "2016-04-09T07:48:04Z",
-  "updated_at": "2023-04-15T14:15:29Z",
-  "pushed_at": "2023-04-15T18:57:06Z",
+  "updated_at": "2023-04-16T07:11:57Z",
+  "pushed_at": "2023-04-16T07:21:48Z",
   "git_url": "git://github.com/sindresorhus/eslint-plugin-unicorn.git",
   "ssh_url": "git@github.com:sindresorhus/eslint-plugin-unicorn.git",
   "clone_url": "https://github.com/sindresorhus/eslint-plugin-unicorn.git",
   "svn_url": "https://github.com/sindresorhus/eslint-plugin-unicorn",
   "homepage": "",
-  "size": 4380,
-  "stargazers_count": 3123,
-  "watchers_count": 3123,
+  "size": 4386,
+  "stargazers_count": 3125,
+  "watchers_count": 3125,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 329,
   "open_issues": 325,
-  "watchers": 3123,
+  "watchers": 3125,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 383
+  "_index": 384
 }

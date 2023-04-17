@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 641,
+  "forks_count": 642,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 287,
+  "open_issues_count": 286,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -108,8 +108,8 @@
     "viewing-photos"
   ],
   "visibility": "public",
-  "forks": 641,
-  "open_issues": 287,
+  "forks": 642,
+  "open_issues": 286,
   "watchers": 2992,
   "default_branch": "master",
   "permissions": {
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2284
+  "_index": 2285
 }

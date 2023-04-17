@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/mymindstorm/setup-emsdk/deployments",
   "created_at": "2019-08-22T19:55:25Z",
   "updated_at": "2023-03-30T01:30:25Z",
-  "pushed_at": "2023-02-11T17:16:48Z",
+  "pushed_at": "2023-04-16T04:00:05Z",
   "git_url": "git://github.com/mymindstorm/setup-emsdk.git",
   "ssh_url": "git@github.com:mymindstorm/setup-emsdk.git",
   "clone_url": "https://github.com/mymindstorm/setup-emsdk.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 21,
+  "forks_count": 22,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,7 +102,7 @@
     "github-actions"
   ],
   "visibility": "public",
-  "forks": 21,
+  "forks": 22,
   "open_issues": 11,
   "watchers": 67,
   "default_branch": "master",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 81
+  "_index": 82
 }

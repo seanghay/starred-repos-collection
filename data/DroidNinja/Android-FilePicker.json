@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 556,
+  "forks_count": 555,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -101,7 +101,7 @@
     "whatsapp-like-picker"
   ],
   "visibility": "public",
-  "forks": 556,
+  "forks": 555,
   "open_issues": 87,
   "watchers": 2600,
   "default_branch": "master",
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2255
+  "_index": 2256
 }

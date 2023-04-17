@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sirupsen/logrus/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sirupsen/logrus/deployments",
   "created_at": "2013-10-16T19:08:55Z",
-  "updated_at": "2023-04-16T00:48:13Z",
+  "updated_at": "2023-04-17T00:45:23Z",
   "pushed_at": "2023-03-12T00:21:49Z",
   "git_url": "git://github.com/sirupsen/logrus.git",
   "ssh_url": "git@github.com:sirupsen/logrus.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sirupsen/logrus",
   "homepage": "",
   "size": 980,
-  "stargazers_count": 22492,
-  "watchers_count": 22492,
+  "stargazers_count": 22495,
+  "watchers_count": 22495,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 2225,
   "open_issues": 73,
-  "watchers": 22492,
+  "watchers": 22495,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1093
+  "_index": 1094
 }

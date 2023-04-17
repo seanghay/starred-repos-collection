@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/Etar-Group/Etar-Calendar.git",
   "svn_url": "https://github.com/Etar-Group/Etar-Calendar",
   "homepage": "https://f-droid.org/packages/ws.xsoh.etar/",
-  "size": 40090,
+  "size": 40146,
   "stargazers_count": 1601,
   "watchers_count": 1601,
   "language": "Java",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1743
+  "_index": 1744
 }

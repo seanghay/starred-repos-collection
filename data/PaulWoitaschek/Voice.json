@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/PaulWoitaschek/Voice/deployments",
   "created_at": "2014-08-02T22:01:39Z",
   "updated_at": "2023-04-14T04:37:37Z",
-  "pushed_at": "2023-04-15T21:42:22Z",
+  "pushed_at": "2023-04-16T03:51:51Z",
   "git_url": "git://github.com/PaulWoitaschek/Voice.git",
   "ssh_url": "git@github.com:PaulWoitaschek/Voice.git",
   "clone_url": "https://github.com/PaulWoitaschek/Voice.git",
   "svn_url": "https://github.com/PaulWoitaschek/Voice",
   "homepage": "",
-  "size": 116940,
+  "size": 116942,
   "stargazers_count": 1900,
   "watchers_count": 1900,
   "language": "Kotlin",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2052
+  "_index": 2053
 }
