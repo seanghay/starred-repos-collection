@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/trekhleb/promote-your-next-startup/releases{/id}",
   "deployments_url": "https://api.github.com/repos/trekhleb/promote-your-next-startup/deployments",
   "created_at": "2018-06-11T04:11:58Z",
-  "updated_at": "2023-04-13T19:56:03Z",
+  "updated_at": "2023-04-17T17:23:31Z",
   "pushed_at": "2022-11-16T20:40:46Z",
   "git_url": "git://github.com/trekhleb/promote-your-next-startup.git",
   "ssh_url": "git@github.com:trekhleb/promote-your-next-startup.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/trekhleb/promote-your-next-startup",
   "homepage": "",
   "size": 190,
-  "stargazers_count": 1970,
-  "watchers_count": 1970,
+  "stargazers_count": 1971,
+  "watchers_count": 1971,
   "language": null,
   "has_issues": true,
   "has_projects": false,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 175,
   "open_issues": 5,
-  "watchers": 1970,
+  "watchers": 1971,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 901
+  "_index": 911
 }

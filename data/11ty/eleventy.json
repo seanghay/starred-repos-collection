@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/11ty/eleventy",
-  "description": "A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.",
+  "description": "A simpler site generator. Transforms a directory of templates (of varying types) into HTML.",
   "fork": false,
   "url": "https://api.github.com/repos/11ty/eleventy",
   "forks_url": "https://api.github.com/repos/11ty/eleventy/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/11ty/eleventy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/11ty/eleventy/deployments",
   "created_at": "2017-11-27T05:19:00Z",
-  "updated_at": "2023-04-17T01:18:33Z",
-  "pushed_at": "2023-04-14T14:28:05Z",
+  "updated_at": "2023-04-18T01:40:54Z",
+  "pushed_at": "2023-04-17T22:16:39Z",
   "git_url": "git://github.com/11ty/eleventy.git",
   "ssh_url": "git@github.com:11ty/eleventy.git",
   "clone_url": "https://github.com/11ty/eleventy.git",
   "svn_url": "https://github.com/11ty/eleventy",
   "homepage": "https://www.11ty.dev/",
-  "size": 3314,
-  "stargazers_count": 14132,
-  "watchers_count": 14132,
+  "size": 3322,
+  "stargazers_count": 14136,
+  "watchers_count": 14136,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 438,
+  "open_issues_count": 439,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 433,
-  "open_issues": 438,
-  "watchers": 14132,
+  "open_issues": 439,
+  "watchers": 14136,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1282
+  "_index": 1292
 }

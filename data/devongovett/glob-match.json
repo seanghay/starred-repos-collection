@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/devongovett/glob-match/releases{/id}",
   "deployments_url": "https://api.github.com/repos/devongovett/glob-match/deployments",
   "created_at": "2023-01-16T18:58:57Z",
-  "updated_at": "2023-04-13T01:57:00Z",
+  "updated_at": "2023-04-17T15:17:30Z",
   "pushed_at": "2023-04-13T15:43:19Z",
   "git_url": "git://github.com/devongovett/glob-match.git",
   "ssh_url": "git@github.com:devongovett/glob-match.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 211
+  "_index": 221
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Shopify/toxiproxy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Shopify/toxiproxy/deployments",
   "created_at": "2014-09-04T13:56:38Z",
-  "updated_at": "2023-04-16T11:33:28Z",
-  "pushed_at": "2023-04-13T14:47:54Z",
+  "updated_at": "2023-04-17T22:09:59Z",
+  "pushed_at": "2023-04-17T07:58:00Z",
   "git_url": "git://github.com/Shopify/toxiproxy.git",
   "ssh_url": "git@github.com:Shopify/toxiproxy.git",
   "clone_url": "https://github.com/Shopify/toxiproxy.git",
   "svn_url": "https://github.com/Shopify/toxiproxy",
   "homepage": "https://github.com/shopify/toxiproxy",
-  "size": 3513,
-  "stargazers_count": 9049,
-  "watchers_count": 9049,
+  "size": 3556,
+  "stargazers_count": 9052,
+  "watchers_count": 9052,
   "language": "Go",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 74,
+  "open_issues_count": 76,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -110,8 +110,8 @@
   ],
   "visibility": "public",
   "forks": 420,
-  "open_issues": 74,
-  "watchers": 9049,
+  "open_issues": 76,
+  "watchers": 9052,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 364
+  "_index": 374
 }

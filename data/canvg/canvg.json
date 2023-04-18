@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/canvg/canvg/releases{/id}",
   "deployments_url": "https://api.github.com/repos/canvg/canvg/deployments",
   "created_at": "2014-12-07T19:18:53Z",
-  "updated_at": "2023-04-15T10:54:07Z",
-  "pushed_at": "2023-04-11T07:12:19Z",
+  "updated_at": "2023-04-17T15:25:16Z",
+  "pushed_at": "2023-04-17T10:33:57Z",
   "git_url": "git://github.com/canvg/canvg.git",
   "ssh_url": "git@github.com:canvg/canvg.git",
   "clone_url": "https://github.com/canvg/canvg.git",
   "svn_url": "https://github.com/canvg/canvg",
   "homepage": "https://canvg.js.org",
-  "size": 30048,
-  "stargazers_count": 3335,
-  "watchers_count": 3335,
+  "size": 30034,
+  "stargazers_count": 3342,
+  "watchers_count": 3342,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 109,
+  "open_issues_count": 108,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 599,
-  "open_issues": 109,
-  "watchers": 3335,
+  "open_issues": 108,
+  "watchers": 3342,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 21
+  "_index": 31
 }

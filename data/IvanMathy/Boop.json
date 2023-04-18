@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/IvanMathy/Boop/releases{/id}",
   "deployments_url": "https://api.github.com/repos/IvanMathy/Boop/deployments",
   "created_at": "2019-01-27T03:50:53Z",
-  "updated_at": "2023-04-15T14:24:37Z",
+  "updated_at": "2023-04-17T11:05:35Z",
   "pushed_at": "2023-04-12T22:26:25Z",
   "git_url": "git://github.com/IvanMathy/Boop.git",
   "ssh_url": "git@github.com:IvanMathy/Boop.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/IvanMathy/Boop",
   "homepage": "https://boop.okat.best",
   "size": 8026,
-  "stargazers_count": 3231,
-  "watchers_count": 3231,
+  "stargazers_count": 3232,
+  "watchers_count": 3232,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 303,
+  "forks_count": 304,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "macos"
   ],
   "visibility": "public",
-  "forks": 303,
+  "forks": 304,
   "open_issues": 174,
-  "watchers": 3231,
+  "watchers": 3232,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 555
+  "_index": 565
 }

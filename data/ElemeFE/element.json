@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ElemeFE/element/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ElemeFE/element/deployments",
   "created_at": "2016-09-03T06:19:26Z",
-  "updated_at": "2023-04-16T16:42:29Z",
+  "updated_at": "2023-04-18T01:02:38Z",
   "pushed_at": "2023-04-14T11:06:25Z",
   "git_url": "git://github.com/ElemeFE/element.git",
   "ssh_url": "git@github.com:ElemeFE/element.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 14515,
+  "forks_count": 14518,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2492,
+  "open_issues_count": 2493,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,8 +107,8 @@
     "vuejs"
   ],
   "visibility": "public",
-  "forks": 14515,
-  "open_issues": 2492,
+  "forks": 14518,
+  "open_issues": 2493,
   "watchers": 53275,
   "default_branch": "dev",
   "permissions": {
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2582
+  "_index": 2592
 }

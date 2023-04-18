@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/go-skynet/llama-cli/releases{/id}",
   "deployments_url": "https://api.github.com/repos/go-skynet/llama-cli/deployments",
   "created_at": "2023-03-18T22:58:02Z",
-  "updated_at": "2023-04-16T20:02:17Z",
-  "pushed_at": "2023-04-16T08:47:21Z",
+  "updated_at": "2023-04-17T21:54:16Z",
+  "pushed_at": "2023-04-17T19:34:04Z",
   "git_url": "git://github.com/go-skynet/llama-cli.git",
   "ssh_url": "git@github.com:go-skynet/llama-cli.git",
   "clone_url": "https://github.com/go-skynet/llama-cli.git",
   "svn_url": "https://github.com/go-skynet/llama-cli",
   "homepage": "",
-  "size": 89,
-  "stargazers_count": 268,
-  "watchers_count": 268,
+  "size": 95,
+  "stargazers_count": 271,
+  "watchers_count": 271,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 5,
+  "open_issues_count": 6,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 10,
-  "open_issues": 5,
-  "watchers": 268,
+  "open_issues": 6,
+  "watchers": 271,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1
+  "_index": 11
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/browserslist/browserslist/releases{/id}",
   "deployments_url": "https://api.github.com/repos/browserslist/browserslist/deployments",
   "created_at": "2014-12-13T19:35:45Z",
-  "updated_at": "2023-04-16T15:57:51Z",
-  "pushed_at": "2023-04-16T14:44:10Z",
+  "updated_at": "2023-04-18T01:58:23Z",
+  "pushed_at": "2023-04-17T15:05:10Z",
   "git_url": "git://github.com/browserslist/browserslist.git",
   "ssh_url": "git@github.com:browserslist/browserslist.git",
   "clone_url": "https://github.com/browserslist/browserslist.git",
   "svn_url": "https://github.com/browserslist/browserslist",
   "homepage": "https://browsersl.ist",
-  "size": 4084,
-  "stargazers_count": 11890,
-  "watchers_count": 11890,
+  "size": 4257,
+  "stargazers_count": 11893,
+  "watchers_count": 11893,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 37,
+  "open_issues_count": 36,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 687,
-  "open_issues": 37,
-  "watchers": 11890,
+  "open_issues": 36,
+  "watchers": 11893,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 881
+  "_index": 891
 }

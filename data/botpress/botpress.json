@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/botpress/botpress/releases{/id}",
   "deployments_url": "https://api.github.com/repos/botpress/botpress/deployments",
   "created_at": "2016-11-16T21:57:59Z",
-  "updated_at": "2023-04-16T13:18:25Z",
-  "pushed_at": "2023-04-14T14:01:28Z",
+  "updated_at": "2023-04-17T19:08:23Z",
+  "pushed_at": "2023-04-17T21:07:50Z",
   "git_url": "git://github.com/botpress/botpress.git",
   "ssh_url": "git@github.com:botpress/botpress.git",
   "clone_url": "https://github.com/botpress/botpress.git",
   "svn_url": "https://github.com/botpress/botpress",
   "homepage": "https://v12.botpress.com",
-  "size": 289468,
-  "stargazers_count": 10238,
-  "watchers_count": 10238,
+  "size": 289469,
+  "stargazers_count": 10243,
+  "watchers_count": 10243,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1402,
+  "forks_count": 1404,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 284,
+  "open_issues_count": 285,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -119,9 +119,9 @@
     "sdk"
   ],
   "visibility": "public",
-  "forks": 1402,
-  "open_issues": 284,
-  "watchers": 10238,
+  "forks": 1404,
+  "open_issues": 285,
+  "watchers": 10243,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 401
+  "_index": 411
 }

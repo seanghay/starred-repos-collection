@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/just-the-docs/just-the-docs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/just-the-docs/just-the-docs/deployments",
   "created_at": "2017-11-08T16:22:28Z",
-  "updated_at": "2023-04-16T22:55:41Z",
-  "pushed_at": "2023-04-12T22:40:36Z",
+  "updated_at": "2023-04-18T00:29:00Z",
+  "pushed_at": "2023-04-17T11:05:16Z",
   "git_url": "git://github.com/just-the-docs/just-the-docs.git",
   "ssh_url": "git@github.com:just-the-docs/just-the-docs.git",
   "clone_url": "https://github.com/just-the-docs/just-the-docs.git",
   "svn_url": "https://github.com/just-the-docs/just-the-docs",
   "homepage": "https://just-the-docs.github.io/just-the-docs/",
-  "size": 8114,
-  "stargazers_count": 5803,
-  "watchers_count": 5803,
+  "size": 8174,
+  "stargazers_count": 5812,
+  "watchers_count": 5812,
   "language": "SCSS",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 3383,
+  "forks_count": 3384,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 60,
+  "open_issues_count": 61,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,9 +104,9 @@
     "jekyll-theme"
   ],
   "visibility": "public",
-  "forks": 3383,
-  "open_issues": 60,
-  "watchers": 5803,
+  "forks": 3384,
+  "open_issues": 61,
+  "watchers": 5812,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 767
+  "_index": 777
 }

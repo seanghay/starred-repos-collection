@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/RedMadRobot/input-mask-android/deployments",
   "created_at": "2016-10-26T10:18:48Z",
   "updated_at": "2023-03-27T07:23:08Z",
-  "pushed_at": "2023-04-16T14:27:45Z",
+  "pushed_at": "2023-04-17T19:53:54Z",
   "git_url": "git://github.com/RedMadRobot/input-mask-android.git",
   "ssh_url": "git@github.com:RedMadRobot/input-mask-android.git",
   "clone_url": "https://github.com/RedMadRobot/input-mask-android.git",
   "svn_url": "https://github.com/RedMadRobot/input-mask-android",
   "homepage": null,
-  "size": 2873,
+  "size": 2977,
   "stargazers_count": 1190,
   "watchers_count": 1190,
   "language": "Kotlin",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2245
+  "_index": 2255
 }

@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/Developmint/nuxt-webfontloader/deployments",
   "created_at": "2018-11-24T16:13:12Z",
   "updated_at": "2023-02-17T14:03:34Z",
-  "pushed_at": "2023-03-29T22:22:12Z",
+  "pushed_at": "2023-04-17T12:43:47Z",
   "git_url": "git://github.com/Developmint/nuxt-webfontloader.git",
   "ssh_url": "git@github.com:Developmint/nuxt-webfontloader.git",
   "clone_url": "https://github.com/Developmint/nuxt-webfontloader.git",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 860
+  "_index": 870
 }

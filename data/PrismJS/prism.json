@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/PrismJS/prism/deployments",
   "created_at": "2012-07-10T19:47:14Z",
   "updated_at": "2023-04-16T11:52:26Z",
-  "pushed_at": "2023-04-10T21:40:25Z",
+  "pushed_at": "2023-04-17T16:20:10Z",
   "git_url": "git://github.com/PrismJS/prism.git",
   "ssh_url": "git@github.com:PrismJS/prism.git",
   "clone_url": "https://github.com/PrismJS/prism.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 1277,
+  "forks_count": 1279,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 296,
+  "open_issues_count": 297,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -99,8 +99,8 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 1277,
-  "open_issues": 296,
+  "forks": 1279,
+  "open_issues": 297,
   "watchers": 11184,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1423
+  "_index": 1433
 }
