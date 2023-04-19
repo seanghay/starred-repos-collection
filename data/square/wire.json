@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/square/wire/deployments",
   "created_at": "2013-08-21T15:45:47Z",
   "updated_at": "2023-04-17T21:41:58Z",
-  "pushed_at": "2023-04-18T00:17:50Z",
+  "pushed_at": "2023-04-18T13:17:01Z",
   "git_url": "git://github.com/square/wire.git",
   "ssh_url": "git@github.com:square/wire.git",
   "clone_url": "https://github.com/square/wire.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1524
+  "_index": 1527
 }

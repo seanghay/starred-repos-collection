@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/PeterL1n/BackgroundMattingV2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/PeterL1n/BackgroundMattingV2/deployments",
   "created_at": "2020-12-01T00:26:17Z",
-  "updated_at": "2023-04-17T13:09:16Z",
+  "updated_at": "2023-04-18T07:28:27Z",
   "pushed_at": "2023-04-04T08:36:07Z",
   "git_url": "git://github.com/PeterL1n/BackgroundMattingV2.git",
   "ssh_url": "git@github.com:PeterL1n/BackgroundMattingV2.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/PeterL1n/BackgroundMattingV2",
   "homepage": "",
   "size": 2862,
-  "stargazers_count": 6239,
-  "watchers_count": 6239,
+  "stargazers_count": 6238,
+  "watchers_count": 6238,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 912,
   "open_issues": 38,
-  "watchers": 6239,
+  "watchers": 6238,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 896
+  "_index": 899
 }

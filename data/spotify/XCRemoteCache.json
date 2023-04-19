@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/spotify/XCRemoteCache/releases{/id}",
   "deployments_url": "https://api.github.com/repos/spotify/XCRemoteCache/deployments",
   "created_at": "2021-09-03T15:55:09Z",
-  "updated_at": "2023-04-14T20:26:21Z",
+  "updated_at": "2023-04-18T11:15:44Z",
   "pushed_at": "2023-04-15T03:23:46Z",
   "git_url": "git://github.com/spotify/XCRemoteCache.git",
   "ssh_url": "git@github.com:spotify/XCRemoteCache.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/spotify/XCRemoteCache",
   "homepage": null,
   "size": 3720,
-  "stargazers_count": 771,
-  "watchers_count": 771,
+  "stargazers_count": 772,
+  "watchers_count": 772,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 43,
+  "forks_count": 44,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 43,
+  "forks": 44,
   "open_issues": 20,
-  "watchers": 771,
+  "watchers": 772,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 826
+  "_index": 829
 }

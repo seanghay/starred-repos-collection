@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/trevorwang/retrofit.dart.git",
   "svn_url": "https://github.com/trevorwang/retrofit.dart",
   "homepage": "https://mings.in/retrofit.dart/",
-  "size": 1168,
+  "size": 1124,
   "stargazers_count": 877,
   "watchers_count": 877,
   "language": "Dart",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1053
+  "_index": 1056
 }

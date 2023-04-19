@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/domoritz/leaflet-locatecontrol/releases{/id}",
   "deployments_url": "https://api.github.com/repos/domoritz/leaflet-locatecontrol/deployments",
   "created_at": "2012-11-04T12:53:00Z",
-  "updated_at": "2023-04-09T09:15:40Z",
+  "updated_at": "2023-04-18T11:25:22Z",
   "pushed_at": "2023-03-21T16:34:26Z",
   "git_url": "git://github.com/domoritz/leaflet-locatecontrol.git",
   "ssh_url": "git@github.com:domoritz/leaflet-locatecontrol.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/domoritz/leaflet-locatecontrol",
   "homepage": "https://domoritz.github.io/leaflet-locatecontrol/demo/",
   "size": 4289,
-  "stargazers_count": 682,
-  "watchers_count": 682,
+  "stargazers_count": 683,
+  "watchers_count": 683,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 245,
   "open_issues": 15,
-  "watchers": 682,
+  "watchers": 683,
   "default_branch": "gh-pages",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1267
+  "_index": 1270
 }

@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 402,
+  "forks_count": 403,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 86,
+  "open_issues_count": 88,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,8 +106,8 @@
     "rxjava"
   ],
   "visibility": "public",
-  "forks": 402,
-  "open_issues": 86,
+  "forks": 403,
+  "open_issues": 88,
   "watchers": 4317,
   "default_branch": "main",
   "permissions": {
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2268
+  "_index": 2271
 }

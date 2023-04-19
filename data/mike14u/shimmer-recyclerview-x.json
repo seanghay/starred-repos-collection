@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mike14u/shimmer-recyclerview-x/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mike14u/shimmer-recyclerview-x/deployments",
   "created_at": "2018-10-29T07:18:36Z",
-  "updated_at": "2023-03-20T11:49:15Z",
+  "updated_at": "2023-04-18T09:51:34Z",
   "pushed_at": "2021-06-04T08:40:30Z",
   "git_url": "git://github.com/mike14u/shimmer-recyclerview-x.git",
   "ssh_url": "git@github.com:mike14u/shimmer-recyclerview-x.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mike14u/shimmer-recyclerview-x",
   "homepage": "",
   "size": 4691,
-  "stargazers_count": 210,
-  "watchers_count": 210,
+  "stargazers_count": 209,
+  "watchers_count": 209,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 31,
   "open_issues": 0,
-  "watchers": 210,
+  "watchers": 209,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1861
+  "_index": 1864
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ssseasonnn/Yasha/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ssseasonnn/Yasha/deployments",
   "created_at": "2018-06-04T07:16:15Z",
-  "updated_at": "2023-04-01T14:18:13Z",
+  "updated_at": "2023-04-18T07:22:25Z",
   "pushed_at": "2023-03-13T07:41:15Z",
   "git_url": "git://github.com/ssseasonnn/Yasha.git",
   "ssh_url": "git@github.com:ssseasonnn/Yasha.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ssseasonnn/Yasha",
   "homepage": "",
   "size": 3702,
-  "stargazers_count": 514,
-  "watchers_count": 514,
+  "stargazers_count": 513,
+  "watchers_count": 513,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 55,
   "open_issues": 5,
-  "watchers": 514,
+  "watchers": 513,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2260
+  "_index": 2263
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/simdjson/simdjson/releases{/id}",
   "deployments_url": "https://api.github.com/repos/simdjson/simdjson/deployments",
   "created_at": "2018-03-23T00:49:18Z",
-  "updated_at": "2023-04-17T18:27:04Z",
+  "updated_at": "2023-04-19T00:44:32Z",
   "pushed_at": "2023-04-13T15:52:11Z",
   "git_url": "git://github.com/simdjson/simdjson.git",
   "ssh_url": "git@github.com:simdjson/simdjson.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/simdjson/simdjson",
   "homepage": "https://simdjson.org",
   "size": 30287,
-  "stargazers_count": 16797,
-  "watchers_count": 16797,
+  "stargazers_count": 16803,
+  "watchers_count": 16803,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 909,
+  "forks_count": 908,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 122,
+  "open_issues_count": 123,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -118,9 +118,9 @@
     "x64"
   ],
   "visibility": "public",
-  "forks": 909,
-  "open_issues": 122,
-  "watchers": 16797,
+  "forks": 908,
+  "open_issues": 123,
+  "watchers": 16803,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1905
+  "_index": 1908
 }

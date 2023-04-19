@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/explosion/spacy-stanza/releases{/id}",
   "deployments_url": "https://api.github.com/repos/explosion/spacy-stanza/deployments",
   "created_at": "2019-01-31T03:08:06Z",
-  "updated_at": "2023-04-11T17:47:11Z",
+  "updated_at": "2023-04-18T22:44:26Z",
   "pushed_at": "2023-04-05T13:13:13Z",
   "git_url": "git://github.com/explosion/spacy-stanza.git",
   "ssh_url": "git@github.com:explosion/spacy-stanza.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/explosion/spacy-stanza",
   "homepage": "",
   "size": 63,
-  "stargazers_count": 675,
-  "watchers_count": 675,
+  "stargazers_count": 677,
+  "watchers_count": 677,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 50,
   "open_issues": 16,
-  "watchers": 675,
+  "watchers": 677,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 16
+  "_index": 19
 }
