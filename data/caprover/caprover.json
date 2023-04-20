@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/caprover/caprover/releases{/id}",
   "deployments_url": "https://api.github.com/repos/caprover/caprover/deployments",
   "created_at": "2017-10-25T05:00:43Z",
-  "updated_at": "2023-04-18T20:32:16Z",
-  "pushed_at": "2023-04-07T09:29:12Z",
+  "updated_at": "2023-04-19T21:54:59Z",
+  "pushed_at": "2023-04-19T12:50:00Z",
   "git_url": "git://github.com/caprover/caprover.git",
   "ssh_url": "git@github.com:caprover/caprover.git",
   "clone_url": "https://github.com/caprover/caprover.git",
   "svn_url": "https://github.com/caprover/caprover",
   "homepage": "https://CapRover.com",
   "size": 40250,
-  "stargazers_count": 10237,
-  "watchers_count": 10237,
+  "stargazers_count": 10240,
+  "watchers_count": 10240,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 693,
+  "forks_count": 695,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 100,
+  "open_issues_count": 101,
   "license": {
     "key": "other",
     "name": "Other",
@@ -119,9 +119,9 @@
     "webserver"
   ],
   "visibility": "public",
-  "forks": 693,
-  "open_issues": 100,
-  "watchers": 10237,
+  "forks": 695,
+  "open_issues": 101,
+  "watchers": 10240,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 428
+  "_index": 433
 }

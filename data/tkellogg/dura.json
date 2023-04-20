@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tkellogg/dura/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tkellogg/dura/deployments",
   "created_at": "2021-12-31T19:48:39Z",
-  "updated_at": "2023-04-18T00:53:09Z",
+  "updated_at": "2023-04-19T22:36:44Z",
   "pushed_at": "2023-04-17T00:19:15Z",
   "git_url": "git://github.com/tkellogg/dura.git",
   "ssh_url": "git@github.com:tkellogg/dura.git",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 766
+  "_index": 771
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/riot/riot/releases{/id}",
   "deployments_url": "https://api.github.com/repos/riot/riot/deployments",
   "created_at": "2013-09-27T05:21:01Z",
-  "updated_at": "2023-04-19T00:30:00Z",
+  "updated_at": "2023-04-19T17:14:22Z",
   "pushed_at": "2023-01-23T21:02:20Z",
   "git_url": "git://github.com/riot/riot.git",
   "ssh_url": "git@github.com:riot/riot.git",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2597
+  "_index": 2602
 }

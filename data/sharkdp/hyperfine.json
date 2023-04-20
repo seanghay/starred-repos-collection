@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sharkdp/hyperfine/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sharkdp/hyperfine/deployments",
   "created_at": "2018-01-13T15:49:54Z",
-  "updated_at": "2023-04-18T22:59:58Z",
+  "updated_at": "2023-04-20T01:29:36Z",
   "pushed_at": "2023-04-18T07:12:40Z",
   "git_url": "git://github.com/sharkdp/hyperfine.git",
   "ssh_url": "git@github.com:sharkdp/hyperfine.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sharkdp/hyperfine",
   "homepage": "",
   "size": 1408,
-  "stargazers_count": 15508,
-  "watchers_count": 15508,
+  "stargazers_count": 15523,
+  "watchers_count": 15523,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 268,
   "open_issues": 40,
-  "watchers": 15508,
+  "watchers": 15523,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 245
+  "_index": 250
 }

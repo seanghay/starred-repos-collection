@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/CainKernel/CainPlayer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/CainKernel/CainPlayer/deployments",
   "created_at": "2019-01-06T07:10:49Z",
-  "updated_at": "2023-03-25T16:49:04Z",
+  "updated_at": "2023-04-19T08:50:02Z",
   "pushed_at": "2020-03-22T02:51:27Z",
   "git_url": "git://github.com/CainKernel/CainPlayer.git",
   "ssh_url": "git@github.com:CainKernel/CainPlayer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/CainKernel/CainPlayer",
   "homepage": null,
   "size": 14726,
-  "stargazers_count": 97,
-  "watchers_count": 97,
+  "stargazers_count": 98,
+  "watchers_count": 98,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 24,
+  "forks_count": 25,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 24,
+  "forks": 25,
   "open_issues": 10,
-  "watchers": 97,
+  "watchers": 98,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1066
+  "_index": 1071
 }

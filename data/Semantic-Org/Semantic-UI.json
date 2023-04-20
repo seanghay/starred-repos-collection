@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Semantic-Org/Semantic-UI/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Semantic-Org/Semantic-UI/deployments",
   "created_at": "2013-04-08T23:32:04Z",
-  "updated_at": "2023-04-19T01:51:13Z",
+  "updated_at": "2023-04-20T01:28:58Z",
   "pushed_at": "2023-01-11T17:05:32Z",
   "git_url": "git://github.com/Semantic-Org/Semantic-UI.git",
   "ssh_url": "git@github.com:Semantic-Org/Semantic-UI.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Semantic-Org/Semantic-UI",
   "homepage": "http://www.semantic-ui.com",
   "size": 113055,
-  "stargazers_count": 50520,
-  "watchers_count": 50520,
+  "stargazers_count": 50523,
+  "watchers_count": 50523,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 5105,
+  "forks_count": 5106,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1069,
+  "open_issues_count": 1070,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -110,9 +110,9 @@
     "ui-components"
   ],
   "visibility": "public",
-  "forks": 5105,
-  "open_issues": 1069,
-  "watchers": 50520,
+  "forks": 5106,
+  "open_issues": 1070,
+  "watchers": 50523,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2610
+  "_index": 2615
 }

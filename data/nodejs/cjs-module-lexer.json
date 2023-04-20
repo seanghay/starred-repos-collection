@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nodejs/cjs-module-lexer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nodejs/cjs-module-lexer/deployments",
   "created_at": "2020-05-14T04:24:18Z",
-  "updated_at": "2023-04-18T15:08:02Z",
+  "updated_at": "2023-04-19T08:26:32Z",
   "pushed_at": "2023-03-26T21:43:16Z",
   "git_url": "git://github.com/nodejs/cjs-module-lexer.git",
   "ssh_url": "git@github.com:nodejs/cjs-module-lexer.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 825
+  "_index": 830
 }

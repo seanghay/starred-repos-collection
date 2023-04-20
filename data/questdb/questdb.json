@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/questdb/questdb/releases{/id}",
   "deployments_url": "https://api.github.com/repos/questdb/questdb/deployments",
   "created_at": "2014-04-28T23:29:15Z",
-  "updated_at": "2023-04-19T01:44:48Z",
-  "pushed_at": "2023-04-18T21:13:14Z",
+  "updated_at": "2023-04-20T01:22:41Z",
+  "pushed_at": "2023-04-19T22:04:10Z",
   "git_url": "git://github.com/questdb/questdb.git",
   "ssh_url": "git@github.com:questdb/questdb.git",
   "clone_url": "https://github.com/questdb/questdb.git",
   "svn_url": "https://github.com/questdb/questdb",
   "homepage": "https://questdb.io",
-  "size": 463989,
-  "stargazers_count": 11118,
-  "watchers_count": 11118,
+  "size": 464488,
+  "stargazers_count": 11154,
+  "watchers_count": 11154,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 738,
+  "forks_count": 746,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -118,9 +118,9 @@
     "tsdb"
   ],
   "visibility": "public",
-  "forks": 738,
+  "forks": 746,
   "open_issues": 326,
-  "watchers": 11118,
+  "watchers": 11154,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 857
+  "_index": 862
 }

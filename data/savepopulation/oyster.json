@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 11,
+  "forks_count": 12,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -112,7 +112,7 @@
     "visa"
   ],
   "visibility": "public",
-  "forks": 11,
+  "forks": 12,
   "open_issues": 2,
   "watchers": 95,
   "default_branch": "master",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2021
+  "_index": 2026
 }

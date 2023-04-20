@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/asteroid-team/asteroid/releases{/id}",
   "deployments_url": "https://api.github.com/repos/asteroid-team/asteroid/deployments",
   "created_at": "2019-10-18T07:48:15Z",
-  "updated_at": "2023-04-17T11:27:44Z",
+  "updated_at": "2023-04-19T17:45:16Z",
   "pushed_at": "2023-02-22T12:26:13Z",
   "git_url": "git://github.com/asteroid-team/asteroid.git",
   "ssh_url": "git@github.com:asteroid-team/asteroid.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/asteroid-team/asteroid",
   "homepage": "https://asteroid-team.github.io/",
   "size": 6095,
-  "stargazers_count": 1755,
-  "watchers_count": 1755,
+  "stargazers_count": 1759,
+  "watchers_count": 1759,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 33,
+  "open_issues_count": 34,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,8 +108,8 @@
   ],
   "visibility": "public",
   "forks": 378,
-  "open_issues": 33,
-  "watchers": 1755,
+  "open_issues": 34,
+  "watchers": 1759,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 10
+  "_index": 15
 }

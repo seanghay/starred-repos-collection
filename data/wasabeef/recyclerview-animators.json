@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wasabeef/recyclerview-animators/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wasabeef/recyclerview-animators/deployments",
   "created_at": "2014-12-22T14:07:08Z",
-  "updated_at": "2023-04-18T09:58:49Z",
+  "updated_at": "2023-04-19T12:12:00Z",
   "pushed_at": "2023-01-21T15:13:08Z",
   "git_url": "git://github.com/wasabeef/recyclerview-animators.git",
   "ssh_url": "git@github.com:wasabeef/recyclerview-animators.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wasabeef/recyclerview-animators",
   "homepage": "",
   "size": 67775,
-  "stargazers_count": 11240,
-  "watchers_count": 11240,
+  "stargazers_count": 11241,
+  "watchers_count": 11241,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1980,
+  "forks_count": 1981,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,9 +106,9 @@
     "recyclerview"
   ],
   "visibility": "public",
-  "forks": 1980,
+  "forks": 1981,
   "open_issues": 107,
-  "watchers": 11240,
+  "watchers": 11241,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2166
+  "_index": 2171
 }

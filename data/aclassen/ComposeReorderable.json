@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/aclassen/ComposeReorderable/releases{/id}",
   "deployments_url": "https://api.github.com/repos/aclassen/ComposeReorderable/deployments",
   "created_at": "2021-07-09T22:42:22Z",
-  "updated_at": "2023-04-18T12:35:42Z",
+  "updated_at": "2023-04-19T23:38:37Z",
   "pushed_at": "2023-04-14T11:59:43Z",
   "git_url": "git://github.com/aclassen/ComposeReorderable.git",
   "ssh_url": "git@github.com:aclassen/ComposeReorderable.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/aclassen/ComposeReorderable",
   "homepage": "",
   "size": 2483,
-  "stargazers_count": 482,
-  "watchers_count": 482,
+  "stargazers_count": 483,
+  "watchers_count": 483,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 45,
   "open_issues": 28,
-  "watchers": 482,
+  "watchers": 483,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 823
+  "_index": 828
 }
