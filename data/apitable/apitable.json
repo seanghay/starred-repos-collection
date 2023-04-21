@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/apitable/apitable/releases{/id}",
   "deployments_url": "https://api.github.com/repos/apitable/apitable/deployments",
   "created_at": "2022-08-17T07:25:40Z",
-  "updated_at": "2023-04-20T01:27:33Z",
-  "pushed_at": "2023-04-18T13:10:15Z",
+  "updated_at": "2023-04-20T22:45:55Z",
+  "pushed_at": "2023-04-20T10:55:13Z",
   "git_url": "git://github.com/apitable/apitable.git",
   "ssh_url": "git@github.com:apitable/apitable.git",
   "clone_url": "https://github.com/apitable/apitable.git",
   "svn_url": "https://github.com/apitable/apitable",
   "homepage": "https://apitable.com",
-  "size": 189006,
-  "stargazers_count": 8331,
-  "watchers_count": 8331,
+  "size": 315894,
+  "stargazers_count": 8338,
+  "watchers_count": 8338,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 524,
+  "forks_count": 527,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -119,9 +119,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 524,
+  "forks": 527,
   "open_issues": 149,
-  "watchers": 8331,
+  "watchers": 8338,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 208
+  "_index": 211
 }

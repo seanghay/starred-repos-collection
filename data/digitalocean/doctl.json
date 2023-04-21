@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/digitalocean/doctl/deployments",
   "created_at": "2015-05-29T21:24:39Z",
   "updated_at": "2023-04-17T12:53:33Z",
-  "pushed_at": "2023-04-13T17:41:27Z",
+  "pushed_at": "2023-04-20T15:55:14Z",
   "git_url": "git://github.com/digitalocean/doctl.git",
   "ssh_url": "git@github.com:digitalocean/doctl.git",
   "clone_url": "https://github.com/digitalocean/doctl.git",
   "svn_url": "https://github.com/digitalocean/doctl",
   "homepage": "https://docs.digitalocean.com/reference/doctl/",
-  "size": 51782,
+  "size": 51783,
   "stargazers_count": 3092,
   "watchers_count": 3092,
   "language": "Go",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 67,
+  "open_issues_count": 69,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -106,7 +106,7 @@
   ],
   "visibility": "public",
   "forks": 366,
-  "open_issues": 67,
+  "open_issues": 69,
   "watchers": 3092,
   "default_branch": "main",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1433
+  "_index": 1436
 }

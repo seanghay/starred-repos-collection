@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kotlin-orm/ktorm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kotlin-orm/ktorm/deployments",
   "created_at": "2018-11-30T07:28:36Z",
-  "updated_at": "2023-04-19T10:58:48Z",
+  "updated_at": "2023-04-21T01:41:57Z",
   "pushed_at": "2023-04-07T10:39:23Z",
   "git_url": "git://github.com/kotlin-orm/ktorm.git",
   "ssh_url": "git@github.com:kotlin-orm/ktorm.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/kotlin-orm/ktorm",
   "homepage": "https://www.ktorm.org",
   "size": 100197,
-  "stargazers_count": 1726,
-  "watchers_count": 1726,
+  "stargazers_count": 1725,
+  "watchers_count": 1725,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 130,
   "open_issues": 50,
-  "watchers": 1726,
+  "watchers": 1725,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2290
+  "_index": 2293
 }

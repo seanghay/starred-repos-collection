@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wching/Android-Indefinite-Pager-Indicator/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wching/Android-Indefinite-Pager-Indicator/deployments",
   "created_at": "2017-11-03T19:57:05Z",
-  "updated_at": "2023-04-19T10:23:36Z",
+  "updated_at": "2023-04-20T10:15:44Z",
   "pushed_at": "2022-08-08T07:58:10Z",
   "git_url": "git://github.com/wching/Android-Indefinite-Pager-Indicator.git",
   "ssh_url": "git@github.com:wching/Android-Indefinite-Pager-Indicator.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wching/Android-Indefinite-Pager-Indicator",
   "homepage": "",
   "size": 34431,
-  "stargazers_count": 1532,
-  "watchers_count": 1532,
+  "stargazers_count": 1533,
+  "watchers_count": 1533,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 148,
   "open_issues": 10,
-  "watchers": 1532,
+  "watchers": 1533,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2269
+  "_index": 2272
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ReactiveX/rxjs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ReactiveX/rxjs/deployments",
   "created_at": "2015-03-15T06:17:10Z",
-  "updated_at": "2023-04-19T20:02:57Z",
+  "updated_at": "2023-04-20T23:52:41Z",
   "pushed_at": "2023-04-17T23:10:54Z",
   "git_url": "git://github.com/ReactiveX/rxjs.git",
   "ssh_url": "git@github.com:ReactiveX/rxjs.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ReactiveX/rxjs",
   "homepage": "https://rxjs.dev",
   "size": 124984,
-  "stargazers_count": 28749,
-  "watchers_count": 28749,
+  "stargazers_count": 28757,
+  "watchers_count": 28757,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 2932,
   "open_issues": 253,
-  "watchers": 28749,
+  "watchers": 28757,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2618
+  "_index": 2621
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/carbon-language/carbon-lang/releases{/id}",
   "deployments_url": "https://api.github.com/repos/carbon-language/carbon-lang/deployments",
   "created_at": "2020-04-27T21:45:16Z",
-  "updated_at": "2023-04-19T23:53:55Z",
-  "pushed_at": "2023-04-20T00:56:39Z",
+  "updated_at": "2023-04-21T00:07:58Z",
+  "pushed_at": "2023-04-20T22:59:57Z",
   "git_url": "git://github.com/carbon-language/carbon-lang.git",
   "ssh_url": "git@github.com:carbon-language/carbon-lang.git",
   "clone_url": "https://github.com/carbon-language/carbon-lang.git",
   "svn_url": "https://github.com/carbon-language/carbon-lang",
   "homepage": "https://github.com/carbon-language/carbon-lang/blob/trunk/README.md",
-  "size": 9948,
-  "stargazers_count": 30255,
-  "watchers_count": 30255,
+  "size": 9987,
+  "stargazers_count": 30269,
+  "watchers_count": 30269,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1348,
+  "forks_count": 1347,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "programming-language"
   ],
   "visibility": "public",
-  "forks": 1348,
+  "forks": 1347,
   "open_issues": 152,
-  "watchers": 30255,
+  "watchers": 30269,
   "default_branch": "trunk",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 541
+  "_index": 544
 }

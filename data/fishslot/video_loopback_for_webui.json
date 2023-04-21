@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/fishslot/video_loopback_for_webui/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fishslot/video_loopback_for_webui/deployments",
   "created_at": "2023-01-16T12:12:19Z",
-  "updated_at": "2023-04-19T05:21:44Z",
-  "pushed_at": "2023-04-14T11:46:22Z",
+  "updated_at": "2023-04-20T17:36:57Z",
+  "pushed_at": "2023-04-20T16:27:04Z",
   "git_url": "git://github.com/fishslot/video_loopback_for_webui.git",
   "ssh_url": "git@github.com:fishslot/video_loopback_for_webui.git",
   "clone_url": "https://github.com/fishslot/video_loopback_for_webui.git",
   "svn_url": "https://github.com/fishslot/video_loopback_for_webui",
   "homepage": null,
   "size": 18207,
-  "stargazers_count": 263,
-  "watchers_count": 263,
+  "stargazers_count": 264,
+  "watchers_count": 264,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2,
+  "open_issues_count": 1,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 13,
-  "open_issues": 2,
-  "watchers": 263,
+  "open_issues": 1,
+  "watchers": 264,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 166
+  "_index": 169
 }

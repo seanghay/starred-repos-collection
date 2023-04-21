@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/vercel/edge-runtime/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vercel/edge-runtime/deployments",
   "created_at": "2022-06-28T15:42:20Z",
-  "updated_at": "2023-04-19T08:56:18Z",
-  "pushed_at": "2023-04-19T17:30:43Z",
+  "updated_at": "2023-04-20T16:23:59Z",
+  "pushed_at": "2023-04-20T15:15:00Z",
   "git_url": "git://github.com/vercel/edge-runtime.git",
   "ssh_url": "git@github.com:vercel/edge-runtime.git",
   "clone_url": "https://github.com/vercel/edge-runtime.git",
   "svn_url": "https://github.com/vercel/edge-runtime",
   "homepage": "https://edge-runtime.vercel.app",
-  "size": 1759,
-  "stargazers_count": 525,
-  "watchers_count": 525,
+  "size": 2155,
+  "stargazers_count": 526,
+  "watchers_count": 526,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 47,
   "open_issues": 18,
-  "watchers": 525,
+  "watchers": 526,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 575
+  "_index": 578
 }
