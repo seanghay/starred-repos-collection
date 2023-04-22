@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/posva/mande/releases{/id}",
   "deployments_url": "https://api.github.com/repos/posva/mande/deployments",
   "created_at": "2020-05-17T19:40:26Z",
-  "updated_at": "2023-04-21T01:07:01Z",
-  "pushed_at": "2023-04-18T14:57:04Z",
+  "updated_at": "2023-04-21T16:22:02Z",
+  "pushed_at": "2023-04-21T10:25:23Z",
   "git_url": "git://github.com/posva/mande.git",
   "ssh_url": "git@github.com:posva/mande.git",
   "clone_url": "https://github.com/posva/mande.git",
   "svn_url": "https://github.com/posva/mande",
   "homepage": "https://posva.net/mande/",
   "size": 2417,
-  "stargazers_count": 872,
-  "watchers_count": 872,
+  "stargazers_count": 873,
+  "watchers_count": 873,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 33,
   "open_issues": 11,
-  "watchers": 872,
+  "watchers": 873,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1111
+  "_index": 1112
 }

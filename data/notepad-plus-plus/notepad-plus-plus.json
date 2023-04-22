@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/notepad-plus-plus/notepad-plus-plus/releases{/id}",
   "deployments_url": "https://api.github.com/repos/notepad-plus-plus/notepad-plus-plus/deployments",
   "created_at": "2015-03-28T00:05:08Z",
-  "updated_at": "2023-04-21T01:51:00Z",
-  "pushed_at": "2023-04-20T19:57:57Z",
+  "updated_at": "2023-04-22T00:11:23Z",
+  "pushed_at": "2023-04-22T01:32:48Z",
   "git_url": "git://github.com/notepad-plus-plus/notepad-plus-plus.git",
   "ssh_url": "git@github.com:notepad-plus-plus/notepad-plus-plus.git",
   "clone_url": "https://github.com/notepad-plus-plus/notepad-plus-plus.git",
   "svn_url": "https://github.com/notepad-plus-plus/notepad-plus-plus",
   "homepage": "https://notepad-plus-plus.org/",
-  "size": 234577,
-  "stargazers_count": 19107,
-  "watchers_count": 19107,
+  "size": 234589,
+  "stargazers_count": 19113,
+  "watchers_count": 19113,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 4100,
+  "forks_count": 4103,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "windows"
   ],
   "visibility": "public",
-  "forks": 4100,
+  "forks": 4103,
   "open_issues": 2002,
-  "watchers": 19107,
+  "watchers": 19113,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2020
+  "_index": 2021
 }

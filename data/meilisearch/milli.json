@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/meilisearch/milli/releases{/id}",
   "deployments_url": "https://api.github.com/repos/meilisearch/milli/deployments",
   "created_at": "2020-05-31T12:21:55Z",
-  "updated_at": "2023-04-15T14:12:35Z",
+  "updated_at": "2023-04-21T14:38:42Z",
   "pushed_at": "2023-04-04T11:21:46Z",
   "git_url": "git://github.com/meilisearch/milli.git",
   "ssh_url": "git@github.com:meilisearch/milli.git",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 823
+  "_index": 824
 }

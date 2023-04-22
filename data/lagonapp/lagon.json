@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/lagonapp/lagon",
-  "description": "Deploy Serverless Functions at the Edge. Current status: Dev",
+  "description": "Deploy Serverless Functions at the Edge. Current status: Alpha",
   "fork": false,
   "url": "https://api.github.com/repos/lagonapp/lagon",
   "forks_url": "https://api.github.com/repos/lagonapp/lagon/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/lagonapp/lagon/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lagonapp/lagon/deployments",
   "created_at": "2022-06-20T06:08:05Z",
-  "updated_at": "2023-04-20T20:54:34Z",
-  "pushed_at": "2023-04-21T01:17:45Z",
+  "updated_at": "2023-04-22T01:55:08Z",
+  "pushed_at": "2023-04-21T20:43:34Z",
   "git_url": "git://github.com/lagonapp/lagon.git",
   "ssh_url": "git@github.com:lagonapp/lagon.git",
   "clone_url": "https://github.com/lagonapp/lagon.git",
   "svn_url": "https://github.com/lagonapp/lagon",
   "homepage": "https://lagon.app",
-  "size": 15288,
-  "stargazers_count": 763,
-  "watchers_count": 763,
+  "size": 15081,
+  "stargazers_count": 776,
+  "watchers_count": 776,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 32,
+  "forks_count": 33,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 31,
+  "open_issues_count": 33,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -104,9 +104,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 32,
-  "open_issues": 31,
-  "watchers": 763,
+  "forks": 33,
+  "open_issues": 33,
+  "watchers": 776,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 35
+  "_index": 36
 }

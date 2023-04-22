@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/alephjs/aleph.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/alephjs/aleph.js/deployments",
   "created_at": "2020-09-12T07:27:46Z",
-  "updated_at": "2023-04-18T22:29:16Z",
+  "updated_at": "2023-04-21T20:46:34Z",
   "pushed_at": "2023-03-27T11:13:53Z",
   "git_url": "git://github.com/alephjs/aleph.js.git",
   "ssh_url": "git@github.com:alephjs/aleph.js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/alephjs/aleph.js",
   "homepage": "https://alephjs.org",
   "size": 172187,
-  "stargazers_count": 5105,
-  "watchers_count": 5105,
+  "stargazers_count": 5103,
+  "watchers_count": 5103,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -114,7 +114,7 @@
   "visibility": "public",
   "forks": 172,
   "open_issues": 86,
-  "watchers": 5105,
+  "watchers": 5103,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 595
+  "_index": 596
 }

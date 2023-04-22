@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/lowlighter/metrics/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lowlighter/metrics/deployments",
   "created_at": "2020-09-08T16:01:43Z",
-  "updated_at": "2023-04-20T19:26:09Z",
-  "pushed_at": "2023-04-19T16:03:54Z",
+  "updated_at": "2023-04-21T22:07:41Z",
+  "pushed_at": "2023-04-21T16:03:44Z",
   "git_url": "git://github.com/lowlighter/metrics.git",
   "ssh_url": "git@github.com:lowlighter/metrics.git",
   "clone_url": "https://github.com/lowlighter/metrics.git",
   "svn_url": "https://github.com/lowlighter/metrics",
   "homepage": "https://metrics.lecoq.io",
-  "size": 138030,
-  "stargazers_count": 10428,
-  "watchers_count": 10428,
+  "size": 138220,
+  "stargazers_count": 10435,
+  "watchers_count": 10435,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1313,
+  "forks_count": 1315,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -116,9 +116,9 @@
     "svg-image"
   ],
   "visibility": "public",
-  "forks": 1313,
+  "forks": 1315,
   "open_issues": 15,
-  "watchers": 10428,
+  "watchers": 10435,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 736
+  "_index": 737
 }

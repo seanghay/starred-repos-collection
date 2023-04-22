@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/IDEA-Research/Grounded-Segment-Anything",
-  "description": "Marrying Grounding DINO with Segment Anything & Stable Diffusion & BLIP & Whisper & ChatBot - Automatically Detect , Segment and Generate Anything with Image, Text, and Audio Inputs",
+  "description": "Marrying Grounding DINO with Segment Anything & Stable Diffusion & Tag2Text & BLIP & Whisper & ChatBot - Automatically Detect , Segment and Generate Anything with Image, Text, and Audio Inputs",
   "fork": false,
   "url": "https://api.github.com/repos/IDEA-Research/Grounded-Segment-Anything",
   "forks_url": "https://api.github.com/repos/IDEA-Research/Grounded-Segment-Anything/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/IDEA-Research/Grounded-Segment-Anything/releases{/id}",
   "deployments_url": "https://api.github.com/repos/IDEA-Research/Grounded-Segment-Anything/deployments",
   "created_at": "2023-04-06T04:03:28Z",
-  "updated_at": "2023-04-21T01:56:16Z",
-  "pushed_at": "2023-04-20T19:21:09Z",
+  "updated_at": "2023-04-22T01:54:50Z",
+  "pushed_at": "2023-04-21T13:38:22Z",
   "git_url": "git://github.com/IDEA-Research/Grounded-Segment-Anything.git",
   "ssh_url": "git@github.com:IDEA-Research/Grounded-Segment-Anything.git",
   "clone_url": "https://github.com/IDEA-Research/Grounded-Segment-Anything.git",
   "svn_url": "https://github.com/IDEA-Research/Grounded-Segment-Anything",
   "homepage": "",
-  "size": 111929,
-  "stargazers_count": 7130,
-  "watchers_count": 7130,
+  "size": 111871,
+  "stargazers_count": 7210,
+  "watchers_count": 7210,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 544,
+  "forks_count": 553,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 97,
+  "open_issues_count": 100,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -106,9 +106,9 @@
     "speech"
   ],
   "visibility": "public",
-  "forks": 544,
-  "open_issues": 97,
-  "watchers": 7130,
+  "forks": 553,
+  "open_issues": 100,
+  "watchers": 7210,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 30
+  "_index": 31
 }
