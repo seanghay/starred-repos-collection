@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Karumi/Dexter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Karumi/Dexter/deployments",
   "created_at": "2015-11-17T13:14:43Z",
-  "updated_at": "2023-04-21T02:30:59Z",
+  "updated_at": "2023-04-22T22:24:12Z",
   "pushed_at": "2021-07-02T10:55:40Z",
   "git_url": "git://github.com/Karumi/Dexter.git",
   "ssh_url": "git@github.com:Karumi/Dexter.git",

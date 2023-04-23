@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/amandaghassaei/gpu-io",
-  "description": "A GPU-accelerated computing library for physics simulations and other mathematical calculations",
+  "description": "A GPU-accelerated computing library for running physics simulations on the web",
   "fork": false,
   "url": "https://api.github.com/repos/amandaghassaei/gpu-io",
   "forks_url": "https://api.github.com/repos/amandaghassaei/gpu-io/forks",
@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/amandaghassaei/gpu-io/releases{/id}",
   "deployments_url": "https://api.github.com/repos/amandaghassaei/gpu-io/deployments",
   "created_at": "2020-11-03T23:18:12Z",
-  "updated_at": "2023-04-20T22:28:32Z",
+  "updated_at": "2023-04-22T18:15:16Z",
   "pushed_at": "2023-03-26T22:52:03Z",
   "git_url": "git://github.com/amandaghassaei/gpu-io.git",
   "ssh_url": "git@github.com:amandaghassaei/gpu-io.git",

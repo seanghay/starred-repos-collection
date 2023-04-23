@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 700,
+  "forks_count": 699,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,7 +104,7 @@
     "validator"
   ],
   "visibility": "public",
-  "forks": 700,
+  "forks": 699,
   "open_issues": 207,
   "watchers": 9267,
   "default_branch": "develop",
