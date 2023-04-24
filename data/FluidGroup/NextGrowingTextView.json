@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/FluidGroup/NextGrowingTextView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/FluidGroup/NextGrowingTextView/deployments",
   "created_at": "2015-12-18T03:49:56Z",
-  "updated_at": "2023-04-19T10:56:05Z",
+  "updated_at": "2023-04-23T03:00:08Z",
   "pushed_at": "2023-01-25T15:25:02Z",
   "git_url": "git://github.com/FluidGroup/NextGrowingTextView.git",
   "ssh_url": "git@github.com:FluidGroup/NextGrowingTextView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/FluidGroup/NextGrowingTextView",
   "homepage": "",
   "size": 7996,
-  "stargazers_count": 1708,
-  "watchers_count": 1708,
+  "stargazers_count": 1709,
+  "watchers_count": 1709,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 148,
   "open_issues": 28,
-  "watchers": 1708,
+  "watchers": 1709,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 848
+  "_index": 851
 }

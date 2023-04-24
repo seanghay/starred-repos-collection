@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/openxla/xla/releases{/id}",
   "deployments_url": "https://api.github.com/repos/openxla/xla/deployments",
   "created_at": "2022-08-09T15:30:01Z",
-  "updated_at": "2023-04-21T20:39:30Z",
-  "pushed_at": "2023-04-22T18:42:38Z",
+  "updated_at": "2023-04-23T17:59:51Z",
+  "pushed_at": "2023-04-23T11:59:57Z",
   "git_url": "git://github.com/openxla/xla.git",
   "ssh_url": "git@github.com:openxla/xla.git",
   "clone_url": "https://github.com/openxla/xla.git",
   "svn_url": "https://github.com/openxla/xla",
   "homepage": "",
-  "size": 157617,
-  "stargazers_count": 1278,
-  "watchers_count": 1278,
+  "size": 157253,
+  "stargazers_count": 1282,
+  "watchers_count": 1282,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 266,
+  "open_issues_count": 267,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 109,
-  "open_issues": 266,
-  "watchers": 1278,
+  "open_issues": 267,
+  "watchers": 1282,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 136
+  "_index": 139
 }

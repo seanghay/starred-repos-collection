@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lukeed/polka/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lukeed/polka/deployments",
   "created_at": "2017-12-22T05:55:41Z",
-  "updated_at": "2023-04-23T01:36:47Z",
+  "updated_at": "2023-04-23T17:30:52Z",
   "pushed_at": "2023-04-18T09:55:34Z",
   "git_url": "git://github.com/lukeed/polka.git",
   "ssh_url": "git@github.com:lukeed/polka.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lukeed/polka",
   "homepage": "",
   "size": 626,
-  "stargazers_count": 5198,
-  "watchers_count": 5198,
+  "stargazers_count": 5196,
+  "watchers_count": 5196,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 182,
+  "forks_count": 181,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 182,
+  "forks": 181,
   "open_issues": 27,
-  "watchers": 5198,
+  "watchers": 5196,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 532
+  "_index": 535
 }

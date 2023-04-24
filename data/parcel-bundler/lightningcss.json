@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/parcel-bundler/lightningcss/releases{/id}",
   "deployments_url": "https://api.github.com/repos/parcel-bundler/lightningcss/deployments",
   "created_at": "2021-10-09T19:54:41Z",
-  "updated_at": "2023-04-23T00:42:07Z",
-  "pushed_at": "2023-04-19T22:29:51Z",
+  "updated_at": "2023-04-24T02:01:15Z",
+  "pushed_at": "2023-04-23T04:09:35Z",
   "git_url": "git://github.com/parcel-bundler/lightningcss.git",
   "ssh_url": "git@github.com:parcel-bundler/lightningcss.git",
   "clone_url": "https://github.com/parcel-bundler/lightningcss.git",
   "svn_url": "https://github.com/parcel-bundler/lightningcss",
   "homepage": "https://lightningcss.dev",
   "size": 9924,
-  "stargazers_count": 3484,
-  "watchers_count": 3484,
+  "stargazers_count": 3496,
+  "watchers_count": 3496,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 106,
+  "forks_count": 107,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 101,
+  "open_issues_count": 102,
   "license": {
     "key": "mpl-2.0",
     "name": "Mozilla Public License 2.0",
@@ -106,9 +106,9 @@
     "rust"
   ],
   "visibility": "public",
-  "forks": 106,
-  "open_issues": 101,
-  "watchers": 3484,
+  "forks": 107,
+  "open_issues": 102,
+  "watchers": 3496,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 817
+  "_index": 820
 }

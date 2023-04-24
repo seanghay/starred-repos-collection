@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/haproxy/haproxy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/haproxy/haproxy/deployments",
   "created_at": "2018-04-09T15:17:42Z",
-  "updated_at": "2023-04-21T15:41:54Z",
-  "pushed_at": "2023-04-22T22:57:43Z",
+  "updated_at": "2023-04-24T00:27:02Z",
+  "pushed_at": "2023-04-23T09:45:30Z",
   "git_url": "git://github.com/haproxy/haproxy.git",
   "ssh_url": "git@github.com:haproxy/haproxy.git",
   "clone_url": "https://github.com/haproxy/haproxy.git",
   "svn_url": "https://github.com/haproxy/haproxy",
   "homepage": "https://git.haproxy.org/",
-  "size": 71140,
-  "stargazers_count": 3629,
-  "watchers_count": 3629,
+  "size": 67570,
+  "stargazers_count": 3634,
+  "watchers_count": 3634,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 280,
+  "open_issues_count": 279,
   "license": {
     "key": "other",
     "name": "Other",
@@ -117,8 +117,8 @@
   ],
   "visibility": "public",
   "forks": 672,
-  "open_issues": 280,
-  "watchers": 3629,
+  "open_issues": 279,
+  "watchers": 3634,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 766
+  "_index": 769
 }

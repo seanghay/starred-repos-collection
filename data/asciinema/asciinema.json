@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/asciinema/asciinema/releases{/id}",
   "deployments_url": "https://api.github.com/repos/asciinema/asciinema/deployments",
   "created_at": "2011-11-21T21:45:44Z",
-  "updated_at": "2023-04-21T14:45:33Z",
+  "updated_at": "2023-04-23T07:10:47Z",
   "pushed_at": "2023-04-15T18:53:19Z",
   "git_url": "git://github.com/asciinema/asciinema.git",
   "ssh_url": "git@github.com:asciinema/asciinema.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/asciinema/asciinema",
   "homepage": "https://asciinema.org",
   "size": 2069,
-  "stargazers_count": 11482,
-  "watchers_count": 11482,
+  "stargazers_count": 11483,
+  "watchers_count": 11483,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 875,
   "open_issues": 86,
-  "watchers": 11482,
+  "watchers": 11483,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1128
+  "_index": 1131
 }

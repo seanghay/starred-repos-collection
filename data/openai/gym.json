@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/openai/gym/releases{/id}",
   "deployments_url": "https://api.github.com/repos/openai/gym/deployments",
   "created_at": "2016-04-27T14:59:16Z",
-  "updated_at": "2023-04-23T01:57:34Z",
+  "updated_at": "2023-04-24T00:40:28Z",
   "pushed_at": "2023-04-02T11:28:15Z",
   "git_url": "git://github.com/openai/gym.git",
   "ssh_url": "git@github.com:openai/gym.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/openai/gym",
   "homepage": "https://www.gymlibrary.dev",
   "size": 7113,
-  "stargazers_count": 30924,
-  "watchers_count": 30924,
+  "stargazers_count": 30937,
+  "watchers_count": 30937,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 8364,
+  "forks_count": 8365,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 8364,
+  "forks": 8365,
   "open_issues": 54,
-  "watchers": 30924,
+  "watchers": 30937,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 49
+  "_index": 52
 }

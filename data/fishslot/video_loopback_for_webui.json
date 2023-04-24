@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fishslot/video_loopback_for_webui/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fishslot/video_loopback_for_webui/deployments",
   "created_at": "2023-01-16T12:12:19Z",
-  "updated_at": "2023-04-21T15:24:22Z",
+  "updated_at": "2023-04-23T08:22:33Z",
   "pushed_at": "2023-04-21T12:08:24Z",
   "git_url": "git://github.com/fishslot/video_loopback_for_webui.git",
   "ssh_url": "git@github.com:fishslot/video_loopback_for_webui.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/fishslot/video_loopback_for_webui",
   "homepage": null,
   "size": 18209,
-  "stargazers_count": 264,
-  "watchers_count": 264,
+  "stargazers_count": 265,
+  "watchers_count": 265,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 13,
   "open_issues": 1,
-  "watchers": 264,
+  "watchers": 265,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 170
+  "_index": 173
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/natario1/CameraView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/natario1/CameraView/deployments",
   "created_at": "2017-07-18T09:30:33Z",
-  "updated_at": "2023-04-21T19:08:58Z",
+  "updated_at": "2023-04-23T20:23:02Z",
   "pushed_at": "2023-04-22T12:33:48Z",
   "git_url": "git://github.com/natario1/CameraView.git",
   "ssh_url": "git@github.com:natario1/CameraView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/natario1/CameraView",
   "homepage": "https://natario1.github.io/CameraView",
   "size": 30129,
-  "stargazers_count": 4615,
-  "watchers_count": 4615,
+  "stargazers_count": 4617,
+  "watchers_count": 4617,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -122,7 +122,7 @@
   "visibility": "public",
   "forks": 883,
   "open_issues": 80,
-  "watchers": 4615,
+  "watchers": 4617,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2083
+  "_index": 2086
 }

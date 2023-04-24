@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/marcellogalhardo/retained/deployments",
   "created_at": "2019-12-17T13:37:09Z",
   "updated_at": "2023-04-19T13:10:51Z",
-  "pushed_at": "2023-04-03T15:26:49Z",
+  "pushed_at": "2023-04-23T12:43:17Z",
   "git_url": "git://github.com/marcellogalhardo/retained.git",
   "ssh_url": "git@github.com:marcellogalhardo/retained.git",
   "clone_url": "https://github.com/marcellogalhardo/retained.git",
   "svn_url": "https://github.com/marcellogalhardo/retained",
   "homepage": "",
-  "size": 460,
+  "size": 473,
   "stargazers_count": 281,
   "watchers_count": 281,
   "language": "Kotlin",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 960
+  "_index": 963
 }

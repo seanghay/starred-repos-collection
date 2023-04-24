@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/10clouds/FluidBottomNavigation-android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/10clouds/FluidBottomNavigation-android/deployments",
   "created_at": "2018-07-13T09:36:44Z",
-  "updated_at": "2023-04-12T02:07:17Z",
+  "updated_at": "2023-04-23T07:59:56Z",
   "pushed_at": "2019-12-20T10:18:25Z",
   "git_url": "git://github.com/10clouds/FluidBottomNavigation-android.git",
   "ssh_url": "git@github.com:10clouds/FluidBottomNavigation-android.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/10clouds/FluidBottomNavigation-android",
   "homepage": "https://10clouds.com/",
   "size": 762,
-  "stargazers_count": 314,
-  "watchers_count": 314,
+  "stargazers_count": 315,
+  "watchers_count": 315,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 42,
   "open_issues": 19,
-  "watchers": 314,
+  "watchers": 315,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1872
+  "_index": 1875
 }

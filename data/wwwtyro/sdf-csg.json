@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wwwtyro/sdf-csg/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wwwtyro/sdf-csg/deployments",
   "created_at": "2021-10-11T20:47:19Z",
-  "updated_at": "2023-04-10T14:35:52Z",
+  "updated_at": "2023-04-23T16:06:08Z",
   "pushed_at": "2021-10-11T20:47:50Z",
   "git_url": "git://github.com/wwwtyro/sdf-csg.git",
   "ssh_url": "git@github.com:wwwtyro/sdf-csg.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wwwtyro/sdf-csg",
   "homepage": null,
   "size": 830,
-  "stargazers_count": 160,
-  "watchers_count": 160,
+  "stargazers_count": 161,
+  "watchers_count": 161,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 6,
   "open_issues": 0,
-  "watchers": 160,
+  "watchers": 161,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 631
+  "_index": 634
 }

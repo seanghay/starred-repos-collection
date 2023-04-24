@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fathyb/carbonyl/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fathyb/carbonyl/deployments",
   "created_at": "2023-01-20T10:58:22Z",
-  "updated_at": "2023-04-23T01:19:22Z",
+  "updated_at": "2023-04-24T01:49:02Z",
   "pushed_at": "2023-04-16T13:45:12Z",
   "git_url": "git://github.com/fathyb/carbonyl.git",
   "ssh_url": "git@github.com:fathyb/carbonyl.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/fathyb/carbonyl",
   "homepage": "",
   "size": 283,
-  "stargazers_count": 12212,
-  "watchers_count": 12212,
+  "stargazers_count": 12258,
+  "watchers_count": 12258,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 271,
+  "forks_count": 273,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,9 +103,9 @@
     "terminal"
   ],
   "visibility": "public",
-  "forks": 271,
+  "forks": 273,
   "open_issues": 45,
-  "watchers": 12212,
+  "watchers": 12258,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 221
+  "_index": 224
 }

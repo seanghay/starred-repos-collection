@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tensorchord/pgvecto.rs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tensorchord/pgvecto.rs/deployments",
   "created_at": "2023-04-15T09:56:24Z",
-  "updated_at": "2023-04-22T10:54:23Z",
+  "updated_at": "2023-04-23T06:24:55Z",
   "pushed_at": "2023-04-21T10:14:24Z",
   "git_url": "git://github.com/tensorchord/pgvecto.rs.git",
   "ssh_url": "git@github.com:tensorchord/pgvecto.rs.git",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2
+  "_index": 5
 }
