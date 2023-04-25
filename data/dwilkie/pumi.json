@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/dwilkie/pumi.git",
   "svn_url": "https://github.com/dwilkie/pumi",
   "homepage": "https://pumi.onrender.com/",
-  "size": 1440,
+  "size": 1443,
   "stargazers_count": 31,
   "watchers_count": 31,
   "language": "Ruby",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1242
+  "_index": 1245
 }

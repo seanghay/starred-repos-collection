@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/preactjs/wmr/releases{/id}",
   "deployments_url": "https://api.github.com/repos/preactjs/wmr/deployments",
   "created_at": "2020-05-21T22:19:03Z",
-  "updated_at": "2023-04-23T06:58:46Z",
+  "updated_at": "2023-04-24T02:54:34Z",
   "pushed_at": "2023-04-21T16:46:25Z",
   "git_url": "git://github.com/preactjs/wmr.git",
   "ssh_url": "git@github.com:preactjs/wmr.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/preactjs/wmr",
   "homepage": "https://wmr.dev/",
   "size": 4265,
-  "stargazers_count": 4823,
-  "watchers_count": 4823,
+  "stargazers_count": 4825,
+  "watchers_count": 4825,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 88,
+  "open_issues_count": 87,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 106,
-  "open_issues": 88,
-  "watchers": 4823,
+  "open_issues": 87,
+  "watchers": 4825,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 523
+  "_index": 526
 }

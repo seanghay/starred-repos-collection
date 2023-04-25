@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/remirror/remirror.git",
   "svn_url": "https://github.com/remirror/remirror",
   "homepage": "https://remirror.io",
-  "size": 68810,
+  "size": 68929,
   "stargazers_count": 2200,
   "watchers_count": 2200,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 134,
+  "open_issues_count": 135,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -111,7 +111,7 @@
   ],
   "visibility": "public",
   "forks": 203,
-  "open_issues": 134,
+  "open_issues": 135,
   "watchers": 2200,
   "default_branch": "main",
   "permissions": {
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1576
+  "_index": 1579
 }

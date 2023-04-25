@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Picsart-AI-Research/Text2Video-Zero/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Picsart-AI-Research/Text2Video-Zero/deployments",
   "created_at": "2023-03-21T13:41:40Z",
-  "updated_at": "2023-04-24T01:52:44Z",
+  "updated_at": "2023-04-25T01:58:33Z",
   "pushed_at": "2023-04-14T08:02:52Z",
   "git_url": "git://github.com/Picsart-AI-Research/Text2Video-Zero.git",
   "ssh_url": "git@github.com:Picsart-AI-Research/Text2Video-Zero.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Picsart-AI-Research/Text2Video-Zero",
   "homepage": "",
   "size": 94428,
-  "stargazers_count": 2481,
-  "watchers_count": 2481,
+  "stargazers_count": 2491,
+  "watchers_count": 2491,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 140,
+  "forks_count": 141,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 18,
+  "open_issues_count": 19,
   "license": {
     "key": "other",
     "name": "Other",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 140,
-  "open_issues": 18,
-  "watchers": 2481,
+  "forks": 141,
+  "open_issues": 19,
+  "watchers": 2491,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 74
+  "_index": 77
 }

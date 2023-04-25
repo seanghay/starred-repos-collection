@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/camenduru/stable-diffusion-webui-colab/releases{/id}",
   "deployments_url": "https://api.github.com/repos/camenduru/stable-diffusion-webui-colab/deployments",
   "created_at": "2022-10-05T02:45:59Z",
-  "updated_at": "2023-04-24T01:53:37Z",
-  "pushed_at": "2023-04-23T20:55:11Z",
+  "updated_at": "2023-04-25T02:00:13Z",
+  "pushed_at": "2023-04-25T00:21:52Z",
   "git_url": "git://github.com/camenduru/stable-diffusion-webui-colab.git",
   "ssh_url": "git@github.com:camenduru/stable-diffusion-webui-colab.git",
   "clone_url": "https://github.com/camenduru/stable-diffusion-webui-colab.git",
   "svn_url": "https://github.com/camenduru/stable-diffusion-webui-colab",
   "homepage": "",
-  "size": 45642,
-  "stargazers_count": 9717,
-  "watchers_count": 9717,
+  "size": 45711,
+  "stargazers_count": 9776,
+  "watchers_count": 9776,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1601,
+  "forks_count": 1615,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -119,9 +119,9 @@
     "txt2img"
   ],
   "visibility": "public",
-  "forks": 1601,
+  "forks": 1615,
   "open_issues": 14,
-  "watchers": 9717,
+  "watchers": 9776,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 51
+  "_index": 54
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/xenova/transformers.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/xenova/transformers.js/deployments",
   "created_at": "2023-02-13T13:51:45Z",
-  "updated_at": "2023-04-24T01:55:21Z",
-  "pushed_at": "2023-04-23T18:25:23Z",
+  "updated_at": "2023-04-25T01:40:29Z",
+  "pushed_at": "2023-04-24T23:51:40Z",
   "git_url": "git://github.com/xenova/transformers.js.git",
   "ssh_url": "git@github.com:xenova/transformers.js.git",
   "clone_url": "https://github.com/xenova/transformers.js.git",
   "svn_url": "https://github.com/xenova/transformers.js",
   "homepage": "https://xenova.github.io/transformers.js/",
-  "size": 96771,
-  "stargazers_count": 2225,
-  "watchers_count": 2225,
+  "size": 96938,
+  "stargazers_count": 2230,
+  "watchers_count": 2230,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 103,
   "open_issues": 32,
-  "watchers": 2225,
+  "watchers": 2230,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 137
+  "_index": 140
 }

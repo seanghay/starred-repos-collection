@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/supabase/supabase/releases{/id}",
   "deployments_url": "https://api.github.com/repos/supabase/supabase/deployments",
   "created_at": "2019-10-12T05:56:49Z",
-  "updated_at": "2023-04-24T01:59:25Z",
-  "pushed_at": "2023-04-23T14:41:01Z",
+  "updated_at": "2023-04-25T01:41:55Z",
+  "pushed_at": "2023-04-25T00:27:24Z",
   "git_url": "git://github.com/supabase/supabase.git",
   "ssh_url": "git@github.com:supabase/supabase.git",
   "clone_url": "https://github.com/supabase/supabase.git",
   "svn_url": "https://github.com/supabase/supabase",
   "homepage": "https://supabase.com",
-  "size": 1095193,
-  "stargazers_count": 48958,
-  "watchers_count": 48958,
+  "size": 1102407,
+  "stargazers_count": 49012,
+  "watchers_count": 49012,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 3545,
+  "forks_count": 3554,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 243,
+  "open_issues_count": 244,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -110,9 +110,9 @@
     "websockets"
   ],
   "visibility": "public",
-  "forks": 3545,
-  "open_issues": 243,
-  "watchers": 48958,
+  "forks": 3554,
+  "open_issues": 244,
+  "watchers": 49012,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1272
+  "_index": 1275
 }

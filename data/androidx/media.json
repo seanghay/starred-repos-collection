@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/androidx/media/releases{/id}",
   "deployments_url": "https://api.github.com/repos/androidx/media/deployments",
   "created_at": "2021-09-02T18:42:10Z",
-  "updated_at": "2023-04-23T21:08:49Z",
-  "pushed_at": "2023-04-21T09:16:40Z",
+  "updated_at": "2023-04-24T19:49:50Z",
+  "pushed_at": "2023-04-24T12:08:34Z",
   "git_url": "git://github.com/androidx/media.git",
   "ssh_url": "git@github.com:androidx/media.git",
   "clone_url": "https://github.com/androidx/media.git",
   "svn_url": "https://github.com/androidx/media",
   "homepage": "",
-  "size": 250791,
-  "stargazers_count": 437,
-  "watchers_count": 437,
+  "size": 250935,
+  "stargazers_count": 439,
+  "watchers_count": 439,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 84,
   "open_issues": 129,
-  "watchers": 437,
+  "watchers": 439,
   "default_branch": "release",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 882
+  "_index": 885
 }

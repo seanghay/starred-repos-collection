@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/ddwhan0123/Useful-Open-Source-Android.git",
   "svn_url": "https://github.com/ddwhan0123/Useful-Open-Source-Android",
   "homepage": "",
-  "size": 14403,
+  "size": 14413,
   "stargazers_count": 1467,
   "watchers_count": 1467,
   "language": null,
@@ -108,5 +108,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1774
+  "_index": 1777
 }

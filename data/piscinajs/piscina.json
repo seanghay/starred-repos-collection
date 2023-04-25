@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/piscinajs/piscina/releases{/id}",
   "deployments_url": "https://api.github.com/repos/piscinajs/piscina/deployments",
   "created_at": "2020-04-08T16:24:50Z",
-  "updated_at": "2023-04-23T18:44:55Z",
+  "updated_at": "2023-04-24T23:13:01Z",
   "pushed_at": "2023-04-13T01:47:14Z",
   "git_url": "git://github.com/piscinajs/piscina.git",
   "ssh_url": "git@github.com:piscinajs/piscina.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/piscinajs/piscina",
   "homepage": null,
   "size": 1234,
-  "stargazers_count": 3149,
-  "watchers_count": 3149,
+  "stargazers_count": 3152,
+  "watchers_count": 3152,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 95,
   "open_issues": 56,
-  "watchers": 3149,
+  "watchers": 3152,
   "default_branch": "current",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 806
+  "_index": 809
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Kotlin/kotlinx-datetime/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Kotlin/kotlinx-datetime/deployments",
   "created_at": "2019-10-17T17:33:02Z",
-  "updated_at": "2023-04-23T17:45:06Z",
+  "updated_at": "2023-04-24T05:39:22Z",
   "pushed_at": "2023-04-14T14:07:34Z",
   "git_url": "git://github.com/Kotlin/kotlinx-datetime.git",
   "ssh_url": "git@github.com:Kotlin/kotlinx-datetime.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Kotlin/kotlinx-datetime",
   "homepage": "",
   "size": 950,
-  "stargazers_count": 1702,
-  "watchers_count": 1702,
+  "stargazers_count": 1703,
+  "watchers_count": 1703,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 62,
+  "open_issues_count": 63,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 74,
-  "open_issues": 62,
-  "watchers": 1702,
+  "open_issues": 63,
+  "watchers": 1703,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1458
+  "_index": 1461
 }

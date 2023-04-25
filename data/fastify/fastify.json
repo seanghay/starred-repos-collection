@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/fastify/fastify/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fastify/fastify/deployments",
   "created_at": "2016-09-28T19:10:14Z",
-  "updated_at": "2023-04-24T01:10:08Z",
-  "pushed_at": "2023-04-22T13:23:45Z",
+  "updated_at": "2023-04-24T19:47:41Z",
+  "pushed_at": "2023-04-24T15:49:49Z",
   "git_url": "git://github.com/fastify/fastify.git",
   "ssh_url": "git@github.com:fastify/fastify.git",
   "clone_url": "https://github.com/fastify/fastify.git",
   "svn_url": "https://github.com/fastify/fastify",
   "homepage": "https://www.fastify.io",
-  "size": 7548,
-  "stargazers_count": 27088,
-  "watchers_count": 27088,
+  "size": 7576,
+  "stargazers_count": 27094,
+  "watchers_count": 27094,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 78,
+  "open_issues_count": 80,
   "license": {
     "key": "other",
     "name": "Other",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 2002,
-  "open_issues": 78,
-  "watchers": 27088,
+  "open_issues": 80,
+  "watchers": 27094,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2589
+  "_index": 2592
 }

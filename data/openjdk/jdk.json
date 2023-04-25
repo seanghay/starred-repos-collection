@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/openjdk/jdk/releases{/id}",
   "deployments_url": "https://api.github.com/repos/openjdk/jdk/deployments",
   "created_at": "2018-09-17T12:29:20Z",
-  "updated_at": "2023-04-24T01:56:10Z",
-  "pushed_at": "2023-04-23T23:41:31Z",
+  "updated_at": "2023-04-24T17:38:25Z",
+  "pushed_at": "2023-04-25T01:49:30Z",
   "git_url": "git://github.com/openjdk/jdk.git",
   "ssh_url": "git@github.com:openjdk/jdk.git",
   "clone_url": "https://github.com/openjdk/jdk.git",
   "svn_url": "https://github.com/openjdk/jdk",
   "homepage": "",
-  "size": 1135556,
-  "stargazers_count": 15744,
-  "watchers_count": 15744,
+  "size": 1136587,
+  "stargazers_count": 15751,
+  "watchers_count": 15751,
   "language": "Java",
   "has_issues": false,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 4475,
+  "forks_count": 4476,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 319,
+  "open_issues_count": 325,
   "license": {
     "key": "gpl-2.0",
     "name": "GNU General Public License v2.0",
@@ -103,9 +103,9 @@
     "openjdk"
   ],
   "visibility": "public",
-  "forks": 4475,
-  "open_issues": 319,
-  "watchers": 15744,
+  "forks": 4476,
+  "open_issues": 325,
+  "watchers": 15751,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1554
+  "_index": 1557
 }
