@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 16,
+  "forks_count": 17,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 3,
+  "open_issues_count": 2,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -108,8 +108,8 @@
     "arsc"
   ],
   "visibility": "public",
-  "forks": 16,
-  "open_issues": 3,
+  "forks": 17,
+  "open_issues": 2,
   "watchers": 113,
   "default_branch": "master",
   "permissions": {

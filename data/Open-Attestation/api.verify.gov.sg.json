@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/Open-Attestation/api.verify.gov.sg.git",
   "svn_url": "https://github.com/Open-Attestation/api.verify.gov.sg",
   "homepage": "https://api.verify.gov.sg/verify",
-  "size": 830,
+  "size": 973,
   "stargazers_count": 2,
   "watchers_count": 2,
   "language": "TypeScript",
