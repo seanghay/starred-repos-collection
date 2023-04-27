@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/tinacms/tinacms",
-  "description": "A headless CMS for Markdown",
+  "description": "The Markdown CMS",
   "fork": false,
   "url": "https://api.github.com/repos/tinacms/tinacms",
   "forks_url": "https://api.github.com/repos/tinacms/tinacms/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/tinacms/tinacms/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tinacms/tinacms/deployments",
   "created_at": "2019-07-23T18:37:47Z",
-  "updated_at": "2023-04-25T22:13:33Z",
-  "pushed_at": "2023-04-25T18:46:47Z",
+  "updated_at": "2023-04-27T00:18:36Z",
+  "pushed_at": "2023-04-26T23:50:27Z",
   "git_url": "git://github.com/tinacms/tinacms.git",
   "ssh_url": "git@github.com:tinacms/tinacms.git",
   "clone_url": "https://github.com/tinacms/tinacms.git",
   "svn_url": "https://github.com/tinacms/tinacms",
   "homepage": "https://tina.io",
-  "size": 895864,
-  "stargazers_count": 8720,
-  "watchers_count": 8720,
+  "size": 897395,
+  "stargazers_count": 8726,
+  "watchers_count": 8726,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 81,
+  "open_issues_count": 80,
   "license": {
     "key": "other",
     "name": "Other",
@@ -110,8 +110,8 @@
   ],
   "visibility": "public",
   "forks": 461,
-  "open_issues": 81,
-  "watchers": 8720,
+  "open_issues": 80,
+  "watchers": 8726,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 938
+  "_index": 941
 }

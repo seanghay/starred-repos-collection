@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/KilledByAPixel/LittleJS/releases{/id}",
   "deployments_url": "https://api.github.com/repos/KilledByAPixel/LittleJS/deployments",
   "created_at": "2021-09-23T21:34:48Z",
-  "updated_at": "2023-04-23T15:34:45Z",
+  "updated_at": "2023-04-27T01:32:33Z",
   "pushed_at": "2023-04-24T16:54:47Z",
   "git_url": "git://github.com/KilledByAPixel/LittleJS.git",
   "ssh_url": "git@github.com:KilledByAPixel/LittleJS.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/KilledByAPixel/LittleJS",
   "homepage": "https://killedbyapixel.github.io/LittleJS/docs",
   "size": 3382,
-  "stargazers_count": 2490,
-  "watchers_count": 2490,
+  "stargazers_count": 2491,
+  "watchers_count": 2491,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 118,
   "open_issues": 1,
-  "watchers": 2490,
+  "watchers": 2491,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 893
+  "_index": 896
 }

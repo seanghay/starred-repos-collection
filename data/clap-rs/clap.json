@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/clap-rs/clap/releases{/id}",
   "deployments_url": "https://api.github.com/repos/clap-rs/clap/deployments",
   "created_at": "2015-02-25T13:36:33Z",
-  "updated_at": "2023-04-26T01:12:11Z",
-  "pushed_at": "2023-04-25T16:50:49Z",
+  "updated_at": "2023-04-27T01:18:07Z",
+  "pushed_at": "2023-04-26T16:47:04Z",
   "git_url": "git://github.com/clap-rs/clap.git",
   "ssh_url": "git@github.com:clap-rs/clap.git",
   "clone_url": "https://github.com/clap-rs/clap.git",
   "svn_url": "https://github.com/clap-rs/clap",
   "homepage": "docs.rs/clap",
   "size": 18733,
-  "stargazers_count": 11185,
-  "watchers_count": 11185,
+  "stargazers_count": 11189,
+  "watchers_count": 11189,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 928,
+  "forks_count": 929,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 232,
+  "open_issues_count": 234,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -108,9 +108,9 @@
     "subcommands"
   ],
   "visibility": "public",
-  "forks": 928,
-  "open_issues": 232,
-  "watchers": 11185,
+  "forks": 929,
+  "open_issues": 234,
+  "watchers": 11189,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 360
+  "_index": 363
 }

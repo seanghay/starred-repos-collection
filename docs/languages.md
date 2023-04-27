@@ -8,7 +8,7 @@
 
 #### [videolan/dav1d](https://github.com/videolan/dav1d) 
 
-⭐️ 258 
+⭐️ 259 
 
 A read-only mirror of dav1d source code repository. The origin is at https://code.videolan.org/videolan/dav1d/ 
 
@@ -26,7 +26,7 @@ The fastest and safest AV1 encoder.
 
 #### [DapperLib/Dapper](https://github.com/DapperLib/Dapper) 
 
-⭐️ 16K 
+⭐️ 16.1K 
 
 Dapper - a simple object mapper for .Net 
 
@@ -58,7 +58,7 @@ Create advanced Excel spreadsheets using .NET
 
 #### [dafny-lang/dafny](https://github.com/dafny-lang/dafny) 
 
-⭐️ 2K 
+⭐️ 2.1K 
 
 Dafny is a verification-aware programming language 
 
@@ -68,7 +68,7 @@ Dafny is a verification-aware programming language
 
 #### [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) 
 
-⭐️ 31.5K 
+⭐️ 31.6K 
 
 ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. 
 
@@ -96,7 +96,7 @@ Android Studio Video Player
 
 #### [7thSamurai/steganography](https://github.com/7thSamurai/steganography) 
 
-⭐️ 882 
+⭐️ 884 
 
 Simple C++ Image Steganography tool to encrypt and hide files insde images using Least-Significant-Bit encoding. 
 
@@ -122,7 +122,7 @@ Fast HTML Canvas API implementation for Deno using Skia.
 
 #### [HumbleUI/JWM](https://github.com/HumbleUI/JWM) 
 
-⭐️ 459 
+⭐️ 460 
 
 Cross-platform window management and OS integration library for Java 
 
@@ -160,7 +160,7 @@ Nix, the purely functional package manager
 
 #### [OpenNMT/CTranslate2](https://github.com/OpenNMT/CTranslate2) 
 
-⭐️ 783 
+⭐️ 788 
 
 Fast inference engine for Transformer models 
 
@@ -180,7 +180,7 @@ OpenShot Video Library (libopenshot) is a free, open-source project dedicated to
 
 #### [Plutoberth/SonyHeadphonesClient](https://github.com/Plutoberth/SonyHeadphonesClient) 
 
-⭐️ 702 
+⭐️ 707 
 
 A {Windows, macOS, Linux} client recreating the functionality of the Sony Headphones app 
 
@@ -230,7 +230,7 @@ WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime 
 
 #### [WerWolv/ImHex](https://github.com/WerWolv/ImHex) 
 
-⭐️ 27.4K 
+⭐️ 27.5K 
 
 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. 
 
@@ -268,7 +268,7 @@ Android NDK samples with Android Studio
 
 #### [android/renderscript-samples](https://github.com/android/renderscript-samples) 
 
-⭐️ 176 
+⭐️ 177 
 
 Multiple samples showing renderscript best practices in Android. 
 
@@ -306,7 +306,7 @@ aria2 is a lightweight multi-protocol & multi-source, cross platform download ut
 
 #### [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) 
 
-⭐️ 69.2K 
+⭐️ 69.3K 
 
 Bitcoin Core integration/staging tree 
 
@@ -382,7 +382,7 @@ A modern replacement for Redis and Memcached
 
 #### [duckdb/duckdb](https://github.com/duckdb/duckdb) 
 
-⭐️ 9.7K 
+⭐️ 9.8K 
 
 DuckDB is an in-process SQL OLAP Database Management System 
 
@@ -626,7 +626,7 @@ cross-platform (Qt), open-source (GPLv3) video editor
 
 #### [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) 
 
-⭐️ 21.7K 
+⭐️ 21.8K 
 
 DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers. 
 
@@ -700,7 +700,7 @@ SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRT
 
 #### [parcel-bundler/watcher](https://github.com/parcel-bundler/watcher) 
 
-⭐️ 521 
+⭐️ 522 
 
 👀 A native C++ Node module for querying and subscribing to filesystem events 
 
@@ -734,7 +734,7 @@ Protocol Buffers - Google's data interchange format
 
 #### [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) 
 
-⭐️ 26K 
+⭐️ 26.1K 
 
 The open-source database for the realtime web. 
 
@@ -852,7 +852,7 @@ Convert HTML to PDF using Webkit (QtWebKit)
 
 #### [wlanjie/AndroidFFmpeg](https://github.com/wlanjie/AndroidFFmpeg) 
 
-⭐️ 358 
+⭐️ 359 
 
 android 读取摄像头和麦克风,使用rtmp推流 
 
@@ -894,7 +894,7 @@ Image edit library with many effects on android platform, based on opengl es 2.0
 
 #### [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) 
 
-⭐️ 81.5K 
+⭐️ 81.6K 
 
 Display and control your Android device 
 
@@ -1026,7 +1026,7 @@ display manager with console UI
 
 #### [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) 
 
-⭐️ 24.6K 
+⭐️ 24.8K 
 
 Port of Facebook's LLaMA model in C/C++ 
 
@@ -1086,7 +1086,7 @@ Linux shell for iOS
 
 #### [jakehilborn/displayplacer](https://github.com/jakehilborn/displayplacer) 
 
-⭐️ 3K 
+⭐️ 3.1K 
 
 macOS command line utility to configure multi-display resolutions and arrangements. Essentially XRandR for macOS. 
 
@@ -1110,7 +1110,7 @@ Blazing fast Markdown / CommonMark rendering in Swift, built upon cmark.
 
 #### [li-xiaojun/AndroidKTX](https://github.com/li-xiaojun/AndroidKTX) 
 
-⭐️ 700 
+⭐️ 702 
 
 🔥Some very useful kotlin extensions for speed android development！好用到爆的Kotlin扩展，加速你的Android开发！ 
 
@@ -1200,7 +1200,7 @@ Linux kernel source tree
 
 #### [transitive-bullshit/ffmpeg-gl-transition](https://github.com/transitive-bullshit/ffmpeg-gl-transition) 
 
-⭐️ 528 
+⭐️ 530 
 
 FFmpeg filter for applying GLSL transitions between video streams. 
 
@@ -1480,7 +1480,7 @@ A port of kotlin-stdlib for Dart/Flutter including immutable collections (KtList
 
 #### [pedromassango/titled_navigation_bar](https://github.com/pedromassango/titled_navigation_bar) 
 
-⭐️ 333 
+⭐️ 334 
 
 A beautiful and simple bottom navigation bar with smooth animation when switching selected item. 
 
@@ -1488,7 +1488,7 @@ A beautiful and simple bottom navigation bar with smooth animation when switchin
 
 #### [trevorwang/retrofit.dart](https://github.com/trevorwang/retrofit.dart) 
 
-⭐️ 883 
+⭐️ 884 
 
 retrofit.dart is an dio client generator using source_gen and inspired by Chopper and Retrofit. 
 
@@ -1526,7 +1526,7 @@ The best way to write secure and reliable applications. Write nothing; deploy no
 
 #### [mingchen/docker-android-build-box](https://github.com/mingchen/docker-android-build-box) 
 
-⭐️ 415 
+⭐️ 416 
 
 An optimized docker image includes Android, Kotlin, Flutter sdk. 
 
@@ -1580,7 +1580,7 @@ The open collection of GL Transitions
 
 #### [libretro/glsl-shaders](https://github.com/libretro/glsl-shaders) 
 
-⭐️ 710 
+⭐️ 711 
 
 This repo is for glsl shaders converted by hand from libretro's common-shaders repo, since some don't play nicely with the cg2glsl script. 
 
@@ -1692,7 +1692,7 @@ The Single Sign-On Multi-Factor portal for web apps
 
 #### [axllent/mailpit](https://github.com/axllent/mailpit) 
 
-⭐️ 927 
+⭐️ 932 
 
 An email and SMTP testing tool with API for developers 
 
@@ -1720,7 +1720,7 @@ GoReplay is an open-source tool for capturing and replaying live HTTP traffic in
 
 #### [caddyserver/caddy](https://github.com/caddyserver/caddy) 
 
-⭐️ 46.9K 
+⭐️ 47K 
 
 Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS 
 
@@ -1898,7 +1898,7 @@ CHANGELOG generator implemented in Go (Golang).
 
 #### [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) 
 
-⭐️ 1K 
+⭐️ 1.2K 
 
 :robot: Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. Supports ggml compatible models, for instance: LLaMA, alpaca, gpt4all, vicuna, koala, gpt4all-j, cerebras 
 
@@ -2072,7 +2072,7 @@ Web and API based SMTP testing
 
 #### [milvus-io/milvus](https://github.com/milvus-io/milvus) 
 
-⭐️ 17.7K 
+⭐️ 17.8K 
 
 A cloud-native vector database, storage for next generation AI applications 
 
@@ -2116,7 +2116,7 @@ A cli that exposes your local resources to kubernetes
 
 #### [openfga/openfga](https://github.com/openfga/openfga) 
 
-⭐️ 918 
+⭐️ 928 
 
 A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar 
 
@@ -2180,7 +2180,7 @@ Headless CMS with automatic JSON API. Featuring auto-HTTPS from Let's Encrypt, H
 
 #### [projectdiscovery/katana](https://github.com/projectdiscovery/katana) 
 
-⭐️ 6.2K 
+⭐️ 6.3K 
 
 A next-generation crawling and spidering framework. 
 
@@ -2450,7 +2450,7 @@ Awesome Docker Compose samples
 
 #### [edelstone/tints-and-shades](https://github.com/edelstone/tints-and-shades) 
 
-⭐️ 437 
+⭐️ 438 
 
 🌈 Display tints and shades of a given hex color in 10% increments. 
 
@@ -2642,7 +2642,7 @@ A strongly-typed language that compiles to JavaScript
 
 #### [tmspzz/Rome](https://github.com/tmspzz/Rome) 
 
-⭐️ 807 
+⭐️ 806 
 
 Carthage cache for S3, Minio, Ceph, Google Storage, Artifactory and many others  
 
@@ -2710,7 +2710,7 @@ Image Cropping Library for Android, optimized for Camera / Gallery.
 
 #### [AudioRoute/AudioRoute-SDK](https://github.com/AudioRoute/AudioRoute-SDK) 
 
-⭐️ 38 
+⭐️ 39 
 
 AudioRoute SDK and sample projects (Delay effect, Simple synth and Hostsample host) 
 
@@ -2720,7 +2720,7 @@ AudioRoute SDK and sample projects (Delay effect, Simple synth and Hostsample ho
 
 #### [BCsl/GalleryLayoutManager](https://github.com/BCsl/GalleryLayoutManager) 
 
-⭐️ 870 
+⭐️ 871 
 
 New way to implements ViewPager/Gallery in Android with RecycleView 
 
@@ -2944,7 +2944,7 @@ Telegram for Android source
 
 #### [DylanCaiCoding/LoadingStateView](https://github.com/DylanCaiCoding/LoadingStateView) 
 
-⭐️ 616 
+⭐️ 619 
 
 Decoupling the code of  toolbar or loading status view.  (深度解耦标题栏，解耦加载中、加载失败、无数据等缺省页，支持两行代码集成到基类) 
 
@@ -3002,7 +3002,7 @@ An Android custom ListView and ScrollView with pull to zoom-in.
 
 #### [FutureMind/recycler-fast-scroll](https://github.com/FutureMind/recycler-fast-scroll) 
 
-⭐️ 484 
+⭐️ 485 
 
 Provides fast scroll and section idexer for recycler view 
 
@@ -3050,7 +3050,7 @@ Material themed DateTimePickers from the Android framework for all API levels (A
 
 #### [GoogleChrome/android-browser-helper](https://github.com/GoogleChrome/android-browser-helper) 
 
-⭐️ 569 
+⭐️ 570 
 
 The Android Browser Helper library helps developers use Custom Tabs and Trusted Web Activities on top of the AndroidX browser support library. 
 
@@ -3144,7 +3144,7 @@ Video trimmer Control for Android from INTUZ
 
 #### [JackTuoTuo/VerificationCodeView](https://github.com/JackTuoTuo/VerificationCodeView) 
 
-⭐️ 379 
+⭐️ 380 
 
 正方形验证码输入框 
 
@@ -3196,7 +3196,7 @@ Shimo is an adapter for Moshi which randomizes the order of keys when serializin
 
 #### [JanssenProject/jans](https://github.com/JanssenProject/jans) 
 
-⭐️ 206 
+⭐️ 208 
 
 Welcome to the Janssen Project, an open standards-based digital Identity platform introducing Agama, a programming language for identity orchestration. 
 
@@ -3344,7 +3344,7 @@ No clever tagline needed.
 
 #### [Liberuman/ShadowDrawable](https://github.com/Liberuman/ShadowDrawable) 
 
-⭐️ 541 
+⭐️ 542 
 
 Android 阴影的实现 
 
@@ -3490,7 +3490,7 @@ This library apply video filter on generate an Mp4 and on ExoPlayer video and  V
 
 #### [MasayukiSuda/Mp4Composer-android](https://github.com/MasayukiSuda/Mp4Composer-android) 
 
-⭐️ 871 
+⭐️ 872 
 
 This library generate an Mp4 movie using Android MediaCodec API and apply filter, scale, trim, transcode, crop, timeScale, mute and rotate Mp4. 
 
@@ -3656,7 +3656,7 @@ A custom dialog that allow you to set a start time and end time.
 
 #### [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor) 
 
-⭐️ 113 
+⭐️ 118 
 
 Powerful android apk editor - aapt/aapt2 independent 
 
@@ -3674,7 +3674,7 @@ Android OpenGL ES 2.0/3.0 Engine
 
 #### [RamiJ3mli/PercentageChartView](https://github.com/RamiJ3mli/PercentageChartView) 
 
-⭐️ 369 
+⭐️ 370 
 
 An Android percentage chart that displays the progress of any single given task or information. 
 
@@ -4080,7 +4080,7 @@ Fast Android Development. Easy maintainance.
 
 #### [androidx/constraintlayout](https://github.com/androidx/constraintlayout) 
 
-⭐️ 993 
+⭐️ 994 
 
 ConstraintLayout is an Android layout component which allows you to position and size widgets in a flexible way 
 
@@ -4088,7 +4088,7 @@ ConstraintLayout is an Android layout component which allows you to position and
 
 #### [androidx/media](https://github.com/androidx/media) 
 
-⭐️ 440 
+⭐️ 441 
 
 Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android 
 
@@ -4144,7 +4144,7 @@ Widget which acts as a number counter which changes its number on +/- press.
 
 #### [ashqal/MD360Player4Android](https://github.com/ashqal/MD360Player4Android) 
 
-⭐️ 1K 
+⭐️ 1.1K 
 
 It is a lite library to render 360 degree panorama video for Android. VR Player. 
 
@@ -4360,7 +4360,7 @@ A control/container with an arrow for Android, which can be fully customized by 
 
 #### [ctongfei/progressbar](https://github.com/ctongfei/progressbar) 
 
-⭐️ 947 
+⭐️ 948 
 
 Terminal-based progress bar for Java / JVM 
 
@@ -4410,7 +4410,7 @@ Android library (AAR). Highly configurable, easily extendable deep zoom view for
 
 #### [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) 
 
-⭐️ 31.7K 
+⭐️ 31.8K 
 
 Free universal database tool and SQL client 
 
@@ -4506,7 +4506,7 @@ A styleable DatePicker for Android using the old spinner style (NumberPickers)
 
 #### [duanhong169/PickerView](https://github.com/duanhong169/PickerView) 
 
-⭐️ 241 
+⭐️ 242 
 
 🕘 Android滚动选择器（省市区联动选择、日期选择、时间选择） 
 
@@ -4628,7 +4628,7 @@ Makes it easy to create beautiful preference screens for your apps
 
 #### [fishwjy/VideoCompressor](https://github.com/fishwjy/VideoCompressor) 
 
-⭐️ 847 
+⭐️ 848 
 
 A High-performance video compressor for Android using Hardware decoding and encoding API(MediaCodec). 
 
@@ -5044,7 +5044,7 @@ Android-Video-Trimmer项目实现了对长短视频进行片段的裁剪选择�
 
 #### [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) 
 
-⭐️ 81.2K 
+⭐️ 81.3K 
 
 Design patterns implemented in Java 
 
@@ -5136,7 +5136,7 @@ For Android studio 图片处理 1、图片编辑(图片添加，文字添加)，
 
 #### [java-diff-utils/java-diff-utils](https://github.com/java-diff-utils/java-diff-utils) 
 
-⭐️ 999 
+⭐️ 1K 
 
 Diff Utils library is an OpenSource library for performing the comparison / diff operations between texts or some kind of data: computing diffs, applying patches, generating unified diffs or parsing them, generating diff output for easy future displaying (like side-by-side view) and so on. 
 
@@ -5400,7 +5400,7 @@ Use ViewPagers in Bottom Sheets!
 
 #### [linkedin/LiTr](https://github.com/linkedin/LiTr) 
 
-⭐️ 513 
+⭐️ 514 
 
 Lightweight hardware accelerated video/audio transcoder for Android. 
 
@@ -5452,7 +5452,7 @@ An android library to make swipe more easier and more powerful. Android各种侧
 
 #### [lukeaschenbrenner/TxtNet-Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser) 
 
-⭐️ 617 
+⭐️ 622 
 
 An app that lets you browse the web over SMS 
 
@@ -5658,7 +5658,7 @@ MongoDB Kafka Connector
 
 #### [mtjsoft/GridPager](https://github.com/mtjsoft/GridPager) 
 
-⭐️ 309 
+⭐️ 310 
 
 GridViewPager组件：采用ViewPager2 + FlexBoxLayout 实现方式，轻松实现类似美团首页分类多页展示。也可用于表情面板的展示。 链式调用，属性配置，几行代码轻松搞定。 
 
@@ -5702,7 +5702,7 @@ An Android tool to compresses your GIFs into lightweight MP4 video using fast, h
 
 #### [natario1/Transcoder](https://github.com/natario1/Transcoder) 
 
-⭐️ 672 
+⭐️ 673 
 
 🎞 Hardware-accelerated video transcoding using Android MediaCodec APIs. Supports cropping, concatenation, clipping, audio processing, video speed and much more. 
 
@@ -5764,7 +5764,7 @@ A group of flowable toggle buttons, with multiple / single selection support and
 
 #### [ngs-doo/dsl-json](https://github.com/ngs-doo/dsl-json) 
 
-⭐️ 877 
+⭐️ 878 
 
 High performance JVM JSON library 
 
@@ -6618,7 +6618,7 @@ BottomSheet behavior with collapsed, expanded and anchor states
 
 #### [twitter/Serial](https://github.com/twitter/Serial) 
 
-⭐️ 960 
+⭐️ 962 
 
 Light-weight, fast framework for object serialization in Java, with Android support. 
 
@@ -7000,7 +7000,7 @@ Using your photos to create cool videos.(高仿抖音照片电影功能)
 
 #### [yellowcath/VideoProcessor](https://github.com/yellowcath/VideoProcessor) 
 
-⭐️ 835 
+⭐️ 836 
 
 process video(cut & scale & increase & decrease & reverse) with mediacodec 
 
@@ -7024,7 +7024,7 @@ A Job Queue specifically written for Android to easily schedule jobs (tasks) tha
 
 #### [youlookwhat/ByRecyclerView](https://github.com/youlookwhat/ByRecyclerView) 
 
-⭐️ 684 
+⭐️ 685 
 
 🔥 RecyclerView 下拉刷新、上拉松手/自动加载更多、item点击/长按、item局部刷新、头布局/尾布局/状态布局、万能分割线、Skeleton骨架图、极简adapter、嵌套滑动置顶 
 
@@ -7090,7 +7090,7 @@ Use RecyclerView to achieve card swipe layout , like Tantan . (模仿探探卡�
 
 #### [yuruiyin/RichEditor](https://github.com/yuruiyin/RichEditor) 
 
-⭐️ 280 
+⭐️ 281 
 
 基于原生EditText+span实现的Android富文本编辑器 
 
@@ -7148,7 +7148,7 @@ a simple android video edit app and relating sdk
 
 #### [zhaolewei/ZlwAudioRecorder](https://github.com/zhaolewei/ZlwAudioRecorder) 
 
-⭐️ 791 
+⭐️ 792 
 
 AudioRecorder: Android 录音及录音可视化相关lib,支持pcm、wav、mp3音频的录制 
 
@@ -7172,7 +7172,7 @@ Southeast Asia Natural Language Processing [Thai Vietnamese Khmer Lao Burmese(My
 
 #### [zhongjihao/AVMediaCodecMP4](https://github.com/zhongjihao/AVMediaCodecMP4) 
 
-⭐️ 101 
+⭐️ 102 
 
 Android平台Camera采集预览nv21格式数据，AudioRecord采集音频pcm数据，使用MediaCodec分别进行h264和AAC硬编码，通过MediaMuxer合成MP4 
 
@@ -7342,7 +7342,7 @@ Syntactic analysis toolkit, language-agnostic parser generator.
 
 #### [Donaldcwl/browser-image-compression](https://github.com/Donaldcwl/browser-image-compression) 
 
-⭐️ 885 
+⭐️ 886 
 
 Image compression in web browser 
 
@@ -7502,7 +7502,7 @@ A sandboxed JavaScript interpreter in JavaScript.
 
 #### [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) 
 
-⭐️ 13.1K 
+⭐️ 13.2K 
 
 Docker container for managing Nginx proxy hosts with a simple, powerful interface 
 
@@ -7528,7 +7528,7 @@ A modern reverse proxy for node
 
 #### [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) 
 
-⭐️ 6.1K 
+⭐️ 6.2K 
 
 Connect APIs, remarkably fast.  Free for developers. 
 
@@ -7584,7 +7584,7 @@ Traverse an ESTree-compliant AST
 
 #### [Rich-Harris/headless-qr](https://github.com/Rich-Harris/headless-qr) 
 
-⭐️ 170 
+⭐️ 178 
 
 A simple, modern QR code library 
 
@@ -7860,7 +7860,7 @@ Easily transcode media using Node.js 🎶
 
 #### [ananay/apple-auth](https://github.com/ananay/apple-auth) 
 
-⭐️ 287 
+⭐️ 288 
 
 Sign in with Apple for Node.js 
 
@@ -7868,7 +7868,7 @@ Sign in with Apple for Node.js
 
 #### [anthumchris/fetch-stream-audio](https://github.com/anthumchris/fetch-stream-audio) 
 
-⭐️ 259 
+⭐️ 260 
 
 Low Latency web audio playback examples for decoding audio streams in chunks with Fetch & Streams APIs 
 
@@ -7886,7 +7886,7 @@ Instantly decode Ogg Opus audio streams in chunks with JavaScript & WebAssembly 
 
 #### [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 
 
-⭐️ 54.5K 
+⭐️ 54.6K 
 
 :zap: Dynamically generated stats for your github readmes 
 
@@ -7906,7 +7906,7 @@ Universal pan and zoom library (DOM, SVG, Custom)
 
 #### [anvilco/spectaql](https://github.com/anvilco/spectaql) 
 
-⭐️ 870 
+⭐️ 871 
 
 Autogenerate static GraphQL API documentation 
 
@@ -7984,7 +7984,7 @@ An Ogg demuxer for aurora.js ported using emscripten
 
 #### [audiojs/audio-decode](https://github.com/audiojs/audio-decode) 
 
-⭐️ 100 
+⭐️ 101 
 
 Minimal audio decoders layer 
 
@@ -8232,7 +8232,7 @@ JSS is an authoring tool for CSS which uses JavaScript as a host language.
 
 #### [ctrlplusb/easy-peasy](https://github.com/ctrlplusb/easy-peasy) 
 
-⭐️ 4.9K 
+⭐️ 5K 
 
 Vegetarian friendly state for React 
 
@@ -8394,7 +8394,7 @@ Adds Nuxt page data to route meta at build time. Also supports TypeScript.
 
 #### [easingthemes/ssh-deploy](https://github.com/easingthemes/ssh-deploy) 
 
-⭐️ 805 
+⭐️ 807 
 
 GitHub Action for deploying code via rsync over ssh. (with NodeJS) 
 
@@ -8520,7 +8520,7 @@ A React framework for building text editors.
 
 #### [facebook/react](https://github.com/facebook/react) 
 
-⭐️ 206.3K 
+⭐️ 206.4K 
 
 The library for web and native user interfaces 
 
@@ -8708,7 +8708,7 @@ The fastest frontend for the headless web. Build modern websites with React.
 
 #### [github/branch-deploy](https://github.com/github/branch-deploy) 
 
-⭐️ 175 
+⭐️ 174 
 
 Enabling Branch Deployments through IssueOps with GitHub Actions 
 
@@ -9236,7 +9236,7 @@ The Full-Stack Web Framework for Go
 
 #### [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) 
 
-⭐️ 16K 
+⭐️ 16.1K 
 
 expose yourself 
 
@@ -9256,7 +9256,7 @@ A fancy self-hosted monitoring tool
 
 #### [lovell/limax](https://github.com/lovell/limax) 
 
-⭐️ 523 
+⭐️ 524 
 
 Node.js module to generate URL slugs. Another one? This one cares about i18n and transliterates non-Latin scripts to conform to the RFC3986 standard. Mostly API-compatible with similar modules. 
 
@@ -9316,7 +9316,7 @@ A tiny (240B to 501B) and fast utility to "deep clone" Objects, Arrays, Dates, R
 
 #### [lukeed/mri](https://github.com/lukeed/mri) 
 
-⭐️ 527 
+⭐️ 528 
 
 Quickly scan for CLI flags and arguments 
 
@@ -9686,7 +9686,7 @@ JavaScript 3D Library.
 
 #### [mui/material-ui](https://github.com/mui/material-ui) 
 
-⭐️ 86K 
+⭐️ 86.1K 
 
 MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design. 
 
@@ -9752,7 +9752,7 @@ Low-code programming for event-driven applications
 
 #### [nodeca/image-blob-reduce](https://github.com/nodeca/image-blob-reduce) 
 
-⭐️ 206 
+⭐️ 208 
 
 Resize image blobs with high quality. Pica's wrapper to work with file inputs. 
 
@@ -9788,7 +9788,7 @@ Fast lexer to extract named exports via analysis from CommonJS modules
 
 #### [nodejs/node](https://github.com/nodejs/node) 
 
-⭐️ 94.9K 
+⭐️ 95K 
 
 Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles: 
 
@@ -9808,7 +9808,7 @@ An HTTP/1.1 client, written from scratch for Node.js
 
 #### [nodejs-mobile/nodejs-mobile](https://github.com/nodejs-mobile/nodejs-mobile) 
 
-⭐️ 172 
+⭐️ 175 
 
 Full-fledged Node.js on Android and iOS 
 
@@ -9846,7 +9846,7 @@ A tiny and mostly spec-compliant WebWorker polyfill
 
 #### [nolimits4web/swiper](https://github.com/nolimits4web/swiper) 
 
-⭐️ 34.9K 
+⭐️ 35K 
 
 Most modern mobile touch slider with hardware accelerated transitions 
 
@@ -10096,7 +10096,7 @@ Postgres.js - The Fastest full featured PostgreSQL client for Node.js and Deno
 
 #### [postcss/postcss-100vh-fix](https://github.com/postcss/postcss-100vh-fix) 
 
-⭐️ 881 
+⭐️ 882 
 
 PostCSS plugin to fix height/min-height: 100vh on iOS 
 
@@ -10254,7 +10254,7 @@ A no-frills, simple virtual piano web app
 
 #### [rvanwijnen/spectral.js](https://github.com/rvanwijnen/spectral.js) 
 
-⭐️ 316 
+⭐️ 317 
 
 --- 
 
@@ -10450,7 +10450,7 @@ Move a file - Even works across devices
 
 #### [sindresorhus/normalize-url](https://github.com/sindresorhus/normalize-url) 
 
-⭐️ 777 
+⭐️ 778 
 
 Normalize a URL 
 
@@ -10514,7 +10514,7 @@ qr code generator
 
 #### [speed-highlight/core](https://github.com/speed-highlight/core) 
 
-⭐️ 154 
+⭐️ 155 
 
 🌈 Light, fast, and easy to use, dependencies free javascript syntax highlighter, with automatic language detection 
 
@@ -10660,6 +10660,14 @@ Nimble, streamable HTTP client for Node.js. With proxy, iconv, cookie, deflate &
 
 --- 
 
+#### [tomayac/sqlite-wasm](https://github.com/tomayac/sqlite-wasm) 
+
+⭐️ 63 
+
+SQLite Wasm conveniently wrapped as an ES Module. 
+
+--- 
+
 #### [transitive-bullshit/cf-image-proxy](https://github.com/transitive-bullshit/cf-image-proxy) 
 
 ⭐️ 31 
@@ -10688,7 +10696,7 @@ The next open source file uploader for web browsers :dog:
 
 #### [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) 
 
-⭐️ 169K 
+⭐️ 169.1K 
 
 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings 
 
@@ -10768,7 +10776,7 @@ The ESXToken class
 
 #### [unjs/ohash](https://github.com/unjs/ohash) 
 
-⭐️ 262 
+⭐️ 266 
 
 Super fast hashing library based on murmurhash3 written in Vanilla JS 
 
@@ -10894,7 +10902,7 @@ CenterNet: Tiny Object Detection for TFJS and NodeJS
 
 #### [wayfair/dociql](https://github.com/wayfair/dociql) 
 
-⭐️ 325 
+⭐️ 326 
 
 A beautiful static documentation generator for GraphQL  
 
@@ -11008,7 +11016,7 @@ Update notifications for your CLI app
 
 #### [yisibl/resvg-js](https://github.com/yisibl/resvg-js) 
 
-⭐️ 876 
+⭐️ 877 
 
 A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs. 
 
@@ -11078,7 +11086,7 @@ High-Resolution Image Synthesis with Latent Diffusion Models
 
 #### [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) 
 
-⭐️ 52.3K 
+⭐️ 52.4K 
 
 A latent text-to-image diffusion model 
 
@@ -11088,7 +11096,7 @@ A latent text-to-image diffusion model
 
 #### [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) 
 
-⭐️ 7.5K 
+⭐️ 7.6K 
 
 Marrying Grounding DINO with Segment Anything & Stable Diffusion & Tag2Text & BLIP & Whisper & ChatBot - Automatically Detect , Segment and Generate Anything with Image, Text, and Audio Inputs 
 
@@ -11112,7 +11120,7 @@ Tacotron 2 - PyTorch implementation with faster-than-realtime inference
 
 #### [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) 
 
-⭐️ 12.4K 
+⭐️ 12.7K 
 
 StableLM: Stability AI Language Models 
 
@@ -11138,7 +11146,7 @@ A repository for the Demo of Thonburian Whisper: An Automatic Speech Recognition
 
 #### [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) 
 
-⭐️ 9.8K 
+⭐️ 9.9K 
 
 stable diffusion webui colab 
 
@@ -11146,7 +11154,7 @@ stable diffusion webui colab
 
 #### [cloneofsimo/lora](https://github.com/cloneofsimo/lora) 
 
-⭐️ 4.1K 
+⭐️ 4.2K 
 
 Using Low-rank adaptation to quickly fine-tune diffusion models. 
 
@@ -11166,7 +11174,7 @@ A real-time approach for mapping all human pixels of 2D RGB images to a 3D surfa
 
 #### [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) 
 
-⭐️ 29.9K 
+⭐️ 30.1K 
 
 The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. 
 
@@ -11194,6 +11202,16 @@ A Code-First Introduction to NLP course
 
 --- 
 
+#### [huggingface/blog](https://github.com/huggingface/blog) 
+
+⭐️ 870 
+
+Public repo for HF blog posts 
+
+[https://hf.co/blog](https://hf.co/blog)
+
+--- 
+
 #### [mildsunrise/darter](https://github.com/mildsunrise/darter) 
 
 ⭐️ 253 
@@ -11204,7 +11222,7 @@ A Code-First Introduction to NLP course
 
 #### [openai/CLIP](https://github.com/openai/CLIP) 
 
-⭐️ 14.4K 
+⭐️ 14.5K 
 
 CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image 
 
@@ -11406,7 +11424,7 @@ An Awesome Kotlin Location library to retrieve location merely in 3 lines of cod
 
 #### [Bryanx/themed-toggle-button-group](https://github.com/Bryanx/themed-toggle-button-group) 
 
-⭐️ 710 
+⭐️ 711 
 
 Customisable toggle buttons inside a FlexboxLayout. 
 
@@ -11498,7 +11516,7 @@ Stepper Touch for Android based on MaterialUp submission
 
 #### [DevSrSouza/svg-to-compose](https://github.com/DevSrSouza/svg-to-compose) 
 
-⭐️ 271 
+⭐️ 272 
 
 Converts SVG and Android Vector Drawable in Jetpack Compose code 
 
@@ -11544,7 +11562,7 @@ Libraries for running GraphQL in Kotlin
 
 #### [G00fY2/quickie](https://github.com/G00fY2/quickie) 
 
-⭐️ 248 
+⭐️ 250 
 
 📷🔍 Android QR code scanning library 
 
@@ -11596,7 +11614,7 @@ A configurable debug drawer to use in Android apps. Inspired by u2020.
 
 #### [GuilhE/CircularProgressView](https://github.com/GuilhE/CircularProgressView) 
 
-⭐️ 204 
+⭐️ 205 
 
 A fancy CircularProgressView 
 
@@ -11956,7 +11974,7 @@ Kotlin multiplatform / multi-format serialization
 
 #### [L4Digital/FastScroll](https://github.com/L4Digital/FastScroll) 
 
-⭐️ 857 
+⭐️ 858 
 
 A ListView-like FastScroller for Android’s RecyclerView. 
 
@@ -11964,7 +11982,7 @@ A ListView-like FastScroller for Android’s RecyclerView.
 
 #### [LDRAlighieri/Corbind](https://github.com/LDRAlighieri/Corbind) 
 
-⭐️ 460 
+⭐️ 461 
 
 ⚡ Kotlin Coroutines binding APIs for Android UI widgets from the platform and support libraries 
 
@@ -12096,7 +12114,7 @@ Android Bottom Navigation multiple stack manager
 
 #### [ParkSangGwon/TedImagePicker](https://github.com/ParkSangGwon/TedImagePicker) 
 
-⭐️ 467 
+⭐️ 468 
 
 TedImagePicker is simple/beautiful/smart image picker 
 
@@ -12146,7 +12164,7 @@ Automatic CoroutineDispatcher injection and extensions for kotlinx.coroutines
 
 #### [ReactiveCircus/FlowBinding](https://github.com/ReactiveCircus/FlowBinding) 
 
-⭐️ 887 
+⭐️ 888 
 
 Kotlin Coroutines Flow binding APIs for Android's platform and unbundled UI widgets, inspired by RxBinding. 
 
@@ -12270,7 +12288,7 @@ A premium app for managing and editing your photos, videos, GIFs without ads
 
 #### [SmartToolFactory/Animation-Tutorials](https://github.com/SmartToolFactory/Animation-Tutorials) 
 
-⭐️ 726 
+⭐️ 727 
 
 🍭🚀💗  Tutorials about animations with Animators, Animated Vector Drawables, Shared Transitions, and more 
 
@@ -12470,7 +12488,7 @@ A lightweight tool that simplifies testing of the process death scenario.
 
 #### [YvesCheung/RollingText](https://github.com/YvesCheung/RollingText) 
 
-⭐️ 768 
+⭐️ 769 
 
 Android TextView with rolling animation 
 
@@ -12486,7 +12504,7 @@ A Kotlin compiler plugin that generates redacted toString() implementations.
 
 #### [aclassen/ComposeReorderable](https://github.com/aclassen/ComposeReorderable) 
 
-⭐️ 486 
+⭐️ 487 
 
 Enables reordering by drag and drop in Jetpack Compose (Desktop) LazyList & LazyGrid. 
 
@@ -12774,7 +12792,7 @@ Breathing toolbar library in Kotlin
 
 #### [alxrm/audiowave-progressbar](https://github.com/alxrm/audiowave-progressbar) 
 
-⭐️ 471 
+⭐️ 472 
 
 Lightweight audiowave progressbar for Android 
 
@@ -13096,7 +13114,7 @@ With MVVM Architecture pattern using Android Architecture Components This is a s
 
 #### [c2mInc/C2MStoryViewer](https://github.com/c2mInc/C2MStoryViewer) 
 
-⭐️ 291 
+⭐️ 292 
 
 This repository contains a detailed sample app for displaying stories like Instagram. 
 
@@ -13150,7 +13168,7 @@ Build a StateFlow stream using Jetpack Compose
 
 #### [cashapp/redwood](https://github.com/cashapp/redwood) 
 
-⭐️ 948 
+⭐️ 949 
 
 Multiplatform reactive UI for Android, iOS, and web using Kotlin and Jetpack Compose 
 
@@ -13214,7 +13232,7 @@ Insetter is a library to help apps handle WindowInsets more easily
 
 #### [chrisbanes/snapper](https://github.com/chrisbanes/snapper) 
 
-⭐️ 447 
+⭐️ 446 
 
 A snapping fling behavior for Jetpack Compose 
 
@@ -13428,7 +13446,7 @@ Playing around with real-time audio processing on andriod with rust
 
 #### [facebookincubator/dataclassgenerate](https://github.com/facebookincubator/dataclassgenerate) 
 
-⭐️ 124 
+⭐️ 125 
 
 DataClassGenerate (or simply DCG) is a Kotlin compiler plugin that addresses an Android APK size overhead from Kotlin data classes.  
 
@@ -13492,7 +13510,7 @@ A library which configures a divider for a RecyclerView.
 
 #### [fornewid/material-motion-compose](https://github.com/fornewid/material-motion-compose) 
 
-⭐️ 395 
+⭐️ 394 
 
 Material Motion for Jetpack Compose and Compose Multiplatform 
 
@@ -13778,7 +13796,7 @@ Learn how to make online games, and apps for Android O, like Pokémon , twitter,
 
 #### [hypeapps/MaterialTimelineView](https://github.com/hypeapps/MaterialTimelineView) 
 
-⭐️ 457 
+⭐️ 458 
 
 With MaterialTimelineView you can easily create a material looking timeline. 
 
@@ -13910,7 +13928,7 @@ CoordinatorLayout 自定义Behavior 高仿美团商家详情界面 实现页面�
 
 #### [imandolatkia/Android-Animated-Theme-Manager](https://github.com/imandolatkia/Android-Animated-Theme-Manager) 
 
-⭐️ 619 
+⭐️ 620 
 
 create your custom themes and change them dynamically with ripple animation 
 
@@ -13984,7 +14002,7 @@ Gif LazyVerticalGrid MVVM using Dagger 2 + Hilt with Retrofit 2, Moshi, Kotlin C
 
 #### [javalin/javalin](https://github.com/javalin/javalin) 
 
-⭐️ 6.4K 
+⭐️ 6.5K 
 
 A simple and modern Java and Kotlin web framework 
 
@@ -14290,7 +14308,7 @@ Small, smart and generic adapter for recycler view with easy and advanced data t
 
 #### [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) 
 
-⭐️ 902 
+⭐️ 904 
 
 Yet another barcode scanner for Android 
 
@@ -14308,7 +14326,7 @@ A simple code editor with syntax highlighting and pinch to zoom
 
 #### [massivemadness/Squircle-CE](https://github.com/massivemadness/Squircle-CE) 
 
-⭐️ 669 
+⭐️ 670 
 
 👨‍💻 Squircle CE is a fast and free multi-language code editor for Android 
 
@@ -14540,7 +14558,7 @@ The lightweight, efficient Android wrapper for Google's Firestore model data.
 
 #### [natario1/ZoomLayout](https://github.com/natario1/ZoomLayout) 
 
-⭐️ 928 
+⭐️ 930 
 
 2D zoom and pan behavior for View hierarchies, images, video streams, and much more, written in Kotlin for Android. 
 
@@ -14756,7 +14774,7 @@ The practice of MVVM + Jetpack architecture in Android.
 
 #### [quiph/RecyclerView-FastScroller](https://github.com/quiph/RecyclerView-FastScroller) 
 
-⭐️ 819 
+⭐️ 820 
 
 A fully customizable Fast Scroller for the RecyclerView in Android, written in Kotlin 
 
@@ -15096,7 +15114,7 @@ Color picker library for Android
 
 #### [skydoves/ElasticViews](https://github.com/skydoves/ElasticViews) 
 
-⭐️ 770 
+⭐️ 771 
 
 :sparkles: An easy way to implement an elastic touch effect for Android. 
 
@@ -15120,7 +15138,7 @@ Color picker library for Android
 
 #### [skydoves/ProgressView](https://github.com/skydoves/ProgressView) 
 
-⭐️ 687 
+⭐️ 688 
 
 🌊 A polished and flexible ProgressView, fully customizable with animations. 
 
@@ -15362,7 +15380,7 @@ A library for Instagram-inspired stories for Android.
 
 #### [tfcporciuncula/flow-preferences](https://github.com/tfcporciuncula/flow-preferences) 
 
-⭐️ 241 
+⭐️ 240 
 
 Kotlin Flow version of rx-preferences -- Coroutines support for Android SharedPreferences 
 
@@ -15538,7 +15556,7 @@ A Kotlin lexer framework with an easy-to-use DSL
 
 #### [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin) 
 
-⭐️ 915 
+⭐️ 916 
 
 A Gradle plugin that publishes your Android and Kotlin libraries, including sources and javadoc,  to Maven Central or any other Nexus instance. 
 
@@ -15574,7 +15592,7 @@ A circular Image View with a lot of perks. Including progress animation and high
 
 #### [vmadalin/easypermissions-ktx](https://github.com/vmadalin/easypermissions-ktx) 
 
-⭐️ 344 
+⭐️ 345 
 
 🔓 Kotlin version of the popular google/easypermissions wrapper library to simplify basic system permissions logic on Android M or higher. 
 
@@ -15650,7 +15668,7 @@ A lightweight, plug-and-play indefinite pager indicator for RecyclerViews & View
 
 #### [wuseal/JsonToKotlinClass](https://github.com/wuseal/JsonToKotlinClass) 
 
-⭐️ 2.9K 
+⭐️ 2.8K 
 
 🚀 Plugin for Android Studio And IntelliJ Idea to generate Kotlin data class code from JSON text ( Json to Kotlin ) 
 
@@ -15764,7 +15782,7 @@ The Cloud-Native API Gateway
 
 #### [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) 
 
-⭐️ 128.6K 
+⭐️ 128.7K 
 
 A list of Free Software network services and web applications which can be hosted on your own servers 
 
@@ -15954,7 +15972,7 @@ khPOS (Khmer Part-of-Speech) Corpus for Khmer NLP Research and Developments
 
 #### [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 
 
-⭐️ 68.9K 
+⭐️ 69.2K 
 
 Stable Diffusion web UI 
 
@@ -15962,7 +15980,7 @@ Stable Diffusion web UI
 
 #### [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) 
 
-⭐️ 41.2K 
+⭐️ 41.3K 
 
 Clone a voice in 5 seconds to generate arbitrary speech in real-time 
 
@@ -15988,7 +16006,7 @@ Open Source Feature Flagging and Remote Config Service. Host on-prem or use our 
 
 #### [HazyResearch/meerkat](https://github.com/HazyResearch/meerkat) 
 
-⭐️ 455 
+⭐️ 461 
 
 Interactive data structures for evaluating foundation models. 
 
@@ -16040,7 +16058,7 @@ YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine
 
 #### [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) 
 
-⭐️ 7.3K 
+⭐️ 7.4K 
 
 WebUI extension for ControlNet 
 
@@ -16066,7 +16084,7 @@ StyleGAN2 - Official TensorFlow Implementation
 
 #### [PeterL1n/BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) 
 
-⭐️ 6.2K 
+⭐️ 6.3K 
 
 Real-Time High-Resolution Background Matting 
 
@@ -16108,7 +16126,7 @@ Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defe
 
 #### [Shivanandroy/simpleT5](https://github.com/Shivanandroy/simpleT5) 
 
-⭐️ 295 
+⭐️ 296 
 
 simpleT5 is built on top of PyTorch-lightning⚡️ and Transformers🤗 that lets you quickly train your T5 models. 
 
@@ -16116,7 +16134,7 @@ simpleT5 is built on top of PyTorch-lightning⚡️ and Transformers🤗 that le
 
 #### [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) 
 
-⭐️ 112.8K 
+⭐️ 114.9K 
 
 An experimental open-source attempt to make GPT-4 fully autonomous. 
 
@@ -16126,7 +16144,7 @@ An experimental open-source attempt to make GPT-4 fully autonomous.
 
 #### [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) 
 
-⭐️ 20.6K 
+⭐️ 20.8K 
 
 High-Resolution Image Synthesis with Latent Diffusion Models 
 
@@ -16246,7 +16264,7 @@ An all-in-one toolkit for computer vision
 
 #### [amitness/colab-tunnel](https://github.com/amitness/colab-tunnel) 
 
-⭐️ 72 
+⭐️ 74 
 
 Connect to Google Colab VM locally from VSCode 
 
@@ -16362,7 +16380,7 @@ A node-based image processing and AI upscaling GUI that makes it easy to chain t
 
 #### [chroma-core/chroma](https://github.com/chroma-core/chroma) 
 
-⭐️ 4.1K 
+⭐️ 4.2K 
 
 the AI-native open-source embedding database 
 
@@ -16382,7 +16400,7 @@ the AI-native open-source embedding database
 
 #### [civitai/sd_civitai_extension](https://github.com/civitai/sd_civitai_extension) 
 
-⭐️ 1.1K 
+⭐️ 1.2K 
 
 All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI 
 
@@ -16418,7 +16436,7 @@ CommonMark spec, with reference implementations in C and JavaScript
 
 #### [csteinmetz1/auraloss](https://github.com/csteinmetz1/auraloss) 
 
-⭐️ 472 
+⭐️ 473 
 
 Collection of audio-focused loss functions in PyTorch 
 
@@ -16434,7 +16452,7 @@ for Khmer Natural Language Processing and nextspell.com (Khmer Spellchecker)
 
 #### [databrickslabs/dolly](https://github.com/databrickslabs/dolly) 
 
-⭐️ 9.2K 
+⭐️ 9.3K 
 
 Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform 
 
@@ -16454,7 +16472,7 @@ Databricks’ Dolly, a large language model trained on the Databricks Machine Le
 
 #### [dunbar12138/pix2pix3D](https://github.com/dunbar12138/pix2pix3D) 
 
-⭐️ 1.3K 
+⭐️ 1.4K 
 
 pix2pix3D: Generating 3D Objects from 2D User Inputs 
 
@@ -16494,7 +16512,7 @@ End-to-End Speech Processing Toolkit
 
 #### [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) 
 
-⭐️ 929 
+⭐️ 930 
 
 [http://nip.io](http://nip.io)
 
@@ -16578,7 +16596,7 @@ Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 
 #### [fishslot/video_loopback_for_webui](https://github.com/fishslot/video_loopback_for_webui) 
 
-⭐️ 266 
+⭐️ 267 
 
 --- 
 
@@ -16604,7 +16622,7 @@ Composable transformations of Python+NumPy programs: differentiate, vectorize, J
 
 #### [google/maxtext](https://github.com/google/maxtext) 
 
-⭐️ 252 
+⭐️ 259 
 
 A simple, performant and scalable Jax LLM! 
 
@@ -16612,7 +16630,7 @@ A simple, performant and scalable Jax LLM!
 
 #### [google/speaker-id](https://github.com/google/speaker-id) 
 
-⭐️ 225 
+⭐️ 226 
 
 This repository contains audio samples and supplementary materials accompanying publications by the "Speaker, Voice and Language" team at Google. 
 
@@ -16623,6 +16641,12 @@ This repository contains audio samples and supplementary materials accompanying 
 ⭐️ 2.1K 
 
 Scenic: A Jax Library for Computer Vision Research and Beyond 
+
+--- 
+
+#### [google-research/t5x](https://github.com/google-research/t5x) 
+
+⭐️ 1.7K 
 
 --- 
 
@@ -16674,7 +16698,7 @@ Making large AI models cheaper, faster and more accessible
 
 #### [httpie/httpie](https://github.com/httpie/httpie) 
 
-⭐️ 27.4K 
+⭐️ 27.5K 
 
 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. 
 
@@ -16704,7 +16728,7 @@ Making large AI models cheaper, faster and more accessible
 
 #### [huggingface/peft](https://github.com/huggingface/peft) 
 
-⭐️ 4.6K 
+⭐️ 4.7K 
 
 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning. 
 
@@ -16712,13 +16736,13 @@ Making large AI models cheaper, faster and more accessible
 
 #### [huggingface/speechbox](https://github.com/huggingface/speechbox) 
 
-⭐️ 215 
+⭐️ 218 
 
 --- 
 
 #### [huggingface/transformers](https://github.com/huggingface/transformers) 
 
-⭐️ 96.1K 
+⭐️ 96.5K 
 
 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. 
 
@@ -16728,7 +16752,7 @@ Making large AI models cheaper, faster and more accessible
 
 #### [hwchase17/langchain](https://github.com/hwchase17/langchain) 
 
-⭐️ 31.3K 
+⭐️ 31.8K 
 
 ⚡ Building applications with LLMs through composability ⚡ 
 
@@ -16736,7 +16760,7 @@ Making large AI models cheaper, faster and more accessible
 
 #### [hyperonym/basaran](https://github.com/hyperonym/basaran) 
 
-⭐️ 664 
+⭐️ 669 
 
 Basaran is an open-source alternative to the OpenAI text completion API. It provides a compatible streaming API for your Hugging Face Transformers-based text generation models. 
 
@@ -16792,7 +16816,7 @@ Computing with Python functions.
 
 #### [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) 
 
-⭐️ 18.6K 
+⭐️ 18.7K 
 
 The simplest, fastest repository for training/finetuning medium-sized GPTs. 
 
@@ -16820,7 +16844,7 @@ Cross-platform, fast, feature-rich, GPU based terminal
 
 #### [kuielab/mdx-net](https://github.com/kuielab/mdx-net) 
 
-⭐️ 103 
+⭐️ 104 
 
 KUIELAB-MDX-Net got the 2nd place on the Leaderboard A and the 3rd place on the Leaderboard B in the MDX-Challenge ISMIR 2021 
 
@@ -16830,7 +16854,7 @@ KUIELAB-MDX-Net got the 2nd place on the Leaderboard A and the 3rd place on the 
 
 #### [kuleshov/audio-super-res](https://github.com/kuleshov/audio-super-res) 
 
-⭐️ 913 
+⭐️ 915 
 
 Audio super resolution using neural networks 
 
@@ -16854,7 +16878,7 @@ Android Studio maven repository for Allegro 5
 
 #### [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) 
 
-⭐️ 18K 
+⭐️ 18.1K 
 
 Let us control diffusion models! 
 
@@ -16862,7 +16886,7 @@ Let us control diffusion models!
 
 #### [lm-sys/FastChat](https://github.com/lm-sys/FastChat) 
 
-⭐️ 16.4K 
+⭐️ 16.5K 
 
 The release repo for "Vicuna: An Open Chatbot Impressing GPT-4" 
 
@@ -16880,7 +16904,7 @@ The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
 
 #### [lucidrains/CoCa-pytorch](https://github.com/lucidrains/CoCa-pytorch) 
 
-⭐️ 704 
+⭐️ 705 
 
 Implementation of CoCa, Contrastive Captioners are Image-Text Foundation Models, in Pytorch 
 
@@ -16908,7 +16932,7 @@ Train transformer language models with reinforcement learning.
 
 #### [marl/crepe](https://github.com/marl/crepe) 
 
-⭐️ 846 
+⭐️ 847 
 
 CREPE: A Convolutional REpresentation for Pitch Estimation -- pre-trained model (ICASSP 2018) 
 
@@ -16944,7 +16968,7 @@ DeepSpeed is a deep learning optimization library that makes distributed trainin
 
 #### [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) 
 
-⭐️ 32K 
+⭐️ 32.1K 
 
 --- 
 
@@ -16976,7 +17000,7 @@ DeepSpeech based forced alignment tool
 
 #### [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) 
 
-⭐️ 34.9K 
+⭐️ 35.2K 
 
 gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue 
 
@@ -16984,7 +17008,7 @@ gpt4all: an ecosystem of open-source chatbots trained on a massive collections o
 
 #### [nvbn/thefuck](https://github.com/nvbn/thefuck) 
 
-⭐️ 77K 
+⭐️ 77.1K 
 
 Magnificent app which corrects your previous console command. 
 
@@ -16992,7 +17016,7 @@ Magnificent app which corrects your previous console command.
 
 #### [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) 
 
-⭐️ 10.6K 
+⭐️ 10.7K 
 
 A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA. 
 
@@ -17018,7 +17042,7 @@ Point cloud diffusion for 3D model synthesis
 
 #### [openai/whisper](https://github.com/openai/whisper) 
 
-⭐️ 34.4K 
+⭐️ 34.5K 
 
 Robust Speech Recognition via Large-Scale Weak Supervision 
 
@@ -17052,7 +17076,7 @@ Python interface for forced audio alignment using HTK and SoX
 
 #### [ptswarm/reFlutter](https://github.com/ptswarm/reFlutter) 
 
-⭐️ 986 
+⭐️ 985 
 
 Flutter Reverse Engineering Framework 
 
@@ -17060,7 +17084,7 @@ Flutter Reverse Engineering Framework
 
 #### [public-apis/public-apis](https://github.com/public-apis/public-apis) 
 
-⭐️ 237.4K 
+⭐️ 237.5K 
 
 A collective list of free APIs 
 
@@ -17090,7 +17114,7 @@ aeneas is a Python/C library and a set of tools to automagically synchronize aud
 
 #### [rkcosmos/deepcut](https://github.com/rkcosmos/deepcut) 
 
-⭐️ 396 
+⭐️ 397 
 
 A Thai word tokenization library using Deep Neural Network 
 
@@ -17142,7 +17166,7 @@ LAVIS - A One-stop Library for Language-Vision Intelligence
 
 #### [salesforce/Merlion](https://github.com/salesforce/Merlion) 
 
-⭐️ 2.9K 
+⭐️ 3K 
 
 Merlion: A Machine Learning Framework for Time Series Intelligence 
 
@@ -17196,7 +17220,7 @@ Snips Python library to extract meaning from text
 
 #### [sooftware/conformer](https://github.com/sooftware/conformer) 
 
-⭐️ 649 
+⭐️ 651 
 
 PyTorch implementation of "Conformer: Convolution-augmented Transformer for Speech Recognition" (INTERSPEECH 2020) 
 
@@ -17212,7 +17236,7 @@ An upgraded version of Kantumruy.
 
 #### [suno-ai/bark](https://github.com/suno-ai/bark) 
 
-⭐️ 12.4K 
+⭐️ 13.2K 
 
 🔊 Text-Prompted Generative Audio Model 
 
@@ -17266,7 +17290,7 @@ Vocal Remover using Deep Neural Networks
 
 #### [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) 
 
-⭐️ 9.2K 
+⭐️ 9.3K 
 
 Source code for Twitter's Recommendation Algorithm 
 
@@ -17276,7 +17300,7 @@ Source code for Twitter's Recommendation Algorithm
 
 #### [ultralytics/yolov5](https://github.com/ultralytics/yolov5) 
 
-⭐️ 37.8K 
+⭐️ 37.9K 
 
 YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite 
 
@@ -17322,7 +17346,7 @@ The code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Goi
 
 #### [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) 
 
-⭐️ 45.9K 
+⭐️ 46K 
 
 A youtube-dl fork with additional features and fixes 
 
@@ -17332,7 +17356,7 @@ A youtube-dl fork with additional features and fixes
 
 #### [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) 
 
-⭐️ 119.8K 
+⭐️ 119.9K 
 
 Command-line program to download videos from YouTube.com and other video sites 
 
@@ -17424,6 +17448,14 @@ Determines which markup library to use to render a content file (e.g. README) on
 
 --- 
 
+#### [github-linguist/linguist](https://github.com/github-linguist/linguist) 
+
+⭐️ 11K 
+
+Language Savant. If your repository's language is being reported incorrectly, send us a pull request! 
+
+--- 
+
 #### [kakada/event_base_surveillance](https://github.com/kakada/event_base_surveillance) 
 
 ⭐️ 1 
@@ -17462,7 +17494,7 @@ Normalize emails like J.oh.n+sneaky@gmail.com into john@gmail.com
 
 #### [Atome-FE/llama-node](https://github.com/Atome-FE/llama-node) 
 
-⭐️ 334 
+⭐️ 337 
 
 Believe in AI democratization. llama for nodejs backed by llama-rs and llama.cpp, work locally on your laptop CPU. support llama/alpaca/gpt4all/vicuna model. 
 
@@ -17562,7 +17594,7 @@ A tiny Skia subset ported to Rust
 
 #### [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) 
 
-⭐️ 15.3K 
+⭐️ 15.4K 
 
  All Algorithms implemented in Rust  
 
@@ -17570,7 +17602,7 @@ A tiny Skia subset ported to Rust
 
 #### [alacritty/alacritty](https://github.com/alacritty/alacritty) 
 
-⭐️ 46.2K 
+⭐️ 46.3K 
 
 A cross-platform, OpenGL terminal emulator. 
 
@@ -17752,7 +17784,7 @@ An npm scripts runner written in Rust.
 
 #### [ellie/atuin](https://github.com/ellie/atuin) 
 
-⭐️ 6.7K 
+⭐️ 6.8K 
 
 🐢 Magical shell history 
 
@@ -17778,7 +17810,7 @@ Chromium running inside your terminal
 
 #### [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) 
 
-⭐️ 21.4K 
+⭐️ 21.5K 
 
 Secure and fast microVMs for serverless computing. 
 
@@ -17870,7 +17902,7 @@ A JavaScript compiler and TypeScript checker written in Rust with a focus on sta
 
 #### [laysakura/serde-encrypt](https://github.com/laysakura/serde-encrypt) 
 
-⭐️ 166 
+⭐️ 167 
 
 🔐 Encrypts all the Serialize. 
 
@@ -17878,7 +17910,7 @@ A JavaScript compiler and TypeScript checker written in Rust with a focus on sta
 
 #### [meilisearch/charabia](https://github.com/meilisearch/charabia) 
 
-⭐️ 147 
+⭐️ 148 
 
 Library used by Meilisearch to tokenize queries and documents 
 
@@ -18088,7 +18120,7 @@ A GPU-accelerated 2D graphics environment for Node.js
 
 #### [serde-rs/json](https://github.com/serde-rs/json) 
 
-⭐️ 3.8K 
+⭐️ 3.9K 
 
 Strongly typed JSON library for Rust 
 
@@ -18186,7 +18218,7 @@ Rust-based platform for the Web
 
 #### [tauri-apps/tauri](https://github.com/tauri-apps/tauri) 
 
-⭐️ 62.6K 
+⭐️ 62.7K 
 
 Build smaller, faster, and more secure desktop applications with a web frontend. 
 
@@ -18196,7 +18228,7 @@ Build smaller, faster, and more secure desktop applications with a web frontend.
 
 #### [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) 
 
-⭐️ 73 
+⭐️ 76 
 
 🚧 WIP 🚧 Vector database plugin for Postgres, written in Rust, specifically designed for LLM. 
 
@@ -18204,7 +18236,7 @@ Build smaller, faster, and more secure desktop applications with a web frontend.
 
 #### [tkellogg/dura](https://github.com/tkellogg/dura) 
 
-⭐️ 4.1K 
+⭐️ 4.2K 
 
 You shouldn't ever lose your work if you're using Git 
 
@@ -18230,7 +18262,7 @@ Converts SVG files to PDF.
 
 #### [typst/typst](https://github.com/typst/typst) 
 
-⭐️ 16.3K 
+⭐️ 16.4K 
 
 A new markup-based typesetting system that is powerful and easy to learn. 
 
@@ -18288,7 +18320,7 @@ High performance flexbox implementation written in rust
 
 #### [vmware-labs/wasm-workers-server](https://github.com/vmware-labs/wasm-workers-server) 
 
-⭐️ 299 
+⭐️ 300 
 
 🚀 An OSS project to develop and run serverless applications on WebAssembly 
 
@@ -18474,7 +18506,7 @@ Simple utility to relay tcp traffic to a specific host and port.
 
 #### [netlify/build-image](https://github.com/netlify/build-image) 
 
-⭐️ 498 
+⭐️ 499 
 
 This is the build image used for running automated builds 
 
@@ -18500,7 +18532,7 @@ A black hole for Internet advertisements
 
 #### [pixta-dev/repository-mirroring-action](https://github.com/pixta-dev/repository-mirroring-action) 
 
-⭐️ 184 
+⭐️ 185 
 
 A GitHub Action for mirroring a repository to another repository 
 
@@ -18800,7 +18832,7 @@ The better way to deal with JSON data in Swift.
 
 #### [VergeGroup/swift-Verge](https://github.com/VergeGroup/swift-Verge) 
 
-⭐️ 513 
+⭐️ 514 
 
 🟣 A robust Swift state-management framework designed for complex applications, featuring an integrated ORM for efficient data handling. 
 
@@ -18884,7 +18916,7 @@ A simple and customizable Markdown Parser for Swift
 
 #### [chrisdhaan/CDMarkdownKit](https://github.com/chrisdhaan/CDMarkdownKit) 
 
-⭐️ 226 
+⭐️ 225 
 
 An extensive Swift framework providing simple and customizable markdown parsing. 
 
@@ -18940,7 +18972,7 @@ macOS system monitor in your menu bar
 
 #### [fredyshox/PageView](https://github.com/fredyshox/PageView) 
 
-⭐️ 422 
+⭐️ 424 
 
 SwiftUI view enabling navigation between pages of content, imitating the behaviour of UIPageViewController for iOS and watchOS 
 
@@ -18956,7 +18988,7 @@ Radar style view written in swift
 
 #### [fxm90/GradientProgressBar](https://github.com/fxm90/GradientProgressBar) 
 
-⭐️ 517 
+⭐️ 518 
 
 📊 A customizable gradient progress bar (UIProgressView). 
 
@@ -18966,7 +18998,7 @@ Radar style view written in swift
 
 #### [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) 
 
-⭐️ 5.4K 
+⭐️ 5.5K 
 
 Notes manager for macOS/iOS 
 
@@ -19164,7 +19196,7 @@ Mac menu bar app for common adb tools
 
 #### [nicklockwood/LRUCache](https://github.com/nicklockwood/LRUCache) 
 
-⭐️ 300 
+⭐️ 301 
 
 LRUCache is an open-source replacement for NSCache that behaves in a predictable, debuggable way 
 
@@ -19220,7 +19252,7 @@ A paging view with a highly customizable menu ✨
 
 #### [ruanjx/VideoLab](https://github.com/ruanjx/VideoLab) 
 
-⭐️ 700 
+⭐️ 701 
 
 High-performance and flexible video editing and effects framework, based on AVFoundation and Metal. 
 
@@ -19288,7 +19320,7 @@ A percentage type for Swift
 
 #### [spotify/XCRemoteCache](https://github.com/spotify/XCRemoteCache) 
 
-⭐️ 772 
+⭐️ 773 
 
 --- 
 
@@ -19312,7 +19344,7 @@ Create useful .gitignore files for your project
 
 #### [tristanhimmelman/ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) 
 
-⭐️ 9K 
+⭐️ 9.1K 
 
 Simple JSON Object mapping written in Swift 
 
@@ -19432,7 +19464,7 @@ See README below
 
 #### [BloopAI/bloop](https://github.com/BloopAI/bloop) 
 
-⭐️ 5K 
+⭐️ 5.3K 
 
 bloop is a fast code search engine written in Rust. 
 
@@ -19622,7 +19654,7 @@ Create and modify PDF documents in any JavaScript environment
 
 #### [Kong/httpsnippet](https://github.com/Kong/httpsnippet) 
 
-⭐️ 996 
+⭐️ 997 
 
 HTTP Request snippet generator for many languages & libraries 
 
@@ -19768,7 +19800,7 @@ Meta framework for providing digital provenance and integrity to documents.
 
 #### [ReactiveCircus/android-emulator-runner](https://github.com/ReactiveCircus/android-emulator-runner) 
 
-⭐️ 723 
+⭐️ 724 
 
 A GitHub Action for installing, configuring and running hardware-accelerated Android Emulators on macOS virtual machines. 
 
@@ -19958,7 +19990,7 @@ Framework Agnostic REPL For Node.js. Used by AdonisJS
 
 #### [adonisjs/view](https://github.com/adonisjs/view) 
 
-⭐️ 16 
+⭐️ 17 
 
 Template Engine For AdonisJS 
 
@@ -20164,7 +20196,7 @@ Smart selection with double clicks for VS Code.
 
 #### [apache/superset](https://github.com/apache/superset) 
 
-⭐️ 51.6K 
+⭐️ 51.7K 
 
 Apache Superset is a Data Visualization and Data Exploration Platform 
 
@@ -20222,7 +20254,7 @@ Framework to build admin panels, internal tools, and dashboards. Integrates with
 
 #### [appwrite/appwrite](https://github.com/appwrite/appwrite) 
 
-⭐️ 30.8K 
+⭐️ 30.9K 
 
 Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative. 
 
@@ -20430,7 +20462,7 @@ NestJS (Express + TypeORM + GraphQL + MongoDB) codebase containing real world ex
 
 #### [civitai/civitai](https://github.com/civitai/civitai) 
 
-⭐️ 3K 
+⭐️ 3.1K 
 
 A repository of models, textual inversions, and more 
 
@@ -20440,7 +20472,7 @@ A repository of models, textual inversions, and more
 
 #### [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) 
 
-⭐️ 7.6K 
+⭐️ 7.7K 
 
 The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React. 
 
@@ -20450,7 +20482,7 @@ The modern, lightweight, performant, accessible and extensible drag & drop toolk
 
 #### [codesandbox/nodebox-runtime](https://github.com/codesandbox/nodebox-runtime) 
 
-⭐️ 519 
+⭐️ 520 
 
 Nodebox is a runtime for executing Node.js modules in the browser. 
 
@@ -20518,7 +20550,7 @@ A fast and reliable flow engine for orchestration and more uses in Node.js, Deno
 
 #### [danielroe/typed-vuex](https://github.com/danielroe/typed-vuex) 
 
-⭐️ 343 
+⭐️ 344 
 
 🏦 A typed store accessor for vanilla Vuex. 
 
@@ -20538,7 +20570,7 @@ A fast and reliable flow engine for orchestration and more uses in Node.js, Deno
 
 #### [daybrush/infinite-viewer](https://github.com/daybrush/infinite-viewer) 
 
-⭐️ 149 
+⭐️ 150 
 
 Infinite Viewer is Document Viewer Component with infinite scrolling. 
 
@@ -20558,7 +20590,7 @@ Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupa
 
 #### [daybrush/scena](https://github.com/daybrush/scena) 
 
-⭐️ 588 
+⭐️ 591 
 
 🎬 Scena is a component that represents the timeline of Scene.js. You can control time, properties, and items. 
 
@@ -20704,7 +20736,7 @@ Simplify Your Secrets
 
 #### [dust-tt/dust](https://github.com/dust-tt/dust) 
 
-⭐️ 509 
+⭐️ 513 
 
 Design and Deploy Large Language Model Apps 
 
@@ -20762,7 +20794,7 @@ OpenAI proxy on Cloudflare Worker / Vercel Edge
 
 #### [egoist/rollup-plugin-esbuild](https://github.com/egoist/rollup-plugin-esbuild) 
 
-⭐️ 557 
+⭐️ 558 
 
 Use ESBuild with Rollup to transform ESNext and TypeScript code. 
 
@@ -20874,7 +20906,7 @@ The fast & forgiving HTML and XML parser
 
 #### [fengyuanchen/vue-qrcode](https://github.com/fengyuanchen/vue-qrcode) 
 
-⭐️ 955 
+⭐️ 956 
 
 QR code component for Vue.js 
 
@@ -20986,7 +21018,7 @@ Google's officially supported Node.js client library for accessing Google APIs. 
 
 #### [googleapis/nodejs-storage](https://github.com/googleapis/nodejs-storage) 
 
-⭐️ 817 
+⭐️ 819 
 
 Node.js client for Google Cloud Storage: unified object storage for developers and enterprises, from live data serving to data analytics/ML to data archiving. 
 
@@ -21050,7 +21082,7 @@ Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access 
 
 #### [hayd/deno-udd](https://github.com/hayd/deno-udd) 
 
-⭐️ 283 
+⭐️ 282 
 
 Update Deno Dependencies - update dependency urls to their latest published versions 
 
@@ -21112,7 +21144,7 @@ next-graphql = GraphQL + Next.js
 
 #### [image-js/fast-png](https://github.com/image-js/fast-png) 
 
-⭐️ 263 
+⭐️ 264 
 
 PNG image decoder and encoder written entirely in JavaScript 
 
@@ -21146,7 +21178,7 @@ HTML parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka
 
 #### [iron-fish/ironfish](https://github.com/iron-fish/ironfish) 
 
-⭐️ 893 
+⭐️ 895 
 
 A novel cryptocurrency focused on privacy and accessibility. 
 
@@ -21374,7 +21406,7 @@ A type-safe typescript SQL query builder
 
 #### [lagonapp/lagon](https://github.com/lagonapp/lagon) 
 
-⭐️ 805 
+⭐️ 817 
 
 Deploy Serverless Functions at the Edge. Current status: Alpha 
 
@@ -21394,7 +21426,7 @@ Deploy Serverless Functions at the Edge. Current status: Alpha
 
 #### [leosuncin/nest-auth-example](https://github.com/leosuncin/nest-auth-example) 
 
-⭐️ 258 
+⭐️ 259 
 
 Nest.js authentication with Passport. Realworld example 
 
@@ -21488,7 +21520,7 @@ Beautiful & consistent icon toolkit made by the community. Open-source project a
 
 #### [luixaviles/socket-io-typescript-chat](https://github.com/luixaviles/socket-io-typescript-chat) 
 
-⭐️ 812 
+⭐️ 813 
 
 A chat application implemented using Socket.io, TypeScript, Angular and Angular Material components 
 
@@ -21506,7 +21538,7 @@ A tiny (2.8kB) and fast utility for getting a MIME type from an extension or fil
 
 #### [lukeed/resolve.exports](https://github.com/lukeed/resolve.exports) 
 
-⭐️ 307 
+⭐️ 306 
 
 A tiny (952b), correct, general-purpose, and configurable `"exports"` and `"imports"` resolver without file-system reliance 
 
@@ -21550,7 +21582,7 @@ copilot, but worse
 
 #### [mantinedev/mantine](https://github.com/mantinedev/mantine) 
 
-⭐️ 19K 
+⭐️ 19.1K 
 
 A fully featured React components library 
 
@@ -21578,7 +21610,7 @@ A powerful, flexible, Markdown-based authoring framework.
 
 #### [marko-js/run](https://github.com/marko-js/run) 
 
-⭐️ 83 
+⭐️ 84 
 
 The Marko application framework 
 
@@ -21616,7 +21648,7 @@ A free and open source code snippets manager for developers
 
 #### [material-components/material-components-web](https://github.com/material-components/material-components-web) 
 
-⭐️ 16.7K 
+⭐️ 16.8K 
 
 Modular and customizable Material Design UI components for the web 
 
@@ -21634,7 +21666,7 @@ Modular and customizable Material Design UI components for the web
 
 #### [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) 
 
-⭐️ 12.1K 
+⭐️ 12.2K 
 
 An open source ChatGPT UI. 
 
@@ -21680,7 +21712,7 @@ A starter template for TypeScript and React with a detailed README describing ho
 
 #### [microsoft/playwright](https://github.com/microsoft/playwright) 
 
-⭐️ 50K 
+⭐️ 50.1K 
 
 Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  
 
@@ -21690,7 +21722,7 @@ Playwright is a framework for Web Testing and Automation. It allows testing Chro
 
 #### [microsoft/vscode](https://github.com/microsoft/vscode) 
 
-⭐️ 145.4K 
+⭐️ 145.5K 
 
 Visual Studio Code 
 
@@ -21736,7 +21768,7 @@ Seamless REST/GraphQL API mocking library for browser and Node.js.
 
 #### [muxinc/upchunk](https://github.com/muxinc/upchunk) 
 
-⭐️ 255 
+⭐️ 256 
 
 Uploads Chunks! Takes big files, splits them up, then uploads each one with care (and PUT requests). 
 
@@ -21798,7 +21830,7 @@ A component that can arrange items according to the type of grids
 
 #### [ncipollo/release-action](https://github.com/ncipollo/release-action) 
 
-⭐️ 853 
+⭐️ 855 
 
 An action which manages a github release 
 
@@ -21816,7 +21848,7 @@ Elasticsearch module based on the official elasticsearch package 🌿
 
 #### [nestjs/nest](https://github.com/nestjs/nest) 
 
-⭐️ 56.1K 
+⭐️ 56.2K 
 
 A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀 
 
@@ -22044,7 +22076,7 @@ Run commands concurrently. Like `npm run watch-js & npm run watch-less` but bett
 
 #### [openreplay/openreplay](https://github.com/openreplay/openreplay) 
 
-⭐️ 7.3K 
+⭐️ 7.4K 
 
 :tv: OpenReplay is developer-friendly, self-hosted session replay. 
 
@@ -22150,7 +22182,7 @@ Fast, disk space efficient package manager
 
 #### [posva/mande](https://github.com/posva/mande) 
 
-⭐️ 878 
+⭐️ 880 
 
 <800 bytes convenient and modern wrapper around fetch with smart extensible defaults 
 
@@ -22178,7 +22210,7 @@ Manage state with style in every framework
 
 #### [prisma/prisma](https://github.com/prisma/prisma) 
 
-⭐️ 30.8K 
+⭐️ 30.9K 
 
 Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB 
 
@@ -22290,7 +22322,7 @@ ProseMirror toolkit for React 🎉
 
 #### [remorses/genql](https://github.com/remorses/genql) 
 
-⭐️ 601 
+⭐️ 603 
 
 Type safe TypeScript client for any GraphQL API 
 
@@ -22396,7 +22428,7 @@ Customizable Slack-like emoji picker for Angular
 
 #### [scttcper/tinycolor](https://github.com/scttcper/tinycolor) 
 
-⭐️ 411 
+⭐️ 413 
 
 🎨 Color manipulation and conversion 
 
@@ -22414,7 +22446,7 @@ Design with JSX, powered by your own component library.
 
 #### [serhiisol/node-decorators](https://github.com/serhiisol/node-decorators) 
 
-⭐️ 335 
+⭐️ 336 
 
 node-decorators 
 
@@ -22422,7 +22454,7 @@ node-decorators
 
 #### [shadcn/ui](https://github.com/shadcn/ui) 
 
-⭐️ 13.3K 
+⭐️ 13.4K 
 
 Beautifully designed components built with Radix UI and Tailwind CSS. 
 
@@ -22442,7 +22474,7 @@ Generate your business emails in seconds (by OpenAI)
 
 #### [shikijs/shiki](https://github.com/shikijs/shiki) 
 
-⭐️ 5.2K 
+⭐️ 5.3K 
 
 A beautiful Syntax Highlighter. 
 
@@ -22592,7 +22624,7 @@ VS Code Extension to preview and play audio file.
 
 #### [supabase/supabase](https://github.com/supabase/supabase) 
 
-⭐️ 49.1K 
+⭐️ 49.2K 
 
 The open source Firebase alternative. Follow to stay updated about our public Beta. 
 
@@ -22640,7 +22672,7 @@ Visual Studio Code Extension for Swift
 
 #### [swimlane/ngx-graph](https://github.com/swimlane/ngx-graph) 
 
-⭐️ 851 
+⭐️ 852 
 
 Graph visualization library for angular 
 
@@ -22666,7 +22698,7 @@ Typegoose - Define Mongoose models using TypeScript classes.
 
 #### [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) 
 
-⭐️ 3.6K 
+⭐️ 3.7K 
 
 BullMQ - Premium Message Queue for NodeJS based on Redis 
 
@@ -22676,7 +22708,7 @@ BullMQ - Premium Message Queue for NodeJS based on Redis
 
 #### [telegraf/telegraf](https://github.com/telegraf/telegraf) 
 
-⭐️ 6.6K 
+⭐️ 6.7K 
 
 Modern Telegram Bot Framework for Node.js 
 
@@ -22704,7 +22736,7 @@ A request library that returns promises, inspired by request
 
 #### [thoughtbot/fishery](https://github.com/thoughtbot/fishery) 
 
-⭐️ 693 
+⭐️ 695 
 
 A library for setting up JavaScript objects as test data 
 
@@ -22724,7 +22756,7 @@ fast, portable, and extensible cmd+k interface for your site
 
 ⭐️ 8.7K 
 
-A headless CMS for Markdown 
+The Markdown CMS 
 
 [https://tina.io](https://tina.io)
 
@@ -22752,7 +22784,7 @@ A headless CMS for Markdown
 
 #### [tinylibs/tinybench](https://github.com/tinylibs/tinybench) 
 
-⭐️ 618 
+⭐️ 620 
 
 🔎 A simple, tiny and lightweight benchmarking library! 
 
@@ -22826,7 +22858,7 @@ JSON Hero is an open-source, beautiful JSON explorer for the web that lets you b
 
 #### [trimox/angular-mdc-web](https://github.com/trimox/angular-mdc-web) 
 
-⭐️ 528 
+⭐️ 527 
 
 Angular wrapper for Material Design (Web) Components 
 
@@ -22866,7 +22898,7 @@ A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript.
 
 #### [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) 
 
-⭐️ 33.1K 
+⭐️ 33.2K 
 
 Collection of TypeScript type challenges with online judge 
 
@@ -22920,7 +22952,7 @@ ESM build of cookie with bundled types.
 
 #### [unjs/ipx](https://github.com/unjs/ipx) 
 
-⭐️ 716 
+⭐️ 717 
 
 High performance, secure and easy to use image proxy based on Sharp and libvips. 
 
@@ -22962,7 +22994,7 @@ Create, build and deploy universal web servers. The open engine powering Nuxt an
 
 #### [unjs/ufo](https://github.com/unjs/ufo) 
 
-⭐️ 580 
+⭐️ 581 
 
 🔗 URL utils for humans 
 
@@ -22980,7 +23012,7 @@ The instant on-demand atomic CSS engine.
 
 #### [upscayl/upscayl](https://github.com/upscayl/upscayl) 
 
-⭐️ 12.4K 
+⭐️ 12.5K 
 
 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy. 
 
@@ -23038,7 +23070,7 @@ A headless GraphQL ecommerce framework for the modern web
 
 #### [vercel/edge-runtime](https://github.com/vercel/edge-runtime) 
 
-⭐️ 537 
+⭐️ 539 
 
 Developing, testing, and defining the runtime Web APIs for Edge infrastructure. 
 
@@ -23058,7 +23090,7 @@ Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 
 #### [vercel/satori](https://github.com/vercel/satori) 
 
-⭐️ 7.7K 
+⭐️ 7.8K 
 
 Enlightened library to convert HTML and CSS to SVG 
 
@@ -23088,7 +23120,7 @@ Library for converting standard numerals to Khmer words
 
 #### [victorgarciaesgi/nuxt-typed-router](https://github.com/victorgarciaesgi/nuxt-typed-router) 
 
-⭐️ 193 
+⭐️ 194 
 
 🚦Provide autocompletion for routes paths, names and params in Nuxt apps 
 
@@ -23098,7 +23130,7 @@ Library for converting standard numerals to Khmer words
 
 #### [vitejs/vite-plugin-vue2](https://github.com/vitejs/vite-plugin-vue2) 
 
-⭐️ 461 
+⭐️ 462 
 
 Vite plugin for Vue 2.7 
 
@@ -23106,7 +23138,7 @@ Vite plugin for Vue 2.7
 
 #### [vitejs/vite](https://github.com/vitejs/vite) 
 
-⭐️ 55.5K 
+⭐️ 55.6K 
 
 Next generation frontend tooling. It's fast! 
 
@@ -23214,7 +23246,7 @@ This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 
 #### [vueuse/schema-org](https://github.com/vueuse/schema-org) 
 
-⭐️ 347 
+⭐️ 348 
 
 🔎  Quick and easy Schema.org graphs for Vue. Powered by Unhead. 
 
@@ -23406,7 +23438,7 @@ Vue component for the Intersection <Observer /> API
 
 #### [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) 
 
-⭐️ 19.9K 
+⭐️ 20.1K 
 
 用 Express 和  Vue3 搭建的 ChatGPT 演示网页 
 
@@ -23584,7 +23616,7 @@ A TypeScript-like language for WebAssembly.
 
 #### [austintheriot/hand-crafted-wasm](https://github.com/austintheriot/hand-crafted-wasm) 
 
-⭐️ 54 
+⭐️ 55 
 
 Creative coding and other mischief in handwritten WebAssembly, using the WebAssembly .wat text format. 
 

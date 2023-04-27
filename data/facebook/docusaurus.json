@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/facebook/docusaurus/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebook/docusaurus/deployments",
   "created_at": "2017-06-20T16:13:53Z",
-  "updated_at": "2023-04-26T01:48:57Z",
-  "pushed_at": "2023-04-25T07:23:18Z",
+  "updated_at": "2023-04-26T22:58:46Z",
+  "pushed_at": "2023-04-26T23:07:30Z",
   "git_url": "git://github.com/facebook/docusaurus.git",
   "ssh_url": "git@github.com:facebook/docusaurus.git",
   "clone_url": "https://github.com/facebook/docusaurus.git",
   "svn_url": "https://github.com/facebook/docusaurus",
   "homepage": "https://docusaurus.io",
-  "size": 244551,
-  "stargazers_count": 44067,
-  "watchers_count": 44067,
+  "size": 244864,
+  "stargazers_count": 44097,
+  "watchers_count": 44097,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 6863,
+  "forks_count": 6872,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,9 +106,9 @@
     "website"
   ],
   "visibility": "public",
-  "forks": 6863,
+  "forks": 6872,
   "open_issues": 293,
-  "watchers": 44067,
+  "watchers": 44097,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 434
+  "_index": 437
 }

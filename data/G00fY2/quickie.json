@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/G00fY2/quickie/releases{/id}",
   "deployments_url": "https://api.github.com/repos/G00fY2/quickie/deployments",
   "created_at": "2020-11-16T08:18:08Z",
-  "updated_at": "2023-04-25T17:36:04Z",
-  "pushed_at": "2023-04-25T06:00:47Z",
+  "updated_at": "2023-04-26T06:56:47Z",
+  "pushed_at": "2023-04-26T12:50:32Z",
   "git_url": "git://github.com/G00fY2/quickie.git",
   "ssh_url": "git@github.com:G00fY2/quickie.git",
   "clone_url": "https://github.com/G00fY2/quickie.git",
   "svn_url": "https://github.com/G00fY2/quickie",
   "homepage": "",
-  "size": 1264,
-  "stargazers_count": 248,
-  "watchers_count": 248,
+  "size": 1266,
+  "stargazers_count": 250,
+  "watchers_count": 250,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -115,7 +115,7 @@
   "visibility": "public",
   "forks": 38,
   "open_issues": 6,
-  "watchers": 248,
+  "watchers": 250,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1105
+  "_index": 1108
 }

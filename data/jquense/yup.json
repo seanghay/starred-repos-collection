@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jquense/yup/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jquense/yup/deployments",
   "created_at": "2014-09-22T23:54:22Z",
-  "updated_at": "2023-04-25T20:11:44Z",
+  "updated_at": "2023-04-27T00:38:46Z",
   "pushed_at": "2023-04-25T15:53:11Z",
   "git_url": "git://github.com/jquense/yup.git",
   "ssh_url": "git@github.com:jquense/yup.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jquense/yup",
   "homepage": "",
   "size": 4543,
-  "stargazers_count": 20230,
-  "watchers_count": 20230,
+  "stargazers_count": 20247,
+  "watchers_count": 20247,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 866,
   "open_issues": 163,
-  "watchers": 20230,
+  "watchers": 20247,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2577
+  "_index": 2580
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/image-js/fast-png/releases{/id}",
   "deployments_url": "https://api.github.com/repos/image-js/fast-png/deployments",
   "created_at": "2015-09-24T07:57:54Z",
-  "updated_at": "2023-04-18T02:59:19Z",
+  "updated_at": "2023-04-26T05:06:13Z",
   "pushed_at": "2023-02-18T14:52:08Z",
   "git_url": "git://github.com/image-js/fast-png.git",
   "ssh_url": "git@github.com:image-js/fast-png.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/image-js/fast-png",
   "homepage": "",
   "size": 488,
-  "stargazers_count": 263,
-  "watchers_count": 263,
+  "stargazers_count": 264,
+  "watchers_count": 264,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 16,
   "open_issues": 6,
-  "watchers": 263,
+  "watchers": 264,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 322
+  "_index": 325
 }

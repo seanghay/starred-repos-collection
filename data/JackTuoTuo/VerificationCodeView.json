@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/JackTuoTuo/VerificationCodeView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JackTuoTuo/VerificationCodeView/deployments",
   "created_at": "2017-09-19T07:44:46Z",
-  "updated_at": "2023-04-04T06:53:42Z",
+  "updated_at": "2023-04-26T06:48:32Z",
   "pushed_at": "2020-01-08T05:42:10Z",
   "git_url": "git://github.com/JackTuoTuo/VerificationCodeView.git",
   "ssh_url": "git@github.com:JackTuoTuo/VerificationCodeView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/JackTuoTuo/VerificationCodeView",
   "homepage": null,
   "size": 2724,
-  "stargazers_count": 379,
-  "watchers_count": 379,
+  "stargazers_count": 380,
+  "watchers_count": 380,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 76,
   "open_issues": 17,
-  "watchers": 379,
+  "watchers": 380,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1736
+  "_index": 1739
 }

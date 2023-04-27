@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fairyglade/ly/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fairyglade/ly/deployments",
   "created_at": "2017-05-23T18:02:53Z",
-  "updated_at": "2023-04-25T20:51:25Z",
+  "updated_at": "2023-04-26T19:15:49Z",
   "pushed_at": "2023-04-18T17:06:57Z",
   "git_url": "git://github.com/fairyglade/ly.git",
   "ssh_url": "git@github.com:fairyglade/ly.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1599
+  "_index": 1602
 }

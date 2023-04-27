@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/marko-js/run/releases{/id}",
   "deployments_url": "https://api.github.com/repos/marko-js/run/deployments",
   "created_at": "2022-11-04T17:09:21Z",
-  "updated_at": "2023-04-25T08:20:46Z",
-  "pushed_at": "2023-04-24T18:03:53Z",
+  "updated_at": "2023-04-26T11:34:35Z",
+  "pushed_at": "2023-04-26T21:30:25Z",
   "git_url": "git://github.com/marko-js/run.git",
   "ssh_url": "git@github.com:marko-js/run.git",
   "clone_url": "https://github.com/marko-js/run.git",
   "svn_url": "https://github.com/marko-js/run",
   "homepage": "",
-  "size": 380,
-  "stargazers_count": 83,
-  "watchers_count": 83,
+  "size": 383,
+  "stargazers_count": 84,
+  "watchers_count": 84,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2,
+  "open_issues_count": 1,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 3,
-  "open_issues": 2,
-  "watchers": 83,
+  "open_issues": 1,
+  "watchers": 84,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 149
+  "_index": 152
 }

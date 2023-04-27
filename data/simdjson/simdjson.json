@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/simdjson/simdjson/releases{/id}",
   "deployments_url": "https://api.github.com/repos/simdjson/simdjson/deployments",
   "created_at": "2018-03-23T00:49:18Z",
-  "updated_at": "2023-04-25T19:40:55Z",
+  "updated_at": "2023-04-26T20:06:56Z",
   "pushed_at": "2023-04-24T12:15:48Z",
   "git_url": "git://github.com/simdjson/simdjson.git",
   "ssh_url": "git@github.com:simdjson/simdjson.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/simdjson/simdjson",
   "homepage": "https://simdjson.org",
   "size": 30335,
-  "stargazers_count": 16827,
-  "watchers_count": 16827,
+  "stargazers_count": 16836,
+  "watchers_count": 16836,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -120,7 +120,7 @@
   "visibility": "public",
   "forks": 908,
   "open_issues": 123,
-  "watchers": 16827,
+  "watchers": 16836,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1923
+  "_index": 1926
 }

@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/minio/mc/deployments",
   "created_at": "2015-01-16T02:56:51Z",
   "updated_at": "2023-04-25T08:48:16Z",
-  "pushed_at": "2023-04-25T22:13:29Z",
+  "pushed_at": "2023-04-26T06:49:59Z",
   "git_url": "git://github.com/minio/mc.git",
   "ssh_url": "git@github.com:minio/mc.git",
   "clone_url": "https://github.com/minio/mc.git",
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 956
+  "_index": 959
 }
