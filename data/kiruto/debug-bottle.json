@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kiruto/debug-bottle/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kiruto/debug-bottle/deployments",
   "created_at": "2016-08-19T10:07:01Z",
-  "updated_at": "2023-04-04T02:14:59Z",
+  "updated_at": "2023-04-27T11:12:27Z",
   "pushed_at": "2018-03-15T08:14:51Z",
   "git_url": "git://github.com/kiruto/debug-bottle.git",
   "ssh_url": "git@github.com:kiruto/debug-bottle.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/kiruto/debug-bottle",
   "homepage": "http://exyui.com/article/3/Android-Debug-Bottle-v11",
   "size": 14405,
-  "stargazers_count": 850,
-  "watchers_count": 850,
+  "stargazers_count": 851,
+  "watchers_count": 851,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 91,
   "open_issues": 5,
-  "watchers": 850,
+  "watchers": 851,
   "default_branch": "1.1.x",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1219
+  "_index": 1221
 }

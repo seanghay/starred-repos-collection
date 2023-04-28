@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/napi-rs/node-rs.git",
   "svn_url": "https://github.com/napi-rs/node-rs",
   "homepage": "",
-  "size": 8314,
+  "size": 8315,
   "stargazers_count": 723,
   "watchers_count": 723,
   "language": "Rust",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 974
+  "_index": 976
 }

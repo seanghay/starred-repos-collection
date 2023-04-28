@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bluelinelabs/Conductor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bluelinelabs/Conductor/deployments",
   "created_at": "2016-03-16T18:42:41Z",
-  "updated_at": "2023-04-23T18:06:39Z",
+  "updated_at": "2023-04-27T15:05:25Z",
   "pushed_at": "2023-03-24T15:50:55Z",
   "git_url": "git://github.com/bluelinelabs/Conductor.git",
   "ssh_url": "git@github.com:bluelinelabs/Conductor.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/bluelinelabs/Conductor",
   "homepage": null,
   "size": 3754,
-  "stargazers_count": 3878,
-  "watchers_count": 3878,
+  "stargazers_count": 3877,
+  "watchers_count": 3877,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 343,
   "open_issues": 111,
-  "watchers": 3878,
+  "watchers": 3877,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2603
+  "_index": 2605
 }

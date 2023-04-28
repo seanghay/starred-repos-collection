@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pterm/pterm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pterm/pterm/deployments",
   "created_at": "2020-09-17T15:52:59Z",
-  "updated_at": "2023-04-26T15:01:04Z",
+  "updated_at": "2023-04-27T14:05:28Z",
   "pushed_at": "2023-04-16T23:39:13Z",
   "git_url": "git://github.com/pterm/pterm.git",
   "ssh_url": "git@github.com:pterm/pterm.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/pterm/pterm",
   "homepage": "https://docs.pterm.sh",
   "size": 15140,
-  "stargazers_count": 3579,
-  "watchers_count": 3579,
+  "stargazers_count": 3582,
+  "watchers_count": 3582,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -118,7 +118,7 @@
   "visibility": "public",
   "forks": 138,
   "open_issues": 34,
-  "watchers": 3579,
+  "watchers": 3582,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 570
+  "_index": 572
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/vadimdemedes/yoga-layout-prebuilt/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vadimdemedes/yoga-layout-prebuilt/deployments",
   "created_at": "2018-09-30T21:10:44Z",
-  "updated_at": "2023-01-07T06:53:33Z",
+  "updated_at": "2023-04-27T07:15:41Z",
   "pushed_at": "2021-11-17T09:35:37Z",
   "git_url": "git://github.com/vadimdemedes/yoga-layout-prebuilt.git",
   "ssh_url": "git@github.com:vadimdemedes/yoga-layout-prebuilt.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/vadimdemedes/yoga-layout-prebuilt",
   "homepage": null,
   "size": 109,
-  "stargazers_count": 46,
-  "watchers_count": 46,
+  "stargazers_count": 47,
+  "watchers_count": 47,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 30,
   "open_issues": 8,
-  "watchers": 46,
+  "watchers": 47,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 260
+  "_index": 262
 }

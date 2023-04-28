@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kittinunf/Result/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kittinunf/Result/deployments",
   "created_at": "2015-10-28T12:34:53Z",
-  "updated_at": "2023-04-20T12:56:28Z",
+  "updated_at": "2023-04-27T22:07:39Z",
   "pushed_at": "2023-04-03T11:25:25Z",
   "git_url": "git://github.com/kittinunf/Result.git",
   "ssh_url": "git@github.com:kittinunf/Result.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/kittinunf/Result",
   "homepage": "",
   "size": 604,
-  "stargazers_count": 845,
-  "watchers_count": 845,
+  "stargazers_count": 846,
+  "watchers_count": 846,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 50,
   "open_issues": 1,
-  "watchers": 845,
+  "watchers": 846,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1441
+  "_index": 1443
 }

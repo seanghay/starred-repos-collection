@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/shuding/react-wrap-balancer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/shuding/react-wrap-balancer/deployments",
   "created_at": "2022-11-10T08:21:36Z",
-  "updated_at": "2023-04-26T21:06:01Z",
-  "pushed_at": "2023-03-28T15:20:16Z",
+  "updated_at": "2023-04-27T22:58:23Z",
+  "pushed_at": "2023-04-27T09:34:01Z",
   "git_url": "git://github.com/shuding/react-wrap-balancer.git",
   "ssh_url": "git@github.com:shuding/react-wrap-balancer.git",
   "clone_url": "https://github.com/shuding/react-wrap-balancer.git",
   "svn_url": "https://github.com/shuding/react-wrap-balancer",
   "homepage": "https://react-wrap-balancer.vercel.app",
   "size": 3463,
-  "stargazers_count": 2768,
-  "watchers_count": 2768,
+  "stargazers_count": 2773,
+  "watchers_count": 2773,
   "language": "HTML",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 44,
+  "forks_count": 45,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 11,
+  "open_issues_count": 12,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,9 +103,9 @@
     "wrapping"
   ],
   "visibility": "public",
-  "forks": 44,
-  "open_issues": 11,
-  "watchers": 2768,
+  "forks": 45,
+  "open_issues": 12,
+  "watchers": 2773,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 292
+  "_index": 294
 }

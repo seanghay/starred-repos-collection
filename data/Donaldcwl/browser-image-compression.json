@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 122,
+  "forks_count": 123,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,7 +107,7 @@
     "webp-compression"
   ],
   "visibility": "public",
-  "forks": 122,
+  "forks": 123,
   "open_issues": 26,
   "watchers": 886,
   "default_branch": "master",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 576
+  "_index": 578
 }

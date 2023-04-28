@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/zhanghai/AndroidFastScroll/releases{/id}",
   "deployments_url": "https://api.github.com/repos/zhanghai/AndroidFastScroll/deployments",
   "created_at": "2019-11-06T00:45:45Z",
-  "updated_at": "2023-04-24T12:47:30Z",
+  "updated_at": "2023-04-27T15:01:08Z",
   "pushed_at": "2023-01-16T03:02:16Z",
   "git_url": "git://github.com/zhanghai/AndroidFastScroll.git",
   "ssh_url": "git@github.com:zhanghai/AndroidFastScroll.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/zhanghai/AndroidFastScroll",
   "homepage": "https://play.google.com/store/apps/details?id=me.zhanghai.android.fastscroll.sample",
   "size": 530,
-  "stargazers_count": 593,
-  "watchers_count": 593,
+  "stargazers_count": 592,
+  "watchers_count": 592,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 59,
   "open_issues": 9,
-  "watchers": 593,
+  "watchers": 592,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1823
+  "_index": 1825
 }

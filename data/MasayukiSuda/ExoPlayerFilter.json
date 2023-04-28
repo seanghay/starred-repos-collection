@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/MasayukiSuda/ExoPlayerFilter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/MasayukiSuda/ExoPlayerFilter/deployments",
   "created_at": "2017-05-19T06:25:10Z",
-  "updated_at": "2023-04-21T11:44:03Z",
+  "updated_at": "2023-04-27T07:22:50Z",
   "pushed_at": "2023-04-06T14:11:06Z",
   "git_url": "git://github.com/MasayukiSuda/ExoPlayerFilter.git",
   "ssh_url": "git@github.com:MasayukiSuda/ExoPlayerFilter.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/MasayukiSuda/ExoPlayerFilter",
   "homepage": "",
   "size": 31282,
-  "stargazers_count": 844,
-  "watchers_count": 844,
+  "stargazers_count": 845,
+  "watchers_count": 845,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 154,
+  "forks_count": 155,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
     "videoplayer"
   ],
   "visibility": "public",
-  "forks": 154,
+  "forks": 155,
   "open_issues": 15,
-  "watchers": 844,
+  "watchers": 845,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2407
+  "_index": 2409
 }

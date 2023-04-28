@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/nolimits4web/swiper/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nolimits4web/swiper/deployments",
   "created_at": "2012-03-14T19:11:45Z",
-  "updated_at": "2023-04-27T00:31:32Z",
-  "pushed_at": "2023-04-24T07:08:44Z",
+  "updated_at": "2023-04-28T01:15:58Z",
+  "pushed_at": "2023-04-27T08:14:04Z",
   "git_url": "git://github.com/nolimits4web/swiper.git",
   "ssh_url": "git@github.com:nolimits4web/swiper.git",
   "clone_url": "https://github.com/nolimits4web/swiper.git",
   "svn_url": "https://github.com/nolimits4web/swiper",
   "homepage": "https://swiperjs.com",
   "size": 78787,
-  "stargazers_count": 34957,
-  "watchers_count": 34957,
+  "stargazers_count": 34973,
+  "watchers_count": 34973,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 9709,
+  "forks_count": 9712,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 181,
+  "open_issues_count": 182,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,9 +108,9 @@
     "touch-events"
   ],
   "visibility": "public",
-  "forks": 9709,
-  "open_issues": 181,
-  "watchers": 34957,
+  "forks": 9712,
+  "open_issues": 182,
+  "watchers": 34973,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 615
+  "_index": 617
 }

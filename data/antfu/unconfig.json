@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/antfu/unconfig/releases{/id}",
   "deployments_url": "https://api.github.com/repos/antfu/unconfig/deployments",
   "created_at": "2021-11-30T06:47:40Z",
-  "updated_at": "2023-04-18T00:46:51Z",
+  "updated_at": "2023-04-27T05:08:34Z",
   "pushed_at": "2023-02-03T08:36:26Z",
   "git_url": "git://github.com/antfu/unconfig.git",
   "ssh_url": "git@github.com:antfu/unconfig.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/antfu/unconfig",
   "homepage": "",
   "size": 264,
-  "stargazers_count": 470,
-  "watchers_count": 470,
+  "stargazers_count": 471,
+  "watchers_count": 471,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 14,
   "open_issues": 7,
-  "watchers": 470,
+  "watchers": 471,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 823
+  "_index": 825
 }

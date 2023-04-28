@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/material-components/material-components-android-examples/deployments",
   "created_at": "2019-10-01T10:00:27Z",
   "updated_at": "2023-04-22T14:24:08Z",
-  "pushed_at": "2023-04-18T12:57:44Z",
+  "pushed_at": "2023-04-27T07:49:48Z",
   "git_url": "git://github.com/material-components/material-components-android-examples.git",
   "ssh_url": "git@github.com:material-components/material-components-android-examples.git",
   "clone_url": "https://github.com/material-components/material-components-android-examples.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 544,
+  "forks_count": 543,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 17,
+  "open_issues_count": 16,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,8 +99,8 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 544,
-  "open_issues": 17,
+  "forks": 543,
+  "open_issues": 16,
   "watchers": 2473,
   "default_branch": "develop",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2074
+  "_index": 2076
 }

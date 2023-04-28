@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/oclif/oclif/releases{/id}",
   "deployments_url": "https://api.github.com/repos/oclif/oclif/deployments",
   "created_at": "2018-01-11T20:59:27Z",
-  "updated_at": "2023-04-26T21:33:56Z",
+  "updated_at": "2023-04-28T00:54:12Z",
   "pushed_at": "2023-04-26T20:42:21Z",
   "git_url": "git://github.com/oclif/oclif.git",
   "ssh_url": "git@github.com:oclif/oclif.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/oclif/oclif",
   "homepage": "https://oclif.io",
   "size": 3659,
-  "stargazers_count": 8298,
-  "watchers_count": 8298,
+  "stargazers_count": 8300,
+  "watchers_count": 8300,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 287,
   "open_issues": 96,
-  "watchers": 8298,
+  "watchers": 8300,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1391
+  "_index": 1393
 }
