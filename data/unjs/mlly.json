@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/unjs/mlly.git",
   "svn_url": "https://github.com/unjs/mlly",
   "homepage": "",
-  "size": 633,
+  "size": 629,
   "stargazers_count": 310,
   "watchers_count": 310,
   "language": "TypeScript",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1019
+  "_index": 1020
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ajv-validator/ajv/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ajv-validator/ajv/deployments",
   "created_at": "2015-05-19T23:23:32Z",
-  "updated_at": "2023-04-28T18:33:44Z",
+  "updated_at": "2023-04-29T18:16:16Z",
   "pushed_at": "2023-04-06T08:16:43Z",
   "git_url": "git://github.com/ajv-validator/ajv.git",
   "ssh_url": "git@github.com:ajv-validator/ajv.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ajv-validator/ajv",
   "homepage": "https://ajv.js.org",
   "size": 27537,
-  "stargazers_count": 12425,
-  "watchers_count": 12425,
+  "stargazers_count": 12429,
+  "watchers_count": 12429,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 891,
   "open_issues": 251,
-  "watchers": 12425,
+  "watchers": 12429,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2525
+  "_index": 2526
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/claudiodangelis/qrcp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/claudiodangelis/qrcp/deployments",
   "created_at": "2018-01-14T22:35:55Z",
-  "updated_at": "2023-04-29T01:34:19Z",
-  "pushed_at": "2023-04-13T07:30:20Z",
+  "updated_at": "2023-04-29T04:21:41Z",
+  "pushed_at": "2023-04-29T09:46:40Z",
   "git_url": "git://github.com/claudiodangelis/qrcp.git",
   "ssh_url": "git@github.com:claudiodangelis/qrcp.git",
   "clone_url": "https://github.com/claudiodangelis/qrcp.git",
   "svn_url": "https://github.com/claudiodangelis/qrcp",
   "homepage": "https://claudiodangelis.com/qrcp",
-  "size": 26269,
-  "stargazers_count": 9193,
-  "watchers_count": 9193,
+  "size": 26346,
+  "stargazers_count": 9194,
+  "watchers_count": 9194,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 16,
+  "open_issues_count": 21,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,8 +104,8 @@
   ],
   "visibility": "public",
   "forks": 505,
-  "open_issues": 16,
-  "watchers": 9193,
+  "open_issues": 21,
+  "watchers": 9194,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 757
+  "_index": 758
 }

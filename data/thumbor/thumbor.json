@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 806,
+  "forks_count": 805,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 14,
+  "open_issues_count": 15,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -101,8 +101,8 @@
     "hacktoberfest"
   ],
   "visibility": "public",
-  "forks": 806,
-  "open_issues": 14,
+  "forks": 805,
+  "open_issues": 15,
   "watchers": 9461,
   "default_branch": "master",
   "permissions": {
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2170
+  "_index": 2171
 }

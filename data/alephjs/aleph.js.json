@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/alephjs/aleph.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/alephjs/aleph.js/deployments",
   "created_at": "2020-09-12T07:27:46Z",
-  "updated_at": "2023-04-28T11:12:02Z",
+  "updated_at": "2023-04-29T19:04:49Z",
   "pushed_at": "2023-03-27T11:13:53Z",
   "git_url": "git://github.com/alephjs/aleph.js.git",
   "ssh_url": "git@github.com:alephjs/aleph.js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/alephjs/aleph.js",
   "homepage": "https://alephjs.org",
   "size": 172187,
-  "stargazers_count": 5115,
-  "watchers_count": 5115,
+  "stargazers_count": 5114,
+  "watchers_count": 5114,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 86,
+  "open_issues_count": 87,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -113,8 +113,8 @@
   ],
   "visibility": "public",
   "forks": 172,
-  "open_issues": 86,
-  "watchers": 5115,
+  "open_issues": 87,
+  "watchers": 5114,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 607
+  "_index": 608
 }
