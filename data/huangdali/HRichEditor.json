@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/huangdali/HRichEditor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/huangdali/HRichEditor/deployments",
   "created_at": "2017-07-01T13:45:16Z",
-  "updated_at": "2023-04-22T00:58:55Z",
+  "updated_at": "2023-04-30T11:45:44Z",
   "pushed_at": "2017-07-26T15:15:26Z",
   "git_url": "git://github.com/huangdali/HRichEditor.git",
   "ssh_url": "git@github.com:huangdali/HRichEditor.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/huangdali/HRichEditor",
   "homepage": null,
   "size": 14582,
-  "stargazers_count": 320,
-  "watchers_count": 320,
+  "stargazers_count": 321,
+  "watchers_count": 321,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 68,
   "open_issues": 3,
-  "watchers": 320,
+  "watchers": 321,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1610
+  "_index": 1611
 }

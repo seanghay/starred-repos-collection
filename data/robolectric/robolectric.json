@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/robolectric/robolectric/deployments",
   "created_at": "2010-08-28T00:28:25Z",
   "updated_at": "2023-04-28T15:00:35Z",
-  "pushed_at": "2023-04-29T17:03:12Z",
+  "pushed_at": "2023-05-01T01:24:13Z",
   "git_url": "git://github.com/robolectric/robolectric.git",
   "ssh_url": "git@github.com:robolectric/robolectric.git",
   "clone_url": "https://github.com/robolectric/robolectric.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2003
+  "_index": 2004
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/meilisearch/meilisearch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/meilisearch/meilisearch/deployments",
   "created_at": "2018-04-23T11:45:28Z",
-  "updated_at": "2023-04-29T20:07:13Z",
+  "updated_at": "2023-05-01T01:21:15Z",
   "pushed_at": "2023-04-29T09:48:16Z",
   "git_url": "git://github.com/meilisearch/meilisearch.git",
   "ssh_url": "git@github.com:meilisearch/meilisearch.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/meilisearch/meilisearch",
   "homepage": "https://www.meilisearch.com",
   "size": 54211,
-  "stargazers_count": 36039,
-  "watchers_count": 36039,
+  "stargazers_count": 36060,
+  "watchers_count": 36060,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 146,
+  "open_issues_count": 147,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -120,8 +120,8 @@
   ],
   "visibility": "public",
   "forks": 1305,
-  "open_issues": 146,
-  "watchers": 36039,
+  "open_issues": 147,
+  "watchers": 36060,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 839
+  "_index": 840
 }

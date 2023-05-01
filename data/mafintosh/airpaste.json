@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mafintosh/airpaste/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mafintosh/airpaste/deployments",
   "created_at": "2015-03-21T16:09:00Z",
-  "updated_at": "2023-04-24T18:24:38Z",
+  "updated_at": "2023-04-30T14:03:34Z",
   "pushed_at": "2021-08-18T11:18:53Z",
   "git_url": "git://github.com/mafintosh/airpaste.git",
   "ssh_url": "git@github.com:mafintosh/airpaste.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mafintosh/airpaste",
   "homepage": "",
   "size": 12,
-  "stargazers_count": 815,
-  "watchers_count": 815,
+  "stargazers_count": 816,
+  "watchers_count": 816,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 26,
   "open_issues": 4,
-  "watchers": 815,
+  "watchers": 816,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 281
+  "_index": 282
 }

@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 20,
+  "forks_count": 21,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,7 +107,7 @@
     "stylus"
   ],
   "visibility": "public",
-  "forks": 20,
+  "forks": 21,
   "open_issues": 33,
   "watchers": 577,
   "default_branch": "master",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1041
+  "_index": 1042
 }

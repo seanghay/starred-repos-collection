@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nodejs/nodejs.dev/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nodejs/nodejs.dev/deployments",
   "created_at": "2019-01-29T17:59:15Z",
-  "updated_at": "2023-04-28T15:48:34Z",
+  "updated_at": "2023-04-30T12:53:51Z",
   "pushed_at": "2023-03-20T11:25:19Z",
   "git_url": "git://github.com/nodejs/nodejs.dev.git",
   "ssh_url": "git@github.com:nodejs/nodejs.dev.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nodejs/nodejs.dev",
   "homepage": "https://nodejs.dev",
   "size": 110809,
-  "stargazers_count": 2259,
-  "watchers_count": 2259,
+  "stargazers_count": 2260,
+  "watchers_count": 2260,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1036,
+  "forks_count": 1037,
   "mirror_url": null,
   "archived": true,
   "disabled": false,
@@ -108,9 +108,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 1036,
+  "forks": 1037,
   "open_issues": 0,
-  "watchers": 2259,
+  "watchers": 2260,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1340
+  "_index": 1341
 }

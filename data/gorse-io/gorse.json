@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/gorse-io/gorse",
-  "description": "An open source recommender system service written in Go",
+  "description": "Gorse open source recommender system engine",
   "fork": false,
   "url": "https://api.github.com/repos/gorse-io/gorse",
   "forks_url": "https://api.github.com/repos/gorse-io/gorse/forks",
@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/gorse-io/gorse/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gorse-io/gorse/deployments",
   "created_at": "2018-08-14T11:01:09Z",
-  "updated_at": "2023-04-29T16:53:41Z",
+  "updated_at": "2023-04-30T03:44:55Z",
   "pushed_at": "2023-04-18T00:47:04Z",
   "git_url": "git://github.com/gorse-io/gorse.git",
   "ssh_url": "git@github.com:gorse-io/gorse.git",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 818
+  "_index": 819
 }

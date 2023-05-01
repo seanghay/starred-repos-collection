@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/dafny-lang/dafny/deployments",
   "created_at": "2016-04-16T20:05:38Z",
   "updated_at": "2023-04-27T14:18:55Z",
-  "pushed_at": "2023-04-30T00:23:16Z",
+  "pushed_at": "2023-05-01T00:58:27Z",
   "git_url": "git://github.com/dafny-lang/dafny.git",
   "ssh_url": "git@github.com:dafny-lang/dafny.git",
   "clone_url": "https://github.com/dafny-lang/dafny.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 899,
+  "open_issues_count": 900,
   "license": {
     "key": "other",
     "name": "Other",
@@ -103,7 +103,7 @@
   ],
   "visibility": "public",
   "forks": 216,
-  "open_issues": 899,
+  "open_issues": 900,
   "watchers": 2051,
   "default_branch": "master",
   "permissions": {
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2534
+  "_index": 2535
 }

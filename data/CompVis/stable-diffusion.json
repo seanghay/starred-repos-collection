@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/CompVis/stable-diffusion/releases{/id}",
   "deployments_url": "https://api.github.com/repos/CompVis/stable-diffusion/deployments",
   "created_at": "2022-08-10T14:36:44Z",
-  "updated_at": "2023-04-30T01:02:04Z",
+  "updated_at": "2023-05-01T01:36:47Z",
   "pushed_at": "2023-04-26T04:11:29Z",
   "git_url": "git://github.com/CompVis/stable-diffusion.git",
   "ssh_url": "git@github.com:CompVis/stable-diffusion.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/CompVis/stable-diffusion",
   "homepage": "https://ommer-lab.com/research/latent-diffusion-models/",
   "size": 43676,
-  "stargazers_count": 52687,
-  "watchers_count": 52687,
+  "stargazers_count": 52738,
+  "watchers_count": 52738,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 8177,
+  "forks_count": 8189,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 477,
+  "open_issues_count": 478,
   "license": {
     "key": "other",
     "name": "Other",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 8177,
-  "open_issues": 477,
-  "watchers": 52687,
+  "forks": 8189,
+  "open_issues": 478,
+  "watchers": 52738,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 216
+  "_index": 217
 }

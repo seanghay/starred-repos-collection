@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/nodejs/undici/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nodejs/undici/deployments",
   "created_at": "2018-05-11T22:07:48Z",
-  "updated_at": "2023-04-30T01:48:56Z",
-  "pushed_at": "2023-04-30T01:38:54Z",
+  "updated_at": "2023-04-30T15:33:20Z",
+  "pushed_at": "2023-04-30T14:02:38Z",
   "git_url": "git://github.com/nodejs/undici.git",
   "ssh_url": "git@github.com:nodejs/undici.git",
   "clone_url": "https://github.com/nodejs/undici.git",
   "svn_url": "https://github.com/nodejs/undici",
   "homepage": "https://nodejs.github.io/undici",
-  "size": 6910,
-  "stargazers_count": 4738,
-  "watchers_count": 4738,
+  "size": 6918,
+  "stargazers_count": 4740,
+  "watchers_count": 4740,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 134,
+  "open_issues_count": 133,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,8 +104,8 @@
   ],
   "visibility": "public",
   "forks": 353,
-  "open_issues": 134,
-  "watchers": 4738,
+  "open_issues": 133,
+  "watchers": 4740,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 307
+  "_index": 308
 }

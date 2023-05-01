@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/JanKallman/EPPlus/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JanKallman/EPPlus/deployments",
   "created_at": "2017-07-12T06:59:15Z",
-  "updated_at": "2023-04-28T03:05:11Z",
+  "updated_at": "2023-04-30T05:45:13Z",
   "pushed_at": "2020-08-29T16:29:42Z",
   "git_url": "git://github.com/JanKallman/EPPlus.git",
   "ssh_url": "git@github.com:JanKallman/EPPlus.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/JanKallman/EPPlus",
   "homepage": "",
   "size": 14063,
-  "stargazers_count": 3667,
-  "watchers_count": 3667,
+  "stargazers_count": 3666,
+  "watchers_count": 3666,
   "language": "C#",
   "has_issues": true,
   "has_projects": false,
@@ -100,7 +100,7 @@
   "visibility": "public",
   "forks": 1129,
   "open_issues": 453,
-  "watchers": 3667,
+  "watchers": 3666,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1704
+  "_index": 1705
 }

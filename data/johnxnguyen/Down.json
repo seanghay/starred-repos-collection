@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/johnxnguyen/Down/releases{/id}",
   "deployments_url": "https://api.github.com/repos/johnxnguyen/Down/deployments",
   "created_at": "2016-05-29T00:28:59Z",
-  "updated_at": "2023-04-28T09:37:38Z",
+  "updated_at": "2023-04-30T23:45:12Z",
   "pushed_at": "2023-02-15T20:33:08Z",
   "git_url": "git://github.com/johnxnguyen/Down.git",
   "ssh_url": "git@github.com:johnxnguyen/Down.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/johnxnguyen/Down",
   "homepage": "",
   "size": 19670,
-  "stargazers_count": 2057,
-  "watchers_count": 2057,
+  "stargazers_count": 2059,
+  "watchers_count": 2059,
   "language": "C",
   "has_issues": true,
   "has_projects": false,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 301,
   "open_issues": 29,
-  "watchers": 2057,
+  "watchers": 2059,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1404
+  "_index": 1405
 }

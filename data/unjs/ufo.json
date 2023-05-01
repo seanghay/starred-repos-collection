@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/unjs/ufo.git",
   "svn_url": "https://github.com/unjs/ufo",
   "homepage": "",
-  "size": 866,
+  "size": 861,
   "stargazers_count": 581,
   "watchers_count": 581,
   "language": "TypeScript",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1099
+  "_index": 1100
 }

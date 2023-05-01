@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/chroma-core/chroma/releases{/id}",
   "deployments_url": "https://api.github.com/repos/chroma-core/chroma/deployments",
   "created_at": "2022-10-05T17:58:44Z",
-  "updated_at": "2023-04-30T01:22:12Z",
-  "pushed_at": "2023-04-30T00:48:42Z",
+  "updated_at": "2023-05-01T01:49:22Z",
+  "pushed_at": "2023-04-30T17:15:14Z",
   "git_url": "git://github.com/chroma-core/chroma.git",
   "ssh_url": "git@github.com:chroma-core/chroma.git",
   "clone_url": "https://github.com/chroma-core/chroma.git",
   "svn_url": "https://github.com/chroma-core/chroma",
   "homepage": "https://www.trychroma.com/",
   "size": 175860,
-  "stargazers_count": 4285,
-  "watchers_count": 4285,
+  "stargazers_count": 4329,
+  "watchers_count": 4329,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 229,
+  "forks_count": 231,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 116,
+  "open_issues_count": 117,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -103,9 +103,9 @@
     "llms"
   ],
   "visibility": "public",
-  "forks": 229,
-  "open_issues": 116,
-  "watchers": 4285,
+  "forks": 231,
+  "open_issues": 117,
+  "watchers": 4329,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 21
+  "_index": 22
 }

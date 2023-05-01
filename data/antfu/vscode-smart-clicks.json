@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/antfu/vscode-smart-clicks/releases{/id}",
   "deployments_url": "https://api.github.com/repos/antfu/vscode-smart-clicks/deployments",
   "created_at": "2022-03-23T05:10:37Z",
-  "updated_at": "2023-04-27T09:46:22Z",
-  "pushed_at": "2022-08-23T05:24:49Z",
+  "updated_at": "2023-05-01T00:57:24Z",
+  "pushed_at": "2023-04-30T21:25:39Z",
   "git_url": "git://github.com/antfu/vscode-smart-clicks.git",
   "ssh_url": "git@github.com:antfu/vscode-smart-clicks.git",
   "clone_url": "https://github.com/antfu/vscode-smart-clicks.git",
   "svn_url": "https://github.com/antfu/vscode-smart-clicks",
   "homepage": "https://marketplace.visualstudio.com/items?itemName=antfu.smart-clicks",
-  "size": 215,
-  "stargazers_count": 541,
-  "watchers_count": 541,
+  "size": 295,
+  "stargazers_count": 542,
+  "watchers_count": 542,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 7,
+  "forks_count": 8,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,9 +102,9 @@
     "vscode-extension"
   ],
   "visibility": "public",
-  "forks": 7,
+  "forks": 8,
   "open_issues": 7,
-  "watchers": 541,
+  "watchers": 542,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 725
+  "_index": 726
 }

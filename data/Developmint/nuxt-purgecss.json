@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/Developmint/nuxt-purgecss/deployments",
   "created_at": "2018-10-21T11:07:01Z",
   "updated_at": "2023-04-29T19:37:56Z",
-  "pushed_at": "2023-04-28T20:27:12Z",
+  "pushed_at": "2023-04-30T11:11:08Z",
   "git_url": "git://github.com/Developmint/nuxt-purgecss.git",
   "ssh_url": "git@github.com:Developmint/nuxt-purgecss.git",
   "clone_url": "https://github.com/Developmint/nuxt-purgecss.git",
   "svn_url": "https://github.com/Developmint/nuxt-purgecss",
   "homepage": "",
-  "size": 1137,
+  "size": 1136,
   "stargazers_count": 435,
   "watchers_count": 435,
   "language": "TypeScript",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 387
+  "_index": 388
 }

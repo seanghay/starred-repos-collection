@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/VietHoang1512/khmer-nltk/releases{/id}",
   "deployments_url": "https://api.github.com/repos/VietHoang1512/khmer-nltk/deployments",
   "created_at": "2020-11-16T14:30:10Z",
-  "updated_at": "2023-04-19T08:27:22Z",
+  "updated_at": "2023-04-30T11:32:55Z",
   "pushed_at": "2022-12-26T17:44:39Z",
   "git_url": "git://github.com/VietHoang1512/khmer-nltk.git",
   "ssh_url": "git@github.com:VietHoang1512/khmer-nltk.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/VietHoang1512/khmer-nltk",
   "homepage": "https://pypi.org/project/khmer-nltk/",
   "size": 10484,
-  "stargazers_count": 44,
-  "watchers_count": 44,
+  "stargazers_count": 45,
+  "watchers_count": 45,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 14,
   "open_issues": 0,
-  "watchers": 44,
+  "watchers": 45,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1308
+  "_index": 1309
 }
