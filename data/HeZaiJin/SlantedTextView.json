@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/HeZaiJin/SlantedTextView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/HeZaiJin/SlantedTextView/deployments",
   "created_at": "2016-06-30T01:41:30Z",
-  "updated_at": "2023-04-28T07:54:23Z",
+  "updated_at": "2023-05-01T14:26:49Z",
   "pushed_at": "2023-02-19T02:51:35Z",
   "git_url": "git://github.com/HeZaiJin/SlantedTextView.git",
   "ssh_url": "git@github.com:HeZaiJin/SlantedTextView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/HeZaiJin/SlantedTextView",
   "homepage": "https://github.com/HeZaiJin/SlantedTextView",
   "size": 763,
-  "stargazers_count": 2256,
-  "watchers_count": 2256,
+  "stargazers_count": 2255,
+  "watchers_count": 2255,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -100,7 +100,7 @@
   "visibility": "public",
   "forks": 335,
   "open_issues": 2,
-  "watchers": 2256,
+  "watchers": 2255,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1723
+  "_index": 1724
 }

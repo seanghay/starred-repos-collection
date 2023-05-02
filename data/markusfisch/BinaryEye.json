@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/markusfisch/BinaryEye/releases{/id}",
   "deployments_url": "https://api.github.com/repos/markusfisch/BinaryEye/deployments",
   "created_at": "2017-08-27T13:03:48Z",
-  "updated_at": "2023-04-30T06:48:43Z",
-  "pushed_at": "2023-04-28T10:11:22Z",
+  "updated_at": "2023-05-01T11:38:02Z",
+  "pushed_at": "2023-05-01T17:25:06Z",
   "git_url": "git://github.com/markusfisch/BinaryEye.git",
   "ssh_url": "git@github.com:markusfisch/BinaryEye.git",
   "clone_url": "https://github.com/markusfisch/BinaryEye.git",
   "svn_url": "https://github.com/markusfisch/BinaryEye",
   "homepage": "https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye",
-  "size": 21620,
-  "stargazers_count": 906,
-  "watchers_count": 906,
+  "size": 21626,
+  "stargazers_count": 908,
+  "watchers_count": 908,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 89,
+  "forks_count": 91,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,9 +106,9 @@
     "zxing"
   ],
   "visibility": "public",
-  "forks": 89,
+  "forks": 91,
   "open_issues": 77,
-  "watchers": 906,
+  "watchers": 908,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1221
+  "_index": 1222
 }

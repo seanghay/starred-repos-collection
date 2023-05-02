@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/transferwise/sequence-layout/deployments",
   "created_at": "2018-03-19T11:38:50Z",
   "updated_at": "2023-04-27T14:35:27Z",
-  "pushed_at": "2023-04-10T12:57:38Z",
+  "pushed_at": "2023-05-01T13:00:43Z",
   "git_url": "git://github.com/transferwise/sequence-layout.git",
   "ssh_url": "git@github.com:transferwise/sequence-layout.git",
   "clone_url": "https://github.com/transferwise/sequence-layout.git",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2567
+  "_index": 2568
 }

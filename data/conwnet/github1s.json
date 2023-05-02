@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/conwnet/github1s/releases{/id}",
   "deployments_url": "https://api.github.com/repos/conwnet/github1s/deployments",
   "created_at": "2019-06-16T09:55:25Z",
-  "updated_at": "2023-04-30T18:45:48Z",
+  "updated_at": "2023-05-01T12:58:15Z",
   "pushed_at": "2023-04-25T20:08:44Z",
   "git_url": "git://github.com/conwnet/github1s.git",
   "ssh_url": "git@github.com:conwnet/github1s.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/conwnet/github1s",
   "homepage": "https://github1s.com",
   "size": 17150,
-  "stargazers_count": 21901,
-  "watchers_count": 21901,
+  "stargazers_count": 21903,
+  "watchers_count": 21903,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 798,
+  "forks_count": 797,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,9 +102,9 @@
     "vscode"
   ],
   "visibility": "public",
-  "forks": 798,
+  "forks": 797,
   "open_issues": 58,
-  "watchers": 21901,
+  "watchers": 21903,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1323
+  "_index": 1324
 }

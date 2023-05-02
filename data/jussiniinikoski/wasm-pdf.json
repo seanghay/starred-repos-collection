@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/jussiniinikoski/wasm-pdf/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jussiniinikoski/wasm-pdf/deployments",
   "created_at": "2019-05-31T15:16:15Z",
-  "updated_at": "2023-04-25T11:32:29Z",
-  "pushed_at": "2023-03-14T22:16:13Z",
+  "updated_at": "2023-05-01T12:42:21Z",
+  "pushed_at": "2023-05-01T06:19:32Z",
   "git_url": "git://github.com/jussiniinikoski/wasm-pdf.git",
   "ssh_url": "git@github.com:jussiniinikoski/wasm-pdf.git",
   "clone_url": "https://github.com/jussiniinikoski/wasm-pdf.git",
   "svn_url": "https://github.com/jussiniinikoski/wasm-pdf",
   "homepage": "",
-  "size": 536,
-  "stargazers_count": 414,
-  "watchers_count": 414,
+  "size": 581,
+  "stargazers_count": 415,
+  "watchers_count": 415,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 10,
+  "open_issues_count": 11,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -109,8 +109,8 @@
   ],
   "visibility": "public",
   "forks": 36,
-  "open_issues": 10,
-  "watchers": 414,
+  "open_issues": 11,
+  "watchers": 415,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 107
+  "_index": 108
 }

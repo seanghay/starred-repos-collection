@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/Shivanandroy/simpleT5/deployments",
   "created_at": "2021-05-28T08:23:12Z",
   "updated_at": "2023-05-01T01:00:42Z",
-  "pushed_at": "2023-04-24T05:57:21Z",
+  "pushed_at": "2023-05-01T20:44:53Z",
   "git_url": "git://github.com/Shivanandroy/simpleT5.git",
   "ssh_url": "git@github.com:Shivanandroy/simpleT5.git",
   "clone_url": "https://github.com/Shivanandroy/simpleT5.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 54,
+  "forks_count": 55,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 30,
+  "open_issues_count": 31,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -111,8 +111,8 @@
     "translation"
   ],
   "visibility": "public",
-  "forks": 54,
-  "open_issues": 30,
+  "forks": 55,
+  "open_issues": 31,
   "watchers": 298,
   "default_branch": "main",
   "permissions": {
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 7
+  "_index": 8
 }

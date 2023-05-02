@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/garden-io/garden/deployments",
   "created_at": "2017-12-03T02:10:59Z",
   "updated_at": "2023-04-30T20:41:14Z",
-  "pushed_at": "2023-04-30T21:24:12Z",
+  "pushed_at": "2023-05-02T00:04:14Z",
   "git_url": "git://github.com/garden-io/garden.git",
   "ssh_url": "git@github.com:garden-io/garden.git",
   "clone_url": "https://github.com/garden-io/garden.git",
   "svn_url": "https://github.com/garden-io/garden",
   "homepage": "https://garden.io",
-  "size": 87696,
+  "size": 87799,
   "stargazers_count": 2819,
   "watchers_count": 2819,
   "language": "TypeScript",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 631
+  "_index": 632
 }

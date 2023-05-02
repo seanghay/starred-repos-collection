@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/raycast/extensions/releases{/id}",
   "deployments_url": "https://api.github.com/repos/raycast/extensions/deployments",
   "created_at": "2021-09-21T14:43:50Z",
-  "updated_at": "2023-04-30T23:01:12Z",
-  "pushed_at": "2023-04-30T21:20:39Z",
+  "updated_at": "2023-05-01T23:51:43Z",
+  "pushed_at": "2023-05-02T01:52:26Z",
   "git_url": "git://github.com/raycast/extensions.git",
   "ssh_url": "git@github.com:raycast/extensions.git",
   "clone_url": "https://github.com/raycast/extensions.git",
   "svn_url": "https://github.com/raycast/extensions",
   "homepage": "https://developers.raycast.com",
-  "size": 4429375,
-  "stargazers_count": 3650,
-  "watchers_count": 3650,
+  "size": 4456476,
+  "stargazers_count": 3656,
+  "watchers_count": 3656,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 611,
+  "open_issues_count": 601,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 1555,
-  "open_issues": 611,
-  "watchers": 3650,
+  "open_issues": 601,
+  "watchers": 3656,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 910
+  "_index": 911
 }

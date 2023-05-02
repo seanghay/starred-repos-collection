@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jaywalnut310/vits/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jaywalnut310/vits/deployments",
   "created_at": "2021-05-26T23:38:12Z",
-  "updated_at": "2023-05-01T01:53:41Z",
+  "updated_at": "2023-05-02T01:28:14Z",
   "pushed_at": "2023-04-24T09:44:54Z",
   "git_url": "git://github.com/jaywalnut310/vits.git",
   "ssh_url": "git@github.com:jaywalnut310/vits.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jaywalnut310/vits",
   "homepage": "https://jaywalnut310.github.io/vits-demo/index.html",
   "size": 3423,
-  "stargazers_count": 3480,
-  "watchers_count": 3480,
+  "stargazers_count": 3534,
+  "watchers_count": 3534,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 797,
+  "forks_count": 803,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "tts"
   ],
   "visibility": "public",
-  "forks": 797,
+  "forks": 803,
   "open_issues": 95,
-  "watchers": 3480,
+  "watchers": 3534,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 96
+  "_index": 97
 }

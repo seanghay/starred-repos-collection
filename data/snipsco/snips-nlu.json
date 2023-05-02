@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/snipsco/snips-nlu/releases{/id}",
   "deployments_url": "https://api.github.com/repos/snipsco/snips-nlu/deployments",
   "created_at": "2017-02-08T16:16:36Z",
-  "updated_at": "2023-05-01T00:35:56Z",
+  "updated_at": "2023-05-01T17:05:24Z",
   "pushed_at": "2021-11-17T15:23:01Z",
   "git_url": "git://github.com/snipsco/snips-nlu.git",
   "ssh_url": "git@github.com:snipsco/snips-nlu.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/snipsco/snips-nlu",
   "homepage": "https://snips-nlu.readthedocs.io",
   "size": 20278,
-  "stargazers_count": 3790,
-  "watchers_count": 3790,
+  "stargazers_count": 3792,
+  "watchers_count": 3792,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -118,7 +118,7 @@
   "visibility": "public",
   "forks": 526,
   "open_issues": 63,
-  "watchers": 3790,
+  "watchers": 3792,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 119
+  "_index": 120
 }
