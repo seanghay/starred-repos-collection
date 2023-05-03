@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/actions/setup-node/releases{/id}",
   "deployments_url": "https://api.github.com/repos/actions/setup-node/deployments",
   "created_at": "2019-05-30T20:19:16Z",
-  "updated_at": "2023-05-01T17:50:46Z",
+  "updated_at": "2023-05-02T20:35:45Z",
   "pushed_at": "2023-04-28T14:09:43Z",
   "git_url": "git://github.com/actions/setup-node.git",
   "ssh_url": "git@github.com:actions/setup-node.git",

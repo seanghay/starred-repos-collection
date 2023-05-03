@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ajalt/clikt/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ajalt/clikt/deployments",
   "created_at": "2018-04-10T18:04:56Z",
-  "updated_at": "2023-05-01T22:35:42Z",
+  "updated_at": "2023-05-02T13:08:54Z",
   "pushed_at": "2023-04-22T16:40:35Z",
   "git_url": "git://github.com/ajalt/clikt.git",
   "ssh_url": "git@github.com:ajalt/clikt.git",

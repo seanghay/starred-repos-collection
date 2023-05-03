@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/jorgebucaran/hyperapp",
-  "description": "1kB-ish JavaScript framework for building hypertext applications.",
+  "description": "1kB-ish JavaScript framework for building hypertext applications",
   "fork": false,
   "url": "https://api.github.com/repos/jorgebucaran/hyperapp",
   "forks_url": "https://api.github.com/repos/jorgebucaran/hyperapp/forks",
@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jorgebucaran/hyperapp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jorgebucaran/hyperapp/deployments",
   "created_at": "2017-01-20T05:20:21Z",
-  "updated_at": "2023-05-01T22:45:09Z",
+  "updated_at": "2023-05-02T21:59:57Z",
   "pushed_at": "2023-04-04T02:24:03Z",
   "git_url": "git://github.com/jorgebucaran/hyperapp.git",
   "ssh_url": "git@github.com:jorgebucaran/hyperapp.git",
