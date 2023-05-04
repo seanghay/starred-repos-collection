@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/feross/thanks/releases{/id}",
   "deployments_url": "https://api.github.com/repos/feross/thanks/deployments",
   "created_at": "2018-02-07T06:48:13Z",
-  "updated_at": "2023-04-30T14:38:41Z",
+  "updated_at": "2023-05-03T11:40:08Z",
   "pushed_at": "2022-07-02T14:00:39Z",
   "git_url": "git://github.com/feross/thanks.git",
   "ssh_url": "git@github.com:feross/thanks.git",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2518
+  "_index": 2520
 }

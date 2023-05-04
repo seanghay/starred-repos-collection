@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/vuejs/language-tools/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vuejs/language-tools/deployments",
   "created_at": "2020-05-01T20:40:41Z",
-  "updated_at": "2023-05-03T00:01:55Z",
-  "pushed_at": "2023-05-01T23:52:01Z",
+  "updated_at": "2023-05-04T01:46:55Z",
+  "pushed_at": "2023-05-04T00:27:11Z",
   "git_url": "git://github.com/vuejs/language-tools.git",
   "ssh_url": "git@github.com:vuejs/language-tools.git",
   "clone_url": "https://github.com/vuejs/language-tools.git",
   "svn_url": "https://github.com/vuejs/language-tools",
   "homepage": "https://marketplace.visualstudio.com/items?itemName=Vue.volar",
-  "size": 27360,
-  "stargazers_count": 4488,
-  "watchers_count": 4488,
+  "size": 27140,
+  "stargazers_count": 4494,
+  "watchers_count": 4494,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 90,
+  "open_issues_count": 77,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 269,
-  "open_issues": 90,
-  "watchers": 4488,
+  "open_issues": 77,
+  "watchers": 4494,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 618
+  "_index": 620
 }

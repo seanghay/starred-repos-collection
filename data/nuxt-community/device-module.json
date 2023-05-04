@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/nuxt-community/device-module/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nuxt-community/device-module/deployments",
   "created_at": "2017-12-08T03:27:36Z",
-  "updated_at": "2023-05-02T05:35:32Z",
-  "pushed_at": "2023-05-03T00:42:36Z",
+  "updated_at": "2023-05-03T08:57:04Z",
+  "pushed_at": "2023-05-03T22:40:48Z",
   "git_url": "git://github.com/nuxt-community/device-module.git",
   "ssh_url": "git@github.com:nuxt-community/device-module.git",
   "clone_url": "https://github.com/nuxt-community/device-module.git",
   "svn_url": "https://github.com/nuxt-community/device-module",
   "homepage": "",
-  "size": 1357,
-  "stargazers_count": 715,
-  "watchers_count": 715,
+  "size": 1391,
+  "stargazers_count": 716,
+  "watchers_count": 716,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 41,
   "open_issues": 32,
-  "watchers": 715,
+  "watchers": 716,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 953
+  "_index": 955
 }

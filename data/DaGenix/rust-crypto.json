@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/DaGenix/rust-crypto/releases{/id}",
   "deployments_url": "https://api.github.com/repos/DaGenix/rust-crypto/deployments",
   "created_at": "2013-10-09T03:15:53Z",
-  "updated_at": "2023-05-02T17:41:18Z",
+  "updated_at": "2023-05-03T18:23:28Z",
   "pushed_at": "2023-03-20T06:55:07Z",
   "git_url": "git://github.com/DaGenix/rust-crypto.git",
   "ssh_url": "git@github.com:DaGenix/rust-crypto.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/DaGenix/rust-crypto",
   "homepage": "",
   "size": 2665,
-  "stargazers_count": 1289,
-  "watchers_count": 1289,
+  "stargazers_count": 1290,
+  "watchers_count": 1290,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 276,
   "open_issues": 111,
-  "watchers": 1289,
+  "watchers": 1290,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 187
+  "_index": 189
 }

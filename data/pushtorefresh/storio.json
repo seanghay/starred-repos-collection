@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pushtorefresh/storio/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pushtorefresh/storio/deployments",
   "created_at": "2014-08-30T23:23:41Z",
-  "updated_at": "2023-04-28T01:11:39Z",
+  "updated_at": "2023-05-03T12:31:02Z",
   "pushed_at": "2021-08-10T06:11:26Z",
   "git_url": "git://github.com/pushtorefresh/storio.git",
   "ssh_url": "git@github.com:pushtorefresh/storio.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/pushtorefresh/storio",
   "homepage": "",
   "size": 4427,
-  "stargazers_count": 2562,
-  "watchers_count": 2562,
+  "stargazers_count": 2563,
+  "watchers_count": 2563,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 187,
   "open_issues": 42,
-  "watchers": 2562,
+  "watchers": 2563,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2083
+  "_index": 2085
 }

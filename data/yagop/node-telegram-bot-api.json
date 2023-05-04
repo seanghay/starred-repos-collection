@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/yagop/node-telegram-bot-api/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yagop/node-telegram-bot-api/deployments",
   "created_at": "2015-06-28T22:35:33Z",
-  "updated_at": "2023-05-03T01:13:35Z",
-  "pushed_at": "2023-05-01T17:18:05Z",
+  "updated_at": "2023-05-03T13:41:09Z",
+  "pushed_at": "2023-05-03T08:32:25Z",
   "git_url": "git://github.com/yagop/node-telegram-bot-api.git",
   "ssh_url": "git@github.com:yagop/node-telegram-bot-api.git",
   "clone_url": "https://github.com/yagop/node-telegram-bot-api.git",
   "svn_url": "https://github.com/yagop/node-telegram-bot-api",
   "homepage": "",
-  "size": 2175,
-  "stargazers_count": 7074,
-  "watchers_count": 7074,
+  "size": 2177,
+  "stargazers_count": 7076,
+  "watchers_count": 7076,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1389,
+  "forks_count": 1391,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 69,
+  "open_issues_count": 67,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,9 +106,9 @@
     "telegram"
   ],
   "visibility": "public",
-  "forks": 1389,
-  "open_issues": 69,
-  "watchers": 7074,
+  "forks": 1391,
+  "open_issues": 67,
+  "watchers": 7076,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 825
+  "_index": 827
 }

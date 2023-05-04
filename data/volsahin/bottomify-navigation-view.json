@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 16,
+  "forks_count": 15,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -111,7 +111,7 @@
     "spotify"
   ],
   "visibility": "public",
-  "forks": 16,
+  "forks": 15,
   "open_issues": 1,
   "watchers": 119,
   "default_branch": "master",
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2054
+  "_index": 2056
 }

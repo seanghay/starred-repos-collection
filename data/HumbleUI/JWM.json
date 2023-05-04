@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/HumbleUI/JWM/releases{/id}",
   "deployments_url": "https://api.github.com/repos/HumbleUI/JWM/deployments",
   "created_at": "2021-05-04T08:58:32Z",
-  "updated_at": "2023-04-30T23:49:11Z",
+  "updated_at": "2023-05-03T17:44:12Z",
   "pushed_at": "2023-04-03T17:35:28Z",
   "git_url": "git://github.com/HumbleUI/JWM.git",
   "ssh_url": "git@github.com:HumbleUI/JWM.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/HumbleUI/JWM",
   "homepage": "",
   "size": 2483,
-  "stargazers_count": 462,
-  "watchers_count": 462,
+  "stargazers_count": 463,
+  "watchers_count": 463,
   "language": "C++",
   "has_issues": true,
   "has_projects": false,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 37,
   "open_issues": 46,
-  "watchers": 462,
+  "watchers": 463,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1147
+  "_index": 1149
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/ReactiveCircus/app-versioning/deployments",
   "created_at": "2020-04-16T12:46:29Z",
   "updated_at": "2023-04-27T14:28:51Z",
-  "pushed_at": "2023-05-02T01:01:45Z",
+  "pushed_at": "2023-05-03T12:57:43Z",
   "git_url": "git://github.com/ReactiveCircus/app-versioning.git",
   "ssh_url": "git@github.com:ReactiveCircus/app-versioning.git",
   "clone_url": "https://github.com/ReactiveCircus/app-versioning.git",
   "svn_url": "https://github.com/ReactiveCircus/app-versioning",
   "homepage": "",
-  "size": 619,
+  "size": 620,
   "stargazers_count": 162,
   "watchers_count": 162,
   "language": "Kotlin",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1044
+  "_index": 1046
 }

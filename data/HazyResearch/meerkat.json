@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/HazyResearch/meerkat/releases{/id}",
   "deployments_url": "https://api.github.com/repos/HazyResearch/meerkat/deployments",
   "created_at": "2021-05-07T00:26:35Z",
-  "updated_at": "2023-05-02T17:47:38Z",
+  "updated_at": "2023-05-03T17:09:53Z",
   "pushed_at": "2023-05-02T04:26:21Z",
   "git_url": "git://github.com/HazyResearch/meerkat.git",
   "ssh_url": "git@github.com:HazyResearch/meerkat.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/HazyResearch/meerkat",
   "homepage": "",
   "size": 57264,
-  "stargazers_count": 472,
-  "watchers_count": 472,
+  "stargazers_count": 473,
+  "watchers_count": 473,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 31,
   "open_issues": 7,
-  "watchers": 472,
+  "watchers": 473,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 35
+  "_index": 37
 }

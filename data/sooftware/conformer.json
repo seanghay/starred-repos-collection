@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sooftware/conformer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sooftware/conformer/deployments",
   "created_at": "2021-01-21T15:57:20Z",
-  "updated_at": "2023-05-01T19:58:52Z",
+  "updated_at": "2023-05-03T09:32:40Z",
   "pushed_at": "2023-04-26T06:14:47Z",
   "git_url": "git://github.com/sooftware/conformer.git",
   "ssh_url": "git@github.com:sooftware/conformer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sooftware/conformer",
   "homepage": "",
   "size": 2941,
-  "stargazers_count": 655,
-  "watchers_count": 655,
+  "stargazers_count": 656,
+  "watchers_count": 656,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 134,
+  "forks_count": 135,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -112,9 +112,9 @@
     "transformer-xl"
   ],
   "visibility": "public",
-  "forks": 134,
+  "forks": 135,
   "open_issues": 18,
-  "watchers": 655,
+  "watchers": 656,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 102
+  "_index": 104
 }

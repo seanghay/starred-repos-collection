@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/sanchit-gandhi/whisper-jax",
-  "description": null,
+  "description": "JAX implementation of OpenAI's Whisper model for up to 70x speed-up on TPU.",
   "fork": false,
   "url": "https://api.github.com/repos/sanchit-gandhi/whisper-jax",
   "forks_url": "https://api.github.com/repos/sanchit-gandhi/whisper-jax/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/sanchit-gandhi/whisper-jax/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sanchit-gandhi/whisper-jax/deployments",
   "created_at": "2023-03-02T12:30:52Z",
-  "updated_at": "2023-05-03T01:25:51Z",
+  "updated_at": "2023-05-04T01:48:06Z",
   "pushed_at": "2023-05-02T09:45:29Z",
   "git_url": "git://github.com/sanchit-gandhi/whisper-jax.git",
   "ssh_url": "git@github.com:sanchit-gandhi/whisper-jax.git",
   "clone_url": "https://github.com/sanchit-gandhi/whisper-jax.git",
   "svn_url": "https://github.com/sanchit-gandhi/whisper-jax",
-  "homepage": null,
+  "homepage": "",
   "size": 9212,
-  "stargazers_count": 2328,
-  "watchers_count": 2328,
+  "stargazers_count": 2361,
+  "watchers_count": 2361,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 168,
+  "forks_count": 170,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 40,
+  "open_issues_count": 44,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -97,11 +97,17 @@
   "allow_forking": true,
   "is_template": false,
   "web_commit_signoff_required": false,
-  "topics": [],
+  "topics": [
+    "deep-learning",
+    "jax",
+    "speech-recognition",
+    "speech-to-text",
+    "whisper"
+  ],
   "visibility": "public",
-  "forks": 168,
-  "open_issues": 40,
-  "watchers": 2328,
+  "forks": 170,
+  "open_issues": 44,
+  "watchers": 2361,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 15
+  "_index": 17
 }

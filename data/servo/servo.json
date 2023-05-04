@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/servo/servo/deployments",
   "created_at": "2012-02-08T19:07:25Z",
   "updated_at": "2023-05-03T01:00:58Z",
-  "pushed_at": "2023-05-02T17:50:46Z",
+  "pushed_at": "2023-05-03T21:31:21Z",
   "git_url": "git://github.com/servo/servo.git",
   "ssh_url": "git@github.com:servo/servo.git",
   "clone_url": "https://github.com/servo/servo.git",
   "svn_url": "https://github.com/servo/servo",
   "homepage": "https://servo.org/",
-  "size": 1306258,
+  "size": 1306294,
   "stargazers_count": 22961,
   "watchers_count": 22961,
   "language": null,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 244
+  "_index": 246
 }

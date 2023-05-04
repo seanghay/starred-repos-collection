@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/edgedb/edgedb/releases{/id}",
   "deployments_url": "https://api.github.com/repos/edgedb/edgedb/deployments",
   "created_at": "2017-06-29T20:30:48Z",
-  "updated_at": "2023-05-02T22:27:46Z",
-  "pushed_at": "2023-05-03T00:28:36Z",
+  "updated_at": "2023-05-04T00:29:29Z",
+  "pushed_at": "2023-05-03T23:25:37Z",
   "git_url": "git://github.com/edgedb/edgedb.git",
   "ssh_url": "git@github.com:edgedb/edgedb.git",
   "clone_url": "https://github.com/edgedb/edgedb.git",
   "svn_url": "https://github.com/edgedb/edgedb",
   "homepage": "https://edgedb.com",
-  "size": 44713,
-  "stargazers_count": 10969,
-  "watchers_count": 10969,
+  "size": 45489,
+  "stargazers_count": 10974,
+  "watchers_count": 10974,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 463,
+  "open_issues_count": 465,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -110,8 +110,8 @@
   ],
   "visibility": "public",
   "forks": 321,
-  "open_issues": 463,
-  "watchers": 10969,
+  "open_issues": 465,
+  "watchers": 10974,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 765
+  "_index": 767
 }

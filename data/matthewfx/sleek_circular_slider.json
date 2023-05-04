@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/matthewfx/sleek_circular_slider/releases{/id}",
   "deployments_url": "https://api.github.com/repos/matthewfx/sleek_circular_slider/deployments",
   "created_at": "2019-10-07T04:53:08Z",
-  "updated_at": "2023-04-25T05:34:02Z",
+  "updated_at": "2023-05-03T06:17:20Z",
   "pushed_at": "2023-01-30T02:20:33Z",
   "git_url": "git://github.com/matthewfx/sleek_circular_slider.git",
   "ssh_url": "git@github.com:matthewfx/sleek_circular_slider.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/matthewfx/sleek_circular_slider",
   "homepage": null,
   "size": 5245,
-  "stargazers_count": 495,
-  "watchers_count": 495,
+  "stargazers_count": 496,
+  "watchers_count": 496,
   "language": "Dart",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 81,
   "open_issues": 53,
-  "watchers": 495,
+  "watchers": 496,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1977
+  "_index": 1979
 }

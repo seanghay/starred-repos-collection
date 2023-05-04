@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/jart/blink/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jart/blink/deployments",
   "created_at": "2022-11-03T06:07:09Z",
-  "updated_at": "2023-05-02T19:16:06Z",
-  "pushed_at": "2023-05-02T23:45:38Z",
+  "updated_at": "2023-05-04T01:51:19Z",
+  "pushed_at": "2023-05-03T19:00:52Z",
   "git_url": "git://github.com/jart/blink.git",
   "ssh_url": "git@github.com:jart/blink.git",
   "clone_url": "https://github.com/jart/blink.git",
   "svn_url": "https://github.com/jart/blink",
   "homepage": null,
-  "size": 20065,
-  "stargazers_count": 5146,
-  "watchers_count": 5146,
+  "size": 20129,
+  "stargazers_count": 5147,
+  "watchers_count": 5147,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 17,
+  "open_issues_count": 16,
   "license": {
     "key": "isc",
     "name": "ISC License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 156,
-  "open_issues": 17,
-  "watchers": 5146,
+  "open_issues": 16,
+  "watchers": 5147,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 302
+  "_index": 304
 }
