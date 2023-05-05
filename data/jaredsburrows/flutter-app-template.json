@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/jaredsburrows/flutter-app-template",
-  "description": null,
+  "description": "Flutter App Template",
   "fork": false,
   "url": "https://api.github.com/repos/jaredsburrows/flutter-app-template",
   "forks_url": "https://api.github.com/repos/jaredsburrows/flutter-app-template/forks",
@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/jaredsburrows/flutter-app-template/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jaredsburrows/flutter-app-template/deployments",
   "created_at": "2021-07-03T13:19:06Z",
-  "updated_at": "2023-03-10T18:02:38Z",
-  "pushed_at": "2023-04-20T17:49:58Z",
+  "updated_at": "2023-05-04T18:35:33Z",
+  "pushed_at": "2023-05-04T21:20:19Z",
   "git_url": "git://github.com/jaredsburrows/flutter-app-template.git",
   "ssh_url": "git@github.com:jaredsburrows/flutter-app-template.git",
   "clone_url": "https://github.com/jaredsburrows/flutter-app-template.git",
   "svn_url": "https://github.com/jaredsburrows/flutter-app-template",
   "homepage": "https://jaredsburrows.github.io/flutter-app-template/",
-  "size": 19760,
+  "size": 19762,
   "stargazers_count": 3,
   "watchers_count": 3,
   "language": "Dart",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1150
+  "_index": 1152
 }

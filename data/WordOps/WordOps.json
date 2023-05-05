@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/WordOps/WordOps/releases{/id}",
   "deployments_url": "https://api.github.com/repos/WordOps/WordOps/deployments",
   "created_at": "2018-02-12T12:19:24Z",
-  "updated_at": "2023-05-03T20:09:04Z",
-  "pushed_at": "2023-05-01T13:59:47Z",
+  "updated_at": "2023-05-04T20:59:13Z",
+  "pushed_at": "2023-05-04T07:14:55Z",
   "git_url": "git://github.com/WordOps/WordOps.git",
   "ssh_url": "git@github.com:WordOps/WordOps.git",
   "clone_url": "https://github.com/WordOps/WordOps.git",
   "svn_url": "https://github.com/WordOps/WordOps",
   "homepage": "https://wordops.net",
-  "size": 4061,
+  "size": 4062,
   "stargazers_count": 1063,
   "watchers_count": 1063,
   "language": "Python",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 155,
+  "open_issues_count": 154,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -118,7 +118,7 @@
   ],
   "visibility": "public",
   "forks": 188,
-  "open_issues": 155,
+  "open_issues": 154,
   "watchers": 1063,
   "default_branch": "master",
   "permissions": {
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 392
+  "_index": 394
 }

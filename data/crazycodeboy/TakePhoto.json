@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1518,
+  "forks_count": 1517,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,7 +108,7 @@
     "takephoto"
   ],
   "visibility": "public",
-  "forks": 1518,
+  "forks": 1517,
   "open_issues": 428,
   "watchers": 7220,
   "default_branch": "master",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2318
+  "_index": 2320
 }

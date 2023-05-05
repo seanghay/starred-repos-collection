@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/daybrush/scena/releases{/id}",
   "deployments_url": "https://api.github.com/repos/daybrush/scena/deployments",
   "created_at": "2019-04-06T16:16:45Z",
-  "updated_at": "2023-05-03T00:36:17Z",
+  "updated_at": "2023-05-04T12:52:39Z",
   "pushed_at": "2023-04-09T05:19:58Z",
   "git_url": "git://github.com/daybrush/scena.git",
   "ssh_url": "git@github.com:daybrush/scena.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/daybrush/scena",
   "homepage": "https://daybrush.com/scena",
   "size": 8845,
-  "stargazers_count": 597,
-  "watchers_count": 597,
+  "stargazers_count": 601,
+  "watchers_count": 601,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 61,
   "open_issues": 12,
-  "watchers": 597,
+  "watchers": 601,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 133
+  "_index": 135
 }
