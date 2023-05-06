@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/alibaba/EasyCV/releases{/id}",
   "deployments_url": "https://api.github.com/repos/alibaba/EasyCV/deployments",
   "created_at": "2022-04-02T01:47:41Z",
-  "updated_at": "2023-05-04T08:50:43Z",
+  "updated_at": "2023-05-05T17:29:36Z",
   "pushed_at": "2023-04-25T11:02:45Z",
   "git_url": "git://github.com/alibaba/EasyCV.git",
   "ssh_url": "git@github.com:alibaba/EasyCV.git",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 224
+  "_index": 228
 }

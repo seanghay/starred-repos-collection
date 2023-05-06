@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/jquense/yup/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jquense/yup/deployments",
   "created_at": "2014-09-22T23:54:22Z",
-  "updated_at": "2023-05-05T01:26:26Z",
-  "pushed_at": "2023-05-04T17:10:27Z",
+  "updated_at": "2023-05-06T00:55:12Z",
+  "pushed_at": "2023-05-05T08:04:43Z",
   "git_url": "git://github.com/jquense/yup.git",
   "ssh_url": "git@github.com:jquense/yup.git",
   "clone_url": "https://github.com/jquense/yup.git",
   "svn_url": "https://github.com/jquense/yup",
   "homepage": "",
   "size": 4543,
-  "stargazers_count": 20293,
-  "watchers_count": 20293,
+  "stargazers_count": 20304,
+  "watchers_count": 20304,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 164,
+  "open_issues_count": 165,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 866,
-  "open_issues": 164,
-  "watchers": 20293,
+  "open_issues": 165,
+  "watchers": 20304,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2589
+  "_index": 2593
 }

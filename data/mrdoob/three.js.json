@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/mrdoob/three.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mrdoob/three.js/deployments",
   "created_at": "2010-03-23T18:58:01Z",
-  "updated_at": "2023-05-05T01:51:25Z",
-  "pushed_at": "2023-05-04T17:39:01Z",
+  "updated_at": "2023-05-06T01:41:55Z",
+  "pushed_at": "2023-05-06T00:35:57Z",
   "git_url": "git://github.com/mrdoob/three.js.git",
   "ssh_url": "git@github.com:mrdoob/three.js.git",
   "clone_url": "https://github.com/mrdoob/three.js.git",
   "svn_url": "https://github.com/mrdoob/three.js",
   "homepage": "https://threejs.org/",
-  "size": 1266602,
-  "stargazers_count": 91285,
-  "watchers_count": 91285,
+  "size": 1267045,
+  "stargazers_count": 91339,
+  "watchers_count": 91339,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 34590,
+  "forks_count": 34600,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 497,
+  "open_issues_count": 496,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,9 +112,9 @@
     "webxr"
   ],
   "visibility": "public",
-  "forks": 34590,
-  "open_issues": 497,
-  "watchers": 91285,
+  "forks": 34600,
+  "open_issues": 496,
+  "watchers": 91339,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 369
+  "_index": 373
 }

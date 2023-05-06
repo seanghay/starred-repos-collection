@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/dunbar12138/pix2pix3D/releases{/id}",
   "deployments_url": "https://api.github.com/repos/dunbar12138/pix2pix3D/deployments",
   "created_at": "2023-02-06T19:20:03Z",
-  "updated_at": "2023-05-04T09:11:26Z",
+  "updated_at": "2023-05-05T17:33:12Z",
   "pushed_at": "2023-04-21T17:09:39Z",
   "git_url": "git://github.com/dunbar12138/pix2pix3D.git",
   "ssh_url": "git@github.com:dunbar12138/pix2pix3D.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/dunbar12138/pix2pix3D",
   "homepage": "http://www.cs.cmu.edu/~pix2pix3D/",
   "size": 67508,
-  "stargazers_count": 1354,
-  "watchers_count": 1354,
+  "stargazers_count": 1356,
+  "watchers_count": 1356,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 16,
+  "open_issues_count": 17,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,8 +104,8 @@
   ],
   "visibility": "public",
   "forks": 99,
-  "open_issues": 16,
-  "watchers": 1354,
+  "open_issues": 17,
+  "watchers": 1356,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 187
+  "_index": 191
 }

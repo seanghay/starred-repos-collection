@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ImMattDavison/NoMoreDomains/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ImMattDavison/NoMoreDomains/deployments",
   "created_at": "2022-09-21T14:33:41Z",
-  "updated_at": "2023-04-28T10:40:12Z",
+  "updated_at": "2023-05-05T17:31:38Z",
   "pushed_at": "2023-02-08T19:17:38Z",
   "git_url": "git://github.com/ImMattDavison/NoMoreDomains.git",
   "ssh_url": "git@github.com:ImMattDavison/NoMoreDomains.git",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 414
+  "_index": 418
 }

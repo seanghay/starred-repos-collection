@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fornana/swipeitemlayout/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fornana/swipeitemlayout/deployments",
   "created_at": "2017-02-17T15:46:30Z",
-  "updated_at": "2023-04-04T03:05:33Z",
+  "updated_at": "2023-05-05T07:18:26Z",
   "pushed_at": "2017-11-05T15:47:17Z",
   "git_url": "git://github.com/fornana/swipeitemlayout.git",
   "ssh_url": "git@github.com:fornana/swipeitemlayout.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/fornana/swipeitemlayout",
   "homepage": "",
   "size": 340,
-  "stargazers_count": 293,
-  "watchers_count": 293,
+  "stargazers_count": 294,
+  "watchers_count": 294,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 117,
   "open_issues": 9,
-  "watchers": 293,
+  "watchers": 294,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1767
+  "_index": 1771
 }

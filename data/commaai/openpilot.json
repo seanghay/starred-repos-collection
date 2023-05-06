@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/commaai/openpilot/releases{/id}",
   "deployments_url": "https://api.github.com/repos/commaai/openpilot/deployments",
   "created_at": "2016-11-24T01:33:30Z",
-  "updated_at": "2023-05-04T19:30:31Z",
-  "pushed_at": "2023-05-05T01:33:26Z",
+  "updated_at": "2023-05-05T22:38:01Z",
+  "pushed_at": "2023-05-06T01:54:24Z",
   "git_url": "git://github.com/commaai/openpilot.git",
   "ssh_url": "git@github.com:commaai/openpilot.git",
   "clone_url": "https://github.com/commaai/openpilot.git",
   "svn_url": "https://github.com/commaai/openpilot",
   "homepage": "https://comma.ai/",
-  "size": 2330640,
+  "size": 2330641,
   "stargazers_count": 39255,
   "watchers_count": 39255,
   "language": "Python",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 7253,
+  "forks_count": 7254,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 385,
+  "open_issues_count": 384,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -99,8 +99,8 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 7253,
-  "open_issues": 385,
+  "forks": 7254,
+  "open_issues": 384,
   "watchers": 39255,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1091
+  "_index": 1095
 }

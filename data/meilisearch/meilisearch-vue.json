@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/meilisearch/meilisearch-vue/releases{/id}",
   "deployments_url": "https://api.github.com/repos/meilisearch/meilisearch-vue/deployments",
   "created_at": "2020-07-07T15:22:41Z",
-  "updated_at": "2023-04-19T04:08:29Z",
+  "updated_at": "2023-05-05T06:38:17Z",
   "pushed_at": "2023-02-21T10:27:22Z",
   "git_url": "git://github.com/meilisearch/meilisearch-vue.git",
   "ssh_url": "git@github.com:meilisearch/meilisearch-vue.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/meilisearch/meilisearch-vue",
   "homepage": "https://www.meilisearch.com/",
   "size": 16016,
-  "stargazers_count": 131,
-  "watchers_count": 131,
+  "stargazers_count": 130,
+  "watchers_count": 130,
   "language": null,
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 10,
   "open_issues": 5,
-  "watchers": 131,
+  "watchers": 130,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 833
+  "_index": 837
 }

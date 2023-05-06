@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/pyannote/pyannote-audio/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pyannote/pyannote-audio/deployments",
   "created_at": "2016-03-07T17:26:15Z",
-  "updated_at": "2023-05-04T23:26:39Z",
-  "pushed_at": "2023-05-04T12:40:54Z",
+  "updated_at": "2023-05-05T16:30:16Z",
+  "pushed_at": "2023-05-05T13:22:40Z",
   "git_url": "git://github.com/pyannote/pyannote-audio.git",
   "ssh_url": "git@github.com:pyannote/pyannote-audio.git",
   "clone_url": "https://github.com/pyannote/pyannote-audio.git",
   "svn_url": "https://github.com/pyannote/pyannote-audio",
   "homepage": "http://pyannote.github.io",
   "size": 264899,
-  "stargazers_count": 2842,
-  "watchers_count": 2842,
+  "stargazers_count": 2848,
+  "watchers_count": 2848,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 476,
+  "forks_count": 478,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 90,
+  "open_issues_count": 92,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -111,9 +111,9 @@
     "voice-activity-detection"
   ],
   "visibility": "public",
-  "forks": 476,
-  "open_issues": 90,
-  "watchers": 2842,
+  "forks": 478,
+  "open_issues": 92,
+  "watchers": 2848,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 24
+  "_index": 28
 }

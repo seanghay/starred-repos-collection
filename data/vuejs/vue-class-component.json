@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/vuejs/vue-class-component/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vuejs/vue-class-component/deployments",
   "created_at": "2015-06-25T20:10:06Z",
-  "updated_at": "2023-04-27T06:55:58Z",
+  "updated_at": "2023-05-05T16:56:51Z",
   "pushed_at": "2023-03-23T09:22:28Z",
   "git_url": "git://github.com/vuejs/vue-class-component.git",
   "ssh_url": "git@github.com:vuejs/vue-class-component.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/vuejs/vue-class-component",
   "homepage": "",
   "size": 2293,
-  "stargazers_count": 5812,
-  "watchers_count": 5812,
+  "stargazers_count": 5811,
+  "watchers_count": 5811,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 433,
   "open_issues": 97,
-  "watchers": 5812,
+  "watchers": 5811,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 808
+  "_index": 812
 }

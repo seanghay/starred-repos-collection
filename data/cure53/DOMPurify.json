@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/cure53/DOMPurify/releases{/id}",
   "deployments_url": "https://api.github.com/repos/cure53/DOMPurify/deployments",
   "created_at": "2014-02-17T21:48:14Z",
-  "updated_at": "2023-05-05T00:06:57Z",
-  "pushed_at": "2023-05-04T00:55:38Z",
+  "updated_at": "2023-05-05T20:34:52Z",
+  "pushed_at": "2023-05-05T11:26:05Z",
   "git_url": "git://github.com/cure53/DOMPurify.git",
   "ssh_url": "git@github.com:cure53/DOMPurify.git",
   "clone_url": "https://github.com/cure53/DOMPurify.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 4,
+  "open_issues_count": 2,
   "license": {
     "key": "other",
     "name": "Other",
@@ -112,7 +112,7 @@
   ],
   "visibility": "public",
   "forks": 665,
-  "open_issues": 4,
+  "open_issues": 2,
   "watchers": 10936,
   "default_branch": "main",
   "permissions": {
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2142
+  "_index": 2146
 }

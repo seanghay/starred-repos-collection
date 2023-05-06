@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/electronicarts/EASTL/releases{/id}",
   "deployments_url": "https://api.github.com/repos/electronicarts/EASTL/deployments",
   "created_at": "2015-12-15T21:04:13Z",
-  "updated_at": "2023-05-04T14:05:48Z",
-  "pushed_at": "2023-01-31T18:10:36Z",
+  "updated_at": "2023-05-05T17:18:20Z",
+  "pushed_at": "2023-05-05T07:35:24Z",
   "git_url": "git://github.com/electronicarts/EASTL.git",
   "ssh_url": "git@github.com:electronicarts/EASTL.git",
   "clone_url": "https://github.com/electronicarts/EASTL.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 854,
+  "forks_count": 855,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 72,
+  "open_issues_count": 73,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -109,8 +109,8 @@
     "stl"
   ],
   "visibility": "public",
-  "forks": 854,
-  "open_issues": 72,
+  "forks": 855,
+  "open_issues": 73,
   "watchers": 7109,
   "default_branch": "master",
   "permissions": {
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2238
+  "_index": 2242
 }

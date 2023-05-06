@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wdullaer/MaterialDateTimePicker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wdullaer/MaterialDateTimePicker/deployments",
   "created_at": "2015-01-03T19:41:03Z",
-  "updated_at": "2023-05-02T04:51:12Z",
+  "updated_at": "2023-05-05T12:02:21Z",
   "pushed_at": "2022-08-23T14:10:14Z",
   "git_url": "git://github.com/wdullaer/MaterialDateTimePicker.git",
   "ssh_url": "git@github.com:wdullaer/MaterialDateTimePicker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wdullaer/MaterialDateTimePicker",
   "homepage": null,
   "size": 2001,
-  "stargazers_count": 4664,
-  "watchers_count": 4664,
+  "stargazers_count": 4665,
+  "watchers_count": 4665,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 970,
   "open_issues": 108,
-  "watchers": 4664,
+  "watchers": 4665,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2595
+  "_index": 2599
 }

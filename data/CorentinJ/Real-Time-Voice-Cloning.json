@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/CorentinJ/Real-Time-Voice-Cloning/releases{/id}",
   "deployments_url": "https://api.github.com/repos/CorentinJ/Real-Time-Voice-Cloning/deployments",
   "created_at": "2019-05-26T08:56:15Z",
-  "updated_at": "2023-05-05T01:48:41Z",
-  "pushed_at": "2023-04-02T07:00:07Z",
+  "updated_at": "2023-05-06T01:35:36Z",
+  "pushed_at": "2023-05-05T10:49:10Z",
   "git_url": "git://github.com/CorentinJ/Real-Time-Voice-Cloning.git",
   "ssh_url": "git@github.com:CorentinJ/Real-Time-Voice-Cloning.git",
   "clone_url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning.git",
   "svn_url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
   "homepage": "",
   "size": 369676,
-  "stargazers_count": 41478,
-  "watchers_count": 41478,
+  "stargazers_count": 41498,
+  "watchers_count": 41498,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 7555,
+  "forks_count": 7559,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 127,
+  "open_issues_count": 129,
   "license": {
     "key": "other",
     "name": "Other",
@@ -106,9 +106,9 @@
     "voice-cloning"
   ],
   "visibility": "public",
-  "forks": 7555,
-  "open_issues": 127,
-  "watchers": 41478,
+  "forks": 7559,
+  "open_issues": 129,
+  "watchers": 41498,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 45
+  "_index": 49
 }

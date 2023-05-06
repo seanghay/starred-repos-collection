@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/markdown-it/markdown-it/releases{/id}",
   "deployments_url": "https://api.github.com/repos/markdown-it/markdown-it/deployments",
   "created_at": "2014-12-19T22:54:53Z",
-  "updated_at": "2023-05-05T00:13:29Z",
+  "updated_at": "2023-05-05T22:16:51Z",
   "pushed_at": "2023-04-19T09:02:15Z",
   "git_url": "git://github.com/markdown-it/markdown-it.git",
   "ssh_url": "git@github.com:markdown-it/markdown-it.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/markdown-it/markdown-it",
   "homepage": "https://markdown-it.github.io",
   "size": 3621,
-  "stargazers_count": 15331,
-  "watchers_count": 15331,
+  "stargazers_count": 15340,
+  "watchers_count": 15340,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 1656,
   "open_issues": 28,
-  "watchers": 15331,
+  "watchers": 15340,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1251
+  "_index": 1255
 }

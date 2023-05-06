@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/karpathy/nanoGPT/releases{/id}",
   "deployments_url": "https://api.github.com/repos/karpathy/nanoGPT/deployments",
   "created_at": "2022-12-28T00:51:12Z",
-  "updated_at": "2023-05-05T01:52:10Z",
+  "updated_at": "2023-05-05T23:36:08Z",
   "pushed_at": "2023-05-02T23:50:33Z",
   "git_url": "git://github.com/karpathy/nanoGPT.git",
   "ssh_url": "git@github.com:karpathy/nanoGPT.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/karpathy/nanoGPT",
   "homepage": "",
   "size": 883,
-  "stargazers_count": 19582,
-  "watchers_count": 19582,
+  "stargazers_count": 19667,
+  "watchers_count": 19667,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2277,
+  "forks_count": 2290,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 2277,
+  "forks": 2290,
   "open_issues": 124,
-  "watchers": 19582,
+  "watchers": 19667,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 88
+  "_index": 92
 }

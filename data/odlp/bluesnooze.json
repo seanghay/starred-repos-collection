@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/odlp/bluesnooze/releases{/id}",
   "deployments_url": "https://api.github.com/repos/odlp/bluesnooze/deployments",
   "created_at": "2020-04-10T10:04:30Z",
-  "updated_at": "2023-05-04T16:20:19Z",
+  "updated_at": "2023-05-05T06:17:06Z",
   "pushed_at": "2023-02-05T16:29:02Z",
   "git_url": "git://github.com/odlp/bluesnooze.git",
   "ssh_url": "git@github.com:odlp/bluesnooze.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/odlp/bluesnooze",
   "homepage": null,
   "size": 1838,
-  "stargazers_count": 1090,
-  "watchers_count": 1090,
+  "stargazers_count": 1092,
+  "watchers_count": 1092,
   "language": "Swift",
   "has_issues": true,
   "has_projects": false,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 31,
   "open_issues": 3,
-  "watchers": 1090,
+  "watchers": 1092,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1308
+  "_index": 1312
 }

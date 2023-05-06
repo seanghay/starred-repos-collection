@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pdf-rs/pdf/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pdf-rs/pdf/deployments",
   "created_at": "2016-12-11T11:00:01Z",
-  "updated_at": "2023-05-03T23:50:59Z",
+  "updated_at": "2023-05-05T22:06:45Z",
   "pushed_at": "2023-04-28T05:04:39Z",
   "git_url": "git://github.com/pdf-rs/pdf.git",
   "ssh_url": "git@github.com:pdf-rs/pdf.git",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 259
+  "_index": 263
 }

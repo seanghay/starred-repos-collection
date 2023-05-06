@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/android/ndk-samples/releases{/id}",
   "deployments_url": "https://api.github.com/repos/android/ndk-samples/deployments",
   "created_at": "2015-05-16T10:02:15Z",
-  "updated_at": "2023-05-04T14:30:02Z",
+  "updated_at": "2023-05-05T17:17:48Z",
   "pushed_at": "2023-02-03T15:42:20Z",
   "git_url": "git://github.com/android/ndk-samples.git",
   "ssh_url": "git@github.com:android/ndk-samples.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/android/ndk-samples",
   "homepage": "http://developer.android.com/ndk",
   "size": 53090,
-  "stargazers_count": 9427,
-  "watchers_count": 9427,
+  "stargazers_count": 9429,
+  "watchers_count": 9429,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 4119,
+  "forks_count": 4121,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 4119,
+  "forks": 4121,
   "open_issues": 69,
-  "watchers": 9427,
+  "watchers": 9429,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1928
+  "_index": 1932
 }

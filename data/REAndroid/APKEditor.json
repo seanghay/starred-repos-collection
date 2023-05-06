@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/REAndroid/APKEditor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/REAndroid/APKEditor/deployments",
   "created_at": "2022-12-09T18:55:41Z",
-  "updated_at": "2023-05-04T10:38:11Z",
-  "pushed_at": "2023-05-04T17:56:28Z",
+  "updated_at": "2023-05-05T13:31:04Z",
+  "pushed_at": "2023-05-05T20:12:24Z",
   "git_url": "git://github.com/REAndroid/APKEditor.git",
   "ssh_url": "git@github.com:REAndroid/APKEditor.git",
   "clone_url": "https://github.com/REAndroid/APKEditor.git",
   "svn_url": "https://github.com/REAndroid/APKEditor",
   "homepage": "",
-  "size": 11216,
+  "size": 13192,
   "stargazers_count": 141,
   "watchers_count": 141,
   "language": "Java",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1,
+  "open_issues_count": 2,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -109,7 +109,7 @@
   ],
   "visibility": "public",
   "forks": 18,
-  "open_issues": 1,
+  "open_issues": 2,
   "watchers": 141,
   "default_branch": "master",
   "permissions": {
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 75
+  "_index": 79
 }
