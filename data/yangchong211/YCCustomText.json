@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yangchong211/YCCustomText/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yangchong211/YCCustomText/deployments",
   "created_at": "2017-10-23T11:31:24Z",
-  "updated_at": "2023-05-04T14:48:11Z",
+  "updated_at": "2023-05-06T14:49:29Z",
   "pushed_at": "2022-03-31T08:58:31Z",
   "git_url": "git://github.com/yangchong211/YCCustomText.git",
   "ssh_url": "git@github.com:yangchong211/YCCustomText.git",

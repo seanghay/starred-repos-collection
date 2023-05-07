@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/iron-fish/ironfish.git",
   "svn_url": "https://github.com/iron-fish/ironfish",
   "homepage": "https://ironfish.network",
-  "size": 1524648,
+  "size": 1524914,
   "stargazers_count": 902,
   "watchers_count": 902,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 75,
+  "open_issues_count": 74,
   "license": {
     "key": "mpl-2.0",
     "name": "Mozilla Public License 2.0",
@@ -104,7 +104,7 @@
   ],
   "visibility": "public",
   "forks": 551,
-  "open_issues": 75,
+  "open_issues": 74,
   "watchers": 902,
   "default_branch": "master",
   "permissions": {
