@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/share/sharedb/releases{/id}",
   "deployments_url": "https://api.github.com/repos/share/sharedb/deployments",
   "created_at": "2013-04-01T21:30:46Z",
-  "updated_at": "2023-05-07T14:34:40Z",
+  "updated_at": "2023-05-08T04:36:58Z",
   "pushed_at": "2023-05-02T16:23:28Z",
   "git_url": "git://github.com/share/sharedb.git",
   "ssh_url": "git@github.com:share/sharedb.git",

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/postcss-rs/postcss-rs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/postcss-rs/postcss-rs/deployments",
   "created_at": "2021-10-18T07:06:58Z",
-  "updated_at": "2023-05-04T08:32:37Z",
+  "updated_at": "2023-05-08T04:42:28Z",
   "pushed_at": "2022-10-31T16:07:24Z",
   "git_url": "git://github.com/postcss-rs/postcss-rs.git",
   "ssh_url": "git@github.com:postcss-rs/postcss-rs.git",
