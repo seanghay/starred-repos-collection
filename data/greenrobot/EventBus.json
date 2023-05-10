@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/greenrobot/EventBus/releases{/id}",
   "deployments_url": "https://api.github.com/repos/greenrobot/EventBus/deployments",
   "created_at": "2012-07-16T16:55:40Z",
-  "updated_at": "2023-05-08T16:59:28Z",
+  "updated_at": "2023-05-09T18:52:57Z",
   "pushed_at": "2023-03-19T15:52:12Z",
   "git_url": "git://github.com/greenrobot/EventBus.git",
   "ssh_url": "git@github.com:greenrobot/EventBus.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/greenrobot/EventBus",
   "homepage": "http://greenrobot.org/eventbus/",
   "size": 1742,
-  "stargazers_count": 24340,
-  "watchers_count": 24340,
+  "stargazers_count": 24341,
+  "watchers_count": 24341,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 4683,
   "open_issues": 141,
-  "watchers": 24340,
+  "watchers": 24341,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1196
+  "_index": 1201
 }

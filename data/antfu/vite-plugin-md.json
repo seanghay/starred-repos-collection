@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/antfu/vite-plugin-md/releases{/id}",
   "deployments_url": "https://api.github.com/repos/antfu/vite-plugin-md/deployments",
   "created_at": "2020-11-30T18:35:13Z",
-  "updated_at": "2023-05-09T00:26:27Z",
+  "updated_at": "2023-05-09T03:15:30Z",
   "pushed_at": "2023-04-13T21:48:17Z",
   "git_url": "git://github.com/antfu/vite-plugin-md.git",
   "ssh_url": "git@github.com:antfu/vite-plugin-md.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/antfu/vite-plugin-md",
   "homepage": "",
   "size": 1793,
-  "stargazers_count": 509,
-  "watchers_count": 509,
+  "stargazers_count": 510,
+  "watchers_count": 510,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 91,
   "open_issues": 11,
-  "watchers": 509,
+  "watchers": 510,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 758
+  "_index": 763
 }

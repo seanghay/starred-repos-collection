@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fabiomsr/MoneyTextView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fabiomsr/MoneyTextView/deployments",
   "created_at": "2015-11-08T12:46:34Z",
-  "updated_at": "2023-04-27T12:58:04Z",
+  "updated_at": "2023-05-09T18:13:44Z",
   "pushed_at": "2019-03-01T02:52:32Z",
   "git_url": "git://github.com/fabiomsr/MoneyTextView.git",
   "ssh_url": "git@github.com:fabiomsr/MoneyTextView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/fabiomsr/MoneyTextView",
   "homepage": "",
   "size": 381,
-  "stargazers_count": 509,
-  "watchers_count": 509,
+  "stargazers_count": 510,
+  "watchers_count": 510,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -98,7 +98,7 @@
   "visibility": "public",
   "forks": 73,
   "open_issues": 12,
-  "watchers": 509,
+  "watchers": 510,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -107,5 +107,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1599
+  "_index": 1604
 }

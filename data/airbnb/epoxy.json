@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/airbnb/epoxy/deployments",
   "created_at": "2016-08-08T23:05:11Z",
   "updated_at": "2023-05-08T02:14:28Z",
-  "pushed_at": "2023-04-04T23:44:05Z",
+  "pushed_at": "2023-05-09T23:46:43Z",
   "git_url": "git://github.com/airbnb/epoxy.git",
   "ssh_url": "git@github.com:airbnb/epoxy.git",
   "clone_url": "https://github.com/airbnb/epoxy.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 721,
+  "forks_count": 720,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 296,
+  "open_issues_count": 297,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,8 +99,8 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 721,
-  "open_issues": 296,
+  "forks": 720,
+  "open_issues": 297,
   "watchers": 8195,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2246
+  "_index": 2251
 }

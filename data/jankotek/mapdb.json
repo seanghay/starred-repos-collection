@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jankotek/mapdb/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jankotek/mapdb/deployments",
   "created_at": "2012-08-17T15:28:54Z",
-  "updated_at": "2023-05-08T12:00:19Z",
+  "updated_at": "2023-05-09T06:48:43Z",
   "pushed_at": "2023-03-19T16:53:58Z",
   "git_url": "git://github.com/jankotek/mapdb.git",
   "ssh_url": "git@github.com:jankotek/mapdb.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jankotek/mapdb",
   "homepage": "https://mapdb.org",
   "size": 10216,
-  "stargazers_count": 4692,
-  "watchers_count": 4692,
+  "stargazers_count": 4693,
+  "watchers_count": 4693,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 873,
   "open_issues": 172,
-  "watchers": 4692,
+  "watchers": 4693,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1444
+  "_index": 1449
 }

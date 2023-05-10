@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/verdaccio/verdaccio/releases{/id}",
   "deployments_url": "https://api.github.com/repos/verdaccio/verdaccio/deployments",
   "created_at": "2016-04-15T16:21:12Z",
-  "updated_at": "2023-05-09T01:17:15Z",
-  "pushed_at": "2023-05-09T00:16:17Z",
+  "updated_at": "2023-05-09T10:00:08Z",
+  "pushed_at": "2023-05-10T00:15:34Z",
   "git_url": "git://github.com/verdaccio/verdaccio.git",
   "ssh_url": "git@github.com:verdaccio/verdaccio.git",
   "clone_url": "https://github.com/verdaccio/verdaccio.git",
   "svn_url": "https://github.com/verdaccio/verdaccio",
   "homepage": "https://www.verdaccio.org/",
-  "size": 396931,
-  "stargazers_count": 14738,
-  "watchers_count": 14738,
+  "size": 396930,
+  "stargazers_count": 14739,
+  "watchers_count": 14739,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -120,7 +120,7 @@
   "visibility": "public",
   "forks": 1312,
   "open_issues": 67,
-  "watchers": 14738,
+  "watchers": 14739,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 540
+  "_index": 545
 }

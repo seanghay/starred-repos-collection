@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/charleskorn/kaml/deployments",
   "created_at": "2018-12-15T17:31:13Z",
   "updated_at": "2023-05-07T21:49:13Z",
-  "pushed_at": "2023-04-29T00:39:44Z",
+  "pushed_at": "2023-05-09T23:44:08Z",
   "git_url": "git://github.com/charleskorn/kaml.git",
   "ssh_url": "git@github.com:charleskorn/kaml.git",
   "clone_url": "https://github.com/charleskorn/kaml.git",
   "svn_url": "https://github.com/charleskorn/kaml",
   "homepage": "",
-  "size": 1475,
+  "size": 1476,
   "stargazers_count": 354,
   "watchers_count": 354,
   "language": "Kotlin",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1516
+  "_index": 1521
 }

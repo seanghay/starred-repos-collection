@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/denoland/rusty_v8/releases{/id}",
   "deployments_url": "https://api.github.com/repos/denoland/rusty_v8/deployments",
   "created_at": "2019-10-31T22:36:03Z",
-  "updated_at": "2023-05-08T21:57:55Z",
-  "pushed_at": "2023-05-08T10:08:27Z",
+  "updated_at": "2023-05-09T09:11:09Z",
+  "pushed_at": "2023-05-09T10:10:44Z",
   "git_url": "git://github.com/denoland/rusty_v8.git",
   "ssh_url": "git@github.com:denoland/rusty_v8.git",
   "clone_url": "https://github.com/denoland/rusty_v8.git",
   "svn_url": "https://github.com/denoland/rusty_v8",
   "homepage": "https://crates.io/crates/v8",
   "size": 2711,
-  "stargazers_count": 2721,
-  "watchers_count": 2721,
+  "stargazers_count": 2720,
+  "watchers_count": 2720,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 254,
   "open_issues": 61,
-  "watchers": 2721,
+  "watchers": 2720,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 434
+  "_index": 439
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/microsoft/unilm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microsoft/unilm/deployments",
   "created_at": "2019-07-23T04:15:28Z",
-  "updated_at": "2023-05-08T17:51:14Z",
+  "updated_at": "2023-05-10T01:53:03Z",
   "pushed_at": "2023-04-11T12:57:54Z",
   "git_url": "git://github.com/microsoft/unilm.git",
   "ssh_url": "git@github.com:microsoft/unilm.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/microsoft/unilm",
   "homepage": "https://aka.ms/nlpagi",
   "size": 18075,
-  "stargazers_count": 12201,
-  "watchers_count": 12201,
+  "stargazers_count": 12225,
+  "watchers_count": 12225,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1800,
+  "forks_count": 1802,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 325,
+  "open_issues_count": 330,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -120,9 +120,9 @@
     "xlm-e"
   ],
   "visibility": "public",
-  "forks": 1800,
-  "open_issues": 325,
-  "watchers": 12201,
+  "forks": 1802,
+  "open_issues": 330,
+  "watchers": 12225,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 182
+  "_index": 187
 }
