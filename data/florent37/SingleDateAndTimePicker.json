@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/florent37/SingleDateAndTimePicker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/florent37/SingleDateAndTimePicker/deployments",
   "created_at": "2016-12-02T15:53:14Z",
-  "updated_at": "2023-05-08T01:36:42Z",
+  "updated_at": "2023-05-10T13:54:16Z",
   "pushed_at": "2023-03-15T19:15:52Z",
   "git_url": "git://github.com/florent37/SingleDateAndTimePicker.git",
   "ssh_url": "git@github.com:florent37/SingleDateAndTimePicker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/florent37/SingleDateAndTimePicker",
   "homepage": "",
   "size": 22194,
-  "stargazers_count": 1019,
-  "watchers_count": 1019,
+  "stargazers_count": 1018,
+  "watchers_count": 1018,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 334,
   "open_issues": 158,
-  "watchers": 1019,
+  "watchers": 1018,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2075
+  "_index": 2076
 }

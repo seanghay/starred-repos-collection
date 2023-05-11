@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/SimpleMobileTools/Simple-Calendar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/SimpleMobileTools/Simple-Calendar/deployments",
   "created_at": "2016-01-26T21:02:54Z",
-  "updated_at": "2023-05-07T16:14:50Z",
-  "pushed_at": "2023-05-09T19:56:24Z",
+  "updated_at": "2023-05-10T23:33:58Z",
+  "pushed_at": "2023-05-10T19:50:22Z",
   "git_url": "git://github.com/SimpleMobileTools/Simple-Calendar.git",
   "ssh_url": "git@github.com:SimpleMobileTools/Simple-Calendar.git",
   "clone_url": "https://github.com/SimpleMobileTools/Simple-Calendar.git",
   "svn_url": "https://github.com/SimpleMobileTools/Simple-Calendar",
   "homepage": "https://www.simplemobiletools.com",
-  "size": 126286,
-  "stargazers_count": 3202,
-  "watchers_count": 3202,
+  "size": 126215,
+  "stargazers_count": 3204,
+  "watchers_count": 3204,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1058,
+  "forks_count": 1059,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 240,
+  "open_issues_count": 239,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -106,9 +106,9 @@
     "open-source"
   ],
   "visibility": "public",
-  "forks": 1058,
-  "open_issues": 240,
-  "watchers": 3202,
+  "forks": 1059,
+  "open_issues": 239,
+  "watchers": 3204,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2219
+  "_index": 2220
 }

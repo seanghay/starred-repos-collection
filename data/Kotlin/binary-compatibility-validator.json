@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/Kotlin/binary-compatibility-validator/deployments",
   "created_at": "2020-02-06T14:36:53Z",
   "updated_at": "2023-05-09T10:38:12Z",
-  "pushed_at": "2023-05-04T14:11:33Z",
+  "pushed_at": "2023-05-10T21:22:54Z",
   "git_url": "git://github.com/Kotlin/binary-compatibility-validator.git",
   "ssh_url": "git@github.com:Kotlin/binary-compatibility-validator.git",
   "clone_url": "https://github.com/Kotlin/binary-compatibility-validator.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 31,
+  "open_issues_count": 32,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -105,7 +105,7 @@
   ],
   "visibility": "public",
   "forks": 41,
-  "open_issues": 31,
+  "open_issues": 32,
   "watchers": 550,
   "default_branch": "master",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1064
+  "_index": 1065
 }

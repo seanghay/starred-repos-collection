@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/ossrs/srs",
-  "description": "SRS is a simple, high efficiency, and realtime video server, supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.",
+  "description": "SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.",
   "fork": false,
   "url": "https://api.github.com/repos/ossrs/srs",
   "forks_url": "https://api.github.com/repos/ossrs/srs/forks",
@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ossrs/srs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ossrs/srs/deployments",
   "created_at": "2015-04-29T06:59:32Z",
-  "updated_at": "2023-05-09T23:11:44Z",
+  "updated_at": "2023-05-11T01:28:40Z",
   "pushed_at": "2023-05-07T10:53:49Z",
   "git_url": "git://github.com/ossrs/srs.git",
   "ssh_url": "git@github.com:ossrs/srs.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ossrs/srs",
   "homepage": "https://ossrs.io",
   "size": 249277,
-  "stargazers_count": 21523,
-  "watchers_count": 21523,
+  "stargazers_count": 21538,
+  "watchers_count": 21538,
   "language": "C++",
   "has_issues": true,
   "has_projects": false,
@@ -122,7 +122,7 @@
   "visibility": "public",
   "forks": 4966,
   "open_issues": 205,
-  "watchers": 21523,
+  "watchers": 21538,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 963
+  "_index": 964
 }

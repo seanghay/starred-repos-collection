@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/shikijs/shiki/releases{/id}",
   "deployments_url": "https://api.github.com/repos/shikijs/shiki/deployments",
   "created_at": "2018-10-29T22:16:21Z",
-  "updated_at": "2023-05-09T23:41:57Z",
-  "pushed_at": "2023-05-08T16:22:01Z",
+  "updated_at": "2023-05-11T01:56:18Z",
+  "pushed_at": "2023-05-10T08:03:39Z",
   "git_url": "git://github.com/shikijs/shiki.git",
   "ssh_url": "git@github.com:shikijs/shiki.git",
   "clone_url": "https://github.com/shikijs/shiki.git",
   "svn_url": "https://github.com/shikijs/shiki",
   "homepage": "https://shiki.matsu.io",
-  "size": 8459,
-  "stargazers_count": 5328,
-  "watchers_count": 5328,
+  "size": 8454,
+  "stargazers_count": 5330,
+  "watchers_count": 5330,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 37,
+  "open_issues_count": 38,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 207,
-  "open_issues": 37,
-  "watchers": 5328,
+  "open_issues": 38,
+  "watchers": 5330,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 543
+  "_index": 544
 }

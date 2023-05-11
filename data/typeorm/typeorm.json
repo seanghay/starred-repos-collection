@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/typeorm/typeorm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/typeorm/typeorm/deployments",
   "created_at": "2016-02-29T07:41:14Z",
-  "updated_at": "2023-05-09T22:21:14Z",
-  "pushed_at": "2023-05-10T01:47:30Z",
+  "updated_at": "2023-05-11T01:08:23Z",
+  "pushed_at": "2023-05-11T00:52:35Z",
   "git_url": "git://github.com/typeorm/typeorm.git",
   "ssh_url": "git@github.com:typeorm/typeorm.git",
   "clone_url": "https://github.com/typeorm/typeorm.git",
   "svn_url": "https://github.com/typeorm/typeorm",
   "homepage": "http://typeorm.io",
-  "size": 26052,
-  "stargazers_count": 31168,
-  "watchers_count": 31168,
+  "size": 26010,
+  "stargazers_count": 31169,
+  "watchers_count": 31169,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 5781,
+  "forks_count": 5785,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1915,
+  "open_issues_count": 1920,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -120,9 +120,9 @@
     "websql"
   ],
   "visibility": "public",
-  "forks": 5781,
-  "open_issues": 1915,
-  "watchers": 31168,
+  "forks": 5785,
+  "open_issues": 1920,
+  "watchers": 31169,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1377
+  "_index": 1378
 }

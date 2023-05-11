@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/microshow/RxFFmpeg/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microshow/RxFFmpeg/deployments",
   "created_at": "2018-10-10T12:28:44Z",
-  "updated_at": "2023-05-08T11:38:49Z",
+  "updated_at": "2023-05-11T01:25:45Z",
   "pushed_at": "2023-04-11T17:13:32Z",
   "git_url": "git://github.com/microshow/RxFFmpeg.git",
   "ssh_url": "git@github.com:microshow/RxFFmpeg.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/microshow/RxFFmpeg",
   "homepage": "",
   "size": 426244,
-  "stargazers_count": 3994,
-  "watchers_count": 3994,
+  "stargazers_count": 3993,
+  "watchers_count": 3993,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 707,
   "open_issues": 183,
-  "watchers": 3994,
+  "watchers": 3993,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2457
+  "_index": 2458
 }

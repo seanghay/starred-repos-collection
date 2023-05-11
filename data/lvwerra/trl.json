@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lvwerra/trl/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lvwerra/trl/deployments",
   "created_at": "2020-03-27T10:54:55Z",
-  "updated_at": "2023-05-09T21:47:03Z",
+  "updated_at": "2023-05-11T01:10:58Z",
   "pushed_at": "2023-05-09T13:48:35Z",
   "git_url": "git://github.com/lvwerra/trl.git",
   "ssh_url": "git@github.com:lvwerra/trl.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lvwerra/trl",
   "homepage": "http://hf.co/docs/trl",
   "size": 5282,
-  "stargazers_count": 3295,
-  "watchers_count": 3295,
+  "stargazers_count": 3318,
+  "watchers_count": 3318,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 353,
+  "forks_count": 358,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 353,
+  "forks": 358,
   "open_issues": 60,
-  "watchers": 3295,
+  "watchers": 3318,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 77
+  "_index": 78
 }

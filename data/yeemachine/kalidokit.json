@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/yeemachine/kalidokit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yeemachine/kalidokit/deployments",
   "created_at": "2021-10-08T03:36:09Z",
-  "updated_at": "2023-05-09T16:08:34Z",
-  "pushed_at": "2022-02-20T02:56:39Z",
+  "updated_at": "2023-05-11T01:32:58Z",
+  "pushed_at": "2023-05-10T22:09:43Z",
   "git_url": "git://github.com/yeemachine/kalidokit.git",
   "ssh_url": "git@github.com:yeemachine/kalidokit.git",
   "clone_url": "https://github.com/yeemachine/kalidokit.git",
   "svn_url": "https://github.com/yeemachine/kalidokit",
   "homepage": "https://kalidoface.com",
-  "size": 16552,
-  "stargazers_count": 4764,
-  "watchers_count": 4764,
+  "size": 15994,
+  "stargazers_count": 4770,
+  "watchers_count": 4770,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 598,
   "open_issues": 28,
-  "watchers": 4764,
+  "watchers": 4770,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 868
+  "_index": 869
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/adobe/react-spectrum/releases{/id}",
   "deployments_url": "https://api.github.com/repos/adobe/react-spectrum/deployments",
   "created_at": "2019-09-13T23:32:51Z",
-  "updated_at": "2023-05-09T21:37:45Z",
-  "pushed_at": "2023-05-09T23:38:00Z",
+  "updated_at": "2023-05-11T00:56:00Z",
+  "pushed_at": "2023-05-10T23:50:28Z",
   "git_url": "git://github.com/adobe/react-spectrum.git",
   "ssh_url": "git@github.com:adobe/react-spectrum.git",
   "clone_url": "https://github.com/adobe/react-spectrum.git",
   "svn_url": "https://github.com/adobe/react-spectrum",
   "homepage": "https://react-spectrum.adobe.com",
-  "size": 100532,
-  "stargazers_count": 8657,
-  "watchers_count": 8657,
+  "size": 100595,
+  "stargazers_count": 8673,
+  "watchers_count": 8673,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 534,
+  "open_issues_count": 535,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 715,
-  "open_issues": 534,
-  "watchers": 8657,
+  "open_issues": 535,
+  "watchers": 8673,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 595
+  "_index": 596
 }

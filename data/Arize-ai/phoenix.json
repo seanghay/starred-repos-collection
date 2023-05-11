@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Arize-ai/phoenix/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Arize-ai/phoenix/deployments",
   "created_at": "2022-11-09T23:44:35Z",
-  "updated_at": "2023-05-09T20:54:16Z",
-  "pushed_at": "2023-05-10T00:51:27Z",
+  "updated_at": "2023-05-10T23:17:55Z",
+  "pushed_at": "2023-05-11T00:17:36Z",
   "git_url": "git://github.com/Arize-ai/phoenix.git",
   "ssh_url": "git@github.com:Arize-ai/phoenix.git",
   "clone_url": "https://github.com/Arize-ai/phoenix.git",
   "svn_url": "https://github.com/Arize-ai/phoenix",
   "homepage": "https://docs.arize.com/phoenix",
-  "size": 13773,
-  "stargazers_count": 683,
-  "watchers_count": 683,
+  "size": 13825,
+  "stargazers_count": 690,
+  "watchers_count": 690,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 32,
+  "forks_count": 34,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,9 +109,9 @@
     "model-observability"
   ],
   "visibility": "public",
-  "forks": 32,
+  "forks": 34,
   "open_issues": 64,
-  "watchers": 683,
+  "watchers": 690,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 11
+  "_index": 12
 }

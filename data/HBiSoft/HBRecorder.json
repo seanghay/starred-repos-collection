@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 109,
+  "forks_count": 110,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1,
+  "open_issues_count": 2,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,8 +107,8 @@
     "android-video"
   ],
   "visibility": "public",
-  "forks": 109,
-  "open_issues": 1,
+  "forks": 110,
+  "open_issues": 2,
   "watchers": 303,
   "default_branch": "master",
   "permissions": {
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1775
+  "_index": 1776
 }
