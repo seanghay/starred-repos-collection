@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/detekt/detekt/releases{/id}",
   "deployments_url": "https://api.github.com/repos/detekt/detekt/deployments",
   "created_at": "2016-10-23T21:04:45Z",
-  "updated_at": "2023-05-10T21:27:58Z",
-  "pushed_at": "2023-05-10T01:24:59Z",
+  "updated_at": "2023-05-11T16:59:01Z",
+  "pushed_at": "2023-05-11T21:57:57Z",
   "git_url": "git://github.com/detekt/detekt.git",
   "ssh_url": "git@github.com:detekt/detekt.git",
   "clone_url": "https://github.com/detekt/detekt.git",
   "svn_url": "https://github.com/detekt/detekt",
   "homepage": "https://detekt.dev",
-  "size": 83392,
-  "stargazers_count": 5390,
-  "watchers_count": 5390,
+  "size": 83606,
+  "stargazers_count": 5392,
+  "watchers_count": 5392,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 732,
+  "forks_count": 733,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 143,
+  "open_issues_count": 147,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -110,9 +110,9 @@
     "static-analysis"
   ],
   "visibility": "public",
-  "forks": 732,
-  "open_issues": 143,
-  "watchers": 5390,
+  "forks": 733,
+  "open_issues": 147,
+  "watchers": 5392,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1639
+  "_index": 1640
 }

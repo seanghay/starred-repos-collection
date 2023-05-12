@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/meetsl/SCardView-master/releases{/id}",
   "deployments_url": "https://api.github.com/repos/meetsl/SCardView-master/deployments",
   "created_at": "2018-09-13T02:19:09Z",
-  "updated_at": "2023-04-25T08:03:38Z",
+  "updated_at": "2023-05-11T03:46:34Z",
   "pushed_at": "2020-11-28T14:47:35Z",
   "git_url": "git://github.com/meetsl/SCardView-master.git",
   "ssh_url": "git@github.com:meetsl/SCardView-master.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/meetsl/SCardView-master",
   "homepage": "https://www.cnblogs.com/aimqqroad-13/p/9656316.html",
   "size": 198,
-  "stargazers_count": 419,
-  "watchers_count": 419,
+  "stargazers_count": 420,
+  "watchers_count": 420,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 59,
   "open_issues": 6,
-  "watchers": 419,
+  "watchers": 420,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1664
+  "_index": 1665
 }

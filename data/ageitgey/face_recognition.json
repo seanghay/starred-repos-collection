@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ageitgey/face_recognition/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ageitgey/face_recognition/deployments",
   "created_at": "2017-03-03T21:52:39Z",
-  "updated_at": "2023-05-11T01:38:40Z",
-  "pushed_at": "2023-05-04T05:49:52Z",
+  "updated_at": "2023-05-12T01:35:46Z",
+  "pushed_at": "2023-05-11T12:54:44Z",
   "git_url": "git://github.com/ageitgey/face_recognition.git",
   "ssh_url": "git@github.com:ageitgey/face_recognition.git",
   "clone_url": "https://github.com/ageitgey/face_recognition.git",
   "svn_url": "https://github.com/ageitgey/face_recognition",
   "homepage": "",
   "size": 103959,
-  "stargazers_count": 48195,
-  "watchers_count": 48195,
+  "stargazers_count": 48208,
+  "watchers_count": 48208,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 12913,
+  "forks_count": 12915,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 719,
+  "open_issues_count": 721,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,9 +104,9 @@
     "python"
   ],
   "visibility": "public",
-  "forks": 12913,
-  "open_issues": 719,
-  "watchers": 48195,
+  "forks": 12915,
+  "open_issues": 721,
+  "watchers": 48208,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 180
+  "_index": 181
 }

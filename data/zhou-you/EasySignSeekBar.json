@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/zhou-you/EasySignSeekBar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/zhou-you/EasySignSeekBar/deployments",
   "created_at": "2017-10-11T02:46:06Z",
-  "updated_at": "2023-05-09T01:38:05Z",
+  "updated_at": "2023-05-11T11:13:06Z",
   "pushed_at": "2020-03-23T05:51:44Z",
   "git_url": "git://github.com/zhou-you/EasySignSeekBar.git",
   "ssh_url": "git@github.com:zhou-you/EasySignSeekBar.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/zhou-you/EasySignSeekBar",
   "homepage": "",
   "size": 9857,
-  "stargazers_count": 698,
-  "watchers_count": 698,
+  "stargazers_count": 699,
+  "watchers_count": 699,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -100,7 +100,7 @@
   "visibility": "public",
   "forks": 109,
   "open_issues": 4,
-  "watchers": 698,
+  "watchers": 699,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1988
+  "_index": 1989
 }

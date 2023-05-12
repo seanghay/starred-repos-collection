@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/web-starter-kit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/web-starter-kit/deployments",
   "created_at": "2014-04-07T08:45:18Z",
-  "updated_at": "2023-05-10T15:48:56Z",
+  "updated_at": "2023-05-11T04:44:46Z",
   "pushed_at": "2023-04-15T18:46:32Z",
   "git_url": "git://github.com/google/web-starter-kit.git",
   "ssh_url": "git@github.com:google/web-starter-kit.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/web-starter-kit",
   "homepage": "http://developers.google.com/web/starter-kit",
   "size": 10189,
-  "stargazers_count": 18457,
-  "watchers_count": 18457,
+  "stargazers_count": 18456,
+  "watchers_count": 18456,
   "language": "HTML",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 3130,
   "open_issues": 88,
-  "watchers": 18457,
+  "watchers": 18456,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2636
+  "_index": 2637
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pdf-rs/pdf/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pdf-rs/pdf/deployments",
   "created_at": "2016-12-11T11:00:01Z",
-  "updated_at": "2023-05-10T07:11:23Z",
+  "updated_at": "2023-05-11T19:41:29Z",
   "pushed_at": "2023-04-28T05:04:39Z",
   "git_url": "git://github.com/pdf-rs/pdf.git",
   "ssh_url": "git@github.com:pdf-rs/pdf.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/pdf-rs/pdf",
   "homepage": "",
   "size": 3162,
-  "stargazers_count": 779,
-  "watchers_count": 779,
+  "stargazers_count": 780,
+  "watchers_count": 780,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 82,
   "open_issues": 27,
-  "watchers": 779,
+  "watchers": 780,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 269
+  "_index": 270
 }

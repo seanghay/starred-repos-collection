@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/javiersantos/AppUpdater/releases{/id}",
   "deployments_url": "https://api.github.com/repos/javiersantos/AppUpdater/deployments",
   "created_at": "2016-02-02T18:10:59Z",
-  "updated_at": "2023-05-05T14:10:33Z",
+  "updated_at": "2023-05-11T09:57:07Z",
   "pushed_at": "2023-01-15T21:27:30Z",
   "git_url": "git://github.com/javiersantos/AppUpdater.git",
   "ssh_url": "git@github.com:javiersantos/AppUpdater.git",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1880
+  "_index": 1881
 }

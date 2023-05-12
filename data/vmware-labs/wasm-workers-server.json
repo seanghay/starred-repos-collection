@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/vmware-labs/wasm-workers-server",
-  "description": "🚀 An OSS project to develop and run serverless applications on WebAssembly",
+  "description": "🚀 Develop and run serverless applications on WebAssembly",
   "fork": false,
   "url": "https://api.github.com/repos/vmware-labs/wasm-workers-server",
   "forks_url": "https://api.github.com/repos/vmware-labs/wasm-workers-server/forks",
@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/vmware-labs/wasm-workers-server/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vmware-labs/wasm-workers-server/deployments",
   "created_at": "2022-10-10T09:29:34Z",
-  "updated_at": "2023-05-10T20:19:37Z",
+  "updated_at": "2023-05-11T11:52:41Z",
   "pushed_at": "2023-05-08T14:21:42Z",
   "git_url": "git://github.com/vmware-labs/wasm-workers-server.git",
   "ssh_url": "git@github.com:vmware-labs/wasm-workers-server.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/vmware-labs/wasm-workers-server",
   "homepage": "https://workers.wasmlabs.dev",
   "size": 4033,
-  "stargazers_count": 307,
-  "watchers_count": 307,
+  "stargazers_count": 308,
+  "watchers_count": 308,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 11,
   "open_issues": 17,
-  "watchers": 307,
+  "watchers": 308,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 400
+  "_index": 401
 }

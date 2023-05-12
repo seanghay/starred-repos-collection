@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 133,
+  "open_issues_count": 134,
   "license": {
     "key": "wtfpl",
     "name": "Do What The F*ck You Want To Public License",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 261,
-  "open_issues": 133,
+  "open_issues": 134,
   "watchers": 3771,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1621
+  "_index": 1622
 }
