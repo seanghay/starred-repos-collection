@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/pop-os/cosmic-text/deployments",
   "created_at": "2022-10-18T18:07:53Z",
   "updated_at": "2023-05-10T17:06:34Z",
-  "pushed_at": "2023-05-11T09:15:51Z",
+  "pushed_at": "2023-05-12T07:03:54Z",
   "git_url": "git://github.com/pop-os/cosmic-text.git",
   "ssh_url": "git@github.com:pop-os/cosmic-text.git",
   "clone_url": "https://github.com/pop-os/cosmic-text.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 36,
+  "open_issues_count": 39,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 32,
-  "open_issues": 36,
+  "open_issues": 39,
   "watchers": 1018,
   "default_branch": "main",
   "permissions": {
