@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/NVIDIA/waveglow/releases{/id}",
   "deployments_url": "https://api.github.com/repos/NVIDIA/waveglow/deployments",
   "created_at": "2018-11-08T00:41:44Z",
-  "updated_at": "2023-05-10T19:28:37Z",
+  "updated_at": "2023-05-13T22:08:58Z",
   "pushed_at": "2022-11-13T07:39:15Z",
   "git_url": "git://github.com/NVIDIA/waveglow.git",
   "ssh_url": "git@github.com:NVIDIA/waveglow.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/NVIDIA/waveglow",
   "homepage": null,
   "size": 436,
-  "stargazers_count": 2101,
-  "watchers_count": 2101,
+  "stargazers_count": 2102,
+  "watchers_count": 2102,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 513,
+  "forks_count": 514,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 513,
+  "forks": 514,
   "open_issues": 74,
-  "watchers": 2101,
+  "watchers": 2102,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 113
+  "_index": 114
 }

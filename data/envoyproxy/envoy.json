@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/envoyproxy/envoy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/envoyproxy/envoy/deployments",
   "created_at": "2016-08-08T15:07:24Z",
-  "updated_at": "2023-05-12T20:17:26Z",
-  "pushed_at": "2023-05-13T01:03:28Z",
+  "updated_at": "2023-05-14T01:32:30Z",
+  "pushed_at": "2023-05-13T02:39:15Z",
   "git_url": "git://github.com/envoyproxy/envoy.git",
   "ssh_url": "git@github.com:envoyproxy/envoy.git",
   "clone_url": "https://github.com/envoyproxy/envoy.git",
   "svn_url": "https://github.com/envoyproxy/envoy",
   "homepage": "https://www.envoyproxy.io",
   "size": 208645,
-  "stargazers_count": 22005,
-  "watchers_count": 22005,
+  "stargazers_count": 22007,
+  "watchers_count": 22007,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 4251,
+  "forks_count": 4253,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,9 +108,9 @@
     "rocket-ships"
   ],
   "visibility": "public",
-  "forks": 4251,
+  "forks": 4253,
   "open_issues": 1495,
-  "watchers": 22005,
+  "watchers": 22007,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 724
+  "_index": 725
 }

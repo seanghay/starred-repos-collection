@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/mlc-ai/mlc-llm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mlc-ai/mlc-llm/deployments",
   "created_at": "2023-04-29T01:59:25Z",
-  "updated_at": "2023-05-13T01:47:19Z",
-  "pushed_at": "2023-05-13T01:00:34Z",
+  "updated_at": "2023-05-14T01:28:53Z",
+  "pushed_at": "2023-05-14T01:37:32Z",
   "git_url": "git://github.com/mlc-ai/mlc-llm.git",
   "ssh_url": "git@github.com:mlc-ai/mlc-llm.git",
   "clone_url": "https://github.com/mlc-ai/mlc-llm.git",
   "svn_url": "https://github.com/mlc-ai/mlc-llm",
   "homepage": "https://mlc.ai/mlc-llm",
-  "size": 12517,
-  "stargazers_count": 6346,
-  "watchers_count": 6346,
+  "size": 12640,
+  "stargazers_count": 6419,
+  "watchers_count": 6419,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 408,
+  "forks_count": 414,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 66,
+  "open_issues_count": 70,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -104,9 +104,9 @@
     "tvm"
   ],
   "visibility": "public",
-  "forks": 408,
-  "open_issues": 66,
-  "watchers": 6346,
+  "forks": 414,
+  "open_issues": 70,
+  "watchers": 6419,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 14
+  "_index": 15
 }

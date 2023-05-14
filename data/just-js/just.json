@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/just-js/just/releases{/id}",
   "deployments_url": "https://api.github.com/repos/just-js/just/deployments",
   "created_at": "2020-07-17T03:07:34Z",
-  "updated_at": "2023-05-12T14:27:41Z",
+  "updated_at": "2023-05-13T15:35:37Z",
   "pushed_at": "2022-09-04T22:37:13Z",
   "git_url": "git://github.com/just-js/just.git",
   "ssh_url": "git@github.com:just-js/just.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 107,
+  "forks_count": 108,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,7 +99,7 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 107,
+  "forks": 108,
   "open_issues": 26,
   "watchers": 3115,
   "default_branch": "main",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1192
+  "_index": 1193
 }

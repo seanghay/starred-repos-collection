@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/markdoc/markdoc/releases{/id}",
   "deployments_url": "https://api.github.com/repos/markdoc/markdoc/deployments",
   "created_at": "2022-05-09T17:50:46Z",
-  "updated_at": "2023-05-12T18:42:12Z",
+  "updated_at": "2023-05-13T20:11:12Z",
   "pushed_at": "2023-05-12T18:59:46Z",
   "git_url": "git://github.com/markdoc/markdoc.git",
   "ssh_url": "git@github.com:markdoc/markdoc.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/markdoc/markdoc",
   "homepage": "https://markdoc.dev",
   "size": 286,
-  "stargazers_count": 6290,
-  "watchers_count": 6290,
+  "stargazers_count": 6291,
+  "watchers_count": 6291,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 128,
   "open_issues": 13,
-  "watchers": 6290,
+  "watchers": 6291,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 675
+  "_index": 676
 }

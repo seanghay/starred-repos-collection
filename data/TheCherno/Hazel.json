@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/TheCherno/Hazel/releases{/id}",
   "deployments_url": "https://api.github.com/repos/TheCherno/Hazel/deployments",
   "created_at": "2018-10-20T03:31:42Z",
-  "updated_at": "2023-05-12T21:04:00Z",
+  "updated_at": "2023-05-14T00:37:26Z",
   "pushed_at": "2023-03-20T16:07:09Z",
   "git_url": "git://github.com/TheCherno/Hazel.git",
   "ssh_url": "git@github.com:TheCherno/Hazel.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/TheCherno/Hazel",
   "homepage": null,
   "size": 54747,
-  "stargazers_count": 9523,
-  "watchers_count": 9523,
+  "stargazers_count": 9525,
+  "watchers_count": 9525,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 1364,
   "open_issues": 108,
-  "watchers": 9523,
+  "watchers": 9525,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2246
+  "_index": 2247
 }

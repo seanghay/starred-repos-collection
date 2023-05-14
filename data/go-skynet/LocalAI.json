@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/go-skynet/LocalAI",
-  "description": ":robot: Self-hosted, community-driven, local OpenAI-compatible API. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. LocalAI is a RESTful API for ggml compatible models. For example: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras",
+  "description": ":robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. LocalAI is a RESTful API for ggml compatible models: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras and many others!",
   "fork": false,
   "url": "https://api.github.com/repos/go-skynet/LocalAI",
   "forks_url": "https://api.github.com/repos/go-skynet/LocalAI/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/go-skynet/LocalAI/releases{/id}",
   "deployments_url": "https://api.github.com/repos/go-skynet/LocalAI/deployments",
   "created_at": "2023-03-18T22:58:02Z",
-  "updated_at": "2023-05-13T01:42:08Z",
-  "pushed_at": "2023-05-12T22:46:52Z",
+  "updated_at": "2023-05-14T01:44:03Z",
+  "pushed_at": "2023-05-13T20:17:04Z",
   "git_url": "git://github.com/go-skynet/LocalAI.git",
   "ssh_url": "git@github.com:go-skynet/LocalAI.git",
   "clone_url": "https://github.com/go-skynet/LocalAI.git",
   "svn_url": "https://github.com/go-skynet/LocalAI",
   "homepage": "",
-  "size": 372,
-  "stargazers_count": 2441,
-  "watchers_count": 2441,
+  "size": 390,
+  "stargazers_count": 2549,
+  "watchers_count": 2549,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 120,
+  "forks_count": 126,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -98,16 +98,18 @@
   "is_template": false,
   "web_commit_signoff_required": false,
   "topics": [
+    "ai",
     "alpaca",
     "gpt-neox",
     "llama",
+    "llm",
     "rwkv",
     "vicuna"
   ],
   "visibility": "public",
-  "forks": 120,
+  "forks": 126,
   "open_issues": 43,
-  "watchers": 2441,
+  "watchers": 2549,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 52
+  "_index": 53
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/solidjs/solid-start/releases{/id}",
   "deployments_url": "https://api.github.com/repos/solidjs/solid-start/deployments",
   "created_at": "2021-03-30T03:42:11Z",
-  "updated_at": "2023-05-12T22:50:46Z",
+  "updated_at": "2023-05-13T22:26:41Z",
   "pushed_at": "2023-05-09T19:01:46Z",
   "git_url": "git://github.com/solidjs/solid-start.git",
   "ssh_url": "git@github.com:solidjs/solid-start.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/solidjs/solid-start",
   "homepage": "https://start.solidjs.com",
   "size": 10657,
-  "stargazers_count": 3453,
-  "watchers_count": 3453,
+  "stargazers_count": 3457,
+  "watchers_count": 3457,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 268,
   "open_issues": 184,
-  "watchers": 3453,
+  "watchers": 3457,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 501
+  "_index": 502
 }

@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/google/oboe.git",
   "svn_url": "https://github.com/google/oboe",
   "homepage": "",
-  "size": 54271,
+  "size": 54272,
   "stargazers_count": 3357,
   "watchers_count": 3357,
   "language": "C++",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1951
+  "_index": 1952
 }

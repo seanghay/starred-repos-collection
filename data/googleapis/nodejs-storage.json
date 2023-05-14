@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 23,
+  "open_issues_count": 24,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -103,7 +103,7 @@
   ],
   "visibility": "public",
   "forks": 366,
-  "open_issues": 23,
+  "open_issues": 24,
   "watchers": 823,
   "default_branch": "main",
   "permissions": {
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 469
+  "_index": 470
 }

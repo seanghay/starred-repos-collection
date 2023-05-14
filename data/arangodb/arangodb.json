@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/arangodb/arangodb/releases{/id}",
   "deployments_url": "https://api.github.com/repos/arangodb/arangodb/deployments",
   "created_at": "2011-10-26T06:42:00Z",
-  "updated_at": "2023-05-12T12:56:02Z",
-  "pushed_at": "2023-05-12T21:05:46Z",
+  "updated_at": "2023-05-13T22:40:51Z",
+  "pushed_at": "2023-05-14T00:37:43Z",
   "git_url": "git://github.com/arangodb/arangodb.git",
   "ssh_url": "git@github.com:arangodb/arangodb.git",
   "clone_url": "https://github.com/arangodb/arangodb.git",
   "svn_url": "https://github.com/arangodb/arangodb",
   "homepage": "https://www.arangodb.com",
-  "size": 2431643,
-  "stargazers_count": 12945,
-  "watchers_count": 12945,
+  "size": 2433299,
+  "stargazers_count": 12947,
+  "watchers_count": 12947,
   "language": "C++",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 792,
+  "open_issues_count": 793,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -110,8 +110,8 @@
   ],
   "visibility": "public",
   "forks": 813,
-  "open_issues": 792,
-  "watchers": 12945,
+  "open_issues": 793,
+  "watchers": 12947,
   "default_branch": "devel",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1108
+  "_index": 1109
 }

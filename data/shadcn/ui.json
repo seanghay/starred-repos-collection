@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/shadcn/ui/releases{/id}",
   "deployments_url": "https://api.github.com/repos/shadcn/ui/deployments",
   "created_at": "2023-01-04T12:43:27Z",
-  "updated_at": "2023-05-13T01:53:57Z",
-  "pushed_at": "2023-05-12T21:44:16Z",
+  "updated_at": "2023-05-14T01:18:12Z",
+  "pushed_at": "2023-05-13T09:37:14Z",
   "git_url": "git://github.com/shadcn/ui.git",
   "ssh_url": "git@github.com:shadcn/ui.git",
   "clone_url": "https://github.com/shadcn/ui.git",
   "svn_url": "https://github.com/shadcn/ui",
   "homepage": "https://ui.shadcn.com",
-  "size": 6263,
-  "stargazers_count": 15212,
-  "watchers_count": 15212,
+  "size": 6276,
+  "stargazers_count": 15331,
+  "watchers_count": 15331,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 607,
+  "forks_count": 612,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 172,
+  "open_issues_count": 177,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,9 +106,9 @@
     "ui"
   ],
   "visibility": "public",
-  "forks": 607,
-  "open_issues": 172,
-  "watchers": 15212,
+  "forks": 612,
+  "open_issues": 177,
+  "watchers": 15331,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 103
+  "_index": 104
 }

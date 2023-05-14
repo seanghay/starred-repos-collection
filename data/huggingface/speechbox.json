@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/huggingface/speechbox/releases{/id}",
   "deployments_url": "https://api.github.com/repos/huggingface/speechbox/deployments",
   "created_at": "2022-12-26T16:32:01Z",
-  "updated_at": "2023-05-11T10:10:59Z",
+  "updated_at": "2023-05-13T19:54:16Z",
   "pushed_at": "2023-01-27T18:40:26Z",
   "git_url": "git://github.com/huggingface/speechbox.git",
   "ssh_url": "git@github.com:huggingface/speechbox.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/huggingface/speechbox",
   "homepage": null,
   "size": 67,
-  "stargazers_count": 225,
-  "watchers_count": 225,
+  "stargazers_count": 226,
+  "watchers_count": 226,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 12,
   "open_issues": 9,
-  "watchers": 225,
+  "watchers": 226,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 36
+  "_index": 37
 }
