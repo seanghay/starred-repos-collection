@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wasabeef/compose-gap/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wasabeef/compose-gap/deployments",
   "created_at": "2021-10-12T07:19:48Z",
-  "updated_at": "2023-04-06T01:10:44Z",
+  "updated_at": "2023-05-14T15:37:40Z",
   "pushed_at": "2023-03-16T08:09:27Z",
   "git_url": "git://github.com/wasabeef/compose-gap.git",
   "ssh_url": "git@github.com:wasabeef/compose-gap.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wasabeef/compose-gap",
   "homepage": "",
   "size": 648,
-  "stargazers_count": 29,
-  "watchers_count": 29,
+  "stargazers_count": 30,
+  "watchers_count": 30,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 1,
   "open_issues": 6,
-  "watchers": 29,
+  "watchers": 30,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 923
+  "_index": 925
 }

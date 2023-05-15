@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/MaximeBeasse/KeyDecoder/releases{/id}",
   "deployments_url": "https://api.github.com/repos/MaximeBeasse/KeyDecoder/deployments",
   "created_at": "2020-06-30T18:39:41Z",
-  "updated_at": "2023-05-11T08:13:25Z",
+  "updated_at": "2023-05-14T18:48:39Z",
   "pushed_at": "2020-12-29T23:11:02Z",
   "git_url": "git://github.com/MaximeBeasse/KeyDecoder.git",
   "ssh_url": "git@github.com:MaximeBeasse/KeyDecoder.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/MaximeBeasse/KeyDecoder",
   "homepage": "",
   "size": 2096,
-  "stargazers_count": 2701,
-  "watchers_count": 2701,
+  "stargazers_count": 2702,
+  "watchers_count": 2702,
   "language": "Dart",
   "has_issues": true,
   "has_projects": false,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 168,
   "open_issues": 3,
-  "watchers": 2701,
+  "watchers": 2702,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 255
+  "_index": 257
 }

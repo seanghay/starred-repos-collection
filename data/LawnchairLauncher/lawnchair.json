@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/LawnchairLauncher/lawnchair/releases{/id}",
   "deployments_url": "https://api.github.com/repos/LawnchairLauncher/lawnchair/deployments",
   "created_at": "2017-03-03T13:12:58Z",
-  "updated_at": "2023-05-13T20:31:41Z",
+  "updated_at": "2023-05-15T02:03:22Z",
   "pushed_at": "2023-05-14T00:18:55Z",
   "git_url": "git://github.com/LawnchairLauncher/lawnchair.git",
   "ssh_url": "git@github.com:LawnchairLauncher/lawnchair.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/LawnchairLauncher/lawnchair",
   "homepage": "https://lawnchair.app",
   "size": 411465,
-  "stargazers_count": 7116,
-  "watchers_count": 7116,
+  "stargazers_count": 7122,
+  "watchers_count": 7122,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 984,
+  "forks_count": 985,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "launcher3"
   ],
   "visibility": "public",
-  "forks": 984,
+  "forks": 985,
   "open_issues": 92,
-  "watchers": 7116,
+  "watchers": 7122,
   "default_branch": "12.1-dev",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1938
+  "_index": 1940
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jussiniinikoski/wasm-pdf/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jussiniinikoski/wasm-pdf/deployments",
   "created_at": "2019-05-31T15:16:15Z",
-  "updated_at": "2023-05-11T09:57:15Z",
+  "updated_at": "2023-05-14T13:42:39Z",
   "pushed_at": "2023-05-01T06:19:32Z",
   "git_url": "git://github.com/jussiniinikoski/wasm-pdf.git",
   "ssh_url": "git@github.com:jussiniinikoski/wasm-pdf.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jussiniinikoski/wasm-pdf",
   "homepage": "",
   "size": 581,
-  "stargazers_count": 417,
-  "watchers_count": 417,
+  "stargazers_count": 418,
+  "watchers_count": 418,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 36,
   "open_issues": 11,
-  "watchers": 417,
+  "watchers": 418,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 124
+  "_index": 126
 }
