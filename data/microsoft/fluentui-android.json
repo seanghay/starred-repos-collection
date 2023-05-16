@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/microsoft/fluentui-android/deployments",
   "created_at": "2020-04-20T08:44:32Z",
   "updated_at": "2023-05-14T02:44:25Z",
-  "pushed_at": "2023-05-13T14:59:44Z",
+  "pushed_at": "2023-05-15T15:49:10Z",
   "git_url": "git://github.com/microsoft/fluentui-android.git",
   "ssh_url": "git@github.com:microsoft/fluentui-android.git",
   "clone_url": "https://github.com/microsoft/fluentui-android.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 36,
+  "open_issues_count": 37,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 87,
-  "open_issues": 36,
+  "open_issues": 37,
   "watchers": 448,
   "default_branch": "master",
   "permissions": {

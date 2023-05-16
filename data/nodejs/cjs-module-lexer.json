@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/nodejs/cjs-module-lexer.git",
   "svn_url": "https://github.com/nodejs/cjs-module-lexer",
   "homepage": null,
-  "size": 2152,
+  "size": 2154,
   "stargazers_count": 182,
   "watchers_count": 182,
   "language": "JavaScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 17,
+  "open_issues_count": 16,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 20,
-  "open_issues": 17,
+  "open_issues": 16,
   "watchers": 182,
   "default_branch": "main",
   "permissions": {
