@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/tremorlabs/tremor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tremorlabs/tremor/deployments",
   "created_at": "2022-04-19T20:54:32Z",
-  "updated_at": "2023-05-16T01:10:34Z",
-  "pushed_at": "2023-05-15T12:36:21Z",
+  "updated_at": "2023-05-17T01:07:55Z",
+  "pushed_at": "2023-05-16T21:50:23Z",
   "git_url": "git://github.com/tremorlabs/tremor.git",
   "ssh_url": "git@github.com:tremorlabs/tremor.git",
   "clone_url": "https://github.com/tremorlabs/tremor.git",
   "svn_url": "https://github.com/tremorlabs/tremor",
   "homepage": "https://tremor.so",
-  "size": 8033,
-  "stargazers_count": 8630,
-  "watchers_count": 8630,
+  "size": 8399,
+  "stargazers_count": 8647,
+  "watchers_count": 8647,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 215,
+  "forks_count": 217,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 60,
+  "open_issues_count": 59,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -105,9 +105,9 @@
     "ui-system"
   ],
   "visibility": "public",
-  "forks": 215,
-  "open_issues": 60,
-  "watchers": 8630,
+  "forks": 217,
+  "open_issues": 59,
+  "watchers": 8647,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 425
+  "_index": 426
 }

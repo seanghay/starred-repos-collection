@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/material-components/material-components-android-examples/releases{/id}",
   "deployments_url": "https://api.github.com/repos/material-components/material-components-android-examples/deployments",
   "created_at": "2019-10-01T10:00:27Z",
-  "updated_at": "2023-05-13T05:28:31Z",
+  "updated_at": "2023-05-16T07:33:04Z",
   "pushed_at": "2023-04-27T07:49:48Z",
   "git_url": "git://github.com/material-components/material-components-android-examples.git",
   "ssh_url": "git@github.com:material-components/material-components-android-examples.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/material-components/material-components-android-examples",
   "homepage": "",
   "size": 128960,
-  "stargazers_count": 2477,
-  "watchers_count": 2477,
+  "stargazers_count": 2478,
+  "watchers_count": 2478,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 541,
+  "forks_count": 540,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 541,
+  "forks": 540,
   "open_issues": 16,
-  "watchers": 2477,
+  "watchers": 2478,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2097
+  "_index": 2098
 }

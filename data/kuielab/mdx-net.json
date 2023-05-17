@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kuielab/mdx-net/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kuielab/mdx-net/deployments",
   "created_at": "2021-06-27T07:05:27Z",
-  "updated_at": "2023-05-15T06:59:26Z",
+  "updated_at": "2023-05-16T08:41:45Z",
   "pushed_at": "2023-02-27T02:01:05Z",
   "git_url": "git://github.com/kuielab/mdx-net.git",
   "ssh_url": "git@github.com:kuielab/mdx-net.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/kuielab/mdx-net",
   "homepage": "https://www.aicrowd.com/challenges/music-demixing-challenge-ismir-2021/",
   "size": 13391,
-  "stargazers_count": 110,
-  "watchers_count": 110,
+  "stargazers_count": 111,
+  "watchers_count": 111,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 14,
   "open_issues": 6,
-  "watchers": 110,
+  "watchers": 111,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 50
+  "_index": 51
 }

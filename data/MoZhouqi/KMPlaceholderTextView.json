@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/MoZhouqi/KMPlaceholderTextView/deployments",
   "created_at": "2015-03-04T05:36:37Z",
   "updated_at": "2023-05-15T19:24:19Z",
-  "pushed_at": "2023-04-04T07:53:26Z",
+  "pushed_at": "2023-05-16T06:40:49Z",
   "git_url": "git://github.com/MoZhouqi/KMPlaceholderTextView.git",
   "ssh_url": "git@github.com:MoZhouqi/KMPlaceholderTextView.git",
   "clone_url": "https://github.com/MoZhouqi/KMPlaceholderTextView.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 11,
+  "open_issues_count": 10,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,7 +105,7 @@
   ],
   "visibility": "public",
   "forks": 145,
-  "open_issues": 11,
+  "open_issues": 10,
   "watchers": 794,
   "default_branch": "master",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 923
+  "_index": 924
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/web-infra-dev/rspack/releases{/id}",
   "deployments_url": "https://api.github.com/repos/web-infra-dev/rspack/deployments",
   "created_at": "2022-04-01T08:45:30Z",
-  "updated_at": "2023-05-15T17:17:35Z",
-  "pushed_at": "2023-05-15T17:17:21Z",
+  "updated_at": "2023-05-16T20:24:13Z",
+  "pushed_at": "2023-05-17T01:16:57Z",
   "git_url": "git://github.com/web-infra-dev/rspack.git",
   "ssh_url": "git@github.com:web-infra-dev/rspack.git",
   "clone_url": "https://github.com/web-infra-dev/rspack.git",
   "svn_url": "https://github.com/web-infra-dev/rspack",
   "homepage": "https://rspack.dev",
-  "size": 18570,
-  "stargazers_count": 4449,
-  "watchers_count": 4449,
+  "size": 18731,
+  "stargazers_count": 4452,
+  "watchers_count": 4452,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 212,
+  "forks_count": 211,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 178,
+  "open_issues_count": 179,
   "license": {
     "key": "other",
     "name": "Other",
@@ -111,9 +111,9 @@
     "web-performance"
   ],
   "visibility": "public",
-  "forks": 212,
-  "open_issues": 178,
-  "watchers": 4449,
+  "forks": 211,
+  "open_issues": 179,
+  "watchers": 4452,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 165
+  "_index": 166
 }

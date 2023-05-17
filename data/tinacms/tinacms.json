@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/tinacms/tinacms/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tinacms/tinacms/deployments",
   "created_at": "2019-07-23T18:37:47Z",
-  "updated_at": "2023-05-15T19:06:01Z",
-  "pushed_at": "2023-05-16T00:07:07Z",
+  "updated_at": "2023-05-16T21:19:55Z",
+  "pushed_at": "2023-05-17T00:41:48Z",
   "git_url": "git://github.com/tinacms/tinacms.git",
   "ssh_url": "git@github.com:tinacms/tinacms.git",
   "clone_url": "https://github.com/tinacms/tinacms.git",
   "svn_url": "https://github.com/tinacms/tinacms",
   "homepage": "https://tina.io",
-  "size": 897170,
-  "stargazers_count": 8791,
-  "watchers_count": 8791,
+  "size": 896857,
+  "stargazers_count": 8789,
+  "watchers_count": 8789,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 77,
+  "open_issues_count": 78,
   "license": {
     "key": "other",
     "name": "Other",
@@ -110,8 +110,8 @@
   ],
   "visibility": "public",
   "forks": 465,
-  "open_issues": 77,
-  "watchers": 8791,
+  "open_issues": 78,
+  "watchers": 8789,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 964
+  "_index": 965
 }

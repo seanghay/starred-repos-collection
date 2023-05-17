@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/google/wireit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/wireit/deployments",
   "created_at": "2021-12-22T15:52:53Z",
-  "updated_at": "2023-05-15T22:00:16Z",
-  "pushed_at": "2023-05-15T12:05:25Z",
+  "updated_at": "2023-05-16T21:49:59Z",
+  "pushed_at": "2023-05-16T12:00:31Z",
   "git_url": "git://github.com/google/wireit.git",
   "ssh_url": "git@github.com:google/wireit.git",
   "clone_url": "https://github.com/google/wireit.git",
   "svn_url": "https://github.com/google/wireit",
   "homepage": "",
   "size": 4649,
-  "stargazers_count": 4424,
-  "watchers_count": 4424,
+  "stargazers_count": 4427,
+  "watchers_count": 4427,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 77,
   "open_issues": 61,
-  "watchers": 4424,
+  "watchers": 4427,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 696
+  "_index": 697
 }

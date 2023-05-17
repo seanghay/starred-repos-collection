@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/twitter/the-algorithm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/twitter/the-algorithm/deployments",
   "created_at": "2023-03-27T14:57:57Z",
-  "updated_at": "2023-05-16T02:00:49Z",
+  "updated_at": "2023-05-17T00:41:55Z",
   "pushed_at": "2023-05-15T10:06:20Z",
   "git_url": "git://github.com/twitter/the-algorithm.git",
   "ssh_url": "git@github.com:twitter/the-algorithm.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/twitter/the-algorithm",
   "homepage": "https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm",
   "size": 6489,
-  "stargazers_count": 56899,
-  "watchers_count": 56899,
+  "stargazers_count": 56929,
+  "watchers_count": 56929,
   "language": "Scala",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 11732,
+  "forks_count": 11737,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 11732,
+  "forks": 11737,
   "open_issues": 331,
-  "watchers": 56899,
+  "watchers": 56929,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 95
+  "_index": 96
 }

@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/jaredsburrows/android-gif-search.git",
   "svn_url": "https://github.com/jaredsburrows/android-gif-search",
   "homepage": "",
-  "size": 1992,
+  "size": 1991,
   "stargazers_count": 388,
   "watchers_count": 388,
   "language": "Kotlin",
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1938
+  "_index": 1939
 }
