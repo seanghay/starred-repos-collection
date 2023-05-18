@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Himself65/rich-data/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Himself65/rich-data/deployments",
   "created_at": "2023-01-03T02:12:46Z",
-  "updated_at": "2023-04-23T14:19:27Z",
+  "updated_at": "2023-05-17T07:00:24Z",
   "pushed_at": "2023-04-04T23:53:34Z",
   "git_url": "git://github.com/Himself65/rich-data.git",
   "ssh_url": "git@github.com:Himself65/rich-data.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Himself65/rich-data",
   "homepage": "https://rich-data.dev",
   "size": 4124,
-  "stargazers_count": 137,
-  "watchers_count": 137,
+  "stargazers_count": 138,
+  "watchers_count": 138,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 12,
+  "forks_count": 11,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,9 +102,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 12,
+  "forks": 11,
   "open_issues": 2,
-  "watchers": 137,
+  "watchers": 138,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 128
+  "_index": 132
 }

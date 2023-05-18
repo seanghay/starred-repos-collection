@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/thagikura/AndroidTemplatePluginSample/releases{/id}",
   "deployments_url": "https://api.github.com/repos/thagikura/AndroidTemplatePluginSample/deployments",
   "created_at": "2020-05-28T09:22:27Z",
-  "updated_at": "2023-02-15T02:55:24Z",
+  "updated_at": "2023-05-17T11:20:42Z",
   "pushed_at": "2020-05-28T09:27:31Z",
   "git_url": "git://github.com/thagikura/AndroidTemplatePluginSample.git",
   "ssh_url": "git@github.com:thagikura/AndroidTemplatePluginSample.git",
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1583
+  "_index": 1587
 }

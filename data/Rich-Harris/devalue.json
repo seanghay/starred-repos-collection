@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Rich-Harris/devalue/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Rich-Harris/devalue/deployments",
   "created_at": "2018-03-10T21:53:48Z",
-  "updated_at": "2023-05-17T02:00:13Z",
+  "updated_at": "2023-05-17T18:58:38Z",
   "pushed_at": "2023-05-14T23:38:23Z",
   "git_url": "git://github.com/Rich-Harris/devalue.git",
   "ssh_url": "git@github.com:Rich-Harris/devalue.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Rich-Harris/devalue",
   "homepage": "https://svelte.dev/repl/138d70def7a748ce9eda736ef1c71239?version=3.49.0",
   "size": 125,
-  "stargazers_count": 1625,
-  "watchers_count": 1625,
+  "stargazers_count": 1629,
+  "watchers_count": 1629,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 44,
   "open_issues": 18,
-  "watchers": 1625,
+  "watchers": 1629,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 369
+  "_index": 373
 }

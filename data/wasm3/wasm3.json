@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wasm3/wasm3/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wasm3/wasm3/deployments",
   "created_at": "2019-10-01T17:06:03Z",
-  "updated_at": "2023-05-16T20:01:37Z",
+  "updated_at": "2023-05-17T20:16:17Z",
   "pushed_at": "2023-04-28T09:29:50Z",
   "git_url": "git://github.com/wasm3/wasm3.git",
   "ssh_url": "git@github.com:wasm3/wasm3.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wasm3/wasm3",
   "homepage": "https://twitter.com/wasm3_engine",
   "size": 5771,
-  "stargazers_count": 6083,
-  "watchers_count": 6083,
+  "stargazers_count": 6088,
+  "watchers_count": 6088,
   "language": "C",
   "has_issues": true,
   "has_projects": false,
@@ -115,7 +115,7 @@
   "visibility": "public",
   "forks": 387,
   "open_issues": 61,
-  "watchers": 6083,
+  "watchers": 6088,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 292
+  "_index": 296
 }

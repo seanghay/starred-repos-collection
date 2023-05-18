@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/aserbao/AndroidCamera/releases{/id}",
   "deployments_url": "https://api.github.com/repos/aserbao/AndroidCamera/deployments",
   "created_at": "2018-05-04T09:43:46Z",
-  "updated_at": "2023-05-16T12:49:11Z",
+  "updated_at": "2023-05-17T10:43:30Z",
   "pushed_at": "2022-12-26T08:19:57Z",
   "git_url": "git://github.com/aserbao/AndroidCamera.git",
   "ssh_url": "git@github.com:aserbao/AndroidCamera.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/aserbao/AndroidCamera",
   "homepage": "",
   "size": 165037,
-  "stargazers_count": 2577,
-  "watchers_count": 2577,
+  "stargazers_count": 2579,
+  "watchers_count": 2579,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 592,
   "open_issues": 44,
-  "watchers": 2577,
+  "watchers": 2579,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2007
+  "_index": 2011
 }

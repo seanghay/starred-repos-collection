@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/rive-app/rive-android.git",
   "svn_url": "https://github.com/rive-app/rive-android",
   "homepage": "https://rive.app",
-  "size": 383789,
+  "size": 383689,
   "stargazers_count": 255,
   "watchers_count": 255,
   "language": "Kotlin",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1438
+  "_index": 1442
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/vercel/og-image/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vercel/og-image/deployments",
   "created_at": "2019-01-02T00:20:14Z",
-  "updated_at": "2023-05-16T11:46:21Z",
+  "updated_at": "2023-05-17T11:04:25Z",
   "pushed_at": "2023-01-20T23:48:47Z",
   "git_url": "git://github.com/vercel/og-image.git",
   "ssh_url": "git@github.com:vercel/og-image.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1292,
+  "forks_count": 1293,
   "mirror_url": null,
   "archived": true,
   "disabled": false,
@@ -106,7 +106,7 @@
     "vercel"
   ],
   "visibility": "public",
-  "forks": 1292,
+  "forks": 1293,
   "open_issues": 1,
   "watchers": 3994,
   "default_branch": "main",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1204
+  "_index": 1208
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/aliwaris0572/Snappy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/aliwaris0572/Snappy/deployments",
   "created_at": "2018-06-13T12:51:59Z",
-  "updated_at": "2023-02-06T07:34:27Z",
+  "updated_at": "2023-05-17T09:27:39Z",
   "pushed_at": "2019-03-27T09:48:25Z",
   "git_url": "git://github.com/aliwaris0572/Snappy.git",
   "ssh_url": "git@github.com:aliwaris0572/Snappy.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/aliwaris0572/Snappy",
   "homepage": null,
   "size": 1213,
-  "stargazers_count": 33,
-  "watchers_count": 33,
+  "stargazers_count": 32,
+  "watchers_count": 32,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 4,
   "open_issues": 0,
-  "watchers": 33,
+  "watchers": 32,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2593
+  "_index": 2597
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/HokoFly/HokoBlur/releases{/id}",
   "deployments_url": "https://api.github.com/repos/HokoFly/HokoBlur/deployments",
   "created_at": "2018-04-19T09:58:49Z",
-  "updated_at": "2023-05-14T10:14:01Z",
+  "updated_at": "2023-05-17T07:06:21Z",
   "pushed_at": "2023-03-17T02:17:32Z",
   "git_url": "git://github.com/HokoFly/HokoBlur.git",
   "ssh_url": "git@github.com:HokoFly/HokoBlur.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/HokoFly/HokoBlur",
   "homepage": "",
   "size": 36166,
-  "stargazers_count": 643,
-  "watchers_count": 643,
+  "stargazers_count": 644,
+  "watchers_count": 644,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 67,
   "open_issues": 0,
-  "watchers": 643,
+  "watchers": 644,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2254
+  "_index": 2258
 }

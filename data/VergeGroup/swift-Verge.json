@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/VergeGroup/swift-Verge/releases{/id}",
   "deployments_url": "https://api.github.com/repos/VergeGroup/swift-Verge/deployments",
   "created_at": "2017-10-17T20:15:00Z",
-  "updated_at": "2023-05-16T03:58:15Z",
+  "updated_at": "2023-05-17T09:40:37Z",
   "pushed_at": "2023-05-14T18:29:05Z",
   "git_url": "git://github.com/VergeGroup/swift-Verge.git",
   "ssh_url": "git@github.com:VergeGroup/swift-Verge.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/VergeGroup/swift-Verge",
   "homepage": "https://vergegroup.github.io/swift-Verge/Verge/documentation/verge/",
   "size": 53902,
-  "stargazers_count": 518,
-  "watchers_count": 518,
+  "stargazers_count": 519,
+  "watchers_count": 519,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 30,
+  "forks_count": 31,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -117,9 +117,9 @@
     "vuex"
   ],
   "visibility": "public",
-  "forks": 30,
+  "forks": 31,
   "open_issues": 10,
-  "watchers": 518,
+  "watchers": 519,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1219
+  "_index": 1223
 }

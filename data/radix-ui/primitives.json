@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/radix-ui/primitives/releases{/id}",
   "deployments_url": "https://api.github.com/repos/radix-ui/primitives/deployments",
   "created_at": "2020-06-19T13:23:22Z",
-  "updated_at": "2023-05-17T01:41:16Z",
-  "pushed_at": "2023-05-16T17:19:42Z",
+  "updated_at": "2023-05-18T01:16:47Z",
+  "pushed_at": "2023-05-17T19:20:59Z",
   "git_url": "git://github.com/radix-ui/primitives.git",
   "ssh_url": "git@github.com:radix-ui/primitives.git",
   "clone_url": "https://github.com/radix-ui/primitives.git",
   "svn_url": "https://github.com/radix-ui/primitives",
   "homepage": "https://radix-ui.com",
-  "size": 16733,
-  "stargazers_count": 9626,
-  "watchers_count": 9626,
+  "size": 16757,
+  "stargazers_count": 9655,
+  "watchers_count": 9655,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 381,
+  "forks_count": 382,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 213,
+  "open_issues_count": 209,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,9 +109,9 @@
     "ui-kit"
   ],
   "visibility": "public",
-  "forks": 381,
-  "open_issues": 213,
-  "watchers": 9626,
+  "forks": 382,
+  "open_issues": 209,
+  "watchers": 9655,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 766
+  "_index": 770
 }

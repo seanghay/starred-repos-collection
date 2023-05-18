@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/albumentations-team/albumentations/releases{/id}",
   "deployments_url": "https://api.github.com/repos/albumentations-team/albumentations/deployments",
   "created_at": "2018-06-06T03:10:50Z",
-  "updated_at": "2023-05-17T00:35:49Z",
-  "pushed_at": "2023-05-14T07:16:27Z",
+  "updated_at": "2023-05-17T22:24:30Z",
+  "pushed_at": "2023-05-17T14:46:22Z",
   "git_url": "git://github.com/albumentations-team/albumentations.git",
   "ssh_url": "git@github.com:albumentations-team/albumentations.git",
   "clone_url": "https://github.com/albumentations-team/albumentations.git",
   "svn_url": "https://github.com/albumentations-team/albumentations",
   "homepage": "https://albumentations.ai",
   "size": 102061,
-  "stargazers_count": 11997,
-  "watchers_count": 11997,
+  "stargazers_count": 12005,
+  "watchers_count": 12005,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1508,
+  "forks_count": 1509,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 367,
+  "open_issues_count": 369,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,9 +112,9 @@
     "segmentation"
   ],
   "visibility": "public",
-  "forks": 1508,
-  "open_issues": 367,
-  "watchers": 11997,
+  "forks": 1509,
+  "open_issues": 369,
+  "watchers": 12005,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 53
+  "_index": 57
 }

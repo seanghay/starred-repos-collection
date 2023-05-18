@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/nestjs/elasticsearch/deployments",
   "created_at": "2018-06-24T10:01:20Z",
   "updated_at": "2023-05-14T20:08:38Z",
-  "pushed_at": "2023-05-17T00:07:28Z",
+  "pushed_at": "2023-05-17T22:32:54Z",
   "git_url": "git://github.com/nestjs/elasticsearch.git",
   "ssh_url": "git@github.com:nestjs/elasticsearch.git",
   "clone_url": "https://github.com/nestjs/elasticsearch.git",
   "svn_url": "https://github.com/nestjs/elasticsearch",
   "homepage": "https://nestjs.com",
-  "size": 2417,
+  "size": 2513,
   "stargazers_count": 332,
   "watchers_count": 332,
   "language": "TypeScript",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 47,
+  "forks_count": 48,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 5,
+  "open_issues_count": 6,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,8 +105,8 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 47,
-  "open_issues": 5,
+  "forks": 48,
+  "open_issues": 6,
   "watchers": 332,
   "default_branch": "master",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 884
+  "_index": 888
 }

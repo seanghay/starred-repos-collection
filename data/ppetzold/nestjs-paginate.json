@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/ppetzold/nestjs-paginate.git",
   "svn_url": "https://github.com/ppetzold/nestjs-paginate",
   "homepage": "",
-  "size": 3074,
+  "size": 3073,
   "stargazers_count": 237,
   "watchers_count": 237,
   "language": "TypeScript",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1048
+  "_index": 1052
 }

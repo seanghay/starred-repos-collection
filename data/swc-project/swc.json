@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/swc-project/swc/releases{/id}",
   "deployments_url": "https://api.github.com/repos/swc-project/swc/deployments",
   "created_at": "2017-12-22T11:40:14Z",
-  "updated_at": "2023-05-17T01:10:25Z",
-  "pushed_at": "2023-05-16T12:34:01Z",
+  "updated_at": "2023-05-17T19:33:19Z",
+  "pushed_at": "2023-05-18T01:28:58Z",
   "git_url": "git://github.com/swc-project/swc.git",
   "ssh_url": "git@github.com:swc-project/swc.git",
   "clone_url": "https://github.com/swc-project/swc.git",
   "svn_url": "https://github.com/swc-project/swc",
   "homepage": "https://swc.rs",
-  "size": 272008,
-  "stargazers_count": 27329,
-  "watchers_count": 27329,
+  "size": 272225,
+  "stargazers_count": 27334,
+  "watchers_count": 27334,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 980,
+  "forks_count": 981,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 349,
+  "open_issues_count": 344,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -111,9 +111,9 @@
     "typescript-parser"
   ],
   "visibility": "public",
-  "forks": 980,
-  "open_issues": 349,
-  "watchers": 27329,
+  "forks": 981,
+  "open_issues": 344,
+  "watchers": 27334,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 356
+  "_index": 360
 }

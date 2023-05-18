@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Ereza/CustomActivityOnCrash/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Ereza/CustomActivityOnCrash/deployments",
   "created_at": "2014-07-04T19:46:21Z",
-  "updated_at": "2023-05-13T04:45:33Z",
+  "updated_at": "2023-05-17T11:03:28Z",
   "pushed_at": "2022-08-28T05:00:44Z",
   "git_url": "git://github.com/Ereza/CustomActivityOnCrash.git",
   "ssh_url": "git@github.com:Ereza/CustomActivityOnCrash.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Ereza/CustomActivityOnCrash",
   "homepage": "",
   "size": 622,
-  "stargazers_count": 3641,
-  "watchers_count": 3641,
+  "stargazers_count": 3642,
+  "watchers_count": 3642,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 544,
   "open_issues": 1,
-  "watchers": 3641,
+  "watchers": 3642,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2097
+  "_index": 2101
 }

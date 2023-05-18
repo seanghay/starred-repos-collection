@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pedrovgs/Shot/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pedrovgs/Shot/deployments",
   "created_at": "2017-05-12T08:10:45Z",
-  "updated_at": "2023-05-15T13:16:20Z",
+  "updated_at": "2023-05-17T15:44:57Z",
   "pushed_at": "2023-05-16T15:43:13Z",
   "git_url": "git://github.com/pedrovgs/Shot.git",
   "ssh_url": "git@github.com:pedrovgs/Shot.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/pedrovgs/Shot",
   "homepage": "",
   "size": 24126,
-  "stargazers_count": 1066,
-  "watchers_count": 1066,
+  "stargazers_count": 1067,
+  "watchers_count": 1067,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 106,
   "open_issues": 55,
-  "watchers": 1066,
+  "watchers": 1067,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1170
+  "_index": 1174
 }
