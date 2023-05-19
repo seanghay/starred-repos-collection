@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/arangodb/arangodb/deployments",
   "created_at": "2011-10-26T06:42:00Z",
   "updated_at": "2023-05-17T23:02:01Z",
-  "pushed_at": "2023-05-17T21:08:06Z",
+  "pushed_at": "2023-05-18T15:29:16Z",
   "git_url": "git://github.com/arangodb/arangodb.git",
   "ssh_url": "git@github.com:arangodb/arangodb.git",
   "clone_url": "https://github.com/arangodb/arangodb.git",
   "svn_url": "https://github.com/arangodb/arangodb",
   "homepage": "https://www.arangodb.com",
-  "size": 2449595,
+  "size": 2449687,
   "stargazers_count": 12949,
   "watchers_count": 12949,
   "language": "C++",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1116
+  "_index": 1119
 }

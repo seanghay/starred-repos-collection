@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/InsertKoinIO/koin/releases{/id}",
   "deployments_url": "https://api.github.com/repos/InsertKoinIO/koin/deployments",
   "created_at": "2017-06-06T12:21:06Z",
-  "updated_at": "2023-05-17T05:26:02Z",
+  "updated_at": "2023-05-18T08:47:04Z",
   "pushed_at": "2023-05-17T20:41:05Z",
   "git_url": "git://github.com/InsertKoinIO/koin.git",
   "ssh_url": "git@github.com:InsertKoinIO/koin.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/InsertKoinIO/koin",
   "homepage": "https://insert-koin.io",
   "size": 41860,
-  "stargazers_count": 8019,
-  "watchers_count": 8019,
+  "stargazers_count": 8020,
+  "watchers_count": 8020,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 612,
+  "forks_count": 613,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,9 +106,9 @@
     "kotlin-multiplatform-library"
   ],
   "visibility": "public",
-  "forks": 612,
+  "forks": 613,
   "open_issues": 81,
-  "watchers": 8019,
+  "watchers": 8020,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2572
+  "_index": 2575
 }

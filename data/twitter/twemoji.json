@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/twitter/twemoji/releases{/id}",
   "deployments_url": "https://api.github.com/repos/twitter/twemoji/deployments",
   "created_at": "2014-11-06T21:49:34Z",
-  "updated_at": "2023-05-17T19:51:11Z",
+  "updated_at": "2023-05-18T17:16:24Z",
   "pushed_at": "2023-04-24T17:53:48Z",
   "git_url": "git://github.com/twitter/twemoji.git",
   "ssh_url": "git@github.com:twitter/twemoji.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/twitter/twemoji",
   "homepage": "",
   "size": 843480,
-  "stargazers_count": 16022,
-  "watchers_count": 16022,
+  "stargazers_count": 16026,
+  "watchers_count": 16026,
   "language": "HTML",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1892,
+  "forks_count": 1893,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,9 +102,9 @@
     "twemoji"
   ],
   "visibility": "public",
-  "forks": 1892,
+  "forks": 1893,
   "open_issues": 89,
-  "watchers": 16022,
+  "watchers": 16026,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1220
+  "_index": 1223
 }

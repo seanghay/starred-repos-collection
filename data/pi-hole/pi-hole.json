@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pi-hole/pi-hole/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pi-hole/pi-hole/deployments",
   "created_at": "2014-06-08T15:02:55Z",
-  "updated_at": "2023-05-17T23:42:44Z",
+  "updated_at": "2023-05-19T00:04:20Z",
   "pushed_at": "2023-05-15T17:26:32Z",
   "git_url": "git://github.com/pi-hole/pi-hole.git",
   "ssh_url": "git@github.com:pi-hole/pi-hole.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/pi-hole/pi-hole",
   "homepage": "https://pi-hole.net",
   "size": 7575,
-  "stargazers_count": 42364,
-  "watchers_count": 42364,
+  "stargazers_count": 42377,
+  "watchers_count": 42377,
   "language": "Shell",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2501,
+  "forks_count": 2500,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -112,9 +112,9 @@
     "shell"
   ],
   "visibility": "public",
-  "forks": 2501,
+  "forks": 2500,
   "open_issues": 45,
-  "watchers": 42364,
+  "watchers": 42377,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2217
+  "_index": 2220
 }

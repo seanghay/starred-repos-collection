@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/npm/minipass-fetch/deployments",
   "created_at": "2019-09-23T21:36:10Z",
   "updated_at": "2023-04-03T22:25:09Z",
-  "pushed_at": "2023-05-16T03:57:09Z",
+  "pushed_at": "2023-05-18T03:57:37Z",
   "git_url": "git://github.com/npm/minipass-fetch.git",
   "ssh_url": "git@github.com:npm/minipass-fetch.git",
   "clone_url": "https://github.com/npm/minipass-fetch.git",
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 723
+  "_index": 726
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/paketo-buildpacks/nodejs/deployments",
   "created_at": "2020-04-13T20:06:38Z",
   "updated_at": "2023-05-17T22:43:11Z",
-  "pushed_at": "2023-05-13T03:17:44Z",
+  "pushed_at": "2023-05-19T01:48:38Z",
   "git_url": "git://github.com/paketo-buildpacks/nodejs.git",
   "ssh_url": "git@github.com:paketo-buildpacks/nodejs.git",
   "clone_url": "https://github.com/paketo-buildpacks/nodejs.git",
   "svn_url": "https://github.com/paketo-buildpacks/nodejs",
   "homepage": "",
-  "size": 941,
+  "size": 1087,
   "stargazers_count": 47,
   "watchers_count": 47,
   "language": "Go",
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 216
+  "_index": 219
 }

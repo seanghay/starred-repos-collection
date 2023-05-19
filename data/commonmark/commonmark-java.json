@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/commonmark/commonmark-java/releases{/id}",
   "deployments_url": "https://api.github.com/repos/commonmark/commonmark-java/deployments",
   "created_at": "2015-07-22T01:08:55Z",
-  "updated_at": "2023-05-17T07:20:03Z",
+  "updated_at": "2023-05-18T08:01:40Z",
   "pushed_at": "2023-04-07T17:49:06Z",
   "git_url": "git://github.com/commonmark/commonmark-java.git",
   "ssh_url": "git@github.com:commonmark/commonmark-java.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/commonmark/commonmark-java",
   "homepage": "",
   "size": 1853,
-  "stargazers_count": 1989,
-  "watchers_count": 1989,
+  "stargazers_count": 1990,
+  "watchers_count": 1990,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 273,
+  "forks_count": 274,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,9 +106,9 @@
     "renderer"
   ],
   "visibility": "public",
-  "forks": 273,
+  "forks": 274,
   "open_issues": 18,
-  "watchers": 1989,
+  "watchers": 1990,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1377
+  "_index": 1380
 }

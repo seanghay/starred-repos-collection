@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/forma/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/forma/deployments",
   "created_at": "2022-11-17T14:21:47Z",
-  "updated_at": "2023-05-16T18:52:26Z",
+  "updated_at": "2023-05-18T08:57:28Z",
   "pushed_at": "2023-05-16T14:42:30Z",
   "git_url": "git://github.com/google/forma.git",
   "ssh_url": "git@github.com:google/forma.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/forma",
   "homepage": "",
   "size": 11059,
-  "stargazers_count": 2451,
-  "watchers_count": 2451,
+  "stargazers_count": 2452,
+  "watchers_count": 2452,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 21,
+  "open_issues_count": 23,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 47,
-  "open_issues": 21,
-  "watchers": 2451,
+  "open_issues": 23,
+  "watchers": 2452,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 326
+  "_index": 329
 }

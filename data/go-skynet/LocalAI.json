@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/go-skynet/LocalAI",
-  "description": ":robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. LocalAI is a RESTful API to run ggml compatible models: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras and many others!",
+  "description": ":robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required. LocalAI is a RESTful API to run ggml compatible models: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras and many others!",
   "fork": false,
   "url": "https://api.github.com/repos/go-skynet/LocalAI",
   "forks_url": "https://api.github.com/repos/go-skynet/LocalAI/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/go-skynet/LocalAI/releases{/id}",
   "deployments_url": "https://api.github.com/repos/go-skynet/LocalAI/deployments",
   "created_at": "2023-03-18T22:58:02Z",
-  "updated_at": "2023-05-18T01:53:11Z",
-  "pushed_at": "2023-05-17T23:04:50Z",
+  "updated_at": "2023-05-19T01:55:59Z",
+  "pushed_at": "2023-05-18T23:12:42Z",
   "git_url": "git://github.com/go-skynet/LocalAI.git",
   "ssh_url": "git@github.com:go-skynet/LocalAI.git",
   "clone_url": "https://github.com/go-skynet/LocalAI.git",
   "svn_url": "https://github.com/go-skynet/LocalAI",
   "homepage": "",
-  "size": 417,
-  "stargazers_count": 3796,
-  "watchers_count": 3796,
+  "size": 383,
+  "stargazers_count": 4065,
+  "watchers_count": 4065,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 379,
+  "forks_count": 462,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 49,
+  "open_issues_count": 50,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,9 +112,9 @@
     "vicuna"
   ],
   "visibility": "public",
-  "forks": 379,
-  "open_issues": 49,
-  "watchers": 3796,
+  "forks": 462,
+  "open_issues": 50,
+  "watchers": 4065,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 60
+  "_index": 63
 }

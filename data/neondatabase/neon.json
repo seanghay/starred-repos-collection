@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/neondatabase/neon/releases{/id}",
   "deployments_url": "https://api.github.com/repos/neondatabase/neon/deployments",
   "created_at": "2021-03-26T14:20:47Z",
-  "updated_at": "2023-05-18T01:19:30Z",
-  "pushed_at": "2023-05-17T22:35:22Z",
+  "updated_at": "2023-05-19T02:00:27Z",
+  "pushed_at": "2023-05-19T01:16:11Z",
   "git_url": "git://github.com/neondatabase/neon.git",
   "ssh_url": "git@github.com:neondatabase/neon.git",
   "clone_url": "https://github.com/neondatabase/neon.git",
   "svn_url": "https://github.com/neondatabase/neon",
   "homepage": "https://neon.tech",
-  "size": 24312,
-  "stargazers_count": 8051,
-  "watchers_count": 8051,
+  "size": 24539,
+  "stargazers_count": 8069,
+  "watchers_count": 8069,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 203,
+  "forks_count": 204,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 523,
+  "open_issues_count": 527,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -105,9 +105,9 @@
     "serverless"
   ],
   "visibility": "public",
-  "forks": 203,
-  "open_issues": 523,
-  "watchers": 8051,
+  "forks": 204,
+  "open_issues": 527,
+  "watchers": 8069,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 630
+  "_index": 633
 }

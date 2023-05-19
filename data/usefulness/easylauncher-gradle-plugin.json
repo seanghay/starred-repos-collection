@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/usefulness/easylauncher-gradle-plugin/deployments",
   "created_at": "2020-07-27T20:08:33Z",
   "updated_at": "2023-05-10T06:47:21Z",
-  "pushed_at": "2023-05-17T19:20:55Z",
+  "pushed_at": "2023-05-18T08:09:39Z",
   "git_url": "git://github.com/usefulness/easylauncher-gradle-plugin.git",
   "ssh_url": "git@github.com:usefulness/easylauncher-gradle-plugin.git",
   "clone_url": "https://github.com/usefulness/easylauncher-gradle-plugin.git",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1466
+  "_index": 1469
 }

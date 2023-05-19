@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/vadimdemedes/ink/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vadimdemedes/ink/deployments",
   "created_at": "2017-06-12T06:12:28Z",
-  "updated_at": "2023-05-18T01:13:17Z",
-  "pushed_at": "2023-05-03T20:57:04Z",
+  "updated_at": "2023-05-19T00:52:24Z",
+  "pushed_at": "2023-05-18T10:45:00Z",
   "git_url": "git://github.com/vadimdemedes/ink.git",
   "ssh_url": "git@github.com:vadimdemedes/ink.git",
   "clone_url": "https://github.com/vadimdemedes/ink.git",
   "svn_url": "https://github.com/vadimdemedes/ink",
   "homepage": "https://term.ink",
   "size": 1631,
-  "stargazers_count": 23128,
-  "watchers_count": 23128,
+  "stargazers_count": 23196,
+  "watchers_count": 23196,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 562,
+  "forks_count": 563,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 39,
+  "open_issues_count": 40,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,9 +106,9 @@
     "react"
   ],
   "visibility": "public",
-  "forks": 562,
-  "open_issues": 39,
-  "watchers": 23128,
+  "forks": 563,
+  "open_issues": 40,
+  "watchers": 23196,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 887
+  "_index": 890
 }
