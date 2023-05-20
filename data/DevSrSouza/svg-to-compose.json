@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/DevSrSouza/svg-to-compose/releases{/id}",
   "deployments_url": "https://api.github.com/repos/DevSrSouza/svg-to-compose/deployments",
   "created_at": "2020-11-08T15:23:31Z",
-  "updated_at": "2023-05-13T14:55:06Z",
+  "updated_at": "2023-05-19T16:50:14Z",
   "pushed_at": "2022-03-20T00:52:11Z",
   "git_url": "git://github.com/DevSrSouza/svg-to-compose.git",
   "ssh_url": "git@github.com:DevSrSouza/svg-to-compose.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/DevSrSouza/svg-to-compose",
   "homepage": "",
   "size": 146,
-  "stargazers_count": 280,
-  "watchers_count": 280,
+  "stargazers_count": 281,
+  "watchers_count": 281,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 21,
   "open_issues": 8,
-  "watchers": 280,
+  "watchers": 281,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1307
+  "_index": 1308
 }

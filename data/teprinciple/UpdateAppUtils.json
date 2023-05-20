@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/teprinciple/UpdateAppUtils/releases{/id}",
   "deployments_url": "https://api.github.com/repos/teprinciple/UpdateAppUtils/deployments",
   "created_at": "2016-12-29T03:38:08Z",
-  "updated_at": "2023-05-16T08:29:06Z",
+  "updated_at": "2023-05-19T11:15:42Z",
   "pushed_at": "2021-07-07T08:57:56Z",
   "git_url": "git://github.com/teprinciple/UpdateAppUtils.git",
   "ssh_url": "git@github.com:teprinciple/UpdateAppUtils.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/teprinciple/UpdateAppUtils",
   "homepage": "",
   "size": 3837,
-  "stargazers_count": 1050,
-  "watchers_count": 1050,
+  "stargazers_count": 1049,
+  "watchers_count": 1049,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 218,
+  "forks_count": 219,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
     "versionupdate"
   ],
   "visibility": "public",
-  "forks": 218,
+  "forks": 219,
   "open_issues": 36,
-  "watchers": 1050,
+  "watchers": 1049,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1751
+  "_index": 1752
 }

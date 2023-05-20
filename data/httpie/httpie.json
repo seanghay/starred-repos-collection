@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/httpie/httpie/releases{/id}",
   "deployments_url": "https://api.github.com/repos/httpie/httpie/deployments",
   "created_at": "2012-02-25T12:39:13Z",
-  "updated_at": "2023-05-19T01:05:49Z",
-  "pushed_at": "2023-05-18T17:14:29Z",
+  "updated_at": "2023-05-19T22:32:27Z",
+  "pushed_at": "2023-05-19T22:01:40Z",
   "git_url": "git://github.com/httpie/httpie.git",
   "ssh_url": "git@github.com:httpie/httpie.git",
   "clone_url": "https://github.com/httpie/httpie.git",
   "svn_url": "https://github.com/httpie/httpie",
   "homepage": "https://httpie.io",
-  "size": 6911,
-  "stargazers_count": 27773,
-  "watchers_count": 27773,
+  "size": 6978,
+  "stargazers_count": 27784,
+  "watchers_count": 27784,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3765,
+  "forks_count": 3767,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 154,
+  "open_issues_count": 150,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -120,9 +120,9 @@
     "web"
   ],
   "visibility": "public",
-  "forks": 3765,
-  "open_issues": 154,
-  "watchers": 27773,
+  "forks": 3767,
+  "open_issues": 150,
+  "watchers": 27784,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 725
+  "_index": 726
 }

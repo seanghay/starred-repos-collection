@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/davemorrissey/subsampling-scale-image-view/releases{/id}",
   "deployments_url": "https://api.github.com/repos/davemorrissey/subsampling-scale-image-view/deployments",
   "created_at": "2013-08-26T16:45:25Z",
-  "updated_at": "2023-05-19T01:15:16Z",
+  "updated_at": "2023-05-19T09:09:24Z",
   "pushed_at": "2022-03-30T10:42:13Z",
   "git_url": "git://github.com/davemorrissey/subsampling-scale-image-view.git",
   "ssh_url": "git@github.com:davemorrissey/subsampling-scale-image-view.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1130,
+  "forks_count": 1131,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,7 +110,7 @@
     "zoom-images"
   ],
   "visibility": "public",
-  "forks": 1130,
+  "forks": 1131,
   "open_issues": 40,
   "watchers": 7554,
   "default_branch": "master",
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2034
+  "_index": 2035
 }

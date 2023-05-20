@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/nlohmann/json/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nlohmann/json/deployments",
   "created_at": "2013-07-04T08:47:49Z",
-  "updated_at": "2023-05-19T01:53:29Z",
-  "pushed_at": "2023-05-18T13:26:27Z",
+  "updated_at": "2023-05-19T15:38:23Z",
+  "pushed_at": "2023-05-19T06:12:26Z",
   "git_url": "git://github.com/nlohmann/json.git",
   "ssh_url": "git@github.com:nlohmann/json.git",
   "clone_url": "https://github.com/nlohmann/json.git",
   "svn_url": "https://github.com/nlohmann/json",
   "homepage": "https://json.nlohmann.me",
   "size": 180615,
-  "stargazers_count": 34906,
-  "watchers_count": 34906,
+  "stargazers_count": 34913,
+  "watchers_count": 34913,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 93,
+  "open_issues_count": 94,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -120,8 +120,8 @@
   ],
   "visibility": "public",
   "forks": 6020,
-  "open_issues": 93,
-  "watchers": 34906,
+  "open_issues": 94,
+  "watchers": 34913,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 62
+  "_index": 63
 }

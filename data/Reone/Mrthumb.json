@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Reone/Mrthumb/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Reone/Mrthumb/deployments",
   "created_at": "2018-09-26T06:26:43Z",
-  "updated_at": "2023-03-17T02:02:56Z",
+  "updated_at": "2023-05-19T09:15:29Z",
   "pushed_at": "2021-03-22T06:20:46Z",
   "git_url": "git://github.com/Reone/Mrthumb.git",
   "ssh_url": "git@github.com:Reone/Mrthumb.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Reone/Mrthumb",
   "homepage": "",
   "size": 6121,
-  "stargazers_count": 77,
-  "watchers_count": 77,
+  "stargazers_count": 76,
+  "watchers_count": 76,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -118,7 +118,7 @@
   "visibility": "public",
   "forks": 16,
   "open_issues": 0,
-  "watchers": 77,
+  "watchers": 76,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2356
+  "_index": 2357
 }

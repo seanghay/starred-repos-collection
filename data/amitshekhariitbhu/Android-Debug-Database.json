@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/amitshekhariitbhu/Android-Debug-Database/releases{/id}",
   "deployments_url": "https://api.github.com/repos/amitshekhariitbhu/Android-Debug-Database/deployments",
   "created_at": "2016-11-16T14:20:24Z",
-  "updated_at": "2023-05-18T13:27:57Z",
+  "updated_at": "2023-05-19T09:01:39Z",
   "pushed_at": "2023-01-18T08:06:22Z",
   "git_url": "git://github.com/amitshekhariitbhu/Android-Debug-Database.git",
   "ssh_url": "git@github.com:amitshekhariitbhu/Android-Debug-Database.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/amitshekhariitbhu/Android-Debug-Database",
   "homepage": "https://amitshekhar.me",
   "size": 1642,
-  "stargazers_count": 8188,
-  "watchers_count": 8188,
+  "stargazers_count": 8187,
+  "watchers_count": 8187,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 869,
+  "forks_count": 870,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -113,9 +113,9 @@
     "sqlite"
   ],
   "visibility": "public",
-  "forks": 869,
+  "forks": 870,
   "open_issues": 82,
-  "watchers": 8188,
+  "watchers": 8187,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2012
+  "_index": 2013
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/slackhq/EitherNet/deployments",
   "created_at": "2020-09-22T02:54:29Z",
   "updated_at": "2023-05-15T16:05:34Z",
-  "pushed_at": "2023-05-19T01:59:24Z",
+  "pushed_at": "2023-05-19T16:39:38Z",
   "git_url": "git://github.com/slackhq/EitherNet.git",
   "ssh_url": "git@github.com:slackhq/EitherNet.git",
   "clone_url": "https://github.com/slackhq/EitherNet.git",
   "svn_url": "https://github.com/slackhq/EitherNet",
   "homepage": "",
-  "size": 291,
+  "size": 301,
   "stargazers_count": 680,
   "watchers_count": 680,
   "language": "Kotlin",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 4,
+  "open_issues_count": 2,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -105,7 +105,7 @@
   ],
   "visibility": "public",
   "forks": 21,
-  "open_issues": 4,
+  "open_issues": 2,
   "watchers": 680,
   "default_branch": "main",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1275
+  "_index": 1276
 }

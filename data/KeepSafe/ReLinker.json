@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 360,
+  "forks_count": 359,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,7 +105,7 @@
     "ndk"
   ],
   "visibility": "public",
-  "forks": 360,
+  "forks": 359,
   "open_issues": 22,
   "watchers": 2962,
   "default_branch": "master",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1704
+  "_index": 1705
 }
