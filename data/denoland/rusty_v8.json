@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/denoland/rusty_v8.git",
   "svn_url": "https://github.com/denoland/rusty_v8",
   "homepage": "https://crates.io/crates/v8",
-  "size": 2801,
+  "size": 2739,
   "stargazers_count": 2728,
   "watchers_count": 2728,
   "language": "Rust",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 453
+  "_index": 454
 }

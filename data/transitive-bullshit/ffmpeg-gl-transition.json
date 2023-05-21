@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/transitive-bullshit/ffmpeg-gl-transition/releases{/id}",
   "deployments_url": "https://api.github.com/repos/transitive-bullshit/ffmpeg-gl-transition/deployments",
   "created_at": "2017-12-05T09:45:28Z",
-  "updated_at": "2023-05-19T08:53:05Z",
+  "updated_at": "2023-05-20T18:40:13Z",
   "pushed_at": "2022-11-16T06:45:33Z",
   "git_url": "git://github.com/transitive-bullshit/ffmpeg-gl-transition.git",
   "ssh_url": "git@github.com:transitive-bullshit/ffmpeg-gl-transition.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/transitive-bullshit/ffmpeg-gl-transition",
   "homepage": "",
   "size": 3686,
-  "stargazers_count": 532,
-  "watchers_count": 532,
+  "stargazers_count": 533,
+  "watchers_count": 533,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -100,7 +100,7 @@
   "visibility": "public",
   "forks": 115,
   "open_issues": 33,
-  "watchers": 532,
+  "watchers": 533,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2398
+  "_index": 2399
 }

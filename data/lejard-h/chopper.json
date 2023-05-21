@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/lejard-h/chopper/deployments",
   "created_at": "2018-04-07T15:29:07Z",
   "updated_at": "2023-05-17T08:51:21Z",
-  "pushed_at": "2023-05-16T20:06:35Z",
+  "pushed_at": "2023-05-20T12:08:13Z",
   "git_url": "git://github.com/lejard-h/chopper.git",
   "ssh_url": "git@github.com:lejard-h/chopper.git",
   "clone_url": "https://github.com/lejard-h/chopper.git",
   "svn_url": "https://github.com/lejard-h/chopper",
   "homepage": "https://hadrien-lejard.gitbook.io/chopper",
-  "size": 6759,
+  "size": 6761,
   "stargazers_count": 654,
   "watchers_count": 654,
   "language": "Dart",
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1100
+  "_index": 1101
 }

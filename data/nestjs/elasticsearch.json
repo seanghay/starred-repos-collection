@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/nestjs/elasticsearch.git",
   "svn_url": "https://github.com/nestjs/elasticsearch",
   "homepage": "https://nestjs.com",
-  "size": 2708,
+  "size": 2707,
   "stargazers_count": 332,
   "watchers_count": 332,
   "language": "TypeScript",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 892
+  "_index": 893
 }

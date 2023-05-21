@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3,
+  "forks_count": 4,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,7 +107,7 @@
     "xchacha20-poly1305"
   ],
   "visibility": "public",
-  "forks": 3,
+  "forks": 4,
   "open_issues": 16,
   "watchers": 167,
   "default_branch": "main",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1203
+  "_index": 1204
 }
