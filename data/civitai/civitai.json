@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/civitai/civitai/releases{/id}",
   "deployments_url": "https://api.github.com/repos/civitai/civitai/deployments",
   "created_at": "2022-10-11T20:03:20Z",
-  "updated_at": "2023-05-21T01:34:47Z",
-  "pushed_at": "2023-05-20T21:25:31Z",
+  "updated_at": "2023-05-21T22:11:59Z",
+  "pushed_at": "2023-05-21T06:13:25Z",
   "git_url": "git://github.com/civitai/civitai.git",
   "ssh_url": "git@github.com:civitai/civitai.git",
   "clone_url": "https://github.com/civitai/civitai.git",
   "svn_url": "https://github.com/civitai/civitai",
   "homepage": "https://civitai.com",
-  "size": 44887,
-  "stargazers_count": 3560,
-  "watchers_count": 3560,
+  "size": 45025,
+  "stargazers_count": 3573,
+  "watchers_count": 3573,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 308,
+  "forks_count": 310,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,9 +103,9 @@
     "stable-diffusion"
   ],
   "visibility": "public",
-  "forks": 308,
+  "forks": 310,
   "open_issues": 19,
-  "watchers": 3560,
+  "watchers": 3573,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 197
+  "_index": 198
 }

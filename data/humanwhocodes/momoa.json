@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/humanwhocodes/momoa/deployments",
   "created_at": "2019-06-11T17:39:59Z",
   "updated_at": "2023-05-20T12:33:10Z",
-  "pushed_at": "2023-05-19T23:44:34Z",
+  "pushed_at": "2023-05-21T20:39:59Z",
   "git_url": "git://github.com/humanwhocodes/momoa.git",
   "ssh_url": "git@github.com:humanwhocodes/momoa.git",
   "clone_url": "https://github.com/humanwhocodes/momoa.git",
   "svn_url": "https://github.com/humanwhocodes/momoa",
   "homepage": null,
-  "size": 790,
+  "size": 789,
   "stargazers_count": 287,
   "watchers_count": 287,
   "language": "JavaScript",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 789
+  "_index": 790
 }

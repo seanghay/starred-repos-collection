@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/marcellogalhardo/retained/releases{/id}",
   "deployments_url": "https://api.github.com/repos/marcellogalhardo/retained/deployments",
   "created_at": "2019-12-17T13:37:09Z",
-  "updated_at": "2023-05-19T09:08:38Z",
+  "updated_at": "2023-05-22T01:46:36Z",
   "pushed_at": "2023-05-10T15:50:02Z",
   "git_url": "git://github.com/marcellogalhardo/retained.git",
   "ssh_url": "git@github.com:marcellogalhardo/retained.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/marcellogalhardo/retained",
   "homepage": "",
   "size": 475,
-  "stargazers_count": 293,
-  "watchers_count": 293,
+  "stargazers_count": 294,
+  "watchers_count": 294,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 7,
   "open_issues": 2,
-  "watchers": 293,
+  "watchers": 294,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1002
+  "_index": 1003
 }

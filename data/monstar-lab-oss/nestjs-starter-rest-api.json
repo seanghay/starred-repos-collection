@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/monstar-lab-oss/nestjs-starter-rest-api/releases{/id}",
   "deployments_url": "https://api.github.com/repos/monstar-lab-oss/nestjs-starter-rest-api/deployments",
   "created_at": "2020-07-20T09:46:28Z",
-  "updated_at": "2023-05-19T17:22:57Z",
+  "updated_at": "2023-05-21T11:33:50Z",
   "pushed_at": "2023-05-20T00:10:14Z",
   "git_url": "git://github.com/monstar-lab-oss/nestjs-starter-rest-api.git",
   "ssh_url": "git@github.com:monstar-lab-oss/nestjs-starter-rest-api.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/monstar-lab-oss/nestjs-starter-rest-api",
   "homepage": "",
   "size": 1694,
-  "stargazers_count": 327,
-  "watchers_count": 327,
+  "stargazers_count": 329,
+  "watchers_count": 329,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 57,
   "open_issues": 16,
-  "watchers": 327,
+  "watchers": 329,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1211
+  "_index": 1212
 }

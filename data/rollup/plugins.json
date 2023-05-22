@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 514,
+  "forks_count": 513,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "rollup-plugins"
   ],
   "visibility": "public",
-  "forks": 514,
+  "forks": 513,
   "open_issues": 35,
   "watchers": 3226,
   "default_branch": "master",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1035
+  "_index": 1036
 }

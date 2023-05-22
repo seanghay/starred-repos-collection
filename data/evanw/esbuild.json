@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/evanw/esbuild/releases{/id}",
   "deployments_url": "https://api.github.com/repos/evanw/esbuild/deployments",
   "created_at": "2016-06-14T16:08:50Z",
-  "updated_at": "2023-05-21T01:22:14Z",
+  "updated_at": "2023-05-22T01:57:11Z",
   "pushed_at": "2023-05-20T23:30:22Z",
   "git_url": "git://github.com/evanw/esbuild.git",
   "ssh_url": "git@github.com:evanw/esbuild.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/evanw/esbuild",
   "homepage": "https://esbuild.github.io/",
   "size": 16916,
-  "stargazers_count": 35321,
-  "watchers_count": 35321,
+  "stargazers_count": 35327,
+  "watchers_count": 35327,
   "language": "Go",
   "has_issues": true,
   "has_projects": false,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 1011,
   "open_issues": 312,
-  "watchers": 35321,
+  "watchers": 35327,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1580
+  "_index": 1581
 }

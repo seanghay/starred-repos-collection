@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/massivemadness/Squircle-CE/releases{/id}",
   "deployments_url": "https://api.github.com/repos/massivemadness/Squircle-CE/deployments",
   "created_at": "2017-08-17T10:07:48Z",
-  "updated_at": "2023-05-19T16:08:30Z",
-  "pushed_at": "2023-05-20T15:14:16Z",
+  "updated_at": "2023-05-21T05:52:54Z",
+  "pushed_at": "2023-05-21T16:59:56Z",
   "git_url": "git://github.com/massivemadness/Squircle-CE.git",
   "ssh_url": "git@github.com:massivemadness/Squircle-CE.git",
   "clone_url": "https://github.com/massivemadness/Squircle-CE.git",
   "svn_url": "https://github.com/massivemadness/Squircle-CE",
   "homepage": "https://play.google.com/store/apps/details?id=com.blacksquircle.ui",
-  "size": 143667,
+  "size": 143709,
   "stargazers_count": 693,
   "watchers_count": 693,
   "language": "Kotlin",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1247
+  "_index": 1248
 }
