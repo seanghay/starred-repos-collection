@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/slackhq/EitherNet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/slackhq/EitherNet/deployments",
   "created_at": "2020-09-22T02:54:29Z",
-  "updated_at": "2023-05-21T14:38:28Z",
+  "updated_at": "2023-05-22T23:44:33Z",
   "pushed_at": "2023-05-19T16:39:38Z",
   "git_url": "git://github.com/slackhq/EitherNet.git",
   "ssh_url": "git@github.com:slackhq/EitherNet.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/slackhq/EitherNet",
   "homepage": "",
   "size": 301,
-  "stargazers_count": 681,
-  "watchers_count": 681,
+  "stargazers_count": 683,
+  "watchers_count": 683,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 21,
   "open_issues": 2,
-  "watchers": 681,
+  "watchers": 683,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1278
+  "_index": 1280
 }

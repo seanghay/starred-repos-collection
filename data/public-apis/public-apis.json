@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/public-apis/public-apis/releases{/id}",
   "deployments_url": "https://api.github.com/repos/public-apis/public-apis/deployments",
   "created_at": "2016-03-20T23:49:42Z",
-  "updated_at": "2023-05-22T02:02:44Z",
+  "updated_at": "2023-05-23T02:02:26Z",
   "pushed_at": "2023-05-19T11:26:55Z",
   "git_url": "git://github.com/public-apis/public-apis.git",
   "ssh_url": "git@github.com:public-apis/public-apis.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/public-apis/public-apis",
   "homepage": "http://public-apis.org",
   "size": 4948,
-  "stargazers_count": 240635,
-  "watchers_count": 240635,
+  "stargazers_count": 240741,
+  "watchers_count": 240741,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 27516,
+  "forks_count": 27523,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -113,9 +113,9 @@
     "software"
   ],
   "visibility": "public",
-  "forks": 27516,
+  "forks": 27523,
   "open_issues": 194,
-  "watchers": 240635,
+  "watchers": 240741,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1153
+  "_index": 1155
 }

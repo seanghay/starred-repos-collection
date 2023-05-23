@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Bowen7/regex-vis/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Bowen7/regex-vis/deployments",
   "created_at": "2020-09-15T07:59:45Z",
-  "updated_at": "2023-05-19T10:02:14Z",
+  "updated_at": "2023-05-22T08:24:17Z",
   "pushed_at": "2023-05-13T12:45:36Z",
   "git_url": "git://github.com/Bowen7/regex-vis.git",
   "ssh_url": "git@github.com:Bowen7/regex-vis.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Bowen7/regex-vis",
   "homepage": "https://regex-vis.com",
   "size": 1878,
-  "stargazers_count": 2517,
-  "watchers_count": 2517,
+  "stargazers_count": 2519,
+  "watchers_count": 2519,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 171,
   "open_issues": 2,
-  "watchers": 2517,
+  "watchers": 2519,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 741
+  "_index": 743
 }

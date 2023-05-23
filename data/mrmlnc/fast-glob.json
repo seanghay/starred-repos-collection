@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/mrmlnc/fast-glob/deployments",
   "created_at": "2016-12-27T16:03:43Z",
   "updated_at": "2023-05-16T11:43:47Z",
-  "pushed_at": "2023-05-20T12:18:00Z",
+  "pushed_at": "2023-05-22T21:29:12Z",
   "git_url": "git://github.com/mrmlnc/fast-glob.git",
   "ssh_url": "git@github.com:mrmlnc/fast-glob.git",
   "clone_url": "https://github.com/mrmlnc/fast-glob.git",
   "svn_url": "https://github.com/mrmlnc/fast-glob",
   "homepage": "",
-  "size": 816,
+  "size": 819,
   "stargazers_count": 2098,
   "watchers_count": 2098,
   "language": "JavaScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 25,
+  "open_issues_count": 24,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,7 +112,7 @@
   ],
   "visibility": "public",
   "forks": 94,
-  "open_issues": 25,
+  "open_issues": 24,
   "watchers": 2098,
   "default_branch": "master",
   "permissions": {
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 842
+  "_index": 844
 }

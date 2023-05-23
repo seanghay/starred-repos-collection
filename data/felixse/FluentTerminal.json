@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/felixse/FluentTerminal/releases{/id}",
   "deployments_url": "https://api.github.com/repos/felixse/FluentTerminal/deployments",
   "created_at": "2018-01-21T09:45:11Z",
-  "updated_at": "2023-05-21T20:27:59Z",
+  "updated_at": "2023-05-22T18:01:12Z",
   "pushed_at": "2023-03-22T20:02:30Z",
   "git_url": "git://github.com/felixse/FluentTerminal.git",
   "ssh_url": "git@github.com:felixse/FluentTerminal.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2554
+  "_index": 2556
 }

@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/snipsco/snips-nlu/deployments",
   "created_at": "2017-02-08T16:16:36Z",
   "updated_at": "2023-05-19T11:24:28Z",
-  "pushed_at": "2021-11-17T15:23:01Z",
+  "pushed_at": "2023-05-22T16:10:15Z",
   "git_url": "git://github.com/snipsco/snips-nlu.git",
   "ssh_url": "git@github.com:snipsco/snips-nlu.git",
   "clone_url": "https://github.com/snipsco/snips-nlu.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 527,
+  "forks_count": 528,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 65,
+  "open_issues_count": 66,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -116,8 +116,8 @@
     "text-classification"
   ],
   "visibility": "public",
-  "forks": 527,
-  "open_issues": 65,
+  "forks": 528,
+  "open_issues": 66,
   "watchers": 3795,
   "default_branch": "master",
   "permissions": {
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 149
+  "_index": 151
 }

@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/waywardgeek/sonic/releases{/id}",
   "deployments_url": "https://api.github.com/repos/waywardgeek/sonic/deployments",
   "created_at": "2011-01-12T08:19:08Z",
-  "updated_at": "2023-05-20T18:38:47Z",
-  "pushed_at": "2022-12-12T12:05:13Z",
+  "updated_at": "2023-05-22T08:53:40Z",
+  "pushed_at": "2023-05-22T17:00:03Z",
   "git_url": "git://github.com/waywardgeek/sonic.git",
   "ssh_url": "git@github.com:waywardgeek/sonic.git",
   "clone_url": "https://github.com/waywardgeek/sonic.git",
   "svn_url": "https://github.com/waywardgeek/sonic",
   "homepage": "",
-  "size": 11800,
+  "size": 11801,
   "stargazers_count": 533,
   "watchers_count": 533,
   "language": "C",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2140
+  "_index": 2142
 }
