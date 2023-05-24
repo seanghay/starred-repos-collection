@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 39,
+  "forks_count": 38,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -114,7 +114,7 @@
     "rxjava2"
   ],
   "visibility": "public",
-  "forks": 39,
+  "forks": 38,
   "open_issues": 18,
   "watchers": 166,
   "default_branch": "RxJava2.x",

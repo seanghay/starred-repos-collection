@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/shoheiyokoyama/Gemini/releases{/id}",
   "deployments_url": "https://api.github.com/repos/shoheiyokoyama/Gemini/deployments",
   "created_at": "2017-06-10T08:00:56Z",
-  "updated_at": "2023-05-22T08:57:16Z",
+  "updated_at": "2023-05-23T23:40:35Z",
   "pushed_at": "2022-07-22T03:27:45Z",
   "git_url": "git://github.com/shoheiyokoyama/Gemini.git",
   "ssh_url": "git@github.com:shoheiyokoyama/Gemini.git",

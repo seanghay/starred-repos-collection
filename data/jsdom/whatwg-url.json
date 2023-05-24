@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/jsdom/whatwg-url/deployments",
   "created_at": "2015-04-28T23:29:03Z",
   "updated_at": "2023-05-02T18:55:22Z",
-  "pushed_at": "2023-03-28T03:30:35Z",
+  "pushed_at": "2023-05-23T05:19:37Z",
   "git_url": "git://github.com/jsdom/whatwg-url.git",
   "ssh_url": "git@github.com:jsdom/whatwg-url.git",
   "clone_url": "https://github.com/jsdom/whatwg-url.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 6,
+  "open_issues_count": 5,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 84,
-  "open_issues": 6,
+  "open_issues": 5,
   "watchers": 329,
   "default_branch": "master",
   "permissions": {
