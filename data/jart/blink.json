@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/jart/blink/deployments",
   "created_at": "2022-11-03T06:07:09Z",
   "updated_at": "2023-05-23T15:21:47Z",
-  "pushed_at": "2023-05-21T04:54:13Z",
+  "pushed_at": "2023-05-24T22:39:49Z",
   "git_url": "git://github.com/jart/blink.git",
   "ssh_url": "git@github.com:jart/blink.git",
   "clone_url": "https://github.com/jart/blink.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 333
+  "_index": 335
 }

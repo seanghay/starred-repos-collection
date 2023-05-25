@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/fondesa/recycler-view-divider/deployments",
   "created_at": "2016-04-12T19:18:21Z",
   "updated_at": "2023-05-20T15:29:28Z",
-  "pushed_at": "2023-05-21T14:25:09Z",
+  "pushed_at": "2023-05-24T21:09:04Z",
   "git_url": "git://github.com/fondesa/recycler-view-divider.git",
   "ssh_url": "git@github.com:fondesa/recycler-view-divider.git",
   "clone_url": "https://github.com/fondesa/recycler-view-divider.git",
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1823
+  "_index": 1825
 }

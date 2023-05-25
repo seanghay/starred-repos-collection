@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/victorgarciaesgi/nuxt-typed-router/releases{/id}",
   "deployments_url": "https://api.github.com/repos/victorgarciaesgi/nuxt-typed-router/deployments",
   "created_at": "2020-01-08T14:03:01Z",
-  "updated_at": "2023-05-23T14:54:09Z",
+  "updated_at": "2023-05-24T14:09:51Z",
   "pushed_at": "2023-05-12T15:30:17Z",
   "git_url": "git://github.com/victorgarciaesgi/nuxt-typed-router.git",
   "ssh_url": "git@github.com:victorgarciaesgi/nuxt-typed-router.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/victorgarciaesgi/nuxt-typed-router",
   "homepage": "https://nuxt-typed-router.vercel.app",
   "size": 15717,
-  "stargazers_count": 208,
-  "watchers_count": 208,
+  "stargazers_count": 209,
+  "watchers_count": 209,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -104,6 +104,7 @@
     "nuxt-typescript",
     "nuxt3",
     "nuxtjs",
+    "typed-pages",
     "typed-router",
     "typescript",
     "vue",
@@ -113,7 +114,7 @@
   "visibility": "public",
   "forks": 5,
   "open_issues": 3,
-  "watchers": 208,
+  "watchers": 209,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 787
+  "_index": 789
 }

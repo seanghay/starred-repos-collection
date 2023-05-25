@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/logaretm/vee-validate/releases{/id}",
   "deployments_url": "https://api.github.com/repos/logaretm/vee-validate/deployments",
   "created_at": "2016-07-30T01:10:44Z",
-  "updated_at": "2023-05-23T19:12:42Z",
-  "pushed_at": "2023-05-24T01:11:40Z",
+  "updated_at": "2023-05-24T22:33:58Z",
+  "pushed_at": "2023-05-24T21:25:28Z",
   "git_url": "git://github.com/logaretm/vee-validate.git",
   "ssh_url": "git@github.com:logaretm/vee-validate.git",
   "clone_url": "https://github.com/logaretm/vee-validate.git",
   "svn_url": "https://github.com/logaretm/vee-validate",
   "homepage": "https://vee-validate.logaretm.com/v4",
-  "size": 22120,
-  "stargazers_count": 9782,
-  "watchers_count": 9782,
+  "size": 22131,
+  "stargazers_count": 9783,
+  "watchers_count": 9783,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1180,
+  "forks_count": 1181,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -115,9 +115,9 @@
     "vuejs"
   ],
   "visibility": "public",
-  "forks": 1180,
+  "forks": 1181,
   "open_issues": 51,
-  "watchers": 9782,
+  "watchers": 9783,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1628
+  "_index": 1630
 }

@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/crxjs/chrome-extension-tools/deployments",
   "created_at": "2019-03-15T14:11:45Z",
   "updated_at": "2023-05-23T10:28:26Z",
-  "pushed_at": "2023-05-20T00:50:35Z",
+  "pushed_at": "2023-05-24T14:23:43Z",
   "git_url": "git://github.com/crxjs/chrome-extension-tools.git",
   "ssh_url": "git@github.com:crxjs/chrome-extension-tools.git",
   "clone_url": "https://github.com/crxjs/chrome-extension-tools.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 106,
+  "forks_count": 107,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 81,
+  "open_issues_count": 82,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -105,8 +105,8 @@
     "vitejs"
   ],
   "visibility": "public",
-  "forks": 106,
-  "open_issues": 81,
+  "forks": 107,
+  "open_issues": 82,
   "watchers": 1433,
   "default_branch": "main",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 772
+  "_index": 774
 }

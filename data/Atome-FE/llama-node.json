@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Atome-FE/llama-node/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Atome-FE/llama-node/deployments",
   "created_at": "2023-03-20T10:47:19Z",
-  "updated_at": "2023-05-23T10:56:58Z",
+  "updated_at": "2023-05-24T20:36:09Z",
   "pushed_at": "2023-05-19T17:05:41Z",
   "git_url": "git://github.com/Atome-FE/llama-node.git",
   "ssh_url": "git@github.com:Atome-FE/llama-node.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Atome-FE/llama-node",
   "homepage": "https://llama-node.vercel.app/",
   "size": 31455,
-  "stargazers_count": 495,
-  "watchers_count": 495,
+  "stargazers_count": 500,
+  "watchers_count": 500,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 38,
+  "forks_count": 39,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 17,
+  "open_issues_count": 20,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -115,9 +115,9 @@
     "rwkv"
   ],
   "visibility": "public",
-  "forks": 38,
-  "open_issues": 17,
-  "watchers": 495,
+  "forks": 39,
+  "open_issues": 20,
+  "watchers": 500,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 124
+  "_index": 126
 }

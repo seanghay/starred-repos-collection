@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/catamphetamine/libphonenumber-js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/catamphetamine/libphonenumber-js/deployments",
   "created_at": "2016-11-21T18:13:12Z",
-  "updated_at": "2023-05-23T06:10:31Z",
+  "updated_at": "2023-05-24T18:41:59Z",
   "pushed_at": "2023-05-10T04:19:05Z",
   "git_url": "git://github.com/catamphetamine/libphonenumber-js.git",
   "ssh_url": "git@github.com:catamphetamine/libphonenumber-js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/catamphetamine/libphonenumber-js",
   "homepage": "https://catamphetamine.gitlab.io/libphonenumber-js/",
   "size": 7962,
-  "stargazers_count": 2543,
-  "watchers_count": 2543,
+  "stargazers_count": 2546,
+  "watchers_count": 2546,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 15,
+  "open_issues_count": 16,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,8 +103,8 @@
   ],
   "visibility": "public",
   "forks": 220,
-  "open_issues": 15,
-  "watchers": 2543,
+  "open_issues": 16,
+  "watchers": 2546,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 930
+  "_index": 932
 }

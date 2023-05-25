@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wulkano/Kap/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wulkano/Kap/deployments",
   "created_at": "2016-08-10T19:37:08Z",
-  "updated_at": "2023-05-23T22:57:56Z",
+  "updated_at": "2023-05-24T14:32:00Z",
   "pushed_at": "2023-03-06T10:44:14Z",
   "git_url": "git://github.com/wulkano/Kap.git",
   "ssh_url": "git@github.com:wulkano/Kap.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 820,
+  "forks_count": 821,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -116,7 +116,7 @@
     "screen-recorder"
   ],
   "visibility": "public",
-  "forks": 820,
+  "forks": 821,
   "open_issues": 180,
   "watchers": 16481,
   "default_branch": "main",
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1350
+  "_index": 1352
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/uikit/uikit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/uikit/uikit/deployments",
   "created_at": "2013-07-18T16:00:26Z",
-  "updated_at": "2023-05-23T23:30:47Z",
-  "pushed_at": "2023-05-22T13:39:04Z",
+  "updated_at": "2023-05-24T16:57:13Z",
+  "pushed_at": "2023-05-24T09:01:31Z",
   "git_url": "git://github.com/uikit/uikit.git",
   "ssh_url": "git@github.com:uikit/uikit.git",
   "clone_url": "https://github.com/uikit/uikit.git",
   "svn_url": "https://github.com/uikit/uikit",
   "homepage": "http://getuikit.com",
-  "size": 52371,
-  "stargazers_count": 17885,
-  "watchers_count": 17885,
+  "size": 52385,
+  "stargazers_count": 17884,
+  "watchers_count": 17884,
   "language": "HTML",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 617,
+  "open_issues_count": 618,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 2334,
-  "open_issues": 617,
-  "watchers": 17885,
+  "open_issues": 618,
+  "watchers": 17884,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2698
+  "_index": 2700
 }

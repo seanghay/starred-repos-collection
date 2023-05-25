@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ConnectAI-E/Feishu-OpenAI/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ConnectAI-E/Feishu-OpenAI/deployments",
   "created_at": "2023-02-07T10:18:28Z",
-  "updated_at": "2023-05-24T01:13:52Z",
+  "updated_at": "2023-05-24T20:45:12Z",
   "pushed_at": "2023-05-20T05:55:59Z",
   "git_url": "git://github.com/ConnectAI-E/Feishu-OpenAI.git",
   "ssh_url": "git@github.com:ConnectAI-E/Feishu-OpenAI.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ConnectAI-E/Feishu-OpenAI",
   "homepage": "https://connect-ai.forkway.cn/",
   "size": 16002,
-  "stargazers_count": 4300,
-  "watchers_count": 4300,
+  "stargazers_count": 4307,
+  "watchers_count": 4307,
   "language": "Go",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 737,
+  "forks_count": 740,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "openai"
   ],
   "visibility": "public",
-  "forks": 737,
+  "forks": 740,
   "open_issues": 66,
-  "watchers": 4300,
+  "watchers": 4307,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 153
+  "_index": 155
 }

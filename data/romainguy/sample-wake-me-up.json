@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/romainguy/sample-wake-me-up/releases{/id}",
   "deployments_url": "https://api.github.com/repos/romainguy/sample-wake-me-up/deployments",
   "created_at": "2021-10-14T18:14:18Z",
-  "updated_at": "2023-05-19T12:14:33Z",
+  "updated_at": "2023-05-24T08:06:10Z",
   "pushed_at": "2022-11-06T20:46:38Z",
   "git_url": "git://github.com/romainguy/sample-wake-me-up.git",
   "ssh_url": "git@github.com:romainguy/sample-wake-me-up.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/romainguy/sample-wake-me-up",
   "homepage": null,
   "size": 3508,
-  "stargazers_count": 180,
-  "watchers_count": 180,
+  "stargazers_count": 181,
+  "watchers_count": 181,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 18,
   "open_issues": 2,
-  "watchers": 180,
+  "watchers": 181,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 969
+  "_index": 971
 }
