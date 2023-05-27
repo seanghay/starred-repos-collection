@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/oven-sh/bun",
-  "description": "Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one",
+  "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
   "fork": false,
   "url": "https://api.github.com/repos/oven-sh/bun",
   "forks_url": "https://api.github.com/repos/oven-sh/bun/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/oven-sh/bun/releases{/id}",
   "deployments_url": "https://api.github.com/repos/oven-sh/bun/deployments",
   "created_at": "2021-04-14T00:48:17Z",
-  "updated_at": "2023-05-26T01:16:06Z",
-  "pushed_at": "2023-05-26T02:00:55Z",
+  "updated_at": "2023-05-27T01:58:56Z",
+  "pushed_at": "2023-05-27T01:30:44Z",
   "git_url": "git://github.com/oven-sh/bun.git",
   "ssh_url": "git@github.com:oven-sh/bun.git",
   "clone_url": "https://github.com/oven-sh/bun.git",
   "svn_url": "https://github.com/oven-sh/bun",
   "homepage": "https://bun.sh",
-  "size": 54871,
-  "stargazers_count": 41520,
-  "watchers_count": 41520,
+  "size": 55779,
+  "stargazers_count": 41542,
+  "watchers_count": 41542,
   "language": "Zig",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 796,
+  "open_issues_count": 790,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 1098,
-  "open_issues": 796,
-  "watchers": 41520,
+  "open_issues": 790,
+  "watchers": 41542,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 657
+  "_index": 661
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/windicss/windicss/releases{/id}",
   "deployments_url": "https://api.github.com/repos/windicss/windicss/deployments",
   "created_at": "2020-12-29T07:17:33Z",
-  "updated_at": "2023-05-25T16:40:26Z",
+  "updated_at": "2023-05-26T14:17:39Z",
   "pushed_at": "2023-04-15T18:38:06Z",
   "git_url": "git://github.com/windicss/windicss.git",
   "ssh_url": "git@github.com:windicss/windicss.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/windicss/windicss",
   "homepage": "https://windicss.org",
   "size": 2426,
-  "stargazers_count": 6339,
-  "watchers_count": 6339,
+  "stargazers_count": 6341,
+  "watchers_count": 6341,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 170,
+  "forks_count": 172,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,9 +108,9 @@
     "windi-css"
   ],
   "visibility": "public",
-  "forks": 170,
+  "forks": 172,
   "open_issues": 226,
-  "watchers": 6339,
+  "watchers": 6341,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1300
+  "_index": 1304
 }

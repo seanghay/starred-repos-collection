@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/d3/d3/releases{/id}",
   "deployments_url": "https://api.github.com/repos/d3/d3/deployments",
   "created_at": "2010-09-27T17:22:42Z",
-  "updated_at": "2023-05-25T20:43:52Z",
-  "pushed_at": "2023-05-19T00:28:13Z",
+  "updated_at": "2023-05-26T23:51:02Z",
+  "pushed_at": "2023-05-26T22:27:03Z",
   "git_url": "git://github.com/d3/d3.git",
   "ssh_url": "git@github.com:d3/d3.git",
   "clone_url": "https://github.com/d3/d3.git",
   "svn_url": "https://github.com/d3/d3",
   "homepage": "https://d3js.org",
-  "size": 42671,
-  "stargazers_count": 105426,
-  "watchers_count": 105426,
+  "size": 42653,
+  "stargazers_count": 105432,
+  "watchers_count": 105432,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 7,
+  "open_issues_count": 3,
   "license": {
     "key": "isc",
     "name": "ISC License",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 23313,
-  "open_issues": 7,
-  "watchers": 105426,
+  "open_issues": 3,
+  "watchers": 105432,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2684
+  "_index": 2688
 }

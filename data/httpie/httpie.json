@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/httpie/httpie/releases{/id}",
   "deployments_url": "https://api.github.com/repos/httpie/httpie/deployments",
   "created_at": "2012-02-25T12:39:13Z",
-  "updated_at": "2023-05-26T00:22:02Z",
+  "updated_at": "2023-05-27T01:49:17Z",
   "pushed_at": "2023-05-24T15:22:56Z",
   "git_url": "git://github.com/httpie/httpie.git",
   "ssh_url": "git@github.com:httpie/httpie.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/httpie/httpie",
   "homepage": "https://httpie.io",
   "size": 7038,
-  "stargazers_count": 27864,
-  "watchers_count": 27864,
+  "stargazers_count": 27884,
+  "watchers_count": 27884,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 146,
+  "open_issues_count": 145,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -121,8 +121,8 @@
   ],
   "visibility": "public",
   "forks": 3766,
-  "open_issues": 146,
-  "watchers": 27864,
+  "open_issues": 145,
+  "watchers": 27884,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 732
+  "_index": 736
 }

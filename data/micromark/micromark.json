@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/micromark/micromark/deployments",
   "created_at": "2018-11-13T17:34:37Z",
   "updated_at": "2023-05-24T16:48:00Z",
-  "pushed_at": "2023-05-23T14:32:00Z",
+  "pushed_at": "2023-05-26T10:04:29Z",
   "git_url": "git://github.com/micromark/micromark.git",
   "ssh_url": "git@github.com:micromark/micromark.git",
   "clone_url": "https://github.com/micromark/micromark.git",
   "svn_url": "https://github.com/micromark/micromark",
   "homepage": "https://unifiedjs.com",
-  "size": 1627,
+  "size": 1652,
   "stargazers_count": 1458,
   "watchers_count": 1458,
   "language": "JavaScript",
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1271
+  "_index": 1275
 }
