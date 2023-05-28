@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/mui/material-ui/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mui/material-ui/deployments",
   "created_at": "2014-08-18T19:11:54Z",
-  "updated_at": "2023-05-27T01:39:02Z",
-  "pushed_at": "2023-05-27T01:53:47Z",
+  "updated_at": "2023-05-27T22:33:12Z",
+  "pushed_at": "2023-05-28T01:10:13Z",
   "git_url": "git://github.com/mui/material-ui.git",
   "ssh_url": "git@github.com:mui/material-ui.git",
   "clone_url": "https://github.com/mui/material-ui.git",
   "svn_url": "https://github.com/mui/material-ui",
   "homepage": "https://mui.com/core/",
-  "size": 381157,
-  "stargazers_count": 86917,
-  "watchers_count": 86917,
+  "size": 381165,
+  "stargazers_count": 86937,
+  "watchers_count": 86937,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 29833,
+  "forks_count": 29838,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1472,
+  "open_issues_count": 1492,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,9 +107,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 29833,
-  "open_issues": 1472,
-  "watchers": 86917,
+  "forks": 29838,
+  "open_issues": 1492,
+  "watchers": 86937,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2721
+  "_index": 2723
 }

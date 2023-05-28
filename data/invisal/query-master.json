@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/invisal/query-master/releases{/id}",
   "deployments_url": "https://api.github.com/repos/invisal/query-master/deployments",
   "created_at": "2023-05-15T13:09:55Z",
-  "updated_at": "2023-05-18T04:43:17Z",
-  "pushed_at": "2023-05-27T01:38:57Z",
+  "updated_at": "2023-05-28T00:54:58Z",
+  "pushed_at": "2023-05-28T00:53:51Z",
   "git_url": "git://github.com/invisal/query-master.git",
   "ssh_url": "git@github.com:invisal/query-master.git",
   "clone_url": "https://github.com/invisal/query-master.git",
   "svn_url": "https://github.com/invisal/query-master",
-  "homepage": null,
-  "size": 4024,
-  "stargazers_count": 5,
-  "watchers_count": 5,
+  "homepage": "",
+  "size": 4139,
+  "stargazers_count": 6,
+  "watchers_count": 6,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -97,11 +97,16 @@
   "allow_forking": true,
   "is_template": false,
   "web_commit_signoff_required": false,
-  "topics": [],
+  "topics": [
+    "database",
+    "database-gui",
+    "database-tool",
+    "mysql"
+  ],
   "visibility": "public",
   "forks": 0,
   "open_issues": 0,
-  "watchers": 5,
+  "watchers": 6,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 18
+  "_index": 20
 }

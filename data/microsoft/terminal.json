@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/microsoft/terminal/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microsoft/terminal/deployments",
   "created_at": "2017-08-11T18:38:22Z",
-  "updated_at": "2023-05-27T01:51:53Z",
-  "pushed_at": "2023-05-26T21:50:42Z",
+  "updated_at": "2023-05-28T01:54:59Z",
+  "pushed_at": "2023-05-27T02:29:47Z",
   "git_url": "git://github.com/microsoft/terminal.git",
   "ssh_url": "git@github.com:microsoft/terminal.git",
   "clone_url": "https://github.com/microsoft/terminal.git",
   "svn_url": "https://github.com/microsoft/terminal",
   "homepage": "",
-  "size": 134115,
-  "stargazers_count": 88899,
-  "watchers_count": 88899,
+  "size": 134101,
+  "stargazers_count": 88920,
+  "watchers_count": 88920,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 7787,
+  "forks_count": 7786,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1502,
+  "open_issues_count": 1503,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -110,9 +110,9 @@
     "wsl"
   ],
   "visibility": "public",
-  "forks": 7787,
-  "open_issues": 1502,
-  "watchers": 88899,
+  "forks": 7786,
+  "open_issues": 1503,
+  "watchers": 88920,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2282
+  "_index": 2284
 }

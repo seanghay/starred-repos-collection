@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/np/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/np/deployments",
   "created_at": "2015-08-16T09:06:06Z",
-  "updated_at": "2023-05-26T07:43:04Z",
-  "pushed_at": "2023-05-18T08:09:12Z",
+  "updated_at": "2023-05-27T19:34:20Z",
+  "pushed_at": "2023-05-27T13:07:48Z",
   "git_url": "git://github.com/sindresorhus/np.git",
   "ssh_url": "git@github.com:sindresorhus/np.git",
   "clone_url": "https://github.com/sindresorhus/np.git",
   "svn_url": "https://github.com/sindresorhus/np",
   "homepage": null,
   "size": 940,
-  "stargazers_count": 7143,
-  "watchers_count": 7143,
+  "stargazers_count": 7145,
+  "watchers_count": 7145,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 48,
+  "open_issues_count": 49,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -110,8 +110,8 @@
   ],
   "visibility": "public",
   "forks": 339,
-  "open_issues": 48,
-  "watchers": 7143,
+  "open_issues": 49,
+  "watchers": 7145,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 742
+  "_index": 744
 }

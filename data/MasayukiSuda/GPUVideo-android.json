@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/MasayukiSuda/GPUVideo-android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/MasayukiSuda/GPUVideo-android/deployments",
   "created_at": "2019-01-17T03:17:05Z",
-  "updated_at": "2023-05-26T10:51:03Z",
+  "updated_at": "2023-05-27T09:23:09Z",
   "pushed_at": "2023-01-25T07:14:37Z",
   "git_url": "git://github.com/MasayukiSuda/GPUVideo-android.git",
   "ssh_url": "git@github.com:MasayukiSuda/GPUVideo-android.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/MasayukiSuda/GPUVideo-android",
   "homepage": null,
   "size": 59676,
-  "stargazers_count": 597,
-  "watchers_count": 597,
+  "stargazers_count": 598,
+  "watchers_count": 598,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -122,7 +122,7 @@
   "visibility": "public",
   "forks": 167,
   "open_issues": 77,
-  "watchers": 597,
+  "watchers": 598,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2519
+  "_index": 2521
 }
