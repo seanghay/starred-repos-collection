@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/arrow-kt/arrow/deployments",
   "created_at": "2017-03-24T10:43:11Z",
   "updated_at": "2023-05-28T02:09:13Z",
-  "pushed_at": "2023-05-28T01:48:54Z",
+  "pushed_at": "2023-05-28T17:55:52Z",
   "git_url": "git://github.com/arrow-kt/arrow.git",
   "ssh_url": "git@github.com:arrow-kt/arrow.git",
   "clone_url": "https://github.com/arrow-kt/arrow.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 44,
+  "open_issues_count": 45,
   "license": {
     "key": "other",
     "name": "Other",
@@ -118,7 +118,7 @@
   ],
   "visibility": "public",
   "forks": 412,
-  "open_issues": 44,
+  "open_issues": 45,
   "watchers": 5656,
   "default_branch": "main",
   "permissions": {
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2456
+  "_index": 2469
 }

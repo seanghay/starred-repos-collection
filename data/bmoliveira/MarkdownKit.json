@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bmoliveira/MarkdownKit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bmoliveira/MarkdownKit/deployments",
   "created_at": "2016-07-19T16:17:25Z",
-  "updated_at": "2023-05-16T07:12:07Z",
+  "updated_at": "2023-05-28T22:58:41Z",
   "pushed_at": "2022-09-09T14:43:38Z",
   "git_url": "git://github.com/bmoliveira/MarkdownKit.git",
   "ssh_url": "git@github.com:bmoliveira/MarkdownKit.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/bmoliveira/MarkdownKit",
   "homepage": null,
   "size": 636,
-  "stargazers_count": 718,
-  "watchers_count": 718,
+  "stargazers_count": 719,
+  "watchers_count": 719,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 136,
   "open_issues": 18,
-  "watchers": 718,
+  "watchers": 719,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1540
+  "_index": 1553
 }

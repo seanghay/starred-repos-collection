@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/CodeEditApp/CodeEdit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/CodeEditApp/CodeEdit/deployments",
   "created_at": "2022-03-10T21:28:14Z",
-  "updated_at": "2023-05-27T13:40:32Z",
-  "pushed_at": "2023-05-27T23:14:34Z",
+  "updated_at": "2023-05-29T00:40:39Z",
+  "pushed_at": "2023-05-28T18:34:37Z",
   "git_url": "git://github.com/CodeEditApp/CodeEdit.git",
   "ssh_url": "git@github.com:CodeEditApp/CodeEdit.git",
   "clone_url": "https://github.com/CodeEditApp/CodeEdit.git",
   "svn_url": "https://github.com/CodeEditApp/CodeEdit",
   "homepage": "https://codeedit.app",
   "size": 10473,
-  "stargazers_count": 17321,
-  "watchers_count": 17321,
+  "stargazers_count": 17319,
+  "watchers_count": 17319,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 825,
   "open_issues": 153,
-  "watchers": 17321,
+  "watchers": 17319,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 503
+  "_index": 516
 }

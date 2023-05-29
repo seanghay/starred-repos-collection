@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/htop-dev/htop/deployments",
   "created_at": "2020-08-17T04:26:40Z",
   "updated_at": "2023-05-27T08:28:24Z",
-  "pushed_at": "2023-05-25T07:34:39Z",
+  "pushed_at": "2023-05-28T21:45:15Z",
   "git_url": "git://github.com/htop-dev/htop.git",
   "ssh_url": "git@github.com:htop-dev/htop.git",
   "clone_url": "https://github.com/htop-dev/htop.git",
   "svn_url": "https://github.com/htop-dev/htop",
   "homepage": "https://htop.dev/",
-  "size": 5739,
+  "size": 5740,
   "stargazers_count": 4937,
   "watchers_count": 4937,
   "language": "C",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 28
+  "_index": 41
 }

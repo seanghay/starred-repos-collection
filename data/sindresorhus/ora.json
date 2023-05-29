@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/ora/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/ora/deployments",
   "created_at": "2016-03-03T18:17:16Z",
-  "updated_at": "2023-05-27T19:43:47Z",
+  "updated_at": "2023-05-28T22:13:37Z",
   "pushed_at": "2023-05-15T08:14:57Z",
   "git_url": "git://github.com/sindresorhus/ora.git",
   "ssh_url": "git@github.com:sindresorhus/ora.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sindresorhus/ora",
   "homepage": null,
   "size": 696,
-  "stargazers_count": 8405,
-  "watchers_count": 8405,
+  "stargazers_count": 8406,
+  "watchers_count": 8406,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 298,
   "open_issues": 15,
-  "watchers": 8405,
+  "watchers": 8406,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 633
+  "_index": 646
 }
