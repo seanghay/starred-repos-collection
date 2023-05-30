@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/signalapp/libsignal/releases{/id}",
   "deployments_url": "https://api.github.com/repos/signalapp/libsignal/deployments",
   "created_at": "2020-09-12T03:00:47Z",
-  "updated_at": "2023-05-28T21:14:15Z",
+  "updated_at": "2023-05-29T16:22:15Z",
   "pushed_at": "2023-05-21T15:23:06Z",
   "git_url": "git://github.com/signalapp/libsignal.git",
   "ssh_url": "git@github.com:signalapp/libsignal.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/signalapp/libsignal",
   "homepage": "",
   "size": 4909,
-  "stargazers_count": 2047,
-  "watchers_count": 2047,
+  "stargazers_count": 2049,
+  "watchers_count": 2049,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 254,
   "open_issues": 11,
-  "watchers": 2047,
+  "watchers": 2049,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 616
+  "_index": 617
 }

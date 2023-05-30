@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Jay-Goo/RangeSeekBar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Jay-Goo/RangeSeekBar/deployments",
   "created_at": "2017-02-08T07:40:56Z",
-  "updated_at": "2023-05-26T01:20:19Z",
+  "updated_at": "2023-05-29T10:05:30Z",
   "pushed_at": "2021-11-25T11:18:34Z",
   "git_url": "git://github.com/Jay-Goo/RangeSeekBar.git",
   "ssh_url": "git@github.com:Jay-Goo/RangeSeekBar.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Jay-Goo/RangeSeekBar",
   "homepage": "",
   "size": 9271,
-  "stargazers_count": 2339,
-  "watchers_count": 2339,
+  "stargazers_count": 2340,
+  "watchers_count": 2340,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 367,
+  "forks_count": 368,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,9 +109,9 @@
     "verticalseekbar"
   ],
   "visibility": "public",
-  "forks": 367,
+  "forks": 368,
   "open_issues": 39,
-  "watchers": 2339,
+  "watchers": 2340,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1959
+  "_index": 1960
 }

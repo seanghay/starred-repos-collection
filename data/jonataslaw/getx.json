@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jonataslaw/getx/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jonataslaw/getx/deployments",
   "created_at": "2019-11-14T01:16:25Z",
-  "updated_at": "2023-05-28T19:20:06Z",
+  "updated_at": "2023-05-29T17:59:31Z",
   "pushed_at": "2023-05-11T09:18:22Z",
   "git_url": "git://github.com/jonataslaw/getx.git",
   "ssh_url": "git@github.com:jonataslaw/getx.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jonataslaw/getx",
   "homepage": "",
   "size": 34290,
-  "stargazers_count": 8609,
-  "watchers_count": 8609,
+  "stargazers_count": 8612,
+  "watchers_count": 8612,
   "language": "Dart",
   "has_issues": true,
   "has_projects": true,
@@ -114,7 +114,7 @@
   "visibility": "public",
   "forks": 1438,
   "open_issues": 843,
-  "watchers": 8609,
+  "watchers": 8612,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1405
+  "_index": 1406
 }

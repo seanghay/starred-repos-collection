@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/afollestad/vvalidator/releases{/id}",
   "deployments_url": "https://api.github.com/repos/afollestad/vvalidator/deployments",
   "created_at": "2019-01-12T20:38:35Z",
-  "updated_at": "2023-05-17T18:33:30Z",
+  "updated_at": "2023-05-29T19:32:56Z",
   "pushed_at": "2021-02-21T05:03:23Z",
   "git_url": "git://github.com/afollestad/vvalidator.git",
   "ssh_url": "git@github.com:afollestad/vvalidator.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/afollestad/vvalidator",
   "homepage": "https://af.codes",
   "size": 645,
-  "stargazers_count": 661,
-  "watchers_count": 661,
+  "stargazers_count": 662,
+  "watchers_count": 662,
   "language": "Kotlin",
   "has_issues": false,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 49,
+  "forks_count": 50,
   "mirror_url": null,
   "archived": true,
   "disabled": false,
@@ -105,9 +105,9 @@
     "validation"
   ],
   "visibility": "public",
-  "forks": 49,
+  "forks": 50,
   "open_issues": 14,
-  "watchers": 661,
+  "watchers": 662,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2537
+  "_index": 2538
 }

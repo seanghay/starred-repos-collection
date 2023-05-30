@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/zhongjihao/AVMediaCodecMP4/releases{/id}",
   "deployments_url": "https://api.github.com/repos/zhongjihao/AVMediaCodecMP4/deployments",
   "created_at": "2018-03-24T09:28:39Z",
-  "updated_at": "2023-04-26T06:25:35Z",
+  "updated_at": "2023-05-29T11:40:55Z",
   "pushed_at": "2019-11-25T07:27:06Z",
   "git_url": "git://github.com/zhongjihao/AVMediaCodecMP4.git",
   "ssh_url": "git@github.com:zhongjihao/AVMediaCodecMP4.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/zhongjihao/AVMediaCodecMP4",
   "homepage": null,
   "size": 25265,
-  "stargazers_count": 102,
-  "watchers_count": 102,
+  "stargazers_count": 103,
+  "watchers_count": 103,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 39,
+  "forks_count": 40,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -93,9 +93,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 39,
+  "forks": 40,
   "open_issues": 1,
-  "watchers": 102,
+  "watchers": 103,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2010
+  "_index": 2011
 }
