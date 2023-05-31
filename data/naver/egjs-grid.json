@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/naver/egjs-grid/releases{/id}",
   "deployments_url": "https://api.github.com/repos/naver/egjs-grid/deployments",
   "created_at": "2021-03-25T04:49:29Z",
-  "updated_at": "2023-05-26T03:23:00Z",
+  "updated_at": "2023-05-31T01:46:40Z",
   "pushed_at": "2023-05-26T01:40:03Z",
   "git_url": "git://github.com/naver/egjs-grid.git",
   "ssh_url": "git@github.com:naver/egjs-grid.git",
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 922
+  "_index": 925
 }

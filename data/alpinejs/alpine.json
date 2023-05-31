@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/alpinejs/alpine/releases{/id}",
   "deployments_url": "https://api.github.com/repos/alpinejs/alpine/deployments",
   "created_at": "2019-11-28T13:51:55Z",
-  "updated_at": "2023-05-30T00:53:41Z",
+  "updated_at": "2023-05-30T20:09:15Z",
   "pushed_at": "2023-05-27T03:31:39Z",
   "git_url": "git://github.com/alpinejs/alpine.git",
   "ssh_url": "git@github.com:alpinejs/alpine.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/alpinejs/alpine",
   "homepage": "https://alpinejs.dev",
   "size": 7336,
-  "stargazers_count": 23828,
-  "watchers_count": 23828,
+  "stargazers_count": 23834,
+  "watchers_count": 23834,
   "language": "HTML",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 1052,
   "open_issues": 9,
-  "watchers": 23828,
+  "watchers": 23834,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1774
+  "_index": 1777
 }

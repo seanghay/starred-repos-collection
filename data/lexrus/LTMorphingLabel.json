@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lexrus/LTMorphingLabel/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lexrus/LTMorphingLabel/deployments",
   "created_at": "2014-06-25T04:48:55Z",
-  "updated_at": "2023-05-27T11:20:04Z",
+  "updated_at": "2023-05-30T10:16:07Z",
   "pushed_at": "2021-08-10T06:21:45Z",
   "git_url": "git://github.com/lexrus/LTMorphingLabel.git",
   "ssh_url": "git@github.com:lexrus/LTMorphingLabel.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 823
+  "_index": 826
 }

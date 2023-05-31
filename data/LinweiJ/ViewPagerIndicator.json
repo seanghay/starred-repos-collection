@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/LinweiJ/ViewPagerIndicator/releases{/id}",
   "deployments_url": "https://api.github.com/repos/LinweiJ/ViewPagerIndicator/deployments",
   "created_at": "2017-09-07T15:59:59Z",
-  "updated_at": "2023-05-04T11:00:12Z",
+  "updated_at": "2023-05-30T02:54:22Z",
   "pushed_at": "2019-08-26T15:00:32Z",
   "git_url": "git://github.com/LinweiJ/ViewPagerIndicator.git",
   "ssh_url": "git@github.com:LinweiJ/ViewPagerIndicator.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/LinweiJ/ViewPagerIndicator",
   "homepage": "",
   "size": 1565,
-  "stargazers_count": 393,
-  "watchers_count": 393,
+  "stargazers_count": 392,
+  "watchers_count": 392,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 68,
   "open_issues": 9,
-  "watchers": 393,
+  "watchers": 392,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2117
+  "_index": 2120
 }

@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/drizzle-team/drizzle-orm",
-  "description": "TypeScript ORM for SQL",
+  "description": "TypeScript ORM that feels like writing SQL",
   "fork": false,
   "url": "https://api.github.com/repos/drizzle-team/drizzle-orm",
   "forks_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/deployments",
   "created_at": "2021-06-24T09:03:05Z",
-  "updated_at": "2023-05-30T00:24:07Z",
-  "pushed_at": "2023-05-29T20:48:58Z",
+  "updated_at": "2023-05-31T02:10:37Z",
+  "pushed_at": "2023-05-30T23:10:51Z",
   "git_url": "git://github.com/drizzle-team/drizzle-orm.git",
   "ssh_url": "git@github.com:drizzle-team/drizzle-orm.git",
   "clone_url": "https://github.com/drizzle-team/drizzle-orm.git",
   "svn_url": "https://github.com/drizzle-team/drizzle-orm",
   "homepage": "https://orm.drizzle.team",
-  "size": 22219,
-  "stargazers_count": 6385,
-  "watchers_count": 6385,
+  "size": 22076,
+  "stargazers_count": 6428,
+  "watchers_count": 6428,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 141,
+  "forks_count": 144,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 182,
+  "open_issues_count": 186,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -119,9 +119,9 @@
     "vercel-postgres"
   ],
   "visibility": "public",
-  "forks": 141,
-  "open_issues": 182,
-  "watchers": 6385,
+  "forks": 144,
+  "open_issues": 186,
+  "watchers": 6428,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 57
+  "_index": 60
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/RuffianZhong/RWidgetHelper/releases{/id}",
   "deployments_url": "https://api.github.com/repos/RuffianZhong/RWidgetHelper/deployments",
   "created_at": "2018-04-26T10:19:42Z",
-  "updated_at": "2023-05-26T12:12:07Z",
+  "updated_at": "2023-05-30T07:44:56Z",
   "pushed_at": "2023-05-08T10:30:19Z",
   "git_url": "git://github.com/RuffianZhong/RWidgetHelper.git",
   "ssh_url": "git@github.com:RuffianZhong/RWidgetHelper.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/RuffianZhong/RWidgetHelper",
   "homepage": "",
   "size": 11391,
-  "stargazers_count": 1619,
-  "watchers_count": 1619,
+  "stargazers_count": 1621,
+  "watchers_count": 1621,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 11,
+  "open_issues_count": 12,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -115,8 +115,8 @@
   ],
   "visibility": "public",
   "forks": 148,
-  "open_issues": 11,
-  "watchers": 1619,
+  "open_issues": 12,
+  "watchers": 1621,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1796
+  "_index": 1799
 }

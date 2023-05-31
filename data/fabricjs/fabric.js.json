@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/fabricjs/fabric.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fabricjs/fabric.js/deployments",
   "created_at": "2010-06-09T22:24:38Z",
-  "updated_at": "2023-05-30T01:41:56Z",
-  "pushed_at": "2023-05-29T21:38:47Z",
+  "updated_at": "2023-05-30T19:03:11Z",
+  "pushed_at": "2023-05-30T11:15:15Z",
   "git_url": "git://github.com/fabricjs/fabric.js.git",
   "ssh_url": "git@github.com:fabricjs/fabric.js.git",
   "clone_url": "https://github.com/fabricjs/fabric.js.git",
   "svn_url": "https://github.com/fabricjs/fabric.js",
   "homepage": "http://fabricjs.com",
   "size": 170148,
-  "stargazers_count": 24927,
-  "watchers_count": 24927,
+  "stargazers_count": 24938,
+  "watchers_count": 24938,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 3269,
+  "forks_count": 3270,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 3269,
+  "forks": 3270,
   "open_issues": 336,
-  "watchers": 24927,
+  "watchers": 24938,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 417
+  "_index": 420
 }

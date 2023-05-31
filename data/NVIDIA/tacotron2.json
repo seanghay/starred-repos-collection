@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/NVIDIA/tacotron2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/NVIDIA/tacotron2/deployments",
   "created_at": "2018-05-03T19:54:06Z",
-  "updated_at": "2023-05-29T12:08:34Z",
+  "updated_at": "2023-05-30T19:17:26Z",
   "pushed_at": "2023-03-24T23:44:48Z",
   "git_url": "git://github.com/NVIDIA/tacotron2.git",
   "ssh_url": "git@github.com:NVIDIA/tacotron2.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/NVIDIA/tacotron2",
   "homepage": null,
   "size": 2766,
-  "stargazers_count": 4466,
-  "watchers_count": 4466,
+  "stargazers_count": 4470,
+  "watchers_count": 4470,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 179,
+  "open_issues_count": 180,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 1282,
-  "open_issues": 179,
-  "watchers": 4466,
+  "open_issues": 180,
+  "watchers": 4470,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 152
+  "_index": 155
 }

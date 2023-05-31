@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/angular/angular/releases{/id}",
   "deployments_url": "https://api.github.com/repos/angular/angular/deployments",
   "created_at": "2014-09-18T16:12:01Z",
-  "updated_at": "2023-05-30T01:04:37Z",
-  "pushed_at": "2023-05-29T22:07:17Z",
+  "updated_at": "2023-05-31T01:56:06Z",
+  "pushed_at": "2023-05-31T00:15:09Z",
   "git_url": "git://github.com/angular/angular.git",
   "ssh_url": "git@github.com:angular/angular.git",
   "clone_url": "https://github.com/angular/angular.git",
   "svn_url": "https://github.com/angular/angular",
   "homepage": "https://angular.io",
-  "size": 460653,
-  "stargazers_count": 88365,
-  "watchers_count": 88365,
+  "size": 461105,
+  "stargazers_count": 88373,
+  "watchers_count": 88373,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 23643,
+  "forks_count": 23652,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1462,
+  "open_issues_count": 1448,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,9 +107,9 @@
     "web-performance"
   ],
   "visibility": "public",
-  "forks": 23643,
-  "open_issues": 1462,
-  "watchers": 88365,
+  "forks": 23652,
+  "open_issues": 1448,
+  "watchers": 88373,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2255
+  "_index": 2258
 }

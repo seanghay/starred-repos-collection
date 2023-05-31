@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/daybrush/selecto/releases{/id}",
   "deployments_url": "https://api.github.com/repos/daybrush/selecto/deployments",
   "created_at": "2019-12-28T19:16:33Z",
-  "updated_at": "2023-05-29T01:53:04Z",
-  "pushed_at": "2023-05-20T07:43:54Z",
+  "updated_at": "2023-05-30T13:25:54Z",
+  "pushed_at": "2023-05-30T18:37:54Z",
   "git_url": "git://github.com/daybrush/selecto.git",
   "ssh_url": "git@github.com:daybrush/selecto.git",
   "clone_url": "https://github.com/daybrush/selecto.git",
   "svn_url": "https://github.com/daybrush/selecto",
   "homepage": "https://daybrush.com/selecto",
-  "size": 27717,
-  "stargazers_count": 1325,
-  "watchers_count": 1325,
+  "size": 28454,
+  "stargazers_count": 1327,
+  "watchers_count": 1327,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 65,
+  "open_issues_count": 66,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -113,8 +113,8 @@
   ],
   "visibility": "public",
   "forks": 59,
-  "open_issues": 65,
-  "watchers": 1325,
+  "open_issues": 66,
+  "watchers": 1327,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 186
+  "_index": 189
 }

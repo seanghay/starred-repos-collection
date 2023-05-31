@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/syumai/dejs.git",
   "svn_url": "https://github.com/syumai/dejs",
   "homepage": "",
-  "size": 93,
+  "size": 94,
   "stargazers_count": 139,
   "watchers_count": 139,
   "language": "TypeScript",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 523
+  "_index": 526
 }

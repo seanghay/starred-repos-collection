@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/daybrush/moveable/releases{/id}",
   "deployments_url": "https://api.github.com/repos/daybrush/moveable/deployments",
   "created_at": "2019-07-05T15:04:30Z",
-  "updated_at": "2023-05-30T01:02:08Z",
+  "updated_at": "2023-05-30T14:54:03Z",
   "pushed_at": "2023-05-29T16:05:41Z",
   "git_url": "git://github.com/daybrush/moveable.git",
   "ssh_url": "git@github.com:daybrush/moveable.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/daybrush/moveable",
   "homepage": "https://daybrush.com/moveable/",
   "size": 68846,
-  "stargazers_count": 7967,
-  "watchers_count": 7967,
+  "stargazers_count": 7970,
+  "watchers_count": 7970,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 302,
+  "open_issues_count": 304,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -111,8 +111,8 @@
   ],
   "visibility": "public",
   "forks": 522,
-  "open_issues": 302,
-  "watchers": 7967,
+  "open_issues": 304,
+  "watchers": 7970,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 185
+  "_index": 188
 }

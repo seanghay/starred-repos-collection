@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/jina-ai/jina/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jina-ai/jina/deployments",
   "created_at": "2020-02-13T17:04:44Z",
-  "updated_at": "2023-05-30T01:01:51Z",
-  "pushed_at": "2023-05-29T16:12:00Z",
+  "updated_at": "2023-05-31T02:02:08Z",
+  "pushed_at": "2023-05-30T15:03:23Z",
   "git_url": "git://github.com/jina-ai/jina.git",
   "ssh_url": "git@github.com:jina-ai/jina.git",
   "clone_url": "https://github.com/jina-ai/jina.git",
   "svn_url": "https://github.com/jina-ai/jina",
   "homepage": "https://docs.jina.ai",
-  "size": 1025474,
-  "stargazers_count": 18433,
-  "watchers_count": 18433,
+  "size": 1023856,
+  "stargazers_count": 18446,
+  "watchers_count": 18446,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 21,
+  "open_issues_count": 24,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -121,8 +121,8 @@
   ],
   "visibility": "public",
   "forks": 2118,
-  "open_issues": 21,
-  "watchers": 18433,
+  "open_issues": 24,
+  "watchers": 18446,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1119
+  "_index": 1122
 }

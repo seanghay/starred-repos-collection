@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jaredreich/pell/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jaredreich/pell/deployments",
   "created_at": "2017-07-09T14:30:51Z",
-  "updated_at": "2023-05-29T20:08:08Z",
+  "updated_at": "2023-05-30T19:59:13Z",
   "pushed_at": "2022-01-07T08:44:24Z",
   "git_url": "git://github.com/jaredreich/pell.git",
   "ssh_url": "git@github.com:jaredreich/pell.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jaredreich/pell",
   "homepage": "https://jaredreich.com/pell",
   "size": 1257,
-  "stargazers_count": 11830,
-  "watchers_count": 11830,
+  "stargazers_count": 11832,
+  "watchers_count": 11832,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 615,
+  "forks_count": 616,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,9 +108,9 @@
     "wysiwyg-editor"
   ],
   "visibility": "public",
-  "forks": 615,
+  "forks": 616,
   "open_issues": 70,
-  "watchers": 11830,
+  "watchers": 11832,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2703
+  "_index": 2706
 }

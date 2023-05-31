@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/sequelize/sequelize/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sequelize/sequelize/deployments",
   "created_at": "2010-07-22T07:11:11Z",
-  "updated_at": "2023-05-30T01:33:25Z",
-  "pushed_at": "2023-05-29T21:03:36Z",
+  "updated_at": "2023-05-30T21:52:52Z",
+  "pushed_at": "2023-05-30T19:27:28Z",
   "git_url": "git://github.com/sequelize/sequelize.git",
   "ssh_url": "git@github.com:sequelize/sequelize.git",
   "clone_url": "https://github.com/sequelize/sequelize.git",
   "svn_url": "https://github.com/sequelize/sequelize",
   "homepage": "https://sequelize.org/",
-  "size": 43500,
-  "stargazers_count": 27960,
-  "watchers_count": 27960,
+  "size": 43502,
+  "stargazers_count": 27964,
+  "watchers_count": 27964,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -120,7 +120,7 @@
   "visibility": "public",
   "forks": 4200,
   "open_issues": 845,
-  "watchers": 27960,
+  "watchers": 27964,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1418
+  "_index": 1421
 }
