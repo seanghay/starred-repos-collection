@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yellowcath/VideoProcessor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yellowcath/VideoProcessor/deployments",
   "created_at": "2018-02-09T09:56:57Z",
-  "updated_at": "2023-05-30T06:25:41Z",
+  "updated_at": "2023-06-01T00:40:52Z",
   "pushed_at": "2023-04-13T02:41:26Z",
   "git_url": "git://github.com/yellowcath/VideoProcessor.git",
   "ssh_url": "git@github.com:yellowcath/VideoProcessor.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yellowcath/VideoProcessor",
   "homepage": null,
   "size": 3958,
-  "stargazers_count": 852,
-  "watchers_count": 852,
+  "stargazers_count": 853,
+  "watchers_count": 853,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 133,
   "open_issues": 33,
-  "watchers": 852,
+  "watchers": 853,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2027
+  "_index": 2028
 }

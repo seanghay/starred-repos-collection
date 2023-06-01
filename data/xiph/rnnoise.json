@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/xiph/rnnoise/releases{/id}",
   "deployments_url": "https://api.github.com/repos/xiph/rnnoise/deployments",
   "created_at": "2017-08-03T06:34:37Z",
-  "updated_at": "2023-05-30T11:06:35Z",
+  "updated_at": "2023-05-31T09:34:02Z",
   "pushed_at": "2022-09-18T22:01:21Z",
   "git_url": "git://github.com/xiph/rnnoise.git",
   "ssh_url": "git@github.com:xiph/rnnoise.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 813,
+  "forks_count": 814,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,7 +104,7 @@
     "rnn"
   ],
   "visibility": "public",
-  "forks": 813,
+  "forks": 814,
   "open_issues": 160,
   "watchers": 3046,
   "default_branch": "master",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 96
+  "_index": 97
 }

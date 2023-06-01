@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/google/web-starter-kit/deployments",
   "created_at": "2014-04-07T08:45:18Z",
   "updated_at": "2023-05-30T05:38:52Z",
-  "pushed_at": "2023-04-15T18:46:32Z",
+  "pushed_at": "2023-05-31T15:42:28Z",
   "git_url": "git://github.com/google/web-starter-kit.git",
   "ssh_url": "git@github.com:google/web-starter-kit.git",
   "clone_url": "https://github.com/google/web-starter-kit.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 3129,
+  "forks_count": 3130,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 88,
+  "open_issues_count": 89,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,8 +99,8 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 3129,
-  "open_issues": 88,
+  "forks": 3130,
+  "open_issues": 89,
   "watchers": 18459,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2678
+  "_index": 2679
 }

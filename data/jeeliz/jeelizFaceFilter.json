@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jeeliz/jeelizFaceFilter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jeeliz/jeelizFaceFilter/deployments",
   "created_at": "2018-02-16T21:43:54Z",
-  "updated_at": "2023-05-31T01:29:55Z",
+  "updated_at": "2023-05-31T13:32:13Z",
   "pushed_at": "2023-05-17T17:51:57Z",
   "git_url": "git://github.com/jeeliz/jeelizFaceFilter.git",
   "ssh_url": "git@github.com:jeeliz/jeelizFaceFilter.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jeeliz/jeelizFaceFilter",
   "homepage": "https://jeeliz.com",
   "size": 168991,
-  "stargazers_count": 2408,
-  "watchers_count": 2408,
+  "stargazers_count": 2409,
+  "watchers_count": 2409,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 513,
+  "forks_count": 514,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -119,9 +119,9 @@
     "webgl"
   ],
   "visibility": "public",
-  "forks": 513,
+  "forks": 514,
   "open_issues": 0,
-  "watchers": 2408,
+  "watchers": 2409,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2233
+  "_index": 2234
 }

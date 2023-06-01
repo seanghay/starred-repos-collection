@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/blakeembrey/change-case/releases{/id}",
   "deployments_url": "https://api.github.com/repos/blakeembrey/change-case/deployments",
   "created_at": "2013-04-15T03:47:39Z",
-  "updated_at": "2023-05-30T05:36:02Z",
+  "updated_at": "2023-05-31T16:36:54Z",
   "pushed_at": "2023-05-05T11:31:35Z",
   "git_url": "git://github.com/blakeembrey/change-case.git",
   "ssh_url": "git@github.com:blakeembrey/change-case.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/blakeembrey/change-case",
   "homepage": "",
   "size": 16954,
-  "stargazers_count": 1990,
-  "watchers_count": 1990,
+  "stargazers_count": 1992,
+  "watchers_count": 1992,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 83,
   "open_issues": 20,
-  "watchers": 1990,
+  "watchers": 1992,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1407
+  "_index": 1408
 }

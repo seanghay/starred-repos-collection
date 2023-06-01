@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/strukturag/libheif/deployments",
   "created_at": "2017-12-21T14:06:21Z",
   "updated_at": "2023-05-30T05:18:18Z",
-  "pushed_at": "2023-05-30T11:11:56Z",
+  "pushed_at": "2023-05-31T09:20:49Z",
   "git_url": "git://github.com/strukturag/libheif.git",
   "ssh_url": "git@github.com:strukturag/libheif.git",
   "clone_url": "https://github.com/strukturag/libheif.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 192,
+  "open_issues_count": 189,
   "license": {
     "key": "other",
     "name": "Other",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 237,
-  "open_issues": 192,
+  "open_issues": 189,
   "watchers": 1271,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 890
+  "_index": 891
 }

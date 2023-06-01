@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/requery/requery/releases{/id}",
   "deployments_url": "https://api.github.com/repos/requery/requery/deployments",
   "created_at": "2015-11-14T00:45:31Z",
-  "updated_at": "2023-05-29T14:32:01Z",
+  "updated_at": "2023-05-31T05:18:27Z",
   "pushed_at": "2022-03-08T12:08:29Z",
   "git_url": "git://github.com/requery/requery.git",
   "ssh_url": "git@github.com:requery/requery.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/requery/requery",
   "homepage": "",
   "size": 2928,
-  "stargazers_count": 3121,
-  "watchers_count": 3121,
+  "stargazers_count": 3120,
+  "watchers_count": 3120,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 252,
   "open_issues": 175,
-  "watchers": 3121,
+  "watchers": 3120,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2069
+  "_index": 2070
 }

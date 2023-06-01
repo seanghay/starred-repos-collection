@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/JakeWharton/ThreeTenABP/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JakeWharton/ThreeTenABP/deployments",
   "created_at": "2015-07-03T17:35:09Z",
-  "updated_at": "2023-05-17T08:00:33Z",
+  "updated_at": "2023-06-01T00:00:31Z",
   "pushed_at": "2023-03-31T04:04:53Z",
   "git_url": "git://github.com/JakeWharton/ThreeTenABP.git",
   "ssh_url": "git@github.com:JakeWharton/ThreeTenABP.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2123
+  "_index": 2124
 }

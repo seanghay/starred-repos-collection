@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/eshaz/wasm-audio-decoders/releases{/id}",
   "deployments_url": "https://api.github.com/repos/eshaz/wasm-audio-decoders/deployments",
   "created_at": "2021-07-29T22:19:27Z",
-  "updated_at": "2023-05-16T01:31:15Z",
+  "updated_at": "2023-05-31T17:51:12Z",
   "pushed_at": "2023-04-22T19:22:19Z",
   "git_url": "git://github.com/eshaz/wasm-audio-decoders.git",
   "ssh_url": "git@github.com:eshaz/wasm-audio-decoders.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/eshaz/wasm-audio-decoders",
   "homepage": "",
   "size": 357287,
-  "stargazers_count": 109,
-  "watchers_count": 109,
+  "stargazers_count": 110,
+  "watchers_count": 110,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 5,
+  "open_issues_count": 4,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 12,
-  "open_issues": 5,
-  "watchers": 109,
+  "open_issues": 4,
+  "watchers": 110,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 226
+  "_index": 227
 }

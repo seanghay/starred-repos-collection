@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/tusen-ai/naive-ui/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tusen-ai/naive-ui/deployments",
   "created_at": "2021-06-04T13:47:28Z",
-  "updated_at": "2023-05-31T01:52:28Z",
-  "pushed_at": "2023-05-30T05:50:41Z",
+  "updated_at": "2023-06-01T02:15:48Z",
+  "pushed_at": "2023-06-01T01:40:30Z",
   "git_url": "git://github.com/tusen-ai/naive-ui.git",
   "ssh_url": "git@github.com:tusen-ai/naive-ui.git",
   "clone_url": "https://github.com/tusen-ai/naive-ui.git",
   "svn_url": "https://github.com/tusen-ai/naive-ui",
   "homepage": "https://www.naiveui.com",
   "size": 23051,
-  "stargazers_count": 12785,
-  "watchers_count": 12785,
+  "stargazers_count": 12794,
+  "watchers_count": 12794,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1435,
+  "forks_count": 1437,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 607,
+  "open_issues_count": 611,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,9 +105,9 @@
     "vue3-components"
   ],
   "visibility": "public",
-  "forks": 1435,
-  "open_issues": 607,
-  "watchers": 12785,
+  "forks": 1437,
+  "open_issues": 611,
+  "watchers": 12794,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1258
+  "_index": 1259
 }
