@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/twbs/icons/releases{/id}",
   "deployments_url": "https://api.github.com/repos/twbs/icons/deployments",
   "created_at": "2019-07-25T17:59:58Z",
-  "updated_at": "2023-06-01T01:23:08Z",
-  "pushed_at": "2023-05-31T11:14:11Z",
+  "updated_at": "2023-06-01T04:36:11Z",
+  "pushed_at": "2023-06-01T05:25:51Z",
   "git_url": "git://github.com/twbs/icons.git",
   "ssh_url": "git@github.com:twbs/icons.git",
   "clone_url": "https://github.com/twbs/icons.git",
   "svn_url": "https://github.com/twbs/icons",
   "homepage": "https://icons.getbootstrap.com",
-  "size": 56764,
-  "stargazers_count": 6750,
-  "watchers_count": 6750,
+  "size": 57160,
+  "stargazers_count": 6751,
+  "watchers_count": 6751,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1026,
+  "forks_count": 1028,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 318,
+  "open_issues_count": 316,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,9 +107,9 @@
     "woff2"
   ],
   "visibility": "public",
-  "forks": 1026,
-  "open_issues": 318,
-  "watchers": 6750,
+  "forks": 1028,
+  "open_issues": 316,
+  "watchers": 6751,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 983
+  "_index": 985
 }

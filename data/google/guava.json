@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/google/guava/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/guava/deployments",
   "created_at": "2014-05-29T16:23:17Z",
-  "updated_at": "2023-05-31T20:44:56Z",
-  "pushed_at": "2023-06-01T02:35:23Z",
+  "updated_at": "2023-06-02T01:46:27Z",
+  "pushed_at": "2023-06-01T18:42:14Z",
   "git_url": "git://github.com/google/guava.git",
   "ssh_url": "git@github.com:google/guava.git",
   "clone_url": "https://github.com/google/guava.git",
   "svn_url": "https://github.com/google/guava",
   "homepage": "",
-  "size": 423485,
-  "stargazers_count": 47568,
-  "watchers_count": 47568,
+  "size": 423662,
+  "stargazers_count": 47577,
+  "watchers_count": 47577,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 10562,
+  "forks_count": 10565,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 739,
+  "open_issues_count": 740,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -102,9 +102,9 @@
     "java"
   ],
   "visibility": "public",
-  "forks": 10562,
-  "open_issues": 739,
-  "watchers": 47568,
+  "forks": 10565,
+  "open_issues": 740,
+  "watchers": 47577,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2358
+  "_index": 2360
 }

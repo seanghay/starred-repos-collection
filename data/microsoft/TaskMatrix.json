@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/microsoft/TaskMatrix/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microsoft/TaskMatrix/deployments",
   "created_at": "2023-03-02T09:04:28Z",
-  "updated_at": "2023-06-01T01:54:37Z",
+  "updated_at": "2023-06-02T02:17:12Z",
   "pushed_at": "2023-05-31T05:32:09Z",
   "git_url": "git://github.com/microsoft/TaskMatrix.git",
   "ssh_url": "git@github.com:microsoft/TaskMatrix.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/microsoft/TaskMatrix",
   "homepage": "",
   "size": 41227,
-  "stargazers_count": 33061,
-  "watchers_count": 33061,
+  "stargazers_count": 33082,
+  "watchers_count": 33082,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3171,
+  "forks_count": 3173,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 213,
+  "open_issues_count": 215,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 3171,
-  "open_issues": 213,
-  "watchers": 33061,
+  "forks": 3173,
+  "open_issues": 215,
+  "watchers": 33082,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 197
+  "_index": 199
 }

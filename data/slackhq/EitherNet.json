@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/slackhq/EitherNet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/slackhq/EitherNet/deployments",
   "created_at": "2020-09-22T02:54:29Z",
-  "updated_at": "2023-05-31T20:51:01Z",
+  "updated_at": "2023-06-01T08:21:25Z",
   "pushed_at": "2023-05-31T16:21:27Z",
   "git_url": "git://github.com/slackhq/EitherNet.git",
   "ssh_url": "git@github.com:slackhq/EitherNet.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1306
+  "_index": 1308
 }

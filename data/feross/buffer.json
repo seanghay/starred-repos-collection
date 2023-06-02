@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/feross/buffer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/feross/buffer/deployments",
   "created_at": "2013-11-18T14:16:18Z",
-  "updated_at": "2023-05-31T19:40:07Z",
+  "updated_at": "2023-06-01T20:50:28Z",
   "pushed_at": "2023-05-30T18:57:05Z",
   "git_url": "git://github.com/feross/buffer.git",
   "ssh_url": "git@github.com:feross/buffer.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 234,
+  "forks_count": 233,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,7 +105,7 @@
     "nodejs"
   ],
   "visibility": "public",
-  "forks": 234,
+  "forks": 233,
   "open_issues": 44,
   "watchers": 1605,
   "default_branch": "master",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 321
+  "_index": 323
 }

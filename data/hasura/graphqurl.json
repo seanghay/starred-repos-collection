@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/hasura/graphqurl/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hasura/graphqurl/deployments",
   "created_at": "2018-07-20T10:15:46Z",
-  "updated_at": "2023-05-31T14:45:30Z",
+  "updated_at": "2023-06-01T17:54:01Z",
   "pushed_at": "2023-05-27T13:51:58Z",
   "git_url": "git://github.com/hasura/graphqurl.git",
   "ssh_url": "git@github.com:hasura/graphqurl.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/hasura/graphqurl",
   "homepage": "",
   "size": 3916,
-  "stargazers_count": 3252,
-  "watchers_count": 3252,
+  "stargazers_count": 3253,
+  "watchers_count": 3253,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 103,
   "open_issues": 63,
-  "watchers": 3252,
+  "watchers": 3253,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 492
+  "_index": 494
 }

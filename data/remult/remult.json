@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/remult/remult/deployments",
   "created_at": "2017-10-30T15:55:17Z",
   "updated_at": "2023-05-31T16:09:21Z",
-  "pushed_at": "2023-05-30T13:42:06Z",
+  "pushed_at": "2023-06-01T20:58:09Z",
   "git_url": "git://github.com/remult/remult.git",
   "ssh_url": "git@github.com:remult/remult.git",
   "clone_url": "https://github.com/remult/remult.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 75,
+  "forks_count": 76,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 15,
+  "open_issues_count": 16,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -111,8 +111,8 @@
     "validation"
   ],
   "visibility": "public",
-  "forks": 75,
-  "open_issues": 15,
+  "forks": 76,
+  "open_issues": 16,
   "watchers": 2107,
   "default_branch": "master",
   "permissions": {
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 555
+  "_index": 557
 }

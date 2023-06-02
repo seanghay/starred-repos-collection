@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 491,
+  "forks_count": 490,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,7 +108,7 @@
     "wavenet-vocoder"
   ],
   "visibility": "public",
-  "forks": 491,
+  "forks": 490,
   "open_issues": 22,
   "watchers": 2162,
   "default_branch": "master",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 35
+  "_index": 37
 }

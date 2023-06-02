@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/actions/create-release/releases{/id}",
   "deployments_url": "https://api.github.com/repos/actions/create-release/deployments",
   "created_at": "2019-09-12T22:06:28Z",
-  "updated_at": "2023-05-28T06:15:40Z",
+  "updated_at": "2023-06-01T14:23:22Z",
   "pushed_at": "2021-03-03T19:02:36Z",
   "git_url": "git://github.com/actions/create-release.git",
   "ssh_url": "git@github.com:actions/create-release.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 260,
+  "forks_count": 261,
   "mirror_url": null,
   "archived": true,
   "disabled": false,
@@ -105,7 +105,7 @@
     "release-automation"
   ],
   "visibility": "public",
-  "forks": 260,
+  "forks": 261,
   "open_issues": 56,
   "watchers": 1235,
   "default_branch": "main",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1433
+  "_index": 1435
 }

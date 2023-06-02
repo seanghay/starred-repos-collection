@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/forma/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/forma/deployments",
   "created_at": "2022-11-17T14:21:47Z",
-  "updated_at": "2023-05-30T12:10:02Z",
+  "updated_at": "2023-06-02T02:05:38Z",
   "pushed_at": "2023-05-16T14:42:30Z",
   "git_url": "git://github.com/google/forma.git",
   "ssh_url": "git@github.com:google/forma.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 360
+  "_index": 362
 }

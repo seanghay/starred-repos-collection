@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/triggerdotdev/jsonhero-web/releases{/id}",
   "deployments_url": "https://api.github.com/repos/triggerdotdev/jsonhero-web/deployments",
   "created_at": "2022-03-01T09:33:29Z",
-  "updated_at": "2023-05-31T23:00:58Z",
-  "pushed_at": "2023-05-26T13:03:48Z",
+  "updated_at": "2023-06-02T01:57:33Z",
+  "pushed_at": "2023-06-01T12:12:32Z",
   "git_url": "git://github.com/triggerdotdev/jsonhero-web.git",
   "ssh_url": "git@github.com:triggerdotdev/jsonhero-web.git",
   "clone_url": "https://github.com/triggerdotdev/jsonhero-web.git",
   "svn_url": "https://github.com/triggerdotdev/jsonhero-web",
   "homepage": "https://jsonhero.io",
   "size": 58812,
-  "stargazers_count": 7688,
-  "watchers_count": 7688,
+  "stargazers_count": 7695,
+  "watchers_count": 7695,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 53,
+  "open_issues_count": 54,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -110,8 +110,8 @@
   ],
   "visibility": "public",
   "forks": 351,
-  "open_issues": 53,
-  "watchers": 7688,
+  "open_issues": 54,
+  "watchers": 7695,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 739
+  "_index": 741
 }

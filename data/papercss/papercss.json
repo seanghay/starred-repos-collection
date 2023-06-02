@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/papercss/papercss/deployments",
   "created_at": "2017-08-23T20:15:22Z",
   "updated_at": "2023-05-31T13:44:38Z",
-  "pushed_at": "2023-05-30T13:45:28Z",
+  "pushed_at": "2023-06-01T16:13:35Z",
   "git_url": "git://github.com/papercss/papercss.git",
   "ssh_url": "git@github.com:papercss/papercss.git",
   "clone_url": "https://github.com/papercss/papercss.git",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2737
+  "_index": 2739
 }

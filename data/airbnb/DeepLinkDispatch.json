@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/airbnb/DeepLinkDispatch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/airbnb/DeepLinkDispatch/deployments",
   "created_at": "2015-06-11T21:16:48Z",
-  "updated_at": "2023-05-31T13:23:38Z",
+  "updated_at": "2023-06-01T17:23:36Z",
   "pushed_at": "2023-04-06T17:47:07Z",
   "git_url": "git://github.com/airbnb/DeepLinkDispatch.git",
   "ssh_url": "git@github.com:airbnb/DeepLinkDispatch.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/airbnb/DeepLinkDispatch",
   "homepage": "http://nerds.airbnb.com/deeplinkdispatch/",
   "size": 2814,
-  "stargazers_count": 4298,
-  "watchers_count": 4298,
+  "stargazers_count": 4299,
+  "watchers_count": 4299,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -99,7 +99,7 @@
   "visibility": "public",
   "forks": 418,
   "open_issues": 57,
-  "watchers": 4298,
+  "watchers": 4299,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -108,5 +108,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1932
+  "_index": 1934
 }

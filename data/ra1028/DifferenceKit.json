@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ra1028/DifferenceKit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ra1028/DifferenceKit/deployments",
   "created_at": "2018-08-03T12:29:06Z",
-  "updated_at": "2023-05-26T02:33:01Z",
+  "updated_at": "2023-06-02T01:59:01Z",
   "pushed_at": "2023-05-31T08:48:36Z",
   "git_url": "git://github.com/ra1028/DifferenceKit.git",
   "ssh_url": "git@github.com:ra1028/DifferenceKit.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ra1028/DifferenceKit",
   "homepage": "https://ra1028.github.io/DifferenceKit",
   "size": 9185,
-  "stargazers_count": 3327,
-  "watchers_count": 3327,
+  "stargazers_count": 3330,
+  "watchers_count": 3330,
   "language": "Swift",
   "has_issues": true,
   "has_projects": false,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 229,
   "open_issues": 27,
-  "watchers": 3327,
+  "watchers": 3330,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1132
+  "_index": 1134
 }

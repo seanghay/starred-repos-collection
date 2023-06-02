@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/libvips/libvips/deployments",
   "created_at": "2011-01-25T13:15:00Z",
   "updated_at": "2023-05-31T18:01:56Z",
-  "pushed_at": "2023-05-28T12:47:50Z",
+  "pushed_at": "2023-06-01T15:30:27Z",
   "git_url": "git://github.com/libvips/libvips.git",
   "ssh_url": "git@github.com:libvips/libvips.git",
   "clone_url": "https://github.com/libvips/libvips.git",
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 889
+  "_index": 891
 }

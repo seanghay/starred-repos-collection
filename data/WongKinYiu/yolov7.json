@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/WongKinYiu/yolov7/releases{/id}",
   "deployments_url": "https://api.github.com/repos/WongKinYiu/yolov7/deployments",
   "created_at": "2022-07-06T15:14:06Z",
-  "updated_at": "2023-06-01T02:31:07Z",
-  "pushed_at": "2023-05-30T20:11:39Z",
+  "updated_at": "2023-06-02T02:08:12Z",
+  "pushed_at": "2023-06-01T10:07:19Z",
   "git_url": "git://github.com/WongKinYiu/yolov7.git",
   "ssh_url": "git@github.com:WongKinYiu/yolov7.git",
   "clone_url": "https://github.com/WongKinYiu/yolov7.git",
   "svn_url": "https://github.com/WongKinYiu/yolov7",
   "homepage": "",
   "size": 76036,
-  "stargazers_count": 10259,
-  "watchers_count": 10259,
+  "stargazers_count": 10267,
+  "watchers_count": 10267,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3260,
+  "forks_count": 3264,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1283,
+  "open_issues_count": 1284,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -107,9 +107,9 @@
     "yolov7"
   ],
   "visibility": "public",
-  "forks": 3260,
-  "open_issues": 1283,
-  "watchers": 10259,
+  "forks": 3264,
+  "open_issues": 1284,
+  "watchers": 10267,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 280
+  "_index": 282
 }

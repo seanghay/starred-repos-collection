@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/typst/typst/releases{/id}",
   "deployments_url": "https://api.github.com/repos/typst/typst/deployments",
   "created_at": "2019-09-24T21:41:56Z",
-  "updated_at": "2023-06-01T01:12:33Z",
-  "pushed_at": "2023-05-31T16:17:40Z",
+  "updated_at": "2023-06-02T01:54:07Z",
+  "pushed_at": "2023-06-01T21:06:47Z",
   "git_url": "git://github.com/typst/typst.git",
   "ssh_url": "git@github.com:typst/typst.git",
   "clone_url": "https://github.com/typst/typst.git",
   "svn_url": "https://github.com/typst/typst",
   "homepage": "https://typst.app",
-  "size": 111186,
-  "stargazers_count": 17961,
-  "watchers_count": 17961,
+  "size": 111257,
+  "stargazers_count": 18048,
+  "watchers_count": 18048,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 408,
+  "open_issues_count": 412,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -104,8 +104,8 @@
   ],
   "visibility": "public",
   "forks": 397,
-  "open_issues": 408,
-  "watchers": 17961,
+  "open_issues": 412,
+  "watchers": 18048,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 151
+  "_index": 153
 }

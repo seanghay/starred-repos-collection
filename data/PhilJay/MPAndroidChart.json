@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/releases{/id}",
   "deployments_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/deployments",
   "created_at": "2014-04-25T14:29:47Z",
-  "updated_at": "2023-06-01T02:10:39Z",
+  "updated_at": "2023-06-02T01:55:57Z",
   "pushed_at": "2023-05-19T10:24:58Z",
   "git_url": "git://github.com/PhilJay/MPAndroidChart.git",
   "ssh_url": "git@github.com:PhilJay/MPAndroidChart.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/PhilJay/MPAndroidChart",
   "homepage": "",
   "size": 21720,
-  "stargazers_count": 36518,
-  "watchers_count": 36518,
+  "stargazers_count": 36520,
+  "watchers_count": 36520,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 8943,
+  "forks_count": 8944,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2126,
+  "open_issues_count": 2127,
   "license": {
     "key": "other",
     "name": "Other",
@@ -105,9 +105,9 @@
     "mpandroidchart"
   ],
   "visibility": "public",
-  "forks": 8943,
-  "open_issues": 2126,
-  "watchers": 36518,
+  "forks": 8944,
+  "open_issues": 2127,
+  "watchers": 36520,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2079
+  "_index": 2081
 }

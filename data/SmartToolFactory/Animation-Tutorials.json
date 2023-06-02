@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/SmartToolFactory/Animation-Tutorials/releases{/id}",
   "deployments_url": "https://api.github.com/repos/SmartToolFactory/Animation-Tutorials/deployments",
   "created_at": "2020-10-02T15:54:15Z",
-  "updated_at": "2023-05-30T20:53:21Z",
+  "updated_at": "2023-06-01T16:44:08Z",
   "pushed_at": "2020-11-15T14:02:59Z",
   "git_url": "git://github.com/SmartToolFactory/Animation-Tutorials.git",
   "ssh_url": "git@github.com:SmartToolFactory/Animation-Tutorials.git",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1409
+  "_index": 1411
 }
