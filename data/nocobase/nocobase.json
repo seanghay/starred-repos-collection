@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/nocobase/nocobase/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nocobase/nocobase/deployments",
   "created_at": "2020-10-24T07:27:48Z",
-  "updated_at": "2023-06-02T01:07:53Z",
-  "pushed_at": "2023-06-02T01:50:31Z",
+  "updated_at": "2023-06-02T18:08:04Z",
+  "pushed_at": "2023-06-03T00:44:32Z",
   "git_url": "git://github.com/nocobase/nocobase.git",
   "ssh_url": "git@github.com:nocobase/nocobase.git",
   "clone_url": "https://github.com/nocobase/nocobase.git",
   "svn_url": "https://github.com/nocobase/nocobase",
   "homepage": "https://www.nocobase.com",
-  "size": 115194,
-  "stargazers_count": 4356,
-  "watchers_count": 4356,
+  "size": 115687,
+  "stargazers_count": 4359,
+  "watchers_count": 4359,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 111,
+  "open_issues_count": 112,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -116,8 +116,8 @@
   ],
   "visibility": "public",
   "forks": 560,
-  "open_issues": 111,
-  "watchers": 4356,
+  "open_issues": 112,
+  "watchers": 4359,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 699
+  "_index": 702
 }

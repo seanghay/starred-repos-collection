@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/apple/swift-protobuf/releases{/id}",
   "deployments_url": "https://api.github.com/repos/apple/swift-protobuf/deployments",
   "created_at": "2016-09-02T00:51:55Z",
-  "updated_at": "2023-06-01T04:04:17Z",
-  "pushed_at": "2023-06-01T18:19:26Z",
+  "updated_at": "2023-06-02T16:56:14Z",
+  "pushed_at": "2023-06-02T12:44:13Z",
   "git_url": "git://github.com/apple/swift-protobuf.git",
   "ssh_url": "git@github.com:apple/swift-protobuf.git",
   "clone_url": "https://github.com/apple/swift-protobuf.git",
   "svn_url": "https://github.com/apple/swift-protobuf",
   "homepage": "",
-  "size": 27604,
+  "size": 27607,
   "stargazers_count": 4211,
   "watchers_count": 4211,
   "language": "Swift",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 422,
+  "forks_count": 423,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 61,
+  "open_issues_count": 60,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,8 +99,8 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 422,
-  "open_issues": 61,
+  "forks": 423,
+  "open_issues": 60,
   "watchers": 4211,
   "default_branch": "main",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 935
+  "_index": 938
 }

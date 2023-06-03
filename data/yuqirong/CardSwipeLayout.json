@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yuqirong/CardSwipeLayout/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yuqirong/CardSwipeLayout/deployments",
   "created_at": "2017-03-02T07:35:56Z",
-  "updated_at": "2023-06-01T09:57:39Z",
+  "updated_at": "2023-06-02T20:44:21Z",
   "pushed_at": "2020-01-19T07:38:51Z",
   "git_url": "git://github.com/yuqirong/CardSwipeLayout.git",
   "ssh_url": "git@github.com:yuqirong/CardSwipeLayout.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yuqirong/CardSwipeLayout",
   "homepage": "",
   "size": 10015,
-  "stargazers_count": 1221,
-  "watchers_count": 1221,
+  "stargazers_count": 1222,
+  "watchers_count": 1222,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 188,
   "open_issues": 24,
-  "watchers": 1221,
+  "watchers": 1222,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1897
+  "_index": 1900
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/refined-github/refined-github/releases{/id}",
   "deployments_url": "https://api.github.com/repos/refined-github/refined-github/deployments",
   "created_at": "2016-02-15T16:45:02Z",
-  "updated_at": "2023-06-01T23:18:09Z",
-  "pushed_at": "2023-06-01T16:39:24Z",
+  "updated_at": "2023-06-02T19:35:23Z",
+  "pushed_at": "2023-06-02T19:33:49Z",
   "git_url": "git://github.com/refined-github/refined-github.git",
   "ssh_url": "git@github.com:refined-github/refined-github.git",
   "clone_url": "https://github.com/refined-github/refined-github.git",
   "svn_url": "https://github.com/refined-github/refined-github",
   "homepage": "",
-  "size": 21929,
-  "stargazers_count": 21227,
-  "watchers_count": 21227,
+  "size": 22175,
+  "stargazers_count": 21231,
+  "watchers_count": 21231,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1448,
+  "forks_count": 1449,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 152,
+  "open_issues_count": 133,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,9 +107,9 @@
     "userstyle"
   ],
   "visibility": "public",
-  "forks": 1448,
-  "open_issues": 152,
-  "watchers": 21227,
+  "forks": 1449,
+  "open_issues": 133,
+  "watchers": 21231,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1933
+  "_index": 1936
 }

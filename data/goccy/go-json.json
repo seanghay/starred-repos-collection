@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/goccy/go-json/releases{/id}",
   "deployments_url": "https://api.github.com/repos/goccy/go-json/deployments",
   "created_at": "2020-04-19T09:32:36Z",
-  "updated_at": "2023-06-02T00:44:13Z",
-  "pushed_at": "2023-05-29T09:52:12Z",
+  "updated_at": "2023-06-02T15:08:02Z",
+  "pushed_at": "2023-06-02T11:50:03Z",
   "git_url": "git://github.com/goccy/go-json.git",
   "ssh_url": "git@github.com:goccy/go-json.git",
   "clone_url": "https://github.com/goccy/go-json.git",
   "svn_url": "https://github.com/goccy/go-json",
   "homepage": null,
   "size": 4806,
-  "stargazers_count": 2277,
-  "watchers_count": 2277,
+  "stargazers_count": 2279,
+  "watchers_count": 2279,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 105,
+  "forks_count": 106,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 46,
+  "open_issues_count": 47,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,9 +104,9 @@
     "json"
   ],
   "visibility": "public",
-  "forks": 105,
-  "open_issues": 46,
-  "watchers": 2277,
+  "forks": 106,
+  "open_issues": 47,
+  "watchers": 2279,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1392
+  "_index": 1395
 }

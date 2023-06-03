@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/xiph/rav1e/releases{/id}",
   "deployments_url": "https://api.github.com/repos/xiph/rav1e/deployments",
   "created_at": "2017-09-24T08:12:55Z",
-  "updated_at": "2023-06-01T20:29:42Z",
-  "pushed_at": "2023-06-02T02:17:47Z",
+  "updated_at": "2023-06-03T00:08:41Z",
+  "pushed_at": "2023-06-03T01:12:12Z",
   "git_url": "git://github.com/xiph/rav1e.git",
   "ssh_url": "git@github.com:xiph/rav1e.git",
   "clone_url": "https://github.com/xiph/rav1e.git",
   "svn_url": "https://github.com/xiph/rav1e",
   "homepage": "",
-  "size": 17009,
-  "stargazers_count": 3236,
-  "watchers_count": 3236,
+  "size": 17016,
+  "stargazers_count": 3238,
+  "watchers_count": 3238,
   "language": "Assembly",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 231,
+  "open_issues_count": 229,
   "license": {
     "key": "bsd-2-clause",
     "name": "BSD 2-Clause \"Simplified\" License",
@@ -104,8 +104,8 @@
   ],
   "visibility": "public",
   "forks": 228,
-  "open_issues": 231,
-  "watchers": 3236,
+  "open_issues": 229,
+  "watchers": 3238,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 172
+  "_index": 175
 }

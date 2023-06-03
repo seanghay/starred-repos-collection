@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/reddit/IndicatorFastScroll/releases{/id}",
   "deployments_url": "https://api.github.com/repos/reddit/IndicatorFastScroll/deployments",
   "created_at": "2018-03-21T04:14:31Z",
-  "updated_at": "2023-05-22T21:18:37Z",
+  "updated_at": "2023-06-02T07:39:35Z",
   "pushed_at": "2023-03-18T17:24:52Z",
   "git_url": "git://github.com/reddit/IndicatorFastScroll.git",
   "ssh_url": "git@github.com:reddit/IndicatorFastScroll.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/reddit/IndicatorFastScroll",
   "homepage": "",
   "size": 5589,
-  "stargazers_count": 687,
-  "watchers_count": 687,
+  "stargazers_count": 686,
+  "watchers_count": 686,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 50,
   "open_issues": 13,
-  "watchers": 687,
+  "watchers": 686,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2341
+  "_index": 2344
 }
