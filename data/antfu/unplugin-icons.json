@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/antfu/unplugin-icons/releases{/id}",
   "deployments_url": "https://api.github.com/repos/antfu/unplugin-icons/deployments",
   "created_at": "2020-12-24T05:26:15Z",
-  "updated_at": "2023-06-02T17:36:43Z",
-  "pushed_at": "2023-06-02T12:21:02Z",
+  "updated_at": "2023-06-03T18:23:11Z",
+  "pushed_at": "2023-06-03T12:25:38Z",
   "git_url": "git://github.com/antfu/unplugin-icons.git",
   "ssh_url": "git@github.com:antfu/unplugin-icons.git",
   "clone_url": "https://github.com/antfu/unplugin-icons.git",
   "svn_url": "https://github.com/antfu/unplugin-icons",
   "homepage": "https://www.npmjs.com/package/unplugin-icons",
   "size": 1871,
-  "stargazers_count": 2618,
-  "watchers_count": 2618,
+  "stargazers_count": 2619,
+  "watchers_count": 2619,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 106,
+  "forks_count": 107,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 57,
+  "open_issues_count": 58,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,9 +109,9 @@
     "webpack"
   ],
   "visibility": "public",
-  "forks": 106,
-  "open_issues": 57,
-  "watchers": 2618,
+  "forks": 107,
+  "open_issues": 58,
+  "watchers": 2619,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1104
+  "_index": 1106
 }

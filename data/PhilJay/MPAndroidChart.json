@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 8944,
+  "forks_count": 8945,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,7 +105,7 @@
     "mpandroidchart"
   ],
   "visibility": "public",
-  "forks": 8944,
+  "forks": 8945,
   "open_issues": 2127,
   "watchers": 36526,
   "default_branch": "master",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2084
+  "_index": 2086
 }

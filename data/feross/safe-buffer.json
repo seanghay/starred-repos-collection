@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/feross/safe-buffer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/feross/safe-buffer/deployments",
   "created_at": "2016-01-13T00:46:54Z",
-  "updated_at": "2023-04-21T22:02:19Z",
-  "pushed_at": "2022-01-26T12:41:54Z",
+  "updated_at": "2023-06-03T11:58:18Z",
+  "pushed_at": "2023-06-03T11:06:05Z",
   "git_url": "git://github.com/feross/safe-buffer.git",
   "ssh_url": "git@github.com:feross/safe-buffer.git",
   "clone_url": "https://github.com/feross/safe-buffer.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 41,
+  "forks_count": 42,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 5,
+  "open_issues_count": 6,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,8 +105,8 @@
     "security"
   ],
   "visibility": "public",
-  "forks": 41,
-  "open_issues": 5,
+  "forks": 42,
+  "open_issues": 6,
   "watchers": 337,
   "default_branch": "master",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 920
+  "_index": 922
 }

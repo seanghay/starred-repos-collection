@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/nocobase/nocobase/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nocobase/nocobase/deployments",
   "created_at": "2020-10-24T07:27:48Z",
-  "updated_at": "2023-06-02T18:08:04Z",
-  "pushed_at": "2023-06-03T00:44:32Z",
+  "updated_at": "2023-06-03T22:30:22Z",
+  "pushed_at": "2023-06-03T15:58:20Z",
   "git_url": "git://github.com/nocobase/nocobase.git",
   "ssh_url": "git@github.com:nocobase/nocobase.git",
   "clone_url": "https://github.com/nocobase/nocobase.git",
   "svn_url": "https://github.com/nocobase/nocobase",
   "homepage": "https://www.nocobase.com",
-  "size": 115687,
-  "stargazers_count": 4359,
-  "watchers_count": 4359,
+  "size": 115731,
+  "stargazers_count": 4360,
+  "watchers_count": 4360,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -117,7 +117,7 @@
   "visibility": "public",
   "forks": 560,
   "open_issues": 112,
-  "watchers": 4359,
+  "watchers": 4360,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 702
+  "_index": 704
 }

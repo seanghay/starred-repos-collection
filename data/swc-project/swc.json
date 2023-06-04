@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/swc-project/swc/releases{/id}",
   "deployments_url": "https://api.github.com/repos/swc-project/swc/deployments",
   "created_at": "2017-12-22T11:40:14Z",
-  "updated_at": "2023-06-03T00:28:01Z",
-  "pushed_at": "2023-06-02T19:18:54Z",
+  "updated_at": "2023-06-03T21:44:58Z",
+  "pushed_at": "2023-06-03T09:23:22Z",
   "git_url": "git://github.com/swc-project/swc.git",
   "ssh_url": "git@github.com:swc-project/swc.git",
   "clone_url": "https://github.com/swc-project/swc.git",
   "svn_url": "https://github.com/swc-project/swc",
   "homepage": "https://swc.rs",
-  "size": 262844,
-  "stargazers_count": 27523,
-  "watchers_count": 27523,
+  "size": 263346,
+  "stargazers_count": 27529,
+  "watchers_count": 27529,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 990,
   "open_issues": 351,
-  "watchers": 27523,
+  "watchers": 27529,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 399
+  "_index": 401
 }

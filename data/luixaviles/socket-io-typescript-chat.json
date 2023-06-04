@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/luixaviles/socket-io-typescript-chat/releases{/id}",
   "deployments_url": "https://api.github.com/repos/luixaviles/socket-io-typescript-chat/deployments",
   "created_at": "2016-11-11T01:51:03Z",
-  "updated_at": "2023-06-01T19:03:00Z",
+  "updated_at": "2023-06-03T14:37:25Z",
   "pushed_at": "2023-04-22T05:06:57Z",
   "git_url": "git://github.com/luixaviles/socket-io-typescript-chat.git",
   "ssh_url": "git@github.com:luixaviles/socket-io-typescript-chat.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/luixaviles/socket-io-typescript-chat",
   "homepage": "https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1",
   "size": 19673,
-  "stargazers_count": 814,
-  "watchers_count": 814,
+  "stargazers_count": 815,
+  "watchers_count": 815,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 282,
   "open_issues": 43,
-  "watchers": 814,
+  "watchers": 815,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2696
+  "_index": 2698
 }

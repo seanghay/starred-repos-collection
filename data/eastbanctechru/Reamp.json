@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/eastbanctechru/Reamp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/eastbanctechru/Reamp/deployments",
   "created_at": "2017-08-14T05:27:35Z",
-  "updated_at": "2023-05-16T16:24:12Z",
+  "updated_at": "2023-06-03T16:46:16Z",
   "pushed_at": "2020-04-28T02:46:01Z",
   "git_url": "git://github.com/eastbanctechru/Reamp.git",
   "ssh_url": "git@github.com:eastbanctechru/Reamp.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/eastbanctechru/Reamp",
   "homepage": "",
   "size": 383,
-  "stargazers_count": 52,
-  "watchers_count": 52,
+  "stargazers_count": 51,
+  "watchers_count": 51,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 8,
   "open_issues": 2,
-  "watchers": 52,
+  "watchers": 51,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2624
+  "_index": 2626
 }

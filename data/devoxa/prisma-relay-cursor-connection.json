@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/devoxa/prisma-relay-cursor-connection.git",
   "svn_url": "https://github.com/devoxa/prisma-relay-cursor-connection",
   "homepage": "",
-  "size": 2416,
+  "size": 2494,
   "stargazers_count": 231,
   "watchers_count": 231,
   "language": "TypeScript",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1483
+  "_index": 1485
 }

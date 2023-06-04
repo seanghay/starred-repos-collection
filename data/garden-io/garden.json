@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/garden-io/garden/releases{/id}",
   "deployments_url": "https://api.github.com/repos/garden-io/garden/deployments",
   "created_at": "2017-12-03T02:10:59Z",
-  "updated_at": "2023-06-02T09:45:57Z",
+  "updated_at": "2023-06-03T23:14:07Z",
   "pushed_at": "2023-06-03T00:58:49Z",
   "git_url": "git://github.com/garden-io/garden.git",
   "ssh_url": "git@github.com:garden-io/garden.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/garden-io/garden",
   "homepage": "https://garden.io",
   "size": 91485,
-  "stargazers_count": 2852,
-  "watchers_count": 2852,
+  "stargazers_count": 2853,
+  "watchers_count": 2853,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 275,
+  "open_issues_count": 276,
   "license": {
     "key": "mpl-2.0",
     "name": "Mozilla Public License 2.0",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 221,
-  "open_issues": 275,
-  "watchers": 2852,
+  "open_issues": 276,
+  "watchers": 2853,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 694
+  "_index": 696
 }

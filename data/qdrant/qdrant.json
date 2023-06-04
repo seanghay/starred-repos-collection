@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/qdrant/qdrant/releases{/id}",
   "deployments_url": "https://api.github.com/repos/qdrant/qdrant/deployments",
   "created_at": "2020-05-30T21:37:01Z",
-  "updated_at": "2023-06-03T02:06:34Z",
-  "pushed_at": "2023-06-02T22:45:21Z",
+  "updated_at": "2023-06-04T02:07:40Z",
+  "pushed_at": "2023-06-03T15:41:50Z",
   "git_url": "git://github.com/qdrant/qdrant.git",
   "ssh_url": "git@github.com:qdrant/qdrant.git",
   "clone_url": "https://github.com/qdrant/qdrant.git",
   "svn_url": "https://github.com/qdrant/qdrant",
   "homepage": "https://qdrant.tech",
-  "size": 9631,
-  "stargazers_count": 10774,
-  "watchers_count": 10774,
+  "size": 9633,
+  "stargazers_count": 10801,
+  "watchers_count": 10801,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -121,7 +121,7 @@
   "visibility": "public",
   "forks": 541,
   "open_issues": 93,
-  "watchers": 10774,
+  "watchers": 10801,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 251
+  "_index": 253
 }
