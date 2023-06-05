@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/Gudahtt/prettier-plugin-sort-json/deployments",
   "created_at": "2020-09-14T20:06:41Z",
   "updated_at": "2023-05-12T09:36:44Z",
-  "pushed_at": "2023-06-04T02:11:59Z",
+  "pushed_at": "2023-06-05T01:56:02Z",
   "git_url": "git://github.com/Gudahtt/prettier-plugin-sort-json.git",
   "ssh_url": "git@github.com:Gudahtt/prettier-plugin-sort-json.git",
   "clone_url": "https://github.com/Gudahtt/prettier-plugin-sort-json.git",
   "svn_url": "https://github.com/Gudahtt/prettier-plugin-sort-json",
   "homepage": "",
-  "size": 3493,
+  "size": 3463,
   "stargazers_count": 59,
   "watchers_count": 59,
   "language": "TypeScript",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1053
+  "_index": 1058
 }

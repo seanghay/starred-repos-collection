@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/marcosgriselli/SwipeableTabBarController/deployments",
   "created_at": "2017-02-01T20:04:06Z",
   "updated_at": "2023-06-02T14:42:39Z",
-  "pushed_at": "2023-01-25T03:28:55Z",
+  "pushed_at": "2023-06-04T21:52:42Z",
   "git_url": "git://github.com/marcosgriselli/SwipeableTabBarController.git",
   "ssh_url": "git@github.com:marcosgriselli/SwipeableTabBarController.git",
   "clone_url": "https://github.com/marcosgriselli/SwipeableTabBarController.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 103,
+  "forks_count": 104,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 13,
+  "open_issues_count": 14,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -110,8 +110,8 @@
     "xcode"
   ],
   "visibility": "public",
-  "forks": 103,
-  "open_issues": 13,
+  "forks": 104,
+  "open_issues": 14,
   "watchers": 1427,
   "default_branch": "master",
   "permissions": {
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1031
+  "_index": 1036
 }

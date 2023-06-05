@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nosir/cleave.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nosir/cleave.js/deployments",
   "created_at": "2016-05-18T12:45:03Z",
-  "updated_at": "2023-06-03T20:59:58Z",
+  "updated_at": "2023-06-05T02:14:54Z",
   "pushed_at": "2023-04-13T20:12:26Z",
   "git_url": "git://github.com/nosir/cleave.js.git",
   "ssh_url": "git@github.com:nosir/cleave.js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nosir/cleave.js",
   "homepage": "http://nosir.github.io/cleave.js",
   "size": 3347,
-  "stargazers_count": 17815,
-  "watchers_count": 17815,
+  "stargazers_count": 17814,
+  "watchers_count": 17814,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 1659,
   "open_issues": 213,
-  "watchers": 17815,
+  "watchers": 17814,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2534
+  "_index": 2539
 }

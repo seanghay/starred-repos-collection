@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/vercel/satori/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vercel/satori/deployments",
   "created_at": "2022-01-27T17:01:04Z",
-  "updated_at": "2023-06-04T01:02:50Z",
-  "pushed_at": "2023-06-03T13:36:48Z",
+  "updated_at": "2023-06-05T02:10:07Z",
+  "pushed_at": "2023-06-04T12:16:16Z",
   "git_url": "git://github.com/vercel/satori.git",
   "ssh_url": "git@github.com:vercel/satori.git",
   "clone_url": "https://github.com/vercel/satori.git",
   "svn_url": "https://github.com/vercel/satori",
   "homepage": "https://og-playground.vercel.app",
-  "size": 4742,
-  "stargazers_count": 8270,
-  "watchers_count": 8270,
+  "size": 4746,
+  "stargazers_count": 8275,
+  "watchers_count": 8275,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 50,
+  "open_issues_count": 51,
   "license": {
     "key": "mpl-2.0",
     "name": "Mozilla Public License 2.0",
@@ -110,8 +110,8 @@
   ],
   "visibility": "public",
   "forks": 145,
-  "open_issues": 50,
-  "watchers": 8270,
+  "open_issues": 51,
+  "watchers": 8275,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 470
+  "_index": 475
 }

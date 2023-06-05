@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/pnpm/pnpm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pnpm/pnpm/deployments",
   "created_at": "2016-01-28T07:40:43Z",
-  "updated_at": "2023-06-04T02:30:06Z",
-  "pushed_at": "2023-06-04T01:04:28Z",
+  "updated_at": "2023-06-04T23:33:10Z",
+  "pushed_at": "2023-06-05T00:59:56Z",
   "git_url": "git://github.com/pnpm/pnpm.git",
   "ssh_url": "git@github.com:pnpm/pnpm.git",
   "clone_url": "https://github.com/pnpm/pnpm.git",
   "svn_url": "https://github.com/pnpm/pnpm",
   "homepage": "https://pnpm.io",
-  "size": 135045,
-  "stargazers_count": 23965,
-  "watchers_count": 23965,
+  "size": 135323,
+  "stargazers_count": 23981,
+  "watchers_count": 23981,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 727,
+  "forks_count": 728,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1175,
+  "open_issues_count": 1176,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,9 +108,9 @@
     "package-manager"
   ],
   "visibility": "public",
-  "forks": 727,
-  "open_issues": 1175,
-  "watchers": 23965,
+  "forks": 728,
+  "open_issues": 1176,
+  "watchers": 23981,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 819
+  "_index": 824
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/nodejs/node/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nodejs/node/deployments",
   "created_at": "2014-11-26T19:57:11Z",
-  "updated_at": "2023-06-03T22:42:14Z",
-  "pushed_at": "2023-06-04T00:31:37Z",
+  "updated_at": "2023-06-05T01:12:26Z",
+  "pushed_at": "2023-06-05T01:52:40Z",
   "git_url": "git://github.com/nodejs/node.git",
   "ssh_url": "git@github.com:nodejs/node.git",
   "clone_url": "https://github.com/nodejs/node.git",
   "svn_url": "https://github.com/nodejs/node",
   "homepage": "https://nodejs.org",
-  "size": 1037291,
-  "stargazers_count": 95780,
-  "watchers_count": 95780,
+  "size": 1037483,
+  "stargazers_count": 95787,
+  "watchers_count": 95787,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 26023,
+  "forks_count": 26027,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,9 +109,9 @@
     "windows"
   ],
   "visibility": "public",
-  "forks": 26023,
+  "forks": 26027,
   "open_issues": 1726,
-  "watchers": 95780,
+  "watchers": 95787,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2657
+  "_index": 2662
 }
