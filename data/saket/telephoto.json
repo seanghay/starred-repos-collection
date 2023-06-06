@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/saket/telephoto/releases{/id}",
   "deployments_url": "https://api.github.com/repos/saket/telephoto/deployments",
   "created_at": "2023-01-25T02:59:42Z",
-  "updated_at": "2023-06-04T23:53:06Z",
-  "pushed_at": "2023-06-05T02:02:25Z",
+  "updated_at": "2023-06-05T20:59:50Z",
+  "pushed_at": "2023-06-05T14:39:06Z",
   "git_url": "git://github.com/saket/telephoto.git",
   "ssh_url": "git@github.com:saket/telephoto.git",
   "clone_url": "https://github.com/saket/telephoto.git",
   "svn_url": "https://github.com/saket/telephoto",
   "homepage": "https://saket.github.io/telephoto/",
-  "size": 78398,
-  "stargazers_count": 481,
-  "watchers_count": 481,
+  "size": 78406,
+  "stargazers_count": 496,
+  "watchers_count": 496,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 9,
+  "open_issues_count": 7,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 11,
-  "open_issues": 9,
-  "watchers": 481,
+  "open_issues": 7,
+  "watchers": 496,
   "default_branch": "trunk",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 45
+  "_index": 46
 }

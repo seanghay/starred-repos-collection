@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/ConnectAI-E/Feishu-OpenAI",
-  "description": "🎒飞书  ×（GPT-4 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀",
+  "description": "🎒 飞书  ×（GPT-4 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀",
   "fork": false,
   "url": "https://api.github.com/repos/ConnectAI-E/Feishu-OpenAI",
   "forks_url": "https://api.github.com/repos/ConnectAI-E/Feishu-OpenAI/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ConnectAI-E/Feishu-OpenAI/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ConnectAI-E/Feishu-OpenAI/deployments",
   "created_at": "2023-02-07T10:18:28Z",
-  "updated_at": "2023-06-05T01:36:56Z",
-  "pushed_at": "2023-06-03T12:57:00Z",
+  "updated_at": "2023-06-06T02:06:16Z",
+  "pushed_at": "2023-06-05T11:34:22Z",
   "git_url": "git://github.com/ConnectAI-E/Feishu-OpenAI.git",
   "ssh_url": "git@github.com:ConnectAI-E/Feishu-OpenAI.git",
   "clone_url": "https://github.com/ConnectAI-E/Feishu-OpenAI.git",
   "svn_url": "https://github.com/ConnectAI-E/Feishu-OpenAI",
   "homepage": "https://qiniai.com",
-  "size": 15997,
-  "stargazers_count": 4371,
-  "watchers_count": 4371,
+  "size": 15991,
+  "stargazers_count": 4385,
+  "watchers_count": 4385,
   "language": "Go",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 762,
+  "forks_count": 764,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "openai"
   ],
   "visibility": "public",
-  "forks": 762,
+  "forks": 764,
   "open_issues": 70,
-  "watchers": 4371,
+  "watchers": 4385,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 191
+  "_index": 192
 }

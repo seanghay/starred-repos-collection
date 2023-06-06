@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google-research/vision_transformer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google-research/vision_transformer/deployments",
   "created_at": "2020-10-21T12:35:02Z",
-  "updated_at": "2023-06-05T02:01:33Z",
+  "updated_at": "2023-06-05T22:19:07Z",
   "pushed_at": "2023-05-30T17:56:13Z",
   "git_url": "git://github.com/google-research/vision_transformer.git",
   "ssh_url": "git@github.com:google-research/vision_transformer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google-research/vision_transformer",
   "homepage": null,
   "size": 143085,
-  "stargazers_count": 7321,
-  "watchers_count": 7321,
+  "stargazers_count": 7327,
+  "watchers_count": 7327,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 974,
+  "forks_count": 975,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 974,
+  "forks": 975,
   "open_issues": 107,
-  "watchers": 7321,
+  "watchers": 7327,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 135
+  "_index": 136
 }

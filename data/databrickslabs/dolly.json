@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/databrickslabs/dolly/releases{/id}",
   "deployments_url": "https://api.github.com/repos/databrickslabs/dolly/deployments",
   "created_at": "2023-03-24T16:15:53Z",
-  "updated_at": "2023-06-05T01:48:46Z",
-  "pushed_at": "2023-06-03T01:46:24Z",
+  "updated_at": "2023-06-06T01:52:36Z",
+  "pushed_at": "2023-06-05T19:02:33Z",
   "git_url": "git://github.com/databrickslabs/dolly.git",
   "ssh_url": "git@github.com:databrickslabs/dolly.git",
   "clone_url": "https://github.com/databrickslabs/dolly.git",
   "svn_url": "https://github.com/databrickslabs/dolly",
   "homepage": "https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html",
-  "size": 76,
-  "stargazers_count": 10145,
-  "watchers_count": 10145,
+  "size": 69,
+  "stargazers_count": 10159,
+  "watchers_count": 10159,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1058,
+  "forks_count": 1061,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2,
+  "open_issues_count": 0,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -104,9 +104,9 @@
     "gpt"
   ],
   "visibility": "public",
-  "forks": 1058,
-  "open_issues": 2,
-  "watchers": 10145,
+  "forks": 1061,
+  "open_issues": 0,
+  "watchers": 10159,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 151
+  "_index": 152
 }

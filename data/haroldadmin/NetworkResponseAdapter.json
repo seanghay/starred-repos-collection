@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/haroldadmin/NetworkResponseAdapter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/haroldadmin/NetworkResponseAdapter/deployments",
   "created_at": "2019-04-26T18:13:27Z",
-  "updated_at": "2023-06-01T01:36:45Z",
+  "updated_at": "2023-06-06T00:26:43Z",
   "pushed_at": "2023-05-15T20:53:32Z",
   "git_url": "git://github.com/haroldadmin/NetworkResponseAdapter.git",
   "ssh_url": "git@github.com:haroldadmin/NetworkResponseAdapter.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/haroldadmin/NetworkResponseAdapter",
   "homepage": "https://haroldadmin.github.io/NetworkResponseAdapter",
   "size": 1278,
-  "stargazers_count": 533,
-  "watchers_count": 533,
+  "stargazers_count": 534,
+  "watchers_count": 534,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 57,
   "open_issues": 5,
-  "watchers": 533,
+  "watchers": 534,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1055
+  "_index": 1056
 }

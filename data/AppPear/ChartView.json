@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/AppPear/ChartView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/AppPear/ChartView/deployments",
   "created_at": "2019-06-12T18:38:58Z",
-  "updated_at": "2023-06-04T23:59:51Z",
+  "updated_at": "2023-06-05T09:30:15Z",
   "pushed_at": "2023-01-22T20:52:05Z",
   "git_url": "git://github.com/AppPear/ChartView.git",
   "ssh_url": "git@github.com:AppPear/ChartView.git",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1431
+  "_index": 1432
 }

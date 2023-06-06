@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/teamtnt/tntsearch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/teamtnt/tntsearch/deployments",
   "created_at": "2016-02-26T10:23:57Z",
-  "updated_at": "2023-06-02T07:38:54Z",
+  "updated_at": "2023-06-05T12:47:55Z",
   "pushed_at": "2023-05-17T19:49:26Z",
   "git_url": "git://github.com/teamtnt/tntsearch.git",
   "ssh_url": "git@github.com:teamtnt/tntsearch.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/teamtnt/tntsearch",
   "homepage": "https://tnt.studio/solving-the-search-problem-with-laravel-and-tntsearch",
   "size": 9092,
-  "stargazers_count": 2950,
-  "watchers_count": 2950,
+  "stargazers_count": 2951,
+  "watchers_count": 2951,
   "language": "PHP",
   "has_issues": true,
   "has_projects": true,
@@ -114,7 +114,7 @@
   "visibility": "public",
   "forks": 272,
   "open_issues": 69,
-  "watchers": 2950,
+  "watchers": 2951,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 923
+  "_index": 924
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/googlemaps/google-maps-ios-utils/deployments",
   "created_at": "2013-08-30T07:03:23Z",
   "updated_at": "2023-06-04T11:51:16Z",
-  "pushed_at": "2023-06-03T08:39:37Z",
+  "pushed_at": "2023-06-05T18:49:10Z",
   "git_url": "git://github.com/googlemaps/google-maps-ios-utils.git",
   "ssh_url": "git@github.com:googlemaps/google-maps-ios-utils.git",
   "clone_url": "https://github.com/googlemaps/google-maps-ios-utils.git",
   "svn_url": "https://github.com/googlemaps/google-maps-ios-utils",
   "homepage": "https://developers.google.com/maps/documentation/ios-sdk/utility/",
-  "size": 15853,
+  "size": 15855,
   "stargazers_count": 671,
   "watchers_count": 671,
   "language": "Objective-C",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 928
+  "_index": 929
 }
