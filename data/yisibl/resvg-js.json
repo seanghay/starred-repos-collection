@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/yisibl/resvg-js/deployments",
   "created_at": "2021-10-08T07:51:05Z",
   "updated_at": "2023-06-06T01:39:23Z",
-  "pushed_at": "2023-05-02T19:46:24Z",
+  "pushed_at": "2023-06-06T13:45:29Z",
   "git_url": "git://github.com/yisibl/resvg-js.git",
   "ssh_url": "git@github.com:yisibl/resvg-js.git",
   "clone_url": "https://github.com/yisibl/resvg-js.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 725
+  "_index": 726
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tcking/GiraffePlayer2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tcking/GiraffePlayer2/deployments",
   "created_at": "2017-09-12T12:08:41Z",
-  "updated_at": "2023-05-10T02:22:12Z",
+  "updated_at": "2023-06-06T09:56:20Z",
   "pushed_at": "2020-02-24T05:54:56Z",
   "git_url": "git://github.com/tcking/GiraffePlayer2.git",
   "ssh_url": "git@github.com:tcking/GiraffePlayer2.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/tcking/GiraffePlayer2",
   "homepage": "",
   "size": 14257,
-  "stargazers_count": 378,
-  "watchers_count": 378,
+  "stargazers_count": 379,
+  "watchers_count": 379,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 108,
   "open_issues": 94,
-  "watchers": 378,
+  "watchers": 379,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2150
+  "_index": 2151
 }

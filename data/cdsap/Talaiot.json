@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/cdsap/Talaiot/deployments",
   "created_at": "2018-11-17T10:27:17Z",
   "updated_at": "2023-05-17T14:27:48Z",
-  "pushed_at": "2023-06-05T06:01:27Z",
+  "pushed_at": "2023-06-06T22:06:33Z",
   "git_url": "git://github.com/cdsap/Talaiot.git",
   "ssh_url": "git@github.com:cdsap/Talaiot.git",
   "clone_url": "https://github.com/cdsap/Talaiot.git",
   "svn_url": "https://github.com/cdsap/Talaiot",
   "homepage": "",
-  "size": 5241,
+  "size": 5245,
   "stargazers_count": 544,
   "watchers_count": 544,
   "language": "Kotlin",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 31,
+  "open_issues_count": 27,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,7 +105,7 @@
   ],
   "visibility": "public",
   "forks": 34,
-  "open_issues": 31,
+  "open_issues": 27,
   "watchers": 544,
   "default_branch": "master",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2291
+  "_index": 2292
 }

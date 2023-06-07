@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/faiface/pixel/releases{/id}",
   "deployments_url": "https://api.github.com/repos/faiface/pixel/deployments",
   "created_at": "2016-11-19T11:15:34Z",
-  "updated_at": "2023-06-03T05:59:24Z",
+  "updated_at": "2023-06-06T14:13:05Z",
   "pushed_at": "2023-04-14T09:37:15Z",
   "git_url": "git://github.com/faiface/pixel.git",
   "ssh_url": "git@github.com:faiface/pixel.git",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 704
+  "_index": 705
 }

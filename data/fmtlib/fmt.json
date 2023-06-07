@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fmtlib/fmt/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fmtlib/fmt/deployments",
   "created_at": "2012-12-07T16:26:46Z",
-  "updated_at": "2023-06-06T02:03:17Z",
+  "updated_at": "2023-06-06T20:29:54Z",
   "pushed_at": "2023-06-04T22:19:58Z",
   "git_url": "git://github.com/fmtlib/fmt.git",
   "ssh_url": "git@github.com:fmtlib/fmt.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/fmtlib/fmt",
   "homepage": "https://fmt.dev",
   "size": 13955,
-  "stargazers_count": 17069,
-  "watchers_count": 17069,
+  "stargazers_count": 17078,
+  "watchers_count": 17078,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 14,
+  "open_issues_count": 13,
   "license": {
     "key": "other",
     "name": "Other",
@@ -109,8 +109,8 @@
   ],
   "visibility": "public",
   "forks": 2066,
-  "open_issues": 14,
-  "watchers": 17069,
+  "open_issues": 13,
+  "watchers": 17078,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2104
+  "_index": 2105
 }

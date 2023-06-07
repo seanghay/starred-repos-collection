@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/afollestad/material-dialogs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/afollestad/material-dialogs/deployments",
   "created_at": "2014-11-03T03:21:42Z",
-  "updated_at": "2023-06-05T18:48:36Z",
+  "updated_at": "2023-06-07T01:57:35Z",
   "pushed_at": "2023-02-06T02:57:13Z",
   "git_url": "git://github.com/afollestad/material-dialogs.git",
   "ssh_url": "git@github.com:afollestad/material-dialogs.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/afollestad/material-dialogs",
   "homepage": "https://af.codes",
   "size": 265793,
-  "stargazers_count": 19595,
-  "watchers_count": 19595,
+  "stargazers_count": 19594,
+  "watchers_count": 19594,
   "language": "Kotlin",
   "has_issues": false,
   "has_projects": false,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 3159,
   "open_issues": 111,
-  "watchers": 19595,
+  "watchers": 19594,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2660
+  "_index": 2661
 }

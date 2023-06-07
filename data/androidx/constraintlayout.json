@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/androidx/constraintlayout/releases{/id}",
   "deployments_url": "https://api.github.com/repos/androidx/constraintlayout/deployments",
   "created_at": "2019-10-02T18:08:50Z",
-  "updated_at": "2023-06-05T01:20:29Z",
-  "pushed_at": "2023-06-05T22:52:33Z",
+  "updated_at": "2023-06-07T00:35:53Z",
+  "pushed_at": "2023-06-06T05:18:56Z",
   "git_url": "git://github.com/androidx/constraintlayout.git",
   "ssh_url": "git@github.com:androidx/constraintlayout.git",
   "clone_url": "https://github.com/androidx/constraintlayout.git",
   "svn_url": "https://github.com/androidx/constraintlayout",
   "homepage": null,
-  "size": 36242,
-  "stargazers_count": 1008,
-  "watchers_count": 1008,
+  "size": 36255,
+  "stargazers_count": 1007,
+  "watchers_count": 1007,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 170,
   "open_issues": 87,
-  "watchers": 1008,
+  "watchers": 1007,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1525
+  "_index": 1526
 }

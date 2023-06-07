@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/faruktoptas/FancyShowCaseView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/faruktoptas/FancyShowCaseView/deployments",
   "created_at": "2017-03-08T12:37:15Z",
-  "updated_at": "2023-06-04T13:10:37Z",
+  "updated_at": "2023-06-06T07:39:12Z",
   "pushed_at": "2022-07-01T20:06:34Z",
   "git_url": "git://github.com/faruktoptas/FancyShowCaseView.git",
   "ssh_url": "git@github.com:faruktoptas/FancyShowCaseView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/faruktoptas/FancyShowCaseView",
   "homepage": "",
   "size": 4621,
-  "stargazers_count": 1847,
-  "watchers_count": 1847,
+  "stargazers_count": 1850,
+  "watchers_count": 1850,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 271,
+  "forks_count": 272,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -112,9 +112,9 @@
     "material-ui"
   ],
   "visibility": "public",
-  "forks": 271,
+  "forks": 272,
   "open_issues": 16,
-  "watchers": 1847,
+  "watchers": 1850,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2274
+  "_index": 2275
 }

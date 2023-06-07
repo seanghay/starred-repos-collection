@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/tuskyapp/Tusky/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tuskyapp/Tusky/deployments",
   "created_at": "2017-01-02T23:20:55Z",
-  "updated_at": "2023-06-05T22:20:36Z",
-  "pushed_at": "2023-06-05T17:41:45Z",
+  "updated_at": "2023-06-06T21:58:00Z",
+  "pushed_at": "2023-06-06T17:50:51Z",
   "git_url": "git://github.com/tuskyapp/Tusky.git",
   "ssh_url": "git@github.com:tuskyapp/Tusky.git",
   "clone_url": "https://github.com/tuskyapp/Tusky.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 517,
+  "open_issues_count": 518,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -109,7 +109,7 @@
   ],
   "visibility": "public",
   "forks": 354,
-  "open_issues": 517,
+  "open_issues": 518,
   "watchers": 2106,
   "default_branch": "develop",
   "permissions": {
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2175
+  "_index": 2176
 }
