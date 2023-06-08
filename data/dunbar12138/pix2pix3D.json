@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 104,
+  "forks_count": 105,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "pix2pix3d"
   ],
   "visibility": "public",
-  "forks": 104,
+  "forks": 105,
   "open_issues": 20,
   "watchers": 1413,
   "default_branch": "main",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 254
+  "_index": 259
 }

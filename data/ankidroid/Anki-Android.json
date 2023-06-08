@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ankidroid/Anki-Android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ankidroid/Anki-Android/deployments",
   "created_at": "2013-01-20T13:55:53Z",
-  "updated_at": "2023-06-06T16:22:20Z",
-  "pushed_at": "2023-06-07T01:18:19Z",
+  "updated_at": "2023-06-07T22:44:04Z",
+  "pushed_at": "2023-06-07T19:27:59Z",
   "git_url": "git://github.com/ankidroid/Anki-Android.git",
   "ssh_url": "git@github.com:ankidroid/Anki-Android.git",
   "clone_url": "https://github.com/ankidroid/Anki-Android.git",
   "svn_url": "https://github.com/ankidroid/Anki-Android",
   "homepage": "",
   "size": 210402,
-  "stargazers_count": 6447,
-  "watchers_count": 6447,
+  "stargazers_count": 6453,
+  "watchers_count": 6453,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 1925,
   "open_issues": 464,
-  "watchers": 6447,
+  "watchers": 6453,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1036
+  "_index": 1041
 }

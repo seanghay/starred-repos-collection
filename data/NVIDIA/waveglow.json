@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/NVIDIA/waveglow/releases{/id}",
   "deployments_url": "https://api.github.com/repos/NVIDIA/waveglow/deployments",
   "created_at": "2018-11-08T00:41:44Z",
-  "updated_at": "2023-06-06T07:09:06Z",
+  "updated_at": "2023-06-07T09:55:30Z",
   "pushed_at": "2022-11-13T07:39:15Z",
   "git_url": "git://github.com/NVIDIA/waveglow.git",
   "ssh_url": "git@github.com:NVIDIA/waveglow.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 169
+  "_index": 174
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jgilfelt/chuck/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jgilfelt/chuck/deployments",
   "created_at": "2017-02-07T23:51:39Z",
-  "updated_at": "2023-05-26T04:39:07Z",
+  "updated_at": "2023-06-07T02:37:26Z",
   "pushed_at": "2021-12-13T11:44:58Z",
   "git_url": "git://github.com/jgilfelt/chuck.git",
   "ssh_url": "git@github.com:jgilfelt/chuck.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jgilfelt/chuck",
   "homepage": null,
   "size": 1899,
-  "stargazers_count": 4648,
-  "watchers_count": 4648,
+  "stargazers_count": 4649,
+  "watchers_count": 4649,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 454,
   "open_issues": 52,
-  "watchers": 4648,
+  "watchers": 4649,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1703
+  "_index": 1708
 }

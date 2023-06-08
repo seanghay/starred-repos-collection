@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/pion/offline-browser-communication/deployments",
   "created_at": "2019-12-08T20:27:44Z",
   "updated_at": "2023-05-09T10:21:17Z",
-  "pushed_at": "2023-06-02T19:41:28Z",
+  "pushed_at": "2023-06-07T09:34:41Z",
   "git_url": "git://github.com/pion/offline-browser-communication.git",
   "ssh_url": "git@github.com:pion/offline-browser-communication.git",
   "clone_url": "https://github.com/pion/offline-browser-communication.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 23,
+  "forks_count": 24,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2,
+  "open_issues_count": 3,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -97,8 +97,8 @@
     "pion"
   ],
   "visibility": "public",
-  "forks": 23,
-  "open_issues": 2,
+  "forks": 24,
+  "open_issues": 3,
   "watchers": 167,
   "default_branch": "master",
   "permissions": {
@@ -108,5 +108,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 277
+  "_index": 282
 }

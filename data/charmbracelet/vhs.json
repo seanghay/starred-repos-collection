@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/charmbracelet/vhs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/charmbracelet/vhs/deployments",
   "created_at": "2022-07-19T14:28:36Z",
-  "updated_at": "2023-06-06T23:59:16Z",
-  "pushed_at": "2023-05-29T21:04:40Z",
+  "updated_at": "2023-06-07T11:49:48Z",
+  "pushed_at": "2023-06-07T21:03:03Z",
   "git_url": "git://github.com/charmbracelet/vhs.git",
   "ssh_url": "git@github.com:charmbracelet/vhs.git",
   "clone_url": "https://github.com/charmbracelet/vhs.git",
   "svn_url": "https://github.com/charmbracelet/vhs",
   "homepage": "",
   "size": 39916,
-  "stargazers_count": 11087,
-  "watchers_count": 11087,
+  "stargazers_count": 11092,
+  "watchers_count": 11092,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 177,
+  "forks_count": 178,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 50,
+  "open_issues_count": 51,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,9 +108,9 @@
     "video"
   ],
   "visibility": "public",
-  "forks": 177,
-  "open_issues": 50,
-  "watchers": 11087,
+  "forks": 178,
+  "open_issues": 51,
+  "watchers": 11092,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 392
+  "_index": 397
 }

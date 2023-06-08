@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/platformatic/platformatic/releases{/id}",
   "deployments_url": "https://api.github.com/repos/platformatic/platformatic/deployments",
   "created_at": "2022-09-22T07:32:19Z",
-  "updated_at": "2023-06-06T23:51:17Z",
-  "pushed_at": "2023-06-07T00:20:41Z",
+  "updated_at": "2023-06-08T01:02:46Z",
+  "pushed_at": "2023-06-07T22:14:35Z",
   "git_url": "git://github.com/platformatic/platformatic.git",
   "ssh_url": "git@github.com:platformatic/platformatic.git",
   "clone_url": "https://github.com/platformatic/platformatic.git",
   "svn_url": "https://github.com/platformatic/platformatic",
   "homepage": "https://oss.platformatic.dev/",
-  "size": 5663,
-  "stargazers_count": 1123,
-  "watchers_count": 1123,
+  "size": 5667,
+  "stargazers_count": 1126,
+  "watchers_count": 1126,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 100,
   "open_issues": 111,
-  "watchers": 1123,
+  "watchers": 1126,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 512
+  "_index": 517
 }

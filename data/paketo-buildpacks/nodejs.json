@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/paketo-buildpacks/nodejs/deployments",
   "created_at": "2020-04-13T20:06:38Z",
   "updated_at": "2023-05-17T22:43:11Z",
-  "pushed_at": "2023-06-02T18:34:19Z",
+  "pushed_at": "2023-06-08T02:10:51Z",
   "git_url": "git://github.com/paketo-buildpacks/nodejs.git",
   "ssh_url": "git@github.com:paketo-buildpacks/nodejs.git",
   "clone_url": "https://github.com/paketo-buildpacks/nodejs.git",
   "svn_url": "https://github.com/paketo-buildpacks/nodejs",
   "homepage": "",
-  "size": 1077,
+  "size": 1222,
   "stargazers_count": 47,
   "watchers_count": 47,
   "language": "Go",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 18,
+  "open_issues_count": 13,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -102,7 +102,7 @@
   ],
   "visibility": "public",
   "forks": 17,
-  "open_issues": 18,
+  "open_issues": 13,
   "watchers": 47,
   "default_branch": "main",
   "permissions": {
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 264
+  "_index": 269
 }
