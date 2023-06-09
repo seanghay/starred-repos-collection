@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/realm/jazzy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/realm/jazzy/deployments",
   "created_at": "2014-06-06T05:52:11Z",
-  "updated_at": "2023-06-07T09:07:56Z",
-  "pushed_at": "2023-06-07T12:17:59Z",
+  "updated_at": "2023-06-08T07:22:25Z",
+  "pushed_at": "2023-06-08T08:47:00Z",
   "git_url": "git://github.com/realm/jazzy.git",
   "ssh_url": "git@github.com:realm/jazzy.git",
   "clone_url": "https://github.com/realm/jazzy.git",
   "svn_url": "https://github.com/realm/jazzy",
   "homepage": "https://realm.io",
-  "size": 82294,
-  "stargazers_count": 7261,
-  "watchers_count": 7261,
+  "size": 82295,
+  "stargazers_count": 7260,
+  "watchers_count": 7260,
   "language": "Ruby",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 414,
   "open_issues": 84,
-  "watchers": 7261,
+  "watchers": 7260,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1872
+  "_index": 1877
 }

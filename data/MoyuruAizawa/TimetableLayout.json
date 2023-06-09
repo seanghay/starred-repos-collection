@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/MoyuruAizawa/TimetableLayout/releases{/id}",
   "deployments_url": "https://api.github.com/repos/MoyuruAizawa/TimetableLayout/deployments",
   "created_at": "2019-01-30T17:42:44Z",
-  "updated_at": "2023-05-27T13:41:25Z",
+  "updated_at": "2023-06-08T23:14:55Z",
   "pushed_at": "2019-03-22T17:49:47Z",
   "git_url": "git://github.com/MoyuruAizawa/TimetableLayout.git",
   "ssh_url": "git@github.com:MoyuruAizawa/TimetableLayout.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/MoyuruAizawa/TimetableLayout",
   "homepage": "",
   "size": 184,
-  "stargazers_count": 754,
-  "watchers_count": 754,
+  "stargazers_count": 753,
+  "watchers_count": 753,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 48,
   "open_issues": 2,
-  "watchers": 754,
+  "watchers": 753,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2458
+  "_index": 2463
 }

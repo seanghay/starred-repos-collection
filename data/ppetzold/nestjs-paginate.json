@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ppetzold/nestjs-paginate/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ppetzold/nestjs-paginate/deployments",
   "created_at": "2020-06-26T08:29:49Z",
-  "updated_at": "2023-06-05T15:06:26Z",
+  "updated_at": "2023-06-08T06:17:33Z",
   "pushed_at": "2023-06-05T23:23:47Z",
   "git_url": "git://github.com/ppetzold/nestjs-paginate.git",
   "ssh_url": "git@github.com:ppetzold/nestjs-paginate.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ppetzold/nestjs-paginate",
   "homepage": "",
   "size": 2632,
-  "stargazers_count": 245,
-  "watchers_count": 245,
+  "stargazers_count": 246,
+  "watchers_count": 246,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 55,
   "open_issues": 21,
-  "watchers": 245,
+  "watchers": 246,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1105
+  "_index": 1110
 }

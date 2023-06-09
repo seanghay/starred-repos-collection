@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/actions/setup-node/deployments",
   "created_at": "2019-05-30T20:19:16Z",
   "updated_at": "2023-06-07T20:16:51Z",
-  "pushed_at": "2023-06-08T00:08:46Z",
+  "pushed_at": "2023-06-08T12:55:09Z",
   "git_url": "git://github.com/actions/setup-node.git",
   "ssh_url": "git@github.com:actions/setup-node.git",
   "clone_url": "https://github.com/actions/setup-node.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1107,
+  "forks_count": 1108,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,7 +99,7 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 1107,
+  "forks": 1108,
   "open_issues": 51,
   "watchers": 2969,
   "default_branch": "main",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 497
+  "_index": 502
 }

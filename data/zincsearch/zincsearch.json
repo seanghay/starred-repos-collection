@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/zincsearch/zincsearch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/zincsearch/zincsearch/deployments",
   "created_at": "2021-12-02T12:49:41Z",
-  "updated_at": "2023-06-08T02:13:41Z",
+  "updated_at": "2023-06-08T17:32:05Z",
   "pushed_at": "2023-06-05T04:01:21Z",
   "git_url": "git://github.com/zincsearch/zincsearch.git",
   "ssh_url": "git@github.com:zincsearch/zincsearch.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/zincsearch/zincsearch",
   "homepage": "https://zincsearch-docs.zinc.dev",
   "size": 11723,
-  "stargazers_count": 14965,
-  "watchers_count": 14965,
+  "stargazers_count": 14974,
+  "watchers_count": 14974,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 651,
   "open_issues": 12,
-  "watchers": 14965,
+  "watchers": 14974,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 275
+  "_index": 280
 }

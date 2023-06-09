@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Julien-R44/adonis-vscode-extension/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Julien-R44/adonis-vscode-extension/deployments",
   "created_at": "2022-03-09T12:25:20Z",
-  "updated_at": "2023-05-10T06:58:31Z",
+  "updated_at": "2023-06-08T22:24:01Z",
   "pushed_at": "2023-06-03T12:16:12Z",
   "git_url": "git://github.com/Julien-R44/adonis-vscode-extension.git",
   "ssh_url": "git@github.com:Julien-R44/adonis-vscode-extension.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Julien-R44/adonis-vscode-extension",
   "homepage": "https://marketplace.visualstudio.com/items?itemName=jripouteau.adonis-vscode-extension",
   "size": 1952,
-  "stargazers_count": 54,
-  "watchers_count": 54,
+  "stargazers_count": 55,
+  "watchers_count": 55,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 2,
   "open_issues": 5,
-  "watchers": 54,
+  "watchers": 55,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 756
+  "_index": 761
 }

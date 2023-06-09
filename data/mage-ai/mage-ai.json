@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/mage-ai/mage-ai/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mage-ai/mage-ai/deployments",
   "created_at": "2022-05-16T22:11:39Z",
-  "updated_at": "2023-06-07T22:08:23Z",
-  "pushed_at": "2023-06-08T01:11:25Z",
+  "updated_at": "2023-06-08T23:07:31Z",
+  "pushed_at": "2023-06-09T00:23:23Z",
   "git_url": "git://github.com/mage-ai/mage-ai.git",
   "ssh_url": "git@github.com:mage-ai/mage-ai.git",
   "clone_url": "https://github.com/mage-ai/mage-ai.git",
   "svn_url": "https://github.com/mage-ai/mage-ai",
   "homepage": "https://www.mage.ai/",
-  "size": 113064,
-  "stargazers_count": 4800,
-  "watchers_count": 4800,
+  "size": 113109,
+  "stargazers_count": 4812,
+  "watchers_count": 4812,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 379,
+  "forks_count": 381,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -118,9 +118,9 @@
     "transformation"
   ],
   "visibility": "public",
-  "forks": 379,
+  "forks": 381,
   "open_issues": 84,
-  "watchers": 4800,
+  "watchers": 4812,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 582
+  "_index": 587
 }

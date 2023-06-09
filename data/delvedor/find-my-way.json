@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/delvedor/find-my-way/releases{/id}",
   "deployments_url": "https://api.github.com/repos/delvedor/find-my-way/deployments",
   "created_at": "2017-04-16T19:55:51Z",
-  "updated_at": "2023-06-07T16:00:02Z",
+  "updated_at": "2023-06-09T02:00:11Z",
   "pushed_at": "2023-05-27T18:41:58Z",
   "git_url": "git://github.com/delvedor/find-my-way.git",
   "ssh_url": "git@github.com:delvedor/find-my-way.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/delvedor/find-my-way",
   "homepage": "",
   "size": 467,
-  "stargazers_count": 1294,
-  "watchers_count": 1294,
+  "stargazers_count": 1295,
+  "watchers_count": 1295,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 134,
+  "forks_count": 135,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 11,
+  "open_issues_count": 12,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,9 +104,9 @@
     "speed"
   ],
   "visibility": "public",
-  "forks": 134,
-  "open_issues": 11,
-  "watchers": 1294,
+  "forks": 135,
+  "open_issues": 12,
+  "watchers": 1295,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 855
+  "_index": 860
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/xiph/rav1e/releases{/id}",
   "deployments_url": "https://api.github.com/repos/xiph/rav1e/deployments",
   "created_at": "2017-09-24T08:12:55Z",
-  "updated_at": "2023-06-06T17:52:28Z",
+  "updated_at": "2023-06-09T00:04:47Z",
   "pushed_at": "2023-06-06T21:33:03Z",
   "git_url": "git://github.com/xiph/rav1e.git",
   "ssh_url": "git@github.com:xiph/rav1e.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/xiph/rav1e",
   "homepage": "",
   "size": 17112,
-  "stargazers_count": 3242,
-  "watchers_count": 3242,
+  "stargazers_count": 3243,
+  "watchers_count": 3243,
   "language": "Assembly",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 228,
+  "forks_count": 229,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,9 +103,9 @@
     "hacktoberfest"
   ],
   "visibility": "public",
-  "forks": 228,
+  "forks": 229,
   "open_issues": 229,
-  "watchers": 3242,
+  "watchers": 3243,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 189
+  "_index": 194
 }

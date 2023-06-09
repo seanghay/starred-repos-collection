@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/android/gradle-recipes/releases{/id}",
   "deployments_url": "https://api.github.com/repos/android/gradle-recipes/deployments",
   "created_at": "2020-04-27T08:59:03Z",
-  "updated_at": "2023-06-07T15:04:32Z",
+  "updated_at": "2023-06-09T00:29:48Z",
   "pushed_at": "2023-04-25T14:02:50Z",
   "git_url": "git://github.com/android/gradle-recipes.git",
   "ssh_url": "git@github.com:android/gradle-recipes.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/android/gradle-recipes",
   "homepage": "",
   "size": 385,
-  "stargazers_count": 1556,
-  "watchers_count": 1556,
+  "stargazers_count": 1559,
+  "watchers_count": 1559,
   "language": "Kotlin",
   "has_issues": false,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 154,
   "open_issues": 8,
-  "watchers": 1556,
+  "watchers": 1559,
   "default_branch": "agp-7.4",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1614
+  "_index": 1619
 }

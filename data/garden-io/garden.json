@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/garden-io/garden",
-  "description": "Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the process. Speed up your builds and test runs via shared result caching. (We are hiring!)",
+  "description": "Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the process. Speed up your builds and test runs via shared result caching",
   "fork": false,
   "url": "https://api.github.com/repos/garden-io/garden",
   "forks_url": "https://api.github.com/repos/garden-io/garden/forks",
@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/garden-io/garden/releases{/id}",
   "deployments_url": "https://api.github.com/repos/garden-io/garden/deployments",
   "created_at": "2017-12-03T02:10:59Z",
-  "updated_at": "2023-06-08T01:44:00Z",
-  "pushed_at": "2023-06-07T16:42:27Z",
+  "updated_at": "2023-06-08T11:42:14Z",
+  "pushed_at": "2023-06-08T18:55:21Z",
   "git_url": "git://github.com/garden-io/garden.git",
   "ssh_url": "git@github.com:garden-io/garden.git",
   "clone_url": "https://github.com/garden-io/garden.git",
   "svn_url": "https://github.com/garden-io/garden",
   "homepage": "https://garden.io",
-  "size": 91031,
+  "size": 91079,
   "stargazers_count": 2857,
   "watchers_count": 2857,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 272,
+  "open_issues_count": 268,
   "license": {
     "key": "mpl-2.0",
     "name": "Mozilla Public License 2.0",
@@ -106,7 +106,7 @@
   ],
   "visibility": "public",
   "forks": 221,
-  "open_issues": 272,
+  "open_issues": 268,
   "watchers": 2857,
   "default_branch": "main",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 708
+  "_index": 713
 }

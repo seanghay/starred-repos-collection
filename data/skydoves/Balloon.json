@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/skydoves/Balloon/releases{/id}",
   "deployments_url": "https://api.github.com/repos/skydoves/Balloon/deployments",
   "created_at": "2019-07-14T07:14:32Z",
-  "updated_at": "2023-06-07T14:52:10Z",
+  "updated_at": "2023-06-08T15:14:13Z",
   "pushed_at": "2023-05-28T10:18:48Z",
   "git_url": "git://github.com/skydoves/Balloon.git",
   "ssh_url": "git@github.com:skydoves/Balloon.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/skydoves/Balloon",
   "homepage": "https://skydoves.github.io/libraries/balloon/html/balloon/com.skydoves.balloon/index.html",
   "size": 2064,
-  "stargazers_count": 3171,
-  "watchers_count": 3171,
+  "stargazers_count": 3173,
+  "watchers_count": 3173,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 17,
+  "open_issues_count": 18,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -114,8 +114,8 @@
   ],
   "visibility": "public",
   "forks": 257,
-  "open_issues": 17,
-  "watchers": 3171,
+  "open_issues": 18,
+  "watchers": 3173,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2274
+  "_index": 2279
 }

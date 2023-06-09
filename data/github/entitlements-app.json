@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/github/entitlements-app/deployments",
   "created_at": "2022-06-07T16:19:51Z",
   "updated_at": "2023-06-05T01:25:10Z",
-  "pushed_at": "2023-04-03T07:43:58Z",
+  "pushed_at": "2023-06-08T21:52:35Z",
   "git_url": "git://github.com/github/entitlements-app.git",
   "ssh_url": "git@github.com:github/entitlements-app.git",
   "clone_url": "https://github.com/github/entitlements-app.git",
   "svn_url": "https://github.com/github/entitlements-app",
   "homepage": "",
-  "size": 8460,
+  "size": 8462,
   "stargazers_count": 374,
   "watchers_count": 374,
   "language": "Ruby",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 689
+  "_index": 694
 }

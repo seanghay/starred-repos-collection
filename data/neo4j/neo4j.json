@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/neo4j/neo4j/releases{/id}",
   "deployments_url": "https://api.github.com/repos/neo4j/neo4j/deployments",
   "created_at": "2012-11-12T08:46:15Z",
-  "updated_at": "2023-06-07T19:09:41Z",
+  "updated_at": "2023-06-09T00:36:22Z",
   "pushed_at": "2023-05-24T13:31:39Z",
   "git_url": "git://github.com/neo4j/neo4j.git",
   "ssh_url": "git@github.com:neo4j/neo4j.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/neo4j/neo4j",
   "homepage": "http://neo4j.com",
   "size": 591980,
-  "stargazers_count": 11480,
-  "watchers_count": 11480,
+  "stargazers_count": 11486,
+  "watchers_count": 11486,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 2275,
   "open_issues": 341,
-  "watchers": 11480,
+  "watchers": 11486,
   "default_branch": "5.6",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1263
+  "_index": 1268
 }
