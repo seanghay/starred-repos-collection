@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lukeed/ms/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lukeed/ms/deployments",
   "created_at": "2020-03-16T18:10:25Z",
-  "updated_at": "2023-05-28T15:08:21Z",
+  "updated_at": "2023-06-10T00:31:44Z",
   "pushed_at": "2022-09-29T15:52:31Z",
   "git_url": "git://github.com/lukeed/ms.git",
   "ssh_url": "git@github.com:lukeed/ms.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lukeed/ms",
   "homepage": "",
   "size": 16,
-  "stargazers_count": 160,
-  "watchers_count": 160,
+  "stargazers_count": 161,
+  "watchers_count": 161,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 5,
   "open_issues": 0,
-  "watchers": 160,
+  "watchers": 161,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 515
+  "_index": 519
 }

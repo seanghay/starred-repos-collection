@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/geohot/tinygrad/releases{/id}",
   "deployments_url": "https://api.github.com/repos/geohot/tinygrad/deployments",
   "created_at": "2020-10-18T16:23:12Z",
-  "updated_at": "2023-06-09T01:52:08Z",
-  "pushed_at": "2023-06-08T23:09:19Z",
+  "updated_at": "2023-06-10T01:04:53Z",
+  "pushed_at": "2023-06-10T01:54:43Z",
   "git_url": "git://github.com/geohot/tinygrad.git",
   "ssh_url": "git@github.com:geohot/tinygrad.git",
   "clone_url": "https://github.com/geohot/tinygrad.git",
   "svn_url": "https://github.com/geohot/tinygrad",
   "homepage": "",
-  "size": 17351,
-  "stargazers_count": 13917,
-  "watchers_count": 13917,
+  "size": 17326,
+  "stargazers_count": 13934,
+  "watchers_count": 13934,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 57,
+  "open_issues_count": 60,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 1372,
-  "open_issues": 57,
-  "watchers": 13917,
+  "open_issues": 60,
+  "watchers": 13934,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 47
+  "_index": 51
 }

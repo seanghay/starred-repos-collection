@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fairyglade/ly/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fairyglade/ly/deployments",
   "created_at": "2017-05-23T18:02:53Z",
-  "updated_at": "2023-06-08T00:59:19Z",
+  "updated_at": "2023-06-09T12:57:28Z",
   "pushed_at": "2023-05-26T02:14:59Z",
   "git_url": "git://github.com/fairyglade/ly.git",
   "ssh_url": "git@github.com:fairyglade/ly.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/fairyglade/ly",
   "homepage": "",
   "size": 224,
-  "stargazers_count": 3817,
-  "watchers_count": 3817,
+  "stargazers_count": 3821,
+  "watchers_count": 3821,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 140,
+  "open_issues_count": 141,
   "license": {
     "key": "wtfpl",
     "name": "Do What The F*ck You Want To Public License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 260,
-  "open_issues": 140,
-  "watchers": 3817,
+  "open_issues": 141,
+  "watchers": 3821,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1688
+  "_index": 1692
 }

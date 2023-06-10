@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/rogerballard/nestjs-relay/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rogerballard/nestjs-relay/deployments",
   "created_at": "2020-06-08T08:37:21Z",
-  "updated_at": "2023-03-27T07:03:09Z",
+  "updated_at": "2023-06-09T15:32:41Z",
   "pushed_at": "2023-06-04T12:30:30Z",
   "git_url": "git://github.com/rogerballard/nestjs-relay.git",
   "ssh_url": "git@github.com:rogerballard/nestjs-relay.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/rogerballard/nestjs-relay",
   "homepage": "",
   "size": 2759,
-  "stargazers_count": 54,
-  "watchers_count": 54,
+  "stargazers_count": 55,
+  "watchers_count": 55,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 13,
   "open_issues": 55,
-  "watchers": 54,
+  "watchers": 55,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1382
+  "_index": 1386
 }

@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/youlookwhat/ByRecyclerView.git",
   "svn_url": "https://github.com/youlookwhat/ByRecyclerView",
   "homepage": "https://jinbeen.com/ByRecyclerView",
-  "size": 7485,
+  "size": 7480,
   "stargazers_count": 702,
   "watchers_count": 702,
   "language": "Java",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1880
+  "_index": 1884
 }
