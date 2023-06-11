@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/getzep/zep/releases{/id}",
   "deployments_url": "https://api.github.com/repos/getzep/zep/deployments",
   "created_at": "2023-04-29T14:06:22Z",
-  "updated_at": "2023-06-10T01:20:49Z",
+  "updated_at": "2023-06-11T00:11:37Z",
   "pushed_at": "2023-06-09T23:52:32Z",
   "git_url": "git://github.com/getzep/zep.git",
   "ssh_url": "git@github.com:getzep/zep.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/getzep/zep",
   "homepage": "https://docs.getzep.com/",
   "size": 7936,
-  "stargazers_count": 215,
-  "watchers_count": 215,
+  "stargazers_count": 227,
+  "watchers_count": 227,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 14,
+  "forks_count": 16,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "vectorsearch"
   ],
   "visibility": "public",
-  "forks": 14,
+  "forks": 16,
   "open_issues": 1,
-  "watchers": 215,
+  "watchers": 227,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 19
+  "_index": 25
 }

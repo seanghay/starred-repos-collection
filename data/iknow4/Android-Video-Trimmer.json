@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/iknow4/Android-Video-Trimmer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/iknow4/Android-Video-Trimmer/deployments",
   "created_at": "2016-08-29T02:21:34Z",
-  "updated_at": "2023-06-09T10:53:53Z",
+  "updated_at": "2023-06-10T18:57:59Z",
   "pushed_at": "2022-10-15T01:41:54Z",
   "git_url": "git://github.com/iknow4/Android-Video-Trimmer.git",
   "ssh_url": "git@github.com:iknow4/Android-Video-Trimmer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/iknow4/Android-Video-Trimmer",
   "homepage": "",
   "size": 319,
-  "stargazers_count": 1018,
-  "watchers_count": 1018,
+  "stargazers_count": 1019,
+  "watchers_count": 1019,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -119,7 +119,7 @@
   "visibility": "public",
   "forks": 258,
   "open_issues": 15,
-  "watchers": 1018,
+  "watchers": 1019,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2489
+  "_index": 2495
 }

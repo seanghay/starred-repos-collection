@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Sh4dowSoul/Compose-Scrobbler/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Sh4dowSoul/Compose-Scrobbler/deployments",
   "created_at": "2020-04-30T12:18:04Z",
-  "updated_at": "2023-06-06T02:49:55Z",
+  "updated_at": "2023-06-11T01:45:34Z",
   "pushed_at": "2022-07-09T16:35:22Z",
   "git_url": "git://github.com/Sh4dowSoul/Compose-Scrobbler.git",
   "ssh_url": "git@github.com:Sh4dowSoul/Compose-Scrobbler.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Sh4dowSoul/Compose-Scrobbler",
   "homepage": "",
   "size": 10403,
-  "stargazers_count": 56,
-  "watchers_count": 56,
+  "stargazers_count": 55,
+  "watchers_count": 55,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 5,
   "open_issues": 10,
-  "watchers": 56,
+  "watchers": 55,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1501
+  "_index": 1507
 }

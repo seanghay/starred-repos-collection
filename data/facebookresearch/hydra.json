@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/facebookresearch/hydra/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookresearch/hydra/deployments",
   "created_at": "2019-06-12T19:33:15Z",
-  "updated_at": "2023-06-09T17:49:15Z",
+  "updated_at": "2023-06-11T00:02:36Z",
   "pushed_at": "2023-06-08T11:06:00Z",
   "git_url": "git://github.com/facebookresearch/hydra.git",
   "ssh_url": "git@github.com:facebookresearch/hydra.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/facebookresearch/hydra",
   "homepage": "https://hydra.cc",
   "size": 262771,
-  "stargazers_count": 7183,
-  "watchers_count": 7183,
+  "stargazers_count": 7186,
+  "watchers_count": 7186,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 586,
+  "forks_count": 587,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 586,
+  "forks": 587,
   "open_issues": 208,
-  "watchers": 7183,
+  "watchers": 7186,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 34
+  "_index": 40
 }

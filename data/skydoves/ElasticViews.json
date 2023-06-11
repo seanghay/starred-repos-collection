@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/skydoves/ElasticViews/releases{/id}",
   "deployments_url": "https://api.github.com/repos/skydoves/ElasticViews/deployments",
   "created_at": "2017-01-21T13:34:12Z",
-  "updated_at": "2023-05-25T19:42:28Z",
+  "updated_at": "2023-06-10T11:31:52Z",
   "pushed_at": "2021-09-20T15:20:30Z",
   "git_url": "git://github.com/skydoves/ElasticViews.git",
   "ssh_url": "git@github.com:skydoves/ElasticViews.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/skydoves/ElasticViews",
   "homepage": "",
   "size": 480,
-  "stargazers_count": 772,
-  "watchers_count": 772,
+  "stargazers_count": 773,
+  "watchers_count": 773,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 87,
   "open_issues": 0,
-  "watchers": 772,
+  "watchers": 773,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1762
+  "_index": 1768
 }

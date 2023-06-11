@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/facebookresearch/fairseq/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookresearch/fairseq/deployments",
   "created_at": "2017-08-29T16:26:12Z",
-  "updated_at": "2023-06-09T23:45:12Z",
+  "updated_at": "2023-06-11T02:10:22Z",
   "pushed_at": "2023-06-04T14:34:01Z",
   "git_url": "git://github.com/facebookresearch/fairseq.git",
   "ssh_url": "git@github.com:facebookresearch/fairseq.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/facebookresearch/fairseq",
   "homepage": null,
   "size": 25602,
-  "stargazers_count": 26274,
-  "watchers_count": 26274,
+  "stargazers_count": 26293,
+  "watchers_count": 26293,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 5833,
   "open_issues": 1023,
-  "watchers": 26274,
+  "watchers": 26293,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 223
+  "_index": 229
 }

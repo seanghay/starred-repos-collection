@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mafintosh/nanobench/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mafintosh/nanobench/deployments",
   "created_at": "2016-11-01T14:49:54Z",
-  "updated_at": "2023-05-26T15:51:42Z",
+  "updated_at": "2023-06-10T08:29:06Z",
   "pushed_at": "2022-08-23T09:41:09Z",
   "git_url": "git://github.com/mafintosh/nanobench.git",
   "ssh_url": "git@github.com:mafintosh/nanobench.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mafintosh/nanobench",
   "homepage": null,
   "size": 13,
-  "stargazers_count": 170,
-  "watchers_count": 170,
+  "stargazers_count": 169,
+  "watchers_count": 169,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 17,
   "open_issues": 6,
-  "watchers": 170,
+  "watchers": 169,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 365
+  "_index": 371
 }

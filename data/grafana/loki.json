@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/grafana/loki/releases{/id}",
   "deployments_url": "https://api.github.com/repos/grafana/loki/deployments",
   "created_at": "2018-04-16T09:22:48Z",
-  "updated_at": "2023-06-09T23:43:16Z",
-  "pushed_at": "2023-06-09T20:01:31Z",
+  "updated_at": "2023-06-11T02:12:33Z",
+  "pushed_at": "2023-06-10T15:00:28Z",
   "git_url": "git://github.com/grafana/loki.git",
   "ssh_url": "git@github.com:grafana/loki.git",
   "clone_url": "https://github.com/grafana/loki.git",
   "svn_url": "https://github.com/grafana/loki",
   "homepage": "https://grafana.com/loki",
-  "size": 148379,
-  "stargazers_count": 19301,
-  "watchers_count": 19301,
+  "size": 148382,
+  "stargazers_count": 19307,
+  "watchers_count": 19307,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2777,
+  "forks_count": 2780,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,9 +106,9 @@
     "prometheus"
   ],
   "visibility": "public",
-  "forks": 2777,
+  "forks": 2780,
   "open_issues": 1047,
-  "watchers": 19301,
+  "watchers": 19307,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 808
+  "_index": 814
 }

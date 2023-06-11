@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/skydoves/lazybones/releases{/id}",
   "deployments_url": "https://api.github.com/repos/skydoves/lazybones/deployments",
   "created_at": "2020-01-09T14:10:09Z",
-  "updated_at": "2023-05-24T02:34:56Z",
+  "updated_at": "2023-06-10T11:31:03Z",
   "pushed_at": "2022-02-06T15:44:52Z",
   "git_url": "git://github.com/skydoves/lazybones.git",
   "ssh_url": "git@github.com:skydoves/lazybones.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/skydoves/lazybones",
   "homepage": "",
   "size": 366,
-  "stargazers_count": 347,
-  "watchers_count": 347,
+  "stargazers_count": 348,
+  "watchers_count": 348,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 16,
   "open_issues": 0,
-  "watchers": 347,
+  "watchers": 348,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1341
+  "_index": 1347
 }

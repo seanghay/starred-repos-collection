@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/upstash/ratelimit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/upstash/ratelimit/deployments",
   "created_at": "2022-04-20T07:29:46Z",
-  "updated_at": "2023-06-10T00:17:58Z",
-  "pushed_at": "2023-05-24T11:59:08Z",
+  "updated_at": "2023-06-10T13:23:03Z",
+  "pushed_at": "2023-06-10T13:49:21Z",
   "git_url": "git://github.com/upstash/ratelimit.git",
   "ssh_url": "git@github.com:upstash/ratelimit.git",
   "clone_url": "https://github.com/upstash/ratelimit.git",
   "svn_url": "https://github.com/upstash/ratelimit",
   "homepage": "https://ratelimit-with-vercel-kv.vercel.app",
   "size": 581,
-  "stargazers_count": 834,
-  "watchers_count": 834,
+  "stargazers_count": 836,
+  "watchers_count": 836,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 9,
+  "forks_count": 10,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 3,
+  "open_issues_count": 4,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,9 +103,9 @@
     "serverless"
   ],
   "visibility": "public",
-  "forks": 9,
-  "open_issues": 3,
-  "watchers": 834,
+  "forks": 10,
+  "open_issues": 4,
+  "watchers": 836,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 201
+  "_index": 207
 }

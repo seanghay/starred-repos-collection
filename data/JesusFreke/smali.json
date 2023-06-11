@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/JesusFreke/smali/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JesusFreke/smali/deployments",
   "created_at": "2012-09-23T19:51:16Z",
-  "updated_at": "2023-06-08T02:24:49Z",
+  "updated_at": "2023-06-11T00:59:54Z",
   "pushed_at": "2022-07-27T03:52:49Z",
   "git_url": "git://github.com/JesusFreke/smali.git",
   "ssh_url": "git@github.com:JesusFreke/smali.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/JesusFreke/smali",
   "homepage": null,
   "size": 9535,
-  "stargazers_count": 5921,
-  "watchers_count": 5921,
+  "stargazers_count": 5925,
+  "watchers_count": 5925,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 1062,
   "open_issues": 128,
-  "watchers": 5921,
+  "watchers": 5925,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2205
+  "_index": 2211
 }

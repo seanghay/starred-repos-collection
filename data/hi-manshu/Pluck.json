@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/hi-manshu/Pluck/deployments",
   "created_at": "2022-01-30T15:10:57Z",
   "updated_at": "2023-06-05T05:18:45Z",
-  "pushed_at": "2023-05-30T05:58:02Z",
+  "pushed_at": "2023-06-10T06:00:22Z",
   "git_url": "git://github.com/hi-manshu/Pluck.git",
   "ssh_url": "git@github.com:hi-manshu/Pluck.git",
   "clone_url": "https://github.com/hi-manshu/Pluck.git",
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 370
+  "_index": 376
 }
