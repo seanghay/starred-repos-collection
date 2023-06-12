@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/curl/curl/releases{/id}",
   "deployments_url": "https://api.github.com/repos/curl/curl/deployments",
   "created_at": "2010-03-18T22:32:22Z",
-  "updated_at": "2023-06-11T01:41:03Z",
-  "pushed_at": "2023-06-10T22:18:04Z",
+  "updated_at": "2023-06-12T00:51:02Z",
+  "pushed_at": "2023-06-11T20:36:56Z",
   "git_url": "git://github.com/curl/curl.git",
   "ssh_url": "git@github.com:curl/curl.git",
   "clone_url": "https://github.com/curl/curl.git",
   "svn_url": "https://github.com/curl/curl",
   "homepage": "https://curl.se/",
-  "size": 57424,
-  "stargazers_count": 30369,
-  "watchers_count": 30369,
+  "size": 57422,
+  "stargazers_count": 30377,
+  "watchers_count": 30377,
   "language": "C",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 5797,
+  "forks_count": 5798,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 85,
+  "open_issues_count": 90,
   "license": {
     "key": "other",
     "name": "Other",
@@ -120,9 +120,9 @@
     "websocket"
   ],
   "visibility": "public",
-  "forks": 5797,
-  "open_issues": 85,
-  "watchers": 30369,
+  "forks": 5798,
+  "open_issues": 90,
+  "watchers": 30377,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 365
+  "_index": 366
 }

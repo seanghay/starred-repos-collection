@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ikatyang/emoji-cheat-sheet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ikatyang/emoji-cheat-sheet/deployments",
   "created_at": "2017-03-17T15:18:39Z",
-  "updated_at": "2023-06-11T02:04:31Z",
-  "pushed_at": "2023-06-11T02:13:35Z",
+  "updated_at": "2023-06-12T00:37:00Z",
+  "pushed_at": "2023-06-12T02:13:36Z",
   "git_url": "git://github.com/ikatyang/emoji-cheat-sheet.git",
   "ssh_url": "git@github.com:ikatyang/emoji-cheat-sheet.git",
   "clone_url": "https://github.com/ikatyang/emoji-cheat-sheet.git",
   "svn_url": "https://github.com/ikatyang/emoji-cheat-sheet",
   "homepage": "",
   "size": 31934,
-  "stargazers_count": 10448,
-  "watchers_count": 10448,
+  "stargazers_count": 10455,
+  "watchers_count": 10455,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 4383,
+  "forks_count": 4382,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 54,
+  "open_issues_count": 55,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,9 +104,9 @@
     "markdown"
   ],
   "visibility": "public",
-  "forks": 4383,
-  "open_issues": 54,
-  "watchers": 10448,
+  "forks": 4382,
+  "open_issues": 55,
+  "watchers": 10455,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2094
+  "_index": 2095
 }

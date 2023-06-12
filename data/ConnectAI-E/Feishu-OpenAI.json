@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ConnectAI-E/Feishu-OpenAI/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ConnectAI-E/Feishu-OpenAI/deployments",
   "created_at": "2023-02-07T10:18:28Z",
-  "updated_at": "2023-06-10T10:51:20Z",
-  "pushed_at": "2023-06-10T06:12:18Z",
+  "updated_at": "2023-06-12T01:58:18Z",
+  "pushed_at": "2023-06-12T00:03:07Z",
   "git_url": "git://github.com/ConnectAI-E/Feishu-OpenAI.git",
   "ssh_url": "git@github.com:ConnectAI-E/Feishu-OpenAI.git",
   "clone_url": "https://github.com/ConnectAI-E/Feishu-OpenAI.git",
   "svn_url": "https://github.com/ConnectAI-E/Feishu-OpenAI",
   "homepage": "https://qiniai.com",
-  "size": 16026,
-  "stargazers_count": 4423,
-  "watchers_count": 4423,
+  "size": 16028,
+  "stargazers_count": 4426,
+  "watchers_count": 4426,
   "language": "Go",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 767,
+  "forks_count": 769,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 73,
+  "open_issues_count": 74,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -108,9 +108,9 @@
     "openai"
   ],
   "visibility": "public",
-  "forks": 767,
-  "open_issues": 73,
-  "watchers": 4423,
+  "forks": 769,
+  "open_issues": 74,
+  "watchers": 4426,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 213
+  "_index": 214
 }

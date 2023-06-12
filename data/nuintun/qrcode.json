@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/nuintun/qrcode/deployments",
   "created_at": "2014-09-26T09:57:37Z",
   "updated_at": "2023-06-10T14:12:19Z",
-  "pushed_at": "2023-06-10T16:00:06Z",
+  "pushed_at": "2023-06-11T16:09:05Z",
   "git_url": "git://github.com/nuintun/qrcode.git",
   "ssh_url": "git@github.com:nuintun/qrcode.git",
   "clone_url": "https://github.com/nuintun/qrcode.git",
   "svn_url": "https://github.com/nuintun/qrcode",
   "homepage": "https://nuintun.github.io/qrcode",
-  "size": 13177,
+  "size": 12122,
   "stargazers_count": 147,
   "watchers_count": 147,
   "language": "TypeScript",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 54
+  "_index": 55
 }

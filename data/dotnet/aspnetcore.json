@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/dotnet/aspnetcore/releases{/id}",
   "deployments_url": "https://api.github.com/repos/dotnet/aspnetcore/deployments",
   "created_at": "2014-03-11T06:09:42Z",
-  "updated_at": "2023-06-11T01:37:41Z",
-  "pushed_at": "2023-06-10T18:17:07Z",
+  "updated_at": "2023-06-11T16:33:43Z",
+  "pushed_at": "2023-06-11T20:24:08Z",
   "git_url": "git://github.com/dotnet/aspnetcore.git",
   "ssh_url": "git@github.com:dotnet/aspnetcore.git",
   "clone_url": "https://github.com/dotnet/aspnetcore.git",
   "svn_url": "https://github.com/dotnet/aspnetcore",
   "homepage": "https://asp.net",
-  "size": 414298,
-  "stargazers_count": 31899,
-  "watchers_count": 31899,
+  "size": 414285,
+  "stargazers_count": 31902,
+  "watchers_count": 31902,
   "language": "C#",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 9144,
+  "forks_count": 9146,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2633,
+  "open_issues_count": 2639,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,9 +103,9 @@
     "hacktoberfest"
   ],
   "visibility": "public",
-  "forks": 9144,
-  "open_issues": 2633,
-  "watchers": 31899,
+  "forks": 9146,
+  "open_issues": 2639,
+  "watchers": 31902,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1692
+  "_index": 1693
 }

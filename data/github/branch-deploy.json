@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/github/branch-deploy.git",
   "svn_url": "https://github.com/github/branch-deploy",
   "homepage": "https://github.com/marketplace/actions/branch-deploy",
-  "size": 4377,
+  "size": 4386,
   "stargazers_count": 190,
   "watchers_count": 190,
   "language": "JavaScript",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 332
+  "_index": 333
 }

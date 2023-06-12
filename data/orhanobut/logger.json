@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/orhanobut/logger/releases{/id}",
   "deployments_url": "https://api.github.com/repos/orhanobut/logger/deployments",
   "created_at": "2015-03-20T22:30:12Z",
-  "updated_at": "2023-06-11T02:36:01Z",
+  "updated_at": "2023-06-11T16:00:55Z",
   "pushed_at": "2022-09-14T10:04:00Z",
   "git_url": "git://github.com/orhanobut/logger.git",
   "ssh_url": "git@github.com:orhanobut/logger.git",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2109
+  "_index": 2110
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/invisal/query-master/deployments",
   "created_at": "2023-05-15T13:09:55Z",
   "updated_at": "2023-06-08T11:01:30Z",
-  "pushed_at": "2023-06-10T14:25:43Z",
+  "pushed_at": "2023-06-11T13:46:09Z",
   "git_url": "git://github.com/invisal/query-master.git",
   "ssh_url": "git@github.com:invisal/query-master.git",
   "clone_url": "https://github.com/invisal/query-master.git",
   "svn_url": "https://github.com/invisal/query-master",
   "homepage": "",
-  "size": 4186,
+  "size": 4194,
   "stargazers_count": 11,
   "watchers_count": 11,
   "language": "TypeScript",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 72
+  "_index": 73
 }

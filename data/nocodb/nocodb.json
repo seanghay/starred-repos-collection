@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/nocodb/nocodb/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nocodb/nocodb/deployments",
   "created_at": "2017-10-29T18:51:48Z",
-  "updated_at": "2023-06-11T01:52:11Z",
-  "pushed_at": "2023-06-11T01:56:15Z",
+  "updated_at": "2023-06-12T01:42:32Z",
+  "pushed_at": "2023-06-11T14:41:12Z",
   "git_url": "git://github.com/nocodb/nocodb.git",
   "ssh_url": "git@github.com:nocodb/nocodb.git",
   "clone_url": "https://github.com/nocodb/nocodb.git",
   "svn_url": "https://github.com/nocodb/nocodb",
   "homepage": "https://nocodb.com",
-  "size": 925473,
-  "stargazers_count": 36423,
-  "watchers_count": 36423,
+  "size": 925512,
+  "stargazers_count": 36437,
+  "watchers_count": 36437,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -121,7 +121,7 @@
   "visibility": "public",
   "forks": 2324,
   "open_issues": 468,
-  "watchers": 36423,
+  "watchers": 36437,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1168
+  "_index": 1169
 }

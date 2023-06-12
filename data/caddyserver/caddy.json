@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/caddyserver/caddy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/caddyserver/caddy/deployments",
   "created_at": "2015-01-13T19:45:03Z",
-  "updated_at": "2023-06-10T23:32:30Z",
+  "updated_at": "2023-06-12T00:48:22Z",
   "pushed_at": "2023-06-08T21:10:39Z",
   "git_url": "git://github.com/caddyserver/caddy.git",
   "ssh_url": "git@github.com:caddyserver/caddy.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/caddyserver/caddy",
   "homepage": "https://caddyserver.com",
   "size": 17089,
-  "stargazers_count": 47670,
-  "watchers_count": 47670,
+  "stargazers_count": 47680,
+  "watchers_count": 47680,
   "language": "Go",
   "has_issues": true,
   "has_projects": false,
@@ -118,7 +118,7 @@
   "visibility": "public",
   "forks": 3658,
   "open_issues": 82,
-  "watchers": 47670,
+  "watchers": 47680,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 451
+  "_index": 452
 }
