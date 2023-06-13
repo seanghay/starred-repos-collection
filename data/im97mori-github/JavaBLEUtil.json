@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/im97mori-github/JavaBLEUtil/deployments",
   "created_at": "2020-02-21T07:21:15Z",
   "updated_at": "2022-01-08T04:29:13Z",
-  "pushed_at": "2022-03-13T06:53:29Z",
+  "pushed_at": "2023-06-12T09:51:06Z",
   "git_url": "git://github.com/im97mori-github/JavaBLEUtil.git",
   "ssh_url": "git@github.com:im97mori-github/JavaBLEUtil.git",
   "clone_url": "https://github.com/im97mori-github/JavaBLEUtil.git",
   "svn_url": "https://github.com/im97mori-github/JavaBLEUtil",
   "homepage": "",
-  "size": 3595,
+  "size": 2754,
   "stargazers_count": 1,
   "watchers_count": 1,
   "language": "Java",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1224
+  "_index": 1226
 }

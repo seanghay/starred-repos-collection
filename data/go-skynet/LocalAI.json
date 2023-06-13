@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/go-skynet/LocalAI/releases{/id}",
   "deployments_url": "https://api.github.com/repos/go-skynet/LocalAI/deployments",
   "created_at": "2023-03-18T22:58:02Z",
-  "updated_at": "2023-06-12T02:18:16Z",
-  "pushed_at": "2023-06-11T22:25:50Z",
+  "updated_at": "2023-06-13T01:32:40Z",
+  "pushed_at": "2023-06-13T00:39:31Z",
   "git_url": "git://github.com/go-skynet/LocalAI.git",
   "ssh_url": "git@github.com:go-skynet/LocalAI.git",
   "clone_url": "https://github.com/go-skynet/LocalAI.git",
   "svn_url": "https://github.com/go-skynet/LocalAI",
   "homepage": "https://localai.io",
-  "size": 685,
-  "stargazers_count": 6625,
-  "watchers_count": 6625,
+  "size": 686,
+  "stargazers_count": 6684,
+  "watchers_count": 6684,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 640,
+  "forks_count": 644,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 69,
+  "open_issues_count": 73,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -116,9 +116,9 @@
     "vicuna"
   ],
   "visibility": "public",
-  "forks": 640,
-  "open_issues": 69,
-  "watchers": 6625,
+  "forks": 644,
+  "open_issues": 73,
+  "watchers": 6684,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 129
+  "_index": 131
 }

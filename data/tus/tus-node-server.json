@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/tus/tus-node-server/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tus/tus-node-server/deployments",
   "created_at": "2015-10-08T16:23:03Z",
-  "updated_at": "2023-06-09T09:35:18Z",
-  "pushed_at": "2023-06-07T21:40:58Z",
+  "updated_at": "2023-06-12T13:55:41Z",
+  "pushed_at": "2023-06-12T12:25:37Z",
   "git_url": "git://github.com/tus/tus-node-server.git",
   "ssh_url": "git@github.com:tus/tus-node-server.git",
   "clone_url": "https://github.com/tus/tus-node-server.git",
   "svn_url": "https://github.com/tus/tus-node-server",
   "homepage": "https://tus.io/",
   "size": 38412,
-  "stargazers_count": 591,
-  "watchers_count": 591,
+  "stargazers_count": 593,
+  "watchers_count": 593,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 176,
+  "forks_count": 177,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 27,
+  "open_issues_count": 28,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,9 +103,9 @@
     "upload-server"
   ],
   "visibility": "public",
-  "forks": 176,
-  "open_issues": 27,
-  "watchers": 591,
+  "forks": 177,
+  "open_issues": 28,
+  "watchers": 593,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1433
+  "_index": 1435
 }

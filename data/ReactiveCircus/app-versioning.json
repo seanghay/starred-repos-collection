@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ReactiveCircus/app-versioning/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ReactiveCircus/app-versioning/deployments",
   "created_at": "2020-04-16T12:46:29Z",
-  "updated_at": "2023-06-09T08:11:32Z",
+  "updated_at": "2023-06-12T14:40:10Z",
   "pushed_at": "2023-06-08T00:47:25Z",
   "git_url": "git://github.com/ReactiveCircus/app-versioning.git",
   "ssh_url": "git@github.com:ReactiveCircus/app-versioning.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ReactiveCircus/app-versioning",
   "homepage": "",
   "size": 638,
-  "stargazers_count": 163,
-  "watchers_count": 163,
+  "stargazers_count": 164,
+  "watchers_count": 164,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 3,
   "open_issues": 3,
-  "watchers": 163,
+  "watchers": 164,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1136
+  "_index": 1138
 }

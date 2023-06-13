@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/frontarm/navi/deployments",
   "created_at": "2016-09-24T07:44:26Z",
   "updated_at": "2023-05-31T05:35:01Z",
-  "pushed_at": "2022-08-03T03:47:23Z",
+  "pushed_at": "2023-06-12T04:07:17Z",
   "git_url": "git://github.com/frontarm/navi.git",
   "ssh_url": "git@github.com:frontarm/navi.git",
   "clone_url": "https://github.com/frontarm/navi.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2590
+  "_index": 2592
 }

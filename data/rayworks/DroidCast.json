@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/rayworks/DroidCast.git",
   "svn_url": "https://github.com/rayworks/DroidCast",
   "homepage": "http://www.jianshu.com/p/791a3ed2a348",
-  "size": 9943,
+  "size": 9947,
   "stargazers_count": 145,
   "watchers_count": 145,
   "language": "Java",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2117
+  "_index": 2119
 }

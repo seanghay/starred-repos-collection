@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/cloneofsimo/lora/releases{/id}",
   "deployments_url": "https://api.github.com/repos/cloneofsimo/lora/deployments",
   "created_at": "2022-12-08T00:09:05Z",
-  "updated_at": "2023-06-12T02:05:51Z",
+  "updated_at": "2023-06-13T01:49:32Z",
   "pushed_at": "2023-05-09T09:57:38Z",
   "git_url": "git://github.com/cloneofsimo/lora.git",
   "ssh_url": "git@github.com:cloneofsimo/lora.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/cloneofsimo/lora",
   "homepage": "https://arxiv.org/abs/2106.09685",
   "size": 185911,
-  "stargazers_count": 4883,
-  "watchers_count": 4883,
+  "stargazers_count": 4895,
+  "watchers_count": 4895,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 333,
+  "forks_count": 334,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 70,
+  "open_issues_count": 71,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -105,9 +105,9 @@
     "stable-diffusion"
   ],
   "visibility": "public",
-  "forks": 333,
-  "open_issues": 70,
-  "watchers": 4883,
+  "forks": 334,
+  "open_issues": 71,
+  "watchers": 4895,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 173
+  "_index": 175
 }
