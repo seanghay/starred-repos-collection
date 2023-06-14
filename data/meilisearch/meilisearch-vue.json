@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/meilisearch/meilisearch-vue/deployments",
   "created_at": "2020-07-07T15:22:41Z",
   "updated_at": "2023-06-02T14:35:34Z",
-  "pushed_at": "2023-06-01T16:32:11Z",
+  "pushed_at": "2023-06-13T10:18:36Z",
   "git_url": "git://github.com/meilisearch/meilisearch-vue.git",
   "ssh_url": "git@github.com:meilisearch/meilisearch-vue.git",
   "clone_url": "https://github.com/meilisearch/meilisearch-vue.git",
   "svn_url": "https://github.com/meilisearch/meilisearch-vue",
   "homepage": "https://www.meilisearch.com/",
-  "size": 16026,
+  "size": 15882,
   "stargazers_count": 131,
   "watchers_count": 131,
   "language": null,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 6,
+  "open_issues_count": 5,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,7 +105,7 @@
   ],
   "visibility": "public",
   "forks": 10,
-  "open_issues": 6,
+  "open_issues": 5,
   "watchers": 131,
   "default_branch": "main",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 923
+  "_index": 930
 }

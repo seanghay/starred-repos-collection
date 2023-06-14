@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mozilla/DSAlign/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mozilla/DSAlign/deployments",
   "created_at": "2019-06-20T14:31:02Z",
-  "updated_at": "2023-06-02T07:09:20Z",
+  "updated_at": "2023-06-13T09:41:52Z",
   "pushed_at": "2020-12-12T08:45:52Z",
   "git_url": "git://github.com/mozilla/DSAlign.git",
   "ssh_url": "git@github.com:mozilla/DSAlign.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mozilla/DSAlign",
   "homepage": null,
   "size": 234,
-  "stargazers_count": 218,
-  "watchers_count": 218,
+  "stargazers_count": 219,
+  "watchers_count": 219,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 33,
   "open_issues": 8,
-  "watchers": 218,
+  "watchers": 219,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 124
+  "_index": 131
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/CompVis/latent-diffusion/releases{/id}",
   "deployments_url": "https://api.github.com/repos/CompVis/latent-diffusion/deployments",
   "created_at": "2021-12-20T16:56:18Z",
-  "updated_at": "2023-06-13T02:05:15Z",
-  "pushed_at": "2023-06-11T08:38:24Z",
+  "updated_at": "2023-06-14T01:31:13Z",
+  "pushed_at": "2023-06-13T11:57:43Z",
   "git_url": "git://github.com/CompVis/latent-diffusion.git",
   "ssh_url": "git@github.com:CompVis/latent-diffusion.git",
   "clone_url": "https://github.com/CompVis/latent-diffusion.git",
   "svn_url": "https://github.com/CompVis/latent-diffusion",
   "homepage": null,
   "size": 29378,
-  "stargazers_count": 7836,
-  "watchers_count": 7836,
+  "stargazers_count": 7852,
+  "watchers_count": 7852,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1054,
+  "forks_count": 1058,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 1054,
+  "forks": 1058,
   "open_issues": 218,
-  "watchers": 7836,
+  "watchers": 7852,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 411
+  "_index": 418
 }

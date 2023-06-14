@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/winstonjs/winston/releases{/id}",
   "deployments_url": "https://api.github.com/repos/winstonjs/winston/deployments",
   "created_at": "2010-12-29T18:49:51Z",
-  "updated_at": "2023-06-12T22:33:39Z",
+  "updated_at": "2023-06-14T01:11:01Z",
   "pushed_at": "2023-06-12T19:57:49Z",
   "git_url": "git://github.com/winstonjs/winston.git",
   "ssh_url": "git@github.com:winstonjs/winston.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/winstonjs/winston",
   "homepage": "http://github.com/winstonjs/winston",
   "size": 4092,
-  "stargazers_count": 20621,
-  "watchers_count": 20621,
+  "stargazers_count": 20632,
+  "watchers_count": 20632,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 1765,
   "open_issues": 469,
-  "watchers": 20621,
+  "watchers": 20632,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2759
+  "_index": 2766
 }

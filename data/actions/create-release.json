@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/actions/create-release/releases{/id}",
   "deployments_url": "https://api.github.com/repos/actions/create-release/deployments",
   "created_at": "2019-09-12T22:06:28Z",
-  "updated_at": "2023-06-06T10:12:37Z",
+  "updated_at": "2023-06-13T21:34:17Z",
   "pushed_at": "2021-03-03T19:02:36Z",
   "git_url": "git://github.com/actions/create-release.git",
   "ssh_url": "git@github.com:actions/create-release.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/actions/create-release",
   "homepage": "",
   "size": 463,
-  "stargazers_count": 1236,
-  "watchers_count": 1236,
+  "stargazers_count": 1237,
+  "watchers_count": 1237,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 264,
+  "forks_count": 265,
   "mirror_url": null,
   "archived": true,
   "disabled": false,
@@ -105,9 +105,9 @@
     "release-automation"
   ],
   "visibility": "public",
-  "forks": 264,
+  "forks": 265,
   "open_issues": 56,
-  "watchers": 1236,
+  "watchers": 1237,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1470
+  "_index": 1477
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Cleveroad/BlurTutorial/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Cleveroad/BlurTutorial/deployments",
   "created_at": "2019-10-03T06:52:00Z",
-  "updated_at": "2023-06-03T16:45:21Z",
+  "updated_at": "2023-06-13T08:40:30Z",
   "pushed_at": "2020-03-10T09:19:54Z",
   "git_url": "git://github.com/Cleveroad/BlurTutorial.git",
   "ssh_url": "git@github.com:Cleveroad/BlurTutorial.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Cleveroad/BlurTutorial",
   "homepage": "https://www.cleveroad.com/",
   "size": 6397,
-  "stargazers_count": 151,
-  "watchers_count": 151,
+  "stargazers_count": 150,
+  "watchers_count": 150,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 19,
   "open_issues": 4,
-  "watchers": 151,
+  "watchers": 150,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1784
+  "_index": 1791
 }

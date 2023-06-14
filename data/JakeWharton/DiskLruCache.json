@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/JakeWharton/DiskLruCache/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JakeWharton/DiskLruCache/deployments",
   "created_at": "2012-01-05T00:36:34Z",
-  "updated_at": "2023-06-09T16:35:14Z",
+  "updated_at": "2023-06-13T17:14:43Z",
   "pushed_at": "2020-03-02T13:54:37Z",
   "git_url": "git://github.com/JakeWharton/DiskLruCache.git",
   "ssh_url": "git@github.com:JakeWharton/DiskLruCache.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1284
+  "_index": 1291
 }

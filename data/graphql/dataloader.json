@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/graphql/dataloader/releases{/id}",
   "deployments_url": "https://api.github.com/repos/graphql/dataloader/deployments",
   "created_at": "2015-09-10T10:05:23Z",
-  "updated_at": "2023-06-13T00:54:54Z",
+  "updated_at": "2023-06-14T00:29:22Z",
   "pushed_at": "2023-06-09T20:07:20Z",
   "git_url": "git://github.com/graphql/dataloader.git",
   "ssh_url": "git@github.com:graphql/dataloader.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/graphql/dataloader",
   "homepage": null,
   "size": 693,
-  "stargazers_count": 12216,
-  "watchers_count": 12216,
+  "stargazers_count": 12223,
+  "watchers_count": 12223,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 538,
+  "forks_count": 539,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "nodejs"
   ],
   "visibility": "public",
-  "forks": 538,
+  "forks": 539,
   "open_issues": 31,
-  "watchers": 12216,
+  "watchers": 12223,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1483
+  "_index": 1490
 }

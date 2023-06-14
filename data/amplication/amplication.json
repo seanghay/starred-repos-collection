@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/amplication/amplication",
-  "description": "Auto-generating TypeScript, GraphQL, REST API, and Node.js, accelerating your full-stack development 🚀",
+  "description": "Amplication is a flexible open-source Node.js app development platform. It helps you build production-ready Node.js backend without wasting time on repetitive coding.",
   "fork": false,
   "url": "https://api.github.com/repos/amplication/amplication",
   "forks_url": "https://api.github.com/repos/amplication/amplication/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/amplication/amplication/releases{/id}",
   "deployments_url": "https://api.github.com/repos/amplication/amplication/deployments",
   "created_at": "2020-05-10T19:41:49Z",
-  "updated_at": "2023-06-12T21:57:26Z",
-  "pushed_at": "2023-06-12T19:04:15Z",
+  "updated_at": "2023-06-13T21:39:03Z",
+  "pushed_at": "2023-06-13T18:31:24Z",
   "git_url": "git://github.com/amplication/amplication.git",
   "ssh_url": "git@github.com:amplication/amplication.git",
   "clone_url": "https://github.com/amplication/amplication.git",
   "svn_url": "https://github.com/amplication/amplication",
   "homepage": "https://amplication.com",
-  "size": 319510,
-  "stargazers_count": 9995,
-  "watchers_count": 9995,
+  "size": 320649,
+  "stargazers_count": 10008,
+  "watchers_count": 10008,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 923,
+  "forks_count": 932,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 446,
+  "open_issues_count": 439,
   "license": {
     "key": "other",
     "name": "Other",
@@ -111,9 +111,9 @@
     "web"
   ],
   "visibility": "public",
-  "forks": 923,
-  "open_issues": 446,
-  "watchers": 9995,
+  "forks": 932,
+  "open_issues": 439,
+  "watchers": 10008,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 597
+  "_index": 604
 }

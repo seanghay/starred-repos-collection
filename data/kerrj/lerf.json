@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kerrj/lerf/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kerrj/lerf/deployments",
   "created_at": "2023-04-04T16:33:36Z",
-  "updated_at": "2023-06-12T22:01:00Z",
+  "updated_at": "2023-06-14T02:00:58Z",
   "pushed_at": "2023-05-31T07:25:48Z",
   "git_url": "git://github.com/kerrj/lerf.git",
   "ssh_url": "git@github.com:kerrj/lerf.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/kerrj/lerf",
   "homepage": "https://www.lerf.io/",
   "size": 646,
-  "stargazers_count": 307,
-  "watchers_count": 307,
+  "stargazers_count": 311,
+  "watchers_count": 311,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 21,
   "open_issues": 10,
-  "watchers": 307,
+  "watchers": 311,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 87
+  "_index": 94
 }

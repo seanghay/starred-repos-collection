@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/binwiederhier/ntfy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/binwiederhier/ntfy/deployments",
   "created_at": "2021-10-23T19:25:32Z",
-  "updated_at": "2023-06-13T01:11:46Z",
-  "pushed_at": "2023-06-13T01:13:12Z",
+  "updated_at": "2023-06-13T20:59:03Z",
+  "pushed_at": "2023-06-14T02:03:18Z",
   "git_url": "git://github.com/binwiederhier/ntfy.git",
   "ssh_url": "git@github.com:binwiederhier/ntfy.git",
   "clone_url": "https://github.com/binwiederhier/ntfy.git",
   "svn_url": "https://github.com/binwiederhier/ntfy",
   "homepage": "https://ntfy.sh",
-  "size": 30357,
-  "stargazers_count": 10801,
-  "watchers_count": 10801,
+  "size": 30362,
+  "stargazers_count": 10806,
+  "watchers_count": 10806,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 360,
+  "forks_count": 359,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "rest-api"
   ],
   "visibility": "public",
-  "forks": 360,
+  "forks": 359,
   "open_issues": 115,
-  "watchers": 10801,
+  "watchers": 10806,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 441
+  "_index": 448
 }

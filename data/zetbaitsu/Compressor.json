@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/zetbaitsu/Compressor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/zetbaitsu/Compressor/deployments",
   "created_at": "2016-06-18T13:54:59Z",
-  "updated_at": "2023-06-12T18:39:28Z",
+  "updated_at": "2023-06-13T20:07:36Z",
   "pushed_at": "2022-08-25T12:06:12Z",
   "git_url": "git://github.com/zetbaitsu/Compressor.git",
   "ssh_url": "git@github.com:zetbaitsu/Compressor.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/zetbaitsu/Compressor",
   "homepage": "",
   "size": 900,
-  "stargazers_count": 6823,
-  "watchers_count": 6823,
+  "stargazers_count": 6822,
+  "watchers_count": 6822,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 951,
   "open_issues": 131,
-  "watchers": 6823,
+  "watchers": 6822,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2553
+  "_index": 2560
 }

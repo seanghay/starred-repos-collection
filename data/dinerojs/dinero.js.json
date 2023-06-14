@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/dinerojs/dinero.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/dinerojs/dinero.js/deployments",
   "created_at": "2018-03-10T23:56:04Z",
-  "updated_at": "2023-06-12T17:45:40Z",
+  "updated_at": "2023-06-13T04:48:35Z",
   "pushed_at": "2023-06-08T19:14:35Z",
   "git_url": "git://github.com/dinerojs/dinero.js.git",
   "ssh_url": "git@github.com:dinerojs/dinero.js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/dinerojs/dinero.js",
   "homepage": "https://v2.dinerojs.com/docs",
   "size": 7020,
-  "stargazers_count": 5953,
-  "watchers_count": 5953,
+  "stargazers_count": 5955,
+  "watchers_count": 5955,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 195,
+  "forks_count": 196,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 195,
+  "forks": 196,
   "open_issues": 17,
-  "watchers": 5953,
+  "watchers": 5955,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 727
+  "_index": 734
 }
