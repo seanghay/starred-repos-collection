@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/skylot/jadx/releases{/id}",
   "deployments_url": "https://api.github.com/repos/skylot/jadx/deployments",
   "created_at": "2013-03-18T17:08:21Z",
-  "updated_at": "2023-06-14T00:00:01Z",
-  "pushed_at": "2023-06-13T20:48:38Z",
+  "updated_at": "2023-06-15T01:45:23Z",
+  "pushed_at": "2023-06-14T08:44:33Z",
   "git_url": "git://github.com/skylot/jadx.git",
   "ssh_url": "git@github.com:skylot/jadx.git",
   "clone_url": "https://github.com/skylot/jadx.git",
   "svn_url": "https://github.com/skylot/jadx",
   "homepage": "",
-  "size": 19369,
-  "stargazers_count": 34864,
-  "watchers_count": 34864,
+  "size": 19371,
+  "stargazers_count": 34880,
+  "watchers_count": 34880,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 322,
+  "open_issues_count": 323,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 4317,
-  "open_issues": 322,
-  "watchers": 34864,
+  "open_issues": 323,
+  "watchers": 34880,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 731
+  "_index": 737
 }

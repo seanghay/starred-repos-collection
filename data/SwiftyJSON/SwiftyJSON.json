@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/SwiftyJSON/SwiftyJSON/releases{/id}",
   "deployments_url": "https://api.github.com/repos/SwiftyJSON/SwiftyJSON/deployments",
   "created_at": "2014-06-18T14:41:15Z",
-  "updated_at": "2023-06-13T18:01:11Z",
+  "updated_at": "2023-06-14T20:39:44Z",
   "pushed_at": "2023-04-06T12:37:50Z",
   "git_url": "git://github.com/SwiftyJSON/SwiftyJSON.git",
   "ssh_url": "git@github.com:SwiftyJSON/SwiftyJSON.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/SwiftyJSON/SwiftyJSON",
   "homepage": "",
   "size": 1116,
-  "stargazers_count": 21975,
-  "watchers_count": 21975,
+  "stargazers_count": 21977,
+  "watchers_count": 21977,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3405,
+  "forks_count": 3407,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -112,9 +112,9 @@
     "xcode10"
   ],
   "visibility": "public",
-  "forks": 3405,
+  "forks": 3407,
   "open_issues": 129,
-  "watchers": 21975,
+  "watchers": 21977,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2005
+  "_index": 2011
 }

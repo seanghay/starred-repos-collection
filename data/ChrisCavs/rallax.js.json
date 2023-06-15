@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ChrisCavs/rallax.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ChrisCavs/rallax.js/deployments",
   "created_at": "2018-12-02T21:37:03Z",
-  "updated_at": "2023-06-04T19:31:45Z",
+  "updated_at": "2023-06-14T13:51:39Z",
   "pushed_at": "2019-06-12T17:26:08Z",
   "git_url": "git://github.com/ChrisCavs/rallax.js.git",
   "ssh_url": "git@github.com:ChrisCavs/rallax.js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ChrisCavs/rallax.js",
   "homepage": "https://chriscavs.github.io/rallax-demo/",
   "size": 3869,
-  "stargazers_count": 1468,
-  "watchers_count": 1468,
+  "stargazers_count": 1469,
+  "watchers_count": 1469,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 52,
   "open_issues": 4,
-  "watchers": 1468,
+  "watchers": 1469,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2597
+  "_index": 2603
 }

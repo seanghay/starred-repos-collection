@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jakehilborn/displayplacer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jakehilborn/displayplacer/deployments",
   "created_at": "2015-06-01T07:45:38Z",
-  "updated_at": "2023-06-13T09:34:21Z",
+  "updated_at": "2023-06-14T19:51:11Z",
   "pushed_at": "2023-06-11T21:23:00Z",
   "git_url": "git://github.com/jakehilborn/displayplacer.git",
   "ssh_url": "git@github.com:jakehilborn/displayplacer.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1493
+  "_index": 1499
 }

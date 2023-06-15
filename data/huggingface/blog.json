@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/huggingface/blog/releases{/id}",
   "deployments_url": "https://api.github.com/repos/huggingface/blog/deployments",
   "created_at": "2020-02-14T15:39:05Z",
-  "updated_at": "2023-06-13T20:44:38Z",
-  "pushed_at": "2023-06-13T21:17:34Z",
+  "updated_at": "2023-06-15T00:18:52Z",
+  "pushed_at": "2023-06-14T19:28:15Z",
   "git_url": "git://github.com/huggingface/blog.git",
   "ssh_url": "git@github.com:huggingface/blog.git",
   "clone_url": "https://github.com/huggingface/blog.git",
   "svn_url": "https://github.com/huggingface/blog",
   "homepage": "https://hf.co/blog",
-  "size": 398704,
-  "stargazers_count": 1099,
-  "watchers_count": 1099,
+  "size": 398653,
+  "stargazers_count": 1110,
+  "watchers_count": 1110,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 389,
+  "forks_count": 391,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -95,9 +95,9 @@
     "hacktoberfest"
   ],
   "visibility": "public",
-  "forks": 389,
+  "forks": 391,
   "open_issues": 129,
-  "watchers": 1099,
+  "watchers": 1110,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -106,5 +106,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 107
+  "_index": 113
 }

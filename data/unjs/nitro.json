@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/unjs/nitro/releases{/id}",
   "deployments_url": "https://api.github.com/repos/unjs/nitro/deployments",
   "created_at": "2022-01-26T12:37:12Z",
-  "updated_at": "2023-06-14T01:41:59Z",
-  "pushed_at": "2023-06-14T01:02:10Z",
+  "updated_at": "2023-06-15T01:28:54Z",
+  "pushed_at": "2023-06-14T18:37:44Z",
   "git_url": "git://github.com/unjs/nitro.git",
   "ssh_url": "git@github.com:unjs/nitro.git",
   "clone_url": "https://github.com/unjs/nitro.git",
   "svn_url": "https://github.com/unjs/nitro",
   "homepage": "https://nitro.unjs.io",
-  "size": 10797,
-  "stargazers_count": 2109,
-  "watchers_count": 2109,
+  "size": 10813,
+  "stargazers_count": 2119,
+  "watchers_count": 2119,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 246,
   "open_issues": 288,
-  "watchers": 2109,
+  "watchers": 2119,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 808
+  "_index": 814
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/bkaradzic/bgfx/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bkaradzic/bgfx/deployments",
   "created_at": "2012-04-04T03:39:04Z",
-  "updated_at": "2023-06-13T14:36:18Z",
+  "updated_at": "2023-06-14T21:01:08Z",
   "pushed_at": "2023-06-14T01:27:34Z",
   "git_url": "git://github.com/bkaradzic/bgfx.git",
   "ssh_url": "git@github.com:bkaradzic/bgfx.git",
   "clone_url": "https://github.com/bkaradzic/bgfx.git",
   "svn_url": "https://github.com/bkaradzic/bgfx",
   "homepage": "https://bkaradzic.github.io/bgfx/overview.html",
-  "size": 270661,
-  "stargazers_count": 13083,
-  "watchers_count": 13083,
+  "size": 270666,
+  "stargazers_count": 13087,
+  "watchers_count": 13087,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -122,7 +122,7 @@
   "visibility": "public",
   "forks": 1805,
   "open_issues": 286,
-  "watchers": 13083,
+  "watchers": 13087,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1107
+  "_index": 1113
 }

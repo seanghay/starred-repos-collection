@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/oneHamidreza/MeowBottomNavigation/releases{/id}",
   "deployments_url": "https://api.github.com/repos/oneHamidreza/MeowBottomNavigation/deployments",
   "created_at": "2019-02-10T09:11:55Z",
-  "updated_at": "2023-06-13T05:05:05Z",
+  "updated_at": "2023-06-14T14:47:14Z",
   "pushed_at": "2022-02-22T05:00:16Z",
   "git_url": "git://github.com/oneHamidreza/MeowBottomNavigation.git",
   "ssh_url": "git@github.com:oneHamidreza/MeowBottomNavigation.git",
@@ -111,5 +111,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2378
+  "_index": 2384
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/linkedin/LiTr/releases{/id}",
   "deployments_url": "https://api.github.com/repos/linkedin/LiTr/deployments",
   "created_at": "2019-10-17T18:29:23Z",
-  "updated_at": "2023-06-06T11:04:47Z",
+  "updated_at": "2023-06-14T09:24:51Z",
   "pushed_at": "2023-05-13T08:23:47Z",
   "git_url": "git://github.com/linkedin/LiTr.git",
   "ssh_url": "git@github.com:linkedin/LiTr.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/linkedin/LiTr",
   "homepage": "",
   "size": 3498,
-  "stargazers_count": 532,
-  "watchers_count": 532,
+  "stargazers_count": 533,
+  "watchers_count": 533,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 78,
+  "forks_count": 79,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 78,
+  "forks": 79,
   "open_issues": 44,
-  "watchers": 532,
+  "watchers": 533,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1847
+  "_index": 1853
 }

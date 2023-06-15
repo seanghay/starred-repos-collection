@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tbruyelle/RxPermissions/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tbruyelle/RxPermissions/deployments",
   "created_at": "2015-09-29T13:55:09Z",
-  "updated_at": "2023-06-12T15:45:18Z",
+  "updated_at": "2023-06-14T03:38:47Z",
   "pushed_at": "2022-05-11T09:47:47Z",
   "git_url": "git://github.com/tbruyelle/RxPermissions.git",
   "ssh_url": "git@github.com:tbruyelle/RxPermissions.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/tbruyelle/RxPermissions",
   "homepage": "",
   "size": 587,
-  "stargazers_count": 10437,
-  "watchers_count": 10437,
+  "stargazers_count": 10436,
+  "watchers_count": 10436,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 1316,
   "open_issues": 100,
-  "watchers": 10437,
+  "watchers": 10436,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2684
+  "_index": 2690
 }

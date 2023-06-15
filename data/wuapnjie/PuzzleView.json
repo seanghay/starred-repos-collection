@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wuapnjie/PuzzleView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wuapnjie/PuzzleView/deployments",
   "created_at": "2016-08-19T08:41:57Z",
-  "updated_at": "2023-06-10T23:47:31Z",
+  "updated_at": "2023-06-14T07:46:00Z",
   "pushed_at": "2017-12-19T09:11:26Z",
   "git_url": "git://github.com/wuapnjie/PuzzleView.git",
   "ssh_url": "git@github.com:wuapnjie/PuzzleView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wuapnjie/PuzzleView",
   "homepage": "",
   "size": 22815,
-  "stargazers_count": 806,
-  "watchers_count": 806,
+  "stargazers_count": 807,
+  "watchers_count": 807,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 178,
   "open_issues": 9,
-  "watchers": 806,
+  "watchers": 807,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2095
+  "_index": 2101
 }

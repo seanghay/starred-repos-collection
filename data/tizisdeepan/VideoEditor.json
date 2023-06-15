@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tizisdeepan/VideoEditor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tizisdeepan/VideoEditor/deployments",
   "created_at": "2019-04-16T12:07:52Z",
-  "updated_at": "2023-05-25T07:49:54Z",
+  "updated_at": "2023-06-14T06:24:34Z",
   "pushed_at": "2019-08-22T13:28:32Z",
   "git_url": "git://github.com/tizisdeepan/VideoEditor.git",
   "ssh_url": "git@github.com:tizisdeepan/VideoEditor.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/tizisdeepan/VideoEditor",
   "homepage": "",
   "size": 7424,
-  "stargazers_count": 160,
-  "watchers_count": 160,
+  "stargazers_count": 161,
+  "watchers_count": 161,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 51,
   "open_issues": 5,
-  "watchers": 160,
+  "watchers": 161,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1529
+  "_index": 1535
 }

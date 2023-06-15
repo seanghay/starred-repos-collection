@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/nestjs/nest",
-  "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀",
+  "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀",
   "fork": false,
   "url": "https://api.github.com/repos/nestjs/nest",
   "forks_url": "https://api.github.com/repos/nestjs/nest/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/nestjs/nest/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nestjs/nest/deployments",
   "created_at": "2017-02-04T20:12:52Z",
-  "updated_at": "2023-06-14T01:45:50Z",
-  "pushed_at": "2023-06-14T01:26:50Z",
+  "updated_at": "2023-06-15T02:06:09Z",
+  "pushed_at": "2023-06-15T00:57:58Z",
   "git_url": "git://github.com/nestjs/nest.git",
   "ssh_url": "git@github.com:nestjs/nest.git",
   "clone_url": "https://github.com/nestjs/nest.git",
   "svn_url": "https://github.com/nestjs/nest",
   "homepage": "https://nestjs.com",
-  "size": 298305,
-  "stargazers_count": 57348,
-  "watchers_count": 57348,
+  "size": 297795,
+  "stargazers_count": 57382,
+  "watchers_count": 57382,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 6938,
+  "forks_count": 6939,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 75,
+  "open_issues_count": 62,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -113,9 +113,9 @@
     "websockets"
   ],
   "visibility": "public",
-  "forks": 6938,
-  "open_issues": 75,
-  "watchers": 57348,
+  "forks": 6939,
+  "open_issues": 62,
+  "watchers": 57382,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2707
+  "_index": 2713
 }

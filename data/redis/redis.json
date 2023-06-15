@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/redis/redis/releases{/id}",
   "deployments_url": "https://api.github.com/repos/redis/redis/deployments",
   "created_at": "2009-03-21T22:32:25Z",
-  "updated_at": "2023-06-14T01:06:19Z",
-  "pushed_at": "2023-06-14T01:15:40Z",
+  "updated_at": "2023-06-14T18:25:08Z",
+  "pushed_at": "2023-06-14T18:21:31Z",
   "git_url": "git://github.com/redis/redis.git",
   "ssh_url": "git@github.com:redis/redis.git",
   "clone_url": "https://github.com/redis/redis.git",
   "svn_url": "https://github.com/redis/redis",
   "homepage": "http://redis.io",
-  "size": 132987,
-  "stargazers_count": 60223,
-  "watchers_count": 60223,
+  "size": 133026,
+  "stargazers_count": 60235,
+  "watchers_count": 60235,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 22606,
+  "forks_count": 22603,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2432,
+  "open_issues_count": 2434,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -106,9 +106,9 @@
     "redis"
   ],
   "visibility": "public",
-  "forks": 22606,
-  "open_issues": 2432,
-  "watchers": 60223,
+  "forks": 22603,
+  "open_issues": 2434,
+  "watchers": 60235,
   "default_branch": "unstable",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2263
+  "_index": 2269
 }

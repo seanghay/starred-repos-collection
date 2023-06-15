@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 6,
+  "forks_count": 7,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 7,
+  "open_issues_count": 8,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,8 +104,8 @@
     "tauri"
   ],
   "visibility": "public",
-  "forks": 6,
-  "open_issues": 7,
+  "forks": 7,
+  "open_issues": 8,
   "watchers": 257,
   "default_branch": "main",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 45
+  "_index": 51
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/NVIDIA/DeepLearningExamples/releases{/id}",
   "deployments_url": "https://api.github.com/repos/NVIDIA/DeepLearningExamples/deployments",
   "created_at": "2018-05-02T17:04:05Z",
-  "updated_at": "2023-06-13T19:28:13Z",
+  "updated_at": "2023-06-15T00:38:45Z",
   "pushed_at": "2023-06-02T09:10:44Z",
   "git_url": "git://github.com/NVIDIA/DeepLearningExamples.git",
   "ssh_url": "git@github.com:NVIDIA/DeepLearningExamples.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/NVIDIA/DeepLearningExamples",
   "homepage": "",
   "size": 109179,
-  "stargazers_count": 11074,
-  "watchers_count": 11074,
+  "stargazers_count": 11085,
+  "watchers_count": 11085,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2847,
+  "forks_count": 2849,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,9 +109,9 @@
     "translation"
   ],
   "visibility": "public",
-  "forks": 2847,
+  "forks": 2849,
   "open_issues": 240,
-  "watchers": 11074,
+  "watchers": 11085,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 197
+  "_index": 203
 }

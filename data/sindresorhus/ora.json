@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/ora/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/ora/deployments",
   "created_at": "2016-03-03T18:17:16Z",
-  "updated_at": "2023-06-14T01:30:34Z",
+  "updated_at": "2023-06-14T15:42:12Z",
   "pushed_at": "2023-05-15T08:14:57Z",
   "git_url": "git://github.com/sindresorhus/ora.git",
   "ssh_url": "git@github.com:sindresorhus/ora.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sindresorhus/ora",
   "homepage": null,
   "size": 696,
-  "stargazers_count": 8440,
-  "watchers_count": 8440,
+  "stargazers_count": 8442,
+  "watchers_count": 8442,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 15,
+  "open_issues_count": 16,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 300,
-  "open_issues": 15,
-  "watchers": 8440,
+  "open_issues": 16,
+  "watchers": 8442,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 695
+  "_index": 701
 }

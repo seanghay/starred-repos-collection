@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/ImMattDavison/NoMoreDomains/deployments",
   "created_at": "2022-09-21T14:33:41Z",
   "updated_at": "2023-05-16T05:57:52Z",
-  "pushed_at": "2023-02-08T19:17:38Z",
+  "pushed_at": "2023-06-14T12:55:50Z",
   "git_url": "git://github.com/ImMattDavison/NoMoreDomains.git",
   "ssh_url": "git@github.com:ImMattDavison/NoMoreDomains.git",
   "clone_url": "https://github.com/ImMattDavison/NoMoreDomains.git",
   "svn_url": "https://github.com/ImMattDavison/NoMoreDomains",
   "homepage": "https://chrome.google.com/webstore/detail/no-more-domains/hogoomjmkoljjohkheopfinecmfnckme",
-  "size": 1071,
+  "size": 1072,
   "stargazers_count": 67,
   "watchers_count": 67,
   "language": "JavaScript",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 511
+  "_index": 517
 }

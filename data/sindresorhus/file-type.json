@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/file-type/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/file-type/deployments",
   "created_at": "2014-04-24T10:58:09Z",
-  "updated_at": "2023-06-13T10:49:30Z",
+  "updated_at": "2023-06-14T15:44:12Z",
   "pushed_at": "2023-06-04T08:01:59Z",
   "git_url": "git://github.com/sindresorhus/file-type.git",
   "ssh_url": "git@github.com:sindresorhus/file-type.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 323,
+  "forks_count": 324,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,7 +109,7 @@
     "uint8array"
   ],
   "visibility": "public",
-  "forks": 323,
+  "forks": 324,
   "open_issues": 15,
   "watchers": 3147,
   "default_branch": "main",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 736
+  "_index": 742
 }

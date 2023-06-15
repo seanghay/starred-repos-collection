@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/googlesamples/easypermissions/releases{/id}",
   "deployments_url": "https://api.github.com/repos/googlesamples/easypermissions/deployments",
   "created_at": "2015-12-22T18:05:53Z",
-  "updated_at": "2023-06-13T08:49:37Z",
+  "updated_at": "2023-06-14T10:03:23Z",
   "pushed_at": "2023-04-24T17:23:54Z",
   "git_url": "git://github.com/googlesamples/easypermissions.git",
   "ssh_url": "git@github.com:googlesamples/easypermissions.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 28,
+  "open_issues_count": 29,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -104,7 +104,7 @@
   ],
   "visibility": "public",
   "forks": 1481,
-  "open_issues": 28,
+  "open_issues": 29,
   "watchers": 9691,
   "default_branch": "master",
   "permissions": {
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1534
+  "_index": 1540
 }
