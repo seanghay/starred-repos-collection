@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/square/picasso/deployments",
   "created_at": "2013-05-14T15:07:47Z",
   "updated_at": "2023-06-14T01:56:47Z",
-  "pushed_at": "2023-06-14T20:15:32Z",
+  "pushed_at": "2023-06-15T20:43:11Z",
   "git_url": "git://github.com/square/picasso.git",
   "ssh_url": "git@github.com:square/picasso.git",
   "clone_url": "https://github.com/square/picasso.git",
   "svn_url": "https://github.com/square/picasso",
   "homepage": "https://square.github.io/picasso/",
-  "size": 5448,
+  "size": 5447,
   "stargazers_count": 18532,
   "watchers_count": 18532,
   "language": "Kotlin",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 766
+  "_index": 770
 }

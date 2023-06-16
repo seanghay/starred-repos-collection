@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jaiobs/OptiVideoEditor-for-android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jaiobs/OptiVideoEditor-for-android/deployments",
   "created_at": "2019-08-06T05:12:40Z",
-  "updated_at": "2023-06-14T10:03:21Z",
+  "updated_at": "2023-06-15T09:35:23Z",
   "pushed_at": "2022-09-07T09:14:48Z",
   "git_url": "git://github.com/jaiobs/OptiVideoEditor-for-android.git",
   "ssh_url": "git@github.com:jaiobs/OptiVideoEditor-for-android.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jaiobs/OptiVideoEditor-for-android",
   "homepage": null,
   "size": 30576,
-  "stargazers_count": 381,
-  "watchers_count": 381,
+  "stargazers_count": 382,
+  "watchers_count": 382,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -114,7 +114,7 @@
   "visibility": "public",
   "forks": 104,
   "open_issues": 9,
-  "watchers": 381,
+  "watchers": 382,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1970
+  "_index": 1974
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/bytecodealliance/wasmtime/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bytecodealliance/wasmtime/deployments",
   "created_at": "2017-08-29T14:01:55Z",
-  "updated_at": "2023-06-14T19:47:36Z",
-  "pushed_at": "2023-06-14T22:21:29Z",
+  "updated_at": "2023-06-15T21:34:41Z",
+  "pushed_at": "2023-06-16T01:50:30Z",
   "git_url": "git://github.com/bytecodealliance/wasmtime.git",
   "ssh_url": "git@github.com:bytecodealliance/wasmtime.git",
   "clone_url": "https://github.com/bytecodealliance/wasmtime.git",
   "svn_url": "https://github.com/bytecodealliance/wasmtime",
   "homepage": "https://wasmtime.dev/",
-  "size": 79866,
-  "stargazers_count": 12437,
-  "watchers_count": 12437,
+  "size": 79918,
+  "stargazers_count": 12449,
+  "watchers_count": 12449,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1012,
+  "forks_count": 1013,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 583,
+  "open_issues_count": 581,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -111,9 +111,9 @@
     "webassembly"
   ],
   "visibility": "public",
-  "forks": 1012,
-  "open_issues": 583,
-  "watchers": 12437,
+  "forks": 1013,
+  "open_issues": 581,
+  "watchers": 12449,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 623
+  "_index": 627
 }

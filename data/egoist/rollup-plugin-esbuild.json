@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/egoist/rollup-plugin-esbuild/deployments",
   "created_at": "2020-05-09T04:06:51Z",
   "updated_at": "2023-06-08T09:27:10Z",
-  "pushed_at": "2023-02-13T13:52:43Z",
+  "pushed_at": "2023-06-15T14:21:58Z",
   "git_url": "git://github.com/egoist/rollup-plugin-esbuild.git",
   "ssh_url": "git@github.com:egoist/rollup-plugin-esbuild.git",
   "clone_url": "https://github.com/egoist/rollup-plugin-esbuild.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 38,
+  "forks_count": 39,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 31,
+  "open_issues_count": 33,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,8 +104,8 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 38,
-  "open_issues": 31,
+  "forks": 39,
+  "open_issues": 33,
   "watchers": 567,
   "default_branch": "dev",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 456
+  "_index": 460
 }

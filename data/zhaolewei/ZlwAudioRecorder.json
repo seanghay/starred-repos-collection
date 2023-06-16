@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/zhaolewei/ZlwAudioRecorder/releases{/id}",
   "deployments_url": "https://api.github.com/repos/zhaolewei/ZlwAudioRecorder/deployments",
   "created_at": "2018-07-04T13:58:13Z",
-  "updated_at": "2023-06-10T08:57:19Z",
+  "updated_at": "2023-06-15T08:40:08Z",
   "pushed_at": "2023-04-21T08:49:06Z",
   "git_url": "git://github.com/zhaolewei/ZlwAudioRecorder.git",
   "ssh_url": "git@github.com:zhaolewei/ZlwAudioRecorder.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/zhaolewei/ZlwAudioRecorder",
   "homepage": "",
   "size": 6714,
-  "stargazers_count": 812,
-  "watchers_count": 812,
+  "stargazers_count": 813,
+  "watchers_count": 813,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 25,
+  "open_issues_count": 26,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 168,
-  "open_issues": 25,
-  "watchers": 812,
+  "open_issues": 26,
+  "watchers": 813,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1863
+  "_index": 1867
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/inertiajs/inertiajs.com/releases{/id}",
   "deployments_url": "https://api.github.com/repos/inertiajs/inertiajs.com/deployments",
   "created_at": "2019-04-23T22:44:55Z",
-  "updated_at": "2023-06-12T17:50:16Z",
+  "updated_at": "2023-06-15T19:11:29Z",
   "pushed_at": "2023-06-13T17:34:26Z",
   "git_url": "git://github.com/inertiajs/inertiajs.com.git",
   "ssh_url": "git@github.com:inertiajs/inertiajs.com.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 65,
+  "forks_count": 66,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -93,7 +93,7 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 65,
+  "forks": 66,
   "open_issues": 77,
   "watchers": 94,
   "default_branch": "master",
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 796
+  "_index": 800
 }

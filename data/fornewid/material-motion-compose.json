@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/fornewid/material-motion-compose/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fornewid/material-motion-compose/deployments",
   "created_at": "2021-03-14T05:49:51Z",
-  "updated_at": "2023-06-14T03:40:06Z",
-  "pushed_at": "2023-06-15T01:59:57Z",
+  "updated_at": "2023-06-16T01:22:52Z",
+  "pushed_at": "2023-06-15T08:26:52Z",
   "git_url": "git://github.com/fornewid/material-motion-compose.git",
   "ssh_url": "git@github.com:fornewid/material-motion-compose.git",
   "clone_url": "https://github.com/fornewid/material-motion-compose.git",
   "svn_url": "https://github.com/fornewid/material-motion-compose",
   "homepage": "https://fornewid.github.io/material-motion-compose/",
-  "size": 14777,
-  "stargazers_count": 410,
-  "watchers_count": 410,
+  "size": 14845,
+  "stargazers_count": 414,
+  "watchers_count": 414,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 5,
+  "open_issues_count": 4,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -109,8 +109,8 @@
   ],
   "visibility": "public",
   "forks": 7,
-  "open_issues": 5,
-  "watchers": 410,
+  "open_issues": 4,
+  "watchers": 414,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1319
+  "_index": 1323
 }

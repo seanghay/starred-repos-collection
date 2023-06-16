@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/axa-group/Parsr/releases{/id}",
   "deployments_url": "https://api.github.com/repos/axa-group/Parsr/deployments",
   "created_at": "2019-08-05T12:43:53Z",
-  "updated_at": "2023-06-14T10:43:05Z",
+  "updated_at": "2023-06-15T13:48:02Z",
   "pushed_at": "2023-03-02T21:15:27Z",
   "git_url": "git://github.com/axa-group/Parsr.git",
   "ssh_url": "git@github.com:axa-group/Parsr.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 281,
+  "forks_count": 282,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -111,7 +111,7 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 281,
+  "forks": 282,
   "open_issues": 64,
   "watchers": 5312,
   "default_branch": "master",
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 547
+  "_index": 551
 }

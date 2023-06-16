@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/google/libphonenumber/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/libphonenumber/deployments",
   "created_at": "2014-12-03T18:02:17Z",
-  "updated_at": "2023-06-14T23:28:57Z",
-  "pushed_at": "2023-06-14T23:07:30Z",
+  "updated_at": "2023-06-15T19:20:09Z",
+  "pushed_at": "2023-06-15T14:59:39Z",
   "git_url": "git://github.com/google/libphonenumber.git",
   "ssh_url": "git@github.com:google/libphonenumber.git",
   "clone_url": "https://github.com/google/libphonenumber.git",
   "svn_url": "https://github.com/google/libphonenumber",
   "homepage": "",
   "size": 206752,
-  "stargazers_count": 15081,
-  "watchers_count": 15081,
+  "stargazers_count": 15084,
+  "watchers_count": 15084,
   "language": "C++",
   "has_issues": false,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 1971,
   "open_issues": 154,
-  "watchers": 15081,
+  "watchers": 15084,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2241
+  "_index": 2245
 }

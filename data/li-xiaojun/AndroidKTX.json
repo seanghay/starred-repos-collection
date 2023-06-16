@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/li-xiaojun/AndroidKTX/releases{/id}",
   "deployments_url": "https://api.github.com/repos/li-xiaojun/AndroidKTX/deployments",
   "created_at": "2018-12-04T06:13:15Z",
-  "updated_at": "2023-06-08T09:28:08Z",
+  "updated_at": "2023-06-15T06:14:50Z",
   "pushed_at": "2023-06-09T14:43:26Z",
   "git_url": "git://github.com/li-xiaojun/AndroidKTX.git",
   "ssh_url": "git@github.com:li-xiaojun/AndroidKTX.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/li-xiaojun/AndroidKTX",
   "homepage": "",
   "size": 35342,
-  "stargazers_count": 708,
-  "watchers_count": 708,
+  "stargazers_count": 709,
+  "watchers_count": 709,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -100,7 +100,7 @@
   "visibility": "public",
   "forks": 64,
   "open_issues": 2,
-  "watchers": 708,
+  "watchers": 709,
   "default_branch": "androidx",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2326
+  "_index": 2330
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/hi-manshu/Pluck/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hi-manshu/Pluck/deployments",
   "created_at": "2022-01-30T15:10:57Z",
-  "updated_at": "2023-06-14T09:06:48Z",
+  "updated_at": "2023-06-15T13:32:07Z",
   "pushed_at": "2023-06-10T06:00:22Z",
   "git_url": "git://github.com/hi-manshu/Pluck.git",
   "ssh_url": "git@github.com:hi-manshu/Pluck.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/hi-manshu/Pluck",
   "homepage": "https://www.himanshoe.com",
   "size": 6446,
-  "stargazers_count": 287,
-  "watchers_count": 287,
+  "stargazers_count": 288,
+  "watchers_count": 288,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -116,7 +116,7 @@
   "visibility": "public",
   "forks": 23,
   "open_issues": 17,
-  "watchers": 287,
+  "watchers": 288,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 392
+  "_index": 396
 }

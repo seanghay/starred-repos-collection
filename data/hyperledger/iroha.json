@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/hyperledger/iroha/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hyperledger/iroha/deployments",
   "created_at": "2019-04-16T17:50:11Z",
-  "updated_at": "2023-06-14T04:37:20Z",
-  "pushed_at": "2023-06-14T14:33:30Z",
+  "updated_at": "2023-06-15T12:09:47Z",
+  "pushed_at": "2023-06-15T19:57:42Z",
   "git_url": "git://github.com/hyperledger/iroha.git",
   "ssh_url": "git@github.com:hyperledger/iroha.git",
   "clone_url": "https://github.com/hyperledger/iroha.git",
   "svn_url": "https://github.com/hyperledger/iroha",
   "homepage": "https://wiki.hyperledger.org/display/iroha",
-  "size": 35963,
+  "size": 35968,
   "stargazers_count": 380,
   "watchers_count": 380,
   "language": "C++",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 465,
+  "open_issues_count": 464,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -109,7 +109,7 @@
   ],
   "visibility": "public",
   "forks": 255,
-  "open_issues": 465,
+  "open_issues": 464,
   "watchers": 380,
   "default_branch": "main",
   "permissions": {
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1584
+  "_index": 1588
 }
