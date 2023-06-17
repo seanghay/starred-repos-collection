@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/githubhaohao/NDK_OpenGLES_3_0/releases{/id}",
   "deployments_url": "https://api.github.com/repos/githubhaohao/NDK_OpenGLES_3_0/deployments",
   "created_at": "2019-07-15T06:55:25Z",
-  "updated_at": "2023-06-15T14:10:10Z",
-  "pushed_at": "2023-03-01T11:06:41Z",
+  "updated_at": "2023-06-16T13:41:42Z",
+  "pushed_at": "2023-06-16T03:34:58Z",
   "git_url": "git://github.com/githubhaohao/NDK_OpenGLES_3_0.git",
   "ssh_url": "git@github.com:githubhaohao/NDK_OpenGLES_3_0.git",
   "clone_url": "https://github.com/githubhaohao/NDK_OpenGLES_3_0.git",
   "svn_url": "https://github.com/githubhaohao/NDK_OpenGLES_3_0",
   "homepage": "",
-  "size": 305367,
-  "stargazers_count": 2440,
-  "watchers_count": 2440,
+  "size": 365806,
+  "stargazers_count": 2444,
+  "watchers_count": 2444,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 696,
   "open_issues": 9,
-  "watchers": 2440,
+  "watchers": 2444,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1211
+  "_index": 1212
 }

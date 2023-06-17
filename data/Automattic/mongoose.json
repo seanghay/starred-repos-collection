@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Automattic/mongoose/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Automattic/mongoose/deployments",
   "created_at": "2010-04-06T21:39:05Z",
-  "updated_at": "2023-06-15T19:39:04Z",
-  "pushed_at": "2023-06-15T22:02:01Z",
+  "updated_at": "2023-06-16T22:08:59Z",
+  "pushed_at": "2023-06-16T18:00:51Z",
   "git_url": "git://github.com/Automattic/mongoose.git",
   "ssh_url": "git@github.com:Automattic/mongoose.git",
   "clone_url": "https://github.com/Automattic/mongoose.git",
   "svn_url": "https://github.com/Automattic/mongoose",
   "homepage": "https://mongoosejs.com",
-  "size": 109018,
-  "stargazers_count": 25741,
-  "watchers_count": 25741,
+  "size": 108922,
+  "stargazers_count": 25752,
+  "watchers_count": 25752,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 264,
+  "open_issues_count": 270,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 3740,
-  "open_issues": 264,
-  "watchers": 25741,
+  "open_issues": 270,
+  "watchers": 25752,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1477
+  "_index": 1478
 }

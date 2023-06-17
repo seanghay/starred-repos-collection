@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/PRQL/prql/releases{/id}",
   "deployments_url": "https://api.github.com/repos/PRQL/prql/deployments",
   "created_at": "2022-01-18T00:37:55Z",
-  "updated_at": "2023-06-15T18:11:18Z",
-  "pushed_at": "2023-06-15T20:28:59Z",
+  "updated_at": "2023-06-17T01:48:08Z",
+  "pushed_at": "2023-06-16T18:14:39Z",
   "git_url": "git://github.com/PRQL/prql.git",
   "ssh_url": "git@github.com:PRQL/prql.git",
   "clone_url": "https://github.com/PRQL/prql.git",
   "svn_url": "https://github.com/PRQL/prql",
   "homepage": "https://prql-lang.org",
-  "size": 15240,
+  "size": 14475,
   "stargazers_count": 7194,
   "watchers_count": 7194,
   "language": "Rust",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 703
+  "_index": 704
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jiang111/Awesome-RecyclerView-LayoutManager/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jiang111/Awesome-RecyclerView-LayoutManager/deployments",
   "created_at": "2017-03-29T08:09:11Z",
-  "updated_at": "2023-06-15T04:11:21Z",
+  "updated_at": "2023-06-16T12:11:45Z",
   "pushed_at": "2021-10-15T05:02:27Z",
   "git_url": "git://github.com/jiang111/Awesome-RecyclerView-LayoutManager.git",
   "ssh_url": "git@github.com:jiang111/Awesome-RecyclerView-LayoutManager.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jiang111/Awesome-RecyclerView-LayoutManager",
   "homepage": null,
   "size": 61846,
-  "stargazers_count": 1004,
-  "watchers_count": 1004,
+  "stargazers_count": 1003,
+  "watchers_count": 1003,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -100,7 +100,7 @@
   "visibility": "public",
   "forks": 113,
   "open_issues": 4,
-  "watchers": 1004,
+  "watchers": 1003,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1540
+  "_index": 1541
 }

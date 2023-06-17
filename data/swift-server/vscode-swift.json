@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/swift-server/vscode-swift/releases{/id}",
   "deployments_url": "https://api.github.com/repos/swift-server/vscode-swift/deployments",
   "created_at": "2021-11-23T10:47:27Z",
-  "updated_at": "2023-06-13T06:14:45Z",
+  "updated_at": "2023-06-16T23:57:00Z",
   "pushed_at": "2023-06-15T16:54:33Z",
   "git_url": "git://github.com/swift-server/vscode-swift.git",
   "ssh_url": "git@github.com:swift-server/vscode-swift.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/swift-server/vscode-swift",
   "homepage": "https://marketplace.visualstudio.com/items?itemName=sswg.swift-lang",
   "size": 1399,
-  "stargazers_count": 490,
-  "watchers_count": 490,
+  "stargazers_count": 491,
+  "watchers_count": 491,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 23,
   "open_issues": 32,
-  "watchers": 490,
+  "watchers": 491,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 912
+  "_index": 913
 }

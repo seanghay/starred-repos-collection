@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/antfu/unplugin-icons/releases{/id}",
   "deployments_url": "https://api.github.com/repos/antfu/unplugin-icons/deployments",
   "created_at": "2020-12-24T05:26:15Z",
-  "updated_at": "2023-06-16T01:24:46Z",
+  "updated_at": "2023-06-16T21:34:23Z",
   "pushed_at": "2023-06-07T15:49:02Z",
   "git_url": "git://github.com/antfu/unplugin-icons.git",
   "ssh_url": "git@github.com:antfu/unplugin-icons.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/antfu/unplugin-icons",
   "homepage": "https://www.npmjs.com/package/unplugin-icons",
   "size": 1884,
-  "stargazers_count": 2654,
-  "watchers_count": 2654,
+  "stargazers_count": 2658,
+  "watchers_count": 2658,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 106,
   "open_issues": 58,
-  "watchers": 2654,
+  "watchers": 2658,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1153
+  "_index": 1154
 }

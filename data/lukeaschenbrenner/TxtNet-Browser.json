@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lukeaschenbrenner/TxtNet-Browser/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lukeaschenbrenner/TxtNet-Browser/deployments",
   "created_at": "2022-03-22T22:50:34Z",
-  "updated_at": "2023-06-15T17:31:32Z",
+  "updated_at": "2023-06-16T20:40:57Z",
   "pushed_at": "2023-05-28T02:11:54Z",
   "git_url": "git://github.com/lukeaschenbrenner/TxtNet-Browser.git",
   "ssh_url": "git@github.com:lukeaschenbrenner/TxtNet-Browser.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lukeaschenbrenner/TxtNet-Browser",
   "homepage": "",
   "size": 18924,
-  "stargazers_count": 767,
-  "watchers_count": 767,
+  "stargazers_count": 770,
+  "watchers_count": 770,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 16,
   "open_issues": 9,
-  "watchers": 767,
+  "watchers": 770,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 124
+  "_index": 125
 }

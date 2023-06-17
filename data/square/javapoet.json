@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/square/javapoet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/square/javapoet/deployments",
   "created_at": "2013-02-01T16:56:30Z",
-  "updated_at": "2023-06-15T19:19:52Z",
-  "pushed_at": "2023-05-30T17:36:47Z",
+  "updated_at": "2023-06-17T00:40:33Z",
+  "pushed_at": "2023-06-16T20:21:27Z",
   "git_url": "git://github.com/square/javapoet.git",
   "ssh_url": "git@github.com:square/javapoet.git",
   "clone_url": "https://github.com/square/javapoet.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2286
+  "_index": 2287
 }
