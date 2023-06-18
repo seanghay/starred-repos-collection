@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/egoist/tsup/releases{/id}",
   "deployments_url": "https://api.github.com/repos/egoist/tsup/deployments",
   "created_at": "2020-03-19T16:23:41Z",
-  "updated_at": "2023-06-16T23:49:56Z",
+  "updated_at": "2023-06-17T23:50:00Z",
   "pushed_at": "2023-06-16T09:58:18Z",
   "git_url": "git://github.com/egoist/tsup.git",
   "ssh_url": "git@github.com:egoist/tsup.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/egoist/tsup",
   "homepage": "https://tsup.egoist.dev",
   "size": 1713,
-  "stargazers_count": 5797,
-  "watchers_count": 5797,
+  "stargazers_count": 5803,
+  "watchers_count": 5803,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 172,
   "open_issues": 176,
-  "watchers": 5797,
+  "watchers": 5803,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 761
+  "_index": 764
 }

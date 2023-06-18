@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/androidx/androidx.git",
   "svn_url": "https://github.com/androidx/androidx",
   "homepage": "https://android.googlesource.com/platform/frameworks/support",
-  "size": 730223,
+  "size": 730241,
   "stargazers_count": 4513,
   "watchers_count": 4513,
   "language": "Kotlin",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1591
+  "_index": 1594
 }

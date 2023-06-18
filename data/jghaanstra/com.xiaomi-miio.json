@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/jghaanstra/com.xiaomi-miio/deployments",
   "created_at": "2017-05-13T10:12:18Z",
   "updated_at": "2023-06-15T13:24:51Z",
-  "pushed_at": "2023-06-14T18:45:54Z",
+  "pushed_at": "2023-06-17T08:09:16Z",
   "git_url": "git://github.com/jghaanstra/com.xiaomi-miio.git",
   "ssh_url": "git@github.com:jghaanstra/com.xiaomi-miio.git",
   "clone_url": "https://github.com/jghaanstra/com.xiaomi-miio.git",
   "svn_url": "https://github.com/jghaanstra/com.xiaomi-miio",
   "homepage": "",
-  "size": 18129,
+  "size": 16913,
   "stargazers_count": 418,
   "watchers_count": 418,
   "language": "JavaScript",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1366
+  "_index": 1369
 }

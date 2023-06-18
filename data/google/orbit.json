@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/orbit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/orbit/deployments",
   "created_at": "2017-09-21T14:28:35Z",
-  "updated_at": "2023-06-15T08:40:51Z",
+  "updated_at": "2023-06-17T08:06:22Z",
   "pushed_at": "2023-06-15T06:39:58Z",
   "git_url": "git://github.com/google/orbit.git",
   "ssh_url": "git@github.com:google/orbit.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/orbit",
   "homepage": "https://orbitprofiler.com/",
   "size": 156813,
-  "stargazers_count": 3166,
-  "watchers_count": 3166,
+  "stargazers_count": 3168,
+  "watchers_count": 3168,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 327,
   "open_issues": 32,
-  "watchers": 3166,
+  "watchers": 3168,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1674
+  "_index": 1677
 }

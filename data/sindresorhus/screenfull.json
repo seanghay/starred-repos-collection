@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/screenfull/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/screenfull/deployments",
   "created_at": "2012-02-05T23:13:52Z",
-  "updated_at": "2023-06-15T03:04:53Z",
+  "updated_at": "2023-06-17T21:45:46Z",
   "pushed_at": "2022-07-08T13:02:03Z",
   "git_url": "git://github.com/sindresorhus/screenfull.git",
   "ssh_url": "git@github.com:sindresorhus/screenfull.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sindresorhus/screenfull",
   "homepage": "https://sindresorhus.com/screenfull",
   "size": 164,
-  "stargazers_count": 6837,
-  "watchers_count": 6837,
+  "stargazers_count": 6838,
+  "watchers_count": 6838,
   "language": "HTML",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 709,
   "open_issues": 17,
-  "watchers": 6837,
+  "watchers": 6838,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 714
+  "_index": 717
 }

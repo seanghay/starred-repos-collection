@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ngxs/store/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ngxs/store/deployments",
   "created_at": "2018-02-13T18:55:44Z",
-  "updated_at": "2023-06-16T06:33:27Z",
+  "updated_at": "2023-06-17T03:39:11Z",
   "pushed_at": "2023-06-16T23:38:45Z",
   "git_url": "git://github.com/ngxs/store.git",
   "ssh_url": "git@github.com:ngxs/store.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ngxs/store",
   "homepage": "http://ngxs.io",
   "size": 33347,
-  "stargazers_count": 3407,
-  "watchers_count": 3407,
+  "stargazers_count": 3408,
+  "watchers_count": 3408,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 388,
   "open_issues": 39,
-  "watchers": 3407,
+  "watchers": 3408,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2729
+  "_index": 2732
 }
