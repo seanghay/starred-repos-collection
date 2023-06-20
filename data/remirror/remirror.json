@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/remirror/remirror/deployments",
   "created_at": "2019-01-21T08:59:53Z",
   "updated_at": "2023-06-19T00:10:05Z",
-  "pushed_at": "2023-06-15T14:19:41Z",
+  "pushed_at": "2023-06-19T15:54:48Z",
   "git_url": "git://github.com/remirror/remirror.git",
   "ssh_url": "git@github.com:remirror/remirror.git",
   "clone_url": "https://github.com/remirror/remirror.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 136,
+  "open_issues_count": 137,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -111,7 +111,7 @@
   ],
   "visibility": "public",
   "forks": 208,
-  "open_issues": 136,
+  "open_issues": 137,
   "watchers": 2275,
   "default_branch": "main",
   "permissions": {
