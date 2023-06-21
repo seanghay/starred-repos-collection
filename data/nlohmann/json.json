@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nlohmann/json/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nlohmann/json/deployments",
   "created_at": "2013-07-04T08:47:49Z",
-  "updated_at": "2023-06-20T01:04:23Z",
+  "updated_at": "2023-06-21T01:46:42Z",
   "pushed_at": "2023-06-19T04:29:06Z",
   "git_url": "git://github.com/nlohmann/json.git",
   "ssh_url": "git@github.com:nlohmann/json.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nlohmann/json",
   "homepage": "https://json.nlohmann.me",
   "size": 180842,
-  "stargazers_count": 35312,
-  "watchers_count": 35312,
+  "stargazers_count": 35326,
+  "watchers_count": 35326,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -121,7 +121,7 @@
   "visibility": "public",
   "forks": 6088,
   "open_issues": 106,
-  "watchers": 35312,
+  "watchers": 35326,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 151
+  "_index": 154
 }

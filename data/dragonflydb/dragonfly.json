@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/dragonflydb/dragonfly/releases{/id}",
   "deployments_url": "https://api.github.com/repos/dragonflydb/dragonfly/deployments",
   "created_at": "2021-12-11T10:00:42Z",
-  "updated_at": "2023-06-20T01:58:40Z",
-  "pushed_at": "2023-06-19T21:44:13Z",
+  "updated_at": "2023-06-21T00:59:14Z",
+  "pushed_at": "2023-06-21T00:30:55Z",
   "git_url": "git://github.com/dragonflydb/dragonfly.git",
   "ssh_url": "git@github.com:dragonflydb/dragonfly.git",
   "clone_url": "https://github.com/dragonflydb/dragonfly.git",
   "svn_url": "https://github.com/dragonflydb/dragonfly",
   "homepage": "https://www.dragonflydb.io/",
-  "size": 8747,
-  "stargazers_count": 19817,
-  "watchers_count": 19817,
+  "size": 8704,
+  "stargazers_count": 19830,
+  "watchers_count": 19830,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 125,
+  "open_issues_count": 129,
   "license": {
     "key": "other",
     "name": "Other",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 691,
-  "open_issues": 125,
-  "watchers": 19817,
+  "open_issues": 129,
+  "watchers": 19830,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 740
+  "_index": 743
 }

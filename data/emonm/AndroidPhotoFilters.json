@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/emonm/AndroidPhotoFilters/releases{/id}",
   "deployments_url": "https://api.github.com/repos/emonm/AndroidPhotoFilters/deployments",
   "created_at": "2017-12-05T19:22:08Z",
-  "updated_at": "2023-04-21T08:03:59Z",
+  "updated_at": "2023-06-20T17:54:10Z",
   "pushed_at": "2017-12-05T19:23:05Z",
   "git_url": "git://github.com/emonm/AndroidPhotoFilters.git",
   "ssh_url": "git@github.com:emonm/AndroidPhotoFilters.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/emonm/AndroidPhotoFilters",
   "homepage": null,
   "size": 2931,
-  "stargazers_count": 72,
-  "watchers_count": 72,
+  "stargazers_count": 73,
+  "watchers_count": 73,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 34,
   "open_issues": 3,
-  "watchers": 72,
+  "watchers": 73,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2058
+  "_index": 2061
 }

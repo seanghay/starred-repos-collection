@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/shoheiyokoyama/Gemini/releases{/id}",
   "deployments_url": "https://api.github.com/repos/shoheiyokoyama/Gemini/deployments",
   "created_at": "2017-06-10T08:00:56Z",
-  "updated_at": "2023-06-19T08:56:59Z",
+  "updated_at": "2023-06-21T00:50:58Z",
   "pushed_at": "2022-07-22T03:27:45Z",
   "git_url": "git://github.com/shoheiyokoyama/Gemini.git",
   "ssh_url": "git@github.com:shoheiyokoyama/Gemini.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 179,
+  "forks_count": 180,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,7 +110,7 @@
     "uicollectionview"
   ],
   "visibility": "public",
-  "forks": 179,
+  "forks": 180,
   "open_issues": 17,
   "watchers": 3090,
   "default_branch": "master",
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2498
+  "_index": 2501
 }

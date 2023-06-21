@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/cangwang/MagicCamera3/releases{/id}",
   "deployments_url": "https://api.github.com/repos/cangwang/MagicCamera3/deployments",
   "created_at": "2018-10-12T14:03:29Z",
-  "updated_at": "2023-05-31T09:39:06Z",
+  "updated_at": "2023-06-20T08:16:15Z",
   "pushed_at": "2022-10-31T07:10:19Z",
   "git_url": "git://github.com/cangwang/MagicCamera3.git",
   "ssh_url": "git@github.com:cangwang/MagicCamera3.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/cangwang/MagicCamera3",
   "homepage": "",
   "size": 9529,
-  "stargazers_count": 263,
-  "watchers_count": 263,
+  "stargazers_count": 264,
+  "watchers_count": 264,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -100,7 +100,7 @@
   "visibility": "public",
   "forks": 49,
   "open_issues": 5,
-  "watchers": 263,
+  "watchers": 264,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2038
+  "_index": 2041
 }

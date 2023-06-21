@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/NVIDIA/NeMo/releases{/id}",
   "deployments_url": "https://api.github.com/repos/NVIDIA/NeMo/deployments",
   "created_at": "2019-08-05T20:16:42Z",
-  "updated_at": "2023-06-19T22:59:33Z",
-  "pushed_at": "2023-06-19T23:48:16Z",
+  "updated_at": "2023-06-21T00:14:21Z",
+  "pushed_at": "2023-06-21T01:19:39Z",
   "git_url": "git://github.com/NVIDIA/NeMo.git",
   "ssh_url": "git@github.com:NVIDIA/NeMo.git",
   "clone_url": "https://github.com/NVIDIA/NeMo.git",
   "svn_url": "https://github.com/NVIDIA/NeMo",
   "homepage": "https://nvidia.github.io/NeMo/",
-  "size": 226334,
-  "stargazers_count": 7046,
-  "watchers_count": 7046,
+  "size": 228557,
+  "stargazers_count": 7061,
+  "watchers_count": 7061,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 1622,
+  "forks_count": 1626,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 78,
+  "open_issues_count": 81,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -116,9 +116,9 @@
     "tts"
   ],
   "visibility": "public",
-  "forks": 1622,
-  "open_issues": 78,
-  "watchers": 7046,
+  "forks": 1626,
+  "open_issues": 81,
+  "watchers": 7061,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 75
+  "_index": 78
 }

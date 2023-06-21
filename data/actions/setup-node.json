@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/actions/setup-node/releases{/id}",
   "deployments_url": "https://api.github.com/repos/actions/setup-node/deployments",
   "created_at": "2019-05-30T20:19:16Z",
-  "updated_at": "2023-06-20T01:51:59Z",
+  "updated_at": "2023-06-21T01:58:45Z",
   "pushed_at": "2023-06-19T14:29:36Z",
   "git_url": "git://github.com/actions/setup-node.git",
   "ssh_url": "git@github.com:actions/setup-node.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/actions/setup-node",
   "homepage": "",
   "size": 12538,
-  "stargazers_count": 2990,
-  "watchers_count": 2990,
+  "stargazers_count": 2989,
+  "watchers_count": 2989,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1166,
+  "forks_count": 1192,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 49,
+  "open_issues_count": 51,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 1166,
-  "open_issues": 49,
-  "watchers": 2990,
+  "forks": 1192,
+  "open_issues": 51,
+  "watchers": 2989,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 536
+  "_index": 539
 }

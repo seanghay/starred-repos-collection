@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/lagonapp/lagon/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lagonapp/lagon/deployments",
   "created_at": "2022-06-20T06:08:05Z",
-  "updated_at": "2023-06-20T01:50:09Z",
-  "pushed_at": "2023-06-19T16:12:25Z",
+  "updated_at": "2023-06-20T22:26:12Z",
+  "pushed_at": "2023-06-20T17:06:40Z",
   "git_url": "git://github.com/lagonapp/lagon.git",
   "ssh_url": "git@github.com:lagonapp/lagon.git",
   "clone_url": "https://github.com/lagonapp/lagon.git",
   "svn_url": "https://github.com/lagonapp/lagon",
   "homepage": "https://lagon.app",
-  "size": 16917,
-  "stargazers_count": 986,
-  "watchers_count": 986,
+  "size": 16928,
+  "stargazers_count": 994,
+  "watchers_count": 994,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 42,
+  "open_issues_count": 43,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 42,
-  "open_issues": 42,
-  "watchers": 986,
+  "open_issues": 43,
+  "watchers": 994,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 165
+  "_index": 168
 }
