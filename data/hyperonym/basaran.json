@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/hyperonym/basaran/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hyperonym/basaran/deployments",
   "created_at": "2023-02-17T17:22:29Z",
-  "updated_at": "2023-06-20T21:10:52Z",
-  "pushed_at": "2023-06-20T13:02:58Z",
+  "updated_at": "2023-06-21T15:18:04Z",
+  "pushed_at": "2023-06-21T02:24:33Z",
   "git_url": "git://github.com/hyperonym/basaran.git",
   "ssh_url": "git@github.com:hyperonym/basaran.git",
   "clone_url": "https://github.com/hyperonym/basaran.git",
   "svn_url": "https://github.com/hyperonym/basaran",
   "homepage": "",
-  "size": 5606,
+  "size": 5600,
   "stargazers_count": 971,
   "watchers_count": 971,
   "language": "Python",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 21,
+  "open_issues_count": 20,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -114,7 +114,7 @@
   ],
   "visibility": "public",
   "forks": 52,
-  "open_issues": 21,
+  "open_issues": 20,
   "watchers": 971,
   "default_branch": "master",
   "permissions": {
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 254
+  "_index": 256
 }

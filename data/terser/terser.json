@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/terser/terser/releases{/id}",
   "deployments_url": "https://api.github.com/repos/terser/terser/deployments",
   "created_at": "2015-01-11T16:06:46Z",
-  "updated_at": "2023-06-20T04:28:18Z",
-  "pushed_at": "2023-06-20T22:25:41Z",
+  "updated_at": "2023-06-21T23:13:20Z",
+  "pushed_at": "2023-06-21T10:52:50Z",
   "git_url": "git://github.com/terser/terser.git",
   "ssh_url": "git@github.com:terser/terser.git",
   "clone_url": "https://github.com/terser/terser.git",
   "svn_url": "https://github.com/terser/terser",
   "homepage": "https://terser.org",
-  "size": 12829,
-  "stargazers_count": 7907,
-  "watchers_count": 7907,
+  "size": 12870,
+  "stargazers_count": 7914,
+  "watchers_count": 7914,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 364,
+  "forks_count": 363,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 251,
+  "open_issues_count": 250,
   "license": {
     "key": "other",
     "name": "Other",
@@ -106,9 +106,9 @@
     "uglifyjs"
   ],
   "visibility": "public",
-  "forks": 364,
-  "open_issues": 251,
-  "watchers": 7907,
+  "forks": 363,
+  "open_issues": 250,
+  "watchers": 7914,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 576
+  "_index": 578
 }

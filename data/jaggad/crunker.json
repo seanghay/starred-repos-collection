@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/jaggad/crunker.git",
   "svn_url": "https://github.com/jaggad/crunker",
   "homepage": "https://jaggad.github.io/crunker/examples/client/",
-  "size": 2924,
+  "size": 2849,
   "stargazers_count": 292,
   "watchers_count": 292,
   "language": "TypeScript",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 208
+  "_index": 210
 }

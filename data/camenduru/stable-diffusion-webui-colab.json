@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/camenduru/stable-diffusion-webui-colab/releases{/id}",
   "deployments_url": "https://api.github.com/repos/camenduru/stable-diffusion-webui-colab/deployments",
   "created_at": "2022-10-05T02:45:59Z",
-  "updated_at": "2023-06-20T23:48:26Z",
+  "updated_at": "2023-06-22T01:33:17Z",
   "pushed_at": "2023-06-14T21:33:54Z",
   "git_url": "git://github.com/camenduru/stable-diffusion-webui-colab.git",
   "ssh_url": "git@github.com:camenduru/stable-diffusion-webui-colab.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/camenduru/stable-diffusion-webui-colab",
   "homepage": "",
   "size": 46405,
-  "stargazers_count": 12293,
-  "watchers_count": 12293,
+  "stargazers_count": 12325,
+  "watchers_count": 12325,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2131,
+  "forks_count": 2137,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 15,
+  "open_issues_count": 17,
   "license": {
     "key": "unlicense",
     "name": "The Unlicense",
@@ -119,9 +119,9 @@
     "txt2img"
   ],
   "visibility": "public",
-  "forks": 2131,
-  "open_issues": 15,
-  "watchers": 12293,
+  "forks": 2137,
+  "open_issues": 17,
+  "watchers": 12325,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 180
+  "_index": 182
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/xiph/rav1e/releases{/id}",
   "deployments_url": "https://api.github.com/repos/xiph/rav1e/deployments",
   "created_at": "2017-09-24T08:12:55Z",
-  "updated_at": "2023-06-19T14:52:34Z",
+  "updated_at": "2023-06-21T05:50:42Z",
   "pushed_at": "2023-06-20T21:28:26Z",
   "git_url": "git://github.com/xiph/rav1e.git",
   "ssh_url": "git@github.com:xiph/rav1e.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/xiph/rav1e",
   "homepage": "",
   "size": 17108,
-  "stargazers_count": 3251,
-  "watchers_count": 3251,
+  "stargazers_count": 3253,
+  "watchers_count": 3253,
   "language": "Assembly",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 229,
   "open_issues": 230,
-  "watchers": 3251,
+  "watchers": 3253,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 231
+  "_index": 233
 }
