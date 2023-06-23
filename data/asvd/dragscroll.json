@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/asvd/dragscroll/releases{/id}",
   "deployments_url": "https://api.github.com/repos/asvd/dragscroll/deployments",
   "created_at": "2015-03-22T14:17:28Z",
-  "updated_at": "2023-06-09T14:21:28Z",
+  "updated_at": "2023-06-22T20:07:04Z",
   "pushed_at": "2020-05-18T15:31:49Z",
   "git_url": "git://github.com/asvd/dragscroll.git",
   "ssh_url": "git@github.com:asvd/dragscroll.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/asvd/dragscroll",
   "homepage": "http://asvd.github.io/dragscroll/",
   "size": 26,
-  "stargazers_count": 1079,
-  "watchers_count": 1079,
+  "stargazers_count": 1080,
+  "watchers_count": 1080,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 176,
   "open_issues": 37,
-  "watchers": 1079,
+  "watchers": 1080,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 362
+  "_index": 365
 }

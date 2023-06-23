@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Dimezis/BottomNavigationBar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Dimezis/BottomNavigationBar/deployments",
   "created_at": "2017-02-26T23:44:44Z",
-  "updated_at": "2023-03-23T02:36:16Z",
+  "updated_at": "2023-06-22T20:18:51Z",
   "pushed_at": "2022-07-03T09:48:53Z",
   "git_url": "git://github.com/Dimezis/BottomNavigationBar.git",
   "ssh_url": "git@github.com:Dimezis/BottomNavigationBar.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1757
+  "_index": 1760
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nodeca/pica/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nodeca/pica/deployments",
   "created_at": "2014-08-31T08:44:32Z",
-  "updated_at": "2023-06-20T18:09:07Z",
+  "updated_at": "2023-06-22T02:26:03Z",
   "pushed_at": "2022-07-07T06:54:37Z",
   "git_url": "git://github.com/nodeca/pica.git",
   "ssh_url": "git@github.com:nodeca/pica.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nodeca/pica",
   "homepage": "http://nodeca.github.io/pica/demo/",
   "size": 22432,
-  "stargazers_count": 3359,
-  "watchers_count": 3359,
+  "stargazers_count": 3360,
+  "watchers_count": 3360,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 238,
+  "forks_count": 239,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,9 +102,9 @@
     "resize"
   ],
   "visibility": "public",
-  "forks": 238,
+  "forks": 239,
   "open_issues": 7,
-  "watchers": 3359,
+  "watchers": 3360,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1328
+  "_index": 1331
 }

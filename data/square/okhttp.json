@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/square/okhttp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/square/okhttp/deployments",
   "created_at": "2012-07-23T13:42:55Z",
-  "updated_at": "2023-06-21T08:19:20Z",
+  "updated_at": "2023-06-22T20:18:48Z",
   "pushed_at": "2023-06-19T01:40:14Z",
   "git_url": "git://github.com/square/okhttp.git",
   "ssh_url": "git@github.com:square/okhttp.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/square/okhttp",
   "homepage": "https://square.github.io/okhttp/",
   "size": 48622,
-  "stargazers_count": 44137,
-  "watchers_count": 44137,
+  "stargazers_count": 44141,
+  "watchers_count": 44141,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 9134,
+  "forks_count": 9136,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "kotlin"
   ],
   "visibility": "public",
-  "forks": 9134,
+  "forks": 9136,
   "open_issues": 87,
-  "watchers": 44137,
+  "watchers": 44141,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2302
+  "_index": 2305
 }

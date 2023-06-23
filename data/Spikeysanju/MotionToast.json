@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Spikeysanju/MotionToast/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Spikeysanju/MotionToast/deployments",
   "created_at": "2020-03-13T19:42:26Z",
-  "updated_at": "2023-06-18T13:47:31Z",
+  "updated_at": "2023-06-22T18:58:05Z",
   "pushed_at": "2022-10-11T18:33:04Z",
   "git_url": "git://github.com/Spikeysanju/MotionToast.git",
   "ssh_url": "git@github.com:Spikeysanju/MotionToast.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Spikeysanju/MotionToast",
   "homepage": "",
   "size": 437,
-  "stargazers_count": 1320,
-  "watchers_count": 1320,
+  "stargazers_count": 1321,
+  "watchers_count": 1321,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 115,
   "open_issues": 29,
-  "watchers": 1320,
+  "watchers": 1321,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1590
+  "_index": 1593
 }

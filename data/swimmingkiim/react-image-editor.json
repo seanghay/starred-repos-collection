@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/swimmingkiim/react-image-editor/deployments",
   "created_at": "2022-07-09T07:55:14Z",
   "updated_at": "2023-06-20T16:14:15Z",
-  "pushed_at": "2023-06-21T12:01:24Z",
+  "pushed_at": "2023-06-23T01:20:18Z",
   "git_url": "git://github.com/swimmingkiim/react-image-editor.git",
   "ssh_url": "git@github.com:swimmingkiim/react-image-editor.git",
   "clone_url": "https://github.com/swimmingkiim/react-image-editor.git",
   "svn_url": "https://github.com/swimmingkiim/react-image-editor",
   "homepage": "https://swimmingkiim.github.io/react-image-editor",
-  "size": 7580,
+  "size": 8077,
   "stargazers_count": 84,
   "watchers_count": 84,
   "language": "HTML",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 425
+  "_index": 428
 }

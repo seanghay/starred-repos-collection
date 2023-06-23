@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/marp-team/marp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/marp-team/marp/deployments",
   "created_at": "2018-03-25T12:47:38Z",
-  "updated_at": "2023-06-21T10:00:20Z",
+  "updated_at": "2023-06-22T19:14:57Z",
   "pushed_at": "2023-06-12T07:57:12Z",
   "git_url": "git://github.com/marp-team/marp.git",
   "ssh_url": "git@github.com:marp-team/marp.git",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1211
+  "_index": 1214
 }

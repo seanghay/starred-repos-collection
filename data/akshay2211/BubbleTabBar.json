@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/akshay2211/BubbleTabBar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/akshay2211/BubbleTabBar/deployments",
   "created_at": "2019-08-20T13:04:04Z",
-  "updated_at": "2023-06-18T16:28:40Z",
+  "updated_at": "2023-06-22T17:40:12Z",
   "pushed_at": "2023-01-24T07:38:11Z",
   "git_url": "git://github.com/akshay2211/BubbleTabBar.git",
   "ssh_url": "git@github.com:akshay2211/BubbleTabBar.git",
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1253
+  "_index": 1256
 }

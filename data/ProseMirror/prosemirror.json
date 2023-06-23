@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ProseMirror/prosemirror/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ProseMirror/prosemirror/deployments",
   "created_at": "2015-08-06T08:55:00Z",
-  "updated_at": "2023-06-21T16:27:45Z",
+  "updated_at": "2023-06-22T22:03:14Z",
   "pushed_at": "2023-06-08T15:54:54Z",
   "git_url": "git://github.com/ProseMirror/prosemirror.git",
   "ssh_url": "git@github.com:ProseMirror/prosemirror.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ProseMirror/prosemirror",
   "homepage": "http://prosemirror.net/",
   "size": 3101,
-  "stargazers_count": 6634,
-  "watchers_count": 6634,
+  "stargazers_count": 6638,
+  "watchers_count": 6638,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 342,
   "open_issues": 112,
-  "watchers": 6634,
+  "watchers": 6638,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1012
+  "_index": 1015
 }

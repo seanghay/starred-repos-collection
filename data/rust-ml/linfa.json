@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/rust-ml/linfa/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rust-ml/linfa/deployments",
   "created_at": "2018-04-05T07:03:30Z",
-  "updated_at": "2023-06-21T06:47:14Z",
+  "updated_at": "2023-06-23T01:19:55Z",
   "pushed_at": "2023-06-21T09:31:09Z",
   "git_url": "git://github.com/rust-ml/linfa.git",
   "ssh_url": "git@github.com:rust-ml/linfa.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/rust-ml/linfa",
   "homepage": "",
   "size": 4648,
-  "stargazers_count": 2708,
-  "watchers_count": 2708,
+  "stargazers_count": 2710,
+  "watchers_count": 2710,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 177,
   "open_issues": 49,
-  "watchers": 2708,
+  "watchers": 2710,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 772
+  "_index": 775
 }

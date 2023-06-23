@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wasabeef/richeditor-android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wasabeef/richeditor-android/deployments",
   "created_at": "2015-03-30T16:19:20Z",
-  "updated_at": "2023-06-21T12:43:33Z",
+  "updated_at": "2023-06-22T17:26:32Z",
   "pushed_at": "2023-05-27T18:30:35Z",
   "git_url": "git://github.com/wasabeef/richeditor-android.git",
   "ssh_url": "git@github.com:wasabeef/richeditor-android.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wasabeef/richeditor-android",
   "homepage": "",
   "size": 2898,
-  "stargazers_count": 6048,
-  "watchers_count": 6048,
+  "stargazers_count": 6049,
+  "watchers_count": 6049,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 1193,
   "open_issues": 218,
-  "watchers": 6048,
+  "watchers": 6049,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2232
+  "_index": 2235
 }

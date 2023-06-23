@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/awesome-nodejs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/awesome-nodejs/deployments",
   "created_at": "2014-07-11T13:35:34Z",
-  "updated_at": "2023-06-22T01:17:23Z",
+  "updated_at": "2023-06-23T01:07:49Z",
   "pushed_at": "2023-06-20T10:59:44Z",
   "git_url": "git://github.com/sindresorhus/awesome-nodejs.git",
   "ssh_url": "git@github.com:sindresorhus/awesome-nodejs.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sindresorhus/awesome-nodejs",
   "homepage": "https://node.cool",
   "size": 1610,
-  "stargazers_count": 51628,
-  "watchers_count": 51628,
+  "stargazers_count": 51642,
+  "watchers_count": 51642,
   "language": null,
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 5713,
+  "forks_count": 5715,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,9 +106,9 @@
     "nodejs"
   ],
   "visibility": "public",
-  "forks": 5713,
+  "forks": 5715,
   "open_issues": 1,
-  "watchers": 51628,
+  "watchers": 51642,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 826
+  "_index": 829
 }

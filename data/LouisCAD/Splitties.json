@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 151,
+  "forks_count": 150,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -117,7 +117,7 @@
     "watchos"
   ],
   "visibility": "public",
-  "forks": 151,
+  "forks": 150,
   "open_issues": 48,
   "watchers": 2313,
   "default_branch": "main",
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2310
+  "_index": 2313
 }
