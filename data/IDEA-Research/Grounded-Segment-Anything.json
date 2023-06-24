@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/IDEA-Research/Grounded-Segment-Anything/releases{/id}",
   "deployments_url": "https://api.github.com/repos/IDEA-Research/Grounded-Segment-Anything/deployments",
   "created_at": "2023-04-06T04:03:28Z",
-  "updated_at": "2023-06-22T21:05:33Z",
-  "pushed_at": "2023-06-20T03:51:10Z",
+  "updated_at": "2023-06-23T20:32:44Z",
+  "pushed_at": "2023-06-23T20:51:52Z",
   "git_url": "git://github.com/IDEA-Research/Grounded-Segment-Anything.git",
   "ssh_url": "git@github.com:IDEA-Research/Grounded-Segment-Anything.git",
   "clone_url": "https://github.com/IDEA-Research/Grounded-Segment-Anything.git",
   "svn_url": "https://github.com/IDEA-Research/Grounded-Segment-Anything",
   "homepage": "",
-  "size": 124915,
-  "stargazers_count": 9338,
-  "watchers_count": 9338,
+  "size": 124908,
+  "stargazers_count": 9354,
+  "watchers_count": 9354,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 804,
   "open_issues": 172,
-  "watchers": 9338,
+  "watchers": 9354,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 168
+  "_index": 170
 }

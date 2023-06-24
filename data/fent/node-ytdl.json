@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/fent/node-ytdl.git",
   "svn_url": "https://github.com/fent/node-ytdl",
   "homepage": "",
-  "size": 2606,
+  "size": 2635,
   "stargazers_count": 1175,
   "watchers_count": 1175,
   "language": "JavaScript",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 286
+  "_index": 288
 }

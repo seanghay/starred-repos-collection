@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/gofiber/fiber/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gofiber/fiber/deployments",
   "created_at": "2020-01-16T03:59:20Z",
-  "updated_at": "2023-06-23T02:18:40Z",
-  "pushed_at": "2023-06-22T18:08:07Z",
+  "updated_at": "2023-06-24T00:23:06Z",
+  "pushed_at": "2023-06-23T15:12:43Z",
   "git_url": "git://github.com/gofiber/fiber.git",
   "ssh_url": "git@github.com:gofiber/fiber.git",
   "clone_url": "https://github.com/gofiber/fiber.git",
   "svn_url": "https://github.com/gofiber/fiber",
   "homepage": "https://gofiber.io",
-  "size": 218449,
-  "stargazers_count": 26863,
-  "watchers_count": 26863,
+  "size": 218467,
+  "stargazers_count": 26879,
+  "watchers_count": 26879,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1345,
+  "forks_count": 1347,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -115,9 +115,9 @@
     "web"
   ],
   "visibility": "public",
-  "forks": 1345,
+  "forks": 1347,
   "open_issues": 49,
-  "watchers": 26863,
+  "watchers": 26879,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1907
+  "_index": 1909
 }

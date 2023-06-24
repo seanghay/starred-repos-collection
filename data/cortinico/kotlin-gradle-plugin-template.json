@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/cortinico/kotlin-gradle-plugin-template.git",
   "svn_url": "https://github.com/cortinico/kotlin-gradle-plugin-template",
   "homepage": "",
-  "size": 278,
+  "size": 277,
   "stargazers_count": 381,
   "watchers_count": 381,
   "language": "Kotlin",
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1203
+  "_index": 1205
 }

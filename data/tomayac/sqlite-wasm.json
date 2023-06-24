@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/tomayac/sqlite-wasm/deployments",
   "created_at": "2023-04-13T07:24:18Z",
   "updated_at": "2023-06-22T05:52:16Z",
-  "pushed_at": "2023-06-20T17:38:18Z",
+  "pushed_at": "2023-06-23T20:42:06Z",
   "git_url": "git://github.com/tomayac/sqlite-wasm.git",
   "ssh_url": "git@github.com:tomayac/sqlite-wasm.git",
   "clone_url": "https://github.com/tomayac/sqlite-wasm.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2,
+  "open_issues_count": 3,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -104,7 +104,7 @@
   ],
   "visibility": "public",
   "forks": 5,
-  "open_issues": 2,
+  "open_issues": 3,
   "watchers": 99,
   "default_branch": "main",
   "permissions": {
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 130
+  "_index": 132
 }

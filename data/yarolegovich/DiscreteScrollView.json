@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yarolegovich/DiscreteScrollView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yarolegovich/DiscreteScrollView/deployments",
   "created_at": "2017-03-03T23:38:54Z",
-  "updated_at": "2023-06-18T07:12:50Z",
+  "updated_at": "2023-06-23T05:39:55Z",
   "pushed_at": "2021-08-30T09:15:17Z",
   "git_url": "git://github.com/yarolegovich/DiscreteScrollView.git",
   "ssh_url": "git@github.com:yarolegovich/DiscreteScrollView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yarolegovich/DiscreteScrollView",
   "homepage": "",
   "size": 33353,
-  "stargazers_count": 5697,
-  "watchers_count": 5697,
+  "stargazers_count": 5698,
+  "watchers_count": 5698,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 771,
   "open_issues": 42,
-  "watchers": 5697,
+  "watchers": 5698,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2225
+  "_index": 2227
 }

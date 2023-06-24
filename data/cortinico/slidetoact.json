@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/cortinico/slidetoact.git",
   "svn_url": "https://github.com/cortinico/slidetoact",
   "homepage": "",
-  "size": 7283,
+  "size": 7282,
   "stargazers_count": 1042,
   "watchers_count": 1042,
   "language": "Kotlin",
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1530
+  "_index": 1532
 }

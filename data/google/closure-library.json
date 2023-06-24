@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/closure-library/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/closure-library/deployments",
   "created_at": "2013-08-16T21:54:05Z",
-  "updated_at": "2023-06-20T17:16:23Z",
+  "updated_at": "2023-06-23T03:14:19Z",
   "pushed_at": "2023-06-15T17:49:08Z",
   "git_url": "git://github.com/google/closure-library.git",
   "ssh_url": "git@github.com:google/closure-library.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/closure-library",
   "homepage": "code.google.com/closure/library/",
   "size": 203102,
-  "stargazers_count": 4695,
-  "watchers_count": 4695,
+  "stargazers_count": 4694,
+  "watchers_count": 4694,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 1058,
   "open_issues": 208,
-  "watchers": 4695,
+  "watchers": 4694,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2260
+  "_index": 2262
 }

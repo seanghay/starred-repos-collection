@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/gyf-dev/ImmersionBar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gyf-dev/ImmersionBar/deployments",
   "created_at": "2017-04-19T05:10:09Z",
-  "updated_at": "2023-06-21T11:51:30Z",
+  "updated_at": "2023-06-23T10:05:31Z",
   "pushed_at": "2022-03-25T02:26:08Z",
   "git_url": "git://github.com/gyf-dev/ImmersionBar.git",
   "ssh_url": "git@github.com:gyf-dev/ImmersionBar.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/gyf-dev/ImmersionBar",
   "homepage": "",
   "size": 325009,
-  "stargazers_count": 10835,
-  "watchers_count": 10835,
+  "stargazers_count": 10836,
+  "watchers_count": 10836,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1838,
+  "forks_count": 1839,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,9 +109,9 @@
     "statusbar"
   ],
   "visibility": "public",
-  "forks": 1838,
+  "forks": 1839,
   "open_issues": 119,
-  "watchers": 10835,
+  "watchers": 10836,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2218
+  "_index": 2220
 }

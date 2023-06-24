@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/JetBrains/kotless/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JetBrains/kotless/deployments",
   "created_at": "2019-06-17T14:08:52Z",
-  "updated_at": "2023-06-22T09:24:41Z",
+  "updated_at": "2023-06-23T14:43:49Z",
   "pushed_at": "2022-10-15T17:50:31Z",
   "git_url": "git://github.com/JetBrains/kotless.git",
   "ssh_url": "git@github.com:JetBrains/kotless.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/JetBrains/kotless",
   "homepage": "",
   "size": 1387,
-  "stargazers_count": 1092,
-  "watchers_count": 1092,
+  "stargazers_count": 1094,
+  "watchers_count": 1094,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 58,
   "open_issues": 55,
-  "watchers": 1092,
+  "watchers": 1094,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1896
+  "_index": 1898
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/facebookresearch/Detic/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookresearch/Detic/deployments",
   "created_at": "2021-12-11T18:38:12Z",
-  "updated_at": "2023-06-22T21:34:17Z",
+  "updated_at": "2023-06-23T20:24:53Z",
   "pushed_at": "2023-05-24T11:18:24Z",
   "git_url": "git://github.com/facebookresearch/Detic.git",
   "ssh_url": "git@github.com:facebookresearch/Detic.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/facebookresearch/Detic",
   "homepage": "",
   "size": 3655,
-  "stargazers_count": 1476,
-  "watchers_count": 1476,
+  "stargazers_count": 1477,
+  "watchers_count": 1477,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 155,
   "open_issues": 49,
-  "watchers": 1476,
+  "watchers": 1477,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 732
+  "_index": 734
 }

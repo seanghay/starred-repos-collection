@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ctrlplusb/easy-peasy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ctrlplusb/easy-peasy/deployments",
   "created_at": "2018-10-21T20:52:18Z",
-  "updated_at": "2023-06-22T20:19:04Z",
+  "updated_at": "2023-06-23T10:13:52Z",
   "pushed_at": "2023-06-14T14:58:07Z",
   "git_url": "git://github.com/ctrlplusb/easy-peasy.git",
   "ssh_url": "git@github.com:ctrlplusb/easy-peasy.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ctrlplusb/easy-peasy",
   "homepage": "https://easy-peasy.dev",
   "size": 8817,
-  "stargazers_count": 4979,
-  "watchers_count": 4979,
+  "stargazers_count": 4980,
+  "watchers_count": 4980,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 200,
+  "forks_count": 199,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "state-management"
   ],
   "visibility": "public",
-  "forks": 200,
+  "forks": 199,
   "open_issues": 12,
-  "watchers": 4979,
+  "watchers": 4980,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2625
+  "_index": 2627
 }
