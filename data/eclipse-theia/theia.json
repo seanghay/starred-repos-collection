@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/eclipse-theia/theia/releases{/id}",
   "deployments_url": "https://api.github.com/repos/eclipse-theia/theia/deployments",
   "created_at": "2017-02-24T14:42:05Z",
-  "updated_at": "2023-06-24T00:59:58Z",
+  "updated_at": "2023-06-25T02:19:35Z",
   "pushed_at": "2023-06-23T15:58:37Z",
   "git_url": "git://github.com/eclipse-theia/theia.git",
   "ssh_url": "git@github.com:eclipse-theia/theia.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 2371,
+  "forks_count": 2370,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,7 +106,7 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 2371,
+  "forks": 2370,
   "open_issues": 1384,
   "watchers": 18149,
   "default_branch": "master",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1661
+  "_index": 1663
 }

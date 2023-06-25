@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/square/javapoet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/square/javapoet/deployments",
   "created_at": "2013-02-01T16:56:30Z",
-  "updated_at": "2023-06-23T20:23:06Z",
+  "updated_at": "2023-06-25T00:31:55Z",
   "pushed_at": "2023-06-18T16:44:07Z",
   "git_url": "git://github.com/square/javapoet.git",
   "ssh_url": "git@github.com:square/javapoet.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/square/javapoet",
   "homepage": "",
   "size": 1917,
-  "stargazers_count": 10319,
-  "watchers_count": 10319,
+  "stargazers_count": 10320,
+  "watchers_count": 10320,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 1335,
   "open_issues": 146,
-  "watchers": 10319,
+  "watchers": 10320,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2300
+  "_index": 2302
 }

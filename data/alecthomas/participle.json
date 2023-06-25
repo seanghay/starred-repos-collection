@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/alecthomas/participle/deployments",
   "created_at": "2016-06-28T14:25:14Z",
   "updated_at": "2023-06-22T09:37:53Z",
-  "pushed_at": "2023-06-24T00:16:59Z",
+  "pushed_at": "2023-06-25T02:17:22Z",
   "git_url": "git://github.com/alecthomas/participle.git",
   "ssh_url": "git@github.com:alecthomas/participle.git",
   "clone_url": "https://github.com/alecthomas/participle.git",
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 888
+  "_index": 890
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/bkaradzic/bgfx/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bkaradzic/bgfx/deployments",
   "created_at": "2012-04-04T03:39:04Z",
-  "updated_at": "2023-06-24T00:30:37Z",
-  "pushed_at": "2023-06-24T02:16:35Z",
+  "updated_at": "2023-06-24T16:20:30Z",
+  "pushed_at": "2023-06-24T16:56:37Z",
   "git_url": "git://github.com/bkaradzic/bgfx.git",
   "ssh_url": "git@github.com:bkaradzic/bgfx.git",
   "clone_url": "https://github.com/bkaradzic/bgfx.git",
   "svn_url": "https://github.com/bkaradzic/bgfx",
   "homepage": "https://bkaradzic.github.io/bgfx/overview.html",
-  "size": 270966,
-  "stargazers_count": 13111,
-  "watchers_count": 13111,
+  "size": 271114,
+  "stargazers_count": 13113,
+  "watchers_count": 13113,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 289,
+  "open_issues_count": 288,
   "license": {
     "key": "bsd-2-clause",
     "name": "BSD 2-Clause \"Simplified\" License",
@@ -121,8 +121,8 @@
   ],
   "visibility": "public",
   "forks": 1810,
-  "open_issues": 289,
-  "watchers": 13111,
+  "open_issues": 288,
+  "watchers": 13113,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1131
+  "_index": 1133
 }
