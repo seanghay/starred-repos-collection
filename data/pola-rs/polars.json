@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/pola-rs/polars/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pola-rs/polars/deployments",
   "created_at": "2020-05-13T19:45:33Z",
-  "updated_at": "2023-06-25T02:21:37Z",
-  "pushed_at": "2023-06-24T22:20:01Z",
+  "updated_at": "2023-06-25T21:51:40Z",
+  "pushed_at": "2023-06-25T21:57:58Z",
   "git_url": "git://github.com/pola-rs/polars.git",
   "ssh_url": "git@github.com:pola-rs/polars.git",
   "clone_url": "https://github.com/pola-rs/polars.git",
   "svn_url": "https://github.com/pola-rs/polars",
   "homepage": "https://pola.rs/",
-  "size": 747047,
-  "stargazers_count": 18133,
-  "watchers_count": 18133,
+  "size": 746026,
+  "stargazers_count": 18146,
+  "watchers_count": 18146,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 983,
+  "forks_count": 982,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 889,
+  "open_issues_count": 894,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,9 +107,9 @@
     "rust"
   ],
   "visibility": "public",
-  "forks": 983,
-  "open_issues": 889,
-  "watchers": 18133,
+  "forks": 982,
+  "open_issues": 894,
+  "watchers": 18146,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 389
+  "_index": 391
 }

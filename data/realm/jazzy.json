@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/realm/jazzy/deployments",
   "created_at": "2014-06-06T05:52:11Z",
   "updated_at": "2023-06-21T20:03:06Z",
-  "pushed_at": "2023-06-18T11:01:09Z",
+  "pushed_at": "2023-06-25T08:43:59Z",
   "git_url": "git://github.com/realm/jazzy.git",
   "ssh_url": "git@github.com:realm/jazzy.git",
   "clone_url": "https://github.com/realm/jazzy.git",
   "svn_url": "https://github.com/realm/jazzy",
   "homepage": "https://realm.io",
-  "size": 82329,
+  "size": 82349,
   "stargazers_count": 7269,
   "watchers_count": 7269,
   "language": "Ruby",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 85,
+  "open_issues_count": 86,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,7 +106,7 @@
   ],
   "visibility": "public",
   "forks": 414,
-  "open_issues": 85,
+  "open_issues": 86,
   "watchers": 7269,
   "default_branch": "master",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1923
+  "_index": 1925
 }

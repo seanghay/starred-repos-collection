@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/allenai/longformer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/allenai/longformer/deployments",
   "created_at": "2020-03-31T21:07:29Z",
-  "updated_at": "2023-06-22T20:18:55Z",
+  "updated_at": "2023-06-25T08:22:28Z",
   "pushed_at": "2023-02-08T02:52:14Z",
   "git_url": "git://github.com/allenai/longformer.git",
   "ssh_url": "git@github.com:allenai/longformer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/allenai/longformer",
   "homepage": "https://arxiv.org/abs/2004.05150",
   "size": 849,
-  "stargazers_count": 1793,
-  "watchers_count": 1793,
+  "stargazers_count": 1794,
+  "watchers_count": 1794,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 258,
   "open_issues": 133,
-  "watchers": 1793,
+  "watchers": 1794,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 53
+  "_index": 55
 }

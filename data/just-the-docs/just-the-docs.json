@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 3441,
+  "forks_count": 3439,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,7 +104,7 @@
     "jekyll-theme"
   ],
   "visibility": "public",
-  "forks": 3441,
+  "forks": 3439,
   "open_issues": 62,
   "watchers": 6078,
   "default_branch": "main",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 930
+  "_index": 932
 }

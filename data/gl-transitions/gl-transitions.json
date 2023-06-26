@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/gl-transitions/gl-transitions/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gl-transitions/gl-transitions/deployments",
   "created_at": "2017-05-20T17:25:00Z",
-  "updated_at": "2023-06-24T10:12:31Z",
+  "updated_at": "2023-06-25T07:00:43Z",
   "pushed_at": "2023-06-02T08:27:43Z",
   "git_url": "git://github.com/gl-transitions/gl-transitions.git",
   "ssh_url": "git@github.com:gl-transitions/gl-transitions.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/gl-transitions/gl-transitions",
   "homepage": "https://gl-transitions.com/",
   "size": 619,
-  "stargazers_count": 1529,
-  "watchers_count": 1529,
+  "stargazers_count": 1531,
+  "watchers_count": 1531,
   "language": "GLSL",
   "has_issues": true,
   "has_projects": false,
@@ -100,7 +100,7 @@
   "visibility": "public",
   "forks": 270,
   "open_issues": 26,
-  "watchers": 1529,
+  "watchers": 1531,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2497
+  "_index": 2499
 }

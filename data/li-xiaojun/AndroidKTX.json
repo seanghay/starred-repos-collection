@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/li-xiaojun/AndroidKTX/deployments",
   "created_at": "2018-12-04T06:13:15Z",
   "updated_at": "2023-06-20T04:23:54Z",
-  "pushed_at": "2023-06-09T14:43:26Z",
+  "pushed_at": "2023-06-25T09:28:23Z",
   "git_url": "git://github.com/li-xiaojun/AndroidKTX.git",
   "ssh_url": "git@github.com:li-xiaojun/AndroidKTX.git",
   "clone_url": "https://github.com/li-xiaojun/AndroidKTX.git",
   "svn_url": "https://github.com/li-xiaojun/AndroidKTX",
   "homepage": "",
-  "size": 35342,
+  "size": 35349,
   "stargazers_count": 711,
   "watchers_count": 711,
   "language": "C",
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2346
+  "_index": 2348
 }

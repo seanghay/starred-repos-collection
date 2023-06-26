@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/WenzheLiu-Speech/awesome-speech-enhancement/releases{/id}",
   "deployments_url": "https://api.github.com/repos/WenzheLiu-Speech/awesome-speech-enhancement/deployments",
   "created_at": "2020-03-20T17:09:38Z",
-  "updated_at": "2023-06-22T04:26:02Z",
-  "pushed_at": "2023-06-19T08:33:29Z",
+  "updated_at": "2023-06-25T08:34:50Z",
+  "pushed_at": "2023-06-25T12:05:09Z",
   "git_url": "git://github.com/WenzheLiu-Speech/awesome-speech-enhancement.git",
   "ssh_url": "git@github.com:WenzheLiu-Speech/awesome-speech-enhancement.git",
   "clone_url": "https://github.com/WenzheLiu-Speech/awesome-speech-enhancement.git",
   "svn_url": "https://github.com/WenzheLiu-Speech/awesome-speech-enhancement",
   "homepage": null,
-  "size": 238,
-  "stargazers_count": 686,
-  "watchers_count": 686,
+  "size": 271,
+  "stargazers_count": 687,
+  "watchers_count": 687,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1,
+  "open_issues_count": 0,
   "license": {
     "key": "gpl-2.0",
     "name": "GNU General Public License v2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 185,
-  "open_issues": 1,
-  "watchers": 686,
+  "open_issues": 0,
+  "watchers": 687,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 17
+  "_index": 19
 }

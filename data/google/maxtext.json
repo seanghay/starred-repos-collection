@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/google/maxtext.git",
   "svn_url": "https://github.com/google/maxtext",
   "homepage": "",
-  "size": 1225,
+  "size": 1224,
   "stargazers_count": 317,
   "watchers_count": 317,
   "language": "Python",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 144
+  "_index": 146
 }

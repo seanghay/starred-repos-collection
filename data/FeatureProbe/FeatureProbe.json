@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/FeatureProbe/FeatureProbe.git",
   "svn_url": "https://github.com/FeatureProbe/FeatureProbe",
   "homepage": "https://featureprobe.io/",
-  "size": 215623,
+  "size": 216157,
   "stargazers_count": 1142,
   "watchers_count": 1142,
   "language": "TypeScript",
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 605
+  "_index": 607
 }

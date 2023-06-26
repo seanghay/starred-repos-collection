@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nlohmann/json/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nlohmann/json/deployments",
   "created_at": "2013-07-04T08:47:49Z",
-  "updated_at": "2023-06-25T01:32:10Z",
+  "updated_at": "2023-06-26T00:51:30Z",
   "pushed_at": "2023-06-19T04:29:06Z",
   "git_url": "git://github.com/nlohmann/json.git",
   "ssh_url": "git@github.com:nlohmann/json.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 6094,
+  "forks_count": 6096,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -119,7 +119,7 @@
     "ubjson"
   ],
   "visibility": "public",
-  "forks": 6094,
+  "forks": 6096,
   "open_issues": 108,
   "watchers": 35370,
   "default_branch": "develop",
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 163
+  "_index": 165
 }

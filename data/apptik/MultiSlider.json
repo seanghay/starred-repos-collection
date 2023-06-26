@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/apptik/MultiSlider/releases{/id}",
   "deployments_url": "https://api.github.com/repos/apptik/MultiSlider/deployments",
   "created_at": "2014-06-21T20:28:10Z",
-  "updated_at": "2023-06-16T02:11:11Z",
+  "updated_at": "2023-06-26T01:56:07Z",
   "pushed_at": "2019-09-17T14:15:47Z",
   "git_url": "git://github.com/apptik/MultiSlider.git",
   "ssh_url": "git@github.com:apptik/MultiSlider.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/apptik/MultiSlider",
   "homepage": null,
   "size": 3458,
-  "stargazers_count": 320,
-  "watchers_count": 320,
+  "stargazers_count": 319,
+  "watchers_count": 319,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 79,
   "open_issues": 32,
-  "watchers": 320,
+  "watchers": 319,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2087
+  "_index": 2089
 }

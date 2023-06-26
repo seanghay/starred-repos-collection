@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/G00fY2/quickie/releases{/id}",
   "deployments_url": "https://api.github.com/repos/G00fY2/quickie/deployments",
   "created_at": "2020-11-16T08:18:08Z",
-  "updated_at": "2023-06-21T07:05:28Z",
+  "updated_at": "2023-06-25T02:53:13Z",
   "pushed_at": "2023-06-09T13:09:22Z",
   "git_url": "git://github.com/G00fY2/quickie.git",
   "ssh_url": "git@github.com:G00fY2/quickie.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/G00fY2/quickie",
   "homepage": "",
   "size": 1348,
-  "stargazers_count": 264,
-  "watchers_count": 264,
+  "stargazers_count": 265,
+  "watchers_count": 265,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 4,
+  "open_issues_count": 5,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -114,8 +114,8 @@
   ],
   "visibility": "public",
   "forks": 41,
-  "open_issues": 4,
-  "watchers": 264,
+  "open_issues": 5,
+  "watchers": 265,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1240
+  "_index": 1242
 }

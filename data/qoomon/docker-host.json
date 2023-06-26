@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 91,
+  "forks_count": 90,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -118,7 +118,7 @@
     "tunnel"
   ],
   "visibility": "public",
-  "forks": 91,
+  "forks": 90,
   "open_issues": 1,
   "watchers": 1018,
   "default_branch": "master",
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1655
+  "_index": 1657
 }

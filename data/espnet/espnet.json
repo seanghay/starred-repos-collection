@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/espnet/espnet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/espnet/espnet/deployments",
   "created_at": "2017-12-13T00:45:11Z",
-  "updated_at": "2023-06-24T21:31:52Z",
-  "pushed_at": "2023-06-24T11:10:18Z",
+  "updated_at": "2023-06-25T16:50:45Z",
+  "pushed_at": "2023-06-26T02:18:36Z",
   "git_url": "git://github.com/espnet/espnet.git",
   "ssh_url": "git@github.com:espnet/espnet.git",
   "clone_url": "https://github.com/espnet/espnet.git",
   "svn_url": "https://github.com/espnet/espnet",
   "homepage": "https://espnet.github.io/espnet/",
-  "size": 770273,
-  "stargazers_count": 6721,
-  "watchers_count": 6721,
+  "size": 768319,
+  "stargazers_count": 6726,
+  "watchers_count": 6726,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -117,7 +117,7 @@
   "visibility": "public",
   "forks": 1938,
   "open_issues": 477,
-  "watchers": 6721,
+  "watchers": 6726,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 228
+  "_index": 230
 }
