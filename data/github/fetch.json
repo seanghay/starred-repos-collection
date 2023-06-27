@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/github/fetch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/github/fetch/deployments",
   "created_at": "2014-10-13T00:26:19Z",
-  "updated_at": "2023-06-26T01:54:24Z",
+  "updated_at": "2023-06-27T01:42:21Z",
   "pushed_at": "2023-06-20T00:08:45Z",
   "git_url": "git://github.com/github/fetch.git",
   "ssh_url": "git@github.com:github/fetch.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/github/fetch",
   "homepage": "http://github.github.io/fetch/",
   "size": 534,
-  "stargazers_count": 25758,
-  "watchers_count": 25758,
+  "stargazers_count": 25761,
+  "watchers_count": 25761,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 3206,
+  "forks_count": 3208,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "promise"
   ],
   "visibility": "public",
-  "forks": 3206,
+  "forks": 3208,
   "open_issues": 20,
-  "watchers": 25758,
+  "watchers": 25761,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1700
+  "_index": 1712
 }

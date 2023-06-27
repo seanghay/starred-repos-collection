@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/LittleMango/StackLayoutManager/releases{/id}",
   "deployments_url": "https://api.github.com/repos/LittleMango/StackLayoutManager/deployments",
   "created_at": "2018-07-03T08:06:21Z",
-  "updated_at": "2023-06-25T09:00:41Z",
+  "updated_at": "2023-06-27T01:35:14Z",
   "pushed_at": "2021-08-31T15:01:21Z",
   "git_url": "git://github.com/LittleMango/StackLayoutManager.git",
   "ssh_url": "git@github.com:LittleMango/StackLayoutManager.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/LittleMango/StackLayoutManager",
   "homepage": "",
   "size": 2990,
-  "stargazers_count": 263,
-  "watchers_count": 263,
+  "stargazers_count": 264,
+  "watchers_count": 264,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 36,
   "open_issues": 14,
-  "watchers": 263,
+  "watchers": 264,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1814
+  "_index": 1826
 }

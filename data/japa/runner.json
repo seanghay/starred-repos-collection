@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/japa/runner/releases{/id}",
   "deployments_url": "https://api.github.com/repos/japa/runner/deployments",
   "created_at": "2022-01-07T10:16:37Z",
-  "updated_at": "2023-06-13T18:22:01Z",
-  "pushed_at": "2023-06-24T15:44:45Z",
+  "updated_at": "2023-06-26T08:23:31Z",
+  "pushed_at": "2023-06-26T11:28:08Z",
   "git_url": "git://github.com/japa/runner.git",
   "ssh_url": "git@github.com:japa/runner.git",
   "clone_url": "https://github.com/japa/runner.git",
   "svn_url": "https://github.com/japa/runner",
   "homepage": "",
-  "size": 675,
-  "stargazers_count": 281,
-  "watchers_count": 281,
+  "size": 706,
+  "stargazers_count": 280,
+  "watchers_count": 280,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 2,
   "open_issues": 1,
-  "watchers": 281,
+  "watchers": 280,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 624
+  "_index": 636
 }

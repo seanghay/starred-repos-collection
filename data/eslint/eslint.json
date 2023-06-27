@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/eslint/eslint/releases{/id}",
   "deployments_url": "https://api.github.com/repos/eslint/eslint/deployments",
   "created_at": "2013-06-29T23:59:48Z",
-  "updated_at": "2023-06-25T22:19:38Z",
-  "pushed_at": "2023-06-26T00:35:20Z",
+  "updated_at": "2023-06-27T02:04:43Z",
+  "pushed_at": "2023-06-27T01:38:49Z",
   "git_url": "git://github.com/eslint/eslint.git",
   "ssh_url": "git@github.com:eslint/eslint.git",
   "clone_url": "https://github.com/eslint/eslint.git",
   "svn_url": "https://github.com/eslint/eslint",
   "homepage": "https://eslint.org",
-  "size": 39735,
-  "stargazers_count": 22991,
-  "watchers_count": 22991,
+  "size": 39839,
+  "stargazers_count": 22997,
+  "watchers_count": 22997,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 4312,
+  "forks_count": 4315,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 119,
+  "open_issues_count": 121,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,9 +105,9 @@
     "static-code-analysis"
   ],
   "visibility": "public",
-  "forks": 4312,
-  "open_issues": 119,
-  "watchers": 22991,
+  "forks": 4315,
+  "open_issues": 121,
+  "watchers": 22997,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1621
+  "_index": 1633
 }

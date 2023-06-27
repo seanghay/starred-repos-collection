@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/facebookresearch/audiocraft/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookresearch/audiocraft/deployments",
   "created_at": "2023-06-08T06:41:36Z",
-  "updated_at": "2023-06-26T02:29:39Z",
+  "updated_at": "2023-06-27T02:25:56Z",
   "pushed_at": "2023-06-25T13:31:55Z",
   "git_url": "git://github.com/facebookresearch/audiocraft.git",
   "ssh_url": "git@github.com:facebookresearch/audiocraft.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/facebookresearch/audiocraft",
   "homepage": null,
   "size": 608,
-  "stargazers_count": 7910,
-  "watchers_count": 7910,
+  "stargazers_count": 7968,
+  "watchers_count": 7968,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 684,
+  "forks_count": 692,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 91,
+  "open_issues_count": 90,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 684,
-  "open_issues": 91,
-  "watchers": 7910,
+  "forks": 692,
+  "open_issues": 90,
+  "watchers": 7968,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 44
+  "_index": 56
 }

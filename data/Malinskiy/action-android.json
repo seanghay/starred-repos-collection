@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Malinskiy/action-android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Malinskiy/action-android/deployments",
   "created_at": "2019-09-29T10:04:19Z",
-  "updated_at": "2023-04-25T23:05:49Z",
+  "updated_at": "2023-06-27T00:05:44Z",
   "pushed_at": "2023-04-27T09:22:18Z",
   "git_url": "git://github.com/Malinskiy/action-android.git",
   "ssh_url": "git@github.com:Malinskiy/action-android.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Malinskiy/action-android",
   "homepage": null,
   "size": 8017,
-  "stargazers_count": 163,
-  "watchers_count": 163,
+  "stargazers_count": 164,
+  "watchers_count": 164,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -116,7 +116,7 @@
   "visibility": "public",
   "forks": 22,
   "open_issues": 16,
-  "watchers": 163,
+  "watchers": 164,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1088
+  "_index": 1100
 }

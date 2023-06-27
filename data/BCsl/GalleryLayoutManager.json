@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/BCsl/GalleryLayoutManager/releases{/id}",
   "deployments_url": "https://api.github.com/repos/BCsl/GalleryLayoutManager/deployments",
   "created_at": "2016-12-15T08:08:33Z",
-  "updated_at": "2023-06-15T02:18:06Z",
+  "updated_at": "2023-06-26T15:36:25Z",
   "pushed_at": "2022-08-23T03:25:22Z",
   "git_url": "git://github.com/BCsl/GalleryLayoutManager.git",
   "ssh_url": "git@github.com:BCsl/GalleryLayoutManager.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1961
+  "_index": 1973
 }
