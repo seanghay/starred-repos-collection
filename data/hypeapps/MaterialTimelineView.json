@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/hypeapps/MaterialTimelineView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hypeapps/MaterialTimelineView/deployments",
   "created_at": "2017-10-09T16:55:57Z",
-  "updated_at": "2023-06-26T07:00:13Z",
+  "updated_at": "2023-06-27T12:10:39Z",
   "pushed_at": "2018-04-08T15:28:57Z",
   "git_url": "git://github.com/hypeapps/MaterialTimelineView.git",
   "ssh_url": "git@github.com:hypeapps/MaterialTimelineView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/hypeapps/MaterialTimelineView",
   "homepage": "",
   "size": 385,
-  "stargazers_count": 457,
-  "watchers_count": 457,
+  "stargazers_count": 456,
+  "watchers_count": 456,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 80,
   "open_issues": 3,
-  "watchers": 457,
+  "watchers": 456,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2426
+  "_index": 2428
 }

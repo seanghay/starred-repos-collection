@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yarnpkg/yarn/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yarnpkg/yarn/deployments",
   "created_at": "2016-01-19T17:39:16Z",
-  "updated_at": "2023-06-25T10:54:37Z",
+  "updated_at": "2023-06-27T21:43:17Z",
   "pushed_at": "2023-06-25T06:11:15Z",
   "git_url": "git://github.com/yarnpkg/yarn.git",
   "ssh_url": "git@github.com:yarnpkg/yarn.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2893,
+  "forks_count": 2894,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,7 +104,7 @@
     "yarn"
   ],
   "visibility": "public",
-  "forks": 2893,
+  "forks": 2894,
   "open_issues": 1969,
   "watchers": 41209,
   "default_branch": "master",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1580
+  "_index": 1582
 }

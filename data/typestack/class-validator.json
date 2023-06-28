@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/typestack/class-validator/releases{/id}",
   "deployments_url": "https://api.github.com/repos/typestack/class-validator/deployments",
   "created_at": "2015-10-03T13:27:09Z",
-  "updated_at": "2023-06-26T17:14:30Z",
-  "pushed_at": "2023-06-26T18:46:02Z",
+  "updated_at": "2023-06-28T01:47:15Z",
+  "pushed_at": "2023-06-27T22:53:19Z",
   "git_url": "git://github.com/typestack/class-validator.git",
   "ssh_url": "git@github.com:typestack/class-validator.git",
   "clone_url": "https://github.com/typestack/class-validator.git",
   "svn_url": "https://github.com/typestack/class-validator",
   "homepage": "",
-  "size": 5073,
-  "stargazers_count": 9519,
-  "watchers_count": 9519,
+  "size": 5455,
+  "stargazers_count": 9527,
+  "watchers_count": 9527,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 222,
+  "open_issues_count": 221,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 710,
-  "open_issues": 222,
-  "watchers": 9519,
+  "open_issues": 221,
+  "watchers": 9527,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2725
+  "_index": 2727
 }

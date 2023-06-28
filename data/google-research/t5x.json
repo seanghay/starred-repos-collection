@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/google-research/t5x/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google-research/t5x/deployments",
   "created_at": "2021-11-01T19:37:39Z",
-  "updated_at": "2023-06-26T18:13:37Z",
-  "pushed_at": "2023-06-27T01:43:46Z",
+  "updated_at": "2023-06-28T02:23:21Z",
+  "pushed_at": "2023-06-27T21:26:23Z",
   "git_url": "git://github.com/google-research/t5x.git",
   "ssh_url": "git@github.com:google-research/t5x.git",
   "clone_url": "https://github.com/google-research/t5x.git",
   "svn_url": "https://github.com/google-research/t5x",
   "homepage": null,
-  "size": 9275,
-  "stargazers_count": 1902,
-  "watchers_count": 1902,
+  "size": 9278,
+  "stargazers_count": 1908,
+  "watchers_count": 1908,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 216,
+  "open_issues_count": 218,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 228,
-  "open_issues": 216,
-  "watchers": 1902,
+  "open_issues": 218,
+  "watchers": 1908,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 146
+  "_index": 148
 }

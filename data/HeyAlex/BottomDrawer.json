@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/HeyAlex/BottomDrawer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/HeyAlex/BottomDrawer/deployments",
   "created_at": "2019-05-12T15:59:49Z",
-  "updated_at": "2023-06-21T08:42:37Z",
+  "updated_at": "2023-06-27T09:09:48Z",
   "pushed_at": "2022-04-23T11:00:38Z",
   "git_url": "git://github.com/HeyAlex/BottomDrawer.git",
   "ssh_url": "git@github.com:HeyAlex/BottomDrawer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/HeyAlex/BottomDrawer",
   "homepage": "https://medium.com/@heyalex/bottom-sheet-like-in-a-google-task-app-16cca3766204?source=friends_link&sk=578bb8863b4b7e2aaa7f3cfa351762cf",
   "size": 38350,
-  "stargazers_count": 413,
-  "watchers_count": 413,
+  "stargazers_count": 414,
+  "watchers_count": 414,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 44,
   "open_issues": 3,
-  "watchers": 413,
+  "watchers": 414,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2066
+  "_index": 2068
 }

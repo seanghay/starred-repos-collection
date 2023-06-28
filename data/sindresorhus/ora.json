@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/ora/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/ora/deployments",
   "created_at": "2016-03-03T18:17:16Z",
-  "updated_at": "2023-06-26T18:41:01Z",
+  "updated_at": "2023-06-27T06:17:47Z",
   "pushed_at": "2023-05-15T08:14:57Z",
   "git_url": "git://github.com/sindresorhus/ora.git",
   "ssh_url": "git@github.com:sindresorhus/ora.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 735
+  "_index": 737
 }

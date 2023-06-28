@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Akryum/vue-virtual-scroller/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Akryum/vue-virtual-scroller/deployments",
   "created_at": "2016-11-29T15:07:14Z",
-  "updated_at": "2023-06-27T01:56:38Z",
+  "updated_at": "2023-06-27T12:56:35Z",
   "pushed_at": "2023-06-06T06:40:46Z",
   "git_url": "git://github.com/Akryum/vue-virtual-scroller.git",
   "ssh_url": "git@github.com:Akryum/vue-virtual-scroller.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Akryum/vue-virtual-scroller",
   "homepage": "https://vue-virtual-scroller-demo.netlify.app",
   "size": 12714,
-  "stargazers_count": 8170,
-  "watchers_count": 8170,
+  "stargazers_count": 8171,
+  "watchers_count": 8171,
   "language": "Vue",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 801,
+  "forks_count": 802,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 189,
+  "open_issues_count": 190,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -99,9 +99,9 @@
     "vuejs2"
   ],
   "visibility": "public",
-  "forks": 801,
-  "open_issues": 189,
-  "watchers": 8170,
+  "forks": 802,
+  "open_issues": 190,
+  "watchers": 8171,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 941
+  "_index": 943
 }

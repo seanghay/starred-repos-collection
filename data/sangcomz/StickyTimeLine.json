@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sangcomz/StickyTimeLine/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sangcomz/StickyTimeLine/deployments",
   "created_at": "2017-11-20T07:27:30Z",
-  "updated_at": "2023-06-19T08:22:26Z",
+  "updated_at": "2023-06-27T10:40:35Z",
   "pushed_at": "2022-02-10T11:36:13Z",
   "git_url": "git://github.com/sangcomz/StickyTimeLine.git",
   "ssh_url": "git@github.com:sangcomz/StickyTimeLine.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sangcomz/StickyTimeLine",
   "homepage": "",
   "size": 16597,
-  "stargazers_count": 558,
-  "watchers_count": 558,
+  "stargazers_count": 557,
+  "watchers_count": 557,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 78,
   "open_issues": 3,
-  "watchers": 558,
+  "watchers": 557,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1823
+  "_index": 1825
 }

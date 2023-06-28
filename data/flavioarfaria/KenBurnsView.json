@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/flavioarfaria/KenBurnsView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/flavioarfaria/KenBurnsView/deployments",
   "created_at": "2014-03-19T03:10:02Z",
-  "updated_at": "2023-06-23T14:18:06Z",
+  "updated_at": "2023-06-27T12:28:26Z",
   "pushed_at": "2022-08-26T21:23:54Z",
   "git_url": "git://github.com/flavioarfaria/KenBurnsView.git",
   "ssh_url": "git@github.com:flavioarfaria/KenBurnsView.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2580
+  "_index": 2582
 }

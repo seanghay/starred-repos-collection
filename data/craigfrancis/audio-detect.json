@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/craigfrancis/audio-detect/deployments",
   "created_at": "2018-12-29T16:24:15Z",
   "updated_at": "2023-06-26T17:25:03Z",
-  "pushed_at": "2022-09-20T15:31:16Z",
+  "pushed_at": "2023-06-27T23:12:44Z",
   "git_url": "git://github.com/craigfrancis/audio-detect.git",
   "ssh_url": "git@github.com:craigfrancis/audio-detect.git",
   "clone_url": "https://github.com/craigfrancis/audio-detect.git",
   "svn_url": "https://github.com/craigfrancis/audio-detect",
   "homepage": null,
-  "size": 5523,
+  "size": 5648,
   "stargazers_count": 42,
   "watchers_count": 42,
   "language": "Python",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1,
+  "open_issues_count": 0,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 6,
-  "open_issues": 1,
+  "open_issues": 0,
   "watchers": 42,
   "default_branch": "main",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 5
+  "_index": 7
 }

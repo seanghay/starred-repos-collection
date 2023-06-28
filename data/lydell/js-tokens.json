@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lydell/js-tokens/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lydell/js-tokens/deployments",
   "created_at": "2014-03-08T22:28:09Z",
-  "updated_at": "2023-06-25T00:29:44Z",
+  "updated_at": "2023-06-27T07:44:20Z",
   "pushed_at": "2023-01-16T21:14:05Z",
   "git_url": "git://github.com/lydell/js-tokens.git",
   "ssh_url": "git@github.com:lydell/js-tokens.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lydell/js-tokens",
   "homepage": "",
   "size": 579,
-  "stargazers_count": 393,
-  "watchers_count": 393,
+  "stargazers_count": 394,
+  "watchers_count": 394,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 33,
   "open_issues": 0,
-  "watchers": 393,
+  "watchers": 394,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 411
+  "_index": 413
 }
