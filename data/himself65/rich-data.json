@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/himself65/rich-data/deployments",
   "created_at": "2023-01-03T02:12:46Z",
   "updated_at": "2023-05-29T15:49:39Z",
-  "pushed_at": "2023-04-04T23:53:34Z",
+  "pushed_at": "2023-06-28T15:00:43Z",
   "git_url": "git://github.com/himself65/rich-data.git",
   "ssh_url": "git@github.com:himself65/rich-data.git",
   "clone_url": "https://github.com/himself65/rich-data.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 10,
+  "forks_count": 11,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 4,
+  "open_issues_count": 6,
   "license": {
     "key": "mpl-2.0",
     "name": "Mozilla Public License 2.0",
@@ -102,8 +102,8 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 10,
-  "open_issues": 4,
+  "forks": 11,
+  "open_issues": 6,
   "watchers": 139,
   "default_branch": "main",
   "permissions": {
