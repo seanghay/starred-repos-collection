@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/MasayukiSuda/Mp4Composer-android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/MasayukiSuda/Mp4Composer-android/deployments",
   "created_at": "2018-01-15T11:27:23Z",
-  "updated_at": "2023-06-19T11:59:31Z",
+  "updated_at": "2023-06-29T09:06:19Z",
   "pushed_at": "2020-11-25T15:32:02Z",
   "git_url": "git://github.com/MasayukiSuda/Mp4Composer-android.git",
   "ssh_url": "git@github.com:MasayukiSuda/Mp4Composer-android.git",

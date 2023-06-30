@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Homebrew/homebrew-autoupdate/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Homebrew/homebrew-autoupdate/deployments",
   "created_at": "2015-04-22T15:36:13Z",
-  "updated_at": "2023-06-25T20:42:18Z",
+  "updated_at": "2023-06-29T18:13:33Z",
   "pushed_at": "2023-06-13T10:05:40Z",
   "git_url": "git://github.com/Homebrew/homebrew-autoupdate.git",
   "ssh_url": "git@github.com:Homebrew/homebrew-autoupdate.git",

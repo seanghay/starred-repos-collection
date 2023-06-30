@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/WebReflection/hyperHTML/releases{/id}",
   "deployments_url": "https://api.github.com/repos/WebReflection/hyperHTML/deployments",
   "created_at": "2017-03-04T11:12:27Z",
-  "updated_at": "2023-06-28T17:54:38Z",
+  "updated_at": "2023-06-29T20:44:23Z",
   "pushed_at": "2022-11-02T21:24:40Z",
   "git_url": "git://github.com/WebReflection/hyperHTML.git",
   "ssh_url": "git@github.com:WebReflection/hyperHTML.git",
