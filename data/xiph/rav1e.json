@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/xiph/rav1e.git",
   "svn_url": "https://github.com/xiph/rav1e",
   "homepage": "",
-  "size": 17124,
+  "size": 17128,
   "stargazers_count": 3261,
   "watchers_count": 3261,
   "language": "Assembly",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 256
+  "_index": 258
 }

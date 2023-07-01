@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/NixOS/nix/releases{/id}",
   "deployments_url": "https://api.github.com/repos/NixOS/nix/deployments",
   "created_at": "2012-02-08T10:17:59Z",
-  "updated_at": "2023-06-30T01:02:43Z",
-  "pushed_at": "2023-06-29T23:38:43Z",
+  "updated_at": "2023-07-01T01:51:43Z",
+  "pushed_at": "2023-06-30T22:17:08Z",
   "git_url": "git://github.com/NixOS/nix.git",
   "ssh_url": "git@github.com:NixOS/nix.git",
   "clone_url": "https://github.com/NixOS/nix.git",
   "svn_url": "https://github.com/NixOS/nix",
   "homepage": "https://nixos.org/",
-  "size": 63604,
-  "stargazers_count": 8399,
-  "watchers_count": 8399,
+  "size": 63612,
+  "stargazers_count": 8409,
+  "watchers_count": 8409,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1152,
+  "forks_count": 1153,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2682,
+  "open_issues_count": 2687,
   "license": {
     "key": "lgpl-2.1",
     "name": "GNU Lesser General Public License v2.1",
@@ -105,9 +105,9 @@
     "package-manager"
   ],
   "visibility": "public",
-  "forks": 1152,
-  "open_issues": 2682,
-  "watchers": 8399,
+  "forks": 1153,
+  "open_issues": 2687,
+  "watchers": 8409,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1024
+  "_index": 1026
 }

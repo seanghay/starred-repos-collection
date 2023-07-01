@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/eslint-plugin-unicorn/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/eslint-plugin-unicorn/deployments",
   "created_at": "2016-04-09T07:48:04Z",
-  "updated_at": "2023-06-28T06:08:38Z",
+  "updated_at": "2023-06-30T10:21:45Z",
   "pushed_at": "2023-06-25T00:09:50Z",
   "git_url": "git://github.com/sindresorhus/eslint-plugin-unicorn.git",
   "ssh_url": "git@github.com:sindresorhus/eslint-plugin-unicorn.git",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 563
+  "_index": 565
 }

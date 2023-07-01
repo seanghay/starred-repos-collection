@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/facebook/litho/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebook/litho/deployments",
   "created_at": "2017-01-27T03:59:11Z",
-  "updated_at": "2023-06-26T10:11:18Z",
-  "pushed_at": "2023-06-29T18:31:52Z",
+  "updated_at": "2023-06-30T03:12:30Z",
+  "pushed_at": "2023-06-30T18:54:12Z",
   "git_url": "git://github.com/facebook/litho.git",
   "ssh_url": "git@github.com:facebook/litho.git",
   "clone_url": "https://github.com/facebook/litho.git",
   "svn_url": "https://github.com/facebook/litho",
   "homepage": "https://fblitho.com",
-  "size": 696314,
-  "stargazers_count": 7551,
-  "watchers_count": 7551,
+  "size": 696669,
+  "stargazers_count": 7552,
+  "watchers_count": 7552,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 121,
+  "open_issues_count": 119,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 757,
-  "open_issues": 121,
-  "watchers": 7551,
+  "open_issues": 119,
+  "watchers": 7552,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2748
+  "_index": 2750
 }

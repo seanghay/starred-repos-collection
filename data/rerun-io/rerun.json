@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/rerun-io/rerun/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rerun-io/rerun/deployments",
   "created_at": "2022-04-08T07:30:05Z",
-  "updated_at": "2023-06-29T16:49:18Z",
-  "pushed_at": "2023-06-29T21:05:05Z",
+  "updated_at": "2023-06-30T22:28:09Z",
+  "pushed_at": "2023-07-01T00:46:55Z",
   "git_url": "git://github.com/rerun-io/rerun.git",
   "ssh_url": "git@github.com:rerun-io/rerun.git",
   "clone_url": "https://github.com/rerun-io/rerun.git",
   "svn_url": "https://github.com/rerun-io/rerun",
   "homepage": "https://rerun.io",
-  "size": 33763,
-  "stargazers_count": 2494,
-  "watchers_count": 2494,
+  "size": 33720,
+  "stargazers_count": 2497,
+  "watchers_count": 2497,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 422,
+  "open_issues_count": 420,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 107,
-  "open_issues": 422,
-  "watchers": 2494,
+  "open_issues": 420,
+  "watchers": 2497,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 187
+  "_index": 189
 }

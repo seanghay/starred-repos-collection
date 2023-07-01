@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/dotenv-org/dotenv-vault/releases{/id}",
   "deployments_url": "https://api.github.com/repos/dotenv-org/dotenv-vault/deployments",
   "created_at": "2022-03-14T08:08:01Z",
-  "updated_at": "2023-06-29T10:19:47Z",
+  "updated_at": "2023-06-30T16:41:28Z",
   "pushed_at": "2023-06-28T23:22:04Z",
   "git_url": "git://github.com/dotenv-org/dotenv-vault.git",
   "ssh_url": "git@github.com:dotenv-org/dotenv-vault.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/dotenv-org/dotenv-vault",
   "homepage": "https://dotenv.org",
   "size": 3003,
-  "stargazers_count": 700,
-  "watchers_count": 700,
+  "stargazers_count": 702,
+  "watchers_count": 702,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -118,7 +118,7 @@
   "visibility": "public",
   "forks": 25,
   "open_issues": 30,
-  "watchers": 700,
+  "watchers": 702,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 836
+  "_index": 838
 }

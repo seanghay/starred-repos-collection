@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/gajus/slonik/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gajus/slonik/deployments",
   "created_at": "2017-03-24T10:45:50Z",
-  "updated_at": "2023-06-29T08:11:07Z",
-  "pushed_at": "2023-06-19T06:56:43Z",
+  "updated_at": "2023-06-30T23:02:12Z",
+  "pushed_at": "2023-06-30T18:58:47Z",
   "git_url": "git://github.com/gajus/slonik.git",
   "ssh_url": "git@github.com:gajus/slonik.git",
   "clone_url": "https://github.com/gajus/slonik.git",
   "svn_url": "https://github.com/gajus/slonik",
   "homepage": "",
   "size": 5434,
-  "stargazers_count": 3941,
-  "watchers_count": 3941,
+  "stargazers_count": 3946,
+  "watchers_count": 3946,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 35,
+  "open_issues_count": 37,
   "license": {
     "key": "other",
     "name": "Other",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 119,
-  "open_issues": 35,
-  "watchers": 3941,
+  "open_issues": 37,
+  "watchers": 3946,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1986
+  "_index": 1988
 }

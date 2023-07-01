@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/MRezaNasirloo/Slick/releases{/id}",
   "deployments_url": "https://api.github.com/repos/MRezaNasirloo/Slick/deployments",
   "created_at": "2018-03-27T17:01:45Z",
-  "updated_at": "2023-06-27T02:52:13Z",
+  "updated_at": "2023-06-30T23:04:31Z",
   "pushed_at": "2020-01-24T10:04:10Z",
   "git_url": "git://github.com/MRezaNasirloo/Slick.git",
   "ssh_url": "git@github.com:MRezaNasirloo/Slick.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/MRezaNasirloo/Slick",
   "homepage": "https://medium.com/@m.reza.nasirloo/introducing-slick-the-reactive-mvp-framework-b083222db5f9",
   "size": 881,
-  "stargazers_count": 194,
-  "watchers_count": 194,
+  "stargazers_count": 195,
+  "watchers_count": 195,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 20,
   "open_issues": 2,
-  "watchers": 194,
+  "watchers": 195,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2703
+  "_index": 2705
 }

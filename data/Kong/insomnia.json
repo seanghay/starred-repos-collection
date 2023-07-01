@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Kong/insomnia/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Kong/insomnia/deployments",
   "created_at": "2016-04-23T03:54:26Z",
-  "updated_at": "2023-06-30T01:04:23Z",
+  "updated_at": "2023-07-01T02:02:15Z",
   "pushed_at": "2023-06-29T18:04:37Z",
   "git_url": "git://github.com/Kong/insomnia.git",
   "ssh_url": "git@github.com:Kong/insomnia.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Kong/insomnia",
   "homepage": "https://insomnia.rest",
   "size": 118772,
-  "stargazers_count": 28737,
-  "watchers_count": 28737,
+  "stargazers_count": 28804,
+  "watchers_count": 28804,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1504,
+  "forks_count": 1507,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 541,
+  "open_issues_count": 542,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -110,9 +110,9 @@
     "websockets"
   ],
   "visibility": "public",
-  "forks": 1504,
-  "open_issues": 541,
-  "watchers": 28737,
+  "forks": 1507,
+  "open_issues": 542,
+  "watchers": 28804,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2102
+  "_index": 2104
 }

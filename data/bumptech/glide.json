@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bumptech/glide/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bumptech/glide/deployments",
   "created_at": "2013-07-08T22:52:33Z",
-  "updated_at": "2023-06-29T19:16:29Z",
+  "updated_at": "2023-07-01T01:29:37Z",
   "pushed_at": "2023-06-21T18:21:27Z",
   "git_url": "git://github.com/bumptech/glide.git",
   "ssh_url": "git@github.com:bumptech/glide.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/bumptech/glide",
   "homepage": "https://bumptech.github.io/glide/",
   "size": 95423,
-  "stargazers_count": 33697,
-  "watchers_count": 33697,
+  "stargazers_count": 33698,
+  "watchers_count": 33698,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 6080,
+  "forks_count": 6081,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 442,
+  "open_issues_count": 444,
   "license": {
     "key": "other",
     "name": "Other",
@@ -105,9 +105,9 @@
     "imageloader"
   ],
   "visibility": "public",
-  "forks": 6080,
-  "open_issues": 442,
-  "watchers": 33697,
+  "forks": 6081,
+  "open_issues": 444,
+  "watchers": 33698,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2701
+  "_index": 2703
 }

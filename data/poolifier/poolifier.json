@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/poolifier/poolifier/releases{/id}",
   "deployments_url": "https://api.github.com/repos/poolifier/poolifier/deployments",
   "created_at": "2020-01-17T10:23:27Z",
-  "updated_at": "2023-06-22T06:14:44Z",
-  "pushed_at": "2023-06-29T18:37:22Z",
+  "updated_at": "2023-06-30T22:15:11Z",
+  "pushed_at": "2023-06-30T23:06:34Z",
   "git_url": "git://github.com/poolifier/poolifier.git",
   "ssh_url": "git@github.com:poolifier/poolifier.git",
   "clone_url": "https://github.com/poolifier/poolifier.git",
   "svn_url": "https://github.com/poolifier/poolifier",
   "homepage": "https://poolifier.github.io/poolifier",
-  "size": 7885,
-  "stargazers_count": 212,
-  "watchers_count": 212,
+  "size": 8012,
+  "stargazers_count": 213,
+  "watchers_count": 213,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 14,
+  "open_issues_count": 15,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -115,8 +115,8 @@
   ],
   "visibility": "public",
   "forks": 10,
-  "open_issues": 14,
-  "watchers": 212,
+  "open_issues": 15,
+  "watchers": 213,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 189
+  "_index": 191
 }

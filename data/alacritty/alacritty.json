@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/alacritty/alacritty/releases{/id}",
   "deployments_url": "https://api.github.com/repos/alacritty/alacritty/deployments",
   "created_at": "2016-02-18T05:02:30Z",
-  "updated_at": "2023-06-30T01:50:20Z",
+  "updated_at": "2023-07-01T02:21:30Z",
   "pushed_at": "2023-06-29T21:06:41Z",
   "git_url": "git://github.com/alacritty/alacritty.git",
   "ssh_url": "git@github.com:alacritty/alacritty.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/alacritty/alacritty",
   "homepage": "https://alacritty.org",
   "size": 13056,
-  "stargazers_count": 47401,
-  "watchers_count": 47401,
+  "stargazers_count": 47413,
+  "watchers_count": 47413,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2802,
+  "forks_count": 2803,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,9 +110,9 @@
     "windows"
   ],
   "visibility": "public",
-  "forks": 2802,
+  "forks": 2803,
   "open_issues": 325,
-  "watchers": 47401,
+  "watchers": 47413,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 595
+  "_index": 597
 }
