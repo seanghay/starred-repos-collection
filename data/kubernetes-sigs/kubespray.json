@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 5940,
+  "forks_count": 5942,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 146,
+  "open_issues_count": 145,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -110,8 +110,8 @@
     "kubespray"
   ],
   "visibility": "public",
-  "forks": 5940,
-  "open_issues": 146,
+  "forks": 5942,
+  "open_issues": 145,
   "watchers": 14137,
   "default_branch": "master",
   "permissions": {
