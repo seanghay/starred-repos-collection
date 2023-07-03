@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/dotenv-org/dotenv-vault",
-  "description": "Simplify Your Secrets. The #1 secrets manager for .env files.",
+  "description": "A secrets manager for .env files",
   "fork": false,
   "url": "https://api.github.com/repos/dotenv-org/dotenv-vault",
   "forks_url": "https://api.github.com/repos/dotenv-org/dotenv-vault/forks",
@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/dotenv-org/dotenv-vault/releases{/id}",
   "deployments_url": "https://api.github.com/repos/dotenv-org/dotenv-vault/deployments",
   "created_at": "2022-03-14T08:08:01Z",
-  "updated_at": "2023-06-30T16:41:28Z",
-  "pushed_at": "2023-07-01T23:34:05Z",
+  "updated_at": "2023-07-02T21:51:30Z",
+  "pushed_at": "2023-07-02T16:59:40Z",
   "git_url": "git://github.com/dotenv-org/dotenv-vault.git",
   "ssh_url": "git@github.com:dotenv-org/dotenv-vault.git",
   "clone_url": "https://github.com/dotenv-org/dotenv-vault.git",
   "svn_url": "https://github.com/dotenv-org/dotenv-vault",
   "homepage": "https://dotenv.org",
-  "size": 3016,
+  "size": 3024,
   "stargazers_count": 702,
   "watchers_count": 702,
   "language": "TypeScript",
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 838
+  "_index": 839
 }

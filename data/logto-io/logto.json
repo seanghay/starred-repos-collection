@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/logto-io/logto/releases{/id}",
   "deployments_url": "https://api.github.com/repos/logto-io/logto/deployments",
   "created_at": "2021-06-19T03:01:50Z",
-  "updated_at": "2023-07-01T14:15:18Z",
-  "pushed_at": "2023-07-01T13:45:27Z",
+  "updated_at": "2023-07-03T02:12:58Z",
+  "pushed_at": "2023-07-03T02:20:30Z",
   "git_url": "git://github.com/logto-io/logto.git",
   "ssh_url": "git@github.com:logto-io/logto.git",
   "clone_url": "https://github.com/logto-io/logto.git",
   "svn_url": "https://github.com/logto-io/logto",
   "homepage": "https://logto.io",
-  "size": 29794,
-  "stargazers_count": 5965,
-  "watchers_count": 5965,
+  "size": 29802,
+  "stargazers_count": 5967,
+  "watchers_count": 5967,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 63,
+  "open_issues_count": 64,
   "license": {
     "key": "other",
     "name": "Other",
@@ -117,8 +117,8 @@
   ],
   "visibility": "public",
   "forks": 234,
-  "open_issues": 63,
-  "watchers": 5965,
+  "open_issues": 64,
+  "watchers": 5967,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 642
+  "_index": 643
 }

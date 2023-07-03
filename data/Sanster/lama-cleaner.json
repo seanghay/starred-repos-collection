@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Sanster/lama-cleaner/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Sanster/lama-cleaner/deployments",
   "created_at": "2021-11-15T14:16:40Z",
-  "updated_at": "2023-07-02T01:40:45Z",
+  "updated_at": "2023-07-03T01:59:39Z",
   "pushed_at": "2023-06-27T02:09:12Z",
   "git_url": "git://github.com/Sanster/lama-cleaner.git",
   "ssh_url": "git@github.com:Sanster/lama-cleaner.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Sanster/lama-cleaner",
   "homepage": "https://lama-cleaner-docs.vercel.app/",
   "size": 21267,
-  "stargazers_count": 11897,
-  "watchers_count": 11897,
+  "stargazers_count": 11910,
+  "watchers_count": 11910,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 1158,
   "open_issues": 50,
-  "watchers": 11897,
+  "watchers": 11910,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 499
+  "_index": 500
 }

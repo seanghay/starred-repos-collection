@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nayuki/QR-Code-generator/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nayuki/QR-Code-generator/deployments",
   "created_at": "2016-04-15T02:19:41Z",
-  "updated_at": "2023-07-01T22:16:13Z",
+  "updated_at": "2023-07-03T02:21:10Z",
   "pushed_at": "2023-06-19T12:43:15Z",
   "git_url": "git://github.com/nayuki/QR-Code-generator.git",
   "ssh_url": "git@github.com:nayuki/QR-Code-generator.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nayuki/QR-Code-generator",
   "homepage": "https://www.nayuki.io/page/qr-code-generator-library",
   "size": 1369,
-  "stargazers_count": 4053,
-  "watchers_count": 4053,
+  "stargazers_count": 4067,
+  "watchers_count": 4067,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 10,
+  "open_issues_count": 12,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 989,
-  "open_issues": 10,
-  "watchers": 4053,
+  "open_issues": 12,
+  "watchers": 4067,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 19
+  "_index": 20
 }

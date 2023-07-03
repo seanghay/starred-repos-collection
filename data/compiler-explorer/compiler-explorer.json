@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/compiler-explorer/compiler-explorer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/compiler-explorer/compiler-explorer/deployments",
   "created_at": "2012-05-23T01:31:17Z",
-  "updated_at": "2023-07-01T19:57:00Z",
-  "pushed_at": "2023-07-02T01:30:52Z",
+  "updated_at": "2023-07-02T19:31:50Z",
+  "pushed_at": "2023-07-03T02:07:48Z",
   "git_url": "git://github.com/compiler-explorer/compiler-explorer.git",
   "ssh_url": "git@github.com:compiler-explorer/compiler-explorer.git",
   "clone_url": "https://github.com/compiler-explorer/compiler-explorer.git",
   "svn_url": "https://github.com/compiler-explorer/compiler-explorer",
   "homepage": "https://godbolt.org/",
-  "size": 60748,
-  "stargazers_count": 13452,
-  "watchers_count": 13452,
+  "size": 60633,
+  "stargazers_count": 13456,
+  "watchers_count": 13456,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1503,
+  "forks_count": 1504,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -112,9 +112,9 @@
     "swift"
   ],
   "visibility": "public",
-  "forks": 1503,
+  "forks": 1504,
   "open_issues": 622,
-  "watchers": 13452,
+  "watchers": 13456,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 414
+  "_index": 415
 }

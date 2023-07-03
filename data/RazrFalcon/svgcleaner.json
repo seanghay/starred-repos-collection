@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/RazrFalcon/svgcleaner/releases{/id}",
   "deployments_url": "https://api.github.com/repos/RazrFalcon/svgcleaner/deployments",
   "created_at": "2012-01-05T11:03:27Z",
-  "updated_at": "2023-07-01T16:09:00Z",
+  "updated_at": "2023-07-02T11:03:18Z",
   "pushed_at": "2021-10-30T13:53:34Z",
   "git_url": "git://github.com/RazrFalcon/svgcleaner.git",
   "ssh_url": "git@github.com:RazrFalcon/svgcleaner.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 88,
+  "forks_count": 89,
   "mirror_url": null,
   "archived": true,
   "disabled": false,
@@ -103,7 +103,7 @@
     "svg"
   ],
   "visibility": "public",
-  "forks": 88,
+  "forks": 89,
   "open_issues": 104,
   "watchers": 1568,
   "default_branch": "master",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1513
+  "_index": 1514
 }

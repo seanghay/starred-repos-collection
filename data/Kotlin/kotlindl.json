@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Kotlin/kotlindl/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Kotlin/kotlindl/deployments",
   "created_at": "2020-03-25T10:27:21Z",
-  "updated_at": "2023-06-26T23:55:38Z",
+  "updated_at": "2023-07-02T05:36:16Z",
   "pushed_at": "2023-05-22T14:21:12Z",
   "git_url": "git://github.com/Kotlin/kotlindl.git",
   "ssh_url": "git@github.com:Kotlin/kotlindl.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Kotlin/kotlindl",
   "homepage": "",
   "size": 342691,
-  "stargazers_count": 1244,
-  "watchers_count": 1244,
+  "stargazers_count": 1246,
+  "watchers_count": 1246,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 107,
+  "forks_count": 106,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "tensorflow"
   ],
   "visibility": "public",
-  "forks": 107,
+  "forks": 106,
   "open_issues": 74,
-  "watchers": 1244,
+  "watchers": 1246,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1502
+  "_index": 1503
 }

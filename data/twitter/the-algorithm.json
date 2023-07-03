@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/twitter/the-algorithm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/twitter/the-algorithm/deployments",
   "created_at": "2023-03-27T14:57:57Z",
-  "updated_at": "2023-07-02T02:16:32Z",
+  "updated_at": "2023-07-03T02:05:21Z",
   "pushed_at": "2023-06-28T23:51:21Z",
   "git_url": "git://github.com/twitter/the-algorithm.git",
   "ssh_url": "git@github.com:twitter/the-algorithm.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/twitter/the-algorithm",
   "homepage": "https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm",
   "size": 7567,
-  "stargazers_count": 58360,
-  "watchers_count": 58360,
+  "stargazers_count": 58370,
+  "watchers_count": 58370,
   "language": "Scala",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 11926,
+  "forks_count": 11928,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 347,
+  "open_issues_count": 349,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 11926,
-  "open_issues": 347,
-  "watchers": 58360,
+  "forks": 11928,
+  "open_issues": 349,
+  "watchers": 58370,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 222
+  "_index": 223
 }
