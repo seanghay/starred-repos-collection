@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/SysCV/sam-hq/releases{/id}",
   "deployments_url": "https://api.github.com/repos/SysCV/sam-hq/deployments",
   "created_at": "2023-06-01T02:04:54Z",
-  "updated_at": "2023-07-02T17:20:55Z",
+  "updated_at": "2023-07-03T21:03:28Z",
   "pushed_at": "2023-06-28T03:47:20Z",
   "git_url": "git://github.com/SysCV/sam-hq.git",
   "ssh_url": "git@github.com:SysCV/sam-hq.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/SysCV/sam-hq",
   "homepage": "https://arxiv.org/abs/2306.01567",
   "size": 33869,
-  "stargazers_count": 1979,
-  "watchers_count": 1979,
+  "stargazers_count": 1990,
+  "watchers_count": 1990,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 78,
+  "forks_count": 81,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "zero-shot-segmentation"
   ],
   "visibility": "public",
-  "forks": 78,
+  "forks": 81,
   "open_issues": 22,
-  "watchers": 1979,
+  "watchers": 1990,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 73
+  "_index": 75
 }

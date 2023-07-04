@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jonschlinkert/remarkable/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jonschlinkert/remarkable/deployments",
   "created_at": "2014-09-01T17:57:42Z",
-  "updated_at": "2023-07-01T17:01:41Z",
+  "updated_at": "2023-07-03T15:57:44Z",
   "pushed_at": "2023-03-30T05:55:40Z",
   "git_url": "git://github.com/jonschlinkert/remarkable.git",
   "ssh_url": "git@github.com:jonschlinkert/remarkable.git",
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1316
+  "_index": 1318
 }

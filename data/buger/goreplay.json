@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/buger/goreplay/releases{/id}",
   "deployments_url": "https://api.github.com/repos/buger/goreplay/deployments",
   "created_at": "2013-05-30T09:29:07Z",
-  "updated_at": "2023-07-02T22:55:52Z",
-  "pushed_at": "2023-06-26T08:04:59Z",
+  "updated_at": "2023-07-04T02:02:44Z",
+  "pushed_at": "2023-07-03T07:47:16Z",
   "git_url": "git://github.com/buger/goreplay.git",
   "ssh_url": "git@github.com:buger/goreplay.git",
   "clone_url": "https://github.com/buger/goreplay.git",
   "svn_url": "https://github.com/buger/goreplay",
   "homepage": "https://goreplay.org",
   "size": 18120,
-  "stargazers_count": 17506,
-  "watchers_count": 17506,
+  "stargazers_count": 17509,
+  "watchers_count": 17509,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 1758,
+  "forks_count": 1759,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "testing-tools"
   ],
   "visibility": "public",
-  "forks": 1758,
+  "forks": 1759,
   "open_issues": 309,
-  "watchers": 17506,
+  "watchers": 17509,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 430
+  "_index": 432
 }

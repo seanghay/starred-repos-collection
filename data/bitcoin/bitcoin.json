@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/bitcoin/bitcoin/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bitcoin/bitcoin/deployments",
   "created_at": "2010-12-19T15:16:43Z",
-  "updated_at": "2023-07-03T02:13:34Z",
-  "pushed_at": "2023-07-02T12:25:22Z",
+  "updated_at": "2023-07-04T01:51:28Z",
+  "pushed_at": "2023-07-04T01:42:19Z",
   "git_url": "git://github.com/bitcoin/bitcoin.git",
   "ssh_url": "git@github.com:bitcoin/bitcoin.git",
   "clone_url": "https://github.com/bitcoin/bitcoin.git",
   "svn_url": "https://github.com/bitcoin/bitcoin",
   "homepage": "https://bitcoincore.org/en/download",
-  "size": 235221,
-  "stargazers_count": 70196,
-  "watchers_count": 70196,
+  "size": 235188,
+  "stargazers_count": 70204,
+  "watchers_count": 70204,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 35158,
+  "forks_count": 35175,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "p2p"
   ],
   "visibility": "public",
-  "forks": 35158,
+  "forks": 35175,
   "open_issues": 635,
-  "watchers": 70196,
+  "watchers": 70204,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2827
+  "_index": 2829
 }

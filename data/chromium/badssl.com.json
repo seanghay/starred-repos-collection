@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/chromium/badssl.com/releases{/id}",
   "deployments_url": "https://api.github.com/repos/chromium/badssl.com/deployments",
   "created_at": "2015-04-07T22:37:47Z",
-  "updated_at": "2023-07-02T05:49:16Z",
-  "pushed_at": "2022-10-24T22:12:36Z",
+  "updated_at": "2023-07-03T12:58:16Z",
+  "pushed_at": "2023-07-03T20:14:50Z",
   "git_url": "git://github.com/chromium/badssl.com.git",
   "ssh_url": "git@github.com:chromium/badssl.com.git",
   "clone_url": "https://github.com/chromium/badssl.com.git",
   "svn_url": "https://github.com/chromium/badssl.com",
   "homepage": "https://badssl.com",
   "size": 6782,
-  "stargazers_count": 2584,
-  "watchers_count": 2584,
+  "stargazers_count": 2586,
+  "watchers_count": 2586,
   "language": "HTML",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 196,
+  "forks_count": 197,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 199,
+  "open_issues_count": 200,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -112,9 +112,9 @@
     "tls"
   ],
   "visibility": "public",
-  "forks": 196,
-  "open_issues": 199,
-  "watchers": 2584,
+  "forks": 197,
+  "open_issues": 200,
+  "watchers": 2586,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1614
+  "_index": 1616
 }

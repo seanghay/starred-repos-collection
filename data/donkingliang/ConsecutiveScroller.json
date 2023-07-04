@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/donkingliang/ConsecutiveScroller/releases{/id}",
   "deployments_url": "https://api.github.com/repos/donkingliang/ConsecutiveScroller/deployments",
   "created_at": "2020-03-15T08:01:26Z",
-  "updated_at": "2023-07-03T01:30:27Z",
+  "updated_at": "2023-07-03T09:49:22Z",
   "pushed_at": "2023-03-28T06:57:07Z",
   "git_url": "git://github.com/donkingliang/ConsecutiveScroller.git",
   "ssh_url": "git@github.com:donkingliang/ConsecutiveScroller.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/donkingliang/ConsecutiveScroller",
   "homepage": "",
   "size": 7292,
-  "stargazers_count": 2383,
-  "watchers_count": 2383,
+  "stargazers_count": 2389,
+  "watchers_count": 2389,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 333,
+  "forks_count": 335,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -111,9 +111,9 @@
     "sticky-headers"
   ],
   "visibility": "public",
-  "forks": 333,
+  "forks": 335,
   "open_issues": 36,
-  "watchers": 2383,
+  "watchers": 2389,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1826
+  "_index": 1828
 }

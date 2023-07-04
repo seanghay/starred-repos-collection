@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/skydoves/ColorPickerView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/skydoves/ColorPickerView/deployments",
   "created_at": "2017-03-06T14:01:27Z",
-  "updated_at": "2023-07-01T12:56:49Z",
+  "updated_at": "2023-07-03T08:50:56Z",
   "pushed_at": "2023-04-08T04:55:44Z",
   "git_url": "git://github.com/skydoves/ColorPickerView.git",
   "ssh_url": "git@github.com:skydoves/ColorPickerView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/skydoves/ColorPickerView",
   "homepage": "",
   "size": 23782,
-  "stargazers_count": 1400,
-  "watchers_count": 1400,
+  "stargazers_count": 1399,
+  "watchers_count": 1399,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 196,
+  "forks_count": 197,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,9 +109,9 @@
     "skydoves"
   ],
   "visibility": "public",
-  "forks": 196,
+  "forks": 197,
   "open_issues": 10,
-  "watchers": 1400,
+  "watchers": 1399,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2304
+  "_index": 2306
 }

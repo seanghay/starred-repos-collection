@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/auerswal/ssocr/releases{/id}",
   "deployments_url": "https://api.github.com/repos/auerswal/ssocr/deployments",
   "created_at": "2016-04-26T19:51:15Z",
-  "updated_at": "2023-06-08T08:48:30Z",
+  "updated_at": "2023-07-03T21:48:41Z",
   "pushed_at": "2023-05-21T16:46:01Z",
   "git_url": "git://github.com/auerswal/ssocr.git",
   "ssh_url": "git@github.com:auerswal/ssocr.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/auerswal/ssocr",
   "homepage": "https://www.unix-ag.uni-kl.de/~auerswal/ssocr/index.html",
   "size": 986,
-  "stargazers_count": 180,
-  "watchers_count": 180,
+  "stargazers_count": 181,
+  "watchers_count": 181,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 40,
   "open_issues": 0,
-  "watchers": 180,
+  "watchers": 181,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 883
+  "_index": 885
 }
