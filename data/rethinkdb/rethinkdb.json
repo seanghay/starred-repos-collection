@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/rethinkdb/rethinkdb/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rethinkdb/rethinkdb/deployments",
   "created_at": "2012-10-30T05:37:47Z",
-  "updated_at": "2023-07-03T17:56:05Z",
+  "updated_at": "2023-07-04T15:04:36Z",
   "pushed_at": "2023-06-14T01:36:18Z",
   "git_url": "git://github.com/rethinkdb/rethinkdb.git",
   "ssh_url": "git@github.com:rethinkdb/rethinkdb.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/rethinkdb/rethinkdb",
   "homepage": "https://rethinkdb.com",
   "size": 282038,
-  "stargazers_count": 26166,
-  "watchers_count": 26166,
+  "stargazers_count": 26167,
+  "watchers_count": 26167,
   "language": "C++",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 1889,
   "open_issues": 1345,
-  "watchers": 26166,
+  "watchers": 26167,
   "default_branch": "v2.4.x",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2311
+  "_index": 2327
 }

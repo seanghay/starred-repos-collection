@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/borisdayma/dalle-mini/releases{/id}",
   "deployments_url": "https://api.github.com/repos/borisdayma/dalle-mini/deployments",
   "created_at": "2021-07-03T18:04:37Z",
-  "updated_at": "2023-07-03T23:49:39Z",
+  "updated_at": "2023-07-05T02:11:58Z",
   "pushed_at": "2023-06-29T19:26:12Z",
   "git_url": "git://github.com/borisdayma/dalle-mini.git",
   "ssh_url": "git@github.com:borisdayma/dalle-mini.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/borisdayma/dalle-mini",
   "homepage": "https://www.craiyon.com",
   "size": 18728,
-  "stargazers_count": 14209,
-  "watchers_count": 14209,
+  "stargazers_count": 14217,
+  "watchers_count": 14217,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 1149,
   "open_issues": 93,
-  "watchers": 14209,
+  "watchers": 14217,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 762
+  "_index": 778
 }

@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/lokalise/i18n-ally/deployments",
   "created_at": "2019-05-05T16:54:17Z",
   "updated_at": "2023-07-03T13:08:37Z",
-  "pushed_at": "2023-07-03T20:32:33Z",
+  "pushed_at": "2023-07-04T07:47:30Z",
   "git_url": "git://github.com/lokalise/i18n-ally.git",
   "ssh_url": "git@github.com:lokalise/i18n-ally.git",
   "clone_url": "https://github.com/lokalise/i18n-ally.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 195,
+  "open_issues_count": 198,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,7 +112,7 @@
   ],
   "visibility": "public",
   "forks": 229,
-  "open_issues": 195,
+  "open_issues": 198,
   "watchers": 2943,
   "default_branch": "main",
   "permissions": {
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1573
+  "_index": 1589
 }

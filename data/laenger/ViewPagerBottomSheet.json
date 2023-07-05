@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/laenger/ViewPagerBottomSheet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/laenger/ViewPagerBottomSheet/deployments",
   "created_at": "2016-07-06T19:14:24Z",
-  "updated_at": "2023-06-28T02:31:27Z",
+  "updated_at": "2023-07-04T16:26:24Z",
   "pushed_at": "2019-11-05T17:49:06Z",
   "git_url": "git://github.com/laenger/ViewPagerBottomSheet.git",
   "ssh_url": "git@github.com:laenger/ViewPagerBottomSheet.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1731
+  "_index": 1747
 }

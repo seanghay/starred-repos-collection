@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/globby/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/globby/deployments",
   "created_at": "2014-06-21T13:48:39Z",
-  "updated_at": "2023-07-02T14:35:33Z",
-  "pushed_at": "2023-07-01T18:15:10Z",
+  "updated_at": "2023-07-05T01:51:15Z",
+  "pushed_at": "2023-07-04T13:45:59Z",
   "git_url": "git://github.com/sindresorhus/globby.git",
   "ssh_url": "git@github.com:sindresorhus/globby.git",
   "clone_url": "https://github.com/sindresorhus/globby.git",
   "svn_url": "https://github.com/sindresorhus/globby",
   "homepage": "",
   "size": 177,
-  "stargazers_count": 2330,
-  "watchers_count": 2330,
+  "stargazers_count": 2332,
+  "watchers_count": 2332,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 31,
+  "open_issues_count": 32,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,8 +109,8 @@
   ],
   "visibility": "public",
   "forks": 149,
-  "open_issues": 31,
-  "watchers": 2330,
+  "open_issues": 32,
+  "watchers": 2332,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 759
+  "_index": 775
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Vision-CAIR/MiniGPT-4/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Vision-CAIR/MiniGPT-4/deployments",
   "created_at": "2023-04-15T22:17:09Z",
-  "updated_at": "2023-07-04T02:12:24Z",
+  "updated_at": "2023-07-05T01:07:49Z",
   "pushed_at": "2023-06-07T01:42:21Z",
   "git_url": "git://github.com/Vision-CAIR/MiniGPT-4.git",
   "ssh_url": "git@github.com:Vision-CAIR/MiniGPT-4.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Vision-CAIR/MiniGPT-4",
   "homepage": "https://minigpt-4.github.io",
   "size": 46415,
-  "stargazers_count": 21313,
-  "watchers_count": 21313,
+  "stargazers_count": 21332,
+  "watchers_count": 21332,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2468,
+  "forks_count": 2474,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 2468,
+  "forks": 2474,
   "open_issues": 204,
-  "watchers": 21313,
+  "watchers": 21332,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 136
+  "_index": 152
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bilibili/ijkplayer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bilibili/ijkplayer/deployments",
   "created_at": "2013-06-03T04:12:04Z",
-  "updated_at": "2023-07-04T01:16:03Z",
+  "updated_at": "2023-07-04T19:45:13Z",
   "pushed_at": "2023-04-24T23:55:31Z",
   "git_url": "git://github.com/bilibili/ijkplayer.git",
   "ssh_url": "git@github.com:bilibili/ijkplayer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/bilibili/ijkplayer",
   "homepage": "",
   "size": 8283,
-  "stargazers_count": 31476,
-  "watchers_count": 31476,
+  "stargazers_count": 31480,
+  "watchers_count": 31480,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 8017,
+  "forks_count": 8018,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,9 +106,9 @@
     "video"
   ],
   "visibility": "public",
-  "forks": 8017,
+  "forks": 8018,
   "open_issues": 2818,
-  "watchers": 31476,
+  "watchers": 31480,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2585
+  "_index": 2601
 }

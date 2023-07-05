@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/jpikl/rew/deployments",
   "created_at": "2020-03-16T02:33:27Z",
   "updated_at": "2023-04-18T13:03:45Z",
-  "pushed_at": "2023-07-04T00:29:24Z",
+  "pushed_at": "2023-07-05T01:19:58Z",
   "git_url": "git://github.com/jpikl/rew.git",
   "ssh_url": "git@github.com:jpikl/rew.git",
   "clone_url": "https://github.com/jpikl/rew.git",
   "svn_url": "https://github.com/jpikl/rew",
   "homepage": "https://jpikl.github.io/rew/",
-  "size": 1485,
+  "size": 1515,
   "stargazers_count": 36,
   "watchers_count": 36,
   "language": "Rust",
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1503
+  "_index": 1519
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/electron/electron/releases{/id}",
   "deployments_url": "https://api.github.com/repos/electron/electron/deployments",
   "created_at": "2013-04-12T01:47:36Z",
-  "updated_at": "2023-07-04T02:13:41Z",
-  "pushed_at": "2023-07-04T00:02:57Z",
+  "updated_at": "2023-07-05T02:03:15Z",
+  "pushed_at": "2023-07-04T22:16:42Z",
   "git_url": "git://github.com/electron/electron.git",
   "ssh_url": "git@github.com:electron/electron.git",
   "clone_url": "https://github.com/electron/electron.git",
   "svn_url": "https://github.com/electron/electron",
   "homepage": "https://electronjs.org",
-  "size": 139975,
-  "stargazers_count": 108015,
-  "watchers_count": 108015,
+  "size": 140029,
+  "stargazers_count": 108038,
+  "watchers_count": 108038,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 14776,
+  "forks_count": 14784,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,9 +109,9 @@
     "works-with-codespaces"
   ],
   "visibility": "public",
-  "forks": 14776,
+  "forks": 14784,
   "open_issues": 914,
-  "watchers": 108015,
+  "watchers": 108038,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2399
+  "_index": 2415
 }

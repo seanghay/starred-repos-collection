@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/NVIDIA/FasterTransformer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/NVIDIA/FasterTransformer/deployments",
   "created_at": "2021-04-02T21:36:33Z",
-  "updated_at": "2023-07-04T01:58:41Z",
+  "updated_at": "2023-07-04T19:59:21Z",
   "pushed_at": "2023-07-03T16:09:27Z",
   "git_url": "git://github.com/NVIDIA/FasterTransformer.git",
   "ssh_url": "git@github.com:NVIDIA/FasterTransformer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/NVIDIA/FasterTransformer",
   "homepage": "",
   "size": 68769,
-  "stargazers_count": 3878,
-  "watchers_count": 3878,
+  "stargazers_count": 3888,
+  "watchers_count": 3888,
   "language": "C++",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 663,
+  "forks_count": 666,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 222,
+  "open_issues_count": 225,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -104,9 +104,9 @@
     "transformer"
   ],
   "visibility": "public",
-  "forks": 663,
-  "open_issues": 222,
-  "watchers": 3878,
+  "forks": 666,
+  "open_issues": 225,
+  "watchers": 3888,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 133
+  "_index": 149
 }

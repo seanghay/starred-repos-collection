@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/gorilla/websocket/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gorilla/websocket/deployments",
   "created_at": "2013-10-16T16:41:46Z",
-  "updated_at": "2023-07-04T00:22:35Z",
+  "updated_at": "2023-07-05T01:47:09Z",
   "pushed_at": "2022-12-09T16:03:16Z",
   "git_url": "git://github.com/gorilla/websocket.git",
   "ssh_url": "git@github.com:gorilla/websocket.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/gorilla/websocket",
   "homepage": "",
   "size": 437,
-  "stargazers_count": 19248,
-  "watchers_count": 19248,
+  "stargazers_count": 19253,
+  "watchers_count": 19253,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3357,
+  "forks_count": 3358,
   "mirror_url": null,
   "archived": true,
   "disabled": false,
@@ -105,9 +105,9 @@
     "websocket"
   ],
   "visibility": "public",
-  "forks": 3357,
+  "forks": 3358,
   "open_issues": 40,
-  "watchers": 19248,
+  "watchers": 19253,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1823
+  "_index": 1839
 }

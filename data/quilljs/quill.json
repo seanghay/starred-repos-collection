@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/quilljs/quill/releases{/id}",
   "deployments_url": "https://api.github.com/repos/quilljs/quill/deployments",
   "created_at": "2012-07-30T23:23:18Z",
-  "updated_at": "2023-07-04T02:19:44Z",
-  "pushed_at": "2023-07-03T14:30:18Z",
+  "updated_at": "2023-07-05T01:58:43Z",
+  "pushed_at": "2023-07-05T01:56:06Z",
   "git_url": "git://github.com/quilljs/quill.git",
   "ssh_url": "git@github.com:quilljs/quill.git",
   "clone_url": "https://github.com/quilljs/quill.git",
   "svn_url": "https://github.com/quilljs/quill",
   "homepage": "https://quilljs.com",
-  "size": 15154,
-  "stargazers_count": 36295,
-  "watchers_count": 36295,
+  "size": 15158,
+  "stargazers_count": 36308,
+  "watchers_count": 36308,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 3077,
+  "forks_count": 3078,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1337,
+  "open_issues_count": 1335,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -104,9 +104,9 @@
     "wysiwyg"
   ],
   "visibility": "public",
-  "forks": 3077,
-  "open_issues": 1337,
-  "watchers": 36295,
+  "forks": 3078,
+  "open_issues": 1335,
+  "watchers": 36308,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1929
+  "_index": 1945
 }

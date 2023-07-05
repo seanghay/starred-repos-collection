@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/apollographql/apollo-kotlin/deployments",
   "created_at": "2016-09-28T14:03:30Z",
   "updated_at": "2023-07-02T13:38:44Z",
-  "pushed_at": "2023-07-03T16:20:20Z",
+  "pushed_at": "2023-07-04T14:59:52Z",
   "git_url": "git://github.com/apollographql/apollo-kotlin.git",
   "ssh_url": "git@github.com:apollographql/apollo-kotlin.git",
   "clone_url": "https://github.com/apollographql/apollo-kotlin.git",
   "svn_url": "https://github.com/apollographql/apollo-kotlin",
   "homepage": "https://www.apollographql.com/docs/kotlin",
-  "size": 237905,
+  "size": 237962,
   "stargazers_count": 3498,
   "watchers_count": 3498,
   "language": "Kotlin",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1756
+  "_index": 1772
 }

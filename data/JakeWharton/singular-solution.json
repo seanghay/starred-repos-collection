@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/JakeWharton/singular-solution/deployments",
   "created_at": "2022-12-19T04:44:51Z",
   "updated_at": "2023-06-03T08:05:55Z",
-  "pushed_at": "2023-06-30T20:26:48Z",
+  "pushed_at": "2023-07-05T00:29:29Z",
   "git_url": "git://github.com/JakeWharton/singular-solution.git",
   "ssh_url": "git@github.com:JakeWharton/singular-solution.git",
   "clone_url": "https://github.com/JakeWharton/singular-solution.git",
   "svn_url": "https://github.com/JakeWharton/singular-solution",
   "homepage": "",
-  "size": 204,
+  "size": 146,
   "stargazers_count": 86,
   "watchers_count": 86,
   "language": "Kotlin",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 449
+  "_index": 465
 }

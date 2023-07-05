@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/MasayukiSuda/ImageToVideoAndroid/releases{/id}",
   "deployments_url": "https://api.github.com/repos/MasayukiSuda/ImageToVideoAndroid/deployments",
   "created_at": "2018-09-12T14:15:49Z",
-  "updated_at": "2023-05-28T17:50:40Z",
+  "updated_at": "2023-07-04T06:48:46Z",
   "pushed_at": "2018-10-21T03:57:09Z",
   "git_url": "git://github.com/MasayukiSuda/ImageToVideoAndroid.git",
   "ssh_url": "git@github.com:MasayukiSuda/ImageToVideoAndroid.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/MasayukiSuda/ImageToVideoAndroid",
   "homepage": "",
   "size": 508,
-  "stargazers_count": 102,
-  "watchers_count": 102,
+  "stargazers_count": 103,
+  "watchers_count": 103,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 15,
+  "forks_count": 16,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "video-converter"
   ],
   "visibility": "public",
-  "forks": 15,
+  "forks": 16,
   "open_issues": 3,
-  "watchers": 102,
+  "watchers": 103,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2559
+  "_index": 2575
 }

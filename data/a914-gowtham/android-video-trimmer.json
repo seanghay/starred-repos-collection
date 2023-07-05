@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/a914-gowtham/android-video-trimmer/deployments",
   "created_at": "2020-07-19T20:46:44Z",
   "updated_at": "2023-07-03T08:06:53Z",
-  "pushed_at": "2023-06-27T12:53:23Z",
+  "pushed_at": "2023-07-04T18:25:04Z",
   "git_url": "git://github.com/a914-gowtham/android-video-trimmer.git",
   "ssh_url": "git@github.com:a914-gowtham/android-video-trimmer.git",
   "clone_url": "https://github.com/a914-gowtham/android-video-trimmer.git",
   "svn_url": "https://github.com/a914-gowtham/android-video-trimmer",
   "homepage": "",
-  "size": 196262,
+  "size": 196263,
   "stargazers_count": 289,
   "watchers_count": 289,
   "language": "Java",
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1559
+  "_index": 1575
 }

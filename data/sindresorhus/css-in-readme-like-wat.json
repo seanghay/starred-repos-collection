@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/css-in-readme-like-wat/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/css-in-readme-like-wat/deployments",
   "created_at": "2020-07-21T16:02:52Z",
-  "updated_at": "2023-06-27T08:55:11Z",
+  "updated_at": "2023-07-05T00:00:10Z",
   "pushed_at": "2022-02-05T19:30:13Z",
   "git_url": "git://github.com/sindresorhus/css-in-readme-like-wat.git",
   "ssh_url": "git@github.com:sindresorhus/css-in-readme-like-wat.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sindresorhus/css-in-readme-like-wat",
   "homepage": null,
   "size": 4,
-  "stargazers_count": 5027,
-  "watchers_count": 5027,
+  "stargazers_count": 5028,
+  "watchers_count": 5028,
   "language": null,
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1906,
+  "forks_count": 1908,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -93,9 +93,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 1906,
+  "forks": 1908,
   "open_issues": 1,
-  "watchers": 5027,
+  "watchers": 5028,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1509
+  "_index": 1525
 }

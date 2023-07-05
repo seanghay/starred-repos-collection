@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/wq2012/awesome-diarization.git",
   "svn_url": "https://github.com/wq2012/awesome-diarization",
   "homepage": "https://wq2012.github.io/awesome-diarization/",
-  "size": 111,
+  "size": 123,
   "stargazers_count": 1228,
   "watchers_count": 1228,
   "language": null,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 28
+  "_index": 44
 }
