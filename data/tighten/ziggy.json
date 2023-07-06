@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/tighten/ziggy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tighten/ziggy/deployments",
   "created_at": "2017-08-02T21:07:04Z",
-  "updated_at": "2023-07-04T22:03:47Z",
-  "pushed_at": "2023-05-12T20:10:01Z",
+  "updated_at": "2023-07-06T00:09:39Z",
+  "pushed_at": "2023-07-06T02:10:07Z",
   "git_url": "git://github.com/tighten/ziggy.git",
   "ssh_url": "git@github.com:tighten/ziggy.git",
   "clone_url": "https://github.com/tighten/ziggy.git",
   "svn_url": "https://github.com/tighten/ziggy",
   "homepage": "",
   "size": 2066,
-  "stargazers_count": 3325,
-  "watchers_count": 3325,
+  "stargazers_count": 3328,
+  "watchers_count": 3328,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 210,
+  "forks_count": 211,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 3,
+  "open_issues_count": 4,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,9 +105,9 @@
     "ziggy"
   ],
   "visibility": "public",
-  "forks": 210,
-  "open_issues": 3,
-  "watchers": 3325,
+  "forks": 211,
+  "open_issues": 4,
+  "watchers": 3328,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1427
+  "_index": 1435
 }

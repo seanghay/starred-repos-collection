@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mikepenz/MaterialDrawer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mikepenz/MaterialDrawer/deployments",
   "created_at": "2015-01-31T17:37:10Z",
-  "updated_at": "2023-07-04T10:20:42Z",
+  "updated_at": "2023-07-05T11:08:51Z",
   "pushed_at": "2023-01-10T07:21:16Z",
   "git_url": "git://github.com/mikepenz/MaterialDrawer.git",
   "ssh_url": "git@github.com:mikepenz/MaterialDrawer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mikepenz/MaterialDrawer",
   "homepage": "https://mikepenz.dev",
   "size": 23053,
-  "stargazers_count": 11621,
-  "watchers_count": 11621,
+  "stargazers_count": 11623,
+  "watchers_count": 11623,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -118,7 +118,7 @@
   "visibility": "public",
   "forks": 2078,
   "open_issues": 1,
-  "watchers": 11621,
+  "watchers": 11623,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2474
+  "_index": 2482
 }

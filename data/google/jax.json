@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/google/jax/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/jax/deployments",
   "created_at": "2018-10-25T21:25:02Z",
-  "updated_at": "2023-07-05T01:30:25Z",
-  "pushed_at": "2023-07-04T16:00:50Z",
+  "updated_at": "2023-07-06T02:21:43Z",
+  "pushed_at": "2023-07-06T01:29:13Z",
   "git_url": "git://github.com/google/jax.git",
   "ssh_url": "git@github.com:google/jax.git",
   "clone_url": "https://github.com/google/jax.git",
   "svn_url": "https://github.com/google/jax",
   "homepage": "http://jax.readthedocs.io/",
-  "size": 79504,
-  "stargazers_count": 23699,
-  "watchers_count": 23699,
+  "size": 79541,
+  "stargazers_count": 23708,
+  "watchers_count": 23708,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2222,
+  "forks_count": 2228,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1482,
+  "open_issues_count": 1481,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -101,9 +101,9 @@
     "jax"
   ],
   "visibility": "public",
-  "forks": 2222,
-  "open_issues": 1482,
-  "watchers": 23699,
+  "forks": 2228,
+  "open_issues": 1481,
+  "watchers": 23708,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 229
+  "_index": 237
 }

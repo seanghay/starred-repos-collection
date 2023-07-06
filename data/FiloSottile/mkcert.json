@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/FiloSottile/mkcert/releases{/id}",
   "deployments_url": "https://api.github.com/repos/FiloSottile/mkcert/deployments",
   "created_at": "2018-06-25T05:33:03Z",
-  "updated_at": "2023-07-05T01:39:19Z",
-  "pushed_at": "2023-06-29T07:02:42Z",
+  "updated_at": "2023-07-06T02:16:35Z",
+  "pushed_at": "2023-07-05T15:31:30Z",
   "git_url": "git://github.com/FiloSottile/mkcert.git",
   "ssh_url": "git@github.com:FiloSottile/mkcert.git",
   "clone_url": "https://github.com/FiloSottile/mkcert.git",
   "svn_url": "https://github.com/FiloSottile/mkcert",
   "homepage": "https://mkcert.dev",
   "size": 1844,
-  "stargazers_count": 41559,
-  "watchers_count": 41559,
+  "stargazers_count": 41577,
+  "watchers_count": 41577,
   "language": "Go",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2172,
+  "forks_count": 2175,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 122,
+  "open_issues_count": 123,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -112,9 +112,9 @@
     "windows"
   ],
   "visibility": "public",
-  "forks": 2172,
-  "open_issues": 122,
-  "watchers": 41559,
+  "forks": 2175,
+  "open_issues": 123,
+  "watchers": 41577,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 608
+  "_index": 616
 }

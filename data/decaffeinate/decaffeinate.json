@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/decaffeinate/decaffeinate/releases{/id}",
   "deployments_url": "https://api.github.com/repos/decaffeinate/decaffeinate/deployments",
   "created_at": "2015-01-17T01:00:52Z",
-  "updated_at": "2023-06-28T09:48:48Z",
+  "updated_at": "2023-07-05T20:55:33Z",
   "pushed_at": "2023-05-22T04:09:55Z",
   "git_url": "git://github.com/decaffeinate/decaffeinate.git",
   "ssh_url": "git@github.com:decaffeinate/decaffeinate.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/decaffeinate/decaffeinate",
   "homepage": "https://decaffeinate-project.org/",
   "size": 9976,
-  "stargazers_count": 2701,
-  "watchers_count": 2701,
+  "stargazers_count": 2702,
+  "watchers_count": 2702,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 125,
+  "forks_count": 126,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,9 +103,9 @@
     "decaffeinate"
   ],
   "visibility": "public",
-  "forks": 125,
+  "forks": 126,
   "open_issues": 39,
-  "watchers": 2701,
+  "watchers": 2702,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 716
+  "_index": 724
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/riot/riot/releases{/id}",
   "deployments_url": "https://api.github.com/repos/riot/riot/deployments",
   "created_at": "2013-09-27T05:21:01Z",
-  "updated_at": "2023-07-04T12:19:02Z",
+  "updated_at": "2023-07-05T13:48:16Z",
   "pushed_at": "2023-06-26T21:40:10Z",
   "git_url": "git://github.com/riot/riot.git",
   "ssh_url": "git@github.com:riot/riot.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/riot/riot",
   "homepage": "https://riot.js.org",
   "size": 21960,
-  "stargazers_count": 14796,
-  "watchers_count": 14796,
+  "stargazers_count": 14797,
+  "watchers_count": 14797,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -114,7 +114,7 @@
   "visibility": "public",
   "forks": 1013,
   "open_issues": 4,
-  "watchers": 14796,
+  "watchers": 14797,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2784
+  "_index": 2792
 }

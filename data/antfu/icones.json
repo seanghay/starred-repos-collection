@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/antfu/icones/releases{/id}",
   "deployments_url": "https://api.github.com/repos/antfu/icones/deployments",
   "created_at": "2020-07-11T12:58:46Z",
-  "updated_at": "2023-07-05T02:00:14Z",
-  "pushed_at": "2023-07-04T10:11:37Z",
+  "updated_at": "2023-07-06T00:35:32Z",
+  "pushed_at": "2023-07-05T21:35:23Z",
   "git_url": "git://github.com/antfu/icones.git",
   "ssh_url": "git@github.com:antfu/icones.git",
   "clone_url": "https://github.com/antfu/icones.git",
   "svn_url": "https://github.com/antfu/icones",
   "homepage": "https://icones.js.org",
-  "size": 7877,
-  "stargazers_count": 3702,
-  "watchers_count": 3702,
+  "size": 8104,
+  "stargazers_count": 3712,
+  "watchers_count": 3712,
   "language": "Vue",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 195,
+  "forks_count": 194,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 27,
+  "open_issues_count": 23,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,9 +106,9 @@
     "vue3"
   ],
   "visibility": "public",
-  "forks": 195,
-  "open_issues": 27,
-  "watchers": 3702,
+  "forks": 194,
+  "open_issues": 23,
+  "watchers": 3712,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 800
+  "_index": 808
 }

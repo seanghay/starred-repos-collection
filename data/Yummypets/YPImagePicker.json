@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Yummypets/YPImagePicker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Yummypets/YPImagePicker/deployments",
   "created_at": "2017-07-19T15:00:05Z",
-  "updated_at": "2023-07-03T10:23:29Z",
-  "pushed_at": "2023-06-27T17:28:09Z",
+  "updated_at": "2023-07-05T13:55:57Z",
+  "pushed_at": "2023-07-05T04:40:27Z",
   "git_url": "git://github.com/Yummypets/YPImagePicker.git",
   "ssh_url": "git@github.com:Yummypets/YPImagePicker.git",
   "clone_url": "https://github.com/Yummypets/YPImagePicker.git",
   "svn_url": "https://github.com/Yummypets/YPImagePicker",
   "homepage": "",
   "size": 536896,
-  "stargazers_count": 4085,
-  "watchers_count": 4085,
+  "stargazers_count": 4086,
+  "watchers_count": 4086,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 149,
+  "open_issues_count": 150,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -115,8 +115,8 @@
   ],
   "visibility": "public",
   "forks": 913,
-  "open_issues": 149,
-  "watchers": 4085,
+  "open_issues": 150,
+  "watchers": 4086,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2426
+  "_index": 2434
 }

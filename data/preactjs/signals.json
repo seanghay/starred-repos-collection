@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/preactjs/signals/deployments",
   "created_at": "2022-08-08T21:29:28Z",
   "updated_at": "2023-07-04T16:59:33Z",
-  "pushed_at": "2023-06-29T23:32:12Z",
+  "pushed_at": "2023-07-06T00:09:13Z",
   "git_url": "git://github.com/preactjs/signals.git",
   "ssh_url": "git@github.com:preactjs/signals.git",
   "clone_url": "https://github.com/preactjs/signals.git",
   "svn_url": "https://github.com/preactjs/signals",
   "homepage": "https://preactjs.com/blog/introducing-signals/",
-  "size": 960,
+  "size": 971,
   "stargazers_count": 2302,
   "watchers_count": 2302,
   "language": "TypeScript",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 62,
+  "forks_count": 63,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 60,
+  "open_issues_count": 61,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,8 +105,8 @@
     "state-management"
   ],
   "visibility": "public",
-  "forks": 62,
-  "open_issues": 60,
+  "forks": 63,
+  "open_issues": 61,
   "watchers": 2302,
   "default_branch": "main",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 617
+  "_index": 625
 }

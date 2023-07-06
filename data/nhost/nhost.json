@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/nhost/nhost/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nhost/nhost/deployments",
   "created_at": "2021-02-09T13:33:34Z",
-  "updated_at": "2023-07-04T19:00:44Z",
-  "pushed_at": "2023-07-04T16:08:26Z",
+  "updated_at": "2023-07-06T00:50:35Z",
+  "pushed_at": "2023-07-05T15:31:39Z",
   "git_url": "git://github.com/nhost/nhost.git",
   "ssh_url": "git@github.com:nhost/nhost.git",
   "clone_url": "https://github.com/nhost/nhost.git",
   "svn_url": "https://github.com/nhost/nhost",
   "homepage": "https://nhost.io",
-  "size": 168680,
-  "stargazers_count": 6765,
-  "watchers_count": 6765,
+  "size": 168695,
+  "stargazers_count": 6766,
+  "watchers_count": 6766,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 397,
+  "forks_count": 398,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 109,
+  "open_issues_count": 110,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -119,9 +119,9 @@
     "vue"
   ],
   "visibility": "public",
-  "forks": 397,
-  "open_issues": 109,
-  "watchers": 6765,
+  "forks": 398,
+  "open_issues": 110,
+  "watchers": 6766,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1211
+  "_index": 1219
 }
