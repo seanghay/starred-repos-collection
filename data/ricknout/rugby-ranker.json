@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 45,
+  "forks_count": 47,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,7 +104,7 @@
     "rugby"
   ],
   "visibility": "public",
-  "forks": 45,
+  "forks": 47,
   "open_issues": 6,
   "watchers": 287,
   "default_branch": "main",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2120
+  "_index": 2125
 }

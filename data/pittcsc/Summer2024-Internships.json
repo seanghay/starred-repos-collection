@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/pittcsc/Summer2024-Internships/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pittcsc/Summer2024-Internships/deployments",
   "created_at": "2020-05-23T20:53:18Z",
-  "updated_at": "2023-07-06T02:20:44Z",
-  "pushed_at": "2023-07-05T22:20:47Z",
+  "updated_at": "2023-07-07T02:20:57Z",
+  "pushed_at": "2023-07-07T02:13:35Z",
   "git_url": "git://github.com/pittcsc/Summer2024-Internships.git",
   "ssh_url": "git@github.com:pittcsc/Summer2024-Internships.git",
   "clone_url": "https://github.com/pittcsc/Summer2024-Internships.git",
   "svn_url": "https://github.com/pittcsc/Summer2024-Internships",
   "homepage": "",
-  "size": 3037,
-  "stargazers_count": 19560,
-  "watchers_count": 19560,
+  "size": 3044,
+  "stargazers_count": 19662,
+  "watchers_count": 19662,
   "language": null,
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1942,
+  "forks_count": 1951,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -98,9 +98,9 @@
     "university"
   ],
   "visibility": "public",
-  "forks": 1942,
+  "forks": 1951,
   "open_issues": 0,
-  "watchers": 19560,
+  "watchers": 19662,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 801
+  "_index": 806
 }

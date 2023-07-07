@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/AlexWhiter/GarminRelatedStuff/releases{/id}",
   "deployments_url": "https://api.github.com/repos/AlexWhiter/GarminRelatedStuff/deployments",
   "created_at": "2018-11-15T04:09:53Z",
-  "updated_at": "2023-02-11T22:04:31Z",
+  "updated_at": "2023-07-06T18:04:10Z",
   "pushed_at": "2019-06-27T11:48:12Z",
   "git_url": "git://github.com/AlexWhiter/GarminRelatedStuff.git",
   "ssh_url": "git@github.com:AlexWhiter/GarminRelatedStuff.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/AlexWhiter/GarminRelatedStuff",
   "homepage": null,
   "size": 56,
-  "stargazers_count": 6,
-  "watchers_count": 6,
+  "stargazers_count": 7,
+  "watchers_count": 7,
   "language": "PHP",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 3,
   "open_issues": 1,
-  "watchers": 6,
+  "watchers": 7,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1141
+  "_index": 1146
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/unicode-org/icu4x/deployments",
   "created_at": "2020-02-27T00:27:11Z",
   "updated_at": "2023-07-03T20:29:36Z",
-  "pushed_at": "2023-07-05T23:25:48Z",
+  "pushed_at": "2023-07-06T22:38:07Z",
   "git_url": "git://github.com/unicode-org/icu4x.git",
   "ssh_url": "git@github.com:unicode-org/icu4x.git",
   "clone_url": "https://github.com/unicode-org/icu4x.git",
   "svn_url": "https://github.com/unicode-org/icu4x",
   "homepage": "https://icu4x.unicode.org",
-  "size": 340142,
+  "size": 340174,
   "stargazers_count": 1073,
   "watchers_count": 1073,
   "language": "Rust",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 573
+  "_index": 578
 }

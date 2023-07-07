@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/antfu/icones/releases{/id}",
   "deployments_url": "https://api.github.com/repos/antfu/icones/deployments",
   "created_at": "2020-07-11T12:58:46Z",
-  "updated_at": "2023-07-06T00:35:32Z",
+  "updated_at": "2023-07-07T02:16:22Z",
   "pushed_at": "2023-07-05T21:35:23Z",
   "git_url": "git://github.com/antfu/icones.git",
   "ssh_url": "git@github.com:antfu/icones.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/antfu/icones",
   "homepage": "https://icones.js.org",
   "size": 8104,
-  "stargazers_count": 3712,
-  "watchers_count": 3712,
+  "stargazers_count": 3718,
+  "watchers_count": 3718,
   "language": "Vue",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 194,
+  "forks_count": 195,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,9 +106,9 @@
     "vue3"
   ],
   "visibility": "public",
-  "forks": 194,
+  "forks": 195,
   "open_issues": 23,
-  "watchers": 3712,
+  "watchers": 3718,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 808
+  "_index": 813
 }

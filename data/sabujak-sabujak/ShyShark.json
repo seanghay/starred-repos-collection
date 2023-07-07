@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 8,
+  "forks_count": 9,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -100,7 +100,7 @@
     "swipable-cards"
   ],
   "visibility": "public",
-  "forks": 8,
+  "forks": 9,
   "open_issues": 3,
   "watchers": 48,
   "default_branch": "develop",
@@ -111,5 +111,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1948
+  "_index": 1953
 }

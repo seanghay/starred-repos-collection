@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/http-party/node-http-proxy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/http-party/node-http-proxy/deployments",
   "created_at": "2010-07-24T18:30:12Z",
-  "updated_at": "2023-07-06T01:46:09Z",
-  "pushed_at": "2023-06-29T14:33:36Z",
+  "updated_at": "2023-07-06T08:01:06Z",
+  "pushed_at": "2023-07-06T17:08:59Z",
   "git_url": "git://github.com/http-party/node-http-proxy.git",
   "ssh_url": "git@github.com:http-party/node-http-proxy.git",
   "clone_url": "https://github.com/http-party/node-http-proxy.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1940,
+  "forks_count": 1941,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,7 +99,7 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 1940,
+  "forks": 1941,
   "open_issues": 578,
   "watchers": 13404,
   "default_branch": "master",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 369
+  "_index": 374
 }

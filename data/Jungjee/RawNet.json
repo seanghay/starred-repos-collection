@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Jungjee/RawNet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Jungjee/RawNet/deployments",
   "created_at": "2019-03-18T07:21:51Z",
-  "updated_at": "2023-07-05T14:59:54Z",
+  "updated_at": "2023-07-06T10:54:58Z",
   "pushed_at": "2022-06-22T08:53:05Z",
   "git_url": "git://github.com/Jungjee/RawNet.git",
   "ssh_url": "git@github.com:Jungjee/RawNet.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Jungjee/RawNet",
   "homepage": "",
   "size": 184317,
-  "stargazers_count": 273,
-  "watchers_count": 273,
+  "stargazers_count": 275,
+  "watchers_count": 275,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 51,
   "open_issues": 0,
-  "watchers": 273,
+  "watchers": 275,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 77
+  "_index": 82
 }

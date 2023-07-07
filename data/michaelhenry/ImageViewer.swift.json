@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/michaelhenry/ImageViewer.swift/releases{/id}",
   "deployments_url": "https://api.github.com/repos/michaelhenry/ImageViewer.swift/deployments",
   "created_at": "2013-05-30T17:49:28Z",
-  "updated_at": "2023-06-28T21:07:21Z",
+  "updated_at": "2023-07-06T08:38:56Z",
   "pushed_at": "2023-06-16T06:21:33Z",
   "git_url": "git://github.com/michaelhenry/ImageViewer.swift.git",
   "ssh_url": "git@github.com:michaelhenry/ImageViewer.swift.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/michaelhenry/ImageViewer.swift",
   "homepage": "",
   "size": 44680,
-  "stargazers_count": 1367,
-  "watchers_count": 1367,
+  "stargazers_count": 1368,
+  "watchers_count": 1368,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 271,
   "open_issues": 1,
-  "watchers": 1367,
+  "watchers": 1368,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 463
+  "_index": 468
 }

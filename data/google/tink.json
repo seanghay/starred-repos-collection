@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/tink/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/tink/deployments",
   "created_at": "2014-06-06T16:21:09Z",
-  "updated_at": "2023-07-05T06:46:54Z",
+  "updated_at": "2023-07-06T17:29:28Z",
   "pushed_at": "2023-06-28T08:12:55Z",
   "git_url": "git://github.com/google/tink.git",
   "ssh_url": "git@github.com:google/tink.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1215,
+  "forks_count": 1216,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,7 +108,7 @@
     "security"
   ],
   "visibility": "public",
-  "forks": 1215,
+  "forks": 1216,
   "open_issues": 37,
   "watchers": 13234,
   "default_branch": "master",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2248
+  "_index": 2253
 }

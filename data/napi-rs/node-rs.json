@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/napi-rs/node-rs.git",
   "svn_url": "https://github.com/napi-rs/node-rs",
   "homepage": "",
-  "size": 9651,
+  "size": 9653,
   "stargazers_count": 794,
   "watchers_count": 794,
   "language": "Rust",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 34,
+  "forks_count": 32,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,7 +108,7 @@
     "nodejs"
   ],
   "visibility": "public",
-  "forks": 34,
+  "forks": 32,
   "open_issues": 27,
   "watchers": 794,
   "default_branch": "main",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1151
+  "_index": 1156
 }

@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/fingerprintjs/fingerprintjs",
-  "description": "Browser fingerprinting library. Compared to Fingerprint Pro has limited accuracy (40 - 60%), but is fully open source.",
+  "description": "Browser fingerprinting library. Compared to Fingerprint Pro has limited accuracy (40 - 60%).",
   "fork": false,
   "url": "https://api.github.com/repos/fingerprintjs/fingerprintjs",
   "forks_url": "https://api.github.com/repos/fingerprintjs/fingerprintjs/forks",
@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/fingerprintjs/fingerprintjs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fingerprintjs/fingerprintjs/deployments",
   "created_at": "2015-02-11T08:49:54Z",
-  "updated_at": "2023-07-06T02:19:49Z",
-  "pushed_at": "2023-07-06T02:00:22Z",
+  "updated_at": "2023-07-06T21:10:17Z",
+  "pushed_at": "2023-07-06T07:40:46Z",
   "git_url": "git://github.com/fingerprintjs/fingerprintjs.git",
   "ssh_url": "git@github.com:fingerprintjs/fingerprintjs.git",
   "clone_url": "https://github.com/fingerprintjs/fingerprintjs.git",
   "svn_url": "https://github.com/fingerprintjs/fingerprintjs",
   "homepage": "https://fingerprint.com",
-  "size": 2791,
+  "size": 2683,
   "stargazers_count": 19245,
   "watchers_count": 19245,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 22,
+  "open_issues_count": 21,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -114,7 +114,7 @@
   ],
   "visibility": "public",
   "forks": 2140,
-  "open_issues": 22,
+  "open_issues": 21,
   "watchers": 19245,
   "default_branch": "master",
   "permissions": {
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 682
+  "_index": 687
 }
