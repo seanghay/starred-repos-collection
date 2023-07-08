@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/deployments",
   "created_at": "2021-06-24T09:03:05Z",
-  "updated_at": "2023-07-07T02:17:27Z",
-  "pushed_at": "2023-07-06T16:24:45Z",
+  "updated_at": "2023-07-08T00:54:01Z",
+  "pushed_at": "2023-07-07T20:31:37Z",
   "git_url": "git://github.com/drizzle-team/drizzle-orm.git",
   "ssh_url": "git@github.com:drizzle-team/drizzle-orm.git",
   "clone_url": "https://github.com/drizzle-team/drizzle-orm.git",
   "svn_url": "https://github.com/drizzle-team/drizzle-orm",
   "homepage": "https://orm.drizzle.team",
   "size": 22220,
-  "stargazers_count": 10958,
-  "watchers_count": 10958,
+  "stargazers_count": 10975,
+  "watchers_count": 10975,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 192,
+  "forks_count": 194,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 289,
+  "open_issues_count": 291,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -119,9 +119,9 @@
     "vercel-postgres"
   ],
   "visibility": "public",
-  "forks": 192,
-  "open_issues": 289,
-  "watchers": 10958,
+  "forks": 194,
+  "open_issues": 291,
+  "watchers": 10975,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 181
+  "_index": 190
 }

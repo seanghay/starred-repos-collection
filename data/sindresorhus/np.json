@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/np/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/np/deployments",
   "created_at": "2015-08-16T09:06:06Z",
-  "updated_at": "2023-07-06T12:38:10Z",
+  "updated_at": "2023-07-08T00:08:17Z",
   "pushed_at": "2023-07-04T03:36:11Z",
   "git_url": "git://github.com/sindresorhus/np.git",
   "ssh_url": "git@github.com:sindresorhus/np.git",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 882
+  "_index": 891
 }

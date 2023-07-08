@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ExpediaGroup/graphql-kotlin/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ExpediaGroup/graphql-kotlin/deployments",
   "created_at": "2018-09-13T22:41:30Z",
-  "updated_at": "2023-07-05T15:26:57Z",
-  "pushed_at": "2023-07-06T20:51:03Z",
+  "updated_at": "2023-07-07T18:34:56Z",
+  "pushed_at": "2023-07-07T22:25:22Z",
   "git_url": "git://github.com/ExpediaGroup/graphql-kotlin.git",
   "ssh_url": "git@github.com:ExpediaGroup/graphql-kotlin.git",
   "clone_url": "https://github.com/ExpediaGroup/graphql-kotlin.git",
   "svn_url": "https://github.com/ExpediaGroup/graphql-kotlin",
   "homepage": "https://opensource.expediagroup.com/graphql-kotlin/",
-  "size": 75650,
-  "stargazers_count": 1626,
-  "watchers_count": 1626,
+  "size": 76719,
+  "stargazers_count": 1627,
+  "watchers_count": 1627,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 32,
+  "open_issues_count": 31,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -110,8 +110,8 @@
   ],
   "visibility": "public",
   "forks": 329,
-  "open_issues": 32,
-  "watchers": 1626,
+  "open_issues": 31,
+  "watchers": 1627,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1315
+  "_index": 1324
 }

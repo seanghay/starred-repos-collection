@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/antfu/vitesse/releases{/id}",
   "deployments_url": "https://api.github.com/repos/antfu/vitesse/deployments",
   "created_at": "2020-08-09T18:34:19Z",
-  "updated_at": "2023-07-06T22:27:30Z",
+  "updated_at": "2023-07-08T01:49:09Z",
   "pushed_at": "2023-07-05T12:53:52Z",
   "git_url": "git://github.com/antfu/vitesse.git",
   "ssh_url": "git@github.com:antfu/vitesse.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/antfu/vitesse",
   "homepage": "https://vitesse.netlify.app/",
   "size": 2748,
-  "stargazers_count": 7725,
-  "watchers_count": 7725,
+  "stargazers_count": 7734,
+  "watchers_count": 7734,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 874,
+  "forks_count": 875,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,9 +103,9 @@
     "vite-template"
   ],
   "visibility": "public",
-  "forks": 874,
+  "forks": 875,
   "open_issues": 21,
-  "watchers": 7725,
+  "watchers": 7734,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1292
+  "_index": 1301
 }

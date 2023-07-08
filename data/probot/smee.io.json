@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/probot/smee.io/deployments",
   "created_at": "2019-03-31T17:14:03Z",
   "updated_at": "2023-07-06T22:16:36Z",
-  "pushed_at": "2023-06-09T23:44:54Z",
+  "pushed_at": "2023-07-07T23:40:13Z",
   "git_url": "git://github.com/probot/smee.io.git",
   "ssh_url": "git@github.com:probot/smee.io.git",
   "clone_url": "https://github.com/probot/smee.io.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 716
+  "_index": 725
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/uikit/uikit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/uikit/uikit/deployments",
   "created_at": "2013-07-18T16:00:26Z",
-  "updated_at": "2023-07-07T00:04:21Z",
-  "pushed_at": "2023-07-06T14:39:16Z",
+  "updated_at": "2023-07-07T05:52:29Z",
+  "pushed_at": "2023-07-07T14:43:18Z",
   "git_url": "git://github.com/uikit/uikit.git",
   "ssh_url": "git@github.com:uikit/uikit.git",
   "clone_url": "https://github.com/uikit/uikit.git",
   "svn_url": "https://github.com/uikit/uikit",
   "homepage": "http://getuikit.com",
-  "size": 52437,
-  "stargazers_count": 17914,
-  "watchers_count": 17914,
+  "size": 52440,
+  "stargazers_count": 17915,
+  "watchers_count": 17915,
   "language": "HTML",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 2336,
   "open_issues": 596,
-  "watchers": 17914,
+  "watchers": 17915,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2844
+  "_index": 2853
 }

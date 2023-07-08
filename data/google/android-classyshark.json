@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/android-classyshark/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/android-classyshark/deployments",
   "created_at": "2015-10-12T13:40:48Z",
-  "updated_at": "2023-07-06T12:18:39Z",
+  "updated_at": "2023-07-07T07:58:40Z",
   "pushed_at": "2023-05-19T10:01:03Z",
   "git_url": "git://github.com/google/android-classyshark.git",
   "ssh_url": "git@github.com:google/android-classyshark.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/android-classyshark",
   "homepage": "",
   "size": 24865,
-  "stargazers_count": 7343,
-  "watchers_count": 7343,
+  "stargazers_count": 7342,
+  "watchers_count": 7342,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 893,
   "open_issues": 39,
-  "watchers": 7343,
+  "watchers": 7342,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 147
+  "_index": 156
 }

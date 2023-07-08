@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/kimlimjustin/xplorer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kimlimjustin/xplorer/deployments",
   "created_at": "2021-04-23T15:59:45Z",
-  "updated_at": "2023-07-06T14:48:55Z",
-  "pushed_at": "2023-06-25T13:57:38Z",
+  "updated_at": "2023-07-07T19:09:01Z",
+  "pushed_at": "2023-07-07T04:55:30Z",
   "git_url": "git://github.com/kimlimjustin/xplorer.git",
   "ssh_url": "git@github.com:kimlimjustin/xplorer.git",
   "clone_url": "https://github.com/kimlimjustin/xplorer.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 253,
+  "forks_count": 254,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 13,
+  "open_issues_count": 15,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -109,8 +109,8 @@
     "xplorer"
   ],
   "visibility": "public",
-  "forks": 253,
-  "open_issues": 13,
+  "forks": 254,
+  "open_issues": 15,
   "watchers": 3212,
   "default_branch": "master",
   "permissions": {
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 228
+  "_index": 237
 }
