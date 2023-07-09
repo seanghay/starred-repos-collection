@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lumaku/ctc-segmentation/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lumaku/ctc-segmentation/deployments",
   "created_at": "2020-08-18T15:31:41Z",
-  "updated_at": "2023-07-04T09:52:05Z",
+  "updated_at": "2023-07-08T19:12:53Z",
   "pushed_at": "2022-10-17T21:36:38Z",
   "git_url": "git://github.com/lumaku/ctc-segmentation.git",
   "ssh_url": "git@github.com:lumaku/ctc-segmentation.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lumaku/ctc-segmentation",
   "homepage": "",
   "size": 283,
-  "stargazers_count": 248,
-  "watchers_count": 248,
+  "stargazers_count": 249,
+  "watchers_count": 249,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 25,
   "open_issues": 2,
-  "watchers": 248,
+  "watchers": 249,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 188
+  "_index": 190
 }

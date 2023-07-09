@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/JuulLabs/kable/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JuulLabs/kable/deployments",
   "created_at": "2020-09-06T07:38:51Z",
-  "updated_at": "2023-07-07T15:03:14Z",
-  "pushed_at": "2023-07-07T18:48:48Z",
+  "updated_at": "2023-07-08T22:41:26Z",
+  "pushed_at": "2023-07-08T07:01:14Z",
   "git_url": "git://github.com/JuulLabs/kable.git",
   "ssh_url": "git@github.com:JuulLabs/kable.git",
   "clone_url": "https://github.com/JuulLabs/kable.git",
   "svn_url": "https://github.com/JuulLabs/kable",
   "homepage": "https://juullabs.github.io/kable",
-  "size": 4628,
-  "stargazers_count": 610,
-  "watchers_count": 610,
+  "size": 4629,
+  "stargazers_count": 613,
+  "watchers_count": 613,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 67,
+  "forks_count": 68,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,9 +106,9 @@
     "kotlin-multiplatform"
   ],
   "visibility": "public",
-  "forks": 67,
+  "forks": 68,
   "open_issues": 39,
-  "watchers": 610,
+  "watchers": 613,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1209
+  "_index": 1211
 }

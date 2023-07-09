@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/KeepSafe/ReLinker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/KeepSafe/ReLinker/deployments",
   "created_at": "2015-10-15T18:23:00Z",
-  "updated_at": "2023-07-06T01:23:18Z",
+  "updated_at": "2023-07-08T19:45:30Z",
   "pushed_at": "2022-10-26T10:31:55Z",
   "git_url": "git://github.com/KeepSafe/ReLinker.git",
   "ssh_url": "git@github.com:KeepSafe/ReLinker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/KeepSafe/ReLinker",
   "homepage": "",
   "size": 335,
-  "stargazers_count": 3002,
-  "watchers_count": 3002,
+  "stargazers_count": 3003,
+  "watchers_count": 3003,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 360,
   "open_issues": 23,
-  "watchers": 3002,
+  "watchers": 3003,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1864
+  "_index": 1866
 }

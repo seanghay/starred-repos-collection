@@ -65,17 +65,17 @@
   "releases_url": "https://api.github.com/repos/BloopAI/bloop/releases{/id}",
   "deployments_url": "https://api.github.com/repos/BloopAI/bloop/deployments",
   "created_at": "2022-12-10T14:04:30Z",
-  "updated_at": "2023-07-07T19:09:13Z",
-  "pushed_at": "2023-07-07T22:19:12Z",
+  "updated_at": "2023-07-09T02:14:47Z",
+  "pushed_at": "2023-07-08T18:08:37Z",
   "git_url": "git://github.com/BloopAI/bloop.git",
   "ssh_url": "git@github.com:BloopAI/bloop.git",
   "clone_url": "https://github.com/BloopAI/bloop.git",
   "svn_url": "https://github.com/BloopAI/bloop",
   "homepage": "https://bloop.ai",
-  "size": 74123,
-  "stargazers_count": 7087,
-  "watchers_count": 7087,
-  "language": "Rust",
+  "size": 74091,
+  "stargazers_count": 7094,
+  "watchers_count": 7094,
+  "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
   "has_downloads": true,
@@ -86,13 +86,13 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 32,
+  "open_issues_count": 31,
   "license": {
-    "key": "apache-2.0",
-    "name": "Apache License 2.0",
-    "spdx_id": "Apache-2.0",
-    "url": "https://api.github.com/licenses/apache-2.0",
-    "node_id": "MDc6TGljZW5zZTI="
+    "key": "other",
+    "name": "Other",
+    "spdx_id": "NOASSERTION",
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
   },
   "allow_forking": true,
   "is_template": false,
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 420,
-  "open_issues": 32,
-  "watchers": 7087,
+  "open_issues": 31,
+  "watchers": 7094,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 376
+  "_index": 378
 }

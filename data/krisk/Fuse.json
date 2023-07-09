@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/krisk/Fuse/releases{/id}",
   "deployments_url": "https://api.github.com/repos/krisk/Fuse/deployments",
   "created_at": "2012-05-28T04:31:06Z",
-  "updated_at": "2023-07-07T20:44:55Z",
-  "pushed_at": "2023-07-07T00:36:51Z",
+  "updated_at": "2023-07-09T01:07:08Z",
+  "pushed_at": "2023-07-09T00:38:54Z",
   "git_url": "git://github.com/krisk/Fuse.git",
   "ssh_url": "git@github.com:krisk/Fuse.git",
   "clone_url": "https://github.com/krisk/Fuse.git",
   "svn_url": "https://github.com/krisk/Fuse",
   "homepage": "https://fusejs.io/",
-  "size": 6768,
-  "stargazers_count": 16169,
-  "watchers_count": 16169,
+  "size": 9712,
+  "stargazers_count": 16175,
+  "watchers_count": 16175,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 23,
+  "open_issues_count": 21,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 768,
-  "open_issues": 23,
-  "watchers": 16169,
+  "open_issues": 21,
+  "watchers": 16175,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1346
+  "_index": 1348
 }
