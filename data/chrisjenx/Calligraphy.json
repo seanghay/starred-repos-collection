@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/chrisjenx/Calligraphy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/chrisjenx/Calligraphy/deployments",
   "created_at": "2013-12-20T02:35:45Z",
-  "updated_at": "2023-07-06T06:10:22Z",
+  "updated_at": "2023-07-09T18:06:33Z",
   "pushed_at": "2019-06-18T10:41:44Z",
   "git_url": "git://github.com/chrisjenx/Calligraphy.git",
   "ssh_url": "git@github.com:chrisjenx/Calligraphy.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/chrisjenx/Calligraphy",
   "homepage": null,
   "size": 1523,
-  "stargazers_count": 8596,
-  "watchers_count": 8596,
+  "stargazers_count": 8597,
+  "watchers_count": 8597,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1105,
+  "forks_count": 1106,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 1105,
+  "forks": 1106,
   "open_issues": 92,
-  "watchers": 8596,
+  "watchers": 8597,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2867
+  "_index": 2868
 }

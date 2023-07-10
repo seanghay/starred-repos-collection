@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/chnirt/nestjs-graphql-best-practice/releases{/id}",
   "deployments_url": "https://api.github.com/repos/chnirt/nestjs-graphql-best-practice/deployments",
   "created_at": "2019-09-07T06:03:22Z",
-  "updated_at": "2023-07-08T08:23:31Z",
+  "updated_at": "2023-07-09T15:36:58Z",
   "pushed_at": "2023-06-30T14:18:14Z",
   "git_url": "git://github.com/chnirt/nestjs-graphql-best-practice.git",
   "ssh_url": "git@github.com:chnirt/nestjs-graphql-best-practice.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/chnirt/nestjs-graphql-best-practice",
   "homepage": "https://github.com/chnirt/nestjs-graphql-best-practice",
   "size": 4364,
-  "stargazers_count": 1069,
-  "watchers_count": 1069,
+  "stargazers_count": 1071,
+  "watchers_count": 1071,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 213,
   "open_issues": 91,
-  "watchers": 1069,
+  "watchers": 1071,
   "default_branch": "cicd",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2041
+  "_index": 2042
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/toptal/gitignore.io/releases{/id}",
   "deployments_url": "https://api.github.com/repos/toptal/gitignore.io/deployments",
   "created_at": "2013-02-14T14:25:36Z",
-  "updated_at": "2023-07-08T14:24:32Z",
-  "pushed_at": "2023-07-04T07:17:26Z",
+  "updated_at": "2023-07-10T01:16:34Z",
+  "pushed_at": "2023-07-09T15:49:21Z",
   "git_url": "git://github.com/toptal/gitignore.io.git",
   "ssh_url": "git@github.com:toptal/gitignore.io.git",
   "clone_url": "https://github.com/toptal/gitignore.io.git",
   "svn_url": "https://github.com/toptal/gitignore.io",
   "homepage": "https://www.toptal.com/developers/gitignore",
-  "size": 13807,
-  "stargazers_count": 7695,
-  "watchers_count": 7695,
+  "size": 13893,
+  "stargazers_count": 7699,
+  "watchers_count": 7699,
   "language": "Swift",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 7,
+  "open_issues_count": 8,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,8 +108,8 @@
   ],
   "visibility": "public",
   "forks": 621,
-  "open_issues": 7,
-  "watchers": 7695,
+  "open_issues": 8,
+  "watchers": 7699,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1341
+  "_index": 1342
 }

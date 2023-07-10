@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/isomorphic-git/isomorphic-git/releases{/id}",
   "deployments_url": "https://api.github.com/repos/isomorphic-git/isomorphic-git/deployments",
   "created_at": "2017-07-30T02:26:00Z",
-  "updated_at": "2023-07-07T13:59:49Z",
+  "updated_at": "2023-07-09T21:13:57Z",
   "pushed_at": "2023-07-07T09:09:34Z",
   "git_url": "git://github.com/isomorphic-git/isomorphic-git.git",
   "ssh_url": "git@github.com:isomorphic-git/isomorphic-git.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/isomorphic-git/isomorphic-git",
   "homepage": "https://isomorphic-git.org",
   "size": 45225,
-  "stargazers_count": 6923,
-  "watchers_count": 6923,
+  "stargazers_count": 6924,
+  "watchers_count": 6924,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 341,
   "open_issues": 289,
-  "watchers": 6923,
+  "watchers": 6924,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1695
+  "_index": 1696
 }

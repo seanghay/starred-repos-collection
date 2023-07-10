@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/conwnet/github1s/releases{/id}",
   "deployments_url": "https://api.github.com/repos/conwnet/github1s/deployments",
   "created_at": "2019-06-16T09:55:25Z",
-  "updated_at": "2023-07-08T21:12:34Z",
-  "pushed_at": "2023-07-08T04:58:32Z",
+  "updated_at": "2023-07-10T01:29:19Z",
+  "pushed_at": "2023-07-09T14:09:24Z",
   "git_url": "git://github.com/conwnet/github1s.git",
   "ssh_url": "git@github.com:conwnet/github1s.git",
   "clone_url": "https://github.com/conwnet/github1s.git",
   "svn_url": "https://github.com/conwnet/github1s",
   "homepage": "https://github1s.com",
-  "size": 16477,
-  "stargazers_count": 22027,
-  "watchers_count": 22027,
+  "size": 17108,
+  "stargazers_count": 22029,
+  "watchers_count": 22029,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 58,
+  "open_issues_count": 56,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,8 +103,8 @@
   ],
   "visibility": "public",
   "forks": 805,
-  "open_issues": 58,
-  "watchers": 22027,
+  "open_issues": 56,
+  "watchers": 22029,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1512
+  "_index": 1513
 }
