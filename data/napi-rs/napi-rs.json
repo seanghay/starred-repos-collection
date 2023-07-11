@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/napi-rs/napi-rs/deployments",
   "created_at": "2018-04-28T08:26:28Z",
   "updated_at": "2023-07-08T17:26:26Z",
-  "pushed_at": "2023-07-07T07:06:03Z",
+  "pushed_at": "2023-07-10T20:19:04Z",
   "git_url": "git://github.com/napi-rs/napi-rs.git",
   "ssh_url": "git@github.com:napi-rs/napi-rs.git",
   "clone_url": "https://github.com/napi-rs/napi-rs.git",
   "svn_url": "https://github.com/napi-rs/napi-rs",
   "homepage": "https://napi.rs",
-  "size": 20214,
+  "size": 20221,
   "stargazers_count": 4150,
   "watchers_count": 4150,
   "language": "Rust",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 170,
+  "forks_count": 171,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 128,
+  "open_issues_count": 130,
   "license": {
     "key": "other",
     "name": "Other",
@@ -108,8 +108,8 @@
     "rust"
   ],
   "visibility": "public",
-  "forks": 170,
-  "open_issues": 128,
+  "forks": 171,
+  "open_issues": 130,
   "watchers": 4150,
   "default_branch": "main",
   "permissions": {
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 998
+  "_index": 1000
 }

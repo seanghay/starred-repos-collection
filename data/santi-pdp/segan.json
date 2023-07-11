@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/santi-pdp/segan/releases{/id}",
   "deployments_url": "https://api.github.com/repos/santi-pdp/segan/deployments",
   "created_at": "2017-03-07T14:37:00Z",
-  "updated_at": "2023-07-04T12:37:15Z",
+  "updated_at": "2023-07-10T07:58:33Z",
   "pushed_at": "2023-03-24T21:54:06Z",
   "git_url": "git://github.com/santi-pdp/segan.git",
   "ssh_url": "git@github.com:santi-pdp/segan.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/santi-pdp/segan",
   "homepage": "",
   "size": 790,
-  "stargazers_count": 754,
-  "watchers_count": 754,
+  "stargazers_count": 755,
+  "watchers_count": 755,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 269,
+  "forks_count": 273,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "tensorflow"
   ],
   "visibility": "public",
-  "forks": 269,
+  "forks": 273,
   "open_issues": 54,
-  "watchers": 754,
+  "watchers": 755,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 85
+  "_index": 87
 }

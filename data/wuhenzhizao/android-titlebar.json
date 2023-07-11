@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/wuhenzhizao/android-titlebar/deployments",
   "created_at": "2017-08-29T06:15:21Z",
   "updated_at": "2023-07-04T12:40:26Z",
-  "pushed_at": "2023-07-07T11:00:33Z",
+  "pushed_at": "2023-07-10T05:24:35Z",
   "git_url": "git://github.com/wuhenzhizao/android-titlebar.git",
   "ssh_url": "git@github.com:wuhenzhizao/android-titlebar.git",
   "clone_url": "https://github.com/wuhenzhizao/android-titlebar.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 15,
+  "open_issues_count": 16,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -100,7 +100,7 @@
   ],
   "visibility": "public",
   "forks": 161,
-  "open_issues": 15,
+  "open_issues": 16,
   "watchers": 957,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2285
+  "_index": 2287
 }

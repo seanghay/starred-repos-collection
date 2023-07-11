@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/UKPLab/sentence-transformers/releases{/id}",
   "deployments_url": "https://api.github.com/repos/UKPLab/sentence-transformers/deployments",
   "created_at": "2019-07-24T10:53:51Z",
-  "updated_at": "2023-07-10T02:09:24Z",
+  "updated_at": "2023-07-11T01:52:10Z",
   "pushed_at": "2023-06-23T01:23:36Z",
   "git_url": "git://github.com/UKPLab/sentence-transformers.git",
   "ssh_url": "git@github.com:UKPLab/sentence-transformers.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/UKPLab/sentence-transformers",
   "homepage": "https://www.SBERT.net",
   "size": 17337,
-  "stargazers_count": 11166,
-  "watchers_count": 11166,
+  "stargazers_count": 11182,
+  "watchers_count": 11182,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 998,
+  "open_issues_count": 999,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 2048,
-  "open_issues": 998,
-  "watchers": 11166,
+  "open_issues": 999,
+  "watchers": 11182,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 38
+  "_index": 40
 }

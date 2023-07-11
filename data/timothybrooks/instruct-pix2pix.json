@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/timothybrooks/instruct-pix2pix/releases{/id}",
   "deployments_url": "https://api.github.com/repos/timothybrooks/instruct-pix2pix/deployments",
   "created_at": "2023-01-09T03:14:31Z",
-  "updated_at": "2023-07-09T16:39:44Z",
+  "updated_at": "2023-07-10T18:32:45Z",
   "pushed_at": "2023-02-12T10:04:32Z",
   "git_url": "git://github.com/timothybrooks/instruct-pix2pix.git",
   "ssh_url": "git@github.com:timothybrooks/instruct-pix2pix.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/timothybrooks/instruct-pix2pix",
   "homepage": null,
   "size": 17715,
-  "stargazers_count": 4904,
-  "watchers_count": 4904,
+  "stargazers_count": 4908,
+  "watchers_count": 4908,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 42,
+  "open_issues_count": 43,
   "license": {
     "key": "other",
     "name": "Other",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 442,
-  "open_issues": 42,
-  "watchers": 4904,
+  "open_issues": 43,
+  "watchers": 4908,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 275
+  "_index": 277
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/shyiko/jabba/releases{/id}",
   "deployments_url": "https://api.github.com/repos/shyiko/jabba/deployments",
   "created_at": "2016-03-24T05:01:56Z",
-  "updated_at": "2023-07-09T15:16:32Z",
+  "updated_at": "2023-07-10T10:12:07Z",
   "pushed_at": "2023-05-10T10:35:04Z",
   "git_url": "git://github.com/shyiko/jabba.git",
   "ssh_url": "git@github.com:shyiko/jabba.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/shyiko/jabba",
   "homepage": "",
   "size": 676,
-  "stargazers_count": 2657,
-  "watchers_count": 2657,
+  "stargazers_count": 2659,
+  "watchers_count": 2659,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 186,
   "open_issues": 138,
-  "watchers": 2657,
+  "watchers": 2659,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1265
+  "_index": 1267
 }

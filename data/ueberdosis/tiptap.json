@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ueberdosis/tiptap/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ueberdosis/tiptap/deployments",
   "created_at": "2018-08-20T19:58:58Z",
-  "updated_at": "2023-07-10T02:27:45Z",
-  "pushed_at": "2023-07-08T23:42:32Z",
+  "updated_at": "2023-07-11T02:04:12Z",
+  "pushed_at": "2023-07-10T22:54:19Z",
   "git_url": "git://github.com/ueberdosis/tiptap.git",
   "ssh_url": "git@github.com:ueberdosis/tiptap.git",
   "clone_url": "https://github.com/ueberdosis/tiptap.git",
   "svn_url": "https://github.com/ueberdosis/tiptap",
   "homepage": "https://tiptap.dev",
-  "size": 35247,
-  "stargazers_count": 20024,
-  "watchers_count": 20024,
+  "size": 35484,
+  "stargazers_count": 20064,
+  "watchers_count": 20064,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 235,
+  "open_issues_count": 233,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -113,8 +113,8 @@
   ],
   "visibility": "public",
   "forks": 1772,
-  "open_issues": 235,
-  "watchers": 20024,
+  "open_issues": 233,
+  "watchers": 20064,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1286
+  "_index": 1288
 }

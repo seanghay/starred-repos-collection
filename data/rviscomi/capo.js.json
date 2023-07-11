@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/rviscomi/capo.js.git",
   "svn_url": "https://github.com/rviscomi/capo.js",
   "homepage": "https://rviscomi.github.io/capo.js/",
-  "size": 1804,
+  "size": 1805,
   "stargazers_count": 402,
   "watchers_count": 402,
   "language": "JavaScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 10,
+  "open_issues_count": 12,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 8,
-  "open_issues": 10,
+  "open_issues": 12,
   "watchers": 402,
   "default_branch": "main",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 112
+  "_index": 114
 }

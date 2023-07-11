@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Rich-Harris/estree-walker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Rich-Harris/estree-walker/deployments",
   "created_at": "2015-04-09T12:56:33Z",
-  "updated_at": "2023-07-01T17:58:13Z",
+  "updated_at": "2023-07-10T15:07:58Z",
   "pushed_at": "2023-05-20T16:53:04Z",
   "git_url": "git://github.com/Rich-Harris/estree-walker.git",
   "ssh_url": "git@github.com:Rich-Harris/estree-walker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Rich-Harris/estree-walker",
   "homepage": null,
   "size": 2041,
-  "stargazers_count": 320,
-  "watchers_count": 320,
+  "stargazers_count": 321,
+  "watchers_count": 321,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 38,
   "open_issues": 5,
-  "watchers": 320,
+  "watchers": 321,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 724
+  "_index": 726
 }

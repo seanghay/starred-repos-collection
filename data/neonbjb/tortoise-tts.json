@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/neonbjb/tortoise-tts/releases{/id}",
   "deployments_url": "https://api.github.com/repos/neonbjb/tortoise-tts/deployments",
   "created_at": "2022-01-28T04:33:15Z",
-  "updated_at": "2023-07-10T01:57:06Z",
+  "updated_at": "2023-07-11T01:23:35Z",
   "pushed_at": "2023-07-10T02:18:07Z",
   "git_url": "git://github.com/neonbjb/tortoise-tts.git",
   "ssh_url": "git@github.com:neonbjb/tortoise-tts.git",
   "clone_url": "https://github.com/neonbjb/tortoise-tts.git",
   "svn_url": "https://github.com/neonbjb/tortoise-tts",
   "homepage": null,
-  "size": 55282,
-  "stargazers_count": 7913,
-  "watchers_count": 7913,
+  "size": 55289,
+  "stargazers_count": 7937,
+  "watchers_count": 7937,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1079,
+  "forks_count": 1082,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 1079,
+  "forks": 1082,
   "open_issues": 192,
-  "watchers": 7913,
+  "watchers": 7937,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 0
+  "_index": 2
 }

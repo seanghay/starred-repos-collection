@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fyhertz/libstreaming/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fyhertz/libstreaming/deployments",
   "created_at": "2013-01-30T21:24:47Z",
-  "updated_at": "2023-07-09T15:32:42Z",
+  "updated_at": "2023-07-10T15:30:51Z",
   "pushed_at": "2023-01-26T08:55:11Z",
   "git_url": "git://github.com/fyhertz/libstreaming.git",
   "ssh_url": "git@github.com:fyhertz/libstreaming.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/fyhertz/libstreaming",
   "homepage": "",
   "size": 1537,
-  "stargazers_count": 3356,
-  "watchers_count": 3356,
+  "stargazers_count": 3355,
+  "watchers_count": 3355,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 1085,
   "open_issues": 238,
-  "watchers": 3356,
+  "watchers": 3355,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2360
+  "_index": 2362
 }
