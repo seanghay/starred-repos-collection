@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/thedaviddias/Front-End-Checklist/releases{/id}",
   "deployments_url": "https://api.github.com/repos/thedaviddias/Front-End-Checklist/deployments",
   "created_at": "2017-10-16T10:12:36Z",
-  "updated_at": "2023-07-11T00:19:34Z",
+  "updated_at": "2023-07-12T02:18:31Z",
   "pushed_at": "2023-05-28T10:00:20Z",
   "git_url": "git://github.com/thedaviddias/Front-End-Checklist.git",
   "ssh_url": "git@github.com:thedaviddias/Front-End-Checklist.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/thedaviddias/Front-End-Checklist",
   "homepage": "https://frontendchecklist.io",
   "size": 2870,
-  "stargazers_count": 65608,
-  "watchers_count": 65608,
+  "stargazers_count": 65607,
+  "watchers_count": 65607,
   "language": null,
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 6299,
+  "forks_count": 6298,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -112,9 +112,9 @@
     "web-development"
   ],
   "visibility": "public",
-  "forks": 6299,
+  "forks": 6298,
   "open_issues": 4,
-  "watchers": 65608,
+  "watchers": 65607,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2810
+  "_index": 2817
 }

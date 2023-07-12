@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/planttheidea/moize/releases{/id}",
   "deployments_url": "https://api.github.com/repos/planttheidea/moize/deployments",
   "created_at": "2016-12-11T12:52:39Z",
-  "updated_at": "2023-07-07T07:16:24Z",
-  "pushed_at": "2023-07-10T01:11:41Z",
+  "updated_at": "2023-07-11T22:53:43Z",
+  "pushed_at": "2023-07-11T11:24:26Z",
   "git_url": "git://github.com/planttheidea/moize.git",
   "ssh_url": "git@github.com:planttheidea/moize.git",
   "clone_url": "https://github.com/planttheidea/moize.git",
   "svn_url": "https://github.com/planttheidea/moize",
   "homepage": "https://planttheidea.github.io/moize/",
-  "size": 6231,
-  "stargazers_count": 832,
-  "watchers_count": 832,
+  "size": 6404,
+  "stargazers_count": 833,
+  "watchers_count": 833,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 3,
+  "open_issues_count": 4,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,8 +104,8 @@
   ],
   "visibility": "public",
   "forks": 26,
-  "open_issues": 3,
-  "watchers": 832,
+  "open_issues": 4,
+  "watchers": 833,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 546
+  "_index": 553
 }

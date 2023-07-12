@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1471,
+  "forks_count": 1470,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 56,
+  "open_issues_count": 55,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -98,8 +98,8 @@
     "python"
   ],
   "visibility": "public",
-  "forks": 1471,
-  "open_issues": 56,
+  "forks": 1470,
+  "open_issues": 55,
   "watchers": 3331,
   "default_branch": "master",
   "permissions": {
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 394
+  "_index": 401
 }

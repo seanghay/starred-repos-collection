@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fluent-ffmpeg/node-fluent-ffmpeg/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fluent-ffmpeg/node-fluent-ffmpeg/deployments",
   "created_at": "2011-04-12T06:27:12Z",
-  "updated_at": "2023-07-10T11:24:59Z",
+  "updated_at": "2023-07-11T06:28:22Z",
   "pushed_at": "2022-10-07T22:05:00Z",
   "git_url": "git://github.com/fluent-ffmpeg/node-fluent-ffmpeg.git",
   "ssh_url": "git@github.com:fluent-ffmpeg/node-fluent-ffmpeg.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/fluent-ffmpeg/node-fluent-ffmpeg",
   "homepage": "",
   "size": 8868,
-  "stargazers_count": 7008,
-  "watchers_count": 7008,
+  "stargazers_count": 7009,
+  "watchers_count": 7009,
   "language": "HTML",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 833,
   "open_issues": 347,
-  "watchers": 7008,
+  "watchers": 7009,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2631
+  "_index": 2638
 }

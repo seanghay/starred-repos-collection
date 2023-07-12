@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/vuejs/router/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vuejs/router/deployments",
   "created_at": "2019-02-07T18:09:43Z",
-  "updated_at": "2023-07-10T18:55:19Z",
+  "updated_at": "2023-07-11T12:04:21Z",
   "pushed_at": "2023-07-08T14:21:37Z",
   "git_url": "git://github.com/vuejs/router.git",
   "ssh_url": "git@github.com:vuejs/router.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/vuejs/router",
   "homepage": "https://router.vuejs.org/",
   "size": 10003,
-  "stargazers_count": 3002,
-  "watchers_count": 3002,
+  "stargazers_count": 3004,
+  "watchers_count": 3004,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 981,
+  "forks_count": 982,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,9 +102,9 @@
     "vue-router"
   ],
   "visibility": "public",
-  "forks": 981,
+  "forks": 982,
   "open_issues": 51,
-  "watchers": 3002,
+  "watchers": 3004,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1904
+  "_index": 1911
 }

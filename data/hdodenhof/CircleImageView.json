@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/hdodenhof/CircleImageView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hdodenhof/CircleImageView/deployments",
   "created_at": "2014-01-17T16:44:46Z",
-  "updated_at": "2023-07-10T12:06:44Z",
+  "updated_at": "2023-07-11T17:02:32Z",
   "pushed_at": "2023-04-06T07:46:13Z",
   "git_url": "git://github.com/hdodenhof/CircleImageView.git",
   "ssh_url": "git@github.com:hdodenhof/CircleImageView.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3143,
+  "forks_count": 3146,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "widget"
   ],
   "visibility": "public",
-  "forks": 3143,
+  "forks": 3146,
   "open_issues": 6,
   "watchers": 14435,
   "default_branch": "master",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2210
+  "_index": 2217
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/harfbuzz/harfbuzzjs/deployments",
   "created_at": "2019-04-19T14:42:50Z",
   "updated_at": "2023-07-09T22:31:35Z",
-  "pushed_at": "2023-07-09T10:25:40Z",
+  "pushed_at": "2023-07-11T07:08:22Z",
   "git_url": "git://github.com/harfbuzz/harfbuzzjs.git",
   "ssh_url": "git@github.com:harfbuzz/harfbuzzjs.git",
   "clone_url": "https://github.com/harfbuzz/harfbuzzjs.git",
   "svn_url": "https://github.com/harfbuzz/harfbuzzjs",
   "homepage": "https://harfbuzz.github.io/harfbuzzjs/",
-  "size": 3357,
+  "size": 3356,
   "stargazers_count": 134,
   "watchers_count": 134,
   "language": "JavaScript",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 26,
+  "forks_count": 27,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,7 +105,7 @@
     "wasm"
   ],
   "visibility": "public",
-  "forks": 26,
+  "forks": 27,
   "open_issues": 7,
   "watchers": 134,
   "default_branch": "main",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 387
+  "_index": 394
 }

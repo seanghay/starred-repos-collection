@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ChuckerTeam/chucker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ChuckerTeam/chucker/deployments",
   "created_at": "2018-11-03T21:25:45Z",
-  "updated_at": "2023-07-10T15:20:22Z",
-  "pushed_at": "2023-07-10T22:01:59Z",
+  "updated_at": "2023-07-11T19:22:38Z",
+  "pushed_at": "2023-07-11T23:34:52Z",
   "git_url": "git://github.com/ChuckerTeam/chucker.git",
   "ssh_url": "git@github.com:ChuckerTeam/chucker.git",
   "clone_url": "https://github.com/ChuckerTeam/chucker.git",
   "svn_url": "https://github.com/ChuckerTeam/chucker",
   "homepage": "",
-  "size": 37492,
-  "stargazers_count": 3234,
-  "watchers_count": 3234,
+  "size": 37479,
+  "stargazers_count": 3242,
+  "watchers_count": 3242,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 288,
+  "forks_count": 289,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 50,
+  "open_issues_count": 45,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -120,9 +120,9 @@
     "proxy"
   ],
   "visibility": "public",
-  "forks": 288,
-  "open_issues": 50,
-  "watchers": 3234,
+  "forks": 289,
+  "open_issues": 45,
+  "watchers": 3242,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1831
+  "_index": 1838
 }

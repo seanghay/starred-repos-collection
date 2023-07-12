@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/AhmedAshrafG/ExpandableSelectionView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/AhmedAshrafG/ExpandableSelectionView/deployments",
   "created_at": "2019-04-23T16:20:42Z",
-  "updated_at": "2023-01-17T20:03:28Z",
+  "updated_at": "2023-07-11T06:06:28Z",
   "pushed_at": "2020-01-07T19:45:43Z",
   "git_url": "git://github.com/AhmedAshrafG/ExpandableSelectionView.git",
   "ssh_url": "git@github.com:AhmedAshrafG/ExpandableSelectionView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/AhmedAshrafG/ExpandableSelectionView",
   "homepage": "",
   "size": 1825,
-  "stargazers_count": 136,
-  "watchers_count": 136,
+  "stargazers_count": 137,
+  "watchers_count": 137,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 5,
   "open_issues": 1,
-  "watchers": 136,
+  "watchers": 137,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2448
+  "_index": 2455
 }

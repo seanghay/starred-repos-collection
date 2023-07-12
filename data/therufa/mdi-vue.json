@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/therufa/mdi-vue/deployments",
   "created_at": "2017-05-16T07:16:36Z",
   "updated_at": "2023-06-20T17:25:26Z",
-  "pushed_at": "2022-05-09T04:37:24Z",
+  "pushed_at": "2023-07-11T21:16:45Z",
   "git_url": "git://github.com/therufa/mdi-vue.git",
   "ssh_url": "git@github.com:therufa/mdi-vue.git",
   "clone_url": "https://github.com/therufa/mdi-vue.git",
   "svn_url": "https://github.com/therufa/mdi-vue",
   "homepage": "https://www.npmjs.com/package/mdi-vue",
-  "size": 468,
+  "size": 497,
   "stargazers_count": 86,
   "watchers_count": 86,
   "language": "JavaScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 4,
+  "open_issues_count": 5,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -114,7 +114,7 @@
   ],
   "visibility": "public",
   "forks": 13,
-  "open_issues": 4,
+  "open_issues": 5,
   "watchers": 86,
   "default_branch": "master",
   "permissions": {
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1100
+  "_index": 1107
 }

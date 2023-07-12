@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jankotek/mapdb/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jankotek/mapdb/deployments",
   "created_at": "2012-08-17T15:28:54Z",
-  "updated_at": "2023-07-10T05:22:24Z",
+  "updated_at": "2023-07-11T13:19:00Z",
   "pushed_at": "2023-03-19T16:53:58Z",
   "git_url": "git://github.com/jankotek/mapdb.git",
   "ssh_url": "git@github.com:jankotek/mapdb.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1627
+  "_index": 1634
 }

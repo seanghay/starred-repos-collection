@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/karpathy/micrograd/releases{/id}",
   "deployments_url": "https://api.github.com/repos/karpathy/micrograd/deployments",
   "created_at": "2020-04-13T04:31:18Z",
-  "updated_at": "2023-07-11T01:37:51Z",
+  "updated_at": "2023-07-11T18:33:30Z",
   "pushed_at": "2023-07-07T04:13:18Z",
   "git_url": "git://github.com/karpathy/micrograd.git",
   "ssh_url": "git@github.com:karpathy/micrograd.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/karpathy/micrograd",
   "homepage": "",
   "size": 248,
-  "stargazers_count": 5642,
-  "watchers_count": 5642,
+  "stargazers_count": 5652,
+  "watchers_count": 5652,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 682,
   "open_issues": 26,
-  "watchers": 5642,
+  "watchers": 5652,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 149
+  "_index": 156
 }

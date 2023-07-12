@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/httpie/httpie/releases{/id}",
   "deployments_url": "https://api.github.com/repos/httpie/httpie/deployments",
   "created_at": "2012-02-25T12:39:13Z",
-  "updated_at": "2023-07-11T02:04:47Z",
+  "updated_at": "2023-07-12T02:10:59Z",
   "pushed_at": "2023-06-11T04:16:36Z",
   "git_url": "git://github.com/httpie/httpie.git",
   "ssh_url": "git@github.com:httpie/httpie.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/httpie/httpie",
   "homepage": "https://httpie.io",
   "size": 7038,
-  "stargazers_count": 28377,
-  "watchers_count": 28377,
+  "stargazers_count": 28407,
+  "watchers_count": 28407,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3784,
+  "forks_count": 3785,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -120,9 +120,9 @@
     "web"
   ],
   "visibility": "public",
-  "forks": 3784,
+  "forks": 3785,
   "open_issues": 150,
-  "watchers": 28377,
+  "watchers": 28407,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 890
+  "_index": 897
 }

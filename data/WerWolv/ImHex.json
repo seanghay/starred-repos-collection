@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/WerWolv/ImHex/releases{/id}",
   "deployments_url": "https://api.github.com/repos/WerWolv/ImHex/deployments",
   "created_at": "2020-11-10T14:27:00Z",
-  "updated_at": "2023-07-11T01:49:44Z",
-  "pushed_at": "2023-07-10T22:04:59Z",
+  "updated_at": "2023-07-12T01:58:39Z",
+  "pushed_at": "2023-07-11T07:21:18Z",
   "git_url": "git://github.com/WerWolv/ImHex.git",
   "ssh_url": "git@github.com:WerWolv/ImHex.git",
   "clone_url": "https://github.com/WerWolv/ImHex.git",
   "svn_url": "https://github.com/WerWolv/ImHex",
   "homepage": "https://imhex.werwolv.net",
-  "size": 26258,
-  "stargazers_count": 29138,
-  "watchers_count": 29138,
+  "size": 26282,
+  "stargazers_count": 29155,
+  "watchers_count": 29155,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1401,
+  "forks_count": 1404,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -119,9 +119,9 @@
     "windows"
   ],
   "visibility": "public",
-  "forks": 1401,
+  "forks": 1404,
   "open_issues": 134,
-  "watchers": 29138,
+  "watchers": 29155,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 709
+  "_index": 716
 }

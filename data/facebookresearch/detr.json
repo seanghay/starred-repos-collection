@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/facebookresearch/detr/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookresearch/detr/deployments",
   "created_at": "2020-05-26T23:54:52Z",
-  "updated_at": "2023-07-11T02:02:37Z",
+  "updated_at": "2023-07-11T14:59:41Z",
   "pushed_at": "2023-06-01T07:36:32Z",
   "git_url": "git://github.com/facebookresearch/detr.git",
   "ssh_url": "git@github.com:facebookresearch/detr.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/facebookresearch/detr",
   "homepage": null,
   "size": 13188,
-  "stargazers_count": 11323,
-  "watchers_count": 11323,
+  "stargazers_count": 11328,
+  "watchers_count": 11328,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2061,
+  "forks_count": 2062,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 2061,
+  "forks": 2062,
   "open_issues": 227,
-  "watchers": 11323,
+  "watchers": 11328,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 841
+  "_index": 848
 }
