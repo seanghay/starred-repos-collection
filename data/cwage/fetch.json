@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/cwage/fetch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/cwage/fetch/deployments",
   "created_at": "2014-10-13T00:26:19Z",
-  "updated_at": "2023-07-11T18:03:40Z",
+  "updated_at": "2023-07-12T17:09:54Z",
   "pushed_at": "2023-07-08T21:57:46Z",
   "git_url": "git://github.com/cwage/fetch.git",
   "ssh_url": "git@github.com:cwage/fetch.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/cwage/fetch",
   "homepage": "http://github.github.io/fetch/",
   "size": 534,
-  "stargazers_count": 25776,
-  "watchers_count": 25776,
+  "stargazers_count": 25775,
+  "watchers_count": 25775,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 3210,
+  "forks_count": 3209,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "promise"
   ],
   "visibility": "public",
-  "forks": 3210,
+  "forks": 3209,
   "open_issues": 23,
-  "watchers": 25776,
+  "watchers": 25775,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1769
+  "_index": 1770
 }

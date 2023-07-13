@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/seek-oss/playroom/releases{/id}",
   "deployments_url": "https://api.github.com/repos/seek-oss/playroom/deployments",
   "created_at": "2018-10-29T07:14:53Z",
-  "updated_at": "2023-07-10T19:52:05Z",
+  "updated_at": "2023-07-12T11:22:42Z",
   "pushed_at": "2023-07-11T04:40:04Z",
   "git_url": "git://github.com/seek-oss/playroom.git",
   "ssh_url": "git@github.com:seek-oss/playroom.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/seek-oss/playroom",
   "homepage": "",
   "size": 4734,
-  "stargazers_count": 4338,
-  "watchers_count": 4338,
+  "stargazers_count": 4339,
+  "watchers_count": 4339,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 186,
   "open_issues": 49,
-  "watchers": 4338,
+  "watchers": 4339,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2698
+  "_index": 2699
 }

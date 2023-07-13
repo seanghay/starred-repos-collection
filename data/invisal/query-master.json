@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/invisal/query-master.git",
   "svn_url": "https://github.com/invisal/query-master",
   "homepage": "",
-  "size": 6920,
+  "size": 3667,
   "stargazers_count": 28,
   "watchers_count": 28,
   "language": "TypeScript",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 179
+  "_index": 180
 }

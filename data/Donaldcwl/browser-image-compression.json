@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Donaldcwl/browser-image-compression/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Donaldcwl/browser-image-compression/deployments",
   "created_at": "2017-07-23T20:20:51Z",
-  "updated_at": "2023-07-11T16:11:33Z",
-  "pushed_at": "2023-07-11T18:50:30Z",
+  "updated_at": "2023-07-12T23:33:12Z",
+  "pushed_at": "2023-07-12T16:13:33Z",
   "git_url": "git://github.com/Donaldcwl/browser-image-compression.git",
   "ssh_url": "git@github.com:Donaldcwl/browser-image-compression.git",
   "clone_url": "https://github.com/Donaldcwl/browser-image-compression.git",
   "svn_url": "https://github.com/Donaldcwl/browser-image-compression",
   "homepage": "",
   "size": 14915,
-  "stargazers_count": 921,
-  "watchers_count": 921,
+  "stargazers_count": 922,
+  "watchers_count": 922,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 128,
+  "forks_count": 130,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 37,
+  "open_issues_count": 38,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,9 +107,9 @@
     "webp-compression"
   ],
   "visibility": "public",
-  "forks": 128,
-  "open_issues": 37,
-  "watchers": 921,
+  "forks": 130,
+  "open_issues": 38,
+  "watchers": 922,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 779
+  "_index": 780
 }

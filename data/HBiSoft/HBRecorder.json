@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/HBiSoft/HBRecorder/releases{/id}",
   "deployments_url": "https://api.github.com/repos/HBiSoft/HBRecorder/deployments",
   "created_at": "2019-08-14T07:11:00Z",
-  "updated_at": "2023-07-11T02:30:10Z",
+  "updated_at": "2023-07-12T06:25:04Z",
   "pushed_at": "2023-03-06T06:43:02Z",
   "git_url": "git://github.com/HBiSoft/HBRecorder.git",
   "ssh_url": "git@github.com:HBiSoft/HBRecorder.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/HBiSoft/HBRecorder",
   "homepage": "",
   "size": 12851,
-  "stargazers_count": 320,
-  "watchers_count": 320,
+  "stargazers_count": 321,
+  "watchers_count": 321,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 114,
   "open_issues": 0,
-  "watchers": 320,
+  "watchers": 321,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1960
+  "_index": 1961
 }

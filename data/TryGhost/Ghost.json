@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/TryGhost/Ghost/releases{/id}",
   "deployments_url": "https://api.github.com/repos/TryGhost/Ghost/deployments",
   "created_at": "2013-05-04T11:09:13Z",
-  "updated_at": "2023-07-12T00:43:25Z",
-  "pushed_at": "2023-07-12T01:16:09Z",
+  "updated_at": "2023-07-13T02:07:24Z",
+  "pushed_at": "2023-07-13T01:46:18Z",
   "git_url": "git://github.com/TryGhost/Ghost.git",
   "ssh_url": "git@github.com:TryGhost/Ghost.git",
   "clone_url": "https://github.com/TryGhost/Ghost.git",
   "svn_url": "https://github.com/TryGhost/Ghost",
   "homepage": "https://ghost.org",
-  "size": 242373,
-  "stargazers_count": 43548,
-  "watchers_count": 43548,
+  "size": 243669,
+  "stargazers_count": 43560,
+  "watchers_count": 43560,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 91,
+  "open_issues_count": 99,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -114,8 +114,8 @@
   ],
   "visibility": "public",
   "forks": 9544,
-  "open_issues": 91,
-  "watchers": 43548,
+  "open_issues": 99,
+  "watchers": 43560,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2188
+  "_index": 2189
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/vercel/satori/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vercel/satori/deployments",
   "created_at": "2022-01-27T17:01:04Z",
-  "updated_at": "2023-07-12T01:09:48Z",
+  "updated_at": "2023-07-12T17:29:12Z",
   "pushed_at": "2023-06-27T21:51:06Z",
   "git_url": "git://github.com/vercel/satori.git",
   "ssh_url": "git@github.com:vercel/satori.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/vercel/satori",
   "homepage": "https://og-playground.vercel.app",
   "size": 4718,
-  "stargazers_count": 8499,
-  "watchers_count": 8499,
+  "stargazers_count": 8505,
+  "watchers_count": 8505,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 158,
   "open_issues": 55,
-  "watchers": 8499,
+  "watchers": 8505,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 604
+  "_index": 605
 }

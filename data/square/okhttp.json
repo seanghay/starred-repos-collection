@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/square/okhttp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/square/okhttp/deployments",
   "created_at": "2012-07-23T13:42:55Z",
-  "updated_at": "2023-07-12T02:18:55Z",
+  "updated_at": "2023-07-13T01:06:11Z",
   "pushed_at": "2023-07-10T05:16:57Z",
   "git_url": "git://github.com/square/okhttp.git",
   "ssh_url": "git@github.com:square/okhttp.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 9158,
+  "forks_count": 9161,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,7 +104,7 @@
     "kotlin"
   ],
   "visibility": "public",
-  "forks": 9158,
+  "forks": 9161,
   "open_issues": 92,
   "watchers": 44219,
   "default_branch": "master",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2380
+  "_index": 2381
 }
