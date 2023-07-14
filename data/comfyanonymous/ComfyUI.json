@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/comfyanonymous/ComfyUI/releases{/id}",
   "deployments_url": "https://api.github.com/repos/comfyanonymous/ComfyUI/deployments",
   "created_at": "2023-01-17T03:15:56Z",
-  "updated_at": "2023-07-13T02:23:35Z",
-  "pushed_at": "2023-07-13T00:29:37Z",
+  "updated_at": "2023-07-14T02:26:25Z",
+  "pushed_at": "2023-07-14T01:45:12Z",
   "git_url": "git://github.com/comfyanonymous/ComfyUI.git",
   "ssh_url": "git@github.com:comfyanonymous/ComfyUI.git",
   "clone_url": "https://github.com/comfyanonymous/ComfyUI.git",
   "svn_url": "https://github.com/comfyanonymous/ComfyUI",
   "homepage": "",
-  "size": 2932,
-  "stargazers_count": 7401,
-  "watchers_count": 7401,
+  "size": 2851,
+  "stargazers_count": 7469,
+  "watchers_count": 7469,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 647,
+  "forks_count": 655,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -101,9 +101,9 @@
     "stable-diffusion"
   ],
   "visibility": "public",
-  "forks": 647,
+  "forks": 655,
   "open_issues": 325,
-  "watchers": 7401,
+  "watchers": 7469,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 374
+  "_index": 375
 }

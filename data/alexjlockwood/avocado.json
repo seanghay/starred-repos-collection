@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/alexjlockwood/avocado/releases{/id}",
   "deployments_url": "https://api.github.com/repos/alexjlockwood/avocado/deployments",
   "created_at": "2017-11-14T22:01:45Z",
-  "updated_at": "2023-07-12T10:14:36Z",
+  "updated_at": "2023-07-13T08:40:43Z",
   "pushed_at": "2020-04-29T22:14:34Z",
   "git_url": "git://github.com/alexjlockwood/avocado.git",
   "ssh_url": "git@github.com:alexjlockwood/avocado.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/alexjlockwood/avocado",
   "homepage": "",
   "size": 344,
-  "stargazers_count": 1282,
-  "watchers_count": 1282,
+  "stargazers_count": 1281,
+  "watchers_count": 1281,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 47,
   "open_issues": 31,
-  "watchers": 1282,
+  "watchers": 1281,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1489
+  "_index": 1490
 }

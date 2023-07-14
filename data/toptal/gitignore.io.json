@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 620,
+  "forks_count": 621,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,7 +107,7 @@
     "vapor-swift"
   ],
   "visibility": "public",
-  "forks": 620,
+  "forks": 621,
   "open_issues": 9,
   "watchers": 7701,
   "default_branch": "master",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1352
+  "_index": 1353
 }

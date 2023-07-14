@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/thi-ng/umbrella/releases{/id}",
   "deployments_url": "https://api.github.com/repos/thi-ng/umbrella/deployments",
   "created_at": "2018-01-24T02:31:44Z",
-  "updated_at": "2023-07-13T01:40:46Z",
-  "pushed_at": "2023-07-11T09:41:32Z",
+  "updated_at": "2023-07-13T20:48:02Z",
+  "pushed_at": "2023-07-13T21:57:09Z",
   "git_url": "git://github.com/thi-ng/umbrella.git",
   "ssh_url": "git@github.com:thi-ng/umbrella.git",
   "clone_url": "https://github.com/thi-ng/umbrella.git",
   "svn_url": "https://github.com/thi-ng/umbrella",
   "homepage": "https://thi.ng",
-  "size": 180385,
+  "size": 180478,
   "stargazers_count": 2928,
   "watchers_count": 2928,
   "language": "TypeScript",
@@ -98,7 +98,6 @@
   "is_template": false,
   "web_commit_signoff_required": false,
   "topics": [
-    "anti-framework",
     "color",
     "data-structures",
     "dataflow",
@@ -106,6 +105,7 @@
     "functional-programming",
     "geometry",
     "html",
+    "monorepo",
     "parser-combinators",
     "reactive-programming",
     "shadergraph",
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1570
+  "_index": 1571
 }

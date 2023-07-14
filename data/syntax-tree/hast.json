@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/syntax-tree/hast/releases{/id}",
   "deployments_url": "https://api.github.com/repos/syntax-tree/hast/deployments",
   "created_at": "2015-09-12T16:53:45Z",
-  "updated_at": "2023-07-03T05:13:12Z",
+  "updated_at": "2023-07-13T03:31:12Z",
   "pushed_at": "2023-06-28T16:14:15Z",
   "git_url": "git://github.com/syntax-tree/hast.git",
   "ssh_url": "git@github.com:syntax-tree/hast.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/syntax-tree/hast",
   "homepage": "https://unifiedjs.com",
   "size": 178,
-  "stargazers_count": 578,
-  "watchers_count": 578,
+  "stargazers_count": 579,
+  "watchers_count": 579,
   "language": null,
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 24,
   "open_issues": 0,
-  "watchers": 578,
+  "watchers": 579,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 732
+  "_index": 733
 }

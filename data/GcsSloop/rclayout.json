@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/GcsSloop/rclayout/releases{/id}",
   "deployments_url": "https://api.github.com/repos/GcsSloop/rclayout/deployments",
   "created_at": "2017-10-05T10:32:44Z",
-  "updated_at": "2023-07-12T03:45:16Z",
+  "updated_at": "2023-07-14T00:07:43Z",
   "pushed_at": "2018-11-20T14:05:37Z",
   "git_url": "git://github.com/GcsSloop/rclayout.git",
   "ssh_url": "git@github.com:GcsSloop/rclayout.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/GcsSloop/rclayout",
   "homepage": "",
   "size": 3524,
-  "stargazers_count": 1990,
-  "watchers_count": 1990,
+  "stargazers_count": 1989,
+  "watchers_count": 1989,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -99,7 +99,7 @@
   "visibility": "public",
   "forks": 309,
   "open_issues": 21,
-  "watchers": 1990,
+  "watchers": 1989,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -108,5 +108,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1866
+  "_index": 1867
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Karumi/Dexter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Karumi/Dexter/deployments",
   "created_at": "2015-11-17T13:14:43Z",
-  "updated_at": "2023-07-12T18:51:31Z",
+  "updated_at": "2023-07-13T08:46:11Z",
   "pushed_at": "2021-07-02T10:55:40Z",
   "git_url": "git://github.com/Karumi/Dexter.git",
   "ssh_url": "git@github.com:Karumi/Dexter.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Karumi/Dexter",
   "homepage": "http://karumi.com",
   "size": 2928,
-  "stargazers_count": 5213,
-  "watchers_count": 5213,
+  "stargazers_count": 5212,
+  "watchers_count": 5212,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 681,
   "open_issues": 34,
-  "watchers": 5213,
+  "watchers": 5212,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1633
+  "_index": 1634
 }

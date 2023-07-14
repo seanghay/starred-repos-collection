@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/hyperdevs-team/poeditor-android-gradle-plugin/deployments",
   "created_at": "2016-07-07T11:17:50Z",
   "updated_at": "2023-06-29T18:38:41Z",
-  "pushed_at": "2023-05-08T20:11:42Z",
+  "pushed_at": "2023-07-13T09:38:21Z",
   "git_url": "git://github.com/hyperdevs-team/poeditor-android-gradle-plugin.git",
   "ssh_url": "git@github.com:hyperdevs-team/poeditor-android-gradle-plugin.git",
   "clone_url": "https://github.com/hyperdevs-team/poeditor-android-gradle-plugin.git",
   "svn_url": "https://github.com/hyperdevs-team/poeditor-android-gradle-plugin",
   "homepage": "",
-  "size": 314,
+  "size": 315,
   "stargazers_count": 46,
   "watchers_count": 46,
   "language": "Kotlin",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1456
+  "_index": 1457
 }

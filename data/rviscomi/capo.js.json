@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/rviscomi/capo.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rviscomi/capo.js/deployments",
   "created_at": "2023-05-19T00:26:48Z",
-  "updated_at": "2023-07-12T22:36:51Z",
-  "pushed_at": "2023-07-13T01:48:36Z",
+  "updated_at": "2023-07-13T21:08:06Z",
+  "pushed_at": "2023-07-14T01:23:39Z",
   "git_url": "git://github.com/rviscomi/capo.js.git",
   "ssh_url": "git@github.com:rviscomi/capo.js.git",
   "clone_url": "https://github.com/rviscomi/capo.js.git",
   "svn_url": "https://github.com/rviscomi/capo.js",
   "homepage": "https://rviscomi.github.io/capo.js/",
-  "size": 5235,
-  "stargazers_count": 409,
-  "watchers_count": 409,
+  "size": 6637,
+  "stargazers_count": 410,
+  "watchers_count": 410,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 14,
+  "open_issues_count": 15,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 8,
-  "open_issues": 14,
-  "watchers": 409,
+  "open_issues": 15,
+  "watchers": 410,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 122
+  "_index": 123
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/iamolegga/nestjs-session/deployments",
   "created_at": "2019-10-10T13:25:58Z",
   "updated_at": "2023-06-16T21:35:55Z",
-  "pushed_at": "2023-07-13T02:26:58Z",
+  "pushed_at": "2023-07-13T02:29:54Z",
   "git_url": "git://github.com/iamolegga/nestjs-session.git",
   "ssh_url": "git@github.com:iamolegga/nestjs-session.git",
   "clone_url": "https://github.com/iamolegga/nestjs-session.git",
   "svn_url": "https://github.com/iamolegga/nestjs-session",
   "homepage": "",
-  "size": 5020,
+  "size": 5194,
   "stargazers_count": 169,
   "watchers_count": 169,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 12,
+  "open_issues_count": 11,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,7 +107,7 @@
   ],
   "visibility": "public",
   "forks": 14,
-  "open_issues": 12,
+  "open_issues": 11,
   "watchers": 169,
   "default_branch": "master",
   "permissions": {
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1458
+  "_index": 1459
 }

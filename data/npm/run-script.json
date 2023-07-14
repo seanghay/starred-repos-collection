@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/npm/run-script/deployments",
   "created_at": "2020-01-22T22:21:24Z",
   "updated_at": "2023-05-10T21:36:25Z",
-  "pushed_at": "2023-07-12T18:36:15Z",
+  "pushed_at": "2023-07-13T16:03:56Z",
   "git_url": "git://github.com/npm/run-script.git",
   "ssh_url": "git@github.com:npm/run-script.git",
   "clone_url": "https://github.com/npm/run-script.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 4,
+  "open_issues_count": 3,
   "license": {
     "key": "isc",
     "name": "ISC License",
@@ -102,7 +102,7 @@
   ],
   "visibility": "public",
   "forks": 19,
-  "open_issues": 4,
+  "open_issues": 3,
   "watchers": 42,
   "default_branch": "main",
   "permissions": {
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2055
+  "_index": 2056
 }

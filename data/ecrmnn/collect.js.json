@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/ecrmnn/collect.js/deployments",
   "created_at": "2016-09-11T14:53:13Z",
   "updated_at": "2023-07-12T19:17:43Z",
-  "pushed_at": "2023-06-05T12:46:16Z",
+  "pushed_at": "2023-07-13T14:14:25Z",
   "git_url": "git://github.com/ecrmnn/collect.js.git",
   "ssh_url": "git@github.com:ecrmnn/collect.js.git",
   "clone_url": "https://github.com/ecrmnn/collect.js.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 28,
+  "open_issues_count": 29,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,7 +106,7 @@
   ],
   "visibility": "public",
   "forks": 339,
-  "open_issues": 28,
+  "open_issues": 29,
   "watchers": 6332,
   "default_branch": "master",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 820
+  "_index": 821
 }

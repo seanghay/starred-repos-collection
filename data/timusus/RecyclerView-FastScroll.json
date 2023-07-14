@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/timusus/RecyclerView-FastScroll/releases{/id}",
   "deployments_url": "https://api.github.com/repos/timusus/RecyclerView-FastScroll/deployments",
   "created_at": "2016-01-13T01:35:25Z",
-  "updated_at": "2023-07-07T07:43:01Z",
+  "updated_at": "2023-07-13T14:30:30Z",
   "pushed_at": "2022-03-30T14:16:17Z",
   "git_url": "git://github.com/timusus/RecyclerView-FastScroll.git",
   "ssh_url": "git@github.com:timusus/RecyclerView-FastScroll.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 836
+  "_index": 837
 }

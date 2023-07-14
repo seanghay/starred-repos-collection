@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/igalata/Bubble-Picker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/igalata/Bubble-Picker/deployments",
   "created_at": "2017-03-09T03:48:04Z",
-  "updated_at": "2023-07-12T13:39:10Z",
+  "updated_at": "2023-07-13T11:48:05Z",
   "pushed_at": "2021-05-01T00:53:17Z",
   "git_url": "git://github.com/igalata/Bubble-Picker.git",
   "ssh_url": "git@github.com:igalata/Bubble-Picker.git",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2487
+  "_index": 2488
 }

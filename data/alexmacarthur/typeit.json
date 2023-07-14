@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/alexmacarthur/typeit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/alexmacarthur/typeit/deployments",
   "created_at": "2015-09-28T21:37:06Z",
-  "updated_at": "2023-07-12T05:26:54Z",
+  "updated_at": "2023-07-13T20:26:09Z",
   "pushed_at": "2023-07-10T01:12:29Z",
   "git_url": "git://github.com/alexmacarthur/typeit.git",
   "ssh_url": "git@github.com:alexmacarthur/typeit.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/alexmacarthur/typeit",
   "homepage": "https://typeitjs.com",
   "size": 4567,
-  "stargazers_count": 2894,
-  "watchers_count": 2894,
+  "stargazers_count": 2895,
+  "watchers_count": 2895,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 201,
   "open_issues": 24,
-  "watchers": 2894,
+  "watchers": 2895,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1447
+  "_index": 1448
 }

@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/canonical/microk8s",
-  "description": "MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.",
+  "description": "MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.",
   "fork": false,
   "url": "https://api.github.com/repos/canonical/microk8s",
   "forks_url": "https://api.github.com/repos/canonical/microk8s/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/canonical/microk8s/releases{/id}",
   "deployments_url": "https://api.github.com/repos/canonical/microk8s/deployments",
   "created_at": "2018-05-09T09:19:36Z",
-  "updated_at": "2023-07-13T01:22:34Z",
-  "pushed_at": "2023-07-12T13:36:02Z",
+  "updated_at": "2023-07-13T15:13:04Z",
+  "pushed_at": "2023-07-13T22:20:46Z",
   "git_url": "git://github.com/canonical/microk8s.git",
   "ssh_url": "git@github.com:canonical/microk8s.git",
   "clone_url": "https://github.com/canonical/microk8s.git",
   "svn_url": "https://github.com/canonical/microk8s",
   "homepage": "https://microk8s.io",
-  "size": 11292,
-  "stargazers_count": 7518,
-  "watchers_count": 7518,
+  "size": 11310,
+  "stargazers_count": 7521,
+  "watchers_count": 7521,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 727,
+  "forks_count": 728,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "snap"
   ],
   "visibility": "public",
-  "forks": 727,
+  "forks": 728,
   "open_issues": 257,
-  "watchers": 7518,
+  "watchers": 7521,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1310
+  "_index": 1311
 }
