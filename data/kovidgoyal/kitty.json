@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/kovidgoyal/kitty/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kovidgoyal/kitty/deployments",
   "created_at": "2016-10-16T14:48:28Z",
-  "updated_at": "2023-07-14T00:05:23Z",
-  "pushed_at": "2023-07-14T01:20:41Z",
+  "updated_at": "2023-07-15T01:30:57Z",
+  "pushed_at": "2023-07-14T05:22:50Z",
   "git_url": "git://github.com/kovidgoyal/kitty.git",
   "ssh_url": "git@github.com:kovidgoyal/kitty.git",
   "clone_url": "https://github.com/kovidgoyal/kitty.git",
   "svn_url": "https://github.com/kovidgoyal/kitty",
   "homepage": "https://sw.kovidgoyal.net/kitty/",
-  "size": 47784,
-  "stargazers_count": 19266,
-  "watchers_count": 19266,
+  "size": 47868,
+  "stargazers_count": 19273,
+  "watchers_count": 19273,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 852,
   "open_issues": 24,
-  "watchers": 19266,
+  "watchers": 19273,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 627
+  "_index": 630
 }

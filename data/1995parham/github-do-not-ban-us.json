@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/1995parham/github-do-not-ban-us/releases{/id}",
   "deployments_url": "https://api.github.com/repos/1995parham/github-do-not-ban-us/deployments",
   "created_at": "2019-07-25T06:23:42Z",
-  "updated_at": "2023-07-12T02:54:19Z",
+  "updated_at": "2023-07-14T10:30:10Z",
   "pushed_at": "2019-08-01T19:25:20Z",
   "git_url": "git://github.com/1995parham/github-do-not-ban-us.git",
   "ssh_url": "git@github.com:1995parham/github-do-not-ban-us.git",
@@ -111,5 +111,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2395
+  "_index": 2398
 }

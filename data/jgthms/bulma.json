@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/jgthms/bulma/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jgthms/bulma/deployments",
   "created_at": "2016-01-23T23:48:34Z",
-  "updated_at": "2023-07-13T19:05:39Z",
-  "pushed_at": "2023-07-03T15:41:30Z",
+  "updated_at": "2023-07-15T01:01:34Z",
+  "pushed_at": "2023-07-14T07:44:03Z",
   "git_url": "git://github.com/jgthms/bulma.git",
   "ssh_url": "git@github.com:jgthms/bulma.git",
   "clone_url": "https://github.com/jgthms/bulma.git",
   "svn_url": "https://github.com/jgthms/bulma",
   "homepage": "https://bulma.io",
-  "size": 102254,
-  "stargazers_count": 47331,
-  "watchers_count": 47331,
+  "size": 102281,
+  "stargazers_count": 47335,
+  "watchers_count": 47335,
   "language": "CSS",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 363,
+  "open_issues_count": 364,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 3962,
-  "open_issues": 363,
-  "watchers": 47331,
+  "open_issues": 364,
+  "watchers": 47335,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2885
+  "_index": 2888
 }

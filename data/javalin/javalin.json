@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/javalin/javalin/releases{/id}",
   "deployments_url": "https://api.github.com/repos/javalin/javalin/deployments",
   "created_at": "2017-04-02T20:01:28Z",
-  "updated_at": "2023-07-13T08:00:35Z",
+  "updated_at": "2023-07-14T09:57:36Z",
   "pushed_at": "2023-07-13T19:16:34Z",
   "git_url": "git://github.com/javalin/javalin.git",
   "ssh_url": "git@github.com:javalin/javalin.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 549,
+  "forks_count": 548,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,7 +109,7 @@
     "web-framework"
   ],
   "visibility": "public",
-  "forks": 549,
+  "forks": 548,
   "open_issues": 21,
   "watchers": 6601,
   "default_branch": "master",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2198
+  "_index": 2201
 }

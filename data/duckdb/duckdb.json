@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/duckdb/duckdb/releases{/id}",
   "deployments_url": "https://api.github.com/repos/duckdb/duckdb/deployments",
   "created_at": "2018-06-26T15:04:45Z",
-  "updated_at": "2023-07-14T00:49:29Z",
-  "pushed_at": "2023-07-13T21:42:15Z",
+  "updated_at": "2023-07-14T22:11:33Z",
+  "pushed_at": "2023-07-14T16:26:03Z",
   "git_url": "git://github.com/duckdb/duckdb.git",
   "ssh_url": "git@github.com:duckdb/duckdb.git",
   "clone_url": "https://github.com/duckdb/duckdb.git",
   "svn_url": "https://github.com/duckdb/duckdb",
   "homepage": "http://www.duckdb.org",
-  "size": 212317,
-  "stargazers_count": 11020,
-  "watchers_count": 11020,
+  "size": 212392,
+  "stargazers_count": 11038,
+  "watchers_count": 11038,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 1021,
   "open_issues": 604,
-  "watchers": 11020,
+  "watchers": 11038,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 661
+  "_index": 664
 }

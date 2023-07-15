@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 221,
+  "forks_count": 220,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,7 +102,7 @@
     "phone"
   ],
   "visibility": "public",
-  "forks": 221,
+  "forks": 220,
   "open_issues": 16,
   "watchers": 2583,
   "default_branch": "master",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1099
+  "_index": 1102
 }

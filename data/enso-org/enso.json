@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/enso-org/enso/releases{/id}",
   "deployments_url": "https://api.github.com/repos/enso-org/enso/deployments",
   "created_at": "2016-12-16T17:23:37Z",
-  "updated_at": "2023-07-13T01:29:46Z",
-  "pushed_at": "2023-07-13T19:19:10Z",
+  "updated_at": "2023-07-14T02:36:44Z",
+  "pushed_at": "2023-07-14T23:42:09Z",
   "git_url": "git://github.com/enso-org/enso.git",
   "ssh_url": "git@github.com:enso-org/enso.git",
   "clone_url": "https://github.com/enso-org/enso.git",
   "svn_url": "https://github.com/enso-org/enso",
   "homepage": "https://enso.org",
-  "size": 58420,
-  "stargazers_count": 6536,
-  "watchers_count": 6536,
+  "size": 58685,
+  "stargazers_count": 6535,
+  "watchers_count": 6535,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 781,
+  "open_issues_count": 775,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -113,8 +113,8 @@
   ],
   "visibility": "public",
   "forks": 243,
-  "open_issues": 781,
-  "watchers": 6536,
+  "open_issues": 775,
+  "watchers": 6535,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 135
+  "_index": 138
 }

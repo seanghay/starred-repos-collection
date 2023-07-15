@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/antfu/icones/releases{/id}",
   "deployments_url": "https://api.github.com/repos/antfu/icones/deployments",
   "created_at": "2020-07-11T12:58:46Z",
-  "updated_at": "2023-07-13T19:17:09Z",
+  "updated_at": "2023-07-15T02:04:33Z",
   "pushed_at": "2023-07-10T09:52:06Z",
   "git_url": "git://github.com/antfu/icones.git",
   "ssh_url": "git@github.com:antfu/icones.git",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 836
+  "_index": 839
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/iBotPeaches/Apktool/releases{/id}",
   "deployments_url": "https://api.github.com/repos/iBotPeaches/Apktool/deployments",
   "created_at": "2012-03-19T17:46:53Z",
-  "updated_at": "2023-07-14T02:00:21Z",
-  "pushed_at": "2023-07-13T22:03:58Z",
+  "updated_at": "2023-07-14T17:47:03Z",
+  "pushed_at": "2023-07-15T01:07:49Z",
   "git_url": "git://github.com/iBotPeaches/Apktool.git",
   "ssh_url": "git@github.com:iBotPeaches/Apktool.git",
   "clone_url": "https://github.com/iBotPeaches/Apktool.git",
   "svn_url": "https://github.com/iBotPeaches/Apktool",
   "homepage": "https://ibotpeaches.github.io/Apktool",
-  "size": 266544,
-  "stargazers_count": 16687,
-  "watchers_count": 16687,
+  "size": 266973,
+  "stargazers_count": 16694,
+  "watchers_count": 16694,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 3411,
+  "forks_count": 3412,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 77,
+  "open_issues_count": 78,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -106,9 +106,9 @@
     "reverse-engineering"
   ],
   "visibility": "public",
-  "forks": 3411,
-  "open_issues": 77,
-  "watchers": 16687,
+  "forks": 3412,
+  "open_issues": 78,
+  "watchers": 16694,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 287
+  "_index": 290
 }

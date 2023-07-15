@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/liuguangli/VerificationCodeInput/releases{/id}",
   "deployments_url": "https://api.github.com/repos/liuguangli/VerificationCodeInput/deployments",
   "created_at": "2017-03-02T02:19:40Z",
-  "updated_at": "2023-07-13T08:20:01Z",
+  "updated_at": "2023-07-14T15:35:26Z",
   "pushed_at": "2019-04-23T08:49:55Z",
   "git_url": "git://github.com/liuguangli/VerificationCodeInput.git",
   "ssh_url": "git@github.com:liuguangli/VerificationCodeInput.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/liuguangli/VerificationCodeInput",
   "homepage": null,
   "size": 810,
-  "stargazers_count": 490,
-  "watchers_count": 490,
+  "stargazers_count": 489,
+  "watchers_count": 489,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 120,
   "open_issues": 16,
-  "watchers": 490,
+  "watchers": 489,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1899
+  "_index": 1902
 }

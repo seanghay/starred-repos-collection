@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mltframework/shotcut/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mltframework/shotcut/deployments",
   "created_at": "2012-04-23T22:37:04Z",
-  "updated_at": "2023-07-14T02:03:58Z",
+  "updated_at": "2023-07-14T23:23:58Z",
   "pushed_at": "2023-07-10T05:50:47Z",
   "git_url": "git://github.com/mltframework/shotcut.git",
   "ssh_url": "git@github.com:mltframework/shotcut.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mltframework/shotcut",
   "homepage": "https://www.shotcut.org",
   "size": 78328,
-  "stargazers_count": 8623,
-  "watchers_count": 8623,
+  "stargazers_count": 8637,
+  "watchers_count": 8637,
   "language": "C++",
   "has_issues": true,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 950,
   "open_issues": 80,
-  "watchers": 8623,
+  "watchers": 8637,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1100
+  "_index": 1103
 }

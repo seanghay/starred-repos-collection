@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/jaredsburrows/android-gif-search/deployments",
   "created_at": "2016-06-20T04:47:57Z",
   "updated_at": "2023-07-13T12:32:02Z",
-  "pushed_at": "2023-07-12T14:57:47Z",
+  "pushed_at": "2023-07-14T13:28:28Z",
   "git_url": "git://github.com/jaredsburrows/android-gif-search.git",
   "ssh_url": "git@github.com:jaredsburrows/android-gif-search.git",
   "clone_url": "https://github.com/jaredsburrows/android-gif-search.git",
   "svn_url": "https://github.com/jaredsburrows/android-gif-search",
   "homepage": "https://play.google.com/store/apps/details?id=com.burrowsapps.gif.search",
-  "size": 2097,
+  "size": 2101,
   "stargazers_count": 390,
   "watchers_count": 390,
   "language": "Kotlin",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 3,
+  "open_issues_count": 4,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -118,7 +118,7 @@
   ],
   "visibility": "public",
   "forks": 52,
-  "open_issues": 3,
+  "open_issues": 4,
   "watchers": 390,
   "default_branch": "master",
   "permissions": {
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2120
+  "_index": 2123
 }
