@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 40,
+  "forks_count": 39,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,7 +109,7 @@
     "tree-sitter"
   ],
   "visibility": "public",
-  "forks": 40,
+  "forks": 39,
   "open_issues": 40,
   "watchers": 1353,
   "default_branch": "master",

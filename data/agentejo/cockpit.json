@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/agentejo/cockpit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/agentejo/cockpit/deployments",
   "created_at": "2013-10-15T20:22:20Z",
-  "updated_at": "2023-07-14T16:41:18Z",
+  "updated_at": "2023-07-15T19:46:56Z",
   "pushed_at": "2023-06-10T17:20:52Z",
   "git_url": "git://github.com/agentejo/cockpit.git",
   "ssh_url": "git@github.com:agentejo/cockpit.git",
