@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/kpu/kenlm/deployments",
   "created_at": "2011-11-15T17:07:17Z",
   "updated_at": "2023-07-15T18:27:48Z",
-  "pushed_at": "2023-06-09T19:10:15Z",
+  "pushed_at": "2023-07-16T12:16:01Z",
   "git_url": "git://github.com/kpu/kenlm.git",
   "ssh_url": "git@github.com:kpu/kenlm.git",
   "clone_url": "https://github.com/kpu/kenlm.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 111,
+  "open_issues_count": 112,
   "license": {
     "key": "other",
     "name": "Other",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 487,
-  "open_issues": 111,
+  "open_issues": 112,
   "watchers": 2198,
   "default_branch": "master",
   "permissions": {

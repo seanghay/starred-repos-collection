@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/youlookwhat/ByRecyclerView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/youlookwhat/ByRecyclerView/deployments",
   "created_at": "2019-08-20T13:34:28Z",
-  "updated_at": "2023-07-13T05:52:52Z",
+  "updated_at": "2023-07-16T08:59:26Z",
   "pushed_at": "2023-06-09T01:34:55Z",
   "git_url": "git://github.com/youlookwhat/ByRecyclerView.git",
   "ssh_url": "git@github.com:youlookwhat/ByRecyclerView.git",

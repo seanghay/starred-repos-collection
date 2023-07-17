@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/square/wire/releases{/id}",
   "deployments_url": "https://api.github.com/repos/square/wire/deployments",
   "created_at": "2013-08-21T15:45:47Z",
-  "updated_at": "2023-07-15T05:50:57Z",
+  "updated_at": "2023-07-16T11:54:55Z",
   "pushed_at": "2023-07-14T18:06:04Z",
   "git_url": "git://github.com/square/wire.git",
   "ssh_url": "git@github.com:square/wire.git",

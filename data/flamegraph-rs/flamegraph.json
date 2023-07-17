@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/flamegraph-rs/flamegraph/releases{/id}",
   "deployments_url": "https://api.github.com/repos/flamegraph-rs/flamegraph/deployments",
   "created_at": "2019-03-07T16:31:30Z",
-  "updated_at": "2023-07-15T21:14:20Z",
+  "updated_at": "2023-07-16T21:27:18Z",
   "pushed_at": "2023-06-27T13:51:14Z",
   "git_url": "git://github.com/flamegraph-rs/flamegraph.git",
   "ssh_url": "git@github.com:flamegraph-rs/flamegraph.git",
