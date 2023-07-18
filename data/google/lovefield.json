@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/lovefield/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/lovefield/deployments",
   "created_at": "2014-09-30T18:29:14Z",
-  "updated_at": "2023-07-15T01:03:08Z",
+  "updated_at": "2023-07-17T08:50:22Z",
   "pushed_at": "2021-08-10T22:09:29Z",
   "git_url": "git://github.com/google/lovefield.git",
   "ssh_url": "git@github.com:google/lovefield.git",

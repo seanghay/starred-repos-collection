@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/halilozercan/compose-richtext/deployments",
   "created_at": "2020-03-08T02:22:55Z",
   "updated_at": "2023-07-16T21:58:16Z",
-  "pushed_at": "2023-07-10T00:06:52Z",
+  "pushed_at": "2023-07-18T02:26:01Z",
   "git_url": "git://github.com/halilozercan/compose-richtext.git",
   "ssh_url": "git@github.com:halilozercan/compose-richtext.git",
   "clone_url": "https://github.com/halilozercan/compose-richtext.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 38,
+  "forks_count": 39,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 25,
+  "open_issues_count": 26,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -104,8 +104,8 @@
     "kotlin"
   ],
   "visibility": "public",
-  "forks": 38,
-  "open_issues": 25,
+  "forks": 39,
+  "open_issues": 26,
   "watchers": 612,
   "default_branch": "main",
   "permissions": {

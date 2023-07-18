@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 684,
+  "forks_count": 685,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,7 +104,7 @@
     "kotlin-android"
   ],
   "visibility": "public",
-  "forks": 684,
+  "forks": 685,
   "open_issues": 10,
   "watchers": 5689,
   "default_branch": "master",

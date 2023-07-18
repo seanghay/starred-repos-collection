@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/MasayukiSuda/GPUVideo-android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/MasayukiSuda/GPUVideo-android/deployments",
   "created_at": "2019-01-17T03:17:05Z",
-  "updated_at": "2023-06-30T02:29:34Z",
+  "updated_at": "2023-07-17T08:08:17Z",
   "pushed_at": "2023-01-25T07:14:37Z",
   "git_url": "git://github.com/MasayukiSuda/GPUVideo-android.git",
   "ssh_url": "git@github.com:MasayukiSuda/GPUVideo-android.git",

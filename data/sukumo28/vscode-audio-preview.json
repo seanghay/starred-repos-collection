@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/sukumo28/vscode-audio-preview",
-  "description": "VS Code Extension to preview and play audio file.",
+  "description": "VS Code extension that allows you to preview and play audio files.",
   "fork": false,
   "url": "https://api.github.com/repos/sukumo28/vscode-audio-preview",
   "forks_url": "https://api.github.com/repos/sukumo28/vscode-audio-preview/forks",
@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sukumo28/vscode-audio-preview/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sukumo28/vscode-audio-preview/deployments",
   "created_at": "2020-12-05T07:25:06Z",
-  "updated_at": "2023-07-16T07:32:52Z",
+  "updated_at": "2023-07-17T11:00:01Z",
   "pushed_at": "2023-01-14T10:37:51Z",
   "git_url": "git://github.com/sukumo28/vscode-audio-preview.git",
   "ssh_url": "git@github.com:sukumo28/vscode-audio-preview.git",
