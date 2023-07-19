@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/simonw/datasette/releases{/id}",
   "deployments_url": "https://api.github.com/repos/simonw/datasette/deployments",
   "created_at": "2017-10-23T00:39:03Z",
-  "updated_at": "2023-07-17T13:23:40Z",
+  "updated_at": "2023-07-19T01:56:05Z",
   "pushed_at": "2023-07-13T09:30:37Z",
   "git_url": "git://github.com/simonw/datasette.git",
   "ssh_url": "git@github.com:simonw/datasette.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/simonw/datasette",
   "homepage": "https://datasette.io",
   "size": 6190,
-  "stargazers_count": 7991,
-  "watchers_count": 7991,
+  "stargazers_count": 7995,
+  "watchers_count": 7995,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 555,
   "open_issues": 528,
-  "watchers": 7991,
+  "watchers": 7995,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 329
+  "_index": 335
 }

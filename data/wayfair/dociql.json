@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/wayfair/dociql/deployments",
   "created_at": "2019-02-08T13:34:11Z",
   "updated_at": "2023-07-14T04:19:30Z",
-  "pushed_at": "2023-07-07T17:23:59Z",
+  "pushed_at": "2023-07-19T01:12:39Z",
   "git_url": "git://github.com/wayfair/dociql.git",
   "ssh_url": "git@github.com:wayfair/dociql.git",
   "clone_url": "https://github.com/wayfair/dociql.git",
   "svn_url": "https://github.com/wayfair/dociql",
   "homepage": "https://github.com/wayfair/dociql",
-  "size": 2776,
+  "size": 2777,
   "stargazers_count": 335,
   "watchers_count": 335,
   "language": "JavaScript",
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1212
+  "_index": 1218
 }

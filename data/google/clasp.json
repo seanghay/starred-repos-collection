@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/google/clasp/deployments",
   "created_at": "2017-12-05T00:34:56Z",
   "updated_at": "2023-07-17T10:32:25Z",
-  "pushed_at": "2023-07-12T08:33:48Z",
+  "pushed_at": "2023-07-18T22:25:19Z",
   "git_url": "git://github.com/google/clasp.git",
   "ssh_url": "git@github.com:google/clasp.git",
   "clone_url": "https://github.com/google/clasp.git",
   "svn_url": "https://github.com/google/clasp",
   "homepage": "https://developers.google.com/apps-script/guides/clasp",
-  "size": 3266,
+  "size": 3419,
   "stargazers_count": 3991,
   "watchers_count": 3991,
   "language": "TypeScript",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 422,
+  "forks_count": 423,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 142,
+  "open_issues_count": 143,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -104,8 +104,8 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 422,
-  "open_issues": 142,
+  "forks": 423,
+  "open_issues": 143,
   "watchers": 3991,
   "default_branch": "master",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 804
+  "_index": 810
 }

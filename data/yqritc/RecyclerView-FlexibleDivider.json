@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yqritc/RecyclerView-FlexibleDivider/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yqritc/RecyclerView-FlexibleDivider/deployments",
   "created_at": "2015-01-15T15:09:34Z",
-  "updated_at": "2023-06-07T19:13:11Z",
+  "updated_at": "2023-07-18T07:01:13Z",
   "pushed_at": "2021-08-01T11:30:54Z",
   "git_url": "git://github.com/yqritc/RecyclerView-FlexibleDivider.git",
   "ssh_url": "git@github.com:yqritc/RecyclerView-FlexibleDivider.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yqritc/RecyclerView-FlexibleDivider",
   "homepage": "",
   "size": 3797,
-  "stargazers_count": 2400,
-  "watchers_count": 2400,
+  "stargazers_count": 2399,
+  "watchers_count": 2399,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 393,
   "open_issues": 26,
-  "watchers": 2400,
+  "watchers": 2399,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1917
+  "_index": 1923
 }

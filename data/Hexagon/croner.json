@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Hexagon/croner/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Hexagon/croner/deployments",
   "created_at": "2015-12-09T20:43:12Z",
-  "updated_at": "2023-07-17T10:03:31Z",
+  "updated_at": "2023-07-18T10:28:37Z",
   "pushed_at": "2023-07-08T00:03:22Z",
   "git_url": "git://github.com/Hexagon/croner.git",
   "ssh_url": "git@github.com:Hexagon/croner.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Hexagon/croner",
   "homepage": "",
   "size": 2849,
-  "stargazers_count": 1201,
-  "watchers_count": 1201,
+  "stargazers_count": 1202,
+  "watchers_count": 1202,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -117,7 +117,7 @@
   "visibility": "public",
   "forks": 32,
   "open_issues": 0,
-  "watchers": 1201,
+  "watchers": 1202,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 26
+  "_index": 32
 }

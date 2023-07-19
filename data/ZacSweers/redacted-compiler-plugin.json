@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/ZacSweers/redacted-compiler-plugin.git",
   "svn_url": "https://github.com/ZacSweers/redacted-compiler-plugin",
   "homepage": "",
-  "size": 755,
+  "size": 756,
   "stargazers_count": 338,
   "watchers_count": 338,
   "language": "Kotlin",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2022
+  "_index": 2028
 }

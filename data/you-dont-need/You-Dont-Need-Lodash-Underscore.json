@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/you-dont-need/You-Dont-Need-Lodash-Underscore/releases{/id}",
   "deployments_url": "https://api.github.com/repos/you-dont-need/You-Dont-Need-Lodash-Underscore/deployments",
   "created_at": "2016-01-26T09:26:42Z",
-  "updated_at": "2023-07-18T02:23:16Z",
-  "pushed_at": "2023-07-11T06:56:50Z",
+  "updated_at": "2023-07-19T02:27:35Z",
+  "pushed_at": "2023-07-18T17:23:55Z",
   "git_url": "git://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore.git",
   "ssh_url": "git@github.com:you-dont-need/You-Dont-Need-Lodash-Underscore.git",
   "clone_url": "https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore.git",
   "svn_url": "https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore",
   "homepage": "",
-  "size": 1010,
-  "stargazers_count": 17009,
-  "watchers_count": 17009,
+  "size": 685,
+  "stargazers_count": 17018,
+  "watchers_count": 17018,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 56,
+  "open_issues_count": 55,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -114,8 +114,8 @@
   ],
   "visibility": "public",
   "forks": 806,
-  "open_issues": 56,
-  "watchers": 17009,
+  "open_issues": 55,
+  "watchers": 17018,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 538
+  "_index": 544
 }

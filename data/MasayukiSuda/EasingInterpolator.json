@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/MasayukiSuda/EasingInterpolator/releases{/id}",
   "deployments_url": "https://api.github.com/repos/MasayukiSuda/EasingInterpolator/deployments",
   "created_at": "2016-03-18T16:22:10Z",
-  "updated_at": "2023-04-19T06:40:22Z",
+  "updated_at": "2023-07-18T08:22:57Z",
   "pushed_at": "2021-10-12T08:02:55Z",
   "git_url": "git://github.com/MasayukiSuda/EasingInterpolator.git",
   "ssh_url": "git@github.com:MasayukiSuda/EasingInterpolator.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/MasayukiSuda/EasingInterpolator",
   "homepage": "",
   "size": 852,
-  "stargazers_count": 1101,
-  "watchers_count": 1101,
+  "stargazers_count": 1102,
+  "watchers_count": 1102,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -100,7 +100,7 @@
   "visibility": "public",
   "forks": 132,
   "open_issues": 0,
-  "watchers": 1101,
+  "watchers": 1102,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2474
+  "_index": 2480
 }

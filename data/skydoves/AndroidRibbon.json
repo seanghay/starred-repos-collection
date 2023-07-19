@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/skydoves/AndroidRibbon/releases{/id}",
   "deployments_url": "https://api.github.com/repos/skydoves/AndroidRibbon/deployments",
   "created_at": "2019-01-14T09:43:20Z",
-  "updated_at": "2023-07-11T07:20:12Z",
+  "updated_at": "2023-07-18T11:57:25Z",
   "pushed_at": "2022-01-15T05:57:35Z",
   "git_url": "git://github.com/skydoves/AndroidRibbon.git",
   "ssh_url": "git@github.com:skydoves/AndroidRibbon.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/skydoves/AndroidRibbon",
   "homepage": "",
   "size": 809,
-  "stargazers_count": 666,
-  "watchers_count": 666,
+  "stargazers_count": 667,
+  "watchers_count": 667,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 59,
   "open_issues": 0,
-  "watchers": 666,
+  "watchers": 667,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2116
+  "_index": 2122
 }

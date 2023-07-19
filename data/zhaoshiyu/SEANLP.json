@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/zhaoshiyu/SEANLP/releases{/id}",
   "deployments_url": "https://api.github.com/repos/zhaoshiyu/SEANLP/deployments",
   "created_at": "2016-02-29T13:06:24Z",
-  "updated_at": "2022-10-24T10:42:36Z",
+  "updated_at": "2023-07-18T13:15:42Z",
   "pushed_at": "2022-01-20T16:00:23Z",
   "git_url": "git://github.com/zhaoshiyu/SEANLP.git",
   "ssh_url": "git@github.com:zhaoshiyu/SEANLP.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/zhaoshiyu/SEANLP",
   "homepage": "",
   "size": 155081,
-  "stargazers_count": 46,
-  "watchers_count": 46,
+  "stargazers_count": 47,
+  "watchers_count": 47,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 12,
   "open_issues": 2,
-  "watchers": 46,
+  "watchers": 47,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 582
+  "_index": 588
 }

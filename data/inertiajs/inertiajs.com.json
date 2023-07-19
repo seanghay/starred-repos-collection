@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/inertiajs/inertiajs.com/releases{/id}",
   "deployments_url": "https://api.github.com/repos/inertiajs/inertiajs.com/deployments",
   "created_at": "2019-04-23T22:44:55Z",
-  "updated_at": "2023-07-13T21:40:00Z",
+  "updated_at": "2023-07-18T14:30:18Z",
   "pushed_at": "2023-07-13T21:57:16Z",
   "git_url": "git://github.com/inertiajs/inertiajs.com.git",
   "ssh_url": "git@github.com:inertiajs/inertiajs.com.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/inertiajs/inertiajs.com",
   "homepage": "https://inertiajs.com",
   "size": 4698,
-  "stargazers_count": 98,
-  "watchers_count": 98,
+  "stargazers_count": 99,
+  "watchers_count": 99,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 79,
+  "open_issues_count": 80,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -94,8 +94,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 70,
-  "open_issues": 79,
-  "watchers": 98,
+  "open_issues": 80,
+  "watchers": 99,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 892
+  "_index": 898
 }

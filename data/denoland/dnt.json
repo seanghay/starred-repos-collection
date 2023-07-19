@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/denoland/dnt/deployments",
   "created_at": "2021-09-18T21:08:10Z",
   "updated_at": "2023-07-17T22:05:19Z",
-  "pushed_at": "2023-07-11T06:15:45Z",
+  "pushed_at": "2023-07-18T16:45:54Z",
   "git_url": "git://github.com/denoland/dnt.git",
   "ssh_url": "git@github.com:denoland/dnt.git",
   "clone_url": "https://github.com/denoland/dnt.git",
   "svn_url": "https://github.com/denoland/dnt",
   "homepage": "",
-  "size": 96810,
+  "size": 96958,
   "stargazers_count": 946,
   "watchers_count": 946,
   "language": "Rust",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1199
+  "_index": 1205
 }

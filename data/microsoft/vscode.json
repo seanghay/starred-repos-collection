@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/microsoft/vscode/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microsoft/vscode/deployments",
   "created_at": "2015-09-03T20:23:38Z",
-  "updated_at": "2023-07-18T02:10:07Z",
-  "pushed_at": "2023-07-18T02:28:34Z",
+  "updated_at": "2023-07-19T03:17:14Z",
+  "pushed_at": "2023-07-19T02:09:13Z",
   "git_url": "git://github.com/microsoft/vscode.git",
   "ssh_url": "git@github.com:microsoft/vscode.git",
   "clone_url": "https://github.com/microsoft/vscode.git",
   "svn_url": "https://github.com/microsoft/vscode",
   "homepage": "https://code.visualstudio.com",
-  "size": 879705,
-  "stargazers_count": 148366,
-  "watchers_count": 148366,
+  "size": 880419,
+  "stargazers_count": 148409,
+  "watchers_count": 148409,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 26313,
+  "forks_count": 26315,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 7477,
+  "open_issues_count": 7464,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,15 +100,14 @@
   "topics": [
     "editor",
     "electron",
-    "hacktoberfest",
     "microsoft",
     "typescript",
     "visual-studio-code"
   ],
   "visibility": "public",
-  "forks": 26313,
-  "open_issues": 7477,
-  "watchers": 148366,
+  "forks": 26315,
+  "open_issues": 7464,
+  "watchers": 148409,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2886
+  "_index": 2892
 }

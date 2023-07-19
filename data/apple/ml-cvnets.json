@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/apple/ml-cvnets/releases{/id}",
   "deployments_url": "https://api.github.com/repos/apple/ml-cvnets/deployments",
   "created_at": "2021-10-21T23:12:39Z",
-  "updated_at": "2023-07-17T02:53:09Z",
+  "updated_at": "2023-07-18T08:33:45Z",
   "pushed_at": "2023-07-12T17:53:32Z",
   "git_url": "git://github.com/apple/ml-cvnets.git",
   "ssh_url": "git@github.com:apple/ml-cvnets.git",
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 72
+  "_index": 78
 }
