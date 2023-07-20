@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/GoogleChromeLabs/squoosh/releases{/id}",
   "deployments_url": "https://api.github.com/repos/GoogleChromeLabs/squoosh/deployments",
   "created_at": "2018-03-07T22:42:03Z",
-  "updated_at": "2023-07-19T02:21:59Z",
-  "pushed_at": "2023-07-17T21:45:57Z",
+  "updated_at": "2023-07-20T01:36:47Z",
+  "pushed_at": "2023-07-19T14:58:06Z",
   "git_url": "git://github.com/GoogleChromeLabs/squoosh.git",
   "ssh_url": "git@github.com:GoogleChromeLabs/squoosh.git",
   "clone_url": "https://github.com/GoogleChromeLabs/squoosh.git",
   "svn_url": "https://github.com/GoogleChromeLabs/squoosh",
   "homepage": "https://squoosh.app",
   "size": 142215,
-  "stargazers_count": 19119,
-  "watchers_count": 19119,
+  "stargazers_count": 19125,
+  "watchers_count": 19125,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1330,
+  "forks_count": 1333,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 1330,
+  "forks": 1333,
   "open_issues": 196,
-  "watchers": 19119,
+  "watchers": 19125,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2150
+  "_index": 2155
 }

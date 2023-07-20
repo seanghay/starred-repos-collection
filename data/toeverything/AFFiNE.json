@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/toeverything/AFFiNE/releases{/id}",
   "deployments_url": "https://api.github.com/repos/toeverything/AFFiNE/deployments",
   "created_at": "2022-07-31T18:45:21Z",
-  "updated_at": "2023-07-19T03:11:39Z",
-  "pushed_at": "2023-07-19T03:15:55Z",
+  "updated_at": "2023-07-20T01:32:17Z",
+  "pushed_at": "2023-07-20T02:00:14Z",
   "git_url": "git://github.com/toeverything/AFFiNE.git",
   "ssh_url": "git@github.com:toeverything/AFFiNE.git",
   "clone_url": "https://github.com/toeverything/AFFiNE.git",
   "svn_url": "https://github.com/toeverything/AFFiNE",
   "homepage": "https://affine.pro",
-  "size": 116922,
-  "stargazers_count": 19906,
-  "watchers_count": 19906,
+  "size": 116734,
+  "stargazers_count": 19938,
+  "watchers_count": 19938,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1238,
+  "forks_count": 1239,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 177,
+  "open_issues_count": 183,
   "license": {
     "key": "mpl-2.0",
     "name": "Mozilla Public License 2.0",
@@ -118,9 +118,9 @@
     "workspace"
   ],
   "visibility": "public",
-  "forks": 1238,
-  "open_issues": 177,
-  "watchers": 19906,
+  "forks": 1239,
+  "open_issues": 183,
+  "watchers": 19938,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 380
+  "_index": 385
 }

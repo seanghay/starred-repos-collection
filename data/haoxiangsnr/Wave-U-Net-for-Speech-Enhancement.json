@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 60,
+  "forks_count": 61,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,7 +107,7 @@
     "wave-unet"
   ],
   "visibility": "public",
-  "forks": 60,
+  "forks": 61,
   "open_issues": 7,
   "watchers": 256,
   "default_branch": "master",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 130
+  "_index": 135
 }

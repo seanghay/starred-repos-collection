@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/awesome-selfhosted/awesome-selfhosted/releases{/id}",
   "deployments_url": "https://api.github.com/repos/awesome-selfhosted/awesome-selfhosted/deployments",
   "created_at": "2015-06-01T02:33:17Z",
-  "updated_at": "2023-07-19T02:39:21Z",
-  "pushed_at": "2023-07-18T21:47:40Z",
+  "updated_at": "2023-07-20T01:43:15Z",
+  "pushed_at": "2023-07-19T20:56:51Z",
   "git_url": "git://github.com/awesome-selfhosted/awesome-selfhosted.git",
   "ssh_url": "git@github.com:awesome-selfhosted/awesome-selfhosted.git",
   "clone_url": "https://github.com/awesome-selfhosted/awesome-selfhosted.git",
   "svn_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
   "homepage": "https://reddit.com/r/selfhosted",
   "size": 15505,
-  "stargazers_count": 139776,
-  "watchers_count": 139776,
+  "stargazers_count": 139881,
+  "watchers_count": 139881,
   "language": "Makefile",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 7919,
+  "forks_count": 7923,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 48,
+  "open_issues_count": 51,
   "license": {
     "key": "other",
     "name": "Other",
@@ -108,9 +108,9 @@
     "selfhosted"
   ],
   "visibility": "public",
-  "forks": 7919,
-  "open_issues": 48,
-  "watchers": 139776,
+  "forks": 7923,
+  "open_issues": 51,
+  "watchers": 139881,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1329
+  "_index": 1334
 }

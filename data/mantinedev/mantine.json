@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mantinedev/mantine/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mantinedev/mantine/deployments",
   "created_at": "2021-01-07T14:02:19Z",
-  "updated_at": "2023-07-19T02:56:31Z",
+  "updated_at": "2023-07-20T02:00:48Z",
   "pushed_at": "2023-07-18T06:33:36Z",
   "git_url": "git://github.com/mantinedev/mantine.git",
   "ssh_url": "git@github.com:mantinedev/mantine.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mantinedev/mantine",
   "homepage": "https://mantine.dev",
   "size": 411278,
-  "stargazers_count": 20500,
-  "watchers_count": 20500,
+  "stargazers_count": 20521,
+  "watchers_count": 20521,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 135,
+  "open_issues_count": 137,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 1434,
-  "open_issues": 135,
-  "watchers": 20500,
+  "open_issues": 137,
+  "watchers": 20521,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 731
+  "_index": 736
 }

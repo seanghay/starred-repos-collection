@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/google-research/google-research/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google-research/google-research/deployments",
   "created_at": "2018-10-04T18:42:48Z",
-  "updated_at": "2023-07-19T01:42:12Z",
-  "pushed_at": "2023-07-18T23:55:35Z",
+  "updated_at": "2023-07-20T01:58:28Z",
+  "pushed_at": "2023-07-19T20:38:57Z",
   "git_url": "git://github.com/google-research/google-research.git",
   "ssh_url": "git@github.com:google-research/google-research.git",
   "clone_url": "https://github.com/google-research/google-research.git",
   "svn_url": "https://github.com/google-research/google-research",
   "homepage": "https://research.google",
-  "size": 537755,
-  "stargazers_count": 30257,
-  "watchers_count": 30257,
+  "size": 537860,
+  "stargazers_count": 30270,
+  "watchers_count": 30270,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 7468,
+  "forks_count": 7470,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,9 +103,9 @@
     "research"
   ],
   "visibility": "public",
-  "forks": 7468,
+  "forks": 7470,
   "open_issues": 1074,
-  "watchers": 30257,
+  "watchers": 30270,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 16
+  "_index": 21
 }

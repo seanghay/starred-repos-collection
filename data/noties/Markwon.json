@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/noties/Markwon/releases{/id}",
   "deployments_url": "https://api.github.com/repos/noties/Markwon/deployments",
   "created_at": "2017-05-18T13:50:21Z",
-  "updated_at": "2023-07-19T02:40:33Z",
+  "updated_at": "2023-07-19T11:57:12Z",
   "pushed_at": "2023-06-27T04:39:59Z",
   "git_url": "git://github.com/noties/Markwon.git",
   "ssh_url": "git@github.com:noties/Markwon.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/noties/Markwon",
   "homepage": "https://noties.io/Markwon/",
   "size": 18011,
-  "stargazers_count": 2391,
-  "watchers_count": 2391,
+  "stargazers_count": 2392,
+  "watchers_count": 2392,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 47,
+  "open_issues_count": 48,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -103,8 +103,8 @@
   ],
   "visibility": "public",
   "forks": 275,
-  "open_issues": 47,
-  "watchers": 2391,
+  "open_issues": 48,
+  "watchers": 2392,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2681
+  "_index": 2686
 }

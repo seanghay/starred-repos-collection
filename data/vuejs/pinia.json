@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/vuejs/pinia/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vuejs/pinia/deployments",
   "created_at": "2019-11-18T21:05:01Z",
-  "updated_at": "2023-07-18T18:34:25Z",
-  "pushed_at": "2023-07-18T16:05:08Z",
+  "updated_at": "2023-07-20T01:48:59Z",
+  "pushed_at": "2023-07-19T11:20:31Z",
   "git_url": "git://github.com/vuejs/pinia.git",
   "ssh_url": "git@github.com:vuejs/pinia.git",
   "clone_url": "https://github.com/vuejs/pinia.git",
   "svn_url": "https://github.com/vuejs/pinia",
   "homepage": "https://pinia.vuejs.org",
-  "size": 7310,
-  "stargazers_count": 10828,
-  "watchers_count": 10828,
+  "size": 6950,
+  "stargazers_count": 10833,
+  "watchers_count": 10833,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 47,
+  "open_issues_count": 46,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 845,
-  "open_issues": 47,
-  "watchers": 10828,
+  "open_issues": 46,
+  "watchers": 10833,
   "default_branch": "v2",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1106
+  "_index": 1111
 }

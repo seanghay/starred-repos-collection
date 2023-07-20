@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/coqui-ai/TTS/releases{/id}",
   "deployments_url": "https://api.github.com/repos/coqui-ai/TTS/deployments",
   "created_at": "2020-05-20T15:45:28Z",
-  "updated_at": "2023-07-19T03:12:21Z",
-  "pushed_at": "2023-07-17T14:07:14Z",
+  "updated_at": "2023-07-19T22:04:58Z",
+  "pushed_at": "2023-07-19T12:56:47Z",
   "git_url": "git://github.com/coqui-ai/TTS.git",
   "ssh_url": "git@github.com:coqui-ai/TTS.git",
   "clone_url": "https://github.com/coqui-ai/TTS.git",
   "svn_url": "https://github.com/coqui-ai/TTS",
   "homepage": "http://coqui.ai",
   "size": 163147,
-  "stargazers_count": 13351,
-  "watchers_count": 13351,
+  "stargazers_count": 13367,
+  "watchers_count": 13367,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1760,
+  "forks_count": 1763,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 28,
+  "open_issues_count": 32,
   "license": {
     "key": "mpl-2.0",
     "name": "Mozilla Public License 2.0",
@@ -119,9 +119,9 @@
     "voice-synthesis"
   ],
   "visibility": "public",
-  "forks": 1760,
-  "open_issues": 28,
-  "watchers": 13351,
+  "forks": 1763,
+  "open_issues": 32,
+  "watchers": 13367,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 139
+  "_index": 144
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/nextauthjs/next-auth/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nextauthjs/next-auth/deployments",
   "created_at": "2018-01-27T12:28:16Z",
-  "updated_at": "2023-07-19T02:44:55Z",
-  "pushed_at": "2023-07-19T00:59:41Z",
+  "updated_at": "2023-07-20T00:19:12Z",
+  "pushed_at": "2023-07-19T23:09:06Z",
   "git_url": "git://github.com/nextauthjs/next-auth.git",
   "ssh_url": "git@github.com:nextauthjs/next-auth.git",
   "clone_url": "https://github.com/nextauthjs/next-auth.git",
   "svn_url": "https://github.com/nextauthjs/next-auth",
   "homepage": "https://authjs.dev",
-  "size": 32209,
-  "stargazers_count": 17639,
-  "watchers_count": 17639,
+  "size": 32217,
+  "stargazers_count": 17648,
+  "watchers_count": 17648,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2138,
+  "forks_count": 2143,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -118,9 +118,9 @@
     "web"
   ],
   "visibility": "public",
-  "forks": 2138,
+  "forks": 2143,
   "open_issues": 262,
-  "watchers": 17639,
+  "watchers": 17648,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 863
+  "_index": 868
 }

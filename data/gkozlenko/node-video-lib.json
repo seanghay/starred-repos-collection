@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/gkozlenko/node-video-lib/deployments",
   "created_at": "2016-05-28T06:08:56Z",
   "updated_at": "2023-07-02T15:40:41Z",
-  "pushed_at": "2023-07-18T20:15:48Z",
+  "pushed_at": "2023-07-19T16:53:19Z",
   "git_url": "git://github.com/gkozlenko/node-video-lib.git",
   "ssh_url": "git@github.com:gkozlenko/node-video-lib.git",
   "clone_url": "https://github.com/gkozlenko/node-video-lib.git",
   "svn_url": "https://github.com/gkozlenko/node-video-lib",
   "homepage": "",
-  "size": 50118,
+  "size": 50119,
   "stargazers_count": 327,
   "watchers_count": 327,
   "language": "JavaScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 3,
+  "open_issues_count": 2,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,7 +112,7 @@
   ],
   "visibility": "public",
   "forks": 20,
-  "open_issues": 3,
+  "open_issues": 2,
   "watchers": 327,
   "default_branch": "master",
   "permissions": {
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2473
+  "_index": 2478
 }

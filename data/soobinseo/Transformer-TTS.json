@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/soobinseo/Transformer-TTS/releases{/id}",
   "deployments_url": "https://api.github.com/repos/soobinseo/Transformer-TTS/deployments",
   "created_at": "2019-03-20T01:57:38Z",
-  "updated_at": "2023-07-19T02:24:11Z",
+  "updated_at": "2023-07-19T05:06:38Z",
   "pushed_at": "2023-07-06T21:20:04Z",
   "git_url": "git://github.com/soobinseo/Transformer-TTS.git",
   "ssh_url": "git@github.com:soobinseo/Transformer-TTS.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/soobinseo/Transformer-TTS",
   "homepage": "",
   "size": 2592,
-  "stargazers_count": 573,
-  "watchers_count": 573,
+  "stargazers_count": 574,
+  "watchers_count": 574,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 128,
   "open_issues": 36,
-  "watchers": 573,
+  "watchers": 574,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 4
+  "_index": 9
 }

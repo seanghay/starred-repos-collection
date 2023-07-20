@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/invisal/query-master",
-  "description": "Just another MySQL GUI client",
+  "description": "QueryMaster, Just another MySQL GUI client",
   "fork": false,
   "url": "https://api.github.com/repos/invisal/query-master",
   "forks_url": "https://api.github.com/repos/invisal/query-master/forks",
@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/invisal/query-master/releases{/id}",
   "deployments_url": "https://api.github.com/repos/invisal/query-master/deployments",
   "created_at": "2023-05-15T13:09:55Z",
-  "updated_at": "2023-07-17T03:58:07Z",
-  "pushed_at": "2023-07-17T14:27:42Z",
+  "updated_at": "2023-07-20T00:31:10Z",
+  "pushed_at": "2023-07-20T01:33:50Z",
   "git_url": "git://github.com/invisal/query-master.git",
   "ssh_url": "git@github.com:invisal/query-master.git",
   "clone_url": "https://github.com/invisal/query-master.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 14,
+  "open_issues_count": 15,
   "license": {
     "key": "other",
     "name": "Other",
@@ -106,7 +106,7 @@
   ],
   "visibility": "public",
   "forks": 4,
-  "open_issues": 14,
+  "open_issues": 15,
   "watchers": 28,
   "default_branch": "main",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 190
+  "_index": 195
 }

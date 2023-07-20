@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/terkelg/ramme/releases{/id}",
   "deployments_url": "https://api.github.com/repos/terkelg/ramme/deployments",
   "created_at": "2016-08-21T16:33:36Z",
-  "updated_at": "2023-07-14T01:38:51Z",
+  "updated_at": "2023-07-19T12:37:20Z",
   "pushed_at": "2019-11-03T01:35:26Z",
   "git_url": "git://github.com/terkelg/ramme.git",
   "ssh_url": "git@github.com:terkelg/ramme.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/terkelg/ramme",
   "homepage": "",
   "size": 10103,
-  "stargazers_count": 3329,
-  "watchers_count": 3329,
+  "stargazers_count": 3330,
+  "watchers_count": 3330,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 429,
   "open_issues": 0,
-  "watchers": 3329,
+  "watchers": 3330,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2690
+  "_index": 2695
 }

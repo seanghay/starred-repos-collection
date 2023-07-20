@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Tencent/vap/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Tencent/vap/deployments",
   "created_at": "2020-08-31T08:06:57Z",
-  "updated_at": "2023-07-19T02:52:57Z",
+  "updated_at": "2023-07-19T06:42:26Z",
   "pushed_at": "2023-07-13T03:56:13Z",
   "git_url": "git://github.com/Tencent/vap.git",
   "ssh_url": "git@github.com:Tencent/vap.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Tencent/vap",
   "homepage": "",
   "size": 147673,
-  "stargazers_count": 3564,
-  "watchers_count": 3564,
+  "stargazers_count": 3565,
+  "watchers_count": 3565,
   "language": "Objective-C",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 465,
   "open_issues": 59,
-  "watchers": 3564,
+  "watchers": 3565,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1313
+  "_index": 1318
 }
