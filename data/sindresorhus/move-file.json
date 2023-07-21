@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/move-file/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/move-file/deployments",
   "created_at": "2017-11-03T10:40:00Z",
-  "updated_at": "2023-04-05T16:00:23Z",
+  "updated_at": "2023-07-21T00:56:55Z",
   "pushed_at": "2023-04-05T11:55:06Z",
   "git_url": "git://github.com/sindresorhus/move-file.git",
   "ssh_url": "git@github.com:sindresorhus/move-file.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sindresorhus/move-file",
   "homepage": null,
   "size": 24,
-  "stargazers_count": 191,
-  "watchers_count": 191,
+  "stargazers_count": 192,
+  "watchers_count": 192,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 15,
   "open_issues": 0,
-  "watchers": 191,
+  "watchers": 192,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 275
+  "_index": 279
 }

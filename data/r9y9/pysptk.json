@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/r9y9/pysptk/deployments",
   "created_at": "2015-08-30T05:40:22Z",
   "updated_at": "2023-07-20T01:38:20Z",
-  "pushed_at": "2023-07-19T07:15:18Z",
+  "pushed_at": "2023-07-20T03:59:13Z",
   "git_url": "git://github.com/r9y9/pysptk.git",
   "ssh_url": "git@github.com:r9y9/pysptk.git",
   "clone_url": "https://github.com/r9y9/pysptk.git",
   "svn_url": "https://github.com/r9y9/pysptk",
   "homepage": "http://pysptk.readthedocs.io/en/latest/",
-  "size": 16051,
+  "size": 16059,
   "stargazers_count": 401,
   "watchers_count": 401,
   "language": "Python",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 14
+  "_index": 18
 }

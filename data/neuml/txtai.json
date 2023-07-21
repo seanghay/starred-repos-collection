@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/neuml/txtai/releases{/id}",
   "deployments_url": "https://api.github.com/repos/neuml/txtai/deployments",
   "created_at": "2020-08-09T19:14:59Z",
-  "updated_at": "2023-07-20T01:19:53Z",
-  "pushed_at": "2023-07-18T19:36:43Z",
+  "updated_at": "2023-07-21T01:56:38Z",
+  "pushed_at": "2023-07-20T15:28:13Z",
   "git_url": "git://github.com/neuml/txtai.git",
   "ssh_url": "git@github.com:neuml/txtai.git",
   "clone_url": "https://github.com/neuml/txtai.git",
   "svn_url": "https://github.com/neuml/txtai",
   "homepage": "https://neuml.github.io/txtai",
-  "size": 37864,
-  "stargazers_count": 4349,
-  "watchers_count": 4349,
+  "size": 37880,
+  "stargazers_count": 4357,
+  "watchers_count": 4357,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 359,
+  "forks_count": 360,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 13,
+  "open_issues_count": 12,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -120,9 +120,9 @@
     "video-search"
   ],
   "visibility": "public",
-  "forks": 359,
-  "open_issues": 13,
-  "watchers": 4349,
+  "forks": 360,
+  "open_issues": 12,
+  "watchers": 4357,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 127
+  "_index": 131
 }

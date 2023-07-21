@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Rance935/SectorMenu/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Rance935/SectorMenu/deployments",
   "created_at": "2016-11-11T03:31:41Z",
-  "updated_at": "2023-06-26T08:47:20Z",
+  "updated_at": "2023-07-21T01:15:46Z",
   "pushed_at": "2016-11-14T03:21:34Z",
   "git_url": "git://github.com/Rance935/SectorMenu.git",
   "ssh_url": "git@github.com:Rance935/SectorMenu.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Rance935/SectorMenu",
   "homepage": "",
   "size": 117,
-  "stargazers_count": 161,
-  "watchers_count": 161,
+  "stargazers_count": 162,
+  "watchers_count": 162,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 28,
   "open_issues": 8,
-  "watchers": 161,
+  "watchers": 162,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1838
+  "_index": 1842
 }

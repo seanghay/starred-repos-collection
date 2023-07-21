@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/greena13/react-hotkeys/releases{/id}",
   "deployments_url": "https://api.github.com/repos/greena13/react-hotkeys/deployments",
   "created_at": "2015-04-03T14:21:27Z",
-  "updated_at": "2023-07-14T07:48:54Z",
+  "updated_at": "2023-07-20T18:49:16Z",
   "pushed_at": "2023-01-04T01:16:24Z",
   "git_url": "git://github.com/greena13/react-hotkeys.git",
   "ssh_url": "git@github.com:greena13/react-hotkeys.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 510
+  "_index": 514
 }

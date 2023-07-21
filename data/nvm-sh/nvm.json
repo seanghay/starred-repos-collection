@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/nvm-sh/nvm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nvm-sh/nvm/deployments",
   "created_at": "2010-04-15T17:47:47Z",
-  "updated_at": "2023-07-20T01:51:02Z",
-  "pushed_at": "2023-07-07T12:35:30Z",
+  "updated_at": "2023-07-21T00:22:22Z",
+  "pushed_at": "2023-07-20T23:54:55Z",
   "git_url": "git://github.com/nvm-sh/nvm.git",
   "ssh_url": "git@github.com:nvm-sh/nvm.git",
   "clone_url": "https://github.com/nvm-sh/nvm.git",
   "svn_url": "https://github.com/nvm-sh/nvm",
   "homepage": "",
-  "size": 3314,
-  "stargazers_count": 68606,
-  "watchers_count": 68606,
+  "size": 3313,
+  "stargazers_count": 68633,
+  "watchers_count": 68633,
   "language": "Shell",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 7339,
+  "forks_count": 7342,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 390,
+  "open_issues_count": 391,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -113,9 +113,9 @@
     "zsh"
   ],
   "visibility": "public",
-  "forks": 7339,
-  "open_issues": 390,
-  "watchers": 68606,
+  "forks": 7342,
+  "open_issues": 391,
+  "watchers": 68633,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1269
+  "_index": 1273
 }

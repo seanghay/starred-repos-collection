@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/duanhong169/PickerView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/duanhong169/PickerView/deployments",
   "created_at": "2017-07-16T08:15:34Z",
-  "updated_at": "2023-07-14T07:12:17Z",
+  "updated_at": "2023-07-20T04:07:12Z",
   "pushed_at": "2020-07-19T07:34:28Z",
   "git_url": "git://github.com/duanhong169/PickerView.git",
   "ssh_url": "git@github.com:duanhong169/PickerView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/duanhong169/PickerView",
   "homepage": "",
   "size": 3920,
-  "stargazers_count": 244,
-  "watchers_count": 244,
+  "stargazers_count": 245,
+  "watchers_count": 245,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 42,
   "open_issues": 7,
-  "watchers": 244,
+  "watchers": 245,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1698
+  "_index": 1702
 }

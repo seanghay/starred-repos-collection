@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/realm/realm-java/releases{/id}",
   "deployments_url": "https://api.github.com/repos/realm/realm-java/deployments",
   "created_at": "2012-04-20T09:18:42Z",
-  "updated_at": "2023-07-19T08:53:05Z",
+  "updated_at": "2023-07-20T13:22:45Z",
   "pushed_at": "2023-07-10T09:08:25Z",
   "git_url": "git://github.com/realm/realm-java.git",
   "ssh_url": "git@github.com:realm/realm-java.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/realm/realm-java",
   "homepage": "http://realm.io",
   "size": 65713,
-  "stargazers_count": 11401,
-  "watchers_count": 11401,
+  "stargazers_count": 11400,
+  "watchers_count": 11400,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 1782,
   "open_issues": 397,
-  "watchers": 11401,
+  "watchers": 11400,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2228
+  "_index": 2232
 }

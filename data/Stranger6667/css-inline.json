@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/Stranger6667/css-inline/deployments",
   "created_at": "2020-06-21T12:32:19Z",
   "updated_at": "2023-07-16T03:10:14Z",
-  "pushed_at": "2023-07-17T08:36:53Z",
+  "pushed_at": "2023-07-20T21:37:37Z",
   "git_url": "git://github.com/Stranger6667/css-inline.git",
   "ssh_url": "git@github.com:Stranger6667/css-inline.git",
   "clone_url": "https://github.com/Stranger6667/css-inline.git",
   "svn_url": "https://github.com/Stranger6667/css-inline",
   "homepage": "https://docs.rs/css-inline",
-  "size": 644,
+  "size": 648,
   "stargazers_count": 166,
   "watchers_count": 166,
   "language": "Rust",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 10,
+  "open_issues_count": 9,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,7 +109,7 @@
   ],
   "visibility": "public",
   "forks": 27,
-  "open_issues": 10,
+  "open_issues": 9,
   "watchers": 166,
   "default_branch": "master",
   "permissions": {
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 101
+  "_index": 105
 }

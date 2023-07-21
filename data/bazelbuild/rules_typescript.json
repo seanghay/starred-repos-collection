@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bazelbuild/rules_typescript/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bazelbuild/rules_typescript/deployments",
   "created_at": "2017-05-22T16:18:30Z",
-  "updated_at": "2023-03-11T01:51:01Z",
+  "updated_at": "2023-07-20T13:05:19Z",
   "pushed_at": "2020-10-23T14:44:49Z",
   "git_url": "git://github.com/bazelbuild/rules_typescript.git",
   "ssh_url": "git@github.com:bazelbuild/rules_typescript.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/bazelbuild/rules_typescript",
   "homepage": "https://github.com/bazelbuild/rules_nodejs",
   "size": 2386,
-  "stargazers_count": 277,
-  "watchers_count": 277,
+  "stargazers_count": 276,
+  "watchers_count": 276,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 101,
   "open_issues": 0,
-  "watchers": 277,
+  "watchers": 276,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2751
+  "_index": 2755
 }

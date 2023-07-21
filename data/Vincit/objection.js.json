@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/Vincit/objection.js/deployments",
   "created_at": "2015-04-14T10:36:51Z",
   "updated_at": "2023-07-19T12:09:01Z",
-  "pushed_at": "2023-07-15T23:02:25Z",
+  "pushed_at": "2023-07-20T11:00:13Z",
   "git_url": "git://github.com/Vincit/objection.js.git",
   "ssh_url": "git@github.com:Vincit/objection.js.git",
   "clone_url": "https://github.com/Vincit/objection.js.git",
   "svn_url": "https://github.com/Vincit/objection.js",
   "homepage": "https://vincit.github.io/objection.js",
-  "size": 21573,
+  "size": 20708,
   "stargazers_count": 7035,
   "watchers_count": 7035,
   "language": "JavaScript",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 630
+  "_index": 634
 }

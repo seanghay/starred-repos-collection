@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/coder/coder/releases{/id}",
   "deployments_url": "https://api.github.com/repos/coder/coder/deployments",
   "created_at": "2021-12-22T06:08:52Z",
-  "updated_at": "2023-07-19T08:38:26Z",
-  "pushed_at": "2023-07-20T00:08:11Z",
+  "updated_at": "2023-07-20T23:54:05Z",
+  "pushed_at": "2023-07-21T02:01:21Z",
   "git_url": "git://github.com/coder/coder.git",
   "ssh_url": "git@github.com:coder/coder.git",
   "clone_url": "https://github.com/coder/coder.git",
   "svn_url": "https://github.com/coder/coder",
   "homepage": "https://coder.com",
-  "size": 89019,
-  "stargazers_count": 4745,
-  "watchers_count": 4745,
+  "size": 90268,
+  "stargazers_count": 4750,
+  "watchers_count": 4750,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 373,
+  "forks_count": 375,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 422,
+  "open_issues_count": 420,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -109,9 +109,9 @@
     "vscode"
   ],
   "visibility": "public",
-  "forks": 373,
-  "open_issues": 422,
-  "watchers": 4745,
+  "forks": 375,
+  "open_issues": 420,
+  "watchers": 4750,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 826
+  "_index": 830
 }
