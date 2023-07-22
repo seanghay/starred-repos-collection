@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/alexjoverm/typescript-library-starter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/alexjoverm/typescript-library-starter/deployments",
   "created_at": "2017-02-15T14:38:25Z",
-  "updated_at": "2023-07-20T15:20:42Z",
+  "updated_at": "2023-07-21T02:39:46Z",
   "pushed_at": "2022-04-07T13:09:07Z",
   "git_url": "git://github.com/alexjoverm/typescript-library-starter.git",
   "ssh_url": "git@github.com:alexjoverm/typescript-library-starter.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/alexjoverm/typescript-library-starter",
   "homepage": "",
   "size": 1061,
-  "stargazers_count": 4299,
-  "watchers_count": 4299,
+  "stargazers_count": 4300,
+  "watchers_count": 4300,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 492,
   "open_issues": 66,
-  "watchers": 4299,
+  "watchers": 4300,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1152
+  "_index": 1155
 }

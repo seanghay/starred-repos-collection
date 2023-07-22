@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/unshiftio/url-parse/releases{/id}",
   "deployments_url": "https://api.github.com/repos/unshiftio/url-parse/deployments",
   "created_at": "2014-10-13T13:50:59Z",
-  "updated_at": "2023-07-14T07:52:37Z",
+  "updated_at": "2023-07-21T13:51:24Z",
   "pushed_at": "2023-01-04T21:12:05Z",
   "git_url": "git://github.com/unshiftio/url-parse.git",
   "ssh_url": "git@github.com:unshiftio/url-parse.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1455
+  "_index": 1458
 }

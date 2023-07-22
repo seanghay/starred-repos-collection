@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ChuckerTeam/chucker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ChuckerTeam/chucker/deployments",
   "created_at": "2018-11-03T21:25:45Z",
-  "updated_at": "2023-07-19T18:46:16Z",
+  "updated_at": "2023-07-21T04:25:12Z",
   "pushed_at": "2023-07-14T15:24:58Z",
   "git_url": "git://github.com/ChuckerTeam/chucker.git",
   "ssh_url": "git@github.com:ChuckerTeam/chucker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ChuckerTeam/chucker",
   "homepage": "",
   "size": 37480,
-  "stargazers_count": 3256,
-  "watchers_count": 3256,
+  "stargazers_count": 3257,
+  "watchers_count": 3257,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 290,
+  "forks_count": 291,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -120,9 +120,9 @@
     "proxy"
   ],
   "visibility": "public",
-  "forks": 290,
+  "forks": 291,
   "open_issues": 46,
-  "watchers": 3256,
+  "watchers": 3257,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1858
+  "_index": 1861
 }

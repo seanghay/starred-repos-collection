@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/square/wire/deployments",
   "created_at": "2013-08-21T15:45:47Z",
   "updated_at": "2023-07-16T11:54:55Z",
-  "pushed_at": "2023-07-20T10:46:47Z",
+  "pushed_at": "2023-07-21T13:06:25Z",
   "git_url": "git://github.com/square/wire.git",
   "ssh_url": "git@github.com:square/wire.git",
   "clone_url": "https://github.com/square/wire.git",
   "svn_url": "https://github.com/square/wire",
   "homepage": "https://square.github.io/wire/",
-  "size": 28293,
+  "size": 28298,
   "stargazers_count": 4043,
   "watchers_count": 4043,
   "language": "Kotlin",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1768
+  "_index": 1771
 }

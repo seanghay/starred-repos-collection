@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/kivy/kivy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kivy/kivy/deployments",
   "created_at": "2010-11-03T20:27:32Z",
-  "updated_at": "2023-07-21T00:49:28Z",
-  "pushed_at": "2023-07-20T05:43:00Z",
+  "updated_at": "2023-07-21T16:39:43Z",
+  "pushed_at": "2023-07-21T11:11:16Z",
   "git_url": "git://github.com/kivy/kivy.git",
   "ssh_url": "git@github.com:kivy/kivy.git",
   "clone_url": "https://github.com/kivy/kivy.git",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2229
+  "_index": 2232
 }

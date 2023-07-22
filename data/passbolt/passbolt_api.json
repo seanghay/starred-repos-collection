@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/passbolt/passbolt_api/releases{/id}",
   "deployments_url": "https://api.github.com/repos/passbolt/passbolt_api/deployments",
   "created_at": "2016-02-23T01:14:59Z",
-  "updated_at": "2023-07-20T16:57:40Z",
-  "pushed_at": "2023-07-13T11:00:06Z",
+  "updated_at": "2023-07-21T22:09:36Z",
+  "pushed_at": "2023-07-21T20:24:22Z",
   "git_url": "git://github.com/passbolt/passbolt_api.git",
   "ssh_url": "git@github.com:passbolt/passbolt_api.git",
   "clone_url": "https://github.com/passbolt/passbolt_api.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 30,
+  "open_issues_count": 31,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -106,7 +106,7 @@
   ],
   "visibility": "public",
   "forks": 284,
-  "open_issues": 30,
+  "open_issues": 31,
   "watchers": 3895,
   "default_branch": "master",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2686
+  "_index": 2689
 }

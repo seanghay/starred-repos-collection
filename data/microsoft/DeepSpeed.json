@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/microsoft/DeepSpeed/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microsoft/DeepSpeed/deployments",
   "created_at": "2020-01-23T18:35:18Z",
-  "updated_at": "2023-07-21T01:31:05Z",
-  "pushed_at": "2023-07-20T23:56:49Z",
+  "updated_at": "2023-07-22T00:52:32Z",
+  "pushed_at": "2023-07-22T01:20:50Z",
   "git_url": "git://github.com/microsoft/DeepSpeed.git",
   "ssh_url": "git@github.com:microsoft/DeepSpeed.git",
   "clone_url": "https://github.com/microsoft/DeepSpeed.git",
   "svn_url": "https://github.com/microsoft/DeepSpeed",
   "homepage": "https://www.deepspeed.ai/",
-  "size": 47184,
-  "stargazers_count": 27058,
-  "watchers_count": 27058,
+  "size": 47245,
+  "stargazers_count": 27087,
+  "watchers_count": 27087,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 3257,
+  "forks_count": 3262,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 937,
+  "open_issues_count": 929,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -113,9 +113,9 @@
     "zero"
   ],
   "visibility": "public",
-  "forks": 3257,
-  "open_issues": 937,
-  "watchers": 27058,
+  "forks": 3262,
+  "open_issues": 929,
+  "watchers": 27087,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 272
+  "_index": 275
 }

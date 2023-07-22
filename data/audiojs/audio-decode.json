@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/audiojs/audio-decode/releases{/id}",
   "deployments_url": "https://api.github.com/repos/audiojs/audio-decode/deployments",
   "created_at": "2016-08-27T22:06:19Z",
-  "updated_at": "2023-07-12T23:20:22Z",
-  "pushed_at": "2023-07-21T00:54:38Z",
+  "updated_at": "2023-07-21T07:49:37Z",
+  "pushed_at": "2023-07-21T02:07:10Z",
   "git_url": "git://github.com/audiojs/audio-decode.git",
   "ssh_url": "git@github.com:audiojs/audio-decode.git",
   "clone_url": "https://github.com/audiojs/audio-decode.git",
   "svn_url": "https://github.com/audiojs/audio-decode",
   "homepage": "",
-  "size": 246,
-  "stargazers_count": 106,
-  "watchers_count": 106,
+  "size": 248,
+  "stargazers_count": 107,
+  "watchers_count": 107,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2,
+  "open_issues_count": 1,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 13,
-  "open_issues": 2,
-  "watchers": 106,
+  "open_issues": 1,
+  "watchers": 107,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 376
+  "_index": 379
 }

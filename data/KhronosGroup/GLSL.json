@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/KhronosGroup/GLSL/deployments",
   "created_at": "2017-03-05T00:37:33Z",
   "updated_at": "2023-07-13T21:08:17Z",
-  "pushed_at": "2023-06-30T17:28:06Z",
+  "pushed_at": "2023-07-21T14:19:19Z",
   "git_url": "git://github.com/KhronosGroup/GLSL.git",
   "ssh_url": "git@github.com:KhronosGroup/GLSL.git",
   "clone_url": "https://github.com/KhronosGroup/GLSL.git",
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1345
+  "_index": 1348
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Zomato/AndroidPhotoFilters/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Zomato/AndroidPhotoFilters/deployments",
   "created_at": "2016-06-10T10:23:49Z",
-  "updated_at": "2023-07-12T07:20:53Z",
+  "updated_at": "2023-07-21T10:02:33Z",
   "pushed_at": "2023-07-18T15:49:27Z",
   "git_url": "git://github.com/Zomato/AndroidPhotoFilters.git",
   "ssh_url": "git@github.com:Zomato/AndroidPhotoFilters.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2666
+  "_index": 2669
 }

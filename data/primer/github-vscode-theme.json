@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/primer/github-vscode-theme/releases{/id}",
   "deployments_url": "https://api.github.com/repos/primer/github-vscode-theme/deployments",
   "created_at": "2020-03-24T05:07:30Z",
-  "updated_at": "2023-07-20T01:06:34Z",
+  "updated_at": "2023-07-21T20:34:25Z",
   "pushed_at": "2023-07-11T15:29:10Z",
   "git_url": "git://github.com/primer/github-vscode-theme.git",
   "ssh_url": "git@github.com:primer/github-vscode-theme.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/primer/github-vscode-theme",
   "homepage": "https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme",
   "size": 779,
-  "stargazers_count": 1780,
-  "watchers_count": 1780,
+  "stargazers_count": 1781,
+  "watchers_count": 1781,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 179,
   "open_issues": 39,
-  "watchers": 1780,
+  "watchers": 1781,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1803
+  "_index": 1806
 }

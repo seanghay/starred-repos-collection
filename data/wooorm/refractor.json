@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wooorm/refractor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wooorm/refractor/deployments",
   "created_at": "2017-08-02T16:29:14Z",
-  "updated_at": "2023-07-15T15:20:47Z",
+  "updated_at": "2023-07-22T02:00:30Z",
   "pushed_at": "2023-03-21T16:21:59Z",
   "git_url": "git://github.com/wooorm/refractor.git",
   "ssh_url": "git@github.com:wooorm/refractor.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wooorm/refractor",
   "homepage": "",
   "size": 1165,
-  "stargazers_count": 573,
-  "watchers_count": 573,
+  "stargazers_count": 574,
+  "watchers_count": 574,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 28,
   "open_issues": 0,
-  "watchers": 573,
+  "watchers": 574,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1678
+  "_index": 1681
 }
