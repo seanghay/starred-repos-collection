@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/jik876/hifi-gan/deployments",
   "created_at": "2020-10-14T10:33:18Z",
   "updated_at": "2023-07-20T17:26:03Z",
-  "pushed_at": "2021-04-28T18:43:46Z",
+  "pushed_at": "2023-07-23T00:05:22Z",
   "git_url": "git://github.com/jik876/hifi-gan.git",
   "ssh_url": "git@github.com:jik876/hifi-gan.git",
   "clone_url": "https://github.com/jik876/hifi-gan.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 81,
+  "open_issues_count": 82,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,7 +109,7 @@
   ],
   "visibility": "public",
   "forks": 398,
-  "open_issues": 81,
+  "open_issues": 82,
   "watchers": 1373,
   "default_branch": "master",
   "permissions": {
