@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 48,
+  "forks_count": 47,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,7 +104,7 @@
     "rust-lang"
   ],
   "visibility": "public",
-  "forks": 48,
+  "forks": 47,
   "open_issues": 30,
   "watchers": 510,
   "default_branch": "master",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 349
+  "_index": 350
 }

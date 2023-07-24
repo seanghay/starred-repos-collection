@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/unocss/unocss/releases{/id}",
   "deployments_url": "https://api.github.com/repos/unocss/unocss/deployments",
   "created_at": "2021-09-30T17:06:46Z",
-  "updated_at": "2023-07-23T00:09:11Z",
-  "pushed_at": "2023-07-22T18:31:14Z",
+  "updated_at": "2023-07-23T20:51:43Z",
+  "pushed_at": "2023-07-23T15:58:57Z",
   "git_url": "git://github.com/unocss/unocss.git",
   "ssh_url": "git@github.com:unocss/unocss.git",
   "clone_url": "https://github.com/unocss/unocss.git",
   "svn_url": "https://github.com/unocss/unocss",
   "homepage": "https://unocss.dev",
-  "size": 9748,
-  "stargazers_count": 12578,
-  "watchers_count": 12578,
+  "size": 9755,
+  "stargazers_count": 12585,
+  "watchers_count": 12585,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 106,
+  "open_issues_count": 103,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 597,
-  "open_issues": 106,
-  "watchers": 12578,
+  "open_issues": 103,
+  "watchers": 12585,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1078
+  "_index": 1079
 }

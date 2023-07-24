@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wkhtmltopdf/wkhtmltopdf/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wkhtmltopdf/wkhtmltopdf/deployments",
   "created_at": "2009-08-07T14:27:43Z",
-  "updated_at": "2023-07-22T12:04:50Z",
+  "updated_at": "2023-07-24T00:15:42Z",
   "pushed_at": "2022-11-22T10:32:12Z",
   "git_url": "git://github.com/wkhtmltopdf/wkhtmltopdf.git",
   "ssh_url": "git@github.com:wkhtmltopdf/wkhtmltopdf.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wkhtmltopdf/wkhtmltopdf",
   "homepage": "https://wkhtmltopdf.org",
   "size": 6341,
-  "stargazers_count": 13308,
-  "watchers_count": 13308,
+  "stargazers_count": 13310,
+  "watchers_count": 13310,
   "language": "C++",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 1731,
   "open_issues": 1356,
-  "watchers": 13308,
+  "watchers": 13310,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1926
+  "_index": 1927
 }

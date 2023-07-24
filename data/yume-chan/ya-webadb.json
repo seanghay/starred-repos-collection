@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yume-chan/ya-webadb/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yume-chan/ya-webadb/deployments",
   "created_at": "2020-01-31T08:17:11Z",
-  "updated_at": "2023-07-22T04:47:32Z",
+  "updated_at": "2023-07-23T10:24:50Z",
   "pushed_at": "2023-07-21T08:06:39Z",
   "git_url": "git://github.com/yume-chan/ya-webadb.git",
   "ssh_url": "git@github.com:yume-chan/ya-webadb.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yume-chan/ya-webadb",
   "homepage": "https://yume-chan.github.io/ya-webadb",
   "size": 260379,
-  "stargazers_count": 1522,
-  "watchers_count": 1522,
+  "stargazers_count": 1523,
+  "watchers_count": 1523,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 220,
+  "forks_count": 221,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "webusb-api"
   ],
   "visibility": "public",
-  "forks": 220,
+  "forks": 221,
   "open_issues": 28,
-  "watchers": 1522,
+  "watchers": 1523,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1593
+  "_index": 1594
 }

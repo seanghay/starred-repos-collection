@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/github/mona-sans/releases{/id}",
   "deployments_url": "https://api.github.com/repos/github/mona-sans/deployments",
   "created_at": "2022-08-15T19:10:38Z",
-  "updated_at": "2023-07-22T18:58:19Z",
+  "updated_at": "2023-07-24T01:38:34Z",
   "pushed_at": "2023-07-04T13:47:57Z",
   "git_url": "git://github.com/github/mona-sans.git",
   "ssh_url": "git@github.com:github/mona-sans.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/github/mona-sans",
   "homepage": "http://github.com/mona-sans",
   "size": 12943,
-  "stargazers_count": 3034,
-  "watchers_count": 3034,
+  "stargazers_count": 3037,
+  "watchers_count": 3037,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 58,
   "open_issues": 34,
-  "watchers": 3034,
+  "watchers": 3037,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 564
+  "_index": 565
 }

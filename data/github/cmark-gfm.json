@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/github/cmark-gfm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/github/cmark-gfm/deployments",
   "created_at": "2016-12-01T01:48:24Z",
-  "updated_at": "2023-07-20T13:26:30Z",
+  "updated_at": "2023-07-23T07:49:12Z",
   "pushed_at": "2023-07-21T15:22:23Z",
   "git_url": "git://github.com/github/cmark-gfm.git",
   "ssh_url": "git@github.com:github/cmark-gfm.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/github/cmark-gfm",
   "homepage": "",
   "size": 6144,
-  "stargazers_count": 788,
-  "watchers_count": 788,
+  "stargazers_count": 789,
+  "watchers_count": 789,
   "language": "C",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 179,
   "open_issues": 101,
-  "watchers": 788,
+  "watchers": 789,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1150
+  "_index": 1151
 }

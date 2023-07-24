@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/languagetool-org/languagetool/releases{/id}",
   "deployments_url": "https://api.github.com/repos/languagetool-org/languagetool/deployments",
   "created_at": "2013-08-08T16:37:22Z",
-  "updated_at": "2023-07-22T18:15:20Z",
-  "pushed_at": "2023-07-22T18:07:58Z",
+  "updated_at": "2023-07-23T09:05:49Z",
+  "pushed_at": "2023-07-24T00:53:50Z",
   "git_url": "git://github.com/languagetool-org/languagetool.git",
   "ssh_url": "git@github.com:languagetool-org/languagetool.git",
   "clone_url": "https://github.com/languagetool-org/languagetool.git",
   "svn_url": "https://github.com/languagetool-org/languagetool",
   "homepage": "https://languagetool.org",
-  "size": 4627640,
-  "stargazers_count": 8840,
-  "watchers_count": 8840,
+  "size": 4627730,
+  "stargazers_count": 8841,
+  "watchers_count": 8841,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1083,
+  "forks_count": 1084,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1887,
+  "open_issues_count": 1889,
   "license": {
     "key": "lgpl-2.1",
     "name": "GNU Lesser General Public License v2.1",
@@ -106,9 +106,9 @@
     "style-checker"
   ],
   "visibility": "public",
-  "forks": 1083,
-  "open_issues": 1887,
-  "watchers": 8840,
+  "forks": 1084,
+  "open_issues": 1889,
+  "watchers": 8841,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 30
+  "_index": 31
 }

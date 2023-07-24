@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/TanStack/query/releases{/id}",
   "deployments_url": "https://api.github.com/repos/TanStack/query/deployments",
   "created_at": "2019-09-10T19:23:58Z",
-  "updated_at": "2023-07-22T21:57:23Z",
-  "pushed_at": "2023-07-22T19:19:09Z",
+  "updated_at": "2023-07-24T01:48:19Z",
+  "pushed_at": "2023-07-23T07:28:16Z",
   "git_url": "git://github.com/TanStack/query.git",
   "ssh_url": "git@github.com:TanStack/query.git",
   "clone_url": "https://github.com/TanStack/query.git",
   "svn_url": "https://github.com/TanStack/query",
   "homepage": "https://tanstack.com/query",
-  "size": 36925,
-  "stargazers_count": 35545,
-  "watchers_count": 35545,
+  "size": 36900,
+  "stargazers_count": 35561,
+  "watchers_count": 35561,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2313,
+  "forks_count": 2314,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 52,
+  "open_issues_count": 49,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,9 +112,9 @@
     "update"
   ],
   "visibility": "public",
-  "forks": 2313,
-  "open_issues": 52,
-  "watchers": 35545,
+  "forks": 2314,
+  "open_issues": 49,
+  "watchers": 35561,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1711
+  "_index": 1712
 }
