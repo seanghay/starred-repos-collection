@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Karn/notify/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Karn/notify/deployments",
   "created_at": "2018-04-20T14:06:02Z",
-  "updated_at": "2023-07-23T13:27:28Z",
+  "updated_at": "2023-07-25T01:40:58Z",
   "pushed_at": "2022-12-23T16:41:24Z",
   "git_url": "git://github.com/Karn/notify.git",
   "ssh_url": "git@github.com:Karn/notify.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Karn/notify",
   "homepage": "",
   "size": 4138,
-  "stargazers_count": 803,
-  "watchers_count": 803,
+  "stargazers_count": 804,
+  "watchers_count": 804,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 58,
   "open_issues": 18,
-  "watchers": 803,
+  "watchers": 804,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2414
+  "_index": 2419
 }

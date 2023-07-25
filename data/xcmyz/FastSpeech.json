@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/xcmyz/FastSpeech/releases{/id}",
   "deployments_url": "https://api.github.com/repos/xcmyz/FastSpeech/deployments",
   "created_at": "2019-05-31T12:27:47Z",
-  "updated_at": "2023-07-21T09:02:03Z",
+  "updated_at": "2023-07-24T10:47:03Z",
   "pushed_at": "2023-07-06T22:00:13Z",
   "git_url": "git://github.com/xcmyz/FastSpeech.git",
   "ssh_url": "git@github.com:xcmyz/FastSpeech.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/xcmyz/FastSpeech",
   "homepage": "",
   "size": 18189,
-  "stargazers_count": 806,
-  "watchers_count": 806,
+  "stargazers_count": 807,
+  "watchers_count": 807,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 204,
   "open_issues": 13,
-  "watchers": 806,
+  "watchers": 807,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 35
+  "_index": 40
 }

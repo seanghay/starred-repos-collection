@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lopspower/CircularProgressBar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lopspower/CircularProgressBar/deployments",
   "created_at": "2015-10-20T18:56:21Z",
-  "updated_at": "2023-07-21T07:33:06Z",
+  "updated_at": "2023-07-24T09:32:40Z",
   "pushed_at": "2023-04-17T14:21:49Z",
   "git_url": "git://github.com/lopspower/CircularProgressBar.git",
   "ssh_url": "git@github.com:lopspower/CircularProgressBar.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lopspower/CircularProgressBar",
   "homepage": "",
   "size": 3373,
-  "stargazers_count": 1603,
-  "watchers_count": 1603,
+  "stargazers_count": 1606,
+  "watchers_count": 1606,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 222,
   "open_issues": 26,
-  "watchers": 1603,
+  "watchers": 1606,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1506
+  "_index": 1511
 }

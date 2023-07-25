@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/botpress/botpress/releases{/id}",
   "deployments_url": "https://api.github.com/repos/botpress/botpress/deployments",
   "created_at": "2016-11-16T21:57:59Z",
-  "updated_at": "2023-07-23T23:37:48Z",
+  "updated_at": "2023-07-25T01:54:33Z",
   "pushed_at": "2023-07-21T21:52:18Z",
   "git_url": "git://github.com/botpress/botpress.git",
   "ssh_url": "git@github.com:botpress/botpress.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/botpress/botpress",
   "homepage": "https://botpress.com",
   "size": 278075,
-  "stargazers_count": 10698,
-  "watchers_count": 10698,
+  "stargazers_count": 10706,
+  "watchers_count": 10706,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1497,
+  "forks_count": 1499,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -112,9 +112,9 @@
     "prompt"
   ],
   "visibility": "public",
-  "forks": 1497,
+  "forks": 1499,
   "open_issues": 9,
-  "watchers": 10698,
+  "watchers": 10706,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 659
+  "_index": 664
 }

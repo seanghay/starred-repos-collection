@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/hashlin/rally/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hashlin/rally/deployments",
   "created_at": "2019-07-29T07:00:43Z",
-  "updated_at": "2023-07-02T05:24:52Z",
+  "updated_at": "2023-07-24T19:05:59Z",
   "pushed_at": "2020-02-11T16:20:35Z",
   "git_url": "git://github.com/hashlin/rally.git",
   "ssh_url": "git@github.com:hashlin/rally.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/hashlin/rally",
   "homepage": "",
   "size": 21846,
-  "stargazers_count": 452,
-  "watchers_count": 452,
+  "stargazers_count": 453,
+  "watchers_count": 453,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 60,
   "open_issues": 0,
-  "watchers": 452,
+  "watchers": 453,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2282
+  "_index": 2287
 }

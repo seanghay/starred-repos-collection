@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/FormidableLabs/spectacle/releases{/id}",
   "deployments_url": "https://api.github.com/repos/FormidableLabs/spectacle/deployments",
   "created_at": "2015-06-30T20:36:07Z",
-  "updated_at": "2023-07-23T14:23:33Z",
-  "pushed_at": "2023-07-23T18:07:58Z",
+  "updated_at": "2023-07-24T14:00:49Z",
+  "pushed_at": "2023-07-24T13:50:31Z",
   "git_url": "git://github.com/FormidableLabs/spectacle.git",
   "ssh_url": "git@github.com:FormidableLabs/spectacle.git",
   "clone_url": "https://github.com/FormidableLabs/spectacle.git",
   "svn_url": "https://github.com/FormidableLabs/spectacle",
   "homepage": "http://formidable.com/open-source/spectacle/",
-  "size": 114570,
+  "size": 114566,
   "stargazers_count": 9527,
   "watchers_count": 9527,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 61,
+  "open_issues_count": 59,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,7 +107,7 @@
   ],
   "visibility": "public",
   "forks": 740,
-  "open_issues": 61,
+  "open_issues": 59,
   "watchers": 9527,
   "default_branch": "main",
   "permissions": {
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2823
+  "_index": 2828
 }

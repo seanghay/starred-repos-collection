@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/NeilFraser/JS-Interpreter/deployments",
   "created_at": "2013-10-30T01:00:51Z",
   "updated_at": "2023-07-19T22:37:13Z",
-  "pushed_at": "2023-07-20T10:20:20Z",
+  "pushed_at": "2023-07-24T21:36:15Z",
   "git_url": "git://github.com/NeilFraser/JS-Interpreter.git",
   "ssh_url": "git@github.com:NeilFraser/JS-Interpreter.git",
   "clone_url": "https://github.com/NeilFraser/JS-Interpreter.git",
   "svn_url": "https://github.com/NeilFraser/JS-Interpreter",
   "homepage": null,
-  "size": 2078,
+  "size": 2140,
   "stargazers_count": 1815,
   "watchers_count": 1815,
   "language": "JavaScript",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1224
+  "_index": 1229
 }
