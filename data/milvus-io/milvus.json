@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/milvus-io/milvus/releases{/id}",
   "deployments_url": "https://api.github.com/repos/milvus-io/milvus/deployments",
   "created_at": "2019-09-16T06:43:43Z",
-  "updated_at": "2023-07-25T02:04:03Z",
-  "pushed_at": "2023-07-25T02:09:01Z",
+  "updated_at": "2023-07-26T02:03:46Z",
+  "pushed_at": "2023-07-26T00:51:02Z",
   "git_url": "git://github.com/milvus-io/milvus.git",
   "ssh_url": "git@github.com:milvus-io/milvus.git",
   "clone_url": "https://github.com/milvus-io/milvus.git",
   "svn_url": "https://github.com/milvus-io/milvus",
   "homepage": "https://milvus.io",
-  "size": 161311,
-  "stargazers_count": 21560,
-  "watchers_count": 21560,
+  "size": 161606,
+  "stargazers_count": 21598,
+  "watchers_count": 21598,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2392,
+  "forks_count": 2398,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 687,
+  "open_issues_count": 674,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -120,9 +120,9 @@
     "weaviate"
   ],
   "visibility": "public",
-  "forks": 2392,
-  "open_issues": 687,
-  "watchers": 21560,
+  "forks": 2398,
+  "open_issues": 674,
+  "watchers": 21598,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1176
+  "_index": 1179
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yahoo/serialize-javascript/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yahoo/serialize-javascript/deployments",
   "created_at": "2014-09-16T16:07:16Z",
-  "updated_at": "2023-07-22T17:22:04Z",
+  "updated_at": "2023-07-25T06:34:29Z",
   "pushed_at": "2023-07-22T16:18:06Z",
   "git_url": "git://github.com/yahoo/serialize-javascript.git",
   "ssh_url": "git@github.com:yahoo/serialize-javascript.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yahoo/serialize-javascript",
   "homepage": null,
   "size": 313,
-  "stargazers_count": 2702,
-  "watchers_count": 2702,
+  "stargazers_count": 2703,
+  "watchers_count": 2703,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 202,
   "open_issues": 39,
-  "watchers": 2702,
+  "watchers": 2703,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 565
+  "_index": 568
 }

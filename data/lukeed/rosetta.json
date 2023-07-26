@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/lukeed/rosetta/deployments",
   "created_at": "2020-03-19T01:29:35Z",
   "updated_at": "2023-07-23T20:32:52Z",
-  "pushed_at": "2021-06-20T22:38:26Z",
+  "pushed_at": "2023-07-25T10:01:38Z",
   "git_url": "git://github.com/lukeed/rosetta.git",
   "ssh_url": "git@github.com:lukeed/rosetta.git",
   "clone_url": "https://github.com/lukeed/rosetta.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 14,
+  "forks_count": 15,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 3,
+  "open_issues_count": 4,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -99,8 +99,8 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 14,
-  "open_issues": 3,
+  "forks": 15,
+  "open_issues": 4,
   "watchers": 738,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1884
+  "_index": 1887
 }

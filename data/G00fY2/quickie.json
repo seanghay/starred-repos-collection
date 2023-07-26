@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/G00fY2/quickie/releases{/id}",
   "deployments_url": "https://api.github.com/repos/G00fY2/quickie/deployments",
   "created_at": "2020-11-16T08:18:08Z",
-  "updated_at": "2023-07-24T10:04:48Z",
-  "pushed_at": "2023-07-23T16:58:47Z",
+  "updated_at": "2023-07-25T07:50:51Z",
+  "pushed_at": "2023-07-25T22:22:42Z",
   "git_url": "git://github.com/G00fY2/quickie.git",
   "ssh_url": "git@github.com:G00fY2/quickie.git",
   "clone_url": "https://github.com/G00fY2/quickie.git",
   "svn_url": "https://github.com/G00fY2/quickie",
   "homepage": "",
-  "size": 1370,
+  "size": 1371,
   "stargazers_count": 273,
   "watchers_count": 273,
   "language": "Kotlin",
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1340
+  "_index": 1343
 }

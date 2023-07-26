@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/faruktoptas/FancyShowCaseView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/faruktoptas/FancyShowCaseView/deployments",
   "created_at": "2017-03-08T12:37:15Z",
-  "updated_at": "2023-07-18T09:01:42Z",
+  "updated_at": "2023-07-26T01:40:21Z",
   "pushed_at": "2022-07-01T20:06:34Z",
   "git_url": "git://github.com/faruktoptas/FancyShowCaseView.git",
   "ssh_url": "git@github.com:faruktoptas/FancyShowCaseView.git",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2431
+  "_index": 2434
 }

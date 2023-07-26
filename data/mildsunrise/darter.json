@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mildsunrise/darter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mildsunrise/darter/deployments",
   "created_at": "2019-11-06T14:20:11Z",
-  "updated_at": "2023-07-22T09:35:49Z",
+  "updated_at": "2023-07-25T12:49:16Z",
   "pushed_at": "2022-01-11T00:50:22Z",
   "git_url": "git://github.com/mildsunrise/darter.git",
   "ssh_url": "git@github.com:mildsunrise/darter.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mildsunrise/darter",
   "homepage": "",
   "size": 3317,
-  "stargazers_count": 265,
-  "watchers_count": 265,
+  "stargazers_count": 266,
+  "watchers_count": 266,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 48,
   "open_issues": 7,
-  "watchers": 265,
+  "watchers": 266,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 646
+  "_index": 649
 }

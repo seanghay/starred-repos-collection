@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/clap-rs/clap/releases{/id}",
   "deployments_url": "https://api.github.com/repos/clap-rs/clap/deployments",
   "created_at": "2015-02-25T13:36:33Z",
-  "updated_at": "2023-07-24T17:45:47Z",
+  "updated_at": "2023-07-25T21:14:31Z",
   "pushed_at": "2023-07-24T18:17:03Z",
   "git_url": "git://github.com/clap-rs/clap.git",
   "ssh_url": "git@github.com:clap-rs/clap.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/clap-rs/clap",
   "homepage": "docs.rs/clap",
   "size": 18061,
-  "stargazers_count": 11684,
-  "watchers_count": 11684,
+  "stargazers_count": 11687,
+  "watchers_count": 11687,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 941,
   "open_issues": 250,
-  "watchers": 11684,
+  "watchers": 11687,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 595
+  "_index": 598
 }

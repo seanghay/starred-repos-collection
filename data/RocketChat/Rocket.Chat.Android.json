@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/RocketChat/Rocket.Chat.Android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/RocketChat/Rocket.Chat.Android/deployments",
   "created_at": "2015-12-17T14:36:45Z",
-  "updated_at": "2023-07-20T13:25:30Z",
+  "updated_at": "2023-07-25T07:07:30Z",
   "pushed_at": "2020-05-04T14:02:30Z",
   "git_url": "git://github.com/RocketChat/Rocket.Chat.Android.git",
   "ssh_url": "git@github.com:RocketChat/Rocket.Chat.Android.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/RocketChat/Rocket.Chat.Android",
   "homepage": "https://rocket.chat",
   "size": 19090,
-  "stargazers_count": 872,
-  "watchers_count": 872,
+  "stargazers_count": 873,
+  "watchers_count": 873,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 571,
   "open_issues": 283,
-  "watchers": 872,
+  "watchers": 873,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2759
+  "_index": 2762
 }

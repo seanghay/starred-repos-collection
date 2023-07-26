@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/digitalocean/nginxconfig.io/releases{/id}",
   "deployments_url": "https://api.github.com/repos/digitalocean/nginxconfig.io/deployments",
   "created_at": "2018-01-05T14:21:14Z",
-  "updated_at": "2023-07-24T08:19:59Z",
+  "updated_at": "2023-07-25T11:23:53Z",
   "pushed_at": "2023-07-24T16:08:02Z",
   "git_url": "git://github.com/digitalocean/nginxconfig.io.git",
   "ssh_url": "git@github.com:digitalocean/nginxconfig.io.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/digitalocean/nginxconfig.io",
   "homepage": "https://do.co/nginxconfig",
   "size": 7918,
-  "stargazers_count": 25958,
-  "watchers_count": 25958,
+  "stargazers_count": 25960,
+  "watchers_count": 25960,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -122,7 +122,7 @@
   "visibility": "public",
   "forks": 1919,
   "open_issues": 45,
-  "watchers": 25958,
+  "watchers": 25960,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 844
+  "_index": 847
 }

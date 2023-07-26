@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/linkedin/LiTr/releases{/id}",
   "deployments_url": "https://api.github.com/repos/linkedin/LiTr/deployments",
   "created_at": "2019-10-17T18:29:23Z",
-  "updated_at": "2023-07-20T00:48:10Z",
-  "pushed_at": "2023-05-13T08:23:47Z",
+  "updated_at": "2023-07-25T19:09:59Z",
+  "pushed_at": "2023-07-25T02:47:44Z",
   "git_url": "git://github.com/linkedin/LiTr.git",
   "ssh_url": "git@github.com:linkedin/LiTr.git",
   "clone_url": "https://github.com/linkedin/LiTr.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 80,
+  "forks_count": 81,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 45,
+  "open_issues_count": 46,
   "license": {
     "key": "bsd-2-clause",
     "name": "BSD 2-Clause \"Simplified\" License",
@@ -99,8 +99,8 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 80,
-  "open_issues": 45,
+  "forks": 81,
+  "open_issues": 46,
   "watchers": 540,
   "default_branch": "main",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1973
+  "_index": 1976
 }

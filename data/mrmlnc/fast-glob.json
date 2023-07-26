@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 99,
+  "forks_count": 98,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -111,7 +111,7 @@
     "wildcard"
   ],
   "visibility": "public",
-  "forks": 99,
+  "forks": 98,
   "open_issues": 22,
   "watchers": 2167,
   "default_branch": "master",
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1040
+  "_index": 1043
 }

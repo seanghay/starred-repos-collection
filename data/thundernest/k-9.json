@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/thundernest/k-9/releases{/id}",
   "deployments_url": "https://api.github.com/repos/thundernest/k-9/deployments",
   "created_at": "2011-02-04T02:40:00Z",
-  "updated_at": "2023-07-24T23:44:36Z",
-  "pushed_at": "2023-07-20T16:18:01Z",
+  "updated_at": "2023-07-25T17:31:14Z",
+  "pushed_at": "2023-07-25T13:55:41Z",
   "git_url": "git://github.com/thundernest/k-9.git",
   "ssh_url": "git@github.com:thundernest/k-9.git",
   "clone_url": "https://github.com/thundernest/k-9.git",
   "svn_url": "https://github.com/thundernest/k-9",
   "homepage": "https://k9mail.app/",
-  "size": 88609,
-  "stargazers_count": 8137,
-  "watchers_count": 8137,
+  "size": 88617,
+  "stargazers_count": 8139,
+  "watchers_count": 8139,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 2381,
   "open_issues": 675,
-  "watchers": 8137,
+  "watchers": 8139,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2116
+  "_index": 2119
 }

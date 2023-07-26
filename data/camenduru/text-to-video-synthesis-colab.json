@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/camenduru/text-to-video-synthesis-colab/releases{/id}",
   "deployments_url": "https://api.github.com/repos/camenduru/text-to-video-synthesis-colab/deployments",
   "created_at": "2023-03-19T17:29:13Z",
-  "updated_at": "2023-07-25T00:49:17Z",
+  "updated_at": "2023-07-26T01:48:37Z",
   "pushed_at": "2023-07-19T22:00:52Z",
   "git_url": "git://github.com/camenduru/text-to-video-synthesis-colab.git",
   "ssh_url": "git@github.com:camenduru/text-to-video-synthesis-colab.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/camenduru/text-to-video-synthesis-colab",
   "homepage": "",
   "size": 210,
-  "stargazers_count": 1103,
-  "watchers_count": 1103,
+  "stargazers_count": 1123,
+  "watchers_count": 1123,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 109,
+  "forks_count": 110,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "text-to-video"
   ],
   "visibility": "public",
-  "forks": 109,
+  "forks": 110,
   "open_issues": 9,
-  "watchers": 1103,
+  "watchers": 1123,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 149
+  "_index": 152
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/shts/StoriesProgressView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/shts/StoriesProgressView/deployments",
   "created_at": "2017-07-21T08:23:37Z",
-  "updated_at": "2023-07-24T21:52:08Z",
+  "updated_at": "2023-07-25T18:09:24Z",
   "pushed_at": "2022-12-19T11:17:06Z",
   "git_url": "git://github.com/shts/StoriesProgressView.git",
   "ssh_url": "git@github.com:shts/StoriesProgressView.git",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2590
+  "_index": 2593
 }

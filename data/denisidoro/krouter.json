@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/denisidoro/krouter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/denisidoro/krouter/deployments",
   "created_at": "2016-09-18T00:55:06Z",
-  "updated_at": "2023-05-20T18:22:14Z",
+  "updated_at": "2023-07-25T14:04:19Z",
   "pushed_at": "2018-04-24T02:51:58Z",
   "git_url": "git://github.com/denisidoro/krouter.git",
   "ssh_url": "git@github.com:denisidoro/krouter.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/denisidoro/krouter",
   "homepage": null,
   "size": 70,
-  "stargazers_count": 122,
-  "watchers_count": 122,
+  "stargazers_count": 121,
+  "watchers_count": 121,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 14,
   "open_issues": 2,
-  "watchers": 122,
+  "watchers": 121,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2704
+  "_index": 2707
 }

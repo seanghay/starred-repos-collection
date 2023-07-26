@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/JeroenMols/ModularizationExample/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JeroenMols/ModularizationExample/deployments",
   "created_at": "2019-03-11T20:42:58Z",
-  "updated_at": "2023-07-16T23:23:16Z",
+  "updated_at": "2023-07-25T06:46:51Z",
   "pushed_at": "2019-10-10T08:20:20Z",
   "git_url": "git://github.com/JeroenMols/ModularizationExample.git",
   "ssh_url": "git@github.com:JeroenMols/ModularizationExample.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/JeroenMols/ModularizationExample",
   "homepage": "https://jeroenmols.com/blog/2019/04/02/modularizationexample/",
   "size": 429,
-  "stargazers_count": 730,
-  "watchers_count": 730,
+  "stargazers_count": 729,
+  "watchers_count": 729,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 98,
   "open_issues": 2,
-  "watchers": 730,
+  "watchers": 729,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2475
+  "_index": 2478
 }
