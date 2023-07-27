@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/Splitties/refreshVersions.git",
   "svn_url": "https://github.com/Splitties/refreshVersions",
   "homepage": "https://splitties.github.io/refreshVersions/",
-  "size": 12155,
+  "size": 12169,
   "stargazers_count": 1567,
   "watchers_count": 1567,
   "language": "Kotlin",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1914
+  "_index": 1917
 }

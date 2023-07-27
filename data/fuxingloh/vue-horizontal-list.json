@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fuxingloh/vue-horizontal-list/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fuxingloh/vue-horizontal-list/deployments",
   "created_at": "2020-01-13T10:59:42Z",
-  "updated_at": "2023-06-17T09:16:18Z",
+  "updated_at": "2023-07-26T11:12:46Z",
   "pushed_at": "2022-04-29T08:53:08Z",
   "git_url": "git://github.com/fuxingloh/vue-horizontal-list.git",
   "ssh_url": "git@github.com:fuxingloh/vue-horizontal-list.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/fuxingloh/vue-horizontal-list",
   "homepage": "https://fuxingloh.github.io/vue-horizontal-list/",
   "size": 3279,
-  "stargazers_count": 178,
-  "watchers_count": 178,
+  "stargazers_count": 179,
+  "watchers_count": 179,
   "language": "Vue",
   "has_issues": true,
   "has_projects": false,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 35,
   "open_issues": 17,
-  "watchers": 178,
+  "watchers": 179,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1117
+  "_index": 1120
 }

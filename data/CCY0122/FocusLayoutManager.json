@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/CCY0122/FocusLayoutManager/releases{/id}",
   "deployments_url": "https://api.github.com/repos/CCY0122/FocusLayoutManager/deployments",
   "created_at": "2019-05-18T08:59:59Z",
-  "updated_at": "2023-06-12T03:04:33Z",
+  "updated_at": "2023-07-26T09:11:17Z",
   "pushed_at": "2023-03-02T01:44:55Z",
   "git_url": "git://github.com/CCY0122/FocusLayoutManager.git",
   "ssh_url": "git@github.com:CCY0122/FocusLayoutManager.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/CCY0122/FocusLayoutManager",
   "homepage": "",
   "size": 22627,
-  "stargazers_count": 822,
-  "watchers_count": 822,
+  "stargazers_count": 823,
+  "watchers_count": 823,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 74,
   "open_issues": 1,
-  "watchers": 822,
+  "watchers": 823,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2039
+  "_index": 2042
 }

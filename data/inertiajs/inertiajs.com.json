@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/inertiajs/inertiajs.com/deployments",
   "created_at": "2019-04-23T22:44:55Z",
   "updated_at": "2023-07-23T06:13:33Z",
-  "pushed_at": "2023-07-13T21:57:16Z",
+  "pushed_at": "2023-07-26T11:29:53Z",
   "git_url": "git://github.com/inertiajs/inertiajs.com.git",
   "ssh_url": "git@github.com:inertiajs/inertiajs.com.git",
   "clone_url": "https://github.com/inertiajs/inertiajs.com.git",
   "svn_url": "https://github.com/inertiajs/inertiajs.com",
   "homepage": "https://inertiajs.com",
-  "size": 4698,
+  "size": 4712,
   "stargazers_count": 100,
   "watchers_count": 100,
   "language": "JavaScript",
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 919
+  "_index": 922
 }

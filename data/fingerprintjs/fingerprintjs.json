@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/fingerprintjs/fingerprintjs",
-  "description": "Browser fingerprinting library. Compared to Fingerprint Identification, has limited accuracy (40 - 60%).",
+  "description": "Browser fingerprinting library. Compared to Fingerprint Identification Platform, has limited accuracy (40 - 60%).",
   "fork": false,
   "url": "https://api.github.com/repos/fingerprintjs/fingerprintjs",
   "forks_url": "https://api.github.com/repos/fingerprintjs/fingerprintjs/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/fingerprintjs/fingerprintjs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fingerprintjs/fingerprintjs/deployments",
   "created_at": "2015-02-11T08:49:54Z",
-  "updated_at": "2023-07-26T01:51:14Z",
-  "pushed_at": "2023-07-24T08:20:22Z",
+  "updated_at": "2023-07-27T01:38:08Z",
+  "pushed_at": "2023-07-26T14:45:35Z",
   "git_url": "git://github.com/fingerprintjs/fingerprintjs.git",
   "ssh_url": "git@github.com:fingerprintjs/fingerprintjs.git",
   "clone_url": "https://github.com/fingerprintjs/fingerprintjs.git",
   "svn_url": "https://github.com/fingerprintjs/fingerprintjs",
   "homepage": "https://fingerprint.com/get-started/",
-  "size": 2799,
-  "stargazers_count": 19330,
-  "watchers_count": 19330,
+  "size": 2850,
+  "stargazers_count": 19335,
+  "watchers_count": 19335,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,17 +82,17 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 2147,
+  "forks_count": 2148,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 22,
+  "open_issues_count": 21,
   "license": {
-    "key": "mit",
-    "name": "MIT License",
-    "spdx_id": "MIT",
-    "url": "https://api.github.com/licenses/mit",
-    "node_id": "MDc6TGljZW5zZTEz"
+    "key": "other",
+    "name": "Other",
+    "spdx_id": "NOASSERTION",
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
   },
   "allow_forking": true,
   "is_template": false,
@@ -113,9 +113,9 @@
     "visitor-identifier"
   ],
   "visibility": "public",
-  "forks": 2147,
-  "open_issues": 22,
-  "watchers": 19330,
+  "forks": 2148,
+  "open_issues": 21,
+  "watchers": 19335,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 740
+  "_index": 743
 }

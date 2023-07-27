@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/android/compose-samples/releases{/id}",
   "deployments_url": "https://api.github.com/repos/android/compose-samples/deployments",
   "created_at": "2019-09-27T09:51:19Z",
-  "updated_at": "2023-07-25T23:07:57Z",
-  "pushed_at": "2023-07-25T11:29:48Z",
+  "updated_at": "2023-07-27T01:42:46Z",
+  "pushed_at": "2023-07-26T14:48:14Z",
   "git_url": "git://github.com/android/compose-samples.git",
   "ssh_url": "git@github.com:android/compose-samples.git",
   "clone_url": "https://github.com/android/compose-samples.git",
   "svn_url": "https://github.com/android/compose-samples",
   "homepage": "https://developer.android.com/jetpack/compose",
-  "size": 177349,
-  "stargazers_count": 16491,
-  "watchers_count": 16491,
+  "size": 177356,
+  "stargazers_count": 16505,
+  "watchers_count": 16505,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 4029,
+  "forks_count": 4034,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,9 +102,9 @@
     "jetpack-compose"
   ],
   "visibility": "public",
-  "forks": 4029,
+  "forks": 4034,
   "open_issues": 9,
-  "watchers": 16491,
+  "watchers": 16505,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1686
+  "_index": 1689
 }

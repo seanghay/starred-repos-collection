@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/facebook/Ax/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebook/Ax/deployments",
   "created_at": "2019-02-09T15:23:44Z",
-  "updated_at": "2023-07-25T02:40:20Z",
-  "pushed_at": "2023-07-26T00:49:26Z",
+  "updated_at": "2023-07-26T21:02:12Z",
+  "pushed_at": "2023-07-27T00:58:47Z",
   "git_url": "git://github.com/facebook/Ax.git",
   "ssh_url": "git@github.com:facebook/Ax.git",
   "clone_url": "https://github.com/facebook/Ax.git",
   "svn_url": "https://github.com/facebook/Ax",
   "homepage": "https://ax.dev",
-  "size": 520438,
-  "stargazers_count": 2098,
-  "watchers_count": 2098,
+  "size": 520451,
+  "stargazers_count": 2099,
+  "watchers_count": 2099,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 49,
+  "open_issues_count": 46,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 267,
-  "open_issues": 49,
-  "watchers": 2098,
+  "open_issues": 46,
+  "watchers": 2099,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 107
+  "_index": 110
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/iina/iina/releases{/id}",
   "deployments_url": "https://api.github.com/repos/iina/iina/deployments",
   "created_at": "2016-12-19T07:18:45Z",
-  "updated_at": "2023-07-26T01:12:33Z",
-  "pushed_at": "2023-07-25T19:53:07Z",
+  "updated_at": "2023-07-27T00:42:57Z",
+  "pushed_at": "2023-07-26T23:58:56Z",
   "git_url": "git://github.com/iina/iina.git",
   "ssh_url": "git@github.com:iina/iina.git",
   "clone_url": "https://github.com/iina/iina.git",
   "svn_url": "https://github.com/iina/iina",
   "homepage": "https://iina.io",
   "size": 266315,
-  "stargazers_count": 34003,
-  "watchers_count": 34003,
+  "stargazers_count": 34013,
+  "watchers_count": 34013,
   "language": "Swift",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2454,
+  "forks_count": 2455,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1589,
+  "open_issues_count": 1591,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -106,9 +106,9 @@
     "video-player"
   ],
   "visibility": "public",
-  "forks": 2454,
-  "open_issues": 1589,
-  "watchers": 34003,
+  "forks": 2455,
+  "open_issues": 1591,
+  "watchers": 34013,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1028
+  "_index": 1031
 }
