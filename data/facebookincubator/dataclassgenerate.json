@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/facebookincubator/dataclassgenerate/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookincubator/dataclassgenerate/deployments",
   "created_at": "2023-02-15T21:15:02Z",
-  "updated_at": "2023-07-16T07:55:16Z",
-  "pushed_at": "2023-06-19T11:51:09Z",
+  "updated_at": "2023-07-27T02:05:40Z",
+  "pushed_at": "2023-07-27T13:31:56Z",
   "git_url": "git://github.com/facebookincubator/dataclassgenerate.git",
   "ssh_url": "git@github.com:facebookincubator/dataclassgenerate.git",
   "clone_url": "https://github.com/facebookincubator/dataclassgenerate.git",
   "svn_url": "https://github.com/facebookincubator/dataclassgenerate",
   "homepage": "",
-  "size": 196,
-  "stargazers_count": 131,
-  "watchers_count": 131,
+  "size": 198,
+  "stargazers_count": 132,
+  "watchers_count": 132,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 1,
   "open_issues": 0,
-  "watchers": 131,
+  "watchers": 132,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 360
+  "_index": 369
 }

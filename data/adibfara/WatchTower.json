@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/adibfara/WatchTower/releases{/id}",
   "deployments_url": "https://api.github.com/repos/adibfara/WatchTower/deployments",
   "created_at": "2018-12-28T13:46:59Z",
-  "updated_at": "2023-07-24T17:20:25Z",
+  "updated_at": "2023-07-27T16:02:32Z",
   "pushed_at": "2021-04-15T18:48:28Z",
   "git_url": "git://github.com/adibfara/WatchTower.git",
   "ssh_url": "git@github.com:adibfara/WatchTower.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/adibfara/WatchTower",
   "homepage": "",
   "size": 2134,
-  "stargazers_count": 305,
-  "watchers_count": 305,
+  "stargazers_count": 306,
+  "watchers_count": 306,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 18,
   "open_issues": 5,
-  "watchers": 305,
+  "watchers": 306,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2457
+  "_index": 2466
 }

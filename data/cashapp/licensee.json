@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/cashapp/licensee/releases{/id}",
   "deployments_url": "https://api.github.com/repos/cashapp/licensee/deployments",
   "created_at": "2021-05-11T16:47:01Z",
-  "updated_at": "2023-07-24T11:15:00Z",
+  "updated_at": "2023-07-27T02:27:17Z",
   "pushed_at": "2023-07-25T20:12:25Z",
   "git_url": "git://github.com/cashapp/licensee.git",
   "ssh_url": "git@github.com:cashapp/licensee.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/cashapp/licensee",
   "homepage": "https://cashapp.github.io/licensee/docs/1.x/",
   "size": 1211,
-  "stargazers_count": 551,
-  "watchers_count": 551,
+  "stargazers_count": 552,
+  "watchers_count": 552,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 23,
   "open_issues": 31,
-  "watchers": 551,
+  "watchers": 552,
   "default_branch": "trunk",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1434
+  "_index": 1443
 }

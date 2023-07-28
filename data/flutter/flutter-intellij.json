@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/flutter/flutter-intellij/releases{/id}",
   "deployments_url": "https://api.github.com/repos/flutter/flutter-intellij/deployments",
   "created_at": "2016-07-25T22:31:03Z",
-  "updated_at": "2023-07-25T14:03:04Z",
-  "pushed_at": "2023-07-26T23:40:15Z",
+  "updated_at": "2023-07-27T16:08:14Z",
+  "pushed_at": "2023-07-27T23:05:58Z",
   "git_url": "git://github.com/flutter/flutter-intellij.git",
   "ssh_url": "git@github.com:flutter/flutter-intellij.git",
   "clone_url": "https://github.com/flutter/flutter-intellij.git",
   "svn_url": "https://github.com/flutter/flutter-intellij",
   "homepage": "https://flutter.dev/using-ide",
-  "size": 161061,
-  "stargazers_count": 1883,
-  "watchers_count": 1883,
+  "size": 161073,
+  "stargazers_count": 1882,
+  "watchers_count": 1882,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 523,
+  "open_issues_count": 520,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -104,8 +104,8 @@
   ],
   "visibility": "public",
   "forks": 320,
-  "open_issues": 523,
-  "watchers": 1883,
+  "open_issues": 520,
+  "watchers": 1882,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1199
+  "_index": 1208
 }

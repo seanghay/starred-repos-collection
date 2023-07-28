@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/blitz-js/superjson/releases{/id}",
   "deployments_url": "https://api.github.com/repos/blitz-js/superjson/deployments",
   "created_at": "2014-12-30T10:48:42Z",
-  "updated_at": "2023-07-26T03:09:54Z",
-  "pushed_at": "2023-07-18T22:57:29Z",
+  "updated_at": "2023-07-27T15:06:11Z",
+  "pushed_at": "2023-07-27T19:34:35Z",
   "git_url": "git://github.com/blitz-js/superjson.git",
   "ssh_url": "git@github.com:blitz-js/superjson.git",
   "clone_url": "https://github.com/blitz-js/superjson.git",
   "svn_url": "https://github.com/blitz-js/superjson",
   "homepage": "",
   "size": 1055,
-  "stargazers_count": 2658,
-  "watchers_count": 2658,
+  "stargazers_count": 2661,
+  "watchers_count": 2661,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 15,
+  "open_issues_count": 16,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 58,
-  "open_issues": 15,
-  "watchers": 2658,
+  "open_issues": 16,
+  "watchers": 2661,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 387
+  "_index": 396
 }

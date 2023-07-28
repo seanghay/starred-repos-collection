@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/chrisbanes/snapper/releases{/id}",
   "deployments_url": "https://api.github.com/repos/chrisbanes/snapper/deployments",
   "created_at": "2021-10-08T15:42:44Z",
-  "updated_at": "2023-07-24T23:46:33Z",
+  "updated_at": "2023-07-27T02:12:12Z",
   "pushed_at": "2022-11-10T10:40:53Z",
   "git_url": "git://github.com/chrisbanes/snapper.git",
   "ssh_url": "git@github.com:chrisbanes/snapper.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/chrisbanes/snapper",
   "homepage": "https://chrisbanes.github.io/snapper",
   "size": 3499,
-  "stargazers_count": 450,
-  "watchers_count": 450,
+  "stargazers_count": 451,
+  "watchers_count": 451,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 20,
   "open_issues": 2,
-  "watchers": 450,
+  "watchers": 451,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1211
+  "_index": 1220
 }

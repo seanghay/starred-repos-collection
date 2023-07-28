@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/coollabsio/coolify/releases{/id}",
   "deployments_url": "https://api.github.com/repos/coollabsio/coolify/deployments",
   "created_at": "2021-01-25T20:54:01Z",
-  "updated_at": "2023-07-26T23:35:10Z",
-  "pushed_at": "2023-07-26T13:32:52Z",
+  "updated_at": "2023-07-27T20:43:48Z",
+  "pushed_at": "2023-07-27T19:26:20Z",
   "git_url": "git://github.com/coollabsio/coolify.git",
   "ssh_url": "git@github.com:coollabsio/coolify.git",
   "clone_url": "https://github.com/coollabsio/coolify.git",
   "svn_url": "https://github.com/coollabsio/coolify",
   "homepage": "https://coolify.io",
-  "size": 11334,
-  "stargazers_count": 8500,
-  "watchers_count": 8500,
+  "size": 11358,
+  "stargazers_count": 8513,
+  "watchers_count": 8513,
   "language": "PHP",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 440,
+  "forks_count": 441,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 289,
+  "open_issues_count": 290,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -119,9 +119,9 @@
     "vuejs"
   ],
   "visibility": "public",
-  "forks": 440,
-  "open_issues": 289,
-  "watchers": 8500,
+  "forks": 441,
+  "open_issues": 290,
+  "watchers": 8513,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 433
+  "_index": 442
 }

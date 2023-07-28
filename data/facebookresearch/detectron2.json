@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/facebookresearch/detectron2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookresearch/detectron2/deployments",
   "created_at": "2019-09-05T21:30:20Z",
-  "updated_at": "2023-07-27T01:22:08Z",
+  "updated_at": "2023-07-27T22:40:24Z",
   "pushed_at": "2023-07-24T20:03:40Z",
   "git_url": "git://github.com/facebookresearch/detectron2.git",
   "ssh_url": "git@github.com:facebookresearch/detectron2.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/facebookresearch/detectron2",
   "homepage": "https://detectron2.readthedocs.io/en/latest/",
   "size": 6298,
-  "stargazers_count": 25694,
-  "watchers_count": 25694,
+  "stargazers_count": 25706,
+  "watchers_count": 25706,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 6871,
+  "forks_count": 6875,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 400,
+  "open_issues_count": 401,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 6871,
-  "open_issues": 400,
-  "watchers": 25694,
+  "forks": 6875,
+  "open_issues": 401,
+  "watchers": 25706,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2307
+  "_index": 2316
 }
