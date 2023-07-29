@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/onury/accesscontrol/releases{/id}",
   "deployments_url": "https://api.github.com/repos/onury/accesscontrol/deployments",
   "created_at": "2016-09-13T16:56:53Z",
-  "updated_at": "2023-07-27T06:42:26Z",
+  "updated_at": "2023-07-28T18:26:40Z",
   "pushed_at": "2021-09-28T20:29:12Z",
   "git_url": "git://github.com/onury/accesscontrol.git",
   "ssh_url": "git@github.com:onury/accesscontrol.git",

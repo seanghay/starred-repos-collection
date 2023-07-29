@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 999,
+  "forks_count": 1000,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,7 +107,7 @@
     "launcher3"
   ],
   "visibility": "public",
-  "forks": 999,
+  "forks": 1000,
   "open_issues": 79,
   "watchers": 7337,
   "default_branch": "12.1-dev",
