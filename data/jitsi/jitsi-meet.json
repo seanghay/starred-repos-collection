@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 6253,
+  "forks_count": 6254,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 360,
+  "open_issues_count": 359,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -110,8 +110,8 @@
     "webrtc"
   ],
   "visibility": "public",
-  "forks": 6253,
-  "open_issues": 360,
+  "forks": 6254,
+  "open_issues": 359,
   "watchers": 20080,
   "default_branch": "master",
   "permissions": {

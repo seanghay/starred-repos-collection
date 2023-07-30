@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ParkSangGwon/TedImagePicker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ParkSangGwon/TedImagePicker/deployments",
   "created_at": "2019-06-04T13:35:27Z",
-  "updated_at": "2023-07-16T07:59:50Z",
+  "updated_at": "2023-07-29T13:59:00Z",
   "pushed_at": "2023-01-27T05:30:04Z",
   "git_url": "git://github.com/ParkSangGwon/TedImagePicker.git",
   "ssh_url": "git@github.com:ParkSangGwon/TedImagePicker.git",
