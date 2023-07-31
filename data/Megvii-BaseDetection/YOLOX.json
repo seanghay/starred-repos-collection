@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2022,
+  "forks_count": 2023,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 664,
+  "open_issues_count": 665,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -111,8 +111,8 @@
     "yolox"
   ],
   "visibility": "public",
-  "forks": 2022,
-  "open_issues": 664,
+  "forks": 2023,
+  "open_issues": 665,
   "watchers": 8376,
   "default_branch": "main",
   "permissions": {

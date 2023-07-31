@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 370,
+  "forks_count": 371,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,7 +106,7 @@
     "uglifyjs"
   ],
   "visibility": "public",
-  "forks": 370,
+  "forks": 371,
   "open_issues": 255,
   "watchers": 7966,
   "default_branch": "master",
