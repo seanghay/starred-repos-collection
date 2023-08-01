@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/trekhleb/javascript-algorithms/releases{/id}",
   "deployments_url": "https://api.github.com/repos/trekhleb/javascript-algorithms/deployments",
   "created_at": "2018-03-24T07:47:04Z",
-  "updated_at": "2023-07-31T01:55:37Z",
-  "pushed_at": "2023-07-30T20:18:08Z",
+  "updated_at": "2023-08-01T01:52:06Z",
+  "pushed_at": "2023-07-31T16:54:21Z",
   "git_url": "git://github.com/trekhleb/javascript-algorithms.git",
   "ssh_url": "git@github.com:trekhleb/javascript-algorithms.git",
   "clone_url": "https://github.com/trekhleb/javascript-algorithms.git",
   "svn_url": "https://github.com/trekhleb/javascript-algorithms",
   "homepage": "",
   "size": 13363,
-  "stargazers_count": 172899,
-  "watchers_count": 172899,
+  "stargazers_count": 172966,
+  "watchers_count": 172966,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 28416,
+  "forks_count": 28431,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 323,
+  "open_issues_count": 324,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,9 +108,9 @@
     "javascript-algorithms"
   ],
   "visibility": "public",
-  "forks": 28416,
-  "open_issues": 323,
-  "watchers": 172899,
+  "forks": 28431,
+  "open_issues": 324,
+  "watchers": 172966,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2741
+  "_index": 2750
 }

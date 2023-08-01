@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/JetBrains/kotlin/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JetBrains/kotlin/deployments",
   "created_at": "2012-02-13T17:29:58Z",
-  "updated_at": "2023-07-30T16:21:12Z",
-  "pushed_at": "2023-07-31T01:04:21Z",
+  "updated_at": "2023-07-31T23:37:16Z",
+  "pushed_at": "2023-07-31T23:42:02Z",
   "git_url": "git://github.com/JetBrains/kotlin.git",
   "ssh_url": "git@github.com:JetBrains/kotlin.git",
   "clone_url": "https://github.com/JetBrains/kotlin.git",
   "svn_url": "https://github.com/JetBrains/kotlin",
   "homepage": "https://kotlinlang.org",
-  "size": 2097900,
-  "stargazers_count": 45310,
-  "watchers_count": 45310,
+  "size": 2100345,
+  "stargazers_count": 45313,
+  "watchers_count": 45313,
   "language": "Kotlin",
   "has_issues": false,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 5597,
+  "forks_count": 5598,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -101,9 +101,9 @@
     "programming-language"
   ],
   "visibility": "public",
-  "forks": 5597,
+  "forks": 5598,
   "open_issues": 156,
-  "watchers": 45310,
+  "watchers": 45313,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2910
+  "_index": 2919
 }

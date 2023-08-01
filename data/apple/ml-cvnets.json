@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/apple/ml-cvnets/releases{/id}",
   "deployments_url": "https://api.github.com/repos/apple/ml-cvnets/deployments",
   "created_at": "2021-10-21T23:12:39Z",
-  "updated_at": "2023-07-30T21:47:12Z",
-  "pushed_at": "2023-07-12T17:53:32Z",
+  "updated_at": "2023-07-31T11:35:35Z",
+  "pushed_at": "2023-07-31T16:51:05Z",
   "git_url": "git://github.com/apple/ml-cvnets.git",
   "ssh_url": "git@github.com:apple/ml-cvnets.git",
   "clone_url": "https://github.com/apple/ml-cvnets.git",
   "svn_url": "https://github.com/apple/ml-cvnets",
   "homepage": "https://apple.github.io/ml-cvnets",
   "size": 6044,
-  "stargazers_count": 1447,
-  "watchers_count": 1447,
+  "stargazers_count": 1448,
+  "watchers_count": 1448,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 24,
+  "open_issues_count": 26,
   "license": {
     "key": "other",
     "name": "Other",
@@ -112,8 +112,8 @@
   ],
   "visibility": "public",
   "forks": 186,
-  "open_issues": 24,
-  "watchers": 1447,
+  "open_issues": 26,
+  "watchers": 1448,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 111
+  "_index": 120
 }

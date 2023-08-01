@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/helm/helm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/helm/helm/deployments",
   "created_at": "2015-10-06T01:07:32Z",
-  "updated_at": "2023-07-30T15:27:30Z",
-  "pushed_at": "2023-07-30T14:57:03Z",
+  "updated_at": "2023-07-31T19:22:21Z",
+  "pushed_at": "2023-07-31T23:53:39Z",
   "git_url": "git://github.com/helm/helm.git",
   "ssh_url": "git@github.com:helm/helm.git",
   "clone_url": "https://github.com/helm/helm.git",
   "svn_url": "https://github.com/helm/helm",
   "homepage": "https://helm.sh",
   "size": 20096,
-  "stargazers_count": 24718,
-  "watchers_count": 24718,
+  "stargazers_count": 24724,
+  "watchers_count": 24724,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 6749,
+  "forks_count": 6750,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 611,
+  "open_issues_count": 610,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -105,9 +105,9 @@
     "kubernetes"
   ],
   "visibility": "public",
-  "forks": 6749,
-  "open_issues": 611,
-  "watchers": 24718,
+  "forks": 6750,
+  "open_issues": 610,
+  "watchers": 24724,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1620
+  "_index": 1629
 }

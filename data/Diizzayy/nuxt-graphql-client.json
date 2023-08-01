@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/Diizzayy/nuxt-graphql-client.git",
   "svn_url": "https://github.com/Diizzayy/nuxt-graphql-client",
   "homepage": "https://nuxt-graphql-client.web.app",
-  "size": 2882,
+  "size": 3138,
   "stargazers_count": 278,
   "watchers_count": 278,
   "language": "TypeScript",
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 986
+  "_index": 995
 }

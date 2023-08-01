@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/rive-app/rive-android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rive-app/rive-android/deployments",
   "created_at": "2020-09-29T10:12:51Z",
-  "updated_at": "2023-07-29T16:50:28Z",
-  "pushed_at": "2023-07-29T03:49:13Z",
+  "updated_at": "2023-07-31T08:56:12Z",
+  "pushed_at": "2023-07-31T17:41:58Z",
   "git_url": "git://github.com/rive-app/rive-android.git",
   "ssh_url": "git@github.com:rive-app/rive-android.git",
   "clone_url": "https://github.com/rive-app/rive-android.git",
   "svn_url": "https://github.com/rive-app/rive-android",
   "homepage": "https://rive.app",
-  "size": 383947,
-  "stargazers_count": 271,
-  "watchers_count": 271,
+  "size": 384952,
+  "stargazers_count": 272,
+  "watchers_count": 272,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 26,
   "open_issues": 18,
-  "watchers": 271,
+  "watchers": 272,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1661
+  "_index": 1670
 }

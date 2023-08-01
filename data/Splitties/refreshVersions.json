@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Splitties/refreshVersions/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Splitties/refreshVersions/deployments",
   "created_at": "2018-09-29T05:14:46Z",
-  "updated_at": "2023-07-29T09:25:35Z",
+  "updated_at": "2023-07-31T11:42:31Z",
   "pushed_at": "2023-07-26T01:06:55Z",
   "git_url": "git://github.com/Splitties/refreshVersions.git",
   "ssh_url": "git@github.com:Splitties/refreshVersions.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Splitties/refreshVersions",
   "homepage": "https://splitties.github.io/refreshVersions/",
   "size": 12169,
-  "stargazers_count": 1568,
-  "watchers_count": 1568,
+  "stargazers_count": 1569,
+  "watchers_count": 1569,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 105,
   "open_issues": 114,
-  "watchers": 1568,
+  "watchers": 1569,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1926
+  "_index": 1935
 }
