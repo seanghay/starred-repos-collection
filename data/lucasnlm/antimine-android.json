@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 75,
+  "forks_count": 74,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -113,7 +113,7 @@
     "room-database"
   ],
   "visibility": "public",
-  "forks": 75,
+  "forks": 74,
   "open_issues": 34,
   "watchers": 490,
   "default_branch": "main",
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1911
+  "_index": 1914
 }

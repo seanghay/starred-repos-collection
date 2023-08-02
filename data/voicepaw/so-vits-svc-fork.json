@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/voicepaw/so-vits-svc-fork/releases{/id}",
   "deployments_url": "https://api.github.com/repos/voicepaw/so-vits-svc-fork/deployments",
   "created_at": "2023-03-15T14:15:50Z",
-  "updated_at": "2023-07-31T23:53:22Z",
-  "pushed_at": "2023-07-31T18:55:08Z",
+  "updated_at": "2023-08-01T20:39:30Z",
+  "pushed_at": "2023-08-01T21:42:11Z",
   "git_url": "git://github.com/voicepaw/so-vits-svc-fork.git",
   "ssh_url": "git@github.com:voicepaw/so-vits-svc-fork.git",
   "clone_url": "https://github.com/voicepaw/so-vits-svc-fork.git",
   "svn_url": "https://github.com/voicepaw/so-vits-svc-fork",
   "homepage": "",
-  "size": 20194,
-  "stargazers_count": 6339,
-  "watchers_count": 6339,
+  "size": 20460,
+  "stargazers_count": 6345,
+  "watchers_count": 6345,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 916,
+  "forks_count": 917,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -115,9 +115,9 @@
     "voice-conversion"
   ],
   "visibility": "public",
-  "forks": 916,
+  "forks": 917,
   "open_issues": 120,
-  "watchers": 6339,
+  "watchers": 6345,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 187
+  "_index": 190
 }

@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/SimpleMobileTools/Simple-Calendar/deployments",
   "created_at": "2016-01-26T21:02:54Z",
   "updated_at": "2023-07-31T18:37:39Z",
-  "pushed_at": "2023-07-31T02:02:37Z",
+  "pushed_at": "2023-08-01T04:12:22Z",
   "git_url": "git://github.com/SimpleMobileTools/Simple-Calendar.git",
   "ssh_url": "git@github.com:SimpleMobileTools/Simple-Calendar.git",
   "clone_url": "https://github.com/SimpleMobileTools/Simple-Calendar.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1074,
+  "forks_count": 1075,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,7 +106,7 @@
     "open-source"
   ],
   "visibility": "public",
-  "forks": 1074,
+  "forks": 1075,
   "open_issues": 220,
   "watchers": 3289,
   "default_branch": "master",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2457
+  "_index": 2460
 }

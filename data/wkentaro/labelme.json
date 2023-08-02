@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/wkentaro/labelme/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wkentaro/labelme/deployments",
   "created_at": "2016-05-09T12:30:26Z",
-  "updated_at": "2023-08-01T01:02:37Z",
-  "pushed_at": "2023-07-06T02:15:29Z",
+  "updated_at": "2023-08-01T16:00:38Z",
+  "pushed_at": "2023-08-01T11:00:41Z",
   "git_url": "git://github.com/wkentaro/labelme.git",
   "ssh_url": "git@github.com:wkentaro/labelme.git",
   "clone_url": "https://github.com/wkentaro/labelme.git",
   "svn_url": "https://github.com/wkentaro/labelme",
   "homepage": "",
   "size": 46335,
-  "stargazers_count": 10802,
-  "watchers_count": 10802,
+  "stargazers_count": 10810,
+  "watchers_count": 10810,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 75,
+  "open_issues_count": 76,
   "license": {
     "key": "other",
     "name": "Other",
@@ -110,8 +110,8 @@
   ],
   "visibility": "public",
   "forks": 3047,
-  "open_issues": 75,
-  "watchers": 10802,
+  "open_issues": 76,
+  "watchers": 10810,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 34
+  "_index": 37
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/angcyo/DslAdapter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/angcyo/DslAdapter/deployments",
   "created_at": "2019-08-09T09:51:03Z",
-  "updated_at": "2023-08-01T01:45:21Z",
+  "updated_at": "2023-08-01T11:12:02Z",
   "pushed_at": "2023-07-04T12:42:09Z",
   "git_url": "git://github.com/angcyo/DslAdapter.git",
   "ssh_url": "git@github.com:angcyo/DslAdapter.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/angcyo/DslAdapter",
   "homepage": "https://github.com/angcyo/HoverItemDecoration",
   "size": 35783,
-  "stargazers_count": 590,
-  "watchers_count": 590,
+  "stargazers_count": 591,
+  "watchers_count": 591,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -122,7 +122,7 @@
   "visibility": "public",
   "forks": 50,
   "open_issues": 3,
-  "watchers": 590,
+  "watchers": 591,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2008
+  "_index": 2011
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/rodrigomartind/MixAnimationsMotionLayout/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rodrigomartind/MixAnimationsMotionLayout/deployments",
   "created_at": "2020-05-18T17:35:33Z",
-  "updated_at": "2023-07-25T09:02:01Z",
+  "updated_at": "2023-08-01T13:13:18Z",
   "pushed_at": "2021-08-13T00:00:26Z",
   "git_url": "git://github.com/rodrigomartind/MixAnimationsMotionLayout.git",
   "ssh_url": "git@github.com:rodrigomartind/MixAnimationsMotionLayout.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/rodrigomartind/MixAnimationsMotionLayout",
   "homepage": "https://twitter.com/RodrigoMartinD",
   "size": 753,
-  "stargazers_count": 614,
-  "watchers_count": 614,
+  "stargazers_count": 615,
+  "watchers_count": 615,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 65,
+  "forks_count": 66,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,9 +108,9 @@
     "motionlayout"
   ],
   "visibility": "public",
-  "forks": 65,
+  "forks": 66,
   "open_issues": 1,
-  "watchers": 614,
+  "watchers": 615,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1307
+  "_index": 1310
 }

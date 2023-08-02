@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/APKLab/APKLab/releases{/id}",
   "deployments_url": "https://api.github.com/repos/APKLab/APKLab/deployments",
   "created_at": "2020-05-09T17:18:38Z",
-  "updated_at": "2023-07-31T14:07:51Z",
+  "updated_at": "2023-08-01T22:18:12Z",
   "pushed_at": "2023-07-25T10:42:53Z",
   "git_url": "git://github.com/APKLab/APKLab.git",
   "ssh_url": "git@github.com:APKLab/APKLab.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/APKLab/APKLab",
   "homepage": "https://apklab.surendrajat.xyz",
   "size": 7674,
-  "stargazers_count": 1937,
-  "watchers_count": 1937,
+  "stargazers_count": 1939,
+  "watchers_count": 1939,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 201,
+  "forks_count": 202,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -118,9 +118,9 @@
     "uber-apk-signer"
   ],
   "visibility": "public",
-  "forks": 201,
+  "forks": 202,
   "open_issues": 27,
-  "watchers": 1937,
+  "watchers": 1939,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1610
+  "_index": 1613
 }
