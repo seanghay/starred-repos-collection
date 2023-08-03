@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/bhuvnesh123/FFmpeg-Video-Editor-Android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bhuvnesh123/FFmpeg-Video-Editor-Android/deployments",
   "created_at": "2017-03-16T11:55:35Z",
-  "updated_at": "2023-07-11T05:10:58Z",
-  "pushed_at": "2020-06-12T15:18:36Z",
+  "updated_at": "2023-08-02T15:56:52Z",
+  "pushed_at": "2023-08-02T15:56:46Z",
   "git_url": "git://github.com/bhuvnesh123/FFmpeg-Video-Editor-Android.git",
   "ssh_url": "git@github.com:bhuvnesh123/FFmpeg-Video-Editor-Android.git",
   "clone_url": "https://github.com/bhuvnesh123/FFmpeg-Video-Editor-Android.git",
   "svn_url": "https://github.com/bhuvnesh123/FFmpeg-Video-Editor-Android",
   "homepage": "",
-  "size": 324,
+  "size": 325,
   "stargazers_count": 506,
   "watchers_count": 506,
   "language": "Java",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2184
+  "_index": 2187
 }

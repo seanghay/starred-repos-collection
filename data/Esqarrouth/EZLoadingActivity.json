@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Esqarrouth/EZLoadingActivity/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Esqarrouth/EZLoadingActivity/deployments",
   "created_at": "2015-06-04T11:25:59Z",
-  "updated_at": "2023-05-12T03:53:37Z",
+  "updated_at": "2023-08-02T10:00:49Z",
   "pushed_at": "2022-03-18T23:58:59Z",
   "git_url": "git://github.com/Esqarrouth/EZLoadingActivity.git",
   "ssh_url": "git@github.com:Esqarrouth/EZLoadingActivity.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Esqarrouth/EZLoadingActivity",
   "homepage": "",
   "size": 88,
-  "stargazers_count": 610,
-  "watchers_count": 610,
+  "stargazers_count": 609,
+  "watchers_count": 609,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 84,
   "open_issues": 10,
-  "watchers": 610,
+  "watchers": 609,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 978
+  "_index": 981
 }

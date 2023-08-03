@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/serhiisol/node-decorators/deployments",
   "created_at": "2016-07-14T19:48:03Z",
   "updated_at": "2023-07-31T06:43:17Z",
-  "pushed_at": "2023-07-28T22:12:31Z",
+  "pushed_at": "2023-08-02T23:46:20Z",
   "git_url": "git://github.com/serhiisol/node-decorators.git",
   "ssh_url": "git@github.com:serhiisol/node-decorators.git",
   "clone_url": "https://github.com/serhiisol/node-decorators.git",
   "svn_url": "https://github.com/serhiisol/node-decorators",
   "homepage": null,
-  "size": 730,
+  "size": 674,
   "stargazers_count": 351,
   "watchers_count": 351,
   "language": "TypeScript",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2746
+  "_index": 2749
 }

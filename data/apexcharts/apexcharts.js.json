@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/apexcharts/apexcharts.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/apexcharts/apexcharts.js/deployments",
   "created_at": "2018-07-24T15:22:23Z",
-  "updated_at": "2023-08-02T01:11:35Z",
-  "pushed_at": "2023-07-31T11:22:24Z",
+  "updated_at": "2023-08-02T21:01:24Z",
+  "pushed_at": "2023-08-02T17:20:37Z",
   "git_url": "git://github.com/apexcharts/apexcharts.js.git",
   "ssh_url": "git@github.com:apexcharts/apexcharts.js.git",
   "clone_url": "https://github.com/apexcharts/apexcharts.js.git",
   "svn_url": "https://github.com/apexcharts/apexcharts.js",
   "homepage": "https://apexcharts.com",
   "size": 55918,
-  "stargazers_count": 12741,
-  "watchers_count": 12741,
+  "stargazers_count": 12742,
+  "watchers_count": 12742,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 289,
+  "open_issues_count": 290,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,8 +108,8 @@
   ],
   "visibility": "public",
   "forks": 1162,
-  "open_issues": 289,
-  "watchers": 12741,
+  "open_issues": 290,
+  "watchers": 12742,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2834
+  "_index": 2837
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/sveltejs/kit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sveltejs/kit/deployments",
   "created_at": "2020-10-15T14:00:23Z",
-  "updated_at": "2023-08-02T01:36:40Z",
-  "pushed_at": "2023-08-01T18:00:26Z",
+  "updated_at": "2023-08-02T20:17:39Z",
+  "pushed_at": "2023-08-02T22:12:15Z",
   "git_url": "git://github.com/sveltejs/kit.git",
   "ssh_url": "git@github.com:sveltejs/kit.git",
   "clone_url": "https://github.com/sveltejs/kit.git",
   "svn_url": "https://github.com/sveltejs/kit",
   "homepage": "https://kit.svelte.dev",
-  "size": 23650,
-  "stargazers_count": 15620,
-  "watchers_count": 15620,
+  "size": 23654,
+  "stargazers_count": 15639,
+  "watchers_count": 15639,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1470,
+  "forks_count": 1471,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 542,
+  "open_issues_count": 540,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -101,9 +101,9 @@
     "svelte"
   ],
   "visibility": "public",
-  "forks": 1470,
-  "open_issues": 542,
-  "watchers": 15620,
+  "forks": 1471,
+  "open_issues": 540,
+  "watchers": 15639,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 742
+  "_index": 745
 }
