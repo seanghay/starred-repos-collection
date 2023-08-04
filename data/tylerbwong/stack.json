@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/tylerbwong/stack.git",
   "svn_url": "https://github.com/tylerbwong/stack",
   "homepage": "https://stack.tylerbwong.me",
-  "size": 3575,
+  "size": 3577,
   "stargazers_count": 350,
   "watchers_count": 350,
   "language": "Kotlin",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 12,
+  "open_issues_count": 13,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -110,7 +110,7 @@
   ],
   "visibility": "public",
   "forks": 25,
-  "open_issues": 12,
+  "open_issues": 13,
   "watchers": 350,
   "default_branch": "master",
   "permissions": {
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1695
+  "_index": 1698
 }

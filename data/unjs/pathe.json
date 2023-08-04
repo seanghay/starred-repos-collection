@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/unjs/pathe/deployments",
   "created_at": "2021-09-22T18:20:03Z",
   "updated_at": "2023-07-31T21:57:11Z",
-  "pushed_at": "2023-07-05T17:07:34Z",
+  "pushed_at": "2023-08-03T07:12:37Z",
   "git_url": "git://github.com/unjs/pathe.git",
   "ssh_url": "git@github.com:unjs/pathe.git",
   "clone_url": "https://github.com/unjs/pathe.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1290
+  "_index": 1293
 }

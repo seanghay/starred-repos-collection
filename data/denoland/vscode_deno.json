@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/denoland/vscode_deno/deployments",
   "created_at": "2020-05-07T16:10:02Z",
   "updated_at": "2023-08-01T10:28:02Z",
-  "pushed_at": "2023-08-01T17:06:38Z",
+  "pushed_at": "2023-08-03T15:32:45Z",
   "git_url": "git://github.com/denoland/vscode_deno.git",
   "ssh_url": "git@github.com:denoland/vscode_deno.git",
   "clone_url": "https://github.com/denoland/vscode_deno.git",
   "svn_url": "https://github.com/denoland/vscode_deno",
   "homepage": "https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno",
-  "size": 24881,
+  "size": 24886,
   "stargazers_count": 1420,
   "watchers_count": 1420,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 96,
+  "open_issues_count": 95,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 134,
-  "open_issues": 96,
+  "open_issues": 95,
   "watchers": 1420,
   "default_branch": "main",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1843
+  "_index": 1846
 }

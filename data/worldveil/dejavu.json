@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/worldveil/dejavu/releases{/id}",
   "deployments_url": "https://api.github.com/repos/worldveil/dejavu/deployments",
   "created_at": "2013-11-19T02:50:35Z",
-  "updated_at": "2023-08-02T02:13:21Z",
+  "updated_at": "2023-08-03T19:27:28Z",
   "pushed_at": "2023-07-06T21:44:47Z",
   "git_url": "git://github.com/worldveil/dejavu.git",
   "ssh_url": "git@github.com:worldveil/dejavu.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/worldveil/dejavu",
   "homepage": null,
   "size": 76344,
-  "stargazers_count": 6091,
-  "watchers_count": 6091,
+  "stargazers_count": 6096,
+  "watchers_count": 6096,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 1405,
   "open_issues": 121,
-  "watchers": 6091,
+  "watchers": 6096,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 124
+  "_index": 127
 }

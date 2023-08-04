@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/qyxxjd/MultipleStatusView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/qyxxjd/MultipleStatusView/deployments",
   "created_at": "2016-01-17T06:48:05Z",
-  "updated_at": "2023-08-02T10:45:08Z",
+  "updated_at": "2023-08-03T09:10:27Z",
   "pushed_at": "2019-12-18T07:07:49Z",
   "git_url": "git://github.com/qyxxjd/MultipleStatusView.git",
   "ssh_url": "git@github.com:qyxxjd/MultipleStatusView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/qyxxjd/MultipleStatusView",
   "homepage": "",
   "size": 9963,
-  "stargazers_count": 1680,
-  "watchers_count": 1680,
+  "stargazers_count": 1679,
+  "watchers_count": 1679,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 245,
   "open_issues": 5,
-  "watchers": 1680,
+  "watchers": 1679,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2150
+  "_index": 2153
 }

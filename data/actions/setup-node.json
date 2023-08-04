@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/actions/setup-node/releases{/id}",
   "deployments_url": "https://api.github.com/repos/actions/setup-node/deployments",
   "created_at": "2019-05-30T20:19:16Z",
-  "updated_at": "2023-08-02T22:10:50Z",
+  "updated_at": "2023-08-03T15:19:06Z",
   "pushed_at": "2023-07-31T12:59:29Z",
   "git_url": "git://github.com/actions/setup-node.git",
   "ssh_url": "git@github.com:actions/setup-node.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/actions/setup-node",
   "homepage": "",
   "size": 15009,
-  "stargazers_count": 3067,
-  "watchers_count": 3067,
+  "stargazers_count": 3068,
+  "watchers_count": 3068,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 1493,
   "open_issues": 52,
-  "watchers": 3067,
+  "watchers": 3068,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 678
+  "_index": 681
 }

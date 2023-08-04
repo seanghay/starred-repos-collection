@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/buzinas/simple-scrollbar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/buzinas/simple-scrollbar/deployments",
   "created_at": "2015-08-06T06:24:12Z",
-  "updated_at": "2023-07-10T16:33:11Z",
+  "updated_at": "2023-08-03T09:39:55Z",
   "pushed_at": "2020-07-24T22:14:48Z",
   "git_url": "git://github.com/buzinas/simple-scrollbar.git",
   "ssh_url": "git@github.com:buzinas/simple-scrollbar.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/buzinas/simple-scrollbar",
   "homepage": "",
   "size": 59,
-  "stargazers_count": 568,
-  "watchers_count": 568,
+  "stargazers_count": 567,
+  "watchers_count": 567,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 164,
   "open_issues": 17,
-  "watchers": 568,
+  "watchers": 567,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2898
+  "_index": 2901
 }
