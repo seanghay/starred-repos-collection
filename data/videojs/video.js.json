@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 7411,
+  "forks_count": 7410,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 456,
+  "open_issues_count": 458,
   "license": {
     "key": "other",
     "name": "Other",
@@ -110,8 +110,8 @@
     "videojs"
   ],
   "visibility": "public",
-  "forks": 7411,
-  "open_issues": 456,
+  "forks": 7410,
+  "open_issues": 458,
   "watchers": 35989,
   "default_branch": "main",
   "permissions": {

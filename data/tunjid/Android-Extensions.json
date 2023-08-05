@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 57,
+  "forks_count": 58,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -120,7 +120,7 @@
     "tableview"
   ],
   "visibility": "public",
-  "forks": 57,
+  "forks": 58,
   "open_issues": 5,
   "watchers": 573,
   "default_branch": "develop",
