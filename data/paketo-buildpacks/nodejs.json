@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/paketo-buildpacks/nodejs.git",
   "svn_url": "https://github.com/paketo-buildpacks/nodejs",
   "homepage": "",
-  "size": 1560,
+  "size": 1562,
   "stargazers_count": 50,
   "watchers_count": 50,
   "language": "Go",

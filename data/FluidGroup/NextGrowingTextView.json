@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 151,
+  "forks_count": 150,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 29,
+  "open_issues_count": 30,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,8 +106,8 @@
     "xcode"
   ],
   "visibility": "public",
-  "forks": 151,
-  "open_issues": 29,
+  "forks": 150,
+  "open_issues": 30,
   "watchers": 1747,
   "default_branch": "main",
   "permissions": {
