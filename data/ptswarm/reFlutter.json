@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 156,
+  "forks_count": 157,
   "mirror_url": null,
   "archived": true,
   "disabled": false,
@@ -104,7 +104,7 @@
     "ssl-pinning"
   ],
   "visibility": "public",
-  "forks": 156,
+  "forks": 157,
   "open_issues": 80,
   "watchers": 1057,
   "default_branch": "main",
