@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jonnor/brewing-audio-event-detection/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jonnor/brewing-audio-event-detection/deployments",
   "created_at": "2021-04-07T20:36:57Z",
-  "updated_at": "2023-05-28T13:49:12Z",
+  "updated_at": "2023-08-07T16:34:50Z",
   "pushed_at": "2022-11-11T17:42:19Z",
   "git_url": "git://github.com/jonnor/brewing-audio-event-detection.git",
   "ssh_url": "git@github.com:jonnor/brewing-audio-event-detection.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jonnor/brewing-audio-event-detection",
   "homepage": null,
   "size": 3121,
-  "stargazers_count": 10,
-  "watchers_count": 10,
+  "stargazers_count": 11,
+  "watchers_count": 11,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 2,
   "open_issues": 0,
-  "watchers": 10,
+  "watchers": 11,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 212
+  "_index": 213
 }

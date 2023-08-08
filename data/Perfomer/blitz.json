@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Perfomer/blitz/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Perfomer/blitz/deployments",
   "created_at": "2020-04-10T17:26:16Z",
-  "updated_at": "2023-07-13T06:12:46Z",
+  "updated_at": "2023-08-08T00:13:02Z",
   "pushed_at": "2022-06-10T18:44:57Z",
   "git_url": "git://github.com/Perfomer/blitz.git",
   "ssh_url": "git@github.com:Perfomer/blitz.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Perfomer/blitz",
   "homepage": "",
   "size": 835,
-  "stargazers_count": 241,
-  "watchers_count": 241,
+  "stargazers_count": 240,
+  "watchers_count": 240,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 25,
   "open_issues": 4,
-  "watchers": 241,
+  "watchers": 240,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1725
+  "_index": 1726
 }

@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 533,
+  "forks_count": 532,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "oboe"
   ],
   "visibility": "public",
-  "forks": 533,
+  "forks": 532,
   "open_issues": 122,
   "watchers": 3424,
   "default_branch": "main",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2196
+  "_index": 2197
 }

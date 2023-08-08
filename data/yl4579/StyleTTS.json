@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yl4579/StyleTTS/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yl4579/StyleTTS/deployments",
   "created_at": "2022-06-01T00:42:32Z",
-  "updated_at": "2023-08-03T06:42:38Z",
+  "updated_at": "2023-08-07T03:40:35Z",
   "pushed_at": "2023-07-06T17:24:04Z",
   "git_url": "git://github.com/yl4579/StyleTTS.git",
   "ssh_url": "git@github.com:yl4579/StyleTTS.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yl4579/StyleTTS",
   "homepage": "",
   "size": 116484,
-  "stargazers_count": 249,
-  "watchers_count": 249,
+  "stargazers_count": 251,
+  "watchers_count": 251,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 34,
+  "forks_count": 35,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 9,
+  "open_issues_count": 3,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,9 +105,9 @@
     "tts"
   ],
   "visibility": "public",
-  "forks": 34,
-  "open_issues": 9,
-  "watchers": 249,
+  "forks": 35,
+  "open_issues": 3,
+  "watchers": 251,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2
+  "_index": 3
 }

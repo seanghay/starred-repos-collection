@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/libretro/glsl-shaders.git",
   "svn_url": "https://github.com/libretro/glsl-shaders",
   "homepage": null,
-  "size": 52598,
+  "size": 52601,
   "stargazers_count": 743,
   "watchers_count": 743,
   "language": "GLSL",
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2245
+  "_index": 2246
 }

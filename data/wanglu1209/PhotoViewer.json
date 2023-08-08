@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wanglu1209/PhotoViewer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wanglu1209/PhotoViewer/deployments",
   "created_at": "2018-08-07T01:57:21Z",
-  "updated_at": "2023-07-26T02:05:39Z",
+  "updated_at": "2023-08-07T23:21:38Z",
   "pushed_at": "2019-05-05T13:00:28Z",
   "git_url": "git://github.com/wanglu1209/PhotoViewer.git",
   "ssh_url": "git@github.com:wanglu1209/PhotoViewer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wanglu1209/PhotoViewer",
   "homepage": "",
   "size": 26212,
-  "stargazers_count": 454,
-  "watchers_count": 454,
+  "stargazers_count": 453,
+  "watchers_count": 453,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 20,
+  "open_issues_count": 21,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -103,8 +103,8 @@
   ],
   "visibility": "public",
   "forks": 50,
-  "open_issues": 20,
-  "watchers": 454,
+  "open_issues": 21,
+  "watchers": 453,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2593
+  "_index": 2594
 }
