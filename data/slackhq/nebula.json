@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/slackhq/nebula/releases{/id}",
   "deployments_url": "https://api.github.com/repos/slackhq/nebula/deployments",
   "created_at": "2019-11-16T23:26:23Z",
-  "updated_at": "2023-08-07T18:19:39Z",
-  "pushed_at": "2023-08-07T20:02:54Z",
+  "updated_at": "2023-08-08T21:12:52Z",
+  "pushed_at": "2023-08-08T22:32:50Z",
   "git_url": "git://github.com/slackhq/nebula.git",
   "ssh_url": "git@github.com:slackhq/nebula.git",
   "clone_url": "https://github.com/slackhq/nebula.git",
   "svn_url": "https://github.com/slackhq/nebula",
   "homepage": "",
-  "size": 1911,
-  "stargazers_count": 12257,
-  "watchers_count": 12257,
+  "size": 1923,
+  "stargazers_count": 12274,
+  "watchers_count": 12274,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 128,
+  "open_issues_count": 126,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 857,
-  "open_issues": 128,
-  "watchers": 12257,
+  "open_issues": 126,
+  "watchers": 12274,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1117
+  "_index": 1121
 }

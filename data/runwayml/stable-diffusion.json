@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/runwayml/stable-diffusion/releases{/id}",
   "deployments_url": "https://api.github.com/repos/runwayml/stable-diffusion/deployments",
   "created_at": "2022-10-18T16:40:30Z",
-  "updated_at": "2023-08-07T20:48:56Z",
+  "updated_at": "2023-08-08T15:30:10Z",
   "pushed_at": "2023-05-18T19:14:45Z",
   "git_url": "git://github.com/runwayml/stable-diffusion.git",
   "ssh_url": "git@github.com:runwayml/stable-diffusion.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/runwayml/stable-diffusion",
   "homepage": null,
   "size": 48698,
-  "stargazers_count": 2875,
-  "watchers_count": 2875,
+  "stargazers_count": 2879,
+  "watchers_count": 2879,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 348,
+  "forks_count": 349,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 27,
+  "open_issues_count": 29,
   "license": {
     "key": "other",
     "name": "Other",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 348,
-  "open_issues": 27,
-  "watchers": 2875,
+  "forks": 349,
+  "open_issues": 29,
+  "watchers": 2879,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 617
+  "_index": 621
 }

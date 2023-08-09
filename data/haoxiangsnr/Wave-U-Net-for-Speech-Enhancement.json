@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/haoxiangsnr/Wave-U-Net-for-Speech-Enhancement/releases{/id}",
   "deployments_url": "https://api.github.com/repos/haoxiangsnr/Wave-U-Net-for-Speech-Enhancement/deployments",
   "created_at": "2019-03-12T08:38:20Z",
-  "updated_at": "2023-08-06T06:21:35Z",
+  "updated_at": "2023-08-08T12:37:44Z",
   "pushed_at": "2022-10-04T01:46:02Z",
   "git_url": "git://github.com/haoxiangsnr/Wave-U-Net-for-Speech-Enhancement.git",
   "ssh_url": "git@github.com:haoxiangsnr/Wave-U-Net-for-Speech-Enhancement.git",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 182
+  "_index": 186
 }

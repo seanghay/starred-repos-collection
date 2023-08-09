@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 371,
+  "forks_count": 372,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 60,
+  "open_issues_count": 61,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -104,8 +104,8 @@
     "android-testing"
   ],
   "visibility": "public",
-  "forks": 371,
-  "open_issues": 60,
+  "forks": 372,
+  "open_issues": 61,
   "watchers": 3150,
   "default_branch": "master",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2488
+  "_index": 2492
 }
