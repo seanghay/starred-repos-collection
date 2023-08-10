@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ArthurHub/Android-Image-Cropper/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ArthurHub/Android-Image-Cropper/deployments",
   "created_at": "2015-01-15T10:49:37Z",
-  "updated_at": "2023-08-08T15:29:36Z",
+  "updated_at": "2023-08-09T16:38:23Z",
   "pushed_at": "2023-03-18T08:18:22Z",
   "git_url": "git://github.com/ArthurHub/Android-Image-Cropper.git",
   "ssh_url": "git@github.com:ArthurHub/Android-Image-Cropper.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1342,
+  "forks_count": 1341,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "cropper"
   ],
   "visibility": "public",
-  "forks": 1342,
+  "forks": 1341,
   "open_issues": 360,
   "watchers": 6309,
   "default_branch": "master",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2591
+  "_index": 2593
 }

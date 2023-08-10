@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bernaferrari/EmojiSlider/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bernaferrari/EmojiSlider/deployments",
   "created_at": "2018-07-27T19:33:18Z",
-  "updated_at": "2023-08-05T15:24:07Z",
+  "updated_at": "2023-08-09T03:29:55Z",
   "pushed_at": "2020-04-26T17:53:24Z",
   "git_url": "git://github.com/bernaferrari/EmojiSlider.git",
   "ssh_url": "git@github.com:bernaferrari/EmojiSlider.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/bernaferrari/EmojiSlider",
   "homepage": "",
   "size": 8121,
-  "stargazers_count": 592,
-  "watchers_count": 592,
+  "stargazers_count": 591,
+  "watchers_count": 591,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 39,
   "open_issues": 4,
-  "watchers": 592,
+  "watchers": 591,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2337
+  "_index": 2339
 }

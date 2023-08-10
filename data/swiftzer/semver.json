@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/swiftzer/semver/deployments",
   "created_at": "2017-10-21T07:09:43Z",
   "updated_at": "2023-08-05T21:05:48Z",
-  "pushed_at": "2023-08-05T16:27:22Z",
+  "pushed_at": "2023-08-09T15:27:11Z",
   "git_url": "git://github.com/swiftzer/semver.git",
   "ssh_url": "git@github.com:swiftzer/semver.git",
   "clone_url": "https://github.com/swiftzer/semver.git",
   "svn_url": "https://github.com/swiftzer/semver",
   "homepage": null,
-  "size": 217,
+  "size": 219,
   "stargazers_count": 60,
   "watchers_count": 60,
   "language": "Kotlin",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1743
+  "_index": 1745
 }

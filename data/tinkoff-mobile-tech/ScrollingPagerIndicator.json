@@ -84,7 +84,7 @@
   "has_discussions": false,
   "forks_count": 98,
   "mirror_url": null,
-  "archived": false,
+  "archived": true,
   "disabled": false,
   "open_issues_count": 18,
   "license": {
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2625
+  "_index": 2627
 }

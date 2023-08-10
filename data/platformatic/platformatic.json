@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/platformatic/platformatic/deployments",
   "created_at": "2022-09-22T07:32:19Z",
   "updated_at": "2023-08-08T19:37:54Z",
-  "pushed_at": "2023-08-08T16:15:30Z",
+  "pushed_at": "2023-08-09T18:00:12Z",
   "git_url": "git://github.com/platformatic/platformatic.git",
   "ssh_url": "git@github.com:platformatic/platformatic.git",
   "clone_url": "https://github.com/platformatic/platformatic.git",
   "svn_url": "https://github.com/platformatic/platformatic",
   "homepage": "https://docs.platformatic.dev/",
-  "size": 7915,
+  "size": 7919,
   "stargazers_count": 1190,
   "watchers_count": 1190,
   "language": "JavaScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 161,
+  "open_issues_count": 162,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -107,7 +107,7 @@
   ],
   "visibility": "public",
   "forks": 106,
-  "open_issues": 161,
+  "open_issues": 162,
   "watchers": 1190,
   "default_branch": "main",
   "permissions": {
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 706
+  "_index": 708
 }
