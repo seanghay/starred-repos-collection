@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/serhiisol/node-decorators.git",
   "svn_url": "https://github.com/serhiisol/node-decorators",
   "homepage": null,
-  "size": 704,
+  "size": 714,
   "stargazers_count": 357,
   "watchers_count": 357,
   "language": "TypeScript",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2759
+  "_index": 2760
 }

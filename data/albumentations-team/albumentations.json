@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/albumentations-team/albumentations/releases{/id}",
   "deployments_url": "https://api.github.com/repos/albumentations-team/albumentations/deployments",
   "created_at": "2018-06-06T03:10:50Z",
-  "updated_at": "2023-08-09T22:18:58Z",
+  "updated_at": "2023-08-11T01:35:36Z",
   "pushed_at": "2023-06-24T11:05:09Z",
   "git_url": "git://github.com/albumentations-team/albumentations.git",
   "ssh_url": "git@github.com:albumentations-team/albumentations.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/albumentations-team/albumentations",
   "homepage": "https://albumentations.ai",
   "size": 102063,
-  "stargazers_count": 12385,
-  "watchers_count": 12385,
+  "stargazers_count": 12391,
+  "watchers_count": 12391,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -114,7 +114,7 @@
   "visibility": "public",
   "forks": 1526,
   "open_issues": 378,
-  "watchers": 12385,
+  "watchers": 12391,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 301
+  "_index": 302
 }
