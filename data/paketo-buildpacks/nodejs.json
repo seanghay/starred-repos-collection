@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/paketo-buildpacks/nodejs.git",
   "svn_url": "https://github.com/paketo-buildpacks/nodejs",
   "homepage": "",
-  "size": 1562,
+  "size": 1564,
   "stargazers_count": 50,
   "watchers_count": 50,
   "language": "Go",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 20,
+  "forks_count": 21,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -101,7 +101,7 @@
     "cnb"
   ],
   "visibility": "public",
-  "forks": 20,
+  "forks": 21,
   "open_issues": 12,
   "watchers": 50,
   "default_branch": "main",
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 461
+  "_index": 467
 }

@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1787,
+  "forks_count": 1788,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 396,
+  "open_issues_count": 395,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -107,8 +107,8 @@
     "realtime-database"
   ],
   "visibility": "public",
-  "forks": 1787,
-  "open_issues": 396,
+  "forks": 1788,
+  "open_issues": 395,
   "watchers": 11404,
   "default_branch": "main",
   "permissions": {
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2282
+  "_index": 2288
 }

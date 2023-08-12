@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/phan/phan/deployments",
   "created_at": "2015-10-22T14:34:09Z",
   "updated_at": "2023-08-10T17:44:14Z",
-  "pushed_at": "2023-08-08T21:27:58Z",
+  "pushed_at": "2023-08-11T21:44:35Z",
   "git_url": "git://github.com/phan/phan.git",
   "ssh_url": "git@github.com:phan/phan.git",
   "clone_url": "https://github.com/phan/phan.git",
   "svn_url": "https://github.com/phan/phan",
   "homepage": "https://github.com/phan/phan/wiki",
-  "size": 44507,
+  "size": 42503,
   "stargazers_count": 5436,
   "watchers_count": 5436,
   "language": "PHP",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2899
+  "_index": 2905
 }

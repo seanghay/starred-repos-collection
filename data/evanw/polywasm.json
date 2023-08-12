@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/evanw/polywasm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/evanw/polywasm/deployments",
   "created_at": "2023-05-23T05:02:40Z",
-  "updated_at": "2023-08-10T17:31:19Z",
+  "updated_at": "2023-08-11T14:09:25Z",
   "pushed_at": "2023-07-24T00:18:22Z",
   "git_url": "git://github.com/evanw/polywasm.git",
   "ssh_url": "git@github.com:evanw/polywasm.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/evanw/polywasm",
   "homepage": null,
   "size": 346,
-  "stargazers_count": 582,
-  "watchers_count": 582,
+  "stargazers_count": 583,
+  "watchers_count": 583,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 11,
   "open_issues": 1,
-  "watchers": 582,
+  "watchers": 583,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 223
+  "_index": 229
 }

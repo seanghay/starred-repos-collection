@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ecrmnn/collect.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ecrmnn/collect.js/deployments",
   "created_at": "2016-09-11T14:53:13Z",
-  "updated_at": "2023-08-10T12:04:44Z",
+  "updated_at": "2023-08-11T08:50:24Z",
   "pushed_at": "2023-07-13T14:14:25Z",
   "git_url": "git://github.com/ecrmnn/collect.js.git",
   "ssh_url": "git@github.com:ecrmnn/collect.js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ecrmnn/collect.js",
   "homepage": "https://collect.js.org",
   "size": 1245,
-  "stargazers_count": 6335,
-  "watchers_count": 6335,
+  "stargazers_count": 6338,
+  "watchers_count": 6338,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 339,
+  "forks_count": 340,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "nested-objects"
   ],
   "visibility": "public",
-  "forks": 339,
+  "forks": 340,
   "open_issues": 30,
-  "watchers": 6335,
+  "watchers": 6338,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 889
+  "_index": 895
 }
