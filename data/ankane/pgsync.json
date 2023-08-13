@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ankane/pgsync/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ankane/pgsync/deployments",
   "created_at": "2015-12-08T05:37:40Z",
-  "updated_at": "2023-08-11T13:11:25Z",
+  "updated_at": "2023-08-12T09:04:16Z",
   "pushed_at": "2023-08-10T00:02:45Z",
   "git_url": "git://github.com/ankane/pgsync.git",
   "ssh_url": "git@github.com:ankane/pgsync.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ankane/pgsync",
   "homepage": "",
   "size": 495,
-  "stargazers_count": 2710,
-  "watchers_count": 2710,
+  "stargazers_count": 2711,
+  "watchers_count": 2711,
   "language": "Ruby",
   "has_issues": true,
   "has_projects": false,
@@ -103,7 +103,7 @@
   "visibility": "public",
   "forks": 180,
   "open_issues": 9,
-  "watchers": 2710,
+  "watchers": 2711,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 742
+  "_index": 744
 }

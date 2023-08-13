@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/Picsart-AI-Research/Text2Video-Zero",
-  "description": "[ICCV 2023] Text-to-Image Diffusion Models are Zero-Shot Video Generators",
+  "description": "[ICCV 2023 Oral] Text-to-Image Diffusion Models are Zero-Shot Video Generators",
   "fork": false,
   "url": "https://api.github.com/repos/Picsart-AI-Research/Text2Video-Zero",
   "forks_url": "https://api.github.com/repos/Picsart-AI-Research/Text2Video-Zero/forks",
@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Picsart-AI-Research/Text2Video-Zero/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Picsart-AI-Research/Text2Video-Zero/deployments",
   "created_at": "2023-03-21T13:41:40Z",
-  "updated_at": "2023-08-12T01:26:36Z",
+  "updated_at": "2023-08-12T19:53:11Z",
   "pushed_at": "2023-05-06T22:35:28Z",
   "git_url": "git://github.com/Picsart-AI-Research/Text2Video-Zero.git",
   "ssh_url": "git@github.com:Picsart-AI-Research/Text2Video-Zero.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Picsart-AI-Research/Text2Video-Zero",
   "homepage": "",
   "size": 94428,
-  "stargazers_count": 3169,
-  "watchers_count": 3169,
+  "stargazers_count": 3172,
+  "watchers_count": 3172,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 251,
   "open_issues": 37,
-  "watchers": 3169,
+  "watchers": 3172,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 359
+  "_index": 361
 }

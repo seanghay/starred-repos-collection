@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/material-components/material-components-android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/material-components/material-components-android/deployments",
   "created_at": "2016-12-05T16:11:29Z",
-  "updated_at": "2023-08-11T17:20:42Z",
-  "pushed_at": "2023-08-10T15:14:43Z",
+  "updated_at": "2023-08-12T13:33:34Z",
+  "pushed_at": "2023-08-12T21:51:23Z",
   "git_url": "git://github.com/material-components/material-components-android.git",
   "ssh_url": "git@github.com:material-components/material-components-android.git",
   "clone_url": "https://github.com/material-components/material-components-android.git",
   "svn_url": "https://github.com/material-components/material-components-android",
   "homepage": "",
-  "size": 143346,
-  "stargazers_count": 15284,
-  "watchers_count": 15284,
+  "size": 143347,
+  "stargazers_count": 15291,
+  "watchers_count": 15291,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3036,
+  "forks_count": 3038,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,9 +103,9 @@
     "material-design"
   ],
   "visibility": "public",
-  "forks": 3036,
+  "forks": 3038,
   "open_issues": 508,
-  "watchers": 15284,
+  "watchers": 15291,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1846
+  "_index": 1848
 }

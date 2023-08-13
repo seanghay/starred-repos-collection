@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/chrisbanes/tivi.git",
   "svn_url": "https://github.com/chrisbanes/tivi",
   "homepage": "",
-  "size": 24774,
+  "size": 24775,
   "stargazers_count": 6027,
   "watchers_count": 6027,
   "language": "Kotlin",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2462
+  "_index": 2464
 }

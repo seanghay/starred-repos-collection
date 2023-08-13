@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kubernetes-sigs/kubespray/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kubernetes-sigs/kubespray/deployments",
   "created_at": "2015-10-03T20:18:11Z",
-  "updated_at": "2023-08-11T22:50:34Z",
+  "updated_at": "2023-08-13T00:35:05Z",
   "pushed_at": "2023-08-11T18:57:44Z",
   "git_url": "git://github.com/kubernetes-sigs/kubespray.git",
   "ssh_url": "git@github.com:kubernetes-sigs/kubespray.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/kubernetes-sigs/kubespray",
   "homepage": "",
   "size": 22711,
-  "stargazers_count": 14301,
-  "watchers_count": 14301,
+  "stargazers_count": 14311,
+  "watchers_count": 14311,
   "language": "Jinja",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 6047,
+  "forks_count": 6066,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,9 +110,9 @@
     "kubespray"
   ],
   "visibility": "public",
-  "forks": 6047,
+  "forks": 6066,
   "open_issues": 173,
-  "watchers": 14301,
+  "watchers": 14311,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 859
+  "_index": 861
 }
