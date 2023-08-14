@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/np/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/np/deployments",
   "created_at": "2015-08-16T09:06:06Z",
-  "updated_at": "2023-08-10T05:23:22Z",
+  "updated_at": "2023-08-14T01:31:05Z",
   "pushed_at": "2023-08-02T13:19:10Z",
   "git_url": "git://github.com/sindresorhus/np.git",
   "ssh_url": "git@github.com:sindresorhus/np.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sindresorhus/np",
   "homepage": null,
   "size": 950,
-  "stargazers_count": 7191,
-  "watchers_count": 7191,
+  "stargazers_count": 7194,
+  "watchers_count": 7194,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 346,
   "open_issues": 52,
-  "watchers": 7191,
+  "watchers": 7194,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 981
+  "_index": 983
 }

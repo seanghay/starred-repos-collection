@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/greggman/twgl.js/deployments",
   "created_at": "2015-03-27T10:59:26Z",
   "updated_at": "2023-08-12T07:49:59Z",
-  "pushed_at": "2023-08-12T20:35:51Z",
+  "pushed_at": "2023-08-13T22:00:44Z",
   "git_url": "git://github.com/greggman/twgl.js.git",
   "ssh_url": "git@github.com:greggman/twgl.js.git",
   "clone_url": "https://github.com/greggman/twgl.js.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 256,
+  "forks_count": 255,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,7 +102,7 @@
     "webgl2"
   ],
   "visibility": "public",
-  "forks": 256,
+  "forks": 255,
   "open_issues": 50,
   "watchers": 2420,
   "default_branch": "master",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1540
+  "_index": 1542
 }

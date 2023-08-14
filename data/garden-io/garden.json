@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/garden-io/garden/releases{/id}",
   "deployments_url": "https://api.github.com/repos/garden-io/garden/deployments",
   "created_at": "2017-12-03T02:10:59Z",
-  "updated_at": "2023-08-09T20:59:13Z",
-  "pushed_at": "2023-08-12T11:47:03Z",
+  "updated_at": "2023-08-13T05:32:16Z",
+  "pushed_at": "2023-08-13T23:40:26Z",
   "git_url": "git://github.com/garden-io/garden.git",
   "ssh_url": "git@github.com:garden-io/garden.git",
   "clone_url": "https://github.com/garden-io/garden.git",
   "svn_url": "https://github.com/garden-io/garden",
   "homepage": "https://garden.io",
-  "size": 91528,
-  "stargazers_count": 2902,
-  "watchers_count": 2902,
+  "size": 91796,
+  "stargazers_count": 2903,
+  "watchers_count": 2903,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 227,
   "open_issues": 230,
-  "watchers": 2902,
+  "watchers": 2903,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 908
+  "_index": 910
 }

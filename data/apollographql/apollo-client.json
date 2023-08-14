@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/apollographql/apollo-client/releases{/id}",
   "deployments_url": "https://api.github.com/repos/apollographql/apollo-client/deployments",
   "created_at": "2016-02-26T20:25:00Z",
-  "updated_at": "2023-08-12T15:49:41Z",
-  "pushed_at": "2023-08-12T15:43:25Z",
+  "updated_at": "2023-08-13T16:16:43Z",
+  "pushed_at": "2023-08-13T23:08:19Z",
   "git_url": "git://github.com/apollographql/apollo-client.git",
   "ssh_url": "git@github.com:apollographql/apollo-client.git",
   "clone_url": "https://github.com/apollographql/apollo-client.git",
   "svn_url": "https://github.com/apollographql/apollo-client",
   "homepage": "https://apollographql.com/client",
-  "size": 78027,
-  "stargazers_count": 18872,
-  "watchers_count": 18872,
+  "size": 78072,
+  "stargazers_count": 18876,
+  "watchers_count": 18876,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 2593,
   "open_issues": 499,
-  "watchers": 18872,
+  "watchers": 18876,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 468
+  "_index": 470
 }

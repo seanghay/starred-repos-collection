@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/theapache64/gpm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/theapache64/gpm/deployments",
   "created_at": "2020-04-28T01:44:56Z",
-  "updated_at": "2023-07-25T12:31:25Z",
+  "updated_at": "2023-08-13T11:11:55Z",
   "pushed_at": "2022-02-12T18:53:34Z",
   "git_url": "git://github.com/theapache64/gpm.git",
   "ssh_url": "git@github.com:theapache64/gpm.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/theapache64/gpm",
   "homepage": "",
   "size": 3408,
-  "stargazers_count": 75,
-  "watchers_count": 75,
+  "stargazers_count": 74,
+  "watchers_count": 74,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 1,
   "open_issues": 16,
-  "watchers": 75,
+  "watchers": 74,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1348
+  "_index": 1350
 }

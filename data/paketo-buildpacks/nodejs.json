@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 21,
+  "forks_count": 22,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -101,7 +101,7 @@
     "cnb"
   ],
   "visibility": "public",
-  "forks": 21,
+  "forks": 22,
   "open_issues": 12,
   "watchers": 50,
   "default_branch": "main",
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 469
+  "_index": 471
 }

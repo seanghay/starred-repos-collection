@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/TradeMe/Covert/releases{/id}",
   "deployments_url": "https://api.github.com/repos/TradeMe/Covert/deployments",
   "created_at": "2018-09-06T03:26:50Z",
-  "updated_at": "2023-05-30T14:35:54Z",
+  "updated_at": "2023-08-13T11:42:43Z",
   "pushed_at": "2022-03-30T20:44:35Z",
   "git_url": "git://github.com/TradeMe/Covert.git",
   "ssh_url": "git@github.com:TradeMe/Covert.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/TradeMe/Covert",
   "homepage": null,
   "size": 1309,
-  "stargazers_count": 366,
-  "watchers_count": 366,
+  "stargazers_count": 365,
+  "watchers_count": 365,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 19,
   "open_issues": 4,
-  "watchers": 366,
+  "watchers": 365,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2055
+  "_index": 2057
 }
