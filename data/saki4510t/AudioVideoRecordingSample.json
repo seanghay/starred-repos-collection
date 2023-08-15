@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/saki4510t/AudioVideoRecordingSample/releases{/id}",
   "deployments_url": "https://api.github.com/repos/saki4510t/AudioVideoRecordingSample/deployments",
   "created_at": "2014-08-25T00:03:45Z",
-  "updated_at": "2023-08-10T14:45:23Z",
+  "updated_at": "2023-08-14T10:10:03Z",
   "pushed_at": "2023-05-21T03:44:28Z",
   "git_url": "git://github.com/saki4510t/AudioVideoRecordingSample.git",
   "ssh_url": "git@github.com:saki4510t/AudioVideoRecordingSample.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/saki4510t/AudioVideoRecordingSample",
   "homepage": null,
   "size": 703,
-  "stargazers_count": 920,
-  "watchers_count": 920,
+  "stargazers_count": 921,
+  "watchers_count": 921,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 293,
   "open_issues": 22,
-  "watchers": 920,
+  "watchers": 921,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2514
+  "_index": 2517
 }

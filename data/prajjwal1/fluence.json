@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/prajjwal1/fluence/releases{/id}",
   "deployments_url": "https://api.github.com/repos/prajjwal1/fluence/deployments",
   "created_at": "2020-02-18T03:52:09Z",
-  "updated_at": "2023-05-10T10:37:09Z",
+  "updated_at": "2023-08-14T03:51:10Z",
   "pushed_at": "2021-11-30T22:45:01Z",
   "git_url": "git://github.com/prajjwal1/fluence.git",
   "ssh_url": "git@github.com:prajjwal1/fluence.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/prajjwal1/fluence",
   "homepage": "",
   "size": 3275,
-  "stargazers_count": 63,
-  "watchers_count": 63,
+  "stargazers_count": 64,
+  "watchers_count": 64,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 2,
   "open_issues": 0,
-  "watchers": 63,
+  "watchers": 64,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 270
+  "_index": 273
 }

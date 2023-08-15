@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/pocketbase/pocketbase/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pocketbase/pocketbase/deployments",
   "created_at": "2022-07-05T06:06:21Z",
-  "updated_at": "2023-08-13T19:57:05Z",
-  "pushed_at": "2023-08-11T12:18:43Z",
+  "updated_at": "2023-08-15T00:21:52Z",
+  "pushed_at": "2023-08-14T22:25:12Z",
   "git_url": "git://github.com/pocketbase/pocketbase.git",
   "ssh_url": "git@github.com:pocketbase/pocketbase.git",
   "clone_url": "https://github.com/pocketbase/pocketbase.git",
   "svn_url": "https://github.com/pocketbase/pocketbase",
   "homepage": "https://pocketbase.io",
-  "size": 33051,
-  "stargazers_count": 25191,
-  "watchers_count": 25191,
+  "size": 33468,
+  "stargazers_count": 25208,
+  "watchers_count": 25208,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 1037,
   "open_issues": 44,
-  "watchers": 25191,
+  "watchers": 25208,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 743
+  "_index": 746
 }

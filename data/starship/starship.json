@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/starship/starship/releases{/id}",
   "deployments_url": "https://api.github.com/repos/starship/starship/deployments",
   "created_at": "2019-04-02T03:23:12Z",
-  "updated_at": "2023-08-14T01:11:53Z",
-  "pushed_at": "2023-08-14T01:03:40Z",
+  "updated_at": "2023-08-14T23:40:08Z",
+  "pushed_at": "2023-08-14T21:23:07Z",
   "git_url": "git://github.com/starship/starship.git",
   "ssh_url": "git@github.com:starship/starship.git",
   "clone_url": "https://github.com/starship/starship.git",
   "svn_url": "https://github.com/starship/starship",
   "homepage": "https://starship.rs",
-  "size": 31654,
-  "stargazers_count": 35609,
-  "watchers_count": 35609,
+  "size": 31658,
+  "stargazers_count": 35626,
+  "watchers_count": 35626,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1513,
+  "forks_count": 1514,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 576,
+  "open_issues_count": 579,
   "license": {
     "key": "isc",
     "name": "ISC License",
@@ -112,9 +112,9 @@
     "zsh-theme"
   ],
   "visibility": "public",
-  "forks": 1513,
-  "open_issues": 576,
-  "watchers": 35609,
+  "forks": 1514,
+  "open_issues": 579,
+  "watchers": 35626,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1856
+  "_index": 1859
 }
