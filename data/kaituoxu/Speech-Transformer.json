@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 193,
+  "forks_count": 192,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -101,7 +101,7 @@
     "transformer"
   ],
   "visibility": "public",
-  "forks": 193,
+  "forks": 192,
   "open_issues": 6,
   "watchers": 730,
   "default_branch": "master",
