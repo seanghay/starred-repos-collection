@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/SherlockGougou/BigImageViewPager/releases{/id}",
   "deployments_url": "https://api.github.com/repos/SherlockGougou/BigImageViewPager/deployments",
   "created_at": "2018-05-21T10:11:44Z",
-  "updated_at": "2023-08-14T11:33:57Z",
+  "updated_at": "2023-08-16T02:46:59Z",
   "pushed_at": "2023-07-21T08:02:17Z",
   "git_url": "git://github.com/SherlockGougou/BigImageViewPager.git",
   "ssh_url": "git@github.com:SherlockGougou/BigImageViewPager.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/SherlockGougou/BigImageViewPager",
   "homepage": "",
   "size": 16222,
-  "stargazers_count": 1985,
-  "watchers_count": 1985,
+  "stargazers_count": 1986,
+  "watchers_count": 1986,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 237,
   "open_issues": 19,
-  "watchers": 1985,
+  "watchers": 1986,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2030
+  "_index": 2033
 }

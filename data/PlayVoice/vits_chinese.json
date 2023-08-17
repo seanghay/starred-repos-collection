@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/PlayVoice/vits_chinese/releases{/id}",
   "deployments_url": "https://api.github.com/repos/PlayVoice/vits_chinese/deployments",
   "created_at": "2021-09-27T03:39:50Z",
-  "updated_at": "2023-08-16T01:05:05Z",
-  "pushed_at": "2023-06-21T01:03:14Z",
+  "updated_at": "2023-08-17T00:50:37Z",
+  "pushed_at": "2023-08-16T08:06:23Z",
   "git_url": "git://github.com/PlayVoice/vits_chinese.git",
   "ssh_url": "git@github.com:PlayVoice/vits_chinese.git",
   "clone_url": "https://github.com/PlayVoice/vits_chinese.git",
   "svn_url": "https://github.com/PlayVoice/vits_chinese",
   "homepage": "https://huggingface.co/spaces/maxmax20160403/vits_chinese",
   "size": 2937,
-  "stargazers_count": 665,
-  "watchers_count": 665,
+  "stargazers_count": 669,
+  "watchers_count": 669,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 103,
+  "forks_count": 105,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 66,
+  "open_issues_count": 67,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,9 +103,9 @@
     "vits"
   ],
   "visibility": "public",
-  "forks": 103,
-  "open_issues": 66,
-  "watchers": 665,
+  "forks": 105,
+  "open_issues": 67,
+  "watchers": 669,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 25
+  "_index": 28
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/google/uuid/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/uuid/deployments",
   "created_at": "2016-02-12T22:17:59Z",
-  "updated_at": "2023-08-15T20:01:19Z",
-  "pushed_at": "2023-08-03T09:55:02Z",
+  "updated_at": "2023-08-16T20:29:57Z",
+  "pushed_at": "2023-08-17T00:00:26Z",
   "git_url": "git://github.com/google/uuid.git",
   "ssh_url": "git@github.com:google/uuid.git",
   "clone_url": "https://github.com/google/uuid.git",
   "svn_url": "https://github.com/google/uuid",
   "homepage": "",
   "size": 148,
-  "stargazers_count": 4497,
-  "watchers_count": 4497,
+  "stargazers_count": 4499,
+  "watchers_count": 4499,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 359,
+  "forks_count": 361,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 34,
+  "open_issues_count": 35,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -102,9 +102,9 @@
     "uuid"
   ],
   "visibility": "public",
-  "forks": 359,
-  "open_issues": 34,
-  "watchers": 4497,
+  "forks": 361,
+  "open_issues": 35,
+  "watchers": 4499,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1487
+  "_index": 1490
 }

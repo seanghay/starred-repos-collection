@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mlfoundations/open_clip/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mlfoundations/open_clip/deployments",
   "created_at": "2021-07-28T23:24:39Z",
-  "updated_at": "2023-08-15T20:51:41Z",
+  "updated_at": "2023-08-16T21:28:24Z",
   "pushed_at": "2023-08-14T02:23:10Z",
   "git_url": "git://github.com/mlfoundations/open_clip.git",
   "ssh_url": "git@github.com:mlfoundations/open_clip.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mlfoundations/open_clip",
   "homepage": "",
   "size": 13312,
-  "stargazers_count": 5862,
-  "watchers_count": 5862,
+  "stargazers_count": 5869,
+  "watchers_count": 5869,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 591,
+  "forks_count": 592,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 119,
+  "open_issues_count": 120,
   "license": {
     "key": "other",
     "name": "Other",
@@ -108,9 +108,9 @@
     "zero-shot-classification"
   ],
   "visibility": "public",
-  "forks": 591,
-  "open_issues": 119,
-  "watchers": 5862,
+  "forks": 592,
+  "open_issues": 120,
+  "watchers": 5869,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 276
+  "_index": 279
 }

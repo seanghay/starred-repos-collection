@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/SimonFairbairn/SwiftyMarkdown/releases{/id}",
   "deployments_url": "https://api.github.com/repos/SimonFairbairn/SwiftyMarkdown/deployments",
   "created_at": "2016-03-05T09:09:08Z",
-  "updated_at": "2023-08-14T04:34:35Z",
+  "updated_at": "2023-08-16T04:18:48Z",
   "pushed_at": "2023-06-16T10:44:13Z",
   "git_url": "git://github.com/SimonFairbairn/SwiftyMarkdown.git",
   "ssh_url": "git@github.com:SimonFairbairn/SwiftyMarkdown.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/SimonFairbairn/SwiftyMarkdown",
   "homepage": "",
   "size": 335,
-  "stargazers_count": 1533,
-  "watchers_count": 1533,
+  "stargazers_count": 1534,
+  "watchers_count": 1534,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 251,
+  "forks_count": 252,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "markdown-converter"
   ],
   "visibility": "public",
-  "forks": 251,
+  "forks": 252,
   "open_issues": 45,
-  "watchers": 1533,
+  "watchers": 1534,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1363
+  "_index": 1366
 }

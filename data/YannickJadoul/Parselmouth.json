@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/YannickJadoul/Parselmouth/releases{/id}",
   "deployments_url": "https://api.github.com/repos/YannickJadoul/Parselmouth/deployments",
   "created_at": "2017-06-06T15:57:13Z",
-  "updated_at": "2023-08-14T09:03:38Z",
+  "updated_at": "2023-08-16T06:53:23Z",
   "pushed_at": "2023-08-14T21:47:21Z",
   "git_url": "git://github.com/YannickJadoul/Parselmouth.git",
   "ssh_url": "git@github.com:YannickJadoul/Parselmouth.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/YannickJadoul/Parselmouth",
   "homepage": "https://parselmouth.readthedocs.io/",
   "size": 78822,
-  "stargazers_count": 905,
-  "watchers_count": 905,
+  "stargazers_count": 906,
+  "watchers_count": 906,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 105,
+  "forks_count": 106,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 105,
+  "forks": 106,
   "open_issues": 10,
-  "watchers": 905,
+  "watchers": 906,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 223
+  "_index": 226
 }

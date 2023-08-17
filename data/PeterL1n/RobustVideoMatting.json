@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/PeterL1n/RobustVideoMatting/releases{/id}",
   "deployments_url": "https://api.github.com/repos/PeterL1n/RobustVideoMatting/deployments",
   "created_at": "2021-08-30T20:57:44Z",
-  "updated_at": "2023-08-16T00:47:44Z",
+  "updated_at": "2023-08-16T11:24:26Z",
   "pushed_at": "2023-07-29T16:05:26Z",
   "git_url": "git://github.com/PeterL1n/RobustVideoMatting.git",
   "ssh_url": "git@github.com:PeterL1n/RobustVideoMatting.git",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1307
+  "_index": 1310
 }
