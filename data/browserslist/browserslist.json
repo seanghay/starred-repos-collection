@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/browserslist/browserslist/releases{/id}",
   "deployments_url": "https://api.github.com/repos/browserslist/browserslist/deployments",
   "created_at": "2014-12-13T19:35:45Z",
-  "updated_at": "2023-08-16T20:07:36Z",
+  "updated_at": "2023-08-18T00:53:36Z",
   "pushed_at": "2023-07-30T21:58:15Z",
   "git_url": "git://github.com/browserslist/browserslist.git",
   "ssh_url": "git@github.com:browserslist/browserslist.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 705,
+  "forks_count": 706,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,7 +99,7 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 705,
+  "forks": 706,
   "open_issues": 39,
   "watchers": 12216,
   "default_branch": "main",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1201
+  "_index": 1202
 }

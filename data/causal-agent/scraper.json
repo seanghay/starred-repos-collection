@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 82,
+  "forks_count": 83,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 8,
+  "open_issues_count": 7,
   "license": {
     "key": "isc",
     "name": "ISC License",
@@ -102,8 +102,8 @@
     "rust"
   ],
   "visibility": "public",
-  "forks": 82,
-  "open_issues": 8,
+  "forks": 83,
+  "open_issues": 7,
   "watchers": 1474,
   "default_branch": "master",
   "permissions": {
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 573
+  "_index": 574
 }

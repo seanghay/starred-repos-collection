@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/zyao89/ZLoading/releases{/id}",
   "deployments_url": "https://api.github.com/repos/zyao89/ZLoading/deployments",
   "created_at": "2017-03-19T17:15:27Z",
-  "updated_at": "2023-08-07T08:01:32Z",
+  "updated_at": "2023-08-17T03:18:57Z",
   "pushed_at": "2020-03-11T04:31:09Z",
   "git_url": "git://github.com/zyao89/ZLoading.git",
   "ssh_url": "git@github.com:zyao89/ZLoading.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/zyao89/ZLoading",
   "homepage": "",
   "size": 12646,
-  "stargazers_count": 590,
-  "watchers_count": 590,
+  "stargazers_count": 591,
+  "watchers_count": 591,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 114,
   "open_issues": 5,
-  "watchers": 590,
+  "watchers": 591,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2082
+  "_index": 2083
 }

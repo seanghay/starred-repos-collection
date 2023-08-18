@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Devlight/InfiniteCycleViewPager/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Devlight/InfiniteCycleViewPager/deployments",
   "created_at": "2016-08-22T08:04:39Z",
-  "updated_at": "2023-08-10T05:33:54Z",
+  "updated_at": "2023-08-17T05:38:06Z",
   "pushed_at": "2022-08-09T20:20:47Z",
   "git_url": "git://github.com/Devlight/InfiniteCycleViewPager.git",
   "ssh_url": "git@github.com:Devlight/InfiniteCycleViewPager.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Devlight/InfiniteCycleViewPager",
   "homepage": null,
   "size": 279,
-  "stargazers_count": 5765,
-  "watchers_count": 5765,
+  "stargazers_count": 5766,
+  "watchers_count": 5766,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 844,
   "open_issues": 57,
-  "watchers": 5765,
+  "watchers": 5766,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2291
+  "_index": 2292
 }
