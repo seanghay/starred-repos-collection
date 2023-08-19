@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/donkingliang/LabelsView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/donkingliang/LabelsView/deployments",
   "created_at": "2017-03-07T11:11:59Z",
-  "updated_at": "2023-08-14T05:02:16Z",
+  "updated_at": "2023-08-18T11:26:48Z",
   "pushed_at": "2023-05-09T12:10:39Z",
   "git_url": "git://github.com/donkingliang/LabelsView.git",
   "ssh_url": "git@github.com:donkingliang/LabelsView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/donkingliang/LabelsView",
   "homepage": "",
   "size": 355,
-  "stargazers_count": 984,
-  "watchers_count": 984,
+  "stargazers_count": 985,
+  "watchers_count": 985,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 161,
   "open_issues": 17,
-  "watchers": 984,
+  "watchers": 985,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2001
+  "_index": 2007
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/facebookresearch/AnimatedDrawings/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookresearch/AnimatedDrawings/deployments",
   "created_at": "2022-11-30T19:16:21Z",
-  "updated_at": "2023-08-17T07:49:32Z",
+  "updated_at": "2023-08-19T00:19:56Z",
   "pushed_at": "2023-08-16T00:02:27Z",
   "git_url": "git://github.com/facebookresearch/AnimatedDrawings.git",
   "ssh_url": "git@github.com:facebookresearch/AnimatedDrawings.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/facebookresearch/AnimatedDrawings",
   "homepage": "",
   "size": 113046,
-  "stargazers_count": 8640,
-  "watchers_count": 8640,
+  "stargazers_count": 8686,
+  "watchers_count": 8686,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 702,
+  "forks_count": 709,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 702,
+  "forks": 709,
   "open_issues": 10,
-  "watchers": 8640,
+  "watchers": 8686,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 323
+  "_index": 329
 }

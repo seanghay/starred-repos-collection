@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/charleskorn/kaml/releases{/id}",
   "deployments_url": "https://api.github.com/repos/charleskorn/kaml/deployments",
   "created_at": "2018-12-15T17:31:13Z",
-  "updated_at": "2023-08-08T10:37:14Z",
+  "updated_at": "2023-08-19T00:00:51Z",
   "pushed_at": "2023-08-17T14:14:23Z",
   "git_url": "git://github.com/charleskorn/kaml.git",
   "ssh_url": "git@github.com:charleskorn/kaml.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/charleskorn/kaml",
   "homepage": "",
   "size": 1661,
-  "stargazers_count": 387,
-  "watchers_count": 387,
+  "stargazers_count": 389,
+  "watchers_count": 389,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 34,
+  "forks_count": 33,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,9 +103,9 @@
     "yaml"
   ],
   "visibility": "public",
-  "forks": 34,
+  "forks": 33,
   "open_issues": 5,
-  "watchers": 387,
+  "watchers": 389,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1793
+  "_index": 1799
 }

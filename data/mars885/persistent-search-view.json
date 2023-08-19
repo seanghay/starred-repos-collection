@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mars885/persistent-search-view/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mars885/persistent-search-view/deployments",
   "created_at": "2018-08-08T13:57:40Z",
-  "updated_at": "2023-08-13T11:40:51Z",
+  "updated_at": "2023-08-18T20:50:58Z",
   "pushed_at": "2022-08-06T16:16:21Z",
   "git_url": "git://github.com/mars885/persistent-search-view.git",
   "ssh_url": "git@github.com:mars885/persistent-search-view.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mars885/persistent-search-view",
   "homepage": "",
   "size": 698,
-  "stargazers_count": 411,
-  "watchers_count": 411,
+  "stargazers_count": 412,
+  "watchers_count": 412,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 39,
   "open_issues": 11,
-  "watchers": 411,
+  "watchers": 412,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2285
+  "_index": 2291
 }

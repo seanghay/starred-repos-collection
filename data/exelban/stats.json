@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/exelban/stats/releases{/id}",
   "deployments_url": "https://api.github.com/repos/exelban/stats/deployments",
   "created_at": "2019-05-29T19:24:56Z",
-  "updated_at": "2023-08-17T17:14:05Z",
-  "pushed_at": "2023-08-17T12:42:46Z",
+  "updated_at": "2023-08-19T00:53:49Z",
+  "pushed_at": "2023-08-18T09:24:15Z",
   "git_url": "git://github.com/exelban/stats.git",
   "ssh_url": "git@github.com:exelban/stats.git",
   "clone_url": "https://github.com/exelban/stats.git",
   "svn_url": "https://github.com/exelban/stats",
   "homepage": "",
-  "size": 54634,
-  "stargazers_count": 17399,
-  "watchers_count": 17399,
+  "size": 54794,
+  "stargazers_count": 17406,
+  "watchers_count": 17406,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 604,
+  "forks_count": 605,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -114,9 +114,9 @@
     "temperature"
   ],
   "visibility": "public",
-  "forks": 604,
+  "forks": 605,
   "open_issues": 10,
-  "watchers": 17399,
+  "watchers": 17406,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1783
+  "_index": 1789
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/android/renderscript-samples/releases{/id}",
   "deployments_url": "https://api.github.com/repos/android/renderscript-samples/deployments",
   "created_at": "2019-08-08T04:45:19Z",
-  "updated_at": "2023-07-13T01:48:20Z",
+  "updated_at": "2023-08-18T05:02:35Z",
   "pushed_at": "2023-03-14T10:16:40Z",
   "git_url": "git://github.com/android/renderscript-samples.git",
   "ssh_url": "git@github.com:android/renderscript-samples.git",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2438
+  "_index": 2444
 }

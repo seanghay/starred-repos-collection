@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/activeloopai/deeplake/releases{/id}",
   "deployments_url": "https://api.github.com/repos/activeloopai/deeplake/deployments",
   "created_at": "2019-08-09T06:17:59Z",
-  "updated_at": "2023-08-17T17:22:03Z",
-  "pushed_at": "2023-08-17T20:10:28Z",
+  "updated_at": "2023-08-19T00:42:06Z",
+  "pushed_at": "2023-08-18T21:55:28Z",
   "git_url": "git://github.com/activeloopai/deeplake.git",
   "ssh_url": "git@github.com:activeloopai/deeplake.git",
   "clone_url": "https://github.com/activeloopai/deeplake.git",
   "svn_url": "https://github.com/activeloopai/deeplake",
   "homepage": "https://activeloop.ai",
-  "size": 66686,
-  "stargazers_count": 6685,
-  "watchers_count": 6685,
+  "size": 66610,
+  "stargazers_count": 6694,
+  "watchers_count": 6694,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 513,
+  "forks_count": 514,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 60,
+  "open_issues_count": 62,
   "license": {
     "key": "mpl-2.0",
     "name": "Mozilla Public License 2.0",
@@ -120,9 +120,9 @@
     "vector-search"
   ],
   "visibility": "public",
-  "forks": 513,
-  "open_issues": 60,
-  "watchers": 6685,
+  "forks": 514,
+  "open_issues": 62,
+  "watchers": 6694,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 338
+  "_index": 344
 }

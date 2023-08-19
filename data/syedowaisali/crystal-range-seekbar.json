@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/syedowaisali/crystal-range-seekbar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/syedowaisali/crystal-range-seekbar/deployments",
   "created_at": "2016-07-17T06:08:23Z",
-  "updated_at": "2023-08-04T07:46:21Z",
+  "updated_at": "2023-08-18T07:13:40Z",
   "pushed_at": "2020-04-19T11:05:54Z",
   "git_url": "git://github.com/syedowaisali/crystal-range-seekbar.git",
   "ssh_url": "git@github.com:syedowaisali/crystal-range-seekbar.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/syedowaisali/crystal-range-seekbar",
   "homepage": null,
   "size": 240,
-  "stargazers_count": 532,
-  "watchers_count": 532,
+  "stargazers_count": 533,
+  "watchers_count": 533,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 167,
   "open_issues": 69,
-  "watchers": 532,
+  "watchers": 533,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2217
+  "_index": 2223
 }

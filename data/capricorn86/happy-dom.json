@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/capricorn86/happy-dom/releases{/id}",
   "deployments_url": "https://api.github.com/repos/capricorn86/happy-dom/deployments",
   "created_at": "2019-09-09T19:53:08Z",
-  "updated_at": "2023-08-17T15:42:17Z",
-  "pushed_at": "2023-08-17T11:47:03Z",
+  "updated_at": "2023-08-18T16:22:18Z",
+  "pushed_at": "2023-08-18T09:38:16Z",
   "git_url": "git://github.com/capricorn86/happy-dom.git",
   "ssh_url": "git@github.com:capricorn86/happy-dom.git",
   "clone_url": "https://github.com/capricorn86/happy-dom.git",
   "svn_url": "https://github.com/capricorn86/happy-dom",
   "homepage": "",
-  "size": 7475,
-  "stargazers_count": 2184,
-  "watchers_count": 2184,
+  "size": 7479,
+  "stargazers_count": 2186,
+  "watchers_count": 2186,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 125,
+  "forks_count": 126,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 94,
+  "open_issues_count": 92,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -115,9 +115,9 @@
     "whatwg"
   ],
   "visibility": "public",
-  "forks": 125,
-  "open_issues": 94,
-  "watchers": 2184,
+  "forks": 126,
+  "open_issues": 92,
+  "watchers": 2186,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1087
+  "_index": 1093
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/anuraghazra/github-readme-stats/releases{/id}",
   "deployments_url": "https://api.github.com/repos/anuraghazra/github-readme-stats/deployments",
   "created_at": "2020-07-09T10:34:22Z",
-  "updated_at": "2023-08-18T01:21:03Z",
-  "pushed_at": "2023-08-17T07:49:21Z",
+  "updated_at": "2023-08-19T00:20:28Z",
+  "pushed_at": "2023-08-18T07:48:00Z",
   "git_url": "git://github.com/anuraghazra/github-readme-stats.git",
   "ssh_url": "git@github.com:anuraghazra/github-readme-stats.git",
   "clone_url": "https://github.com/anuraghazra/github-readme-stats.git",
   "svn_url": "https://github.com/anuraghazra/github-readme-stats",
   "homepage": "https://github-readme-stats.vercel.app",
-  "size": 3070,
-  "stargazers_count": 58165,
-  "watchers_count": 58165,
+  "size": 3007,
+  "stargazers_count": 58203,
+  "watchers_count": 58203,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 18103,
+  "forks_count": 18121,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 260,
+  "open_issues_count": 259,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,9 +106,9 @@
     "serverless"
   ],
   "visibility": "public",
-  "forks": 18103,
-  "open_issues": 260,
-  "watchers": 58165,
+  "forks": 18121,
+  "open_issues": 259,
+  "watchers": 58203,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1751
+  "_index": 1757
 }

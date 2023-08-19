@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/tus/tus-js-client/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tus/tus-js-client/deployments",
   "created_at": "2015-04-06T17:11:33Z",
-  "updated_at": "2023-08-17T04:12:55Z",
-  "pushed_at": "2023-08-03T12:10:58Z",
+  "updated_at": "2023-08-18T15:17:39Z",
+  "pushed_at": "2023-08-18T18:45:22Z",
   "git_url": "git://github.com/tus/tus-js-client.git",
   "ssh_url": "git@github.com:tus/tus-js-client.git",
   "clone_url": "https://github.com/tus/tus-js-client.git",
   "svn_url": "https://github.com/tus/tus-js-client",
   "homepage": "https://tus.io/",
-  "size": 13209,
-  "stargazers_count": 1760,
-  "watchers_count": 1760,
+  "size": 13210,
+  "stargazers_count": 1762,
+  "watchers_count": 1762,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 287,
   "open_issues": 46,
-  "watchers": 1760,
+  "watchers": 1762,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1597
+  "_index": 1603
 }

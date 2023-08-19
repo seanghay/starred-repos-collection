@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/akshay2211/PixImagePicker/deployments",
   "created_at": "2018-05-07T02:56:26Z",
   "updated_at": "2023-08-14T05:52:03Z",
-  "pushed_at": "2022-12-07T17:58:33Z",
+  "pushed_at": "2023-08-18T18:24:36Z",
   "git_url": "git://github.com/akshay2211/PixImagePicker.git",
   "ssh_url": "git@github.com:akshay2211/PixImagePicker.git",
   "clone_url": "https://github.com/akshay2211/PixImagePicker.git",
   "svn_url": "https://github.com/akshay2211/PixImagePicker",
   "homepage": "",
-  "size": 16888,
+  "size": 16891,
   "stargazers_count": 780,
   "watchers_count": 780,
   "language": "Kotlin",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2134
+  "_index": 2140
 }

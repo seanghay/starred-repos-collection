@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/imandolatkia/Android-Animated-Theme-Manager/releases{/id}",
   "deployments_url": "https://api.github.com/repos/imandolatkia/Android-Animated-Theme-Manager/deployments",
   "created_at": "2021-08-14T10:22:28Z",
-  "updated_at": "2023-08-14T07:17:42Z",
+  "updated_at": "2023-08-18T12:58:09Z",
   "pushed_at": "2022-04-14T18:13:13Z",
   "git_url": "git://github.com/imandolatkia/Android-Animated-Theme-Manager.git",
   "ssh_url": "git@github.com:imandolatkia/Android-Animated-Theme-Manager.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/imandolatkia/Android-Animated-Theme-Manager",
   "homepage": "",
   "size": 1046,
-  "stargazers_count": 644,
-  "watchers_count": 644,
+  "stargazers_count": 645,
+  "watchers_count": 645,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 59,
+  "forks_count": 60,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,9 +109,9 @@
     "thememanager"
   ],
   "visibility": "public",
-  "forks": 59,
+  "forks": 60,
   "open_issues": 9,
-  "watchers": 644,
+  "watchers": 645,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1047
+  "_index": 1053
 }

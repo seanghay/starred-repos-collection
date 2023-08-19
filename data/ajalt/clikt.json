@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ajalt/clikt/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ajalt/clikt/deployments",
   "created_at": "2018-04-10T18:04:56Z",
-  "updated_at": "2023-08-15T09:35:37Z",
-  "pushed_at": "2023-08-08T15:42:13Z",
+  "updated_at": "2023-08-18T17:28:26Z",
+  "pushed_at": "2023-08-18T16:40:22Z",
   "git_url": "git://github.com/ajalt/clikt.git",
   "ssh_url": "git@github.com:ajalt/clikt.git",
   "clone_url": "https://github.com/ajalt/clikt.git",
   "svn_url": "https://github.com/ajalt/clikt",
   "homepage": "https://ajalt.github.io/clikt/",
-  "size": 19977,
-  "stargazers_count": 2155,
-  "watchers_count": 2155,
+  "size": 19980,
+  "stargazers_count": 2157,
+  "watchers_count": 2157,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 13,
+  "open_issues_count": 12,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -109,8 +109,8 @@
   ],
   "visibility": "public",
   "forks": 114,
-  "open_issues": 13,
-  "watchers": 2155,
+  "open_issues": 12,
+  "watchers": 2157,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1683
+  "_index": 1689
 }
