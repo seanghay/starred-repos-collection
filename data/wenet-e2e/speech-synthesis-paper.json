@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wenet-e2e/speech-synthesis-paper/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wenet-e2e/speech-synthesis-paper/deployments",
   "created_at": "2020-08-10T03:52:40Z",
-  "updated_at": "2023-08-17T07:06:09Z",
+  "updated_at": "2023-08-19T13:41:21Z",
   "pushed_at": "2023-07-24T06:46:12Z",
   "git_url": "git://github.com/wenet-e2e/speech-synthesis-paper.git",
   "ssh_url": "git@github.com:wenet-e2e/speech-synthesis-paper.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 42
+  "_index": 48
 }

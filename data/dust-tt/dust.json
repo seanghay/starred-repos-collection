@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/dust-tt/dust/releases{/id}",
   "deployments_url": "https://api.github.com/repos/dust-tt/dust/deployments",
   "created_at": "2022-08-19T07:57:29Z",
-  "updated_at": "2023-08-17T17:02:42Z",
-  "pushed_at": "2023-08-18T17:18:50Z",
+  "updated_at": "2023-08-19T13:37:17Z",
+  "pushed_at": "2023-08-20T18:58:23Z",
   "git_url": "git://github.com/dust-tt/dust.git",
   "ssh_url": "git@github.com:dust-tt/dust.git",
   "clone_url": "https://github.com/dust-tt/dust.git",
   "svn_url": "https://github.com/dust-tt/dust",
   "homepage": "https://dust.tt",
-  "size": 29559,
-  "stargazers_count": 668,
-  "watchers_count": 668,
+  "size": 29561,
+  "stargazers_count": 671,
+  "watchers_count": 671,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 63,
+  "forks_count": 64,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,9 +102,9 @@
     "rust"
   ],
   "visibility": "public",
-  "forks": 63,
+  "forks": 64,
   "open_issues": 22,
-  "watchers": 668,
+  "watchers": 671,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 504
+  "_index": 510
 }

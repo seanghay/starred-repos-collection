@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/square/okio/releases{/id}",
   "deployments_url": "https://api.github.com/repos/square/okio/deployments",
   "created_at": "2014-03-17T00:02:59Z",
-  "updated_at": "2023-08-17T18:11:52Z",
+  "updated_at": "2023-08-19T15:31:27Z",
   "pushed_at": "2023-08-17T11:17:16Z",
   "git_url": "git://github.com/square/okio.git",
   "ssh_url": "git@github.com:square/okio.git",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2590
+  "_index": 2596
 }

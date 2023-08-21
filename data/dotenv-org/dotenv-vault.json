@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/dotenv-org/dotenv-vault/releases{/id}",
   "deployments_url": "https://api.github.com/repos/dotenv-org/dotenv-vault/deployments",
   "created_at": "2022-03-14T08:08:01Z",
-  "updated_at": "2023-08-18T17:36:16Z",
+  "updated_at": "2023-08-19T20:47:43Z",
   "pushed_at": "2023-08-01T19:24:25Z",
   "git_url": "git://github.com/dotenv-org/dotenv-vault.git",
   "ssh_url": "git@github.com:dotenv-org/dotenv-vault.git",
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 984
+  "_index": 990
 }

@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/JuulLabs/kable.git",
   "svn_url": "https://github.com/JuulLabs/kable",
   "homepage": "https://juullabs.github.io/kable",
-  "size": 4761,
+  "size": 4767,
   "stargazers_count": 624,
   "watchers_count": 624,
   "language": "Kotlin",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1314
+  "_index": 1320
 }

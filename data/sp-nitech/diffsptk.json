@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/sp-nitech/diffsptk/deployments",
   "created_at": "2022-03-08T14:28:14Z",
   "updated_at": "2023-08-08T07:22:55Z",
-  "pushed_at": "2023-07-27T06:15:53Z",
+  "pushed_at": "2023-08-21T01:21:16Z",
   "git_url": "git://github.com/sp-nitech/diffsptk.git",
   "ssh_url": "git@github.com:sp-nitech/diffsptk.git",
   "clone_url": "https://github.com/sp-nitech/diffsptk.git",
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 28
+  "_index": 34
 }

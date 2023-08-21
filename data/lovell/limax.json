@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lovell/limax/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lovell/limax/deployments",
   "created_at": "2013-12-17T22:12:34Z",
-  "updated_at": "2023-08-17T03:09:07Z",
+  "updated_at": "2023-08-20T05:13:56Z",
   "pushed_at": "2023-05-30T12:41:09Z",
   "git_url": "git://github.com/lovell/limax.git",
   "ssh_url": "git@github.com:lovell/limax.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lovell/limax",
   "homepage": null,
   "size": 70,
-  "stargazers_count": 543,
-  "watchers_count": 543,
+  "stargazers_count": 544,
+  "watchers_count": 544,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 47,
   "open_issues": 7,
-  "watchers": 543,
+  "watchers": 544,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1315
+  "_index": 1321
 }

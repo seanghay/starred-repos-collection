@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/tokio-rs/tokio/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tokio-rs/tokio/deployments",
   "created_at": "2016-09-09T22:31:36Z",
-  "updated_at": "2023-08-19T01:35:06Z",
-  "pushed_at": "2023-08-18T13:49:22Z",
+  "updated_at": "2023-08-20T22:10:12Z",
+  "pushed_at": "2023-08-20T10:14:42Z",
   "git_url": "git://github.com/tokio-rs/tokio.git",
   "ssh_url": "git@github.com:tokio-rs/tokio.git",
   "clone_url": "https://github.com/tokio-rs/tokio.git",
   "svn_url": "https://github.com/tokio-rs/tokio",
   "homepage": "https://tokio.rs",
-  "size": 12993,
-  "stargazers_count": 21692,
-  "watchers_count": 21692,
+  "size": 12986,
+  "stargazers_count": 21756,
+  "watchers_count": 21756,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2004,
+  "forks_count": 2011,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 274,
+  "open_issues_count": 273,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,9 +103,9 @@
     "rust"
   ],
   "visibility": "public",
-  "forks": 2004,
-  "open_issues": 274,
-  "watchers": 21692,
+  "forks": 2011,
+  "open_issues": 273,
+  "watchers": 21756,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2028
+  "_index": 2034
 }

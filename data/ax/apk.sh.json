@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ax/apk.sh/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ax/apk.sh/deployments",
   "created_at": "2022-09-22T13:23:12Z",
-  "updated_at": "2023-08-18T15:18:42Z",
+  "updated_at": "2023-08-20T12:08:40Z",
   "pushed_at": "2023-08-04T11:15:08Z",
   "git_url": "git://github.com/ax/apk.sh.git",
   "ssh_url": "git@github.com:ax/apk.sh.git",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 595
+  "_index": 601
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/chakra-ui/chakra-ui/releases{/id}",
   "deployments_url": "https://api.github.com/repos/chakra-ui/chakra-ui/deployments",
   "created_at": "2019-08-17T14:27:54Z",
-  "updated_at": "2023-08-18T23:49:12Z",
-  "pushed_at": "2023-08-18T21:52:28Z",
+  "updated_at": "2023-08-21T00:49:48Z",
+  "pushed_at": "2023-08-20T15:34:52Z",
   "git_url": "git://github.com/chakra-ui/chakra-ui.git",
   "ssh_url": "git@github.com:chakra-ui/chakra-ui.git",
   "clone_url": "https://github.com/chakra-ui/chakra-ui.git",
   "svn_url": "https://github.com/chakra-ui/chakra-ui",
   "homepage": "https://chakra-ui.com",
-  "size": 125741,
-  "stargazers_count": 34060,
-  "watchers_count": 34060,
+  "size": 125743,
+  "stargazers_count": 34071,
+  "watchers_count": 34071,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 3000,
   "open_issues": 203,
-  "watchers": 34060,
+  "watchers": 34071,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 278
+  "_index": 284
 }
