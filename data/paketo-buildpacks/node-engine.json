@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/paketo-buildpacks/node-engine.git",
   "svn_url": "https://github.com/paketo-buildpacks/node-engine",
   "homepage": "",
-  "size": 6892,
+  "size": 6895,
   "stargazers_count": 17,
   "watchers_count": 17,
   "language": "Go",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 22,
+  "forks_count": 23,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -101,7 +101,7 @@
     "cnb"
   ],
   "visibility": "public",
-  "forks": 22,
+  "forks": 23,
   "open_issues": 7,
   "watchers": 17,
   "default_branch": "main",
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 875
+  "_index": 877
 }

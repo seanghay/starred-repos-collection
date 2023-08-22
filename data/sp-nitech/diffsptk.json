@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/sp-nitech/diffsptk.git",
   "svn_url": "https://github.com/sp-nitech/diffsptk",
   "homepage": "http://sp-tk.sourceforge.net",
-  "size": 577,
+  "size": 579,
   "stargazers_count": 129,
   "watchers_count": 129,
   "language": "Python",
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 34
+  "_index": 36
 }

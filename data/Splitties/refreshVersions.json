@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Splitties/refreshVersions/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Splitties/refreshVersions/deployments",
   "created_at": "2018-09-29T05:14:46Z",
-  "updated_at": "2023-08-19T06:09:14Z",
-  "pushed_at": "2023-08-17T20:16:31Z",
+  "updated_at": "2023-08-21T11:23:01Z",
+  "pushed_at": "2023-08-21T17:58:26Z",
   "git_url": "git://github.com/Splitties/refreshVersions.git",
   "ssh_url": "git@github.com:Splitties/refreshVersions.git",
   "clone_url": "https://github.com/Splitties/refreshVersions.git",
   "svn_url": "https://github.com/Splitties/refreshVersions",
   "homepage": "https://splitties.github.io/refreshVersions/",
   "size": 12274,
-  "stargazers_count": 1573,
-  "watchers_count": 1573,
+  "stargazers_count": 1575,
+  "watchers_count": 1575,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 106,
+  "forks_count": 107,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 111,
+  "open_issues_count": 113,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,9 +108,9 @@
     "versioning"
   ],
   "visibility": "public",
-  "forks": 106,
-  "open_issues": 111,
-  "watchers": 1573,
+  "forks": 107,
+  "open_issues": 113,
+  "watchers": 1575,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1981
+  "_index": 1983
 }

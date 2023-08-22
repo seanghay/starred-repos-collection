@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/http4k/http4k/releases{/id}",
   "deployments_url": "https://api.github.com/repos/http4k/http4k/deployments",
   "created_at": "2017-03-23T22:28:13Z",
-  "updated_at": "2023-08-19T21:37:23Z",
-  "pushed_at": "2023-08-20T19:20:14Z",
+  "updated_at": "2023-08-21T03:57:21Z",
+  "pushed_at": "2023-08-21T11:33:46Z",
   "git_url": "git://github.com/http4k/http4k.git",
   "ssh_url": "git@github.com:http4k/http4k.git",
   "clone_url": "https://github.com/http4k/http4k.git",
   "svn_url": "https://github.com/http4k/http4k",
   "homepage": "https://http4k.org",
-  "size": 25228,
-  "stargazers_count": 2364,
-  "watchers_count": 2364,
+  "size": 25233,
+  "stargazers_count": 2366,
+  "watchers_count": 2366,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 222,
+  "forks_count": 223,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,9 +109,9 @@
     "typesafe"
   ],
   "visibility": "public",
-  "forks": 222,
+  "forks": 223,
   "open_issues": 28,
-  "watchers": 2364,
+  "watchers": 2366,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2378
+  "_index": 2380
 }

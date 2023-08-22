@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/intel/intel-one-mono/releases{/id}",
   "deployments_url": "https://api.github.com/repos/intel/intel-one-mono/deployments",
   "created_at": "2023-04-11T20:25:19Z",
-  "updated_at": "2023-08-20T21:34:01Z",
-  "pushed_at": "2023-08-04T19:07:03Z",
+  "updated_at": "2023-08-22T00:07:52Z",
+  "pushed_at": "2023-08-21T20:25:54Z",
   "git_url": "git://github.com/intel/intel-one-mono.git",
   "ssh_url": "git@github.com:intel/intel-one-mono.git",
   "clone_url": "https://github.com/intel/intel-one-mono.git",
   "svn_url": "https://github.com/intel/intel-one-mono",
   "homepage": "",
-  "size": 13017,
-  "stargazers_count": 7891,
-  "watchers_count": 7891,
+  "size": 15503,
+  "stargazers_count": 7896,
+  "watchers_count": 7896,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 14,
+  "open_issues_count": 13,
   "license": {
     "key": "ofl-1.1",
     "name": "SIL Open Font License 1.1",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 448,
-  "open_issues": 14,
-  "watchers": 7891,
+  "open_issues": 13,
+  "watchers": 7896,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 203
+  "_index": 205
 }

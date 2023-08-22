@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Mini-ghost/vorms/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Mini-ghost/vorms/deployments",
   "created_at": "2022-04-27T16:26:30Z",
-  "updated_at": "2023-08-21T01:29:59Z",
-  "pushed_at": "2023-08-10T02:32:31Z",
+  "updated_at": "2023-08-22T01:12:17Z",
+  "pushed_at": "2023-08-21T22:20:01Z",
   "git_url": "git://github.com/Mini-ghost/vorms.git",
   "ssh_url": "git@github.com:Mini-ghost/vorms.git",
   "clone_url": "https://github.com/Mini-ghost/vorms.git",
   "svn_url": "https://github.com/Mini-ghost/vorms",
   "homepage": "https://vorms.mini-ghost.dev",
   "size": 479,
-  "stargazers_count": 337,
-  "watchers_count": 337,
+  "stargazers_count": 384,
+  "watchers_count": 384,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 9,
+  "forks_count": 11,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 6,
+  "open_issues_count": 8,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,9 +107,9 @@
     "vuejs3"
   ],
   "visibility": "public",
-  "forks": 9,
-  "open_issues": 6,
-  "watchers": 337,
+  "forks": 11,
+  "open_issues": 8,
+  "watchers": 384,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 5
+  "_index": 7
 }

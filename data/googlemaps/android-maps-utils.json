@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/googlemaps/android-maps-utils/deployments",
   "created_at": "2013-05-17T00:08:48Z",
   "updated_at": "2023-08-17T17:28:25Z",
-  "pushed_at": "2023-08-15T15:27:12Z",
+  "pushed_at": "2023-08-21T14:03:22Z",
   "git_url": "git://github.com/googlemaps/android-maps-utils.git",
   "ssh_url": "git@github.com:googlemaps/android-maps-utils.git",
   "clone_url": "https://github.com/googlemaps/android-maps-utils.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1552,
+  "forks_count": 1551,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 35,
+  "open_issues_count": 36,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -108,8 +108,8 @@
     "utility-library"
   ],
   "visibility": "public",
-  "forks": 1552,
-  "open_issues": 35,
+  "forks": 1551,
+  "open_issues": 36,
   "watchers": 3481,
   "default_branch": "main",
   "permissions": {
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1356
+  "_index": 1358
 }

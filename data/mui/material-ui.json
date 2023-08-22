@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/mui/material-ui/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mui/material-ui/deployments",
   "created_at": "2014-08-18T19:11:54Z",
-  "updated_at": "2023-08-21T00:27:16Z",
-  "pushed_at": "2023-08-21T00:11:53Z",
+  "updated_at": "2023-08-22T01:28:33Z",
+  "pushed_at": "2023-08-22T00:42:57Z",
   "git_url": "git://github.com/mui/material-ui.git",
   "ssh_url": "git@github.com:mui/material-ui.git",
   "clone_url": "https://github.com/mui/material-ui.git",
   "svn_url": "https://github.com/mui/material-ui",
   "homepage": "https://mui.com/core/",
-  "size": 430770,
-  "stargazers_count": 88266,
-  "watchers_count": 88266,
+  "size": 431112,
+  "stargazers_count": 88276,
+  "watchers_count": 88276,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 30063,
   "open_issues": 1603,
-  "watchers": 88266,
+  "watchers": 88276,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2981
+  "_index": 2983
 }

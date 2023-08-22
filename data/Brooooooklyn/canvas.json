@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Brooooooklyn/canvas/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Brooooooklyn/canvas/deployments",
   "created_at": "2020-08-30T03:08:40Z",
-  "updated_at": "2023-08-18T19:01:02Z",
-  "pushed_at": "2023-08-20T15:03:21Z",
+  "updated_at": "2023-08-21T16:18:38Z",
+  "pushed_at": "2023-08-21T10:12:55Z",
   "git_url": "git://github.com/Brooooooklyn/canvas.git",
   "ssh_url": "git@github.com:Brooooooklyn/canvas.git",
   "clone_url": "https://github.com/Brooooooklyn/canvas.git",
   "svn_url": "https://github.com/Brooooooklyn/canvas",
   "homepage": "https://vercel.skia.rs",
-  "size": 50767,
-  "stargazers_count": 1346,
-  "watchers_count": 1346,
+  "size": 50773,
+  "stargazers_count": 1347,
+  "watchers_count": 1347,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 57,
+  "forks_count": 58,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 51,
+  "open_issues_count": 49,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,9 +108,9 @@
     "skia"
   ],
   "visibility": "public",
-  "forks": 57,
-  "open_issues": 51,
-  "watchers": 1346,
+  "forks": 58,
+  "open_issues": 49,
+  "watchers": 1347,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 772
+  "_index": 774
 }

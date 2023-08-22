@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/roedoejet/g2p/deployments",
   "created_at": "2019-05-07T20:59:42Z",
   "updated_at": "2023-08-10T18:57:23Z",
-  "pushed_at": "2023-08-16T19:13:57Z",
+  "pushed_at": "2023-08-21T17:41:48Z",
   "git_url": "git://github.com/roedoejet/g2p.git",
   "ssh_url": "git@github.com:roedoejet/g2p.git",
   "clone_url": "https://github.com/roedoejet/g2p.git",
   "svn_url": "https://github.com/roedoejet/g2p",
   "homepage": "https://g2p-studio.herokuapp.com",
-  "size": 17708,
+  "size": 17712,
   "stargazers_count": 75,
   "watchers_count": 75,
   "language": "Python",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 24,
+  "open_issues_count": 19,
   "license": {
     "key": "other",
     "name": "Other",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 18,
-  "open_issues": 24,
+  "open_issues": 19,
   "watchers": 75,
   "default_branch": "main",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 112
+  "_index": 114
 }
