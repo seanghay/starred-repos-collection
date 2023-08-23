@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Redocly/redoc/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Redocly/redoc/deployments",
   "created_at": "2015-10-30T12:53:02Z",
-  "updated_at": "2023-08-21T19:20:52Z",
+  "updated_at": "2023-08-23T01:29:27Z",
   "pushed_at": "2023-08-18T16:29:23Z",
   "git_url": "git://github.com/Redocly/redoc.git",
   "ssh_url": "git@github.com:Redocly/redoc.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Redocly/redoc",
   "homepage": "https://redocly.github.io/redoc/",
   "size": 56387,
-  "stargazers_count": 20786,
-  "watchers_count": 20786,
+  "stargazers_count": 20792,
+  "watchers_count": 20792,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 2216,
+  "forks_count": 2217,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 317,
+  "open_issues_count": 310,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -111,9 +111,9 @@
     "swagger"
   ],
   "visibility": "public",
-  "forks": 2216,
-  "open_issues": 317,
-  "watchers": 20786,
+  "forks": 2217,
+  "open_issues": 310,
+  "watchers": 20792,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 738
+  "_index": 745
 }

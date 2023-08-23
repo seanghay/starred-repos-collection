@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/espnet/espnet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/espnet/espnet/deployments",
   "created_at": "2017-12-13T00:45:11Z",
-  "updated_at": "2023-08-21T19:03:22Z",
-  "pushed_at": "2023-08-20T20:17:37Z",
+  "updated_at": "2023-08-22T11:54:32Z",
+  "pushed_at": "2023-08-22T17:55:05Z",
   "git_url": "git://github.com/espnet/espnet.git",
   "ssh_url": "git@github.com:espnet/espnet.git",
   "clone_url": "https://github.com/espnet/espnet.git",
   "svn_url": "https://github.com/espnet/espnet",
   "homepage": "https://espnet.github.io/espnet/",
-  "size": 816162,
-  "stargazers_count": 6899,
-  "watchers_count": 6899,
+  "size": 816185,
+  "stargazers_count": 6903,
+  "watchers_count": 6903,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 1975,
+  "forks_count": 1977,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 213,
+  "open_issues_count": 215,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -115,9 +115,9 @@
     "voice-conversion"
   ],
   "visibility": "public",
-  "forks": 1975,
-  "open_issues": 213,
-  "watchers": 6899,
+  "forks": 1977,
+  "open_issues": 215,
+  "watchers": 6903,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 400
+  "_index": 407
 }

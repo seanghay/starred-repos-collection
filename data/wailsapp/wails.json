@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/wailsapp/wails/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wailsapp/wails/deployments",
   "created_at": "2018-12-15T23:14:06Z",
-  "updated_at": "2023-08-22T01:12:53Z",
-  "pushed_at": "2023-08-21T23:45:53Z",
+  "updated_at": "2023-08-22T16:45:26Z",
+  "pushed_at": "2023-08-22T21:07:58Z",
   "git_url": "git://github.com/wailsapp/wails.git",
   "ssh_url": "git@github.com:wailsapp/wails.git",
   "clone_url": "https://github.com/wailsapp/wails.git",
   "svn_url": "https://github.com/wailsapp/wails",
   "homepage": "https://wails.io",
-  "size": 93048,
-  "stargazers_count": 17187,
-  "watchers_count": 17187,
+  "size": 93023,
+  "stargazers_count": 17195,
+  "watchers_count": 17195,
   "language": "MDX",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 831,
+  "forks_count": 833,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 187,
+  "open_issues_count": 191,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -111,9 +111,9 @@
     "windows"
   ],
   "visibility": "public",
-  "forks": 831,
-  "open_issues": 187,
-  "watchers": 17187,
+  "forks": 833,
+  "open_issues": 191,
+  "watchers": 17195,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1407
+  "_index": 1414
 }

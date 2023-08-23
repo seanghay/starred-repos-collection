@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/ealush/vest/deployments",
   "created_at": "2019-11-26T22:10:41Z",
   "updated_at": "2023-08-19T22:44:44Z",
-  "pushed_at": "2023-08-22T00:57:34Z",
+  "pushed_at": "2023-08-23T00:56:44Z",
   "git_url": "git://github.com/ealush/vest.git",
   "ssh_url": "git@github.com:ealush/vest.git",
   "clone_url": "https://github.com/ealush/vest.git",
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 888
+  "_index": 895
 }

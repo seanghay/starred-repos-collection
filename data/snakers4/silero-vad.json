@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/snakers4/silero-vad/releases{/id}",
   "deployments_url": "https://api.github.com/repos/snakers4/silero-vad/deployments",
   "created_at": "2020-11-23T09:54:16Z",
-  "updated_at": "2023-08-21T15:26:24Z",
+  "updated_at": "2023-08-22T06:59:01Z",
   "pushed_at": "2023-06-16T06:45:50Z",
   "git_url": "git://github.com/snakers4/silero-vad.git",
   "ssh_url": "git@github.com:snakers4/silero-vad.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/snakers4/silero-vad",
   "homepage": "",
   "size": 90668,
-  "stargazers_count": 1762,
-  "watchers_count": 1762,
+  "stargazers_count": 1763,
+  "watchers_count": 1763,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 232,
+  "forks_count": 233,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "voice-recognition"
   ],
   "visibility": "public",
-  "forks": 232,
+  "forks": 233,
   "open_issues": 11,
-  "watchers": 1762,
+  "watchers": 1763,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 246
+  "_index": 253
 }

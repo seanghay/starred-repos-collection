@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/descriptinc/melgan-neurips/releases{/id}",
   "deployments_url": "https://api.github.com/repos/descriptinc/melgan-neurips/deployments",
   "created_at": "2019-10-25T22:10:57Z",
-  "updated_at": "2023-08-14T07:37:34Z",
+  "updated_at": "2023-08-22T14:57:51Z",
   "pushed_at": "2023-07-05T09:01:39Z",
   "git_url": "git://github.com/descriptinc/melgan-neurips.git",
   "ssh_url": "git@github.com:descriptinc/melgan-neurips.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/descriptinc/melgan-neurips",
   "homepage": "",
   "size": 35138,
-  "stargazers_count": 870,
-  "watchers_count": 870,
+  "stargazers_count": 872,
+  "watchers_count": 872,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 211,
+  "forks_count": 210,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "speech-synthesis"
   ],
   "visibility": "public",
-  "forks": 211,
+  "forks": 210,
   "open_issues": 30,
-  "watchers": 870,
+  "watchers": 872,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 171
+  "_index": 178
 }

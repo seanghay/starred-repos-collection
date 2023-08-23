@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/louislam/uptime-kuma/releases{/id}",
   "deployments_url": "https://api.github.com/repos/louislam/uptime-kuma/deployments",
   "created_at": "2021-07-03T01:02:42Z",
-  "updated_at": "2023-08-22T01:28:40Z",
-  "pushed_at": "2023-08-21T14:46:35Z",
+  "updated_at": "2023-08-23T01:34:30Z",
+  "pushed_at": "2023-08-22T12:26:19Z",
   "git_url": "git://github.com/louislam/uptime-kuma.git",
   "ssh_url": "git@github.com:louislam/uptime-kuma.git",
   "clone_url": "https://github.com/louislam/uptime-kuma.git",
   "svn_url": "https://github.com/louislam/uptime-kuma",
   "homepage": "https://uptime.kuma.pet",
   "size": 22693,
-  "stargazers_count": 37070,
-  "watchers_count": 37070,
+  "stargazers_count": 37114,
+  "watchers_count": 37114,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 3234,
+  "forks_count": 3238,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 919,
+  "open_issues_count": 921,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -113,9 +113,9 @@
     "websocket"
   ],
   "visibility": "public",
-  "forks": 3234,
-  "open_issues": 919,
-  "watchers": 37070,
+  "forks": 3238,
+  "open_issues": 921,
+  "watchers": 37114,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1291
+  "_index": 1298
 }

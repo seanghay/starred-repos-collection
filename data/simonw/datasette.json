@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/simonw/datasette/releases{/id}",
   "deployments_url": "https://api.github.com/repos/simonw/datasette/deployments",
   "created_at": "2017-10-23T00:39:03Z",
-  "updated_at": "2023-08-21T21:35:08Z",
-  "pushed_at": "2023-08-21T13:48:17Z",
+  "updated_at": "2023-08-23T01:14:45Z",
+  "pushed_at": "2023-08-23T01:30:13Z",
   "git_url": "git://github.com/simonw/datasette.git",
   "ssh_url": "git@github.com:simonw/datasette.git",
   "clone_url": "https://github.com/simonw/datasette.git",
   "svn_url": "https://github.com/simonw/datasette",
   "homepage": "https://datasette.io",
-  "size": 5929,
-  "stargazers_count": 8132,
-  "watchers_count": 8132,
+  "size": 5933,
+  "stargazers_count": 8141,
+  "watchers_count": 8141,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 564,
+  "forks_count": 565,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 536,
+  "open_issues_count": 533,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -111,9 +111,9 @@
     "sqlite"
   ],
   "visibility": "public",
-  "forks": 564,
-  "open_issues": 536,
-  "watchers": 8132,
+  "forks": 565,
+  "open_issues": 533,
+  "watchers": 8141,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 425
+  "_index": 432
 }

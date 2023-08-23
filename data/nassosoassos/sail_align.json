@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nassosoassos/sail_align/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nassosoassos/sail_align/deployments",
   "created_at": "2013-08-22T10:14:51Z",
-  "updated_at": "2023-07-07T11:26:41Z",
+  "updated_at": "2023-08-22T10:21:02Z",
   "pushed_at": "2022-04-05T15:00:26Z",
   "git_url": "git://github.com/nassosoassos/sail_align.git",
   "ssh_url": "git@github.com:nassosoassos/sail_align.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nassosoassos/sail_align",
   "homepage": null,
   "size": 72663,
-  "stargazers_count": 95,
-  "watchers_count": 95,
+  "stargazers_count": 96,
+  "watchers_count": 96,
   "language": "Perl",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 14,
   "open_issues": 2,
-  "watchers": 95,
+  "watchers": 96,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 117
+  "_index": 124
 }

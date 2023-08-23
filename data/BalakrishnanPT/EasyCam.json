@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/BalakrishnanPT/EasyCam/releases{/id}",
   "deployments_url": "https://api.github.com/repos/BalakrishnanPT/EasyCam/deployments",
   "created_at": "2019-12-26T03:31:16Z",
-  "updated_at": "2023-07-17T09:53:23Z",
+  "updated_at": "2023-08-22T05:59:31Z",
   "pushed_at": "2022-02-23T06:42:24Z",
   "git_url": "git://github.com/BalakrishnanPT/EasyCam.git",
   "ssh_url": "git@github.com:BalakrishnanPT/EasyCam.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/BalakrishnanPT/EasyCam",
   "homepage": "",
   "size": 1179,
-  "stargazers_count": 35,
-  "watchers_count": 35,
+  "stargazers_count": 36,
+  "watchers_count": 36,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 8,
+  "forks_count": 9,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "camera2-api"
   ],
   "visibility": "public",
-  "forks": 8,
+  "forks": 9,
   "open_issues": 7,
-  "watchers": 35,
+  "watchers": 36,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2202
+  "_index": 2209
 }

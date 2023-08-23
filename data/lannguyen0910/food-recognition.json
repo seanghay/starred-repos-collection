@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lannguyen0910/food-recognition/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lannguyen0910/food-recognition/deployments",
   "created_at": "2021-06-24T01:08:47Z",
-  "updated_at": "2023-08-20T13:42:31Z",
+  "updated_at": "2023-08-22T04:59:43Z",
   "pushed_at": "2023-03-06T10:45:32Z",
   "git_url": "git://github.com/lannguyen0910/food-recognition.git",
   "ssh_url": "git@github.com:lannguyen0910/food-recognition.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lannguyen0910/food-recognition",
   "homepage": "",
   "size": 373474,
-  "stargazers_count": 131,
-  "watchers_count": 131,
+  "stargazers_count": 132,
+  "watchers_count": 132,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 42,
+  "forks_count": 43,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -114,9 +114,9 @@
     "yolov5"
   ],
   "visibility": "public",
-  "forks": 42,
+  "forks": 43,
   "open_issues": 5,
-  "watchers": 131,
+  "watchers": 132,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 907
+  "_index": 914
 }
