@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/svenstaro/miniserve/releases{/id}",
   "deployments_url": "https://api.github.com/repos/svenstaro/miniserve/deployments",
   "created_at": "2018-04-26T09:52:56Z",
-  "updated_at": "2023-08-23T01:37:59Z",
+  "updated_at": "2023-08-23T02:15:18Z",
   "pushed_at": "2023-08-22T04:50:28Z",
   "git_url": "git://github.com/svenstaro/miniserve.git",
   "ssh_url": "git@github.com:svenstaro/miniserve.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/svenstaro/miniserve",
   "homepage": "",
   "size": 3358,
-  "stargazers_count": 4900,
-  "watchers_count": 4900,
+  "stargazers_count": 4901,
+  "watchers_count": 4901,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 253,
   "open_issues": 67,
-  "watchers": 4900,
+  "watchers": 4901,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 831
+  "_index": 838
 }

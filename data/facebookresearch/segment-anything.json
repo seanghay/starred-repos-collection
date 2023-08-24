@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/facebookresearch/segment-anything/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookresearch/segment-anything/deployments",
   "created_at": "2023-03-23T17:03:03Z",
-  "updated_at": "2023-08-22T23:15:27Z",
+  "updated_at": "2023-08-24T01:35:10Z",
   "pushed_at": "2023-08-10T02:51:23Z",
   "git_url": "git://github.com/facebookresearch/segment-anything.git",
   "ssh_url": "git@github.com:facebookresearch/segment-anything.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/facebookresearch/segment-anything",
   "homepage": "",
   "size": 10990,
-  "stargazers_count": 37421,
-  "watchers_count": 37421,
+  "stargazers_count": 37456,
+  "watchers_count": 37456,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 360,
+  "open_issues_count": 362,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 4280,
-  "open_issues": 360,
-  "watchers": 37421,
+  "open_issues": 362,
+  "watchers": 37456,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 366
+  "_index": 373
 }

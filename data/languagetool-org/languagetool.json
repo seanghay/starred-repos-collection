@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/languagetool-org/languagetool/releases{/id}",
   "deployments_url": "https://api.github.com/repos/languagetool-org/languagetool/deployments",
   "created_at": "2013-08-08T16:37:22Z",
-  "updated_at": "2023-08-22T16:17:24Z",
-  "pushed_at": "2023-08-23T01:38:55Z",
+  "updated_at": "2023-08-24T00:11:59Z",
+  "pushed_at": "2023-08-23T22:12:08Z",
   "git_url": "git://github.com/languagetool-org/languagetool.git",
   "ssh_url": "git@github.com:languagetool-org/languagetool.git",
   "clone_url": "https://github.com/languagetool-org/languagetool.git",
   "svn_url": "https://github.com/languagetool-org/languagetool",
   "homepage": "https://languagetool.org",
-  "size": 4687920,
-  "stargazers_count": 9576,
-  "watchers_count": 9576,
+  "size": 4699035,
+  "stargazers_count": 9586,
+  "watchers_count": 9586,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 1129,
   "open_issues": 1894,
-  "watchers": 9576,
+  "watchers": 9586,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 115
+  "_index": 122
 }

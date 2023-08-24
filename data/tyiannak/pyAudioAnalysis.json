@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tyiannak/pyAudioAnalysis/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tyiannak/pyAudioAnalysis/deployments",
   "created_at": "2014-08-27T12:43:13Z",
-  "updated_at": "2023-08-22T11:48:04Z",
+  "updated_at": "2023-08-23T21:57:12Z",
   "pushed_at": "2022-11-14T14:53:09Z",
   "git_url": "git://github.com/tyiannak/pyAudioAnalysis.git",
   "ssh_url": "git@github.com:tyiannak/pyAudioAnalysis.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/tyiannak/pyAudioAnalysis",
   "homepage": "",
   "size": 171818,
-  "stargazers_count": 5389,
-  "watchers_count": 5389,
+  "stargazers_count": 5390,
+  "watchers_count": 5390,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 1156,
   "open_issues": 194,
-  "watchers": 5389,
+  "watchers": 5390,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 120
+  "_index": 127
 }
