@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/ExpediaGroup/graphql-kotlin.git",
   "svn_url": "https://github.com/ExpediaGroup/graphql-kotlin",
   "homepage": "https://opensource.expediagroup.com/graphql-kotlin/",
-  "size": 76054,
+  "size": 76050,
   "stargazers_count": 1640,
   "watchers_count": 1640,
   "language": "Kotlin",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1451
+  "_index": 1455
 }

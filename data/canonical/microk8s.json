@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/canonical/microk8s/deployments",
   "created_at": "2018-05-09T09:19:36Z",
   "updated_at": "2023-08-24T01:29:12Z",
-  "pushed_at": "2023-08-23T10:28:40Z",
+  "pushed_at": "2023-08-24T10:11:25Z",
   "git_url": "git://github.com/canonical/microk8s.git",
   "ssh_url": "git@github.com:canonical/microk8s.git",
   "clone_url": "https://github.com/canonical/microk8s.git",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1424
+  "_index": 1428
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/emscripten-core/emscripten/releases{/id}",
   "deployments_url": "https://api.github.com/repos/emscripten-core/emscripten/deployments",
   "created_at": "2011-02-12T05:23:30Z",
-  "updated_at": "2023-08-23T20:58:46Z",
-  "pushed_at": "2023-08-24T00:33:59Z",
+  "updated_at": "2023-08-25T00:18:35Z",
+  "pushed_at": "2023-08-25T00:55:42Z",
   "git_url": "git://github.com/emscripten-core/emscripten.git",
   "ssh_url": "git@github.com:emscripten-core/emscripten.git",
   "clone_url": "https://github.com/emscripten-core/emscripten.git",
   "svn_url": "https://github.com/emscripten-core/emscripten",
   "homepage": "",
-  "size": 266648,
-  "stargazers_count": 24139,
-  "watchers_count": 24139,
+  "size": 267483,
+  "stargazers_count": 24141,
+  "watchers_count": 24141,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 3138,
+  "forks_count": 3137,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1691,
+  "open_issues_count": 1694,
   "license": {
     "key": "other",
     "name": "Other",
@@ -104,9 +104,9 @@
     "webassembly"
   ],
   "visibility": "public",
-  "forks": 3138,
-  "open_issues": 1691,
-  "watchers": 24139,
+  "forks": 3137,
+  "open_issues": 1694,
+  "watchers": 24141,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1708
+  "_index": 1712
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/recruit-mp/LightCalendarView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/recruit-mp/LightCalendarView/deployments",
   "created_at": "2016-11-21T04:31:50Z",
-  "updated_at": "2023-07-12T08:12:03Z",
+  "updated_at": "2023-08-24T14:01:50Z",
   "pushed_at": "2017-04-24T05:57:56Z",
   "git_url": "git://github.com/recruit-mp/LightCalendarView.git",
   "ssh_url": "git@github.com:recruit-mp/LightCalendarView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/recruit-mp/LightCalendarView",
   "homepage": "",
   "size": 197,
-  "stargazers_count": 443,
-  "watchers_count": 443,
+  "stargazers_count": 442,
+  "watchers_count": 442,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 68,
   "open_issues": 22,
-  "watchers": 443,
+  "watchers": 442,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2592
+  "_index": 2595
 }

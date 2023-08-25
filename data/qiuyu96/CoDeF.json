@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/qiuyu96/CoDeF/releases{/id}",
   "deployments_url": "https://api.github.com/repos/qiuyu96/CoDeF/deployments",
   "created_at": "2023-08-15T12:25:31Z",
-  "updated_at": "2023-08-24T01:36:10Z",
+  "updated_at": "2023-08-25T01:38:34Z",
   "pushed_at": "2023-08-23T06:34:14Z",
   "git_url": "git://github.com/qiuyu96/CoDeF.git",
   "ssh_url": "git@github.com:qiuyu96/CoDeF.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/qiuyu96/CoDeF",
   "homepage": "https://qiuyu96.github.io/CoDeF/",
   "size": 55622,
-  "stargazers_count": 3047,
-  "watchers_count": 3047,
+  "stargazers_count": 3195,
+  "watchers_count": 3195,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 215,
+  "forks_count": 236,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 8,
+  "open_issues_count": 10,
   "license": {
     "key": "other",
     "name": "Other",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 215,
-  "open_issues": 8,
-  "watchers": 3047,
+  "forks": 236,
+  "open_issues": 10,
+  "watchers": 3195,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 7
+  "_index": 11
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/DanielMartinus/Konfetti/releases{/id}",
   "deployments_url": "https://api.github.com/repos/DanielMartinus/Konfetti/deployments",
   "created_at": "2017-03-25T21:58:25Z",
-  "updated_at": "2023-08-22T02:44:39Z",
+  "updated_at": "2023-08-24T06:12:05Z",
   "pushed_at": "2023-07-31T20:26:53Z",
   "git_url": "git://github.com/DanielMartinus/Konfetti.git",
   "ssh_url": "git@github.com:DanielMartinus/Konfetti.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/DanielMartinus/Konfetti",
   "homepage": "",
   "size": 4867,
-  "stargazers_count": 2867,
-  "watchers_count": 2867,
+  "stargazers_count": 2868,
+  "watchers_count": 2868,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 284,
+  "forks_count": 285,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,9 +110,9 @@
     "party"
   ],
   "visibility": "public",
-  "forks": 284,
+  "forks": 285,
   "open_issues": 14,
-  "watchers": 2867,
+  "watchers": 2868,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2014
+  "_index": 2017
 }

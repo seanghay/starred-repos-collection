@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/livekit/livekit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/livekit/livekit/deployments",
   "created_at": "2020-09-30T06:49:46Z",
-  "updated_at": "2023-08-23T11:07:52Z",
-  "pushed_at": "2023-08-24T00:26:21Z",
+  "updated_at": "2023-08-25T00:09:54Z",
+  "pushed_at": "2023-08-24T19:51:02Z",
   "git_url": "git://github.com/livekit/livekit.git",
   "ssh_url": "git@github.com:livekit/livekit.git",
   "clone_url": "https://github.com/livekit/livekit.git",
   "svn_url": "https://github.com/livekit/livekit",
   "homepage": "https://docs.livekit.io",
-  "size": 7511,
-  "stargazers_count": 5445,
-  "watchers_count": 5445,
+  "size": 7515,
+  "stargazers_count": 5450,
+  "watchers_count": 5450,
   "language": "Go",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 58,
+  "open_issues_count": 56,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 451,
-  "open_issues": 58,
-  "watchers": 5445,
+  "open_issues": 56,
+  "watchers": 5450,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1436
+  "_index": 1440
 }

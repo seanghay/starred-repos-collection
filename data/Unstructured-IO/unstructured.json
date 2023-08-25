@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Unstructured-IO/unstructured/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Unstructured-IO/unstructured/deployments",
   "created_at": "2022-09-26T21:53:41Z",
-  "updated_at": "2023-08-24T01:29:19Z",
-  "pushed_at": "2023-08-24T01:09:46Z",
+  "updated_at": "2023-08-25T01:40:48Z",
+  "pushed_at": "2023-08-25T00:46:20Z",
   "git_url": "git://github.com/Unstructured-IO/unstructured.git",
   "ssh_url": "git@github.com:Unstructured-IO/unstructured.git",
   "clone_url": "https://github.com/Unstructured-IO/unstructured.git",
   "svn_url": "https://github.com/Unstructured-IO/unstructured",
   "homepage": "https://www.unstructured.io/",
-  "size": 103659,
-  "stargazers_count": 2299,
-  "watchers_count": 2299,
+  "size": 103465,
+  "stargazers_count": 2310,
+  "watchers_count": 2310,
   "language": "HTML",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 164,
+  "forks_count": 165,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 117,
+  "open_issues_count": 115,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -120,9 +120,9 @@
     "preprocessing"
   ],
   "visibility": "public",
-  "forks": 164,
-  "open_issues": 117,
-  "watchers": 2299,
+  "forks": 165,
+  "open_issues": 115,
+  "watchers": 2310,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 331
+  "_index": 335
 }

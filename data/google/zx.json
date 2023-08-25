@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/google/zx/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/zx/deployments",
   "created_at": "2021-05-05T05:50:01Z",
-  "updated_at": "2023-08-23T23:17:58Z",
-  "pushed_at": "2023-08-22T15:35:03Z",
+  "updated_at": "2023-08-24T23:50:25Z",
+  "pushed_at": "2023-08-24T22:10:23Z",
   "git_url": "git://github.com/google/zx.git",
   "ssh_url": "git@github.com:google/zx.git",
   "clone_url": "https://github.com/google/zx.git",
   "svn_url": "https://github.com/google/zx",
   "homepage": "https://npmjs.com/package/zx",
-  "size": 659,
-  "stargazers_count": 38205,
-  "watchers_count": 38205,
+  "size": 647,
+  "stargazers_count": 38217,
+  "watchers_count": 38217,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 58,
+  "open_issues_count": 57,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 978,
-  "open_issues": 58,
-  "watchers": 38205,
+  "open_issues": 57,
+  "watchers": 38217,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1556
+  "_index": 1560
 }

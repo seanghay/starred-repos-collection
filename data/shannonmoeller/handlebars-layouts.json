@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/shannonmoeller/handlebars-layouts/releases{/id}",
   "deployments_url": "https://api.github.com/repos/shannonmoeller/handlebars-layouts/deployments",
   "created_at": "2013-07-06T20:21:59Z",
-  "updated_at": "2023-08-14T13:05:10Z",
+  "updated_at": "2023-08-24T18:39:49Z",
   "pushed_at": "2019-07-05T10:22:45Z",
   "git_url": "git://github.com/shannonmoeller/handlebars-layouts.git",
   "ssh_url": "git@github.com:shannonmoeller/handlebars-layouts.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/shannonmoeller/handlebars-layouts",
   "homepage": "http://npm.im/handlebars-layouts",
   "size": 419,
-  "stargazers_count": 359,
-  "watchers_count": 359,
+  "stargazers_count": 358,
+  "watchers_count": 358,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 32,
   "open_issues": 4,
-  "watchers": 359,
+  "watchers": 358,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 798
+  "_index": 802
 }

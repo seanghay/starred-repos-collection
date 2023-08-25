@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 977,
+  "forks_count": 976,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -101,7 +101,7 @@
     "esrgan"
   ],
   "visibility": "public",
-  "forks": 977,
+  "forks": 976,
   "open_issues": 93,
   "watchers": 5286,
   "default_branch": "master",
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 528
+  "_index": 532
 }
