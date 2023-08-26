@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/biodatlab/whisper-th-demo",
-  "description": "A repository for the Demo of Thonburian Whisper: An Automatic Speech Recognition model for Thai. Try demo on Huggingface space:",
+  "description": "A repository for the Demo of Thonburian Whisper: An Automatic Speech Recognition model for Thai fine-tuned on Whisper. Try demo on Huggingface space:",
   "fork": false,
   "url": "https://api.github.com/repos/biodatlab/whisper-th-demo",
   "forks_url": "https://api.github.com/repos/biodatlab/whisper-th-demo/forks",
@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/biodatlab/whisper-th-demo/releases{/id}",
   "deployments_url": "https://api.github.com/repos/biodatlab/whisper-th-demo/deployments",
   "created_at": "2022-12-13T05:10:44Z",
-  "updated_at": "2023-07-29T02:27:45Z",
+  "updated_at": "2023-08-25T09:43:44Z",
   "pushed_at": "2023-03-02T06:41:27Z",
   "git_url": "git://github.com/biodatlab/whisper-th-demo.git",
   "ssh_url": "git@github.com:biodatlab/whisper-th-demo.git",

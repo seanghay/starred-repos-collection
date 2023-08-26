@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 131,
+  "forks_count": 132,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,7 +110,7 @@
     "virtualdom"
   ],
   "visibility": "public",
-  "forks": 131,
+  "forks": 132,
   "open_issues": 12,
   "watchers": 3022,
   "default_branch": "master",
