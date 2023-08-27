@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Gudahtt/prettier-plugin-sort-json/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Gudahtt/prettier-plugin-sort-json/deployments",
   "created_at": "2020-09-14T20:06:41Z",
-  "updated_at": "2023-08-25T13:06:08Z",
-  "pushed_at": "2023-08-25T12:51:18Z",
+  "updated_at": "2023-08-26T12:07:19Z",
+  "pushed_at": "2023-08-26T11:15:15Z",
   "git_url": "git://github.com/Gudahtt/prettier-plugin-sort-json.git",
   "ssh_url": "git@github.com:Gudahtt/prettier-plugin-sort-json.git",
   "clone_url": "https://github.com/Gudahtt/prettier-plugin-sort-json.git",
   "svn_url": "https://github.com/Gudahtt/prettier-plugin-sort-json",
   "homepage": "",
-  "size": 4037,
-  "stargazers_count": 68,
-  "watchers_count": 68,
+  "size": 4038,
+  "stargazers_count": 69,
+  "watchers_count": 69,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 4,
+  "open_issues_count": 6,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 8,
-  "open_issues": 4,
-  "watchers": 68,
+  "open_issues": 6,
+  "watchers": 69,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1306
+  "_index": 1309
 }

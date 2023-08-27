@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/rin-yato/miracle-diagram/deployments",
   "created_at": "2023-08-15T06:29:26Z",
   "updated_at": "2023-08-25T11:22:38Z",
-  "pushed_at": "2023-08-25T17:49:31Z",
+  "pushed_at": "2023-08-26T17:03:02Z",
   "git_url": "git://github.com/rin-yato/miracle-diagram.git",
   "ssh_url": "git@github.com:rin-yato/miracle-diagram.git",
   "clone_url": "https://github.com/rin-yato/miracle-diagram.git",
   "svn_url": "https://github.com/rin-yato/miracle-diagram",
   "homepage": "https://miracle-diagram.vercel.app",
-  "size": 16620,
+  "size": 16642,
   "stargazers_count": 3,
   "watchers_count": 3,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 16,
+  "open_issues_count": 14,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -94,7 +94,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 0,
-  "open_issues": 16,
+  "open_issues": 14,
   "watchers": 3,
   "default_branch": "main",
   "permissions": {
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 0
+  "_index": 3
 }

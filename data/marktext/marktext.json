@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/marktext/marktext/releases{/id}",
   "deployments_url": "https://api.github.com/repos/marktext/marktext/deployments",
   "created_at": "2017-11-12T16:05:25Z",
-  "updated_at": "2023-08-25T18:35:15Z",
+  "updated_at": "2023-08-27T00:28:44Z",
   "pushed_at": "2023-08-08T14:45:46Z",
   "git_url": "git://github.com/marktext/marktext.git",
   "ssh_url": "git@github.com:marktext/marktext.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/marktext/marktext",
   "homepage": "https://www.marktext.cc/",
   "size": 72496,
-  "stargazers_count": 41121,
-  "watchers_count": 41121,
+  "stargazers_count": 41134,
+  "watchers_count": 41134,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3143,
+  "forks_count": 3144,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -117,9 +117,9 @@
     "windows"
   ],
   "visibility": "public",
-  "forks": 3143,
+  "forks": 3144,
   "open_issues": 1029,
-  "watchers": 41121,
+  "watchers": 41134,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2965
+  "_index": 2968
 }

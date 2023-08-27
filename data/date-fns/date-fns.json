@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/date-fns/date-fns/releases{/id}",
   "deployments_url": "https://api.github.com/repos/date-fns/date-fns/deployments",
   "created_at": "2014-10-06T10:24:22Z",
-  "updated_at": "2023-08-25T17:11:44Z",
-  "pushed_at": "2023-08-23T06:39:13Z",
+  "updated_at": "2023-08-26T22:25:38Z",
+  "pushed_at": "2023-08-26T08:03:05Z",
   "git_url": "git://github.com/date-fns/date-fns.git",
   "ssh_url": "git@github.com:date-fns/date-fns.git",
   "clone_url": "https://github.com/date-fns/date-fns.git",
   "svn_url": "https://github.com/date-fns/date-fns",
   "homepage": "https://date-fns.org",
-  "size": 20027,
-  "stargazers_count": 32160,
-  "watchers_count": 32160,
+  "size": 20396,
+  "stargazers_count": 32164,
+  "watchers_count": 32164,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 1690,
   "open_issues": 616,
-  "watchers": 32160,
+  "watchers": 32164,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2845
+  "_index": 2848
 }

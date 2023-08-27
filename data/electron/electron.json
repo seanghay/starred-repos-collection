@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/electron/electron/releases{/id}",
   "deployments_url": "https://api.github.com/repos/electron/electron/deployments",
   "created_at": "2013-04-12T01:47:36Z",
-  "updated_at": "2023-08-26T01:11:06Z",
-  "pushed_at": "2023-08-25T18:13:02Z",
+  "updated_at": "2023-08-26T19:29:08Z",
+  "pushed_at": "2023-08-26T21:34:54Z",
   "git_url": "git://github.com/electron/electron.git",
   "ssh_url": "git@github.com:electron/electron.git",
   "clone_url": "https://github.com/electron/electron.git",
   "svn_url": "https://github.com/electron/electron",
   "homepage": "https://electronjs.org",
-  "size": 138882,
-  "stargazers_count": 108742,
-  "watchers_count": 108742,
+  "size": 138892,
+  "stargazers_count": 108751,
+  "watchers_count": 108751,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 14958,
+  "forks_count": 14962,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 908,
+  "open_issues_count": 904,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,9 +109,9 @@
     "works-with-codespaces"
   ],
   "visibility": "public",
-  "forks": 14958,
-  "open_issues": 908,
-  "watchers": 108742,
+  "forks": 14962,
+  "open_issues": 904,
+  "watchers": 108751,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2567
+  "_index": 2570
 }

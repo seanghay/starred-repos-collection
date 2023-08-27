@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jmoso13/jukebox-diffusion/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jmoso13/jukebox-diffusion/deployments",
   "created_at": "2023-06-15T02:20:21Z",
-  "updated_at": "2023-08-24T07:01:15Z",
+  "updated_at": "2023-08-27T01:15:26Z",
   "pushed_at": "2023-08-15T17:36:41Z",
   "git_url": "git://github.com/jmoso13/jukebox-diffusion.git",
   "ssh_url": "git@github.com:jmoso13/jukebox-diffusion.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jmoso13/jukebox-diffusion",
   "homepage": null,
   "size": 1560,
-  "stargazers_count": 88,
-  "watchers_count": 88,
+  "stargazers_count": 89,
+  "watchers_count": 89,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 11,
   "open_issues": 0,
-  "watchers": 88,
+  "watchers": 89,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 50
+  "_index": 53
 }

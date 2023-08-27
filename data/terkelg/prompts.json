@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/terkelg/prompts/releases{/id}",
   "deployments_url": "https://api.github.com/repos/terkelg/prompts/deployments",
   "created_at": "2018-02-24T10:11:47Z",
-  "updated_at": "2023-08-25T14:16:49Z",
+  "updated_at": "2023-08-26T18:06:41Z",
   "pushed_at": "2023-06-19T09:35:32Z",
   "git_url": "git://github.com/terkelg/prompts.git",
   "ssh_url": "git@github.com:terkelg/prompts.git",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 772
+  "_index": 775
 }
