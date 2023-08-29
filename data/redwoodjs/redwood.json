@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/redwoodjs/redwood/releases{/id}",
   "deployments_url": "https://api.github.com/repos/redwoodjs/redwood/deployments",
   "created_at": "2019-06-09T20:17:57Z",
-  "updated_at": "2023-08-27T21:00:49Z",
-  "pushed_at": "2023-08-27T20:44:38Z",
+  "updated_at": "2023-08-28T18:27:58Z",
+  "pushed_at": "2023-08-29T00:14:58Z",
   "git_url": "git://github.com/redwoodjs/redwood.git",
   "ssh_url": "git@github.com:redwoodjs/redwood.git",
   "clone_url": "https://github.com/redwoodjs/redwood.git",
   "svn_url": "https://github.com/redwoodjs/redwood",
   "homepage": "https://redwoodjs.com",
-  "size": 339549,
-  "stargazers_count": 16273,
-  "watchers_count": 16273,
+  "size": 339502,
+  "stargazers_count": 16277,
+  "watchers_count": 16277,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 486,
+  "open_issues_count": 484,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 922,
-  "open_issues": 486,
-  "watchers": 16273,
+  "open_issues": 484,
+  "watchers": 16277,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1829
+  "_index": 1832
 }

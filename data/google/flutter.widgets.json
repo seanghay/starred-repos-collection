@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/flutter.widgets/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/flutter.widgets/deployments",
   "created_at": "2018-02-26T05:19:26Z",
-  "updated_at": "2023-08-24T07:02:24Z",
+  "updated_at": "2023-08-28T20:15:50Z",
   "pushed_at": "2023-08-15T06:54:32Z",
   "git_url": "git://github.com/google/flutter.widgets.git",
   "ssh_url": "git@github.com:google/flutter.widgets.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/flutter.widgets",
   "homepage": "https://pub.dev/packages/flutter_widgets",
   "size": 714,
-  "stargazers_count": 1223,
-  "watchers_count": 1223,
+  "stargazers_count": 1224,
+  "watchers_count": 1224,
   "language": "Dart",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 204,
+  "open_issues_count": 205,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 413,
-  "open_issues": 204,
-  "watchers": 1223,
+  "open_issues": 205,
+  "watchers": 1224,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1331
+  "_index": 1334
 }

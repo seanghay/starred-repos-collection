@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jaychang0917/SimpleText/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jaychang0917/SimpleText/deployments",
   "created_at": "2016-11-09T17:36:37Z",
-  "updated_at": "2023-08-09T13:39:16Z",
+  "updated_at": "2023-08-28T02:03:34Z",
   "pushed_at": "2019-10-31T12:17:15Z",
   "git_url": "git://github.com/jaychang0917/SimpleText.git",
   "ssh_url": "git@github.com:jaychang0917/SimpleText.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jaychang0917/SimpleText",
   "homepage": "",
   "size": 6264,
-  "stargazers_count": 527,
-  "watchers_count": 527,
+  "stargazers_count": 528,
+  "watchers_count": 528,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 61,
   "open_issues": 6,
-  "watchers": 527,
+  "watchers": 528,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2234
+  "_index": 2237
 }

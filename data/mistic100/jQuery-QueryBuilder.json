@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mistic100/jQuery-QueryBuilder/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mistic100/jQuery-QueryBuilder/deployments",
   "created_at": "2014-04-08T16:42:21Z",
-  "updated_at": "2023-08-25T09:13:42Z",
+  "updated_at": "2023-08-28T23:19:02Z",
   "pushed_at": "2023-08-16T16:52:38Z",
   "git_url": "git://github.com/mistic100/jQuery-QueryBuilder.git",
   "ssh_url": "git@github.com:mistic100/jQuery-QueryBuilder.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 566,
+  "forks_count": 567,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "sql"
   ],
   "visibility": "public",
-  "forks": 566,
+  "forks": 567,
   "open_issues": 90,
   "watchers": 1628,
   "default_branch": "dev",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2769
+  "_index": 2772
 }

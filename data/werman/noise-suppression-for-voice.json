@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/werman/noise-suppression-for-voice/releases{/id}",
   "deployments_url": "https://api.github.com/repos/werman/noise-suppression-for-voice/deployments",
   "created_at": "2018-01-21T20:21:13Z",
-  "updated_at": "2023-08-27T16:29:04Z",
+  "updated_at": "2023-08-28T21:01:08Z",
   "pushed_at": "2023-04-19T01:45:02Z",
   "git_url": "git://github.com/werman/noise-suppression-for-voice.git",
   "ssh_url": "git@github.com:werman/noise-suppression-for-voice.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/werman/noise-suppression-for-voice",
   "homepage": "",
   "size": 14369,
-  "stargazers_count": 3792,
-  "watchers_count": 3792,
+  "stargazers_count": 3798,
+  "watchers_count": 3798,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 183,
   "open_issues": 65,
-  "watchers": 3792,
+  "watchers": 3798,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 25
+  "_index": 28
 }

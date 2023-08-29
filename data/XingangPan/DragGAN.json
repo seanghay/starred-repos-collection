@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/XingangPan/DragGAN/releases{/id}",
   "deployments_url": "https://api.github.com/repos/XingangPan/DragGAN/deployments",
   "created_at": "2023-05-18T10:08:02Z",
-  "updated_at": "2023-08-28T01:28:36Z",
+  "updated_at": "2023-08-29T01:37:21Z",
   "pushed_at": "2023-08-04T00:08:45Z",
   "git_url": "git://github.com/XingangPan/DragGAN.git",
   "ssh_url": "git@github.com:XingangPan/DragGAN.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/XingangPan/DragGAN",
   "homepage": "https://vcai.mpi-inf.mpg.de/projects/DragGAN/",
   "size": 34846,
-  "stargazers_count": 32442,
-  "watchers_count": 32442,
+  "stargazers_count": 32467,
+  "watchers_count": 32467,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3596,
+  "forks_count": 3598,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "image-manipulation"
   ],
   "visibility": "public",
-  "forks": 3596,
+  "forks": 3598,
   "open_issues": 122,
-  "watchers": 32442,
+  "watchers": 32467,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 188
+  "_index": 191
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/rusqlite/rusqlite/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rusqlite/rusqlite/deployments",
   "created_at": "2014-11-04T16:32:36Z",
-  "updated_at": "2023-08-25T10:53:33Z",
+  "updated_at": "2023-08-28T15:21:01Z",
   "pushed_at": "2023-08-26T11:08:10Z",
   "git_url": "git://github.com/rusqlite/rusqlite.git",
   "ssh_url": "git@github.com:rusqlite/rusqlite.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/rusqlite/rusqlite",
   "homepage": "",
   "size": 10231,
-  "stargazers_count": 2307,
-  "watchers_count": 2307,
+  "stargazers_count": 2309,
+  "watchers_count": 2309,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 291,
   "open_issues": 144,
-  "watchers": 2307,
+  "watchers": 2309,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1475
+  "_index": 1478
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/square/leakcanary/releases{/id}",
   "deployments_url": "https://api.github.com/repos/square/leakcanary/deployments",
   "created_at": "2015-04-29T23:54:16Z",
-  "updated_at": "2023-08-28T01:17:15Z",
+  "updated_at": "2023-08-29T01:04:49Z",
   "pushed_at": "2023-08-09T14:08:19Z",
   "git_url": "git://github.com/square/leakcanary.git",
   "ssh_url": "git@github.com:square/leakcanary.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/square/leakcanary",
   "homepage": "https://square.github.io/leakcanary",
   "size": 140812,
-  "stargazers_count": 28660,
-  "watchers_count": 28660,
+  "stargazers_count": 28661,
+  "watchers_count": 28661,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 3967,
   "open_issues": 76,
-  "watchers": 28660,
+  "watchers": 28661,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1971
+  "_index": 1974
 }

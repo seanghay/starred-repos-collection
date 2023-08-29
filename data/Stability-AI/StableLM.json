@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Stability-AI/StableLM/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Stability-AI/StableLM/deployments",
   "created_at": "2023-04-19T14:02:16Z",
-  "updated_at": "2023-08-27T23:20:18Z",
+  "updated_at": "2023-08-28T20:29:35Z",
   "pushed_at": "2023-08-06T21:13:03Z",
   "git_url": "git://github.com/Stability-AI/StableLM.git",
   "ssh_url": "git@github.com:Stability-AI/StableLM.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Stability-AI/StableLM",
   "homepage": null,
   "size": 221,
-  "stargazers_count": 15383,
-  "watchers_count": 15383,
+  "stargazers_count": 15385,
+  "watchers_count": 15385,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 984,
   "open_issues": 25,
-  "watchers": 15383,
+  "watchers": 15385,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 339
+  "_index": 342
 }

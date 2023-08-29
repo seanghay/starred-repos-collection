@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/rsms/inter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rsms/inter/deployments",
   "created_at": "2017-08-22T07:14:17Z",
-  "updated_at": "2023-08-27T19:12:16Z",
+  "updated_at": "2023-08-29T01:16:12Z",
   "pushed_at": "2023-08-20T05:17:00Z",
   "git_url": "git://github.com/rsms/inter.git",
   "ssh_url": "git@github.com:rsms/inter.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/rsms/inter",
   "homepage": "https://rsms.me/inter/",
   "size": 534547,
-  "stargazers_count": 15689,
-  "watchers_count": 15689,
+  "stargazers_count": 15696,
+  "watchers_count": 15696,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 380,
+  "forks_count": 381,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,9 +103,9 @@
     "typeface"
   ],
   "visibility": "public",
-  "forks": 380,
+  "forks": 381,
   "open_issues": 72,
-  "watchers": 15689,
+  "watchers": 15696,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 644
+  "_index": 647
 }
