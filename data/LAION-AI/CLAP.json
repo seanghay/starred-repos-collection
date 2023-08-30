@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 25,
+  "open_issues_count": 26,
   "license": {
     "key": "cc0-1.0",
     "name": "Creative Commons Zero v1.0 Universal",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 89,
-  "open_issues": 25,
+  "open_issues": 26,
   "watchers": 781,
   "default_branch": "main",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 182
+  "_index": 186
 }

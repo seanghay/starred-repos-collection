@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/xizzhu/ask/releases{/id}",
   "deployments_url": "https://api.github.com/repos/xizzhu/ask/deployments",
   "created_at": "2019-11-26T03:02:27Z",
-  "updated_at": "2023-02-17T04:05:45Z",
+  "updated_at": "2023-08-29T04:05:31Z",
   "pushed_at": "2020-03-06T19:05:32Z",
   "git_url": "git://github.com/xizzhu/ask.git",
   "ssh_url": "git@github.com:xizzhu/ask.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/xizzhu/ask",
   "homepage": "https://xizzhu.me/",
   "size": 289,
-  "stargazers_count": 12,
-  "watchers_count": 12,
+  "stargazers_count": 13,
+  "watchers_count": 13,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 2,
   "open_issues": 2,
-  "watchers": 12,
+  "watchers": 13,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2288
+  "_index": 2292
 }

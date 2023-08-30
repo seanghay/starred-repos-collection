@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/redis/ioredis/releases{/id}",
   "deployments_url": "https://api.github.com/repos/redis/ioredis/deployments",
   "created_at": "2015-04-02T06:42:46Z",
-  "updated_at": "2023-08-28T22:41:58Z",
+  "updated_at": "2023-08-29T20:58:25Z",
   "pushed_at": "2023-08-15T15:58:42Z",
   "git_url": "git://github.com/redis/ioredis.git",
   "ssh_url": "git@github.com:redis/ioredis.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/redis/ioredis",
   "homepage": "",
   "size": 6211,
-  "stargazers_count": 12214,
-  "watchers_count": 12214,
+  "stargazers_count": 12219,
+  "watchers_count": 12219,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 1070,
   "open_issues": 253,
-  "watchers": 12214,
+  "watchers": 12219,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1145
+  "_index": 1149
 }

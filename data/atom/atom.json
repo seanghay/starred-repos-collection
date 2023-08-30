@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/atom/atom/releases{/id}",
   "deployments_url": "https://api.github.com/repos/atom/atom/deployments",
   "created_at": "2012-01-20T18:18:21Z",
-  "updated_at": "2023-08-29T00:46:07Z",
+  "updated_at": "2023-08-29T22:57:54Z",
   "pushed_at": "2023-01-03T10:49:48Z",
   "git_url": "git://github.com/atom/atom.git",
   "ssh_url": "git@github.com:atom/atom.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 18351,
+  "forks_count": 18349,
   "mirror_url": null,
   "archived": true,
   "disabled": false,
@@ -107,7 +107,7 @@
     "windows"
   ],
   "visibility": "public",
-  "forks": 18351,
+  "forks": 18349,
   "open_issues": 994,
   "watchers": 59562,
   "default_branch": "master",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2816
+  "_index": 2820
 }

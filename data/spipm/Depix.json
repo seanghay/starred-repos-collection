@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/spipm/Depix/releases{/id}",
   "deployments_url": "https://api.github.com/repos/spipm/Depix/deployments",
   "created_at": "2020-12-06T12:39:08Z",
-  "updated_at": "2023-08-28T23:58:21Z",
+  "updated_at": "2023-08-29T19:34:20Z",
   "pushed_at": "2023-05-17T14:22:35Z",
   "git_url": "git://github.com/spipm/Depix.git",
   "ssh_url": "git@github.com:spipm/Depix.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/spipm/Depix",
   "homepage": null,
   "size": 843,
-  "stargazers_count": 24336,
-  "watchers_count": 24336,
+  "stargazers_count": 24340,
+  "watchers_count": 24340,
   "language": "Python",
   "has_issues": false,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 3011,
   "open_issues": 5,
-  "watchers": 24336,
+  "watchers": 24340,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1686
+  "_index": 1690
 }
