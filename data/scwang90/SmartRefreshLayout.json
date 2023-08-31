@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/releases{/id}",
   "deployments_url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/deployments",
   "created_at": "2017-06-02T09:52:50Z",
-  "updated_at": "2023-08-29T17:28:29Z",
+  "updated_at": "2023-08-30T07:33:03Z",
   "pushed_at": "2023-04-27T07:04:09Z",
   "git_url": "git://github.com/scwang90/SmartRefreshLayout.git",
   "ssh_url": "git@github.com:scwang90/SmartRefreshLayout.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/scwang90/SmartRefreshLayout",
   "homepage": "https://segmentfault.com/a/1190000010066071",
   "size": 273479,
-  "stargazers_count": 24360,
-  "watchers_count": 24360,
+  "stargazers_count": 24363,
+  "watchers_count": 24363,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 4950,
+  "forks_count": 4949,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 296,
+  "open_issues_count": 297,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -108,9 +108,9 @@
     "refreshlayout"
   ],
   "visibility": "public",
-  "forks": 4950,
-  "open_issues": 296,
-  "watchers": 24360,
+  "forks": 4949,
+  "open_issues": 297,
+  "watchers": 24363,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2347
+  "_index": 2351
 }

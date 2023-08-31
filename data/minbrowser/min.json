@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/minbrowser/min/releases{/id}",
   "deployments_url": "https://api.github.com/repos/minbrowser/min/deployments",
   "created_at": "2015-10-31T21:59:49Z",
-  "updated_at": "2023-08-29T08:09:01Z",
+  "updated_at": "2023-08-31T01:07:54Z",
   "pushed_at": "2023-08-29T22:18:46Z",
   "git_url": "git://github.com/minbrowser/min.git",
   "ssh_url": "git@github.com:minbrowser/min.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/minbrowser/min",
   "homepage": "https://minbrowser.org/",
   "size": 181264,
-  "stargazers_count": 6820,
-  "watchers_count": 6820,
+  "stargazers_count": 6824,
+  "watchers_count": 6824,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 629,
   "open_issues": 500,
-  "watchers": 6820,
+  "watchers": 6824,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1573
+  "_index": 1577
 }

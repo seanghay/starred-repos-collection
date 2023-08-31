@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fent/node-ytdl-core/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fent/node-ytdl-core/deployments",
   "created_at": "2014-06-29T22:06:35Z",
-  "updated_at": "2023-08-29T22:17:41Z",
+  "updated_at": "2023-08-30T11:50:31Z",
   "pushed_at": "2023-07-19T12:16:28Z",
   "git_url": "git://github.com/fent/node-ytdl-core.git",
   "ssh_url": "git@github.com:fent/node-ytdl-core.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/fent/node-ytdl-core",
   "homepage": "",
   "size": 23235,
-  "stargazers_count": 3935,
-  "watchers_count": 3935,
+  "stargazers_count": 3936,
+  "watchers_count": 3936,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 684,
   "open_issues": 77,
-  "watchers": 3935,
+  "watchers": 3936,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 432
+  "_index": 436
 }

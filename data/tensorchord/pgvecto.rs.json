@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tensorchord/pgvecto.rs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tensorchord/pgvecto.rs/deployments",
   "created_at": "2023-04-15T09:56:24Z",
-  "updated_at": "2023-08-28T21:42:52Z",
+  "updated_at": "2023-08-30T16:41:17Z",
   "pushed_at": "2023-08-28T16:20:12Z",
   "git_url": "git://github.com/tensorchord/pgvecto.rs.git",
   "ssh_url": "git@github.com:tensorchord/pgvecto.rs.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/tensorchord/pgvecto.rs",
   "homepage": "",
   "size": 134,
-  "stargazers_count": 675,
-  "watchers_count": 675,
+  "stargazers_count": 678,
+  "watchers_count": 678,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 21,
+  "forks_count": 22,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,9 +108,9 @@
     "vector-database"
   ],
   "visibility": "public",
-  "forks": 21,
+  "forks": 22,
   "open_issues": 11,
-  "watchers": 675,
+  "watchers": 678,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 343
+  "_index": 347
 }

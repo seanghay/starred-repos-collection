@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/akveo/nebular/releases{/id}",
   "deployments_url": "https://api.github.com/repos/akveo/nebular/deployments",
   "created_at": "2017-09-20T08:33:06Z",
-  "updated_at": "2023-08-29T20:50:59Z",
+  "updated_at": "2023-08-31T01:36:22Z",
   "pushed_at": "2023-07-02T16:28:21Z",
   "git_url": "git://github.com/akveo/nebular.git",
   "ssh_url": "git@github.com:akveo/nebular.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/akveo/nebular",
   "homepage": "https://akveo.github.io/nebular",
   "size": 149763,
-  "stargazers_count": 7858,
-  "watchers_count": 7858,
+  "stargazers_count": 7859,
+  "watchers_count": 7859,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1516,
+  "forks_count": 1515,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 865,
+  "open_issues_count": 866,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -120,9 +120,9 @@
     "webpack"
   ],
   "visibility": "public",
-  "forks": 1516,
-  "open_issues": 865,
-  "watchers": 7858,
+  "forks": 1515,
+  "open_issues": 866,
+  "watchers": 7859,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2823
+  "_index": 2827
 }

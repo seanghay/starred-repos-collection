@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Open-Attestation/token-registry/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Open-Attestation/token-registry/deployments",
   "created_at": "2020-03-27T04:06:00Z",
-  "updated_at": "2023-06-14T02:59:38Z",
-  "pushed_at": "2023-08-24T18:39:45Z",
+  "updated_at": "2023-08-30T06:33:21Z",
+  "pushed_at": "2023-08-30T04:31:05Z",
   "git_url": "git://github.com/Open-Attestation/token-registry.git",
   "ssh_url": "git@github.com:Open-Attestation/token-registry.git",
   "clone_url": "https://github.com/Open-Attestation/token-registry.git",
   "svn_url": "https://github.com/Open-Attestation/token-registry",
   "homepage": "https://www.tradetrust.io",
-  "size": 2995,
-  "stargazers_count": 8,
-  "watchers_count": 8,
+  "size": 2997,
+  "stargazers_count": 9,
+  "watchers_count": 9,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 13,
+  "open_issues_count": 12,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 11,
-  "open_issues": 13,
-  "watchers": 8,
+  "open_issues": 12,
+  "watchers": 9,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 298
+  "_index": 302
 }

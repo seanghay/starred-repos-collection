@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/manicmaniac/sips-js-api/releases{/id}",
   "deployments_url": "https://api.github.com/repos/manicmaniac/sips-js-api/deployments",
   "created_at": "2021-05-23T18:44:42Z",
-  "updated_at": "2023-07-19T21:10:37Z",
+  "updated_at": "2023-08-30T11:53:08Z",
   "pushed_at": "2023-08-26T23:56:37Z",
   "git_url": "git://github.com/manicmaniac/sips-js-api.git",
   "ssh_url": "git@github.com:manicmaniac/sips-js-api.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/manicmaniac/sips-js-api",
   "homepage": "https://manicmaniac.github.io/sips-js-api/",
   "size": 361,
-  "stargazers_count": 82,
-  "watchers_count": 82,
+  "stargazers_count": 81,
+  "watchers_count": 81,
   "language": null,
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 4,
   "open_issues": 5,
-  "watchers": 82,
+  "watchers": 81,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 532
+  "_index": 536
 }

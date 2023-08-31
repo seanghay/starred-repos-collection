@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/facebookresearch/fairseq/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookresearch/fairseq/deployments",
   "created_at": "2017-08-29T16:26:12Z",
-  "updated_at": "2023-08-29T20:29:39Z",
-  "pushed_at": "2023-08-27T17:43:10Z",
+  "updated_at": "2023-08-30T21:26:17Z",
+  "pushed_at": "2023-08-30T14:44:28Z",
   "git_url": "git://github.com/facebookresearch/fairseq.git",
   "ssh_url": "git@github.com:facebookresearch/fairseq.git",
   "clone_url": "https://github.com/facebookresearch/fairseq.git",
   "svn_url": "https://github.com/facebookresearch/fairseq",
   "homepage": null,
   "size": 25613,
-  "stargazers_count": 27292,
-  "watchers_count": 27292,
+  "stargazers_count": 27299,
+  "watchers_count": 27299,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 6056,
+  "forks_count": 6058,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1100,
+  "open_issues_count": 1101,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,9 +103,9 @@
     "pytorch"
   ],
   "visibility": "public",
-  "forks": 6056,
-  "open_issues": 1100,
-  "watchers": 27292,
+  "forks": 6058,
+  "open_issues": 1101,
+  "watchers": 27299,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 465
+  "_index": 469
 }

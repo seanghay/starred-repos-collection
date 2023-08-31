@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/khaosdoctor/gotql/releases{/id}",
   "deployments_url": "https://api.github.com/repos/khaosdoctor/gotql/deployments",
   "created_at": "2017-11-28T21:46:58Z",
-  "updated_at": "2023-08-29T21:03:48Z",
-  "pushed_at": "2023-03-04T02:53:02Z",
+  "updated_at": "2023-08-30T03:58:11Z",
+  "pushed_at": "2023-08-30T03:25:14Z",
   "git_url": "git://github.com/khaosdoctor/gotql.git",
   "ssh_url": "git@github.com:khaosdoctor/gotql.git",
   "clone_url": "https://github.com/khaosdoctor/gotql.git",
   "svn_url": "https://github.com/khaosdoctor/gotql",
   "homepage": "",
   "size": 2440,
-  "stargazers_count": 396,
-  "watchers_count": 396,
+  "stargazers_count": 397,
+  "watchers_count": 397,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 23,
+  "forks_count": 24,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 11,
+  "open_issues_count": 13,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,9 +109,9 @@
     "nodejs"
   ],
   "visibility": "public",
-  "forks": 23,
-  "open_issues": 11,
-  "watchers": 396,
+  "forks": 24,
+  "open_issues": 13,
+  "watchers": 397,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 863
+  "_index": 867
 }

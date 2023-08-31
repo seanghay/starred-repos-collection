@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jakehilborn/displayplacer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jakehilborn/displayplacer/deployments",
   "created_at": "2015-06-01T07:45:38Z",
-  "updated_at": "2023-08-25T02:17:25Z",
+  "updated_at": "2023-08-30T23:06:55Z",
   "pushed_at": "2023-07-15T00:09:16Z",
   "git_url": "git://github.com/jakehilborn/displayplacer.git",
   "ssh_url": "git@github.com:jakehilborn/displayplacer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jakehilborn/displayplacer",
   "homepage": "",
   "size": 185,
-  "stargazers_count": 3207,
-  "watchers_count": 3207,
+  "stargazers_count": 3209,
+  "watchers_count": 3209,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 119,
   "open_issues": 72,
-  "watchers": 3207,
+  "watchers": 3209,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1719
+  "_index": 1723
 }

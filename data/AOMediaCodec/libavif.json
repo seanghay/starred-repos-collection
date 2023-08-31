@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/AOMediaCodec/libavif/releases{/id}",
   "deployments_url": "https://api.github.com/repos/AOMediaCodec/libavif/deployments",
   "created_at": "2019-06-10T17:54:32Z",
-  "updated_at": "2023-08-29T14:17:10Z",
-  "pushed_at": "2023-08-29T22:17:06Z",
+  "updated_at": "2023-08-30T15:04:39Z",
+  "pushed_at": "2023-08-31T01:18:41Z",
   "git_url": "git://github.com/AOMediaCodec/libavif.git",
   "ssh_url": "git@github.com:AOMediaCodec/libavif.git",
   "clone_url": "https://github.com/AOMediaCodec/libavif.git",
   "svn_url": "https://github.com/AOMediaCodec/libavif",
   "homepage": "",
-  "size": 17795,
-  "stargazers_count": 1170,
-  "watchers_count": 1170,
+  "size": 17819,
+  "stargazers_count": 1171,
+  "watchers_count": 1171,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 171,
   "open_issues": 129,
-  "watchers": 1170,
+  "watchers": 1171,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 438
+  "_index": 442
 }

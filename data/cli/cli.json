@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/cli/cli/releases{/id}",
   "deployments_url": "https://api.github.com/repos/cli/cli/deployments",
   "created_at": "2019-10-03T15:24:53Z",
-  "updated_at": "2023-08-29T23:34:08Z",
-  "pushed_at": "2023-08-30T01:27:00Z",
+  "updated_at": "2023-08-30T20:29:21Z",
+  "pushed_at": "2023-08-31T00:34:07Z",
   "git_url": "git://github.com/cli/cli.git",
   "ssh_url": "git@github.com:cli/cli.git",
   "clone_url": "https://github.com/cli/cli.git",
   "svn_url": "https://github.com/cli/cli",
   "homepage": "https://cli.github.com",
-  "size": 27432,
-  "stargazers_count": 33090,
-  "watchers_count": 33090,
+  "size": 27405,
+  "stargazers_count": 33093,
+  "watchers_count": 33093,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 5410,
+  "forks_count": 5412,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 455,
+  "open_issues_count": 457,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,9 +104,9 @@
     "golang"
   ],
   "visibility": "public",
-  "forks": 5410,
-  "open_issues": 455,
-  "watchers": 33090,
+  "forks": 5412,
+  "open_issues": 457,
+  "watchers": 33093,
   "default_branch": "trunk",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2028
+  "_index": 2032
 }
