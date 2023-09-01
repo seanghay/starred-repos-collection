@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/bytedance/uss/deployments",
   "created_at": "2023-03-22T01:51:33Z",
   "updated_at": "2023-08-28T06:20:48Z",
-  "pushed_at": "2023-08-16T08:00:20Z",
+  "pushed_at": "2023-09-01T01:22:55Z",
   "git_url": "git://github.com/bytedance/uss.git",
   "ssh_url": "git@github.com:bytedance/uss.git",
   "clone_url": "https://github.com/bytedance/uss.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 277
+  "_index": 279
 }

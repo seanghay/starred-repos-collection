@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/profusion/apollo-validation-directives/deployments",
   "created_at": "2020-02-21T16:51:18Z",
   "updated_at": "2023-07-12T07:35:01Z",
-  "pushed_at": "2023-08-30T22:01:04Z",
+  "pushed_at": "2023-08-31T22:05:08Z",
   "git_url": "git://github.com/profusion/apollo-validation-directives.git",
   "ssh_url": "git@github.com:profusion/apollo-validation-directives.git",
   "clone_url": "https://github.com/profusion/apollo-validation-directives.git",
   "svn_url": "https://github.com/profusion/apollo-validation-directives",
   "homepage": null,
-  "size": 639,
+  "size": 655,
   "stargazers_count": 71,
   "watchers_count": 71,
   "language": "TypeScript",
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 869
+  "_index": 871
 }

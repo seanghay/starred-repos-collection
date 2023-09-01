@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/RoaringBitmap/roaring/releases{/id}",
   "deployments_url": "https://api.github.com/repos/RoaringBitmap/roaring/deployments",
   "created_at": "2014-07-10T20:14:34Z",
-  "updated_at": "2023-08-30T16:09:03Z",
+  "updated_at": "2023-08-31T16:08:34Z",
   "pushed_at": "2023-08-28T18:09:50Z",
   "git_url": "git://github.com/RoaringBitmap/roaring.git",
   "ssh_url": "git@github.com:RoaringBitmap/roaring.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/RoaringBitmap/roaring",
   "homepage": "http://roaringbitmap.org/",
   "size": 131262,
-  "stargazers_count": 2129,
-  "watchers_count": 2129,
+  "stargazers_count": 2131,
+  "watchers_count": 2131,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 228,
   "open_issues": 66,
-  "watchers": 2129,
+  "watchers": 2131,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1540
+  "_index": 1542
 }

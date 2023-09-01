@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/crazycodeboy/TakePhoto/releases{/id}",
   "deployments_url": "https://api.github.com/repos/crazycodeboy/TakePhoto/deployments",
   "created_at": "2015-08-04T02:05:32Z",
-  "updated_at": "2023-08-25T06:36:22Z",
+  "updated_at": "2023-08-31T02:00:24Z",
   "pushed_at": "2019-08-26T09:42:27Z",
   "git_url": "git://github.com/crazycodeboy/TakePhoto.git",
   "ssh_url": "git@github.com:crazycodeboy/TakePhoto.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/crazycodeboy/TakePhoto",
   "homepage": "http://www.devio.org/tags/#TakePhoto",
   "size": 11513,
-  "stargazers_count": 7223,
-  "watchers_count": 7223,
+  "stargazers_count": 7222,
+  "watchers_count": 7222,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 1511,
   "open_issues": 425,
-  "watchers": 7223,
+  "watchers": 7222,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2646
+  "_index": 2648
 }
