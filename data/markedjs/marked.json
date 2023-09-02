@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/markedjs/marked/releases{/id}",
   "deployments_url": "https://api.github.com/repos/markedjs/marked/deployments",
   "created_at": "2011-07-24T13:15:51Z",
-  "updated_at": "2023-09-01T01:22:36Z",
+  "updated_at": "2023-09-01T14:45:00Z",
   "pushed_at": "2023-08-29T07:35:11Z",
   "git_url": "git://github.com/markedjs/marked.git",
   "ssh_url": "git@github.com:markedjs/marked.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/markedjs/marked",
   "homepage": "https://marked.js.org",
   "size": 9057,
-  "stargazers_count": 30386,
-  "watchers_count": 30386,
+  "stargazers_count": 30391,
+  "watchers_count": 30391,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 3351,
   "open_issues": 28,
-  "watchers": 30386,
+  "watchers": 30391,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3003
+  "_index": 3008
 }

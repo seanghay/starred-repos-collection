@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/SimpleMobileTools/Simple-Calendar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/SimpleMobileTools/Simple-Calendar/deployments",
   "created_at": "2016-01-26T21:02:54Z",
-  "updated_at": "2023-08-30T13:21:12Z",
-  "pushed_at": "2023-08-30T14:34:08Z",
+  "updated_at": "2023-09-01T08:31:54Z",
+  "pushed_at": "2023-09-01T11:32:03Z",
   "git_url": "git://github.com/SimpleMobileTools/Simple-Calendar.git",
   "ssh_url": "git@github.com:SimpleMobileTools/Simple-Calendar.git",
   "clone_url": "https://github.com/SimpleMobileTools/Simple-Calendar.git",
   "svn_url": "https://github.com/SimpleMobileTools/Simple-Calendar",
   "homepage": "https://www.simplemobiletools.com",
   "size": 126561,
-  "stargazers_count": 3317,
-  "watchers_count": 3317,
+  "stargazers_count": 3318,
+  "watchers_count": 3318,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 1078,
   "open_issues": 227,
-  "watchers": 3317,
+  "watchers": 3318,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2538
+  "_index": 2543
 }

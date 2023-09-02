@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/raphamorim/react-ape/releases{/id}",
   "deployments_url": "https://api.github.com/repos/raphamorim/react-ape/deployments",
   "created_at": "2018-05-31T20:54:53Z",
-  "updated_at": "2023-08-29T07:48:31Z",
+  "updated_at": "2023-09-01T12:50:31Z",
   "pushed_at": "2023-08-21T14:05:35Z",
   "git_url": "git://github.com/raphamorim/react-ape.git",
   "ssh_url": "git@github.com:raphamorim/react-ape.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/raphamorim/react-ape",
   "homepage": "https://raphamorim.io/react-ape/",
   "size": 38956,
-  "stargazers_count": 1533,
-  "watchers_count": 1533,
+  "stargazers_count": 1532,
+  "watchers_count": 1532,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 54,
   "open_issues": 21,
-  "watchers": 1533,
+  "watchers": 1532,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1154
+  "_index": 1159
 }

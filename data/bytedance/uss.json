@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/bytedance/uss.git",
   "svn_url": "https://github.com/bytedance/uss",
   "homepage": null,
-  "size": 2245,
+  "size": 2267,
   "stargazers_count": 268,
   "watchers_count": 268,
   "language": "Python",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 279
+  "_index": 284
 }
