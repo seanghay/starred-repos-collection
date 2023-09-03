@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/releases{/id}",
   "deployments_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/deployments",
   "created_at": "2022-08-22T14:05:26Z",
-  "updated_at": "2023-09-02T01:30:11Z",
-  "pushed_at": "2023-09-01T23:02:03Z",
+  "updated_at": "2023-09-03T01:42:42Z",
+  "pushed_at": "2023-09-02T23:04:15Z",
   "git_url": "git://github.com/AUTOMATIC1111/stable-diffusion-webui.git",
   "ssh_url": "git@github.com:AUTOMATIC1111/stable-diffusion-webui.git",
   "clone_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui.git",
   "svn_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
   "homepage": "",
-  "size": 32844,
-  "stargazers_count": 100146,
-  "watchers_count": 100146,
+  "size": 32878,
+  "stargazers_count": 100310,
+  "watchers_count": 100310,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 19886,
+  "forks_count": 19918,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1393,
+  "open_issues_count": 1408,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -116,9 +116,9 @@
     "web"
   ],
   "visibility": "public",
-  "forks": 19886,
-  "open_issues": 1393,
-  "watchers": 100146,
+  "forks": 19918,
+  "open_issues": 1408,
+  "watchers": 100310,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 523
+  "_index": 531
 }

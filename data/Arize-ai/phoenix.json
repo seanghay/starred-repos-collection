@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/Arize-ai/phoenix/deployments",
   "created_at": "2022-11-09T23:44:35Z",
   "updated_at": "2023-09-01T06:55:42Z",
-  "pushed_at": "2023-09-01T23:47:12Z",
+  "pushed_at": "2023-09-02T07:51:16Z",
   "git_url": "git://github.com/Arize-ai/phoenix.git",
   "ssh_url": "git@github.com:Arize-ai/phoenix.git",
   "clone_url": "https://github.com/Arize-ai/phoenix.git",
   "svn_url": "https://github.com/Arize-ai/phoenix",
   "homepage": "https://docs.arize.com/phoenix",
-  "size": 20163,
+  "size": 20168,
   "stargazers_count": 1358,
   "watchers_count": 1358,
   "language": "Python",
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 336
+  "_index": 344
 }

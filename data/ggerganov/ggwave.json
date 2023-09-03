@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ggerganov/ggwave/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ggerganov/ggwave/deployments",
   "created_at": "2020-11-29T09:02:43Z",
-  "updated_at": "2023-09-01T11:44:52Z",
+  "updated_at": "2023-09-03T01:12:23Z",
   "pushed_at": "2023-08-29T09:55:53Z",
   "git_url": "git://github.com/ggerganov/ggwave.git",
   "ssh_url": "git@github.com:ggerganov/ggwave.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ggerganov/ggwave",
   "homepage": "https://youtu.be/Zcgf77T71QM",
   "size": 20234,
-  "stargazers_count": 1692,
-  "watchers_count": 1692,
+  "stargazers_count": 1694,
+  "watchers_count": 1694,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -114,7 +114,7 @@
   "visibility": "public",
   "forks": 116,
   "open_issues": 28,
-  "watchers": 1692,
+  "watchers": 1694,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 338
+  "_index": 346
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/FerretDB/FerretDB/releases{/id}",
   "deployments_url": "https://api.github.com/repos/FerretDB/FerretDB/deployments",
   "created_at": "2021-10-30T08:06:36Z",
-  "updated_at": "2023-09-01T18:25:36Z",
+  "updated_at": "2023-09-02T22:44:03Z",
   "pushed_at": "2023-09-01T17:20:54Z",
   "git_url": "git://github.com/FerretDB/FerretDB.git",
   "ssh_url": "git@github.com:FerretDB/FerretDB.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/FerretDB/FerretDB",
   "homepage": "https://www.ferretdb.io",
   "size": 8407,
-  "stargazers_count": 7584,
-  "watchers_count": 7584,
+  "stargazers_count": 7588,
+  "watchers_count": 7588,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 477,
+  "open_issues_count": 476,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -112,8 +112,8 @@
   ],
   "visibility": "public",
   "forks": 299,
-  "open_issues": 477,
-  "watchers": 7584,
+  "open_issues": 476,
+  "watchers": 7588,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1211
+  "_index": 1219
 }
