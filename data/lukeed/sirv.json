@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lukeed/sirv/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lukeed/sirv/deployments",
   "created_at": "2018-04-14T19:45:21Z",
-  "updated_at": "2023-09-01T00:33:21Z",
+  "updated_at": "2023-09-03T15:39:49Z",
   "pushed_at": "2023-04-24T19:44:51Z",
   "git_url": "git://github.com/lukeed/sirv.git",
   "ssh_url": "git@github.com:lukeed/sirv.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lukeed/sirv",
   "homepage": "",
   "size": 258,
-  "stargazers_count": 965,
-  "watchers_count": 965,
+  "stargazers_count": 964,
+  "watchers_count": 964,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 57,
   "open_issues": 20,
-  "watchers": 965,
+  "watchers": 964,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 889
+  "_index": 892
 }

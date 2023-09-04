@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/exposure-notifications-android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/exposure-notifications-android/deployments",
   "created_at": "2020-05-04T15:30:21Z",
-  "updated_at": "2023-09-02T12:26:05Z",
+  "updated_at": "2023-09-03T15:14:58Z",
   "pushed_at": "2022-08-22T13:11:33Z",
   "git_url": "git://github.com/google/exposure-notifications-android.git",
   "ssh_url": "git@github.com:google/exposure-notifications-android.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/exposure-notifications-android",
   "homepage": "https://www.google.com/covid19/exposurenotifications",
   "size": 11255,
-  "stargazers_count": 533,
-  "watchers_count": 533,
+  "stargazers_count": 532,
+  "watchers_count": 532,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 123,
   "open_issues": 33,
-  "watchers": 533,
+  "watchers": 532,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1321
+  "_index": 1324
 }

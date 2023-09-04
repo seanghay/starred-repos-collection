@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/shengxinjing/email-helper/releases{/id}",
   "deployments_url": "https://api.github.com/repos/shengxinjing/email-helper/deployments",
   "created_at": "2023-01-28T03:54:52Z",
-  "updated_at": "2023-08-30T11:54:43Z",
+  "updated_at": "2023-09-04T01:24:08Z",
   "pushed_at": "2023-03-06T02:35:33Z",
   "git_url": "git://github.com/shengxinjing/email-helper.git",
   "ssh_url": "git@github.com:shengxinjing/email-helper.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/shengxinjing/email-helper",
   "homepage": "https://email-helper.vercel.app",
   "size": 2965,
-  "stargazers_count": 736,
-  "watchers_count": 736,
+  "stargazers_count": 737,
+  "watchers_count": 737,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 181,
   "open_issues": 6,
-  "watchers": 736,
+  "watchers": 737,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 582
+  "_index": 585
 }

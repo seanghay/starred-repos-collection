@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 40,
+  "forks_count": 41,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,7 +108,7 @@
     "submarine"
   ],
   "visibility": "public",
-  "forks": 40,
+  "forks": 41,
   "open_issues": 1,
   "watchers": 469,
   "default_branch": "master",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2250
+  "_index": 2253
 }

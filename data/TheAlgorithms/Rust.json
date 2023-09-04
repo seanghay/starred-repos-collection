@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/TheAlgorithms/Rust/releases{/id}",
   "deployments_url": "https://api.github.com/repos/TheAlgorithms/Rust/deployments",
   "created_at": "2018-09-13T13:29:27Z",
-  "updated_at": "2023-09-03T00:04:18Z",
+  "updated_at": "2023-09-03T20:11:43Z",
   "pushed_at": "2023-09-02T19:51:40Z",
   "git_url": "git://github.com/TheAlgorithms/Rust.git",
   "ssh_url": "git@github.com:TheAlgorithms/Rust.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/TheAlgorithms/Rust",
   "homepage": "",
   "size": 690,
-  "stargazers_count": 17246,
-  "watchers_count": 17246,
+  "stargazers_count": 17254,
+  "watchers_count": 17254,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1725,
+  "forks_count": 1727,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "rust-lang"
   ],
   "visibility": "public",
-  "forks": 1725,
+  "forks": 1727,
   "open_issues": 5,
-  "watchers": 17246,
+  "watchers": 17254,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 941
+  "_index": 944
 }

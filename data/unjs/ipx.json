@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/unjs/ipx/releases{/id}",
   "deployments_url": "https://api.github.com/repos/unjs/ipx/deployments",
   "created_at": "2017-12-10T10:04:59Z",
-  "updated_at": "2023-09-01T11:51:14Z",
+  "updated_at": "2023-09-03T05:33:06Z",
   "pushed_at": "2023-08-29T13:39:56Z",
   "git_url": "git://github.com/unjs/ipx.git",
   "ssh_url": "git@github.com:unjs/ipx.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/unjs/ipx",
   "homepage": "",
   "size": 2459,
-  "stargazers_count": 836,
-  "watchers_count": 836,
+  "stargazers_count": 837,
+  "watchers_count": 837,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 43,
   "open_issues": 38,
-  "watchers": 836,
+  "watchers": 837,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1157
+  "_index": 1160
 }

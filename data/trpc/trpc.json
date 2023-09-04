@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/trpc/trpc/releases{/id}",
   "deployments_url": "https://api.github.com/repos/trpc/trpc/deployments",
   "created_at": "2020-07-18T01:17:11Z",
-  "updated_at": "2023-09-02T19:49:31Z",
+  "updated_at": "2023-09-03T23:25:29Z",
   "pushed_at": "2023-09-01T04:06:26Z",
   "git_url": "git://github.com/trpc/trpc.git",
   "ssh_url": "git@github.com:trpc/trpc.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/trpc/trpc",
   "homepage": "https://tRPC.io",
   "size": 32212,
-  "stargazers_count": 28431,
-  "watchers_count": 28431,
+  "stargazers_count": 28445,
+  "watchers_count": 28445,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 984,
   "open_issues": 100,
-  "watchers": 28431,
+  "watchers": 28445,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1008
+  "_index": 1011
 }

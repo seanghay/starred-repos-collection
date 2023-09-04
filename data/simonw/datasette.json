@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/simonw/datasette/releases{/id}",
   "deployments_url": "https://api.github.com/repos/simonw/datasette/deployments",
   "created_at": "2017-10-23T00:39:03Z",
-  "updated_at": "2023-09-02T23:37:40Z",
+  "updated_at": "2023-09-04T00:00:29Z",
   "pushed_at": "2023-09-01T13:38:10Z",
   "git_url": "git://github.com/simonw/datasette.git",
   "ssh_url": "git@github.com:simonw/datasette.git",
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 472
+  "_index": 475
 }
