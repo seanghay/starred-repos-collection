@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wuapnjie/StickerView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wuapnjie/StickerView/deployments",
   "created_at": "2016-08-09T09:17:54Z",
-  "updated_at": "2023-09-01T06:14:02Z",
+  "updated_at": "2023-09-04T07:21:12Z",
   "pushed_at": "2019-04-23T13:09:47Z",
   "git_url": "git://github.com/wuapnjie/StickerView.git",
   "ssh_url": "git@github.com:wuapnjie/StickerView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wuapnjie/StickerView",
   "homepage": "",
   "size": 3020,
-  "stargazers_count": 1245,
-  "watchers_count": 1245,
+  "stargazers_count": 1244,
+  "watchers_count": 1244,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 312,
   "open_issues": 102,
-  "watchers": 1245,
+  "watchers": 1244,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2746
+  "_index": 2747
 }

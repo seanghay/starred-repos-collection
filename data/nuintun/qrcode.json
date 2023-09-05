@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/nuintun/qrcode.git",
   "svn_url": "https://github.com/nuintun/qrcode",
   "homepage": "https://nuintun.github.io/qrcode",
-  "size": 51458,
+  "size": 51724,
   "stargazers_count": 157,
   "watchers_count": 157,
   "language": "TypeScript",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 312
+  "_index": 313
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/MoonInTheRiver/DiffSinger/releases{/id}",
   "deployments_url": "https://api.github.com/repos/MoonInTheRiver/DiffSinger/deployments",
   "created_at": "2021-12-17T04:38:03Z",
-  "updated_at": "2023-09-03T15:35:16Z",
+  "updated_at": "2023-09-04T06:34:34Z",
   "pushed_at": "2023-05-02T21:38:58Z",
   "git_url": "git://github.com/MoonInTheRiver/DiffSinger.git",
   "ssh_url": "git@github.com:MoonInTheRiver/DiffSinger.git",
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 289
+  "_index": 290
 }

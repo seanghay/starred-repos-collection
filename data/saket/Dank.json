@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/saket/Dank/releases{/id}",
   "deployments_url": "https://api.github.com/repos/saket/Dank/deployments",
   "created_at": "2017-01-29T18:02:47Z",
-  "updated_at": "2023-08-28T12:22:53Z",
+  "updated_at": "2023-09-04T20:45:46Z",
   "pushed_at": "2022-07-30T19:59:59Z",
   "git_url": "git://github.com/saket/Dank.git",
   "ssh_url": "git@github.com:saket/Dank.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/saket/Dank",
   "homepage": "https://saket.me/dank",
   "size": 7427,
-  "stargazers_count": 821,
-  "watchers_count": 821,
+  "stargazers_count": 820,
+  "watchers_count": 820,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 134,
   "open_issues": 5,
-  "watchers": 821,
+  "watchers": 820,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2822
+  "_index": 2823
 }

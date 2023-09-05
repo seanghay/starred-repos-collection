@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/saket/InboxRecyclerView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/saket/InboxRecyclerView/deployments",
   "created_at": "2018-08-19T06:14:50Z",
-  "updated_at": "2023-09-03T17:33:43Z",
+  "updated_at": "2023-09-04T20:47:54Z",
   "pushed_at": "2021-08-26T19:07:54Z",
   "git_url": "git://github.com/saket/InboxRecyclerView.git",
   "ssh_url": "git@github.com:saket/InboxRecyclerView.git",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2821
+  "_index": 2822
 }

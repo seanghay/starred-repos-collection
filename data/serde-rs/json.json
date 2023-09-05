@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 494,
+  "forks_count": 496,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "serde"
   ],
   "visibility": "public",
-  "forks": 494,
+  "forks": 496,
   "open_issues": 140,
   "watchers": 4092,
   "default_branch": "master",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1113
+  "_index": 1114
 }

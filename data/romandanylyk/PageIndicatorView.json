@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/romandanylyk/PageIndicatorView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/romandanylyk/PageIndicatorView/deployments",
   "created_at": "2016-08-20T19:25:32Z",
-  "updated_at": "2023-09-01T02:53:39Z",
+  "updated_at": "2023-09-04T05:35:24Z",
   "pushed_at": "2021-10-15T05:11:14Z",
   "git_url": "git://github.com/romandanylyk/PageIndicatorView.git",
   "ssh_url": "git@github.com:romandanylyk/PageIndicatorView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/romandanylyk/PageIndicatorView",
   "homepage": "",
   "size": 33988,
-  "stargazers_count": 4590,
-  "watchers_count": 4590,
+  "stargazers_count": 4591,
+  "watchers_count": 4591,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 557,
   "open_issues": 52,
-  "watchers": 4590,
+  "watchers": 4591,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2449
+  "_index": 2450
 }
