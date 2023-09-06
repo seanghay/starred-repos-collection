@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 139,
+  "forks_count": 140,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 7,
+  "open_issues_count": 6,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -108,8 +108,8 @@
     "split-apk"
   ],
   "visibility": "public",
-  "forks": 139,
-  "open_issues": 7,
+  "forks": 140,
+  "open_issues": 6,
   "watchers": 2592,
   "default_branch": "main",
   "permissions": {
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 654
+  "_index": 656
 }

@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/seek-oss/playroom.git",
   "svn_url": "https://github.com/seek-oss/playroom",
   "homepage": "",
-  "size": 4763,
+  "size": 4787,
   "stargazers_count": 4360,
   "watchers_count": 4360,
   "language": "TypeScript",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2849
+  "_index": 2851
 }

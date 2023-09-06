@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/refined-github/refined-github/releases{/id}",
   "deployments_url": "https://api.github.com/repos/refined-github/refined-github/deployments",
   "created_at": "2016-02-15T16:45:02Z",
-  "updated_at": "2023-09-05T00:50:06Z",
-  "pushed_at": "2023-09-04T14:12:15Z",
+  "updated_at": "2023-09-05T19:44:09Z",
+  "pushed_at": "2023-09-05T12:38:42Z",
   "git_url": "git://github.com/refined-github/refined-github.git",
   "ssh_url": "git@github.com:refined-github/refined-github.git",
   "clone_url": "https://github.com/refined-github/refined-github.git",
   "svn_url": "https://github.com/refined-github/refined-github",
   "homepage": "",
-  "size": 22485,
-  "stargazers_count": 21644,
-  "watchers_count": 21644,
+  "size": 22522,
+  "stargazers_count": 21659,
+  "watchers_count": 21659,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 1480,
   "open_issues": 123,
-  "watchers": 21644,
+  "watchers": 21659,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2223
+  "_index": 2225
 }

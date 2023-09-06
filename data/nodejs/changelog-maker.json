@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/nodejs/changelog-maker/deployments",
   "created_at": "2015-02-18T07:21:53Z",
   "updated_at": "2023-09-03T08:52:14Z",
-  "pushed_at": "2023-09-04T12:51:12Z",
+  "pushed_at": "2023-09-05T06:46:24Z",
   "git_url": "git://github.com/nodejs/changelog-maker.git",
   "ssh_url": "git@github.com:nodejs/changelog-maker.git",
   "clone_url": "https://github.com/nodejs/changelog-maker.git",
   "svn_url": "https://github.com/nodejs/changelog-maker",
   "homepage": null,
-  "size": 518,
+  "size": 519,
   "stargazers_count": 221,
   "watchers_count": 221,
   "language": "JavaScript",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 47,
+  "forks_count": 49,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,7 +102,7 @@
     "nodejs"
   ],
   "visibility": "public",
-  "forks": 47,
+  "forks": 49,
   "open_issues": 11,
   "watchers": 221,
   "default_branch": "main",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1197
+  "_index": 1199
 }

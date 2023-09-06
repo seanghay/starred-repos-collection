@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/YannickJadoul/Parselmouth.git",
   "svn_url": "https://github.com/YannickJadoul/Parselmouth",
   "homepage": "https://parselmouth.readthedocs.io/",
-  "size": 79694,
+  "size": 79700,
   "stargazers_count": 914,
   "watchers_count": 914,
   "language": "C++",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 292
+  "_index": 294
 }

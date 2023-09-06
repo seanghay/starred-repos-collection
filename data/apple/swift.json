@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/apple/swift/releases{/id}",
   "deployments_url": "https://api.github.com/repos/apple/swift/deployments",
   "created_at": "2015-10-23T21:15:07Z",
-  "updated_at": "2023-09-05T00:59:34Z",
-  "pushed_at": "2023-09-05T01:36:51Z",
+  "updated_at": "2023-09-05T23:42:26Z",
+  "pushed_at": "2023-09-06T01:22:19Z",
   "git_url": "git://github.com/apple/swift.git",
   "ssh_url": "git@github.com:apple/swift.git",
   "clone_url": "https://github.com/apple/swift.git",
   "svn_url": "https://github.com/apple/swift",
   "homepage": "https://swift.org",
-  "size": 1040433,
-  "stargazers_count": 63954,
-  "watchers_count": 63954,
+  "size": 1040611,
+  "stargazers_count": 63958,
+  "watchers_count": 63958,
   "language": "C++",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 6675,
+  "open_issues_count": 6677,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 10276,
-  "open_issues": 6675,
-  "watchers": 63954,
+  "open_issues": 6677,
+  "watchers": 63958,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2294
+  "_index": 2296
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ruizhecao96/CMGAN/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ruizhecao96/CMGAN/deployments",
   "created_at": "2022-03-15T21:07:32Z",
-  "updated_at": "2023-09-04T12:56:28Z",
+  "updated_at": "2023-09-05T03:33:52Z",
   "pushed_at": "2023-06-06T06:49:33Z",
   "git_url": "git://github.com/ruizhecao96/CMGAN.git",
   "ssh_url": "git@github.com:ruizhecao96/CMGAN.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ruizhecao96/CMGAN",
   "homepage": null,
   "size": 94457,
-  "stargazers_count": 189,
-  "watchers_count": 189,
+  "stargazers_count": 190,
+  "watchers_count": 190,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 44,
   "open_issues": 7,
-  "watchers": 189,
+  "watchers": 190,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 223
+  "_index": 225
 }

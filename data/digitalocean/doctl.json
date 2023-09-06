@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/digitalocean/doctl/deployments",
   "created_at": "2015-05-29T21:24:39Z",
   "updated_at": "2023-09-03T08:34:04Z",
-  "pushed_at": "2023-09-01T21:30:01Z",
+  "pushed_at": "2023-09-05T13:30:45Z",
   "git_url": "git://github.com/digitalocean/doctl.git",
   "ssh_url": "git@github.com:digitalocean/doctl.git",
   "clone_url": "https://github.com/digitalocean/doctl.git",
   "svn_url": "https://github.com/digitalocean/doctl",
   "homepage": "https://docs.digitalocean.com/reference/doctl/",
-  "size": 52346,
+  "size": 52335,
   "stargazers_count": 3138,
   "watchers_count": 3138,
   "language": "Go",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1801
+  "_index": 1803
 }

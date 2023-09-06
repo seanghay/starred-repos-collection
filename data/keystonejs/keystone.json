@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/keystonejs/keystone/releases{/id}",
   "deployments_url": "https://api.github.com/repos/keystonejs/keystone/deployments",
   "created_at": "2018-04-05T10:48:37Z",
-  "updated_at": "2023-09-04T14:17:24Z",
-  "pushed_at": "2023-09-04T15:09:34Z",
+  "updated_at": "2023-09-05T10:08:22Z",
+  "pushed_at": "2023-09-05T21:18:59Z",
   "git_url": "git://github.com/keystonejs/keystone.git",
   "ssh_url": "git@github.com:keystonejs/keystone.git",
   "clone_url": "https://github.com/keystonejs/keystone.git",
   "svn_url": "https://github.com/keystonejs/keystone",
   "homepage": "https://keystonejs.com",
   "size": 372316,
-  "stargazers_count": 8285,
-  "watchers_count": 8285,
+  "stargazers_count": 8286,
+  "watchers_count": 8286,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1063,
+  "forks_count": 1062,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 128,
+  "open_issues_count": 127,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,9 +106,9 @@
     "react"
   ],
   "visibility": "public",
-  "forks": 1063,
-  "open_issues": 128,
-  "watchers": 8285,
+  "forks": 1062,
+  "open_issues": 127,
+  "watchers": 8286,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1653
+  "_index": 1655
 }
