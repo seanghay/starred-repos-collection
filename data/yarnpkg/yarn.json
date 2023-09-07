@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yarnpkg/yarn/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yarnpkg/yarn/deployments",
   "created_at": "2016-01-19T17:39:16Z",
-  "updated_at": "2023-09-05T22:03:37Z",
+  "updated_at": "2023-09-06T08:51:24Z",
   "pushed_at": "2023-08-23T23:02:29Z",
   "git_url": "git://github.com/yarnpkg/yarn.git",
   "ssh_url": "git@github.com:yarnpkg/yarn.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yarnpkg/yarn",
   "homepage": "https://classic.yarnpkg.com",
   "size": 119459,
-  "stargazers_count": 41258,
-  "watchers_count": 41258,
+  "stargazers_count": 41261,
+  "watchers_count": 41261,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 2908,
   "open_issues": 1980,
-  "watchers": 41258,
+  "watchers": 41261,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1791
+  "_index": 1793
 }

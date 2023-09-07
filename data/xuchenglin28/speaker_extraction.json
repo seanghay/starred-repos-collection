@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/xuchenglin28/speaker_extraction/releases{/id}",
   "deployments_url": "https://api.github.com/repos/xuchenglin28/speaker_extraction/deployments",
   "created_at": "2018-10-28T12:51:20Z",
-  "updated_at": "2023-09-05T09:43:06Z",
+  "updated_at": "2023-09-06T15:08:52Z",
   "pushed_at": "2021-01-24T02:38:34Z",
   "git_url": "git://github.com/xuchenglin28/speaker_extraction.git",
   "ssh_url": "git@github.com:xuchenglin28/speaker_extraction.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/xuchenglin28/speaker_extraction",
   "homepage": "",
   "size": 2444,
-  "stargazers_count": 114,
-  "watchers_count": 114,
+  "stargazers_count": 116,
+  "watchers_count": 116,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 29,
   "open_issues": 5,
-  "watchers": 114,
+  "watchers": 116,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 27
+  "_index": 29
 }

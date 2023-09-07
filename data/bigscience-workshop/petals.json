@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/bigscience-workshop/petals/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bigscience-workshop/petals/deployments",
   "created_at": "2022-06-12T00:10:27Z",
-  "updated_at": "2023-09-05T20:09:24Z",
-  "pushed_at": "2023-09-06T01:29:34Z",
+  "updated_at": "2023-09-07T01:39:25Z",
+  "pushed_at": "2023-09-06T16:55:06Z",
   "git_url": "git://github.com/bigscience-workshop/petals.git",
   "ssh_url": "git@github.com:bigscience-workshop/petals.git",
   "clone_url": "https://github.com/bigscience-workshop/petals.git",
   "svn_url": "https://github.com/bigscience-workshop/petals",
   "homepage": "https://petals.dev",
-  "size": 4112,
-  "stargazers_count": 6934,
-  "watchers_count": 6934,
+  "size": 4125,
+  "stargazers_count": 6957,
+  "watchers_count": 6957,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 67,
+  "open_issues_count": 66,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -102,6 +102,7 @@
     "chatbot",
     "deep-learning",
     "distributed-systems",
+    "falcon",
     "gpt",
     "guanaco",
     "language-models",
@@ -120,8 +121,8 @@
   ],
   "visibility": "public",
   "forks": 336,
-  "open_issues": 67,
-  "watchers": 6934,
+  "open_issues": 66,
+  "watchers": 6957,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -130,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 132
+  "_index": 134
 }

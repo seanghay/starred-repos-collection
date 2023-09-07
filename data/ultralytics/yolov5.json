@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ultralytics/yolov5/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ultralytics/yolov5/deployments",
   "created_at": "2020-05-18T03:45:11Z",
-  "updated_at": "2023-09-05T23:41:14Z",
+  "updated_at": "2023-09-07T01:06:12Z",
   "pushed_at": "2023-09-05T23:43:22Z",
   "git_url": "git://github.com/ultralytics/yolov5.git",
   "ssh_url": "git@github.com:ultralytics/yolov5.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ultralytics/yolov5",
   "homepage": "https://docs.ultralytics.com",
   "size": 14996,
-  "stargazers_count": 41301,
-  "watchers_count": 41301,
+  "stargazers_count": 41338,
+  "watchers_count": 41338,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 234,
+  "open_issues_count": 235,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -114,8 +114,8 @@
   ],
   "visibility": "public",
   "forks": 14554,
-  "open_issues": 234,
-  "watchers": 41301,
+  "open_issues": 235,
+  "watchers": 41338,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 584
+  "_index": 586
 }

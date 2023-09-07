@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/googlemaps/google-maps-ios-utils/releases{/id}",
   "deployments_url": "https://api.github.com/repos/googlemaps/google-maps-ios-utils/deployments",
   "created_at": "2013-08-30T07:03:23Z",
-  "updated_at": "2023-09-05T22:23:36Z",
+  "updated_at": "2023-09-06T08:16:58Z",
   "pushed_at": "2023-08-28T13:45:23Z",
   "git_url": "git://github.com/googlemaps/google-maps-ios-utils.git",
   "ssh_url": "git@github.com:googlemaps/google-maps-ios-utils.git",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1211
+  "_index": 1213
 }

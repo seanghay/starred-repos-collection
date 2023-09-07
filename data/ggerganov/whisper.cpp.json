@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ggerganov/whisper.cpp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ggerganov/whisper.cpp/deployments",
   "created_at": "2022-09-25T18:26:37Z",
-  "updated_at": "2023-09-06T01:05:49Z",
-  "pushed_at": "2023-09-05T23:53:52Z",
+  "updated_at": "2023-09-07T00:38:05Z",
+  "pushed_at": "2023-09-06T21:02:30Z",
   "git_url": "git://github.com/ggerganov/whisper.cpp.git",
   "ssh_url": "git@github.com:ggerganov/whisper.cpp.git",
   "clone_url": "https://github.com/ggerganov/whisper.cpp.git",
   "svn_url": "https://github.com/ggerganov/whisper.cpp",
   "homepage": "",
-  "size": 7257,
-  "stargazers_count": 22719,
-  "watchers_count": 22719,
+  "size": 7301,
+  "stargazers_count": 22752,
+  "watchers_count": 22752,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2106,
+  "forks_count": 2113,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 346,
+  "open_issues_count": 348,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,9 +106,9 @@
     "whisper"
   ],
   "visibility": "public",
-  "forks": 2106,
-  "open_issues": 346,
-  "watchers": 22719,
+  "forks": 2113,
+  "open_issues": 348,
+  "watchers": 22752,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 505
+  "_index": 507
 }

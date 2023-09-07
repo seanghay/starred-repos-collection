@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/jonataslaw/getx/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jonataslaw/getx/deployments",
   "created_at": "2019-11-14T01:16:25Z",
-  "updated_at": "2023-09-05T13:53:39Z",
-  "pushed_at": "2023-09-05T10:55:41Z",
+  "updated_at": "2023-09-07T01:31:20Z",
+  "pushed_at": "2023-09-06T02:01:26Z",
   "git_url": "git://github.com/jonataslaw/getx.git",
   "ssh_url": "git@github.com:jonataslaw/getx.git",
   "clone_url": "https://github.com/jonataslaw/getx.git",
   "svn_url": "https://github.com/jonataslaw/getx",
   "homepage": "",
-  "size": 34586,
-  "stargazers_count": 9047,
-  "watchers_count": 9047,
+  "size": 34462,
+  "stargazers_count": 9058,
+  "watchers_count": 9058,
   "language": "Dart",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 1494,
+  "forks_count": 1497,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 893,
+  "open_issues_count": 892,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,9 +112,9 @@
     "web"
   ],
   "visibility": "public",
-  "forks": 1494,
-  "open_issues": 893,
-  "watchers": 9047,
+  "forks": 1497,
+  "open_issues": 892,
+  "watchers": 9058,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1705
+  "_index": 1707
 }

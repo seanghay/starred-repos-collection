@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/zeplin/zeplin-extension-documentation/deployments",
   "created_at": "2018-02-21T04:55:28Z",
   "updated_at": "2023-06-14T13:33:32Z",
-  "pushed_at": "2023-08-29T15:53:28Z",
+  "pushed_at": "2023-09-06T13:44:58Z",
   "git_url": "git://github.com/zeplin/zeplin-extension-documentation.git",
   "ssh_url": "git@github.com:zeplin/zeplin-extension-documentation.git",
   "clone_url": "https://github.com/zeplin/zeplin-extension-documentation.git",
   "svn_url": "https://github.com/zeplin/zeplin-extension-documentation",
   "homepage": null,
-  "size": 962,
+  "size": 964,
   "stargazers_count": 237,
   "watchers_count": 237,
   "language": null,
@@ -107,5 +107,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2518
+  "_index": 2520
 }

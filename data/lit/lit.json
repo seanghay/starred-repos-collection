@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/lit/lit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lit/lit/deployments",
   "created_at": "2017-06-29T16:27:16Z",
-  "updated_at": "2023-09-06T00:34:51Z",
-  "pushed_at": "2023-09-05T23:33:03Z",
+  "updated_at": "2023-09-07T00:10:00Z",
+  "pushed_at": "2023-09-06T21:31:44Z",
   "git_url": "git://github.com/lit/lit.git",
   "ssh_url": "git@github.com:lit/lit.git",
   "clone_url": "https://github.com/lit/lit.git",
   "svn_url": "https://github.com/lit/lit",
   "homepage": "https://lit.dev",
-  "size": 54165,
-  "stargazers_count": 15659,
-  "watchers_count": 15659,
+  "size": 54537,
+  "stargazers_count": 15665,
+  "watchers_count": 15665,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 431,
+  "open_issues_count": 435,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 813,
-  "open_issues": 431,
-  "watchers": 15659,
+  "open_issues": 435,
+  "watchers": 15665,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1119
+  "_index": 1121
 }

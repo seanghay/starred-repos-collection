@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/lucide-icons/lucide/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lucide-icons/lucide/deployments",
   "created_at": "2020-06-08T15:36:21Z",
-  "updated_at": "2023-09-06T00:42:58Z",
-  "pushed_at": "2023-09-04T14:16:08Z",
+  "updated_at": "2023-09-07T01:26:14Z",
+  "pushed_at": "2023-09-06T08:22:08Z",
   "git_url": "git://github.com/lucide-icons/lucide.git",
   "ssh_url": "git@github.com:lucide-icons/lucide.git",
   "clone_url": "https://github.com/lucide-icons/lucide.git",
   "svn_url": "https://github.com/lucide-icons/lucide",
   "homepage": "https://lucide.dev",
-  "size": 10725,
-  "stargazers_count": 5825,
-  "watchers_count": 5825,
+  "size": 10723,
+  "stargazers_count": 5831,
+  "watchers_count": 5831,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 261,
+  "forks_count": 262,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 160,
+  "open_issues_count": 157,
   "license": {
     "key": "isc",
     "name": "ISC License",
@@ -110,9 +110,9 @@
     "vue"
   ],
   "visibility": "public",
-  "forks": 261,
-  "open_issues": 160,
-  "watchers": 5825,
+  "forks": 262,
+  "open_issues": 157,
+  "watchers": 5831,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1097
+  "_index": 1099
 }
