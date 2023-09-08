@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/resendlabs/react-email/releases{/id}",
   "deployments_url": "https://api.github.com/repos/resendlabs/react-email/deployments",
   "created_at": "2022-09-19T19:24:54Z",
-  "updated_at": "2023-09-07T01:29:07Z",
+  "updated_at": "2023-09-07T21:06:25Z",
   "pushed_at": "2023-09-07T00:42:22Z",
   "git_url": "git://github.com/resendlabs/react-email.git",
   "ssh_url": "git@github.com:resendlabs/react-email.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/resendlabs/react-email",
   "homepage": "https://react.email",
   "size": 53936,
-  "stargazers_count": 9161,
-  "watchers_count": 9161,
+  "stargazers_count": 9175,
+  "watchers_count": 9175,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 396,
   "open_issues": 86,
-  "watchers": 9161,
+  "watchers": 9175,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 661
+  "_index": 666
 }

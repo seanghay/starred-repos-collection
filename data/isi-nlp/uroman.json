@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/isi-nlp/uroman/releases{/id}",
   "deployments_url": "https://api.github.com/repos/isi-nlp/uroman/deployments",
   "created_at": "2018-06-27T22:12:23Z",
-  "updated_at": "2023-09-01T19:46:40Z",
+  "updated_at": "2023-09-07T23:26:37Z",
   "pushed_at": "2021-12-02T01:04:54Z",
   "git_url": "git://github.com/isi-nlp/uroman.git",
   "ssh_url": "git@github.com:isi-nlp/uroman.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/isi-nlp/uroman",
   "homepage": "https://www.isi.edu/~ulf/uroman.html",
   "size": 4659,
-  "stargazers_count": 89,
-  "watchers_count": 89,
+  "stargazers_count": 90,
+  "watchers_count": 90,
   "language": "Perl",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 6,
   "open_issues": 8,
-  "watchers": 89,
+  "watchers": 90,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 316
+  "_index": 321
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/powerline/fonts/releases{/id}",
   "deployments_url": "https://api.github.com/repos/powerline/fonts/deployments",
   "created_at": "2012-12-19T13:31:50Z",
-  "updated_at": "2023-09-06T21:30:46Z",
+  "updated_at": "2023-09-07T23:52:30Z",
   "pushed_at": "2023-06-29T22:50:34Z",
   "git_url": "git://github.com/powerline/fonts.git",
   "ssh_url": "git@github.com:powerline/fonts.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/powerline/fonts",
   "homepage": null,
   "size": 20700,
-  "stargazers_count": 24873,
-  "watchers_count": 24873,
+  "stargazers_count": 24871,
+  "watchers_count": 24871,
   "language": "Shell",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 3254,
   "open_issues": 179,
-  "watchers": 24873,
+  "watchers": 24871,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2226
+  "_index": 2231
 }

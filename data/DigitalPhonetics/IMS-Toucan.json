@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/DigitalPhonetics/IMS-Toucan/releases{/id}",
   "deployments_url": "https://api.github.com/repos/DigitalPhonetics/IMS-Toucan/deployments",
   "created_at": "2021-08-05T10:12:38Z",
-  "updated_at": "2023-09-04T20:50:52Z",
+  "updated_at": "2023-09-07T11:32:48Z",
   "pushed_at": "2023-09-07T01:35:03Z",
   "git_url": "git://github.com/DigitalPhonetics/IMS-Toucan.git",
   "ssh_url": "git@github.com:DigitalPhonetics/IMS-Toucan.git",
   "clone_url": "https://github.com/DigitalPhonetics/IMS-Toucan.git",
   "svn_url": "https://github.com/DigitalPhonetics/IMS-Toucan",
   "homepage": "",
-  "size": 13958,
-  "stargazers_count": 370,
-  "watchers_count": 370,
+  "size": 13967,
+  "stargazers_count": 371,
+  "watchers_count": 371,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 71,
   "open_issues": 28,
-  "watchers": 370,
+  "watchers": 371,
   "default_branch": "ToucanTTS",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 162
+  "_index": 167
 }

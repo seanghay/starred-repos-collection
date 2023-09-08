@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/maayyaannkk/ImagePicker/deployments",
   "created_at": "2018-04-13T19:29:07Z",
   "updated_at": "2023-07-17T08:04:20Z",
-  "pushed_at": "2023-09-06T19:38:36Z",
+  "pushed_at": "2023-09-07T07:03:20Z",
   "git_url": "git://github.com/maayyaannkk/ImagePicker.git",
   "ssh_url": "git@github.com:maayyaannkk/ImagePicker.git",
   "clone_url": "https://github.com/maayyaannkk/ImagePicker.git",
   "svn_url": "https://github.com/maayyaannkk/ImagePicker",
   "homepage": null,
-  "size": 6155,
+  "size": 6160,
   "stargazers_count": 74,
   "watchers_count": 74,
   "language": "Java",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 8,
+  "open_issues_count": 6,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,7 +106,7 @@
   ],
   "visibility": "public",
   "forks": 15,
-  "open_issues": 8,
+  "open_issues": 6,
   "watchers": 74,
   "default_branch": "master",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1891
+  "_index": 1896
 }

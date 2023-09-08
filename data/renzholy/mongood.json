@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 57,
+  "forks_count": 58,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,7 +109,7 @@
     "vite"
   ],
   "visibility": "public",
-  "forks": 57,
+  "forks": 58,
   "open_issues": 5,
   "watchers": 706,
   "default_branch": "main",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 909
+  "_index": 914
 }

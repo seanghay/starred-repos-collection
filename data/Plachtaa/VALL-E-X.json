@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Plachtaa/VALL-E-X/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Plachtaa/VALL-E-X/deployments",
   "created_at": "2023-07-29T07:10:10Z",
-  "updated_at": "2023-09-07T01:38:28Z",
+  "updated_at": "2023-09-08T01:41:34Z",
   "pushed_at": "2023-09-02T20:02:51Z",
   "git_url": "git://github.com/Plachtaa/VALL-E-X.git",
   "ssh_url": "git@github.com:Plachtaa/VALL-E-X.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Plachtaa/VALL-E-X",
   "homepage": "",
   "size": 59420,
-  "stargazers_count": 4935,
-  "watchers_count": 4935,
+  "stargazers_count": 4997,
+  "watchers_count": 4997,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 394,
+  "forks_count": 406,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 21,
+  "open_issues_count": 20,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,9 +107,9 @@
     "voice-clone"
   ],
   "visibility": "public",
-  "forks": 394,
-  "open_issues": 21,
-  "watchers": 4935,
+  "forks": 406,
+  "open_issues": 20,
+  "watchers": 4997,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 32
+  "_index": 37
 }

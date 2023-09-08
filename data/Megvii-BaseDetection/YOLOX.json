@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2043,
+  "forks_count": 2044,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -111,7 +111,7 @@
     "yolox"
   ],
   "visibility": "public",
-  "forks": 2043,
+  "forks": 2044,
   "open_issues": 675,
   "watchers": 8477,
   "default_branch": "main",
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 587
+  "_index": 592
 }

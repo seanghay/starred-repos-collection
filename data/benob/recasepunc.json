@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/benob/recasepunc/releases{/id}",
   "deployments_url": "https://api.github.com/repos/benob/recasepunc/deployments",
   "created_at": "2021-09-20T09:52:33Z",
-  "updated_at": "2023-09-04T11:25:07Z",
+  "updated_at": "2023-09-07T04:50:18Z",
   "pushed_at": "2022-12-07T17:33:31Z",
   "git_url": "git://github.com/benob/recasepunc.git",
   "ssh_url": "git@github.com:benob/recasepunc.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/benob/recasepunc",
   "homepage": null,
   "size": 55,
-  "stargazers_count": 110,
-  "watchers_count": 110,
+  "stargazers_count": 111,
+  "watchers_count": 111,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 18,
   "open_issues": 9,
-  "watchers": 110,
+  "watchers": 111,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 72
+  "_index": 77
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/trekhleb/javascript-algorithms/releases{/id}",
   "deployments_url": "https://api.github.com/repos/trekhleb/javascript-algorithms/deployments",
   "created_at": "2018-03-24T07:47:04Z",
-  "updated_at": "2023-09-07T00:45:57Z",
+  "updated_at": "2023-09-08T01:39:35Z",
   "pushed_at": "2023-09-06T12:12:51Z",
   "git_url": "git://github.com/trekhleb/javascript-algorithms.git",
   "ssh_url": "git@github.com:trekhleb/javascript-algorithms.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/trekhleb/javascript-algorithms",
   "homepage": "",
   "size": 13363,
-  "stargazers_count": 174839,
-  "watchers_count": 174839,
+  "stargazers_count": 174859,
+  "watchers_count": 174859,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 28731,
+  "forks_count": 28740,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,9 +108,9 @@
     "javascript-algorithms"
   ],
   "visibility": "public",
-  "forks": 28731,
+  "forks": 28740,
   "open_issues": 335,
-  "watchers": 174839,
+  "watchers": 174859,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2852
+  "_index": 2857
 }

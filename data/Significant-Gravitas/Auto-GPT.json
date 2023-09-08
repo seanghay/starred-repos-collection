@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Significant-Gravitas/Auto-GPT/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Significant-Gravitas/Auto-GPT/deployments",
   "created_at": "2023-03-16T09:21:07Z",
-  "updated_at": "2023-09-07T01:36:33Z",
-  "pushed_at": "2023-09-06T23:50:16Z",
+  "updated_at": "2023-09-08T01:15:35Z",
+  "pushed_at": "2023-09-08T01:26:30Z",
   "git_url": "git://github.com/Significant-Gravitas/Auto-GPT.git",
   "ssh_url": "git@github.com:Significant-Gravitas/Auto-GPT.git",
   "clone_url": "https://github.com/Significant-Gravitas/Auto-GPT.git",
   "svn_url": "https://github.com/Significant-Gravitas/Auto-GPT",
   "homepage": "https://agpt.co",
-  "size": 55399,
-  "stargazers_count": 148043,
-  "watchers_count": 148043,
+  "size": 56691,
+  "stargazers_count": 148121,
+  "watchers_count": 148121,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 32052,
+  "forks_count": 32069,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 747,
+  "open_issues_count": 741,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,9 +106,9 @@
     "python"
   ],
   "visibility": "public",
-  "forks": 32052,
-  "open_issues": 747,
-  "watchers": 148043,
+  "forks": 32069,
+  "open_issues": 741,
+  "watchers": 148121,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 401
+  "_index": 406
 }

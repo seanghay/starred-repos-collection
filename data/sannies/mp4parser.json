@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sannies/mp4parser/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sannies/mp4parser/deployments",
   "created_at": "2013-09-15T21:37:40Z",
-  "updated_at": "2023-09-05T03:43:01Z",
+  "updated_at": "2023-09-07T08:03:06Z",
   "pushed_at": "2023-09-03T17:09:40Z",
   "git_url": "git://github.com/sannies/mp4parser.git",
   "ssh_url": "git@github.com:sannies/mp4parser.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2817
+  "_index": 2822
 }

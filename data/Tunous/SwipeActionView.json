@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Tunous/SwipeActionView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Tunous/SwipeActionView/deployments",
   "created_at": "2016-08-18T19:07:04Z",
-  "updated_at": "2023-07-14T11:45:20Z",
+  "updated_at": "2023-09-07T14:03:07Z",
   "pushed_at": "2021-07-15T18:12:22Z",
   "git_url": "git://github.com/Tunous/SwipeActionView.git",
   "ssh_url": "git@github.com:Tunous/SwipeActionView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Tunous/SwipeActionView",
   "homepage": "",
   "size": 1103,
-  "stargazers_count": 178,
-  "watchers_count": 178,
+  "stargazers_count": 179,
+  "watchers_count": 179,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 13,
   "open_issues": 6,
-  "watchers": 178,
+  "watchers": 179,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2307
+  "_index": 2312
 }
