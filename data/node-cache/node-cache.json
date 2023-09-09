@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/node-cache/node-cache/releases{/id}",
   "deployments_url": "https://api.github.com/repos/node-cache/node-cache/deployments",
   "created_at": "2011-10-18T14:30:09Z",
-  "updated_at": "2023-09-05T17:45:50Z",
+  "updated_at": "2023-09-08T16:30:52Z",
   "pushed_at": "2023-01-06T08:08:26Z",
   "git_url": "git://github.com/node-cache/node-cache.git",
   "ssh_url": "git@github.com:node-cache/node-cache.git",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1202
+  "_index": 1205
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/messense/crfs-rs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/messense/crfs-rs/deployments",
   "created_at": "2021-01-31T03:39:51Z",
-  "updated_at": "2023-08-02T17:00:44Z",
+  "updated_at": "2023-09-08T18:17:59Z",
   "pushed_at": "2023-09-01T09:21:21Z",
   "git_url": "git://github.com/messense/crfs-rs.git",
   "ssh_url": "git@github.com:messense/crfs-rs.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/messense/crfs-rs",
   "homepage": "",
   "size": 75,
-  "stargazers_count": 27,
-  "watchers_count": 27,
+  "stargazers_count": 26,
+  "watchers_count": 26,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 9,
+  "forks_count": 10,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,9 +102,9 @@
     "crfsuite"
   ],
   "visibility": "public",
-  "forks": 9,
+  "forks": 10,
   "open_issues": 4,
-  "watchers": 27,
+  "watchers": 26,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 102
+  "_index": 105
 }

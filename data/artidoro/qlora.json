@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/artidoro/qlora/releases{/id}",
   "deployments_url": "https://api.github.com/repos/artidoro/qlora/deployments",
   "created_at": "2023-05-11T09:30:23Z",
-  "updated_at": "2023-09-08T01:25:23Z",
+  "updated_at": "2023-09-09T00:42:03Z",
   "pushed_at": "2023-09-06T21:05:48Z",
   "git_url": "git://github.com/artidoro/qlora.git",
   "ssh_url": "git@github.com:artidoro/qlora.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/artidoro/qlora",
   "homepage": "https://arxiv.org/abs/2305.14314",
   "size": 31232,
-  "stargazers_count": 7449,
-  "watchers_count": 7449,
+  "stargazers_count": 7458,
+  "watchers_count": 7458,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 642,
+  "forks_count": 645,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 642,
+  "forks": 645,
   "open_issues": 181,
-  "watchers": 7449,
+  "watchers": 7458,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 318
+  "_index": 321
 }

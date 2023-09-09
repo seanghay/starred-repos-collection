@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pawegio/KAndroid/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pawegio/KAndroid/deployments",
   "created_at": "2015-03-26T19:03:16Z",
-  "updated_at": "2023-08-14T20:11:01Z",
+  "updated_at": "2023-09-08T16:56:04Z",
   "pushed_at": "2021-05-25T07:37:10Z",
   "git_url": "git://github.com/pawegio/KAndroid.git",
   "ssh_url": "git@github.com:pawegio/KAndroid.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/pawegio/KAndroid",
   "homepage": null,
   "size": 1387,
-  "stargazers_count": 895,
-  "watchers_count": 895,
+  "stargazers_count": 894,
+  "watchers_count": 894,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 83,
   "open_issues": 5,
-  "watchers": 895,
+  "watchers": 894,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2836
+  "_index": 2839
 }

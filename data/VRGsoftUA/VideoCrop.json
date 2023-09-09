@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/VRGsoftUA/VideoCrop/releases{/id}",
   "deployments_url": "https://api.github.com/repos/VRGsoftUA/VideoCrop/deployments",
   "created_at": "2018-08-21T11:48:14Z",
-  "updated_at": "2023-08-03T06:24:37Z",
+  "updated_at": "2023-09-08T17:44:09Z",
   "pushed_at": "2019-08-11T18:35:15Z",
   "git_url": "git://github.com/VRGsoftUA/VideoCrop.git",
   "ssh_url": "git@github.com:VRGsoftUA/VideoCrop.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/VRGsoftUA/VideoCrop",
   "homepage": "http://vrgsoft.net/",
   "size": 37534,
-  "stargazers_count": 101,
-  "watchers_count": 101,
+  "stargazers_count": 100,
+  "watchers_count": 100,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 39,
   "open_issues": 19,
-  "watchers": 101,
+  "watchers": 100,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2760
+  "_index": 2763
 }

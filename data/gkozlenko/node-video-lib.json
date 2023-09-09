@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/gkozlenko/node-video-lib/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gkozlenko/node-video-lib/deployments",
   "created_at": "2016-05-28T06:08:56Z",
-  "updated_at": "2023-09-07T17:14:18Z",
+  "updated_at": "2023-09-08T17:10:54Z",
   "pushed_at": "2023-07-19T16:53:19Z",
   "git_url": "git://github.com/gkozlenko/node-video-lib.git",
   "ssh_url": "git@github.com:gkozlenko/node-video-lib.git",
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2622
+  "_index": 2625
 }

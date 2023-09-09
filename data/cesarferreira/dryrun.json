@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/cesarferreira/dryrun/releases{/id}",
   "deployments_url": "https://api.github.com/repos/cesarferreira/dryrun/deployments",
   "created_at": "2015-08-19T00:00:04Z",
-  "updated_at": "2023-09-07T14:43:38Z",
+  "updated_at": "2023-09-08T17:00:44Z",
   "pushed_at": "2020-11-25T19:25:25Z",
   "git_url": "git://github.com/cesarferreira/dryrun.git",
   "ssh_url": "git@github.com:cesarferreira/dryrun.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/cesarferreira/dryrun",
   "homepage": "http://cesarferreira.com/dryrun/",
   "size": 6599,
-  "stargazers_count": 3835,
-  "watchers_count": 3835,
+  "stargazers_count": 3834,
+  "watchers_count": 3834,
   "language": "Ruby",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 287,
   "open_issues": 4,
-  "watchers": 3835,
+  "watchers": 3834,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1590
+  "_index": 1593
 }

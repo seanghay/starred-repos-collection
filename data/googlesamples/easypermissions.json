@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/googlesamples/easypermissions/releases{/id}",
   "deployments_url": "https://api.github.com/repos/googlesamples/easypermissions/deployments",
   "created_at": "2015-12-22T18:05:53Z",
-  "updated_at": "2023-09-07T08:51:37Z",
+  "updated_at": "2023-09-08T17:04:59Z",
   "pushed_at": "2023-08-01T18:11:12Z",
   "git_url": "git://github.com/googlesamples/easypermissions.git",
   "ssh_url": "git@github.com:googlesamples/easypermissions.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/googlesamples/easypermissions",
   "homepage": "https://firebaseopensource.com/projects/googlesamples/easypermissions/",
   "size": 635,
-  "stargazers_count": 9722,
-  "watchers_count": 9722,
+  "stargazers_count": 9723,
+  "watchers_count": 9723,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 1485,
   "open_issues": 32,
-  "watchers": 9722,
+  "watchers": 9723,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1792
+  "_index": 1795
 }

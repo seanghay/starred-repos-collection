@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/microg/GmsCore/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microg/GmsCore/deployments",
   "created_at": "2014-04-23T19:28:47Z",
-  "updated_at": "2023-09-07T17:56:11Z",
+  "updated_at": "2023-09-08T17:28:26Z",
   "pushed_at": "2023-09-07T21:29:52Z",
   "git_url": "git://github.com/microg/GmsCore.git",
   "ssh_url": "git@github.com:microg/GmsCore.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/microg/GmsCore",
   "homepage": "https://microg.org",
   "size": 8255,
-  "stargazers_count": 5916,
-  "watchers_count": 5916,
+  "stargazers_count": 5918,
+  "watchers_count": 5918,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1225,
+  "forks_count": 1227,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 825,
+  "open_issues_count": 826,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -114,9 +114,9 @@
     "push-notifications"
   ],
   "visibility": "public",
-  "forks": 1225,
-  "open_issues": 825,
-  "watchers": 5916,
+  "forks": 1227,
+  "open_issues": 826,
+  "watchers": 5918,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1499
+  "_index": 1502
 }

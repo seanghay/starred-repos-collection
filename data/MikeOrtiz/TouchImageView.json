@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/MikeOrtiz/TouchImageView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/MikeOrtiz/TouchImageView/deployments",
   "created_at": "2011-09-18T00:56:01Z",
-  "updated_at": "2023-09-07T17:12:14Z",
+  "updated_at": "2023-09-08T16:30:35Z",
   "pushed_at": "2023-09-07T00:16:26Z",
   "git_url": "git://github.com/MikeOrtiz/TouchImageView.git",
   "ssh_url": "git@github.com:MikeOrtiz/TouchImageView.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2296
+  "_index": 2299
 }

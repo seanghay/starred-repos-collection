@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/micromark/micromark/releases{/id}",
   "deployments_url": "https://api.github.com/repos/micromark/micromark/deployments",
   "created_at": "2018-11-13T17:34:37Z",
-  "updated_at": "2023-09-07T06:16:55Z",
+  "updated_at": "2023-09-08T17:47:12Z",
   "pushed_at": "2023-06-26T12:37:23Z",
   "git_url": "git://github.com/micromark/micromark.git",
   "ssh_url": "git@github.com:micromark/micromark.git",
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1597
+  "_index": 1600
 }

@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/inikulin/parse5/releases{/id}",
   "deployments_url": "https://api.github.com/repos/inikulin/parse5/deployments",
   "created_at": "2013-03-18T19:46:24Z",
-  "updated_at": "2023-09-06T14:16:13Z",
-  "pushed_at": "2023-09-05T03:13:58Z",
+  "updated_at": "2023-09-08T22:53:42Z",
+  "pushed_at": "2023-09-08T03:28:12Z",
   "git_url": "git://github.com/inikulin/parse5.git",
   "ssh_url": "git@github.com:inikulin/parse5.git",
   "clone_url": "https://github.com/inikulin/parse5.git",
   "svn_url": "https://github.com/inikulin/parse5",
   "homepage": "",
-  "size": 9395,
+  "size": 8813,
   "stargazers_count": 3419,
   "watchers_count": 3419,
   "language": "TypeScript",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 263,
+  "forks_count": 264,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,7 +107,7 @@
     "whatwg"
   ],
   "visibility": "public",
-  "forks": 263,
+  "forks": 264,
   "open_issues": 29,
   "watchers": 3419,
   "default_branch": "master",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 851
+  "_index": 854
 }

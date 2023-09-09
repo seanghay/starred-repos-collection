@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/tinacms/tinacms",
-  "description": "The Markdown CMS",
+  "description": "A fully open-source headless CMS that supports Git and Visual Editing",
   "fork": false,
   "url": "https://api.github.com/repos/tinacms/tinacms",
   "forks_url": "https://api.github.com/repos/tinacms/tinacms/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/tinacms/tinacms/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tinacms/tinacms/deployments",
   "created_at": "2019-07-23T18:37:47Z",
-  "updated_at": "2023-09-07T19:16:50Z",
-  "pushed_at": "2023-09-07T17:36:23Z",
+  "updated_at": "2023-09-08T17:56:09Z",
+  "pushed_at": "2023-09-08T16:42:38Z",
   "git_url": "git://github.com/tinacms/tinacms.git",
   "ssh_url": "git@github.com:tinacms/tinacms.git",
   "clone_url": "https://github.com/tinacms/tinacms.git",
   "svn_url": "https://github.com/tinacms/tinacms",
   "homepage": "https://tina.io",
-  "size": 899209,
-  "stargazers_count": 9244,
-  "watchers_count": 9244,
+  "size": 899220,
+  "stargazers_count": 9247,
+  "watchers_count": 9247,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,17 +82,17 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 484,
+  "forks_count": 483,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 66,
+  "open_issues_count": 65,
   "license": {
-    "key": "other",
-    "name": "Other",
-    "spdx_id": "NOASSERTION",
-    "url": null,
-    "node_id": "MDc6TGljZW5zZTA="
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
   },
   "allow_forking": true,
   "is_template": false,
@@ -109,9 +109,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 484,
-  "open_issues": 66,
-  "watchers": 9244,
+  "forks": 483,
+  "open_issues": 65,
+  "watchers": 9247,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1305
+  "_index": 1308
 }

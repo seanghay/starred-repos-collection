@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Alamofire/Alamofire/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Alamofire/Alamofire/deployments",
   "created_at": "2014-07-31T05:56:19Z",
-  "updated_at": "2023-09-07T20:16:44Z",
+  "updated_at": "2023-09-08T18:24:59Z",
   "pushed_at": "2023-09-01T19:30:37Z",
   "git_url": "git://github.com/Alamofire/Alamofire.git",
   "ssh_url": "git@github.com:Alamofire/Alamofire.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Alamofire/Alamofire",
   "homepage": "",
   "size": 32619,
-  "stargazers_count": 39713,
-  "watchers_count": 39713,
+  "stargazers_count": 39717,
+  "watchers_count": 39717,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 7500,
+  "forks_count": 7503,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -115,9 +115,9 @@
     "xcode"
   ],
   "visibility": "public",
-  "forks": 7500,
+  "forks": 7503,
   "open_issues": 37,
-  "watchers": 39713,
+  "watchers": 39717,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2618
+  "_index": 2621
 }

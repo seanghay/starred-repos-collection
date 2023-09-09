@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lingjzhu/CharsiuG2P/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lingjzhu/CharsiuG2P/deployments",
   "created_at": "2022-01-19T17:17:31Z",
-  "updated_at": "2023-09-08T01:37:01Z",
+  "updated_at": "2023-09-08T20:46:46Z",
   "pushed_at": "2023-05-26T18:40:21Z",
   "git_url": "git://github.com/lingjzhu/CharsiuG2P.git",
   "ssh_url": "git@github.com:lingjzhu/CharsiuG2P.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lingjzhu/CharsiuG2P",
   "homepage": "",
   "size": 182595,
-  "stargazers_count": 186,
-  "watchers_count": 186,
+  "stargazers_count": 189,
+  "watchers_count": 189,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 18,
   "open_issues": 4,
-  "watchers": 186,
+  "watchers": 189,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 169
+  "_index": 172
 }

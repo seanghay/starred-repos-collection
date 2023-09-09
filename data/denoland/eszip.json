@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/denoland/eszip/releases{/id}",
   "deployments_url": "https://api.github.com/repos/denoland/eszip/deployments",
   "created_at": "2021-02-14T22:40:09Z",
-  "updated_at": "2023-09-04T15:41:37Z",
-  "pushed_at": "2023-09-07T15:46:43Z",
+  "updated_at": "2023-09-08T08:21:59Z",
+  "pushed_at": "2023-09-08T14:19:49Z",
   "git_url": "git://github.com/denoland/eszip.git",
   "ssh_url": "git@github.com:denoland/eszip.git",
   "clone_url": "https://github.com/denoland/eszip.git",
   "svn_url": "https://github.com/denoland/eszip",
   "homepage": "https://crates.io/crates/eszip",
-  "size": 44566,
-  "stargazers_count": 187,
-  "watchers_count": 187,
+  "size": 45145,
+  "stargazers_count": 188,
+  "watchers_count": 188,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 9,
+  "open_issues_count": 8,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 22,
-  "open_issues": 9,
-  "watchers": 187,
+  "open_issues": 8,
+  "watchers": 188,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 836
+  "_index": 839
 }

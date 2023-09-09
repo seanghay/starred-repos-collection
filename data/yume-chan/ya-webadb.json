@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yume-chan/ya-webadb/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yume-chan/ya-webadb/deployments",
   "created_at": "2020-01-31T08:17:11Z",
-  "updated_at": "2023-09-07T16:42:50Z",
+  "updated_at": "2023-09-08T20:29:32Z",
   "pushed_at": "2023-09-07T17:28:47Z",
   "git_url": "git://github.com/yume-chan/ya-webadb.git",
   "ssh_url": "git@github.com:yume-chan/ya-webadb.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yume-chan/ya-webadb",
   "homepage": "https://tango-web-mu.vercel.app/",
   "size": 251982,
-  "stargazers_count": 1607,
-  "watchers_count": 1607,
+  "stargazers_count": 1610,
+  "watchers_count": 1610,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 230,
+  "forks_count": 231,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "webusb-api"
   ],
   "visibility": "public",
-  "forks": 230,
+  "forks": 231,
   "open_issues": 20,
-  "watchers": 1607,
+  "watchers": 1610,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1731
+  "_index": 1734
 }

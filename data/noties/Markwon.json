@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/noties/Markwon/releases{/id}",
   "deployments_url": "https://api.github.com/repos/noties/Markwon/deployments",
   "created_at": "2017-05-18T13:50:21Z",
-  "updated_at": "2023-09-07T12:27:37Z",
+  "updated_at": "2023-09-08T17:25:12Z",
   "pushed_at": "2023-06-27T04:39:59Z",
   "git_url": "git://github.com/noties/Markwon.git",
   "ssh_url": "git@github.com:noties/Markwon.git",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2830
+  "_index": 2833
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nisrulz/zentone/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nisrulz/zentone/deployments",
   "created_at": "2015-04-18T21:53:02Z",
-  "updated_at": "2023-09-07T13:33:38Z",
+  "updated_at": "2023-09-08T16:56:52Z",
   "pushed_at": "2022-07-12T23:14:09Z",
   "git_url": "git://github.com/nisrulz/zentone.git",
   "ssh_url": "git@github.com:nisrulz/zentone.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nisrulz/zentone",
   "homepage": "http://nisrulz.github.io/zentone",
   "size": 2576,
-  "stargazers_count": 109,
-  "watchers_count": 109,
+  "stargazers_count": 108,
+  "watchers_count": 108,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 27,
   "open_issues": 1,
-  "watchers": 109,
+  "watchers": 108,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2384
+  "_index": 2387
 }

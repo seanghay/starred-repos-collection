@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kittinunf/fuel/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kittinunf/fuel/deployments",
   "created_at": "2015-06-04T04:03:33Z",
-  "updated_at": "2023-09-07T22:21:10Z",
+  "updated_at": "2023-09-08T16:58:20Z",
   "pushed_at": "2023-07-25T15:01:09Z",
   "git_url": "git://github.com/kittinunf/fuel.git",
   "ssh_url": "git@github.com:kittinunf/fuel.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 420,
+  "forks_count": 419,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,7 +106,7 @@
     "rxjava"
   ],
   "visibility": "public",
-  "forks": 420,
+  "forks": 419,
   "open_issues": 87,
   "watchers": 4390,
   "default_branch": "main",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2652
+  "_index": 2655
 }

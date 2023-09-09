@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/aritraroy/Flashbar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/aritraroy/Flashbar/deployments",
   "created_at": "2017-12-21T16:59:45Z",
-  "updated_at": "2023-09-04T20:50:12Z",
+  "updated_at": "2023-09-08T17:34:13Z",
   "pushed_at": "2021-11-10T07:13:49Z",
   "git_url": "git://github.com/aritraroy/Flashbar.git",
   "ssh_url": "git@github.com:aritraroy/Flashbar.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/aritraroy/Flashbar",
   "homepage": "",
   "size": 1825,
-  "stargazers_count": 1722,
-  "watchers_count": 1722,
+  "stargazers_count": 1721,
+  "watchers_count": 1721,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 184,
   "open_issues": 38,
-  "watchers": 1722,
+  "watchers": 1721,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2567
+  "_index": 2570
 }
