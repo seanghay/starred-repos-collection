@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/danielduarte/flowed/deployments",
   "created_at": "2019-04-24T06:14:44Z",
   "updated_at": "2023-09-01T14:21:21Z",
-  "pushed_at": "2023-07-17T20:09:03Z",
+  "pushed_at": "2023-09-09T23:58:23Z",
   "git_url": "git://github.com/danielduarte/flowed.git",
   "ssh_url": "git@github.com:danielduarte/flowed.git",
   "clone_url": "https://github.com/danielduarte/flowed.git",
   "svn_url": "https://github.com/danielduarte/flowed",
   "homepage": "https://danielduarte.github.io/flowed",
-  "size": 1471,
+  "size": 1620,
   "stargazers_count": 106,
   "watchers_count": 106,
   "language": "TypeScript",
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1077
+  "_index": 1078
 }

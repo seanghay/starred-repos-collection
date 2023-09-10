@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/deepdoctection/deepdoctection/releases{/id}",
   "deployments_url": "https://api.github.com/repos/deepdoctection/deepdoctection/deployments",
   "created_at": "2021-12-09T06:43:29Z",
-  "updated_at": "2023-09-08T20:49:14Z",
+  "updated_at": "2023-09-09T15:19:58Z",
   "pushed_at": "2023-09-04T10:56:27Z",
   "git_url": "git://github.com/deepdoctection/deepdoctection.git",
   "ssh_url": "git@github.com:deepdoctection/deepdoctection.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/deepdoctection/deepdoctection",
   "homepage": "",
   "size": 14565,
-  "stargazers_count": 1654,
-  "watchers_count": 1654,
+  "stargazers_count": 1655,
+  "watchers_count": 1655,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -117,7 +117,7 @@
   "visibility": "public",
   "forks": 75,
   "open_issues": 25,
-  "watchers": 1654,
+  "watchers": 1655,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 146
+  "_index": 147
 }

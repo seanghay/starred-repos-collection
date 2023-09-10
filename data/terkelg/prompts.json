@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/terkelg/prompts/releases{/id}",
   "deployments_url": "https://api.github.com/repos/terkelg/prompts/deployments",
   "created_at": "2018-02-24T10:11:47Z",
-  "updated_at": "2023-09-08T17:37:07Z",
+  "updated_at": "2023-09-09T20:04:37Z",
   "pushed_at": "2023-06-19T09:35:32Z",
   "git_url": "git://github.com/terkelg/prompts.git",
   "ssh_url": "git@github.com:terkelg/prompts.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/terkelg/prompts",
   "homepage": "",
   "size": 8772,
-  "stargazers_count": 8125,
-  "watchers_count": 8125,
+  "stargazers_count": 8129,
+  "watchers_count": 8129,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 136,
+  "open_issues_count": 137,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,8 +109,8 @@
   ],
   "visibility": "public",
   "forks": 319,
-  "open_issues": 136,
-  "watchers": 8125,
+  "open_issues": 137,
+  "watchers": 8129,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 817
+  "_index": 818
 }

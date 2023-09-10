@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bazelbuild/bazelisk/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bazelbuild/bazelisk/deployments",
   "created_at": "2018-09-20T19:42:08Z",
-  "updated_at": "2023-09-07T14:06:17Z",
+  "updated_at": "2023-09-09T01:46:42Z",
   "pushed_at": "2023-09-08T23:13:51Z",
   "git_url": "git://github.com/bazelbuild/bazelisk.git",
   "ssh_url": "git@github.com:bazelbuild/bazelisk.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/bazelbuild/bazelisk",
   "homepage": null,
   "size": 531,
-  "stargazers_count": 1606,
-  "watchers_count": 1606,
+  "stargazers_count": 1607,
+  "watchers_count": 1607,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 98,
+  "open_issues_count": 99,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 300,
-  "open_issues": 98,
-  "watchers": 1606,
+  "open_issues": 99,
+  "watchers": 1607,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 86
+  "_index": 87
 }

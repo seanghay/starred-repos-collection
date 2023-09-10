@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/thelinhbkhn2014/Text2PhonemeSequence/releases{/id}",
   "deployments_url": "https://api.github.com/repos/thelinhbkhn2014/Text2PhonemeSequence/deployments",
   "created_at": "2023-05-19T09:22:05Z",
-  "updated_at": "2023-07-11T11:24:17Z",
+  "updated_at": "2023-09-09T08:53:34Z",
   "pushed_at": "2023-07-03T15:42:40Z",
   "git_url": "git://github.com/thelinhbkhn2014/Text2PhonemeSequence.git",
   "ssh_url": "git@github.com:thelinhbkhn2014/Text2PhonemeSequence.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/thelinhbkhn2014/Text2PhonemeSequence",
   "homepage": null,
   "size": 49856,
-  "stargazers_count": 30,
-  "watchers_count": 30,
+  "stargazers_count": 29,
+  "watchers_count": 29,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 8,
   "open_issues": 3,
-  "watchers": 30,
+  "watchers": 29,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 167
+  "_index": 168
 }

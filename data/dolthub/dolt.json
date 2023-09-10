@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/dolthub/dolt.git",
   "svn_url": "https://github.com/dolthub/dolt",
   "homepage": "",
-  "size": 134785,
+  "size": 134789,
   "stargazers_count": 15495,
   "watchers_count": 15495,
   "language": "Go",
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1638
+  "_index": 1639
 }

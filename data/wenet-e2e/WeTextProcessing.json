@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/wenet-e2e/WeTextProcessing.git",
   "svn_url": "https://github.com/wenet-e2e/WeTextProcessing",
   "homepage": "",
-  "size": 246,
+  "size": 255,
   "stargazers_count": 285,
   "watchers_count": 285,
   "language": "Python",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 4,
+  "open_issues_count": 5,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -104,7 +104,7 @@
   ],
   "visibility": "public",
   "forks": 41,
-  "open_issues": 4,
+  "open_issues": 5,
   "watchers": 285,
   "default_branch": "master",
   "permissions": {
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 118
+  "_index": 119
 }

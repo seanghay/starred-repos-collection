@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ElemeFE/element/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ElemeFE/element/deployments",
   "created_at": "2016-09-03T06:19:26Z",
-  "updated_at": "2023-09-08T17:14:23Z",
-  "pushed_at": "2023-09-07T17:13:13Z",
+  "updated_at": "2023-09-09T12:36:30Z",
+  "pushed_at": "2023-09-09T04:46:33Z",
   "git_url": "git://github.com/ElemeFE/element.git",
   "ssh_url": "git@github.com:ElemeFE/element.git",
   "clone_url": "https://github.com/ElemeFE/element.git",
   "svn_url": "https://github.com/ElemeFE/element",
   "homepage": "https://element.eleme.io/",
   "size": 94400,
-  "stargazers_count": 53655,
-  "watchers_count": 53655,
+  "stargazers_count": 53658,
+  "watchers_count": 53658,
   "language": "Vue",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2618,
+  "open_issues_count": 2619,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,8 +108,8 @@
   ],
   "visibility": "public",
   "forks": 14639,
-  "open_issues": 2618,
-  "watchers": 53655,
+  "open_issues": 2619,
+  "watchers": 53658,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2979
+  "_index": 2980
 }

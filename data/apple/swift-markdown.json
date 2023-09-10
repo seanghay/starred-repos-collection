@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/apple/swift-markdown/deployments",
   "created_at": "2021-07-19T16:42:24Z",
   "updated_at": "2023-09-08T02:41:04Z",
-  "pushed_at": "2023-09-08T08:04:39Z",
+  "pushed_at": "2023-09-09T12:06:18Z",
   "git_url": "git://github.com/apple/swift-markdown.git",
   "ssh_url": "git@github.com:apple/swift-markdown.git",
   "clone_url": "https://github.com/apple/swift-markdown.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1292
+  "_index": 1293
 }

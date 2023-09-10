@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/WeblateOrg/weblate/releases{/id}",
   "deployments_url": "https://api.github.com/repos/WeblateOrg/weblate/deployments",
   "created_at": "2012-02-27T09:33:29Z",
-  "updated_at": "2023-09-08T10:59:49Z",
-  "pushed_at": "2023-09-08T22:44:59Z",
+  "updated_at": "2023-09-09T17:49:33Z",
+  "pushed_at": "2023-09-09T09:31:15Z",
   "git_url": "git://github.com/WeblateOrg/weblate.git",
   "ssh_url": "git@github.com:WeblateOrg/weblate.git",
   "clone_url": "https://github.com/WeblateOrg/weblate.git",
   "svn_url": "https://github.com/WeblateOrg/weblate",
   "homepage": "https://weblate.org/",
-  "size": 2349845,
-  "stargazers_count": 3775,
-  "watchers_count": 3775,
+  "size": 2350887,
+  "stargazers_count": 3776,
+  "watchers_count": 3776,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 889,
+  "forks_count": 888,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 432,
+  "open_issues_count": 435,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -111,9 +111,9 @@
     "translation"
   ],
   "visibility": "public",
-  "forks": 889,
-  "open_issues": 432,
-  "watchers": 3775,
+  "forks": 888,
+  "open_issues": 435,
+  "watchers": 3776,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 20
+  "_index": 21
 }

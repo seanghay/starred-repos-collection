@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/lydell/js-tokens/deployments",
   "created_at": "2014-03-08T22:28:09Z",
   "updated_at": "2023-09-08T08:17:58Z",
-  "pushed_at": "2023-07-19T07:43:11Z",
+  "pushed_at": "2023-09-09T13:02:46Z",
   "git_url": "git://github.com/lydell/js-tokens.git",
   "ssh_url": "git@github.com:lydell/js-tokens.git",
   "clone_url": "https://github.com/lydell/js-tokens.git",
   "svn_url": "https://github.com/lydell/js-tokens",
   "homepage": "",
-  "size": 682,
+  "size": 688,
   "stargazers_count": 405,
   "watchers_count": 405,
   "language": "JavaScript",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 632
+  "_index": 633
 }
