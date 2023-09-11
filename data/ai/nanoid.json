@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ai/nanoid/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ai/nanoid/deployments",
   "created_at": "2017-08-05T05:24:35Z",
-  "updated_at": "2023-09-09T16:13:52Z",
+  "updated_at": "2023-09-10T19:18:30Z",
   "pushed_at": "2023-08-23T16:45:59Z",
   "git_url": "git://github.com/ai/nanoid.git",
   "ssh_url": "git@github.com:ai/nanoid.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ai/nanoid",
   "homepage": "https://zelark.github.io/nano-id-cc/",
   "size": 4697,
-  "stargazers_count": 21590,
-  "watchers_count": 21590,
+  "stargazers_count": 21595,
+  "watchers_count": 21595,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 766,
   "open_issues": 7,
-  "watchers": 21590,
+  "watchers": 21595,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1542
+  "_index": 1549
 }

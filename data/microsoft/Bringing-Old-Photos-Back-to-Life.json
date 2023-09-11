@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/microsoft/Bringing-Old-Photos-Back-to-Life/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microsoft/Bringing-Old-Photos-Back-to-Life/deployments",
   "created_at": "2020-06-24T06:37:58Z",
-  "updated_at": "2023-09-09T19:50:16Z",
+  "updated_at": "2023-09-11T01:19:55Z",
   "pushed_at": "2023-06-07T04:43:28Z",
   "git_url": "git://github.com/microsoft/Bringing-Old-Photos-Back-to-Life.git",
   "ssh_url": "git@github.com:microsoft/Bringing-Old-Photos-Back-to-Life.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
   "homepage": "https://arxiv.org/abs/2004.09484",
   "size": 41892,
-  "stargazers_count": 13607,
-  "watchers_count": 13607,
+  "stargazers_count": 13612,
+  "watchers_count": 13612,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1768,
+  "forks_count": 1769,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 88,
+  "open_issues_count": 89,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,9 +108,9 @@
     "pytorch"
   ],
   "visibility": "public",
-  "forks": 1768,
-  "open_issues": 88,
-  "watchers": 13607,
+  "forks": 1769,
+  "open_issues": 89,
+  "watchers": 13612,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 59
+  "_index": 66
 }

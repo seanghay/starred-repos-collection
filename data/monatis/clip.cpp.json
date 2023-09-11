@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/monatis/clip.cpp/deployments",
   "created_at": "2023-04-28T15:46:59Z",
   "updated_at": "2023-09-09T13:22:59Z",
-  "pushed_at": "2023-09-09T23:11:00Z",
+  "pushed_at": "2023-09-10T18:17:28Z",
   "git_url": "git://github.com/monatis/clip.cpp.git",
   "ssh_url": "git@github.com:monatis/clip.cpp.git",
   "clone_url": "https://github.com/monatis/clip.cpp.git",
   "svn_url": "https://github.com/monatis/clip.cpp",
   "homepage": "",
-  "size": 302,
+  "size": 318,
   "stargazers_count": 244,
   "watchers_count": 244,
   "language": "C",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 8,
+  "forks_count": 7,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 14,
+  "open_issues_count": 10,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,8 +106,8 @@
     "multimodal"
   ],
   "visibility": "public",
-  "forks": 8,
-  "open_issues": 14,
+  "forks": 7,
+  "open_issues": 10,
   "watchers": 244,
   "default_branch": "main",
   "permissions": {
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 29
+  "_index": 36
 }
