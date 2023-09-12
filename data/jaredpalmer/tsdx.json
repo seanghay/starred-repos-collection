@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jaredpalmer/tsdx/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jaredpalmer/tsdx/deployments",
   "created_at": "2019-01-24T13:04:18Z",
-  "updated_at": "2023-09-11T01:13:21Z",
+  "updated_at": "2023-09-11T15:58:07Z",
   "pushed_at": "2023-06-15T07:37:27Z",
   "git_url": "git://github.com/jaredpalmer/tsdx.git",
   "ssh_url": "git@github.com:jaredpalmer/tsdx.git",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 923
+  "_index": 924
 }

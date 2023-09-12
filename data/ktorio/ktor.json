@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ktorio/ktor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ktorio/ktor/deployments",
   "created_at": "2015-08-03T16:49:36Z",
-  "updated_at": "2023-09-11T01:29:15Z",
-  "pushed_at": "2023-09-08T14:31:59Z",
+  "updated_at": "2023-09-11T19:32:58Z",
+  "pushed_at": "2023-09-11T21:34:42Z",
   "git_url": "git://github.com/ktorio/ktor.git",
   "ssh_url": "git@github.com:ktorio/ktor.git",
   "clone_url": "https://github.com/ktorio/ktor.git",
   "svn_url": "https://github.com/ktorio/ktor",
   "homepage": "https://ktor.io",
-  "size": 27686,
-  "stargazers_count": 11534,
-  "watchers_count": 11534,
+  "size": 27725,
+  "stargazers_count": 11540,
+  "watchers_count": 11540,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 172,
+  "open_issues_count": 170,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 964,
-  "open_issues": 172,
-  "watchers": 11534,
+  "open_issues": 170,
+  "watchers": 11540,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2923
+  "_index": 2924
 }

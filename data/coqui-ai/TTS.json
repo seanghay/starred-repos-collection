@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/coqui-ai/TTS/releases{/id}",
   "deployments_url": "https://api.github.com/repos/coqui-ai/TTS/deployments",
   "created_at": "2020-05-20T15:45:28Z",
-  "updated_at": "2023-09-11T01:17:24Z",
+  "updated_at": "2023-09-11T22:50:53Z",
   "pushed_at": "2023-09-09T14:48:28Z",
   "git_url": "git://github.com/coqui-ai/TTS.git",
   "ssh_url": "git@github.com:coqui-ai/TTS.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/coqui-ai/TTS",
   "homepage": "http://coqui.ai",
   "size": 163153,
-  "stargazers_count": 14710,
-  "watchers_count": 14710,
+  "stargazers_count": 14726,
+  "watchers_count": 14726,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1930,
+  "forks_count": 1932,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -119,9 +119,9 @@
     "voice-synthesis"
   ],
   "visibility": "public",
-  "forks": 1930,
+  "forks": 1932,
   "open_issues": 35,
-  "watchers": 14710,
+  "watchers": 14726,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 300
+  "_index": 301
 }

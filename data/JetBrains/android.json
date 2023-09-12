@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/JetBrains/android/deployments",
   "created_at": "2016-06-08T13:46:48Z",
   "updated_at": "2023-09-09T01:18:45Z",
-  "pushed_at": "2023-09-10T21:11:49Z",
+  "pushed_at": "2023-09-11T22:58:27Z",
   "git_url": "git://github.com/JetBrains/android.git",
   "ssh_url": "git@github.com:JetBrains/android.git",
   "clone_url": "https://github.com/JetBrains/android.git",
   "svn_url": "https://github.com/JetBrains/android",
   "homepage": "",
-  "size": 1466260,
+  "size": 1466268,
   "stargazers_count": 862,
   "watchers_count": 862,
   "language": "Kotlin",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1096
+  "_index": 1097
 }

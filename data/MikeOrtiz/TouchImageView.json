@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/MikeOrtiz/TouchImageView.git",
   "svn_url": "https://github.com/MikeOrtiz/TouchImageView",
   "homepage": "",
-  "size": 9771,
+  "size": 9774,
   "stargazers_count": 2663,
   "watchers_count": 2663,
   "language": "Kotlin",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2307
+  "_index": 2308
 }

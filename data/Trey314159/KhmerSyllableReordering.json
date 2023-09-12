@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Trey314159/KhmerSyllableReordering/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Trey314159/KhmerSyllableReordering/deployments",
   "created_at": "2021-04-06T20:56:54Z",
-  "updated_at": "2023-07-24T05:39:21Z",
+  "updated_at": "2023-09-11T04:46:12Z",
   "pushed_at": "2021-09-21T01:21:02Z",
   "git_url": "git://github.com/Trey314159/KhmerSyllableReordering.git",
   "ssh_url": "git@github.com:Trey314159/KhmerSyllableReordering.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Trey314159/KhmerSyllableReordering",
   "homepage": null,
   "size": 40,
-  "stargazers_count": 4,
-  "watchers_count": 4,
+  "stargazers_count": 5,
+  "watchers_count": 5,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 0,
   "open_issues": 0,
-  "watchers": 4,
+  "watchers": 5,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 699
+  "_index": 700
 }

@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/JetBrains-Research/reflekt/deployments",
   "created_at": "2020-09-07T11:03:43Z",
   "updated_at": "2023-09-05T11:11:19Z",
-  "pushed_at": "2023-09-08T13:18:33Z",
+  "pushed_at": "2023-09-11T16:35:28Z",
   "git_url": "git://github.com/JetBrains-Research/reflekt.git",
   "ssh_url": "git@github.com:JetBrains-Research/reflekt.git",
   "clone_url": "https://github.com/JetBrains-Research/reflekt.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 15,
+  "open_issues_count": 12,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -105,7 +105,7 @@
   ],
   "visibility": "public",
   "forks": 9,
-  "open_issues": 15,
+  "open_issues": 12,
   "watchers": 323,
   "default_branch": "master",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1364
+  "_index": 1365
 }

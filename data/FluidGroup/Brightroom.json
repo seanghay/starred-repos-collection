@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/FluidGroup/Brightroom/releases{/id}",
   "deployments_url": "https://api.github.com/repos/FluidGroup/Brightroom/deployments",
   "created_at": "2018-10-08T11:44:36Z",
-  "updated_at": "2023-09-09T11:26:54Z",
+  "updated_at": "2023-09-11T03:06:01Z",
   "pushed_at": "2023-07-27T07:11:05Z",
   "git_url": "git://github.com/FluidGroup/Brightroom.git",
   "ssh_url": "git@github.com:FluidGroup/Brightroom.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/FluidGroup/Brightroom",
   "homepage": "https://www.notion.so/muukii/Brightroom-d4c59b37610a49de8a14131d24cd6162",
   "size": 290435,
-  "stargazers_count": 2988,
-  "watchers_count": 2988,
+  "stargazers_count": 2989,
+  "watchers_count": 2989,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 277,
   "open_issues": 27,
-  "watchers": 2988,
+  "watchers": 2989,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1407
+  "_index": 1408
 }

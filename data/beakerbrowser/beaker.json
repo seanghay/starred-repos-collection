@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/beakerbrowser/beaker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/beakerbrowser/beaker/deployments",
   "created_at": "2016-05-25T21:51:48Z",
-  "updated_at": "2023-09-09T13:18:42Z",
+  "updated_at": "2023-09-11T23:03:49Z",
   "pushed_at": "2022-12-27T21:47:18Z",
   "git_url": "git://github.com/beakerbrowser/beaker.git",
   "ssh_url": "git@github.com:beakerbrowser/beaker.git",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3039
+  "_index": 3040
 }

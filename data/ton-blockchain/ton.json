@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/ton-blockchain/ton/deployments",
   "created_at": "2019-09-07T09:33:40Z",
   "updated_at": "2023-09-09T03:45:52Z",
-  "pushed_at": "2023-09-05T07:46:40Z",
+  "pushed_at": "2023-09-11T21:41:58Z",
   "git_url": "git://github.com/ton-blockchain/ton.git",
   "ssh_url": "git@github.com:ton-blockchain/ton.git",
   "clone_url": "https://github.com/ton-blockchain/ton.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 539,
+  "forks_count": 538,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 96,
+  "open_issues_count": 97,
   "license": {
     "key": "other",
     "name": "Other",
@@ -104,8 +104,8 @@
     "ton"
   ],
   "visibility": "public",
-  "forks": 539,
-  "open_issues": 96,
+  "forks": 538,
+  "open_issues": 97,
   "watchers": 1987,
   "default_branch": "master",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 752
+  "_index": 753
 }

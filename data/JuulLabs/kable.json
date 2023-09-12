@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/JuulLabs/kable/deployments",
   "created_at": "2020-09-06T07:38:51Z",
   "updated_at": "2023-09-10T06:05:56Z",
-  "pushed_at": "2023-09-08T20:05:05Z",
+  "pushed_at": "2023-09-12T00:37:11Z",
   "git_url": "git://github.com/JuulLabs/kable.git",
   "ssh_url": "git@github.com:JuulLabs/kable.git",
   "clone_url": "https://github.com/JuulLabs/kable.git",
   "svn_url": "https://github.com/JuulLabs/kable",
   "homepage": "https://juullabs.github.io/kable",
-  "size": 5158,
+  "size": 5160,
   "stargazers_count": 630,
   "watchers_count": 630,
   "language": "Kotlin",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 42,
+  "open_issues_count": 41,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -107,7 +107,7 @@
   ],
   "visibility": "public",
   "forks": 68,
-  "open_issues": 42,
+  "open_issues": 41,
   "watchers": 630,
   "default_branch": "main",
   "permissions": {
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1393
+  "_index": 1394
 }

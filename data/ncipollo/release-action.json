@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ncipollo/release-action/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ncipollo/release-action/deployments",
   "created_at": "2019-08-23T15:03:16Z",
-  "updated_at": "2023-09-09T12:21:15Z",
-  "pushed_at": "2023-09-05T09:12:29Z",
+  "updated_at": "2023-09-12T00:12:42Z",
+  "pushed_at": "2023-09-11T12:10:43Z",
   "git_url": "git://github.com/ncipollo/release-action.git",
   "ssh_url": "git@github.com:ncipollo/release-action.git",
   "clone_url": "https://github.com/ncipollo/release-action.git",
   "svn_url": "https://github.com/ncipollo/release-action",
   "homepage": "",
-  "size": 20121,
-  "stargazers_count": 980,
-  "watchers_count": 980,
+  "size": 20243,
+  "stargazers_count": 982,
+  "watchers_count": 982,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 7,
+  "open_issues_count": 1,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 161,
-  "open_issues": 7,
-  "watchers": 980,
+  "open_issues": 1,
+  "watchers": 982,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1350
+  "_index": 1351
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/payloadcms/payload/releases{/id}",
   "deployments_url": "https://api.github.com/repos/payloadcms/payload/deployments",
   "created_at": "2021-01-05T18:49:45Z",
-  "updated_at": "2023-09-11T00:36:45Z",
-  "pushed_at": "2023-09-10T03:47:48Z",
+  "updated_at": "2023-09-11T22:11:59Z",
+  "pushed_at": "2023-09-11T21:35:19Z",
   "git_url": "git://github.com/payloadcms/payload.git",
   "ssh_url": "git@github.com:payloadcms/payload.git",
   "clone_url": "https://github.com/payloadcms/payload.git",
   "svn_url": "https://github.com/payloadcms/payload",
   "homepage": "https://payloadcms.com",
-  "size": 36437,
-  "stargazers_count": 12051,
-  "watchers_count": 12051,
+  "size": 36814,
+  "stargazers_count": 12060,
+  "watchers_count": 12060,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 62,
+  "open_issues_count": 66,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -120,8 +120,8 @@
   ],
   "visibility": "public",
   "forks": 657,
-  "open_issues": 62,
-  "watchers": 12051,
+  "open_issues": 66,
+  "watchers": 12060,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1011
+  "_index": 1012
 }
