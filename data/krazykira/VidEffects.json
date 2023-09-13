@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/krazykira/VidEffects/releases{/id}",
   "deployments_url": "https://api.github.com/repos/krazykira/VidEffects/deployments",
   "created_at": "2015-08-11T12:58:29Z",
-  "updated_at": "2023-08-19T09:03:14Z",
+  "updated_at": "2023-09-12T14:26:47Z",
   "pushed_at": "2021-12-29T19:24:04Z",
   "git_url": "git://github.com/krazykira/VidEffects.git",
   "ssh_url": "git@github.com:krazykira/VidEffects.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/krazykira/VidEffects",
   "homepage": "",
   "size": 31993,
-  "stargazers_count": 335,
-  "watchers_count": 335,
+  "stargazers_count": 336,
+  "watchers_count": 336,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 88,
   "open_issues": 9,
-  "watchers": 335,
+  "watchers": 336,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2830
+  "_index": 2832
 }

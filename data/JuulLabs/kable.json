@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/JuulLabs/kable/deployments",
   "created_at": "2020-09-06T07:38:51Z",
   "updated_at": "2023-09-10T06:05:56Z",
-  "pushed_at": "2023-09-12T00:37:11Z",
+  "pushed_at": "2023-09-12T17:31:00Z",
   "git_url": "git://github.com/JuulLabs/kable.git",
   "ssh_url": "git@github.com:JuulLabs/kable.git",
   "clone_url": "https://github.com/JuulLabs/kable.git",
   "svn_url": "https://github.com/JuulLabs/kable",
   "homepage": "https://juullabs.github.io/kable",
-  "size": 5160,
+  "size": 5162,
   "stargazers_count": 630,
   "watchers_count": 630,
   "language": "Kotlin",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1394
+  "_index": 1396
 }

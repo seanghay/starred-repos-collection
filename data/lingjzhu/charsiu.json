@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lingjzhu/charsiu/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lingjzhu/charsiu/deployments",
   "created_at": "2021-08-29T20:03:00Z",
-  "updated_at": "2023-08-27T18:31:10Z",
+  "updated_at": "2023-09-12T08:35:14Z",
   "pushed_at": "2022-09-19T03:27:04Z",
   "git_url": "git://github.com/lingjzhu/charsiu.git",
   "ssh_url": "git@github.com:lingjzhu/charsiu.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lingjzhu/charsiu",
   "homepage": "",
   "size": 1224,
-  "stargazers_count": 214,
-  "watchers_count": 214,
+  "stargazers_count": 215,
+  "watchers_count": 215,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 30,
   "open_issues": 10,
-  "watchers": 214,
+  "watchers": 215,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 134
+  "_index": 136
 }

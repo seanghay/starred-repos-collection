@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/github/hotkey/deployments",
   "created_at": "2019-01-17T15:56:28Z",
   "updated_at": "2023-09-12T00:55:49Z",
-  "pushed_at": "2023-09-11T18:29:33Z",
+  "pushed_at": "2023-09-12T21:07:43Z",
   "git_url": "git://github.com/github/hotkey.git",
   "ssh_url": "git@github.com:github/hotkey.git",
   "clone_url": "https://github.com/github/hotkey.git",
   "svn_url": "https://github.com/github/hotkey",
   "homepage": "https://github.github.io/hotkey/examples/",
-  "size": 816,
+  "size": 817,
   "stargazers_count": 2863,
   "watchers_count": 2863,
   "language": "JavaScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 12,
+  "open_issues_count": 11,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,7 +103,7 @@
   ],
   "visibility": "public",
   "forks": 104,
-  "open_issues": 12,
+  "open_issues": 11,
   "watchers": 2863,
   "default_branch": "main",
   "permissions": {
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1889
+  "_index": 1891
 }

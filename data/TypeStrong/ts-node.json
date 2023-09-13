@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/TypeStrong/ts-node/releases{/id}",
   "deployments_url": "https://api.github.com/repos/TypeStrong/ts-node/deployments",
   "created_at": "2015-07-15T02:12:52Z",
-  "updated_at": "2023-09-11T19:49:59Z",
+  "updated_at": "2023-09-12T14:03:54Z",
   "pushed_at": "2023-09-07T22:22:19Z",
   "git_url": "git://github.com/TypeStrong/ts-node.git",
   "ssh_url": "git@github.com:TypeStrong/ts-node.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/TypeStrong/ts-node",
   "homepage": "https://typestrong.org/ts-node",
   "size": 8098,
-  "stargazers_count": 12086,
-  "watchers_count": 12086,
+  "stargazers_count": 12090,
+  "watchers_count": 12090,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 190,
+  "open_issues_count": 192,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -110,8 +110,8 @@
   ],
   "visibility": "public",
   "forks": 514,
-  "open_issues": 190,
-  "watchers": 12086,
+  "open_issues": 192,
+  "watchers": 12090,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1748
+  "_index": 1750
 }

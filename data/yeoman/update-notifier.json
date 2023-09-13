@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yeoman/update-notifier/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yeoman/update-notifier/deployments",
   "created_at": "2012-12-08T16:23:20Z",
-  "updated_at": "2023-09-08T16:36:38Z",
+  "updated_at": "2023-09-12T03:54:40Z",
   "pushed_at": "2022-07-19T22:29:10Z",
   "git_url": "git://github.com/yeoman/update-notifier.git",
   "ssh_url": "git@github.com:yeoman/update-notifier.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yeoman/update-notifier",
   "homepage": "",
   "size": 199,
-  "stargazers_count": 1736,
-  "watchers_count": 1736,
+  "stargazers_count": 1737,
+  "watchers_count": 1737,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 24,
+  "open_issues_count": 25,
   "license": {
     "key": "bsd-2-clause",
     "name": "BSD 2-Clause \"Simplified\" License",
@@ -108,8 +108,8 @@
   ],
   "visibility": "public",
   "forks": 149,
-  "open_issues": 24,
-  "watchers": 1736,
+  "open_issues": 25,
+  "watchers": 1737,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 970
+  "_index": 972
 }

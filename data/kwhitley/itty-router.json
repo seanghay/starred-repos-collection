@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/kwhitley/itty-router.git",
   "svn_url": "https://github.com/kwhitley/itty-router",
   "homepage": "",
-  "size": 1547,
+  "size": 1549,
   "stargazers_count": 1297,
   "watchers_count": 1297,
   "language": "TypeScript",
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 847
+  "_index": 849
 }

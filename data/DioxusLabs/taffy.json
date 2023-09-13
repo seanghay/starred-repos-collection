@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/DioxusLabs/taffy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/DioxusLabs/taffy/deployments",
   "created_at": "2022-01-04T19:36:24Z",
-  "updated_at": "2023-09-11T14:07:42Z",
-  "pushed_at": "2023-09-12T00:13:04Z",
+  "updated_at": "2023-09-12T20:48:15Z",
+  "pushed_at": "2023-09-12T03:21:18Z",
   "git_url": "git://github.com/DioxusLabs/taffy.git",
   "ssh_url": "git@github.com:DioxusLabs/taffy.git",
   "clone_url": "https://github.com/DioxusLabs/taffy.git",
   "svn_url": "https://github.com/DioxusLabs/taffy",
   "homepage": "https://docs.rs/taffy/latest/taffy",
   "size": 55626,
-  "stargazers_count": 1326,
-  "watchers_count": 1326,
+  "stargazers_count": 1327,
+  "watchers_count": 1327,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 70,
+  "forks_count": 71,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 65,
+  "open_issues_count": 64,
   "license": {
     "key": "other",
     "name": "Other",
@@ -106,9 +106,9 @@
     "ui"
   ],
   "visibility": "public",
-  "forks": 70,
-  "open_issues": 65,
-  "watchers": 1326,
+  "forks": 71,
+  "open_issues": 64,
+  "watchers": 1327,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 976
+  "_index": 978
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/manicmaniac/sips-js-api/deployments",
   "created_at": "2021-05-23T18:44:42Z",
   "updated_at": "2023-09-08T08:22:17Z",
-  "pushed_at": "2023-09-06T05:29:24Z",
+  "pushed_at": "2023-09-12T09:24:42Z",
   "git_url": "git://github.com/manicmaniac/sips-js-api.git",
   "ssh_url": "git@github.com:manicmaniac/sips-js-api.git",
   "clone_url": "https://github.com/manicmaniac/sips-js-api.git",
   "svn_url": "https://github.com/manicmaniac/sips-js-api",
   "homepage": "https://manicmaniac.github.io/sips-js-api/",
-  "size": 362,
+  "size": 365,
   "stargazers_count": 82,
   "watchers_count": 82,
   "language": null,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 7,
+  "open_issues_count": 5,
   "license": {
     "key": "cc0-1.0",
     "name": "Creative Commons Zero v1.0 Universal",
@@ -105,7 +105,7 @@
   ],
   "visibility": "public",
   "forks": 4,
-  "open_issues": 7,
+  "open_issues": 5,
   "watchers": 82,
   "default_branch": "master",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 576
+  "_index": 578
 }

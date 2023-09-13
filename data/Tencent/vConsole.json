@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Tencent/vConsole/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Tencent/vConsole/deployments",
   "created_at": "2016-04-27T03:33:45Z",
-  "updated_at": "2023-09-11T11:51:03Z",
+  "updated_at": "2023-09-12T14:25:49Z",
   "pushed_at": "2023-08-16T06:46:41Z",
   "git_url": "git://github.com/Tencent/vConsole.git",
   "ssh_url": "git@github.com:Tencent/vConsole.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Tencent/vConsole",
   "homepage": "",
   "size": 5193,
-  "stargazers_count": 15972,
-  "watchers_count": 15972,
+  "stargazers_count": 15979,
+  "watchers_count": 15979,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 2984,
   "open_issues": 54,
-  "watchers": 15972,
+  "watchers": 15979,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 891
+  "_index": 893
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ggerganov/ggwave/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ggerganov/ggwave/deployments",
   "created_at": "2020-11-29T09:02:43Z",
-  "updated_at": "2023-09-11T18:06:34Z",
+  "updated_at": "2023-09-12T22:15:46Z",
   "pushed_at": "2023-09-08T10:19:11Z",
   "git_url": "git://github.com/ggerganov/ggwave.git",
   "ssh_url": "git@github.com:ggerganov/ggwave.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ggerganov/ggwave",
   "homepage": "https://youtu.be/Zcgf77T71QM",
   "size": 20174,
-  "stargazers_count": 1703,
-  "watchers_count": 1703,
+  "stargazers_count": 1705,
+  "watchers_count": 1705,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 117,
+  "forks_count": 118,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 27,
+  "open_issues_count": 28,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,9 +112,9 @@
     "ultrasound"
   ],
   "visibility": "public",
-  "forks": 117,
-  "open_issues": 27,
-  "watchers": 1703,
+  "forks": 118,
+  "open_issues": 28,
+  "watchers": 1705,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 371
+  "_index": 373
 }

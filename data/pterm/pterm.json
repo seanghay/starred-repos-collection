@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pterm/pterm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pterm/pterm/deployments",
   "created_at": "2020-09-17T15:52:59Z",
-  "updated_at": "2023-09-11T20:55:31Z",
+  "updated_at": "2023-09-12T09:21:17Z",
   "pushed_at": "2023-09-04T08:18:04Z",
   "git_url": "git://github.com/pterm/pterm.git",
   "ssh_url": "git@github.com:pterm/pterm.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/pterm/pterm",
   "homepage": "https://docs.pterm.sh",
   "size": 18578,
-  "stargazers_count": 3997,
-  "watchers_count": 3997,
+  "stargazers_count": 3999,
+  "watchers_count": 3999,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 159,
+  "forks_count": 158,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 46,
+  "open_issues_count": 45,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -116,9 +116,9 @@
     "tui"
   ],
   "visibility": "public",
-  "forks": 159,
-  "open_issues": 46,
-  "watchers": 3997,
+  "forks": 158,
+  "open_issues": 45,
+  "watchers": 3999,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 946
+  "_index": 948
 }
