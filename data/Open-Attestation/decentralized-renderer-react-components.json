@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/Open-Attestation/decentralized-renderer-react-components/deployments",
   "created_at": "2019-09-11T09:46:26Z",
   "updated_at": "2022-12-22T02:25:10Z",
-  "pushed_at": "2023-09-08T06:58:01Z",
+  "pushed_at": "2023-09-14T01:35:38Z",
   "git_url": "git://github.com/Open-Attestation/decentralized-renderer-react-components.git",
   "ssh_url": "git@github.com:Open-Attestation/decentralized-renderer-react-components.git",
   "clone_url": "https://github.com/Open-Attestation/decentralized-renderer-react-components.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 31,
+  "open_issues_count": 32,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 2,
-  "open_issues": 31,
+  "open_issues": 32,
   "watchers": 2,
   "default_branch": "master",
   "permissions": {

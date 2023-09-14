@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 203,
+  "forks_count": 205,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -118,7 +118,7 @@
     "uber-apk-signer"
   ],
   "visibility": "public",
-  "forks": 203,
+  "forks": 205,
   "open_issues": 23,
   "watchers": 2009,
   "default_branch": "master",
