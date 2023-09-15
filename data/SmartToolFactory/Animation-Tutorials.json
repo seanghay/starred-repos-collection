@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/SmartToolFactory/Animation-Tutorials/releases{/id}",
   "deployments_url": "https://api.github.com/repos/SmartToolFactory/Animation-Tutorials/deployments",
   "created_at": "2020-10-02T15:54:15Z",
-  "updated_at": "2023-09-08T18:13:09Z",
+  "updated_at": "2023-09-14T14:44:56Z",
   "pushed_at": "2020-11-15T14:02:59Z",
   "git_url": "git://github.com/SmartToolFactory/Animation-Tutorials.git",
   "ssh_url": "git@github.com:SmartToolFactory/Animation-Tutorials.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/SmartToolFactory/Animation-Tutorials",
   "homepage": "",
   "size": 64539,
-  "stargazers_count": 750,
-  "watchers_count": 750,
+  "stargazers_count": 752,
+  "watchers_count": 752,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 76,
+  "forks_count": 77,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,9 +108,9 @@
     "vector-drawables"
   ],
   "visibility": "public",
-  "forks": 76,
+  "forks": 77,
   "open_issues": 1,
-  "watchers": 750,
+  "watchers": 752,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1725
+  "_index": 1727
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/topjohnwu/Magisk/releases{/id}",
   "deployments_url": "https://api.github.com/repos/topjohnwu/Magisk/deployments",
   "created_at": "2016-09-08T12:42:53Z",
-  "updated_at": "2023-09-14T01:11:02Z",
-  "pushed_at": "2023-09-13T21:44:26Z",
+  "updated_at": "2023-09-15T00:54:19Z",
+  "pushed_at": "2023-09-14T20:17:00Z",
   "git_url": "git://github.com/topjohnwu/Magisk.git",
   "ssh_url": "git@github.com:topjohnwu/Magisk.git",
   "clone_url": "https://github.com/topjohnwu/Magisk.git",
   "svn_url": "https://github.com/topjohnwu/Magisk",
   "homepage": "",
-  "size": 58502,
-  "stargazers_count": 37973,
-  "watchers_count": 37973,
+  "size": 58576,
+  "stargazers_count": 38003,
+  "watchers_count": 38003,
   "language": "C++",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 34,
+  "open_issues_count": 33,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 9912,
-  "open_issues": 34,
-  "watchers": 37973,
+  "open_issues": 33,
+  "watchers": 38003,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2404
+  "_index": 2406
 }

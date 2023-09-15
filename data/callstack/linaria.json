@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/callstack/linaria/releases{/id}",
   "deployments_url": "https://api.github.com/repos/callstack/linaria/deployments",
   "created_at": "2017-05-23T00:52:34Z",
-  "updated_at": "2023-09-14T00:52:02Z",
-  "pushed_at": "2023-09-12T14:24:05Z",
+  "updated_at": "2023-09-14T19:00:32Z",
+  "pushed_at": "2023-09-14T20:29:45Z",
   "git_url": "git://github.com/callstack/linaria.git",
   "ssh_url": "git@github.com:callstack/linaria.git",
   "clone_url": "https://github.com/callstack/linaria.git",
   "svn_url": "https://github.com/callstack/linaria",
   "homepage": "https://linaria.dev",
-  "size": 33328,
-  "stargazers_count": 10794,
-  "watchers_count": 10794,
+  "size": 33347,
+  "stargazers_count": 10796,
+  "watchers_count": 10796,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 429,
   "open_issues": 180,
-  "watchers": 10794,
+  "watchers": 10796,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2923
+  "_index": 2925
 }

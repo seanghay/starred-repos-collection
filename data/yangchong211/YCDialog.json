@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yangchong211/YCDialog/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yangchong211/YCDialog/deployments",
   "created_at": "2017-09-28T06:48:02Z",
-  "updated_at": "2023-09-04T02:37:34Z",
+  "updated_at": "2023-09-14T03:06:08Z",
   "pushed_at": "2022-05-20T09:58:13Z",
   "git_url": "git://github.com/yangchong211/YCDialog.git",
   "ssh_url": "git@github.com:yangchong211/YCDialog.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yangchong211/YCDialog",
   "homepage": "",
   "size": 4383,
-  "stargazers_count": 356,
-  "watchers_count": 356,
+  "stargazers_count": 357,
+  "watchers_count": 357,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 52,
   "open_issues": 9,
-  "watchers": 356,
+  "watchers": 357,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2155
+  "_index": 2157
 }

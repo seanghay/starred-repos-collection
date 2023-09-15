@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/vadimdemedes/ink/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vadimdemedes/ink/deployments",
   "created_at": "2017-06-12T06:12:28Z",
-  "updated_at": "2023-09-13T21:06:09Z",
+  "updated_at": "2023-09-14T17:34:56Z",
   "pushed_at": "2023-09-12T09:30:55Z",
   "git_url": "git://github.com/vadimdemedes/ink.git",
   "ssh_url": "git@github.com:vadimdemedes/ink.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/vadimdemedes/ink",
   "homepage": "https://term.ink",
   "size": 1465,
-  "stargazers_count": 24436,
-  "watchers_count": 24436,
+  "stargazers_count": 24448,
+  "watchers_count": 24448,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 594,
   "open_issues": 50,
-  "watchers": 24436,
+  "watchers": 24448,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1237
+  "_index": 1239
 }

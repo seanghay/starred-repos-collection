@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ravi8x/AndroidPhotoFilters/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ravi8x/AndroidPhotoFilters/deployments",
   "created_at": "2017-10-22T05:19:20Z",
-  "updated_at": "2023-08-18T17:41:31Z",
+  "updated_at": "2023-09-14T14:05:10Z",
   "pushed_at": "2018-09-06T10:36:52Z",
   "git_url": "git://github.com/ravi8x/AndroidPhotoFilters.git",
   "ssh_url": "git@github.com:ravi8x/AndroidPhotoFilters.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ravi8x/AndroidPhotoFilters",
   "homepage": "",
   "size": 2933,
-  "stargazers_count": 175,
-  "watchers_count": 175,
+  "stargazers_count": 174,
+  "watchers_count": 174,
   "language": "Java",
   "has_issues": false,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 75,
   "open_issues": 1,
-  "watchers": 175,
+  "watchers": 174,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2819
+  "_index": 2821
 }

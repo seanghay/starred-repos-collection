@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/zxing/zxing/releases{/id}",
   "deployments_url": "https://api.github.com/repos/zxing/zxing/deployments",
   "created_at": "2011-10-12T14:07:27Z",
-  "updated_at": "2023-09-13T02:07:51Z",
-  "pushed_at": "2023-09-11T12:42:51Z",
+  "updated_at": "2023-09-15T00:02:05Z",
+  "pushed_at": "2023-09-14T17:00:04Z",
   "git_url": "git://github.com/zxing/zxing.git",
   "ssh_url": "git@github.com:zxing/zxing.git",
   "clone_url": "https://github.com/zxing/zxing.git",
   "svn_url": "https://github.com/zxing/zxing",
   "homepage": "",
   "size": 242477,
-  "stargazers_count": 31478,
-  "watchers_count": 31478,
+  "stargazers_count": 31481,
+  "watchers_count": 31481,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 9401,
+  "forks_count": 9403,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 5,
+  "open_issues_count": 7,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -108,9 +108,9 @@
     "zxing"
   ],
   "visibility": "public",
-  "forks": 9401,
-  "open_issues": 5,
-  "watchers": 31478,
+  "forks": 9403,
+  "open_issues": 7,
+  "watchers": 31481,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2466
+  "_index": 2468
 }

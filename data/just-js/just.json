@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/just-js/just/releases{/id}",
   "deployments_url": "https://api.github.com/repos/just-js/just/deployments",
   "created_at": "2020-07-17T03:07:34Z",
-  "updated_at": "2023-09-13T14:39:26Z",
+  "updated_at": "2023-09-14T18:08:55Z",
   "pushed_at": "2023-06-09T02:00:29Z",
   "git_url": "git://github.com/just-js/just.git",
   "ssh_url": "git@github.com:just-js/just.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/just-js/just",
   "homepage": "",
   "size": 347,
-  "stargazers_count": 3310,
-  "watchers_count": 3310,
+  "stargazers_count": 3314,
+  "watchers_count": 3314,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 116,
   "open_issues": 26,
-  "watchers": 3310,
+  "watchers": 3314,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1550
+  "_index": 1552
 }
