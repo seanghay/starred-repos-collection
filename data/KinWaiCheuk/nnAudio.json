@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 87,
+  "forks_count": 86,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,7 +110,7 @@
     "stft"
   ],
   "visibility": "public",
-  "forks": 87,
+  "forks": 86,
   "open_issues": 17,
   "watchers": 891,
   "default_branch": "master",
