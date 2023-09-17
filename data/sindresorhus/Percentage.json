@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/Percentage/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/Percentage/deployments",
   "created_at": "2019-10-01T06:20:00Z",
-  "updated_at": "2023-09-14T01:04:10Z",
+  "updated_at": "2023-09-16T21:07:52Z",
   "pushed_at": "2022-09-27T17:00:31Z",
   "git_url": "git://github.com/sindresorhus/Percentage.git",
   "ssh_url": "git@github.com:sindresorhus/Percentage.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sindresorhus/Percentage",
   "homepage": "",
   "size": 26,
-  "stargazers_count": 264,
-  "watchers_count": 264,
+  "stargazers_count": 265,
+  "watchers_count": 265,
   "language": "Swift",
   "has_issues": true,
   "has_projects": false,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 22,
   "open_issues": 4,
-  "watchers": 264,
+  "watchers": 265,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 806
+  "_index": 808
 }

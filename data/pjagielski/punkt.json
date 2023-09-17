@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pjagielski/punkt/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pjagielski/punkt/deployments",
   "created_at": "2020-04-11T07:12:21Z",
-  "updated_at": "2023-08-25T17:55:38Z",
+  "updated_at": "2023-09-17T01:11:27Z",
   "pushed_at": "2023-03-31T19:20:21Z",
   "git_url": "git://github.com/pjagielski/punkt.git",
   "ssh_url": "git@github.com:pjagielski/punkt.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/pjagielski/punkt",
   "homepage": "",
   "size": 2347,
-  "stargazers_count": 305,
-  "watchers_count": 305,
+  "stargazers_count": 304,
+  "watchers_count": 304,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 13,
   "open_issues": 4,
-  "watchers": 305,
+  "watchers": 304,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2011
+  "_index": 2013
 }

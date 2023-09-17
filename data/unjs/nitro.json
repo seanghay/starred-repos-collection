@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/unjs/nitro/releases{/id}",
   "deployments_url": "https://api.github.com/repos/unjs/nitro/deployments",
   "created_at": "2022-01-26T12:37:12Z",
-  "updated_at": "2023-09-15T21:30:35Z",
+  "updated_at": "2023-09-16T16:01:56Z",
   "pushed_at": "2023-09-15T08:01:11Z",
   "git_url": "git://github.com/unjs/nitro.git",
   "ssh_url": "git@github.com:unjs/nitro.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1082
+  "_index": 1084
 }

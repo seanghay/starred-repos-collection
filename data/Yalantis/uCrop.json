@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Yalantis/uCrop/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Yalantis/uCrop/deployments",
   "created_at": "2016-01-05T13:41:06Z",
-  "updated_at": "2023-09-13T03:09:47Z",
+  "updated_at": "2023-09-16T22:48:20Z",
   "pushed_at": "2023-08-03T05:51:59Z",
   "git_url": "git://github.com/Yalantis/uCrop.git",
   "ssh_url": "git@github.com:Yalantis/uCrop.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Yalantis/uCrop",
   "homepage": "https://yalantis.com/blog/introducing-ucrop-our-own-image-cropping-library-for-android/",
   "size": 62526,
-  "stargazers_count": 11606,
-  "watchers_count": 11606,
+  "stargazers_count": 11608,
+  "watchers_count": 11608,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 2149,
   "open_issues": 269,
-  "watchers": 11606,
+  "watchers": 11608,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2905
+  "_index": 2907
 }

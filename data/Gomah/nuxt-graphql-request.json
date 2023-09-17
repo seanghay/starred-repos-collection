@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/Gomah/nuxt-graphql-request/deployments",
   "created_at": "2019-12-27T02:06:30Z",
   "updated_at": "2023-09-15T21:50:31Z",
-  "pushed_at": "2023-09-12T12:37:12Z",
+  "pushed_at": "2023-09-16T09:11:58Z",
   "git_url": "git://github.com/Gomah/nuxt-graphql-request.git",
   "ssh_url": "git@github.com:Gomah/nuxt-graphql-request.git",
   "clone_url": "https://github.com/Gomah/nuxt-graphql-request.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 12,
+  "open_issues_count": 1,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,7 +107,7 @@
   ],
   "visibility": "public",
   "forks": 14,
-  "open_issues": 12,
+  "open_issues": 1,
   "watchers": 175,
   "default_branch": "master",
   "permissions": {
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1326
+  "_index": 1328
 }

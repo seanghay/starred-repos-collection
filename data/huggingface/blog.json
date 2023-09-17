@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/huggingface/blog/releases{/id}",
   "deployments_url": "https://api.github.com/repos/huggingface/blog/deployments",
   "created_at": "2020-02-14T15:39:05Z",
-  "updated_at": "2023-09-15T21:55:34Z",
-  "pushed_at": "2023-09-15T21:51:40Z",
+  "updated_at": "2023-09-16T09:17:30Z",
+  "pushed_at": "2023-09-16T09:59:23Z",
   "git_url": "git://github.com/huggingface/blog.git",
   "ssh_url": "git@github.com:huggingface/blog.git",
   "clone_url": "https://github.com/huggingface/blog.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 153,
+  "open_issues_count": 154,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -96,7 +96,7 @@
   ],
   "visibility": "public",
   "forks": 454,
-  "open_issues": 153,
+  "open_issues": 154,
   "watchers": 1347,
   "default_branch": "main",
   "permissions": {
@@ -106,5 +106,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 381
+  "_index": 383
 }

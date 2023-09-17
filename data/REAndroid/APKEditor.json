@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/REAndroid/APKEditor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/REAndroid/APKEditor/deployments",
   "created_at": "2022-12-09T18:55:41Z",
-  "updated_at": "2023-09-15T17:12:07Z",
+  "updated_at": "2023-09-16T21:58:03Z",
   "pushed_at": "2023-09-15T16:52:22Z",
   "git_url": "git://github.com/REAndroid/APKEditor.git",
   "ssh_url": "git@github.com:REAndroid/APKEditor.git",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 446
+  "_index": 448
 }

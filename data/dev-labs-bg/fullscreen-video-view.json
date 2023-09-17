@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/dev-labs-bg/fullscreen-video-view/releases{/id}",
   "deployments_url": "https://api.github.com/repos/dev-labs-bg/fullscreen-video-view/deployments",
   "created_at": "2017-11-02T14:19:12Z",
-  "updated_at": "2023-01-09T11:51:02Z",
+  "updated_at": "2023-09-16T21:08:09Z",
   "pushed_at": "2021-11-07T06:08:11Z",
   "git_url": "git://github.com/dev-labs-bg/fullscreen-video-view.git",
   "ssh_url": "git@github.com:dev-labs-bg/fullscreen-video-view.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/dev-labs-bg/fullscreen-video-view",
   "homepage": "https://notes.devlabs.bg/fullscreenvideoview-videoview-gone-fullscreen-daa5fd8181d8",
   "size": 12980,
-  "stargazers_count": 99,
-  "watchers_count": 99,
+  "stargazers_count": 98,
+  "watchers_count": 98,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 35,
   "open_issues": 10,
-  "watchers": 99,
+  "watchers": 98,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2349
+  "_index": 2351
 }

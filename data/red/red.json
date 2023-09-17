@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/red/red/releases{/id}",
   "deployments_url": "https://api.github.com/repos/red/red/deployments",
   "created_at": "2011-03-07T11:38:19Z",
-  "updated_at": "2023-09-14T23:40:33Z",
+  "updated_at": "2023-09-16T09:35:44Z",
   "pushed_at": "2023-09-15T14:02:17Z",
   "git_url": "git://github.com/red/red.git",
   "ssh_url": "git@github.com:red/red.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/red/red",
   "homepage": "http://red-lang.org",
   "size": 38112,
-  "stargazers_count": 5291,
-  "watchers_count": 5291,
+  "stargazers_count": 5290,
+  "watchers_count": 5290,
   "language": "Red",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 429,
+  "forks_count": 428,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 478,
+  "open_issues_count": 480,
   "license": {
     "key": "bsl-1.0",
     "name": "Boost Software License 1.0",
@@ -113,9 +113,9 @@
     "toolchain"
   ],
   "visibility": "public",
-  "forks": 429,
-  "open_issues": 478,
-  "watchers": 5291,
+  "forks": 428,
+  "open_issues": 480,
+  "watchers": 5290,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2407
+  "_index": 2409
 }

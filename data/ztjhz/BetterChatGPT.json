@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ztjhz/BetterChatGPT/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ztjhz/BetterChatGPT/deployments",
   "created_at": "2023-03-03T22:16:18Z",
-  "updated_at": "2023-09-16T01:06:05Z",
+  "updated_at": "2023-09-17T00:20:39Z",
   "pushed_at": "2023-08-23T15:59:55Z",
   "git_url": "git://github.com/ztjhz/BetterChatGPT.git",
   "ssh_url": "git@github.com:ztjhz/BetterChatGPT.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ztjhz/BetterChatGPT",
   "homepage": "http://bettergpt.chat/",
   "size": 3439,
-  "stargazers_count": 5929,
-  "watchers_count": 5929,
+  "stargazers_count": 5936,
+  "watchers_count": 5936,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 2010,
+  "forks_count": 2015,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,9 +106,9 @@
     "gpt-4"
   ],
   "visibility": "public",
-  "forks": 2010,
+  "forks": 2015,
   "open_issues": 145,
-  "watchers": 5929,
+  "watchers": 5936,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 510
+  "_index": 512
 }
