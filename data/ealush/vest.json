@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/ealush/vest/deployments",
   "created_at": "2019-11-26T22:10:41Z",
   "updated_at": "2023-09-14T20:43:56Z",
-  "pushed_at": "2023-09-17T01:01:44Z",
+  "pushed_at": "2023-09-18T00:58:47Z",
   "git_url": "git://github.com/ealush/vest.git",
   "ssh_url": "git@github.com:ealush/vest.git",
   "clone_url": "https://github.com/ealush/vest.git",
   "svn_url": "https://github.com/ealush/vest",
   "homepage": "https://vestjs.dev/",
-  "size": 17001,
+  "size": 17507,
   "stargazers_count": 2192,
   "watchers_count": 2192,
   "language": "TypeScript",
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 966
+  "_index": 969
 }

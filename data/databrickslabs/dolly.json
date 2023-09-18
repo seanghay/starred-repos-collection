@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/databrickslabs/dolly/releases{/id}",
   "deployments_url": "https://api.github.com/repos/databrickslabs/dolly/deployments",
   "created_at": "2023-03-24T16:15:53Z",
-  "updated_at": "2023-09-16T23:10:05Z",
+  "updated_at": "2023-09-17T14:15:01Z",
   "pushed_at": "2023-06-30T18:36:16Z",
   "git_url": "git://github.com/databrickslabs/dolly.git",
   "ssh_url": "git@github.com:databrickslabs/dolly.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1138,
+  "forks_count": 1139,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 3,
+  "open_issues_count": 2,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -104,8 +104,8 @@
     "gpt"
   ],
   "visibility": "public",
-  "forks": 1138,
-  "open_issues": 3,
+  "forks": 1139,
+  "open_issues": 2,
   "watchers": 10587,
   "default_branch": "master",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 459
+  "_index": 462
 }

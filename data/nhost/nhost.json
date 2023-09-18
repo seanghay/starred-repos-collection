@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nhost/nhost/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nhost/nhost/deployments",
   "created_at": "2021-02-09T13:33:34Z",
-  "updated_at": "2023-09-16T12:33:58Z",
+  "updated_at": "2023-09-17T18:50:31Z",
   "pushed_at": "2023-09-16T18:42:16Z",
   "git_url": "git://github.com/nhost/nhost.git",
   "ssh_url": "git@github.com:nhost/nhost.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nhost/nhost",
   "homepage": "https://nhost.io",
   "size": 178692,
-  "stargazers_count": 6966,
-  "watchers_count": 6966,
+  "stargazers_count": 6968,
+  "watchers_count": 6968,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -121,7 +121,7 @@
   "visibility": "public",
   "forks": 414,
   "open_issues": 104,
-  "watchers": 6966,
+  "watchers": 6968,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1424
+  "_index": 1427
 }

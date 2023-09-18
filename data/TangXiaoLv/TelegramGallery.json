@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 230,
+  "forks_count": 229,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,7 +107,7 @@
     "telegram"
   ],
   "visibility": "public",
-  "forks": 230,
+  "forks": 229,
   "open_issues": 18,
   "watchers": 1319,
   "default_branch": "master",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2696
+  "_index": 2699
 }

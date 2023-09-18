@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/facebookresearch/LASER/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookresearch/LASER/deployments",
   "created_at": "2018-06-20T15:18:09Z",
-  "updated_at": "2023-09-15T02:42:52Z",
+  "updated_at": "2023-09-17T17:32:42Z",
   "pushed_at": "2023-09-08T17:53:35Z",
   "git_url": "git://github.com/facebookresearch/LASER.git",
   "ssh_url": "git@github.com:facebookresearch/LASER.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/facebookresearch/LASER",
   "homepage": null,
   "size": 2967,
-  "stargazers_count": 3400,
-  "watchers_count": 3400,
+  "stargazers_count": 3401,
+  "watchers_count": 3401,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 442,
   "open_issues": 53,
-  "watchers": 3400,
+  "watchers": 3401,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 75
+  "_index": 78
 }

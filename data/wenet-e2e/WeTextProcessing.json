@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wenet-e2e/WeTextProcessing/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wenet-e2e/WeTextProcessing/deployments",
   "created_at": "2022-08-23T14:33:26Z",
-  "updated_at": "2023-09-15T02:58:03Z",
+  "updated_at": "2023-09-17T04:24:33Z",
   "pushed_at": "2023-09-16T02:59:11Z",
   "git_url": "git://github.com/wenet-e2e/WeTextProcessing.git",
   "ssh_url": "git@github.com:wenet-e2e/WeTextProcessing.git",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 133
+  "_index": 136
 }

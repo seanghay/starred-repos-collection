@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/spotify/pedalboard/releases{/id}",
   "deployments_url": "https://api.github.com/repos/spotify/pedalboard/deployments",
   "created_at": "2021-07-06T13:04:18Z",
-  "updated_at": "2023-09-16T15:07:10Z",
+  "updated_at": "2023-09-17T18:56:12Z",
   "pushed_at": "2023-09-12T17:27:24Z",
   "git_url": "git://github.com/spotify/pedalboard.git",
   "ssh_url": "git@github.com:spotify/pedalboard.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/spotify/pedalboard",
   "homepage": "",
   "size": 19493,
-  "stargazers_count": 4445,
-  "watchers_count": 4445,
+  "stargazers_count": 4447,
+  "watchers_count": 4447,
   "language": "C++",
   "has_issues": true,
   "has_projects": false,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 203,
   "open_issues": 28,
-  "watchers": 4445,
+  "watchers": 4447,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 36
+  "_index": 39
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/odoo/odoo/releases{/id}",
   "deployments_url": "https://api.github.com/repos/odoo/odoo/deployments",
   "created_at": "2014-05-13T15:38:58Z",
-  "updated_at": "2023-09-16T20:55:37Z",
-  "pushed_at": "2023-09-17T01:15:43Z",
+  "updated_at": "2023-09-18T00:52:30Z",
+  "pushed_at": "2023-09-17T22:12:43Z",
   "git_url": "git://github.com/odoo/odoo.git",
   "ssh_url": "git@github.com:odoo/odoo.git",
   "clone_url": "https://github.com/odoo/odoo.git",
   "svn_url": "https://github.com/odoo/odoo",
   "homepage": "https://www.odoo.com",
-  "size": 6927238,
-  "stargazers_count": 30624,
-  "watchers_count": 30624,
+  "size": 6945290,
+  "stargazers_count": 30638,
+  "watchers_count": 30638,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 19937,
+  "forks_count": 19945,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "python"
   ],
   "visibility": "public",
-  "forks": 19937,
+  "forks": 19945,
   "open_issues": 5943,
-  "watchers": 30624,
+  "watchers": 30638,
   "default_branch": "16.0",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2903
+  "_index": 2906
 }
