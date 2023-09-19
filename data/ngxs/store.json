@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/ngxs/store/deployments",
   "created_at": "2018-02-13T18:55:44Z",
   "updated_at": "2023-09-17T08:06:01Z",
-  "pushed_at": "2023-09-17T07:28:31Z",
+  "pushed_at": "2023-09-18T13:02:16Z",
   "git_url": "git://github.com/ngxs/store.git",
   "ssh_url": "git@github.com:ngxs/store.git",
   "clone_url": "https://github.com/ngxs/store.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 392,
+  "forks_count": 393,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,7 +107,7 @@
     "state-management"
   ],
   "visibility": "public",
-  "forks": 392,
+  "forks": 393,
   "open_issues": 37,
   "watchers": 3439,
   "default_branch": "master",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2996
+  "_index": 3034
 }

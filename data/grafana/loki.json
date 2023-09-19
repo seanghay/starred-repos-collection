@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/grafana/loki/releases{/id}",
   "deployments_url": "https://api.github.com/repos/grafana/loki/deployments",
   "created_at": "2018-04-16T09:22:48Z",
-  "updated_at": "2023-09-17T22:42:08Z",
-  "pushed_at": "2023-09-17T19:21:41Z",
+  "updated_at": "2023-09-19T01:02:41Z",
+  "pushed_at": "2023-09-19T00:36:54Z",
   "git_url": "git://github.com/grafana/loki.git",
   "ssh_url": "git@github.com:grafana/loki.git",
   "clone_url": "https://github.com/grafana/loki.git",
   "svn_url": "https://github.com/grafana/loki",
   "homepage": "https://grafana.com/loki",
-  "size": 175578,
-  "stargazers_count": 20092,
-  "watchers_count": 20092,
+  "size": 175903,
+  "stargazers_count": 20104,
+  "watchers_count": 20104,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2942,
+  "forks_count": 2950,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1173,
+  "open_issues_count": 1178,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -106,9 +106,9 @@
     "prometheus"
   ],
   "visibility": "public",
-  "forks": 2942,
-  "open_issues": 1173,
-  "watchers": 20092,
+  "forks": 2950,
+  "open_issues": 1178,
+  "watchers": 20104,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1103
+  "_index": 1141
 }

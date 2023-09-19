@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/fingerprintjs/fingerprintjs",
-  "description": "Browser fingerprinting library. Compared to Fingerprint Identification Platform, has limited accuracy (40 - 60%).",
+  "description": "Browser fingerprinting library. Accuracy of this version is 40-60%, accuracy of the commercial Fingerprint Identification is 99.5%. V4 of this library is BSL licensed.",
   "fork": false,
   "url": "https://api.github.com/repos/fingerprintjs/fingerprintjs",
   "forks_url": "https://api.github.com/repos/fingerprintjs/fingerprintjs/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/fingerprintjs/fingerprintjs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fingerprintjs/fingerprintjs/deployments",
   "created_at": "2015-02-11T08:49:54Z",
-  "updated_at": "2023-09-18T01:40:48Z",
-  "pushed_at": "2023-09-16T13:51:14Z",
+  "updated_at": "2023-09-19T01:42:33Z",
+  "pushed_at": "2023-09-19T01:03:08Z",
   "git_url": "git://github.com/fingerprintjs/fingerprintjs.git",
   "ssh_url": "git@github.com:fingerprintjs/fingerprintjs.git",
   "clone_url": "https://github.com/fingerprintjs/fingerprintjs.git",
   "svn_url": "https://github.com/fingerprintjs/fingerprintjs",
   "homepage": "https://fingerprint.com/get-started/",
-  "size": 2754,
-  "stargazers_count": 19674,
-  "watchers_count": 19674,
+  "size": 2763,
+  "stargazers_count": 19677,
+  "watchers_count": 19677,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 2176,
+  "forks_count": 2175,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 23,
+  "open_issues_count": 22,
   "license": {
     "key": "other",
     "name": "Other",
@@ -113,9 +113,9 @@
     "visitor-identifier"
   ],
   "visibility": "public",
-  "forks": 2176,
-  "open_issues": 23,
-  "watchers": 19674,
+  "forks": 2175,
+  "open_issues": 22,
+  "watchers": 19677,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 890
+  "_index": 928
 }

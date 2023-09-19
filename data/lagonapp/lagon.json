@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lagonapp/lagon/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lagonapp/lagon/deployments",
   "created_at": "2022-06-20T06:08:05Z",
-  "updated_at": "2023-09-15T16:24:37Z",
+  "updated_at": "2023-09-18T22:26:09Z",
   "pushed_at": "2023-09-02T23:04:00Z",
   "git_url": "git://github.com/lagonapp/lagon.git",
   "ssh_url": "git@github.com:lagonapp/lagon.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lagonapp/lagon",
   "homepage": "https://lagon.app",
   "size": 17302,
-  "stargazers_count": 1126,
-  "watchers_count": 1126,
+  "stargazers_count": 1128,
+  "watchers_count": 1128,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 45,
   "open_issues": 50,
-  "watchers": 1126,
+  "watchers": 1128,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 430
+  "_index": 468
 }

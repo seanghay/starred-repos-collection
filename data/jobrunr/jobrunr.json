@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/jobrunr/jobrunr/deployments",
   "created_at": "2020-04-02T17:34:11Z",
   "updated_at": "2023-09-16T23:22:38Z",
-  "pushed_at": "2023-09-15T10:18:59Z",
+  "pushed_at": "2023-09-18T15:31:08Z",
   "git_url": "git://github.com/jobrunr/jobrunr.git",
   "ssh_url": "git@github.com:jobrunr/jobrunr.git",
   "clone_url": "https://github.com/jobrunr/jobrunr.git",
   "svn_url": "https://github.com/jobrunr/jobrunr",
   "homepage": "https://www.jobrunr.io/en/",
-  "size": 5122,
+  "size": 5132,
   "stargazers_count": 1863,
   "watchers_count": 1863,
   "language": "Java",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 186,
+  "forks_count": 187,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 13,
+  "open_issues_count": 15,
   "license": {
     "key": "other",
     "name": "Other",
@@ -109,8 +109,8 @@
     "scheduling"
   ],
   "visibility": "public",
-  "forks": 186,
-  "open_issues": 13,
+  "forks": 187,
+  "open_issues": 15,
   "watchers": 1863,
   "default_branch": "master",
   "permissions": {
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1736
+  "_index": 1774
 }

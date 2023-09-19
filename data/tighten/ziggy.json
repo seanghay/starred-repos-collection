@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 247,
+  "forks_count": 246,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 5,
+  "open_issues_count": 4,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,8 +105,8 @@
     "ziggy"
   ],
   "visibility": "public",
-  "forks": 247,
-  "open_issues": 5,
+  "forks": 246,
+  "open_issues": 4,
   "watchers": 3398,
   "default_branch": "main",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1643
+  "_index": 1681
 }

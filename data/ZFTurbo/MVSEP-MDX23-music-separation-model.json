@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ZFTurbo/MVSEP-MDX23-music-separation-model/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ZFTurbo/MVSEP-MDX23-music-separation-model/deployments",
   "created_at": "2023-04-17T19:41:51Z",
-  "updated_at": "2023-09-16T22:38:35Z",
+  "updated_at": "2023-09-18T13:33:03Z",
   "pushed_at": "2023-07-30T18:34:40Z",
   "git_url": "git://github.com/ZFTurbo/MVSEP-MDX23-music-separation-model.git",
   "ssh_url": "git@github.com:ZFTurbo/MVSEP-MDX23-music-separation-model.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ZFTurbo/MVSEP-MDX23-music-separation-model",
   "homepage": null,
   "size": 81,
-  "stargazers_count": 198,
-  "watchers_count": 198,
+  "stargazers_count": 199,
+  "watchers_count": 199,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 30,
+  "forks_count": 29,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -93,9 +93,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 30,
+  "forks": 29,
   "open_issues": 23,
-  "watchers": 198,
+  "watchers": 199,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 348
+  "_index": 386
 }
