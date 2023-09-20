@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/getzep/zep",
-  "description": "Zep: A platform for productionizing LLM apps",
+  "description": "Zep: Fast, scalable building blocks for production LLM apps",
   "fork": false,
   "url": "https://api.github.com/repos/getzep/zep",
   "forks_url": "https://api.github.com/repos/getzep/zep/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/getzep/zep/releases{/id}",
   "deployments_url": "https://api.github.com/repos/getzep/zep/deployments",
   "created_at": "2023-04-29T14:06:22Z",
-  "updated_at": "2023-09-19T00:01:21Z",
-  "pushed_at": "2023-09-18T23:53:38Z",
+  "updated_at": "2023-09-19T20:47:40Z",
+  "pushed_at": "2023-09-19T13:39:26Z",
   "git_url": "git://github.com/getzep/zep.git",
   "ssh_url": "git@github.com:getzep/zep.git",
   "clone_url": "https://github.com/getzep/zep.git",
   "svn_url": "https://github.com/getzep/zep",
   "homepage": "https://docs.getzep.com",
-  "size": 16959,
-  "stargazers_count": 965,
-  "watchers_count": 965,
+  "size": 16957,
+  "stargazers_count": 968,
+  "watchers_count": 968,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 135,
+  "forks_count": 136,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 6,
+  "open_issues_count": 4,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -106,9 +106,9 @@
     "vectorsearch"
   ],
   "visibility": "public",
-  "forks": 135,
-  "open_issues": 6,
-  "watchers": 965,
+  "forks": 136,
+  "open_issues": 4,
+  "watchers": 968,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 352
+  "_index": 354
 }

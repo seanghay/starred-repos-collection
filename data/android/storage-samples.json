@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/android/storage-samples/releases{/id}",
   "deployments_url": "https://api.github.com/repos/android/storage-samples/deployments",
   "created_at": "2019-04-22T21:44:21Z",
-  "updated_at": "2023-09-18T06:58:30Z",
+  "updated_at": "2023-09-20T00:02:01Z",
   "pushed_at": "2023-09-02T14:44:02Z",
   "git_url": "git://github.com/android/storage-samples.git",
   "ssh_url": "git@github.com:android/storage-samples.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/android/storage-samples",
   "homepage": "",
   "size": 25060,
-  "stargazers_count": 1398,
-  "watchers_count": 1398,
+  "stargazers_count": 1402,
+  "watchers_count": 1402,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 544,
+  "forks_count": 543,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,9 +102,9 @@
     "samples"
   ],
   "visibility": "public",
-  "forks": 544,
+  "forks": 543,
   "open_issues": 26,
-  "watchers": 1398,
+  "watchers": 1402,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2557
+  "_index": 2559
 }

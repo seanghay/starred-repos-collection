@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yangdongchao/SoundStorm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yangdongchao/SoundStorm/deployments",
   "created_at": "2023-05-17T06:43:51Z",
-  "updated_at": "2023-09-18T03:31:53Z",
+  "updated_at": "2023-09-19T17:20:04Z",
   "pushed_at": "2023-09-18T02:53:39Z",
   "git_url": "git://github.com/yangdongchao/SoundStorm.git",
   "ssh_url": "git@github.com:yangdongchao/SoundStorm.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yangdongchao/SoundStorm",
   "homepage": null,
   "size": 1500,
-  "stargazers_count": 176,
-  "watchers_count": 176,
+  "stargazers_count": 177,
+  "watchers_count": 177,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 14,
+  "forks_count": 15,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -93,9 +93,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 14,
+  "forks": 15,
   "open_issues": 6,
-  "watchers": 176,
+  "watchers": 177,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 37
+  "_index": 39
 }

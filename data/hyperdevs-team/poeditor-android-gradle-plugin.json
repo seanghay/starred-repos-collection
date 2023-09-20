@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 26,
+  "forks_count": 25,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,7 +109,7 @@
     "poeditor-string"
   ],
   "visibility": "public",
-  "forks": 26,
+  "forks": 25,
   "open_issues": 5,
   "watchers": 46,
   "default_branch": "master",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1675
+  "_index": 1677
 }

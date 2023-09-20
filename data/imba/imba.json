@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/imba/imba/releases{/id}",
   "deployments_url": "https://api.github.com/repos/imba/imba/deployments",
   "created_at": "2014-06-14T18:58:32Z",
-  "updated_at": "2023-09-17T12:30:37Z",
+  "updated_at": "2023-09-19T23:40:47Z",
   "pushed_at": "2023-09-15T07:00:57Z",
   "git_url": "git://github.com/imba/imba.git",
   "ssh_url": "git@github.com:imba/imba.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/imba/imba",
   "homepage": "https://imba.io",
   "size": 26094,
-  "stargazers_count": 6096,
-  "watchers_count": 6096,
+  "stargazers_count": 6100,
+  "watchers_count": 6100,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 186,
   "open_issues": 141,
-  "watchers": 6096,
+  "watchers": 6100,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 867
+  "_index": 869
 }

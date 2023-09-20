@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Chrisvin/EasyReveal/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Chrisvin/EasyReveal/deployments",
   "created_at": "2019-11-10T14:35:12Z",
-  "updated_at": "2023-09-08T18:00:02Z",
+  "updated_at": "2023-09-19T12:50:46Z",
   "pushed_at": "2020-12-11T15:10:15Z",
   "git_url": "git://github.com/Chrisvin/EasyReveal.git",
   "ssh_url": "git@github.com:Chrisvin/EasyReveal.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Chrisvin/EasyReveal",
   "homepage": null,
   "size": 23660,
-  "stargazers_count": 352,
-  "watchers_count": 352,
+  "stargazers_count": 353,
+  "watchers_count": 353,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 23,
   "open_issues": 1,
-  "watchers": 352,
+  "watchers": 353,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2400
+  "_index": 2402
 }

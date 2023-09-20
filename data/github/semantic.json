@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/github/semantic/releases{/id}",
   "deployments_url": "https://api.github.com/repos/github/semantic/deployments",
   "created_at": "2019-03-15T14:54:00Z",
-  "updated_at": "2023-09-18T10:10:47Z",
+  "updated_at": "2023-09-19T18:07:02Z",
   "pushed_at": "2023-08-05T21:55:31Z",
   "git_url": "git://github.com/github/semantic.git",
   "ssh_url": "git@github.com:github/semantic.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/github/semantic",
   "homepage": "",
   "size": 34443,
-  "stargazers_count": 8759,
-  "watchers_count": 8759,
+  "stargazers_count": 8761,
+  "watchers_count": 8761,
   "language": "Haskell",
   "has_issues": true,
   "has_projects": true,
@@ -97,7 +97,7 @@
   "visibility": "public",
   "forks": 506,
   "open_issues": 110,
-  "watchers": 8759,
+  "watchers": 8761,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -106,5 +106,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2047
+  "_index": 2049
 }
