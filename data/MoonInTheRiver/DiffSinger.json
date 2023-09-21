@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/MoonInTheRiver/DiffSinger/releases{/id}",
   "deployments_url": "https://api.github.com/repos/MoonInTheRiver/DiffSinger/deployments",
   "created_at": "2021-12-17T04:38:03Z",
-  "updated_at": "2023-09-19T14:06:42Z",
+  "updated_at": "2023-09-21T00:41:01Z",
   "pushed_at": "2023-05-02T21:38:58Z",
   "git_url": "git://github.com/MoonInTheRiver/DiffSinger.git",
   "ssh_url": "git@github.com:MoonInTheRiver/DiffSinger.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/MoonInTheRiver/DiffSinger",
   "homepage": "",
   "size": 64892,
-  "stargazers_count": 3646,
-  "watchers_count": 3646,
+  "stargazers_count": 3650,
+  "watchers_count": 3650,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 639,
+  "forks_count": 640,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -111,9 +111,9 @@
     "tts"
   ],
   "visibility": "public",
-  "forks": 639,
+  "forks": 640,
   "open_issues": 42,
-  "watchers": 3646,
+  "watchers": 3650,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 360
+  "_index": 367
 }

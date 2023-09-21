@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/rwynn/monstache/deployments",
   "created_at": "2016-05-14T18:25:17Z",
   "updated_at": "2023-09-16T22:20:57Z",
-  "pushed_at": "2023-09-19T13:44:12Z",
+  "pushed_at": "2023-09-20T17:53:47Z",
   "git_url": "git://github.com/rwynn/monstache.git",
   "ssh_url": "git@github.com:rwynn/monstache.git",
   "clone_url": "https://github.com/rwynn/monstache.git",
   "svn_url": "https://github.com/rwynn/monstache",
   "homepage": "https://rwynn.github.io/monstache-site/",
-  "size": 1322,
+  "size": 1324,
   "stargazers_count": 1190,
   "watchers_count": 1190,
   "language": "Go",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 228,
+  "open_issues_count": 227,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -116,7 +116,7 @@
   ],
   "visibility": "public",
   "forks": 171,
-  "open_issues": 228,
+  "open_issues": 227,
   "watchers": 1190,
   "default_branch": "rel6",
   "permissions": {
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1336
+  "_index": 1343
 }

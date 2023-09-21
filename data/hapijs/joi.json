@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/hapijs/joi/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hapijs/joi/deployments",
   "created_at": "2012-09-16T16:38:06Z",
-  "updated_at": "2023-09-19T19:49:49Z",
+  "updated_at": "2023-09-20T19:28:49Z",
   "pushed_at": "2023-09-17T15:52:04Z",
   "git_url": "git://github.com/hapijs/joi.git",
   "ssh_url": "git@github.com:hapijs/joi.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/hapijs/joi",
   "homepage": "",
   "size": 9907,
-  "stargazers_count": 20198,
-  "watchers_count": 20198,
+  "stargazers_count": 20201,
+  "watchers_count": 20201,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 1543,
   "open_issues": 164,
-  "watchers": 20198,
+  "watchers": 20201,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1593
+  "_index": 1600
 }

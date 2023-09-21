@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/localForage/localForage/releases{/id}",
   "deployments_url": "https://api.github.com/repos/localForage/localForage/deployments",
   "created_at": "2013-10-31T00:10:06Z",
-  "updated_at": "2023-09-20T01:38:38Z",
+  "updated_at": "2023-09-21T00:30:30Z",
   "pushed_at": "2023-08-15T12:30:17Z",
   "git_url": "git://github.com/localForage/localForage.git",
   "ssh_url": "git@github.com:localForage/localForage.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/localForage/localForage",
   "homepage": "https://localforage.github.io/localForage",
   "size": 4857,
-  "stargazers_count": 22926,
-  "watchers_count": 22926,
+  "stargazers_count": 22940,
+  "watchers_count": 22940,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 1272,
+  "forks_count": 1273,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "websql"
   ],
   "visibility": "public",
-  "forks": 1272,
+  "forks": 1273,
   "open_issues": 242,
-  "watchers": 22926,
+  "watchers": 22940,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1805
+  "_index": 1812
 }

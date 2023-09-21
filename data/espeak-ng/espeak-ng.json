@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/espeak-ng/espeak-ng/releases{/id}",
   "deployments_url": "https://api.github.com/repos/espeak-ng/espeak-ng/deployments",
   "created_at": "2015-12-08T20:42:42Z",
-  "updated_at": "2023-09-19T19:16:20Z",
+  "updated_at": "2023-09-20T15:42:00Z",
   "pushed_at": "2023-09-18T23:41:47Z",
   "git_url": "git://github.com/espeak-ng/espeak-ng.git",
   "ssh_url": "git@github.com:espeak-ng/espeak-ng.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/espeak-ng/espeak-ng",
   "homepage": "",
   "size": 57839,
-  "stargazers_count": 2316,
-  "watchers_count": 2316,
+  "stargazers_count": 2319,
+  "watchers_count": 2319,
   "language": "C",
   "has_issues": true,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 697,
   "open_issues": 447,
-  "watchers": 2316,
+  "watchers": 2319,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 274
+  "_index": 281
 }

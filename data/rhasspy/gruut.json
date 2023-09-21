@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/rhasspy/gruut/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rhasspy/gruut/deployments",
   "created_at": "2020-10-06T20:27:20Z",
-  "updated_at": "2023-09-17T06:49:44Z",
+  "updated_at": "2023-09-20T07:53:15Z",
   "pushed_at": "2023-05-19T10:28:06Z",
   "git_url": "git://github.com/rhasspy/gruut.git",
   "ssh_url": "git@github.com:rhasspy/gruut.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/rhasspy/gruut",
   "homepage": null,
   "size": 864717,
-  "stargazers_count": 201,
-  "watchers_count": 201,
+  "stargazers_count": 202,
+  "watchers_count": 202,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 27,
   "open_issues": 22,
-  "watchers": 201,
+  "watchers": 202,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 77
+  "_index": 84
 }

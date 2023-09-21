@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/invisal/query-master/deployments",
   "created_at": "2023-05-15T13:09:55Z",
   "updated_at": "2023-09-11T12:29:28Z",
-  "pushed_at": "2023-09-19T16:32:17Z",
+  "pushed_at": "2023-09-21T01:37:50Z",
   "git_url": "git://github.com/invisal/query-master.git",
   "ssh_url": "git@github.com:invisal/query-master.git",
   "clone_url": "https://github.com/invisal/query-master.git",
   "svn_url": "https://github.com/invisal/query-master",
   "homepage": "https://querymaster.io/",
-  "size": 7668,
+  "size": 7699,
   "stargazers_count": 49,
   "watchers_count": 49,
   "language": "TypeScript",
@@ -82,17 +82,17 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 16,
+  "forks_count": 17,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 21,
+  "open_issues_count": 20,
   "license": {
-    "key": "other",
-    "name": "Other",
-    "spdx_id": "NOASSERTION",
-    "url": null,
-    "node_id": "MDc6TGljZW5zZTA="
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
   },
   "allow_forking": true,
   "is_template": false,
@@ -105,8 +105,8 @@
     "mysql"
   ],
   "visibility": "public",
-  "forks": 16,
-  "open_issues": 21,
+  "forks": 17,
+  "open_issues": 20,
   "watchers": 49,
   "default_branch": "main",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 401
+  "_index": 408
 }

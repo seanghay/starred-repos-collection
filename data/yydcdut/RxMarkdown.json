@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yydcdut/RxMarkdown/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yydcdut/RxMarkdown/deployments",
   "created_at": "2015-09-14T02:05:39Z",
-  "updated_at": "2023-09-18T17:08:37Z",
+  "updated_at": "2023-09-20T07:12:43Z",
   "pushed_at": "2020-07-24T07:48:41Z",
   "git_url": "git://github.com/yydcdut/RxMarkdown.git",
   "ssh_url": "git@github.com:yydcdut/RxMarkdown.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yydcdut/RxMarkdown",
   "homepage": "",
   "size": 21625,
-  "stargazers_count": 739,
-  "watchers_count": 739,
+  "stargazers_count": 740,
+  "watchers_count": 740,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 95,
   "open_issues": 27,
-  "watchers": 739,
+  "watchers": 740,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2083
+  "_index": 2090
 }
