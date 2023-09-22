@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/marcogdepinto/emotion-classification-from-audio-files/releases{/id}",
   "deployments_url": "https://api.github.com/repos/marcogdepinto/emotion-classification-from-audio-files/deployments",
   "created_at": "2018-12-07T10:36:56Z",
-  "updated_at": "2023-09-17T16:41:19Z",
+  "updated_at": "2023-09-21T20:21:22Z",
   "pushed_at": "2023-07-01T07:02:47Z",
   "git_url": "git://github.com/marcogdepinto/emotion-classification-from-audio-files.git",
   "ssh_url": "git@github.com:marcogdepinto/emotion-classification-from-audio-files.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/marcogdepinto/emotion-classification-from-audio-files",
   "homepage": "",
   "size": 676876,
-  "stargazers_count": 356,
-  "watchers_count": 356,
+  "stargazers_count": 357,
+  "watchers_count": 357,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 130,
+  "forks_count": 131,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -120,9 +120,9 @@
     "tensorflow"
   ],
   "visibility": "public",
-  "forks": 130,
+  "forks": 131,
   "open_issues": 10,
-  "watchers": 356,
+  "watchers": 357,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 279
+  "_index": 285
 }

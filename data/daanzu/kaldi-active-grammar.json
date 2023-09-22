@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/daanzu/kaldi-active-grammar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/daanzu/kaldi-active-grammar/deployments",
   "created_at": "2019-03-24T03:30:06Z",
-  "updated_at": "2023-09-14T15:29:50Z",
+  "updated_at": "2023-09-21T15:46:14Z",
   "pushed_at": "2023-07-06T20:31:59Z",
   "git_url": "git://github.com/daanzu/kaldi-active-grammar.git",
   "ssh_url": "git@github.com:daanzu/kaldi-active-grammar.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/daanzu/kaldi-active-grammar",
   "homepage": "",
   "size": 593,
-  "stargazers_count": 320,
-  "watchers_count": 320,
+  "stargazers_count": 321,
+  "watchers_count": 321,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -116,7 +116,7 @@
   "visibility": "public",
   "forks": 46,
   "open_issues": 42,
-  "watchers": 320,
+  "watchers": 321,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 69
+  "_index": 75
 }

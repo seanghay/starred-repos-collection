@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wasabeef/glide-transformations/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wasabeef/glide-transformations/deployments",
   "created_at": "2015-01-09T10:33:29Z",
-  "updated_at": "2023-09-18T08:11:33Z",
+  "updated_at": "2023-09-21T06:07:49Z",
   "pushed_at": "2022-03-08T16:07:21Z",
   "git_url": "git://github.com/wasabeef/glide-transformations.git",
   "ssh_url": "git@github.com:wasabeef/glide-transformations.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wasabeef/glide-transformations",
   "homepage": "",
   "size": 26509,
-  "stargazers_count": 9814,
-  "watchers_count": 9814,
+  "stargazers_count": 9815,
+  "watchers_count": 9815,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 1425,
   "open_issues": 55,
-  "watchers": 9814,
+  "watchers": 9815,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2149
+  "_index": 2155
 }

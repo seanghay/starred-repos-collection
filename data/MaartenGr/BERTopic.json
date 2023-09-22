@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/MaartenGr/BERTopic/releases{/id}",
   "deployments_url": "https://api.github.com/repos/MaartenGr/BERTopic/deployments",
   "created_at": "2020-09-22T14:19:29Z",
-  "updated_at": "2023-09-20T22:32:11Z",
-  "pushed_at": "2023-09-20T12:49:15Z",
+  "updated_at": "2023-09-21T22:15:10Z",
+  "pushed_at": "2023-09-21T14:03:01Z",
   "git_url": "git://github.com/MaartenGr/BERTopic.git",
   "ssh_url": "git@github.com:MaartenGr/BERTopic.git",
   "clone_url": "https://github.com/MaartenGr/BERTopic.git",
   "svn_url": "https://github.com/MaartenGr/BERTopic",
   "homepage": "https://maartengr.github.io/BERTopic/",
-  "size": 18121,
-  "stargazers_count": 4694,
-  "watchers_count": 4694,
+  "size": 18052,
+  "stargazers_count": 4698,
+  "watchers_count": 4698,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 203,
+  "open_issues_count": 202,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -111,8 +111,8 @@
   ],
   "visibility": "public",
   "forks": 592,
-  "open_issues": 203,
-  "watchers": 4694,
+  "open_issues": 202,
+  "watchers": 4698,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 594
+  "_index": 600
 }

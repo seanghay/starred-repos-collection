@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/backstage/backstage/releases{/id}",
   "deployments_url": "https://api.github.com/repos/backstage/backstage/deployments",
   "created_at": "2020-01-24T22:39:49Z",
-  "updated_at": "2023-09-20T22:35:46Z",
-  "pushed_at": "2023-09-21T00:13:46Z",
+  "updated_at": "2023-09-22T01:01:39Z",
+  "pushed_at": "2023-09-21T22:21:34Z",
   "git_url": "git://github.com/backstage/backstage.git",
   "ssh_url": "git@github.com:backstage/backstage.git",
   "clone_url": "https://github.com/backstage/backstage.git",
   "svn_url": "https://github.com/backstage/backstage",
   "homepage": "https://backstage.io",
-  "size": 4215539,
-  "stargazers_count": 23250,
-  "watchers_count": 23250,
+  "size": 4221146,
+  "stargazers_count": 23266,
+  "watchers_count": 23266,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 4510,
+  "forks_count": 4513,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 516,
+  "open_issues_count": 519,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -109,9 +109,9 @@
     "service-catalog"
   ],
   "visibility": "public",
-  "forks": 4510,
-  "open_issues": 516,
-  "watchers": 23250,
+  "forks": 4513,
+  "open_issues": 519,
+  "watchers": 23266,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 725
+  "_index": 731
 }

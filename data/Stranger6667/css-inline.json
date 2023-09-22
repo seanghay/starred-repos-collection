@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/Stranger6667/css-inline/deployments",
   "created_at": "2020-06-21T12:32:19Z",
   "updated_at": "2023-09-11T12:51:31Z",
-  "pushed_at": "2023-09-15T12:16:27Z",
+  "pushed_at": "2023-09-21T21:54:19Z",
   "git_url": "git://github.com/Stranger6667/css-inline.git",
   "ssh_url": "git@github.com:Stranger6667/css-inline.git",
   "clone_url": "https://github.com/Stranger6667/css-inline.git",
   "svn_url": "https://github.com/Stranger6667/css-inline",
   "homepage": "https://docs.rs/css-inline",
-  "size": 1076,
+  "size": 1009,
   "stargazers_count": 179,
   "watchers_count": 179,
   "language": "Rust",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 314
+  "_index": 320
 }

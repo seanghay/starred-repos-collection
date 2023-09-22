@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/huggingface/peft/releases{/id}",
   "deployments_url": "https://api.github.com/repos/huggingface/peft/deployments",
   "created_at": "2022-11-25T03:51:09Z",
-  "updated_at": "2023-09-20T23:50:13Z",
-  "pushed_at": "2023-09-20T23:59:50Z",
+  "updated_at": "2023-09-22T01:35:53Z",
+  "pushed_at": "2023-09-21T17:23:28Z",
   "git_url": "git://github.com/huggingface/peft.git",
   "ssh_url": "git@github.com:huggingface/peft.git",
   "clone_url": "https://github.com/huggingface/peft.git",
   "svn_url": "https://github.com/huggingface/peft",
   "homepage": "https://huggingface.co/docs/peft",
-  "size": 7842,
-  "stargazers_count": 9767,
-  "watchers_count": 9767,
+  "size": 7908,
+  "stargazers_count": 9783,
+  "watchers_count": 9783,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 787,
+  "forks_count": 789,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 75,
+  "open_issues_count": 73,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -107,9 +107,9 @@
     "transformers"
   ],
   "visibility": "public",
-  "forks": 787,
-  "open_issues": 75,
-  "watchers": 9767,
+  "forks": 789,
+  "open_issues": 73,
+  "watchers": 9783,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 482
+  "_index": 488
 }

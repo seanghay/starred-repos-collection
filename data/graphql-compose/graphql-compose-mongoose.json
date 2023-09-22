@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/graphql-compose/graphql-compose-mongoose/deployments",
   "created_at": "2016-06-07T10:52:39Z",
   "updated_at": "2023-09-17T22:41:32Z",
-  "pushed_at": "2023-08-30T21:24:52Z",
+  "pushed_at": "2023-09-21T18:07:22Z",
   "git_url": "git://github.com/graphql-compose/graphql-compose-mongoose.git",
   "ssh_url": "git@github.com:graphql-compose/graphql-compose-mongoose.git",
   "clone_url": "https://github.com/graphql-compose/graphql-compose-mongoose.git",
   "svn_url": "https://github.com/graphql-compose/graphql-compose-mongoose",
   "homepage": "",
-  "size": 3771,
+  "size": 3865,
   "stargazers_count": 703,
   "watchers_count": 703,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 122,
+  "open_issues_count": 123,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,7 +108,7 @@
   ],
   "visibility": "public",
   "forks": 99,
-  "open_issues": 122,
+  "open_issues": 123,
   "watchers": 703,
   "default_branch": "master",
   "permissions": {
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2875
+  "_index": 2881
 }

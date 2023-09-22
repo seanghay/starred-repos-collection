@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/emittery/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/emittery/deployments",
   "created_at": "2017-11-27T21:09:55Z",
-  "updated_at": "2023-09-14T07:44:22Z",
+  "updated_at": "2023-09-21T14:13:15Z",
   "pushed_at": "2023-09-09T04:17:13Z",
   "git_url": "git://github.com/sindresorhus/emittery.git",
   "ssh_url": "git@github.com:sindresorhus/emittery.git",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1100
+  "_index": 1106
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/arrow-kt/arrow/releases{/id}",
   "deployments_url": "https://api.github.com/repos/arrow-kt/arrow/deployments",
   "created_at": "2017-03-24T10:43:11Z",
-  "updated_at": "2023-09-18T17:49:45Z",
+  "updated_at": "2023-09-21T03:52:18Z",
   "pushed_at": "2023-09-14T07:14:37Z",
   "git_url": "git://github.com/arrow-kt/arrow.git",
   "ssh_url": "git@github.com:arrow-kt/arrow.git",
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2843
+  "_index": 2849
 }

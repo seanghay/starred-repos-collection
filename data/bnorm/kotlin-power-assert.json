@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bnorm/kotlin-power-assert/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bnorm/kotlin-power-assert/deployments",
   "created_at": "2019-10-31T16:36:02Z",
-  "updated_at": "2023-09-20T20:06:58Z",
+  "updated_at": "2023-09-21T21:04:09Z",
   "pushed_at": "2023-08-15T14:20:43Z",
   "git_url": "git://github.com/bnorm/kotlin-power-assert.git",
   "ssh_url": "git@github.com:bnorm/kotlin-power-assert.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/bnorm/kotlin-power-assert",
   "homepage": "",
   "size": 598,
-  "stargazers_count": 495,
-  "watchers_count": 495,
+  "stargazers_count": 496,
+  "watchers_count": 496,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 14,
   "open_issues": 15,
-  "watchers": 495,
+  "watchers": 496,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1689
+  "_index": 1695
 }
