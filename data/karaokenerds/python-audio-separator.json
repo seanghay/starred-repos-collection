@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/karaokenerds/python-audio-separator/releases{/id}",
   "deployments_url": "https://api.github.com/repos/karaokenerds/python-audio-separator/deployments",
   "created_at": "2023-06-30T05:57:32Z",
-  "updated_at": "2023-09-19T21:12:27Z",
+  "updated_at": "2023-09-22T07:51:23Z",
   "pushed_at": "2023-09-17T23:30:16Z",
   "git_url": "git://github.com/karaokenerds/python-audio-separator.git",
   "ssh_url": "git@github.com:karaokenerds/python-audio-separator.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/karaokenerds/python-audio-separator",
   "homepage": null,
   "size": 109,
-  "stargazers_count": 44,
-  "watchers_count": 44,
+  "stargazers_count": 45,
+  "watchers_count": 45,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 9,
+  "open_issues_count": 7,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 10,
-  "open_issues": 9,
-  "watchers": 44,
+  "open_issues": 7,
+  "watchers": 45,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 137
+  "_index": 139
 }

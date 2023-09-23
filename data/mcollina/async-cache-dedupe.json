@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mcollina/async-cache-dedupe/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mcollina/async-cache-dedupe/deployments",
   "created_at": "2021-07-13T22:38:30Z",
-  "updated_at": "2023-09-19T17:39:13Z",
+  "updated_at": "2023-09-22T05:56:09Z",
   "pushed_at": "2023-09-18T19:42:29Z",
   "git_url": "git://github.com/mcollina/async-cache-dedupe.git",
   "ssh_url": "git@github.com:mcollina/async-cache-dedupe.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mcollina/async-cache-dedupe",
   "homepage": null,
   "size": 127,
-  "stargazers_count": 385,
-  "watchers_count": 385,
+  "stargazers_count": 386,
+  "watchers_count": 386,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 31,
+  "forks_count": 32,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 31,
+  "forks": 32,
   "open_issues": 6,
-  "watchers": 385,
+  "watchers": 386,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 804
+  "_index": 806
 }

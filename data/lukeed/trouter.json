@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lukeed/trouter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lukeed/trouter/deployments",
   "created_at": "2017-11-05T19:35:11Z",
-  "updated_at": "2023-09-14T10:20:20Z",
+  "updated_at": "2023-09-22T18:55:33Z",
   "pushed_at": "2023-02-22T02:10:52Z",
   "git_url": "git://github.com/lukeed/trouter.git",
   "ssh_url": "git@github.com:lukeed/trouter.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 631
+  "_index": 633
 }

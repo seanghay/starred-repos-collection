@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/googleapis/nodejs-storage/releases{/id}",
   "deployments_url": "https://api.github.com/repos/googleapis/nodejs-storage/deployments",
   "created_at": "2017-07-26T20:53:32Z",
-  "updated_at": "2023-09-20T04:04:05Z",
-  "pushed_at": "2023-09-22T00:34:35Z",
+  "updated_at": "2023-09-22T10:01:28Z",
+  "pushed_at": "2023-09-22T21:34:35Z",
   "git_url": "git://github.com/googleapis/nodejs-storage.git",
   "ssh_url": "git@github.com:googleapis/nodejs-storage.git",
   "clone_url": "https://github.com/googleapis/nodejs-storage.git",
   "svn_url": "https://github.com/googleapis/nodejs-storage",
   "homepage": "https://cloud.google.com/storage/",
-  "size": 9976,
-  "stargazers_count": 844,
-  "watchers_count": 844,
+  "size": 9992,
+  "stargazers_count": 845,
+  "watchers_count": 845,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 385,
+  "forks_count": 386,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 28,
+  "open_issues_count": 29,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -102,9 +102,9 @@
     "storage"
   ],
   "visibility": "public",
-  "forks": 385,
-  "open_issues": 28,
-  "watchers": 844,
+  "forks": 386,
+  "open_issues": 29,
+  "watchers": 845,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 887
+  "_index": 889
 }

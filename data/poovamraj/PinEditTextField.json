@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/poovamraj/PinEditTextField/releases{/id}",
   "deployments_url": "https://api.github.com/repos/poovamraj/PinEditTextField/deployments",
   "created_at": "2018-03-04T15:32:54Z",
-  "updated_at": "2023-09-12T18:08:18Z",
+  "updated_at": "2023-09-22T09:15:11Z",
   "pushed_at": "2021-06-05T09:55:32Z",
   "git_url": "git://github.com/poovamraj/PinEditTextField.git",
   "ssh_url": "git@github.com:poovamraj/PinEditTextField.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/poovamraj/PinEditTextField",
   "homepage": "",
   "size": 681,
-  "stargazers_count": 273,
-  "watchers_count": 273,
+  "stargazers_count": 274,
+  "watchers_count": 274,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 42,
   "open_issues": 16,
-  "watchers": 273,
+  "watchers": 274,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2644
+  "_index": 2646
 }

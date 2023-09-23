@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ianstormtaylor/slate/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ianstormtaylor/slate/deployments",
   "created_at": "2016-06-18T01:52:42Z",
-  "updated_at": "2023-09-21T20:43:35Z",
-  "pushed_at": "2023-09-21T22:44:22Z",
+  "updated_at": "2023-09-22T22:14:15Z",
+  "pushed_at": "2023-09-22T01:51:38Z",
   "git_url": "git://github.com/ianstormtaylor/slate.git",
   "ssh_url": "git@github.com:ianstormtaylor/slate.git",
   "clone_url": "https://github.com/ianstormtaylor/slate.git",
   "svn_url": "https://github.com/ianstormtaylor/slate",
   "homepage": "http://slatejs.org",
   "size": 21408,
-  "stargazers_count": 27891,
-  "watchers_count": 27891,
+  "stargazers_count": 27901,
+  "watchers_count": 27901,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 618,
+  "open_issues_count": 616,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,8 +109,8 @@
   ],
   "visibility": "public",
   "forks": 3198,
-  "open_issues": 618,
-  "watchers": 27891,
+  "open_issues": 616,
+  "watchers": 27901,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 345
+  "_index": 347
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/SufficientlySecure/html-textview/releases{/id}",
   "deployments_url": "https://api.github.com/repos/SufficientlySecure/html-textview/deployments",
   "created_at": "2013-09-02T16:19:18Z",
-  "updated_at": "2023-09-20T08:34:22Z",
+  "updated_at": "2023-09-22T06:38:01Z",
   "pushed_at": "2020-09-07T11:23:50Z",
   "git_url": "git://github.com/SufficientlySecure/html-textview.git",
   "ssh_url": "git@github.com:SufficientlySecure/html-textview.git",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2399
+  "_index": 2401
 }

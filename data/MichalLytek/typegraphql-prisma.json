@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/MichalLytek/typegraphql-prisma/releases{/id}",
   "deployments_url": "https://api.github.com/repos/MichalLytek/typegraphql-prisma/deployments",
   "created_at": "2020-10-05T13:54:28Z",
-  "updated_at": "2023-09-13T03:52:47Z",
+  "updated_at": "2023-09-22T08:46:24Z",
   "pushed_at": "2023-08-09T13:03:25Z",
   "git_url": "git://github.com/MichalLytek/typegraphql-prisma.git",
   "ssh_url": "git@github.com:MichalLytek/typegraphql-prisma.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/MichalLytek/typegraphql-prisma",
   "homepage": "https://prisma.typegraphql.com",
   "size": 258659,
-  "stargazers_count": 803,
-  "watchers_count": 803,
+  "stargazers_count": 804,
+  "watchers_count": 804,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 57,
+  "open_issues_count": 59,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,8 +108,8 @@
   ],
   "visibility": "public",
   "forks": 98,
-  "open_issues": 57,
-  "watchers": 803,
+  "open_issues": 59,
+  "watchers": 804,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1823
+  "_index": 1825
 }

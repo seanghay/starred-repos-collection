@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/CesiumGS/cesium/releases{/id}",
   "deployments_url": "https://api.github.com/repos/CesiumGS/cesium/deployments",
   "created_at": "2012-03-02T22:27:14Z",
-  "updated_at": "2023-09-21T08:54:50Z",
-  "pushed_at": "2023-09-21T14:41:08Z",
+  "updated_at": "2023-09-23T00:10:17Z",
+  "pushed_at": "2023-09-22T13:45:51Z",
   "git_url": "git://github.com/CesiumGS/cesium.git",
   "ssh_url": "git@github.com:CesiumGS/cesium.git",
   "clone_url": "https://github.com/CesiumGS/cesium.git",
   "svn_url": "https://github.com/CesiumGS/cesium",
   "homepage": "https://cesium.com/cesiumjs/",
-  "size": 681076,
-  "stargazers_count": 10980,
-  "watchers_count": 10980,
+  "size": 681078,
+  "stargazers_count": 10990,
+  "watchers_count": 10990,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3286,
+  "forks_count": 3289,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1301,
+  "open_issues_count": 1300,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -109,9 +109,9 @@
     "webgl"
   ],
   "visibility": "public",
-  "forks": 3286,
-  "open_issues": 1301,
-  "watchers": 10980,
+  "forks": 3289,
+  "open_issues": 1300,
+  "watchers": 10990,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2702
+  "_index": 2704
 }

@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/suhitaghosh10/emo-stargan/releases{/id}",
   "deployments_url": "https://api.github.com/repos/suhitaghosh10/emo-stargan/deployments",
   "created_at": "2023-05-22T09:49:06Z",
-  "updated_at": "2023-09-21T07:12:54Z",
-  "pushed_at": "2023-09-11T08:15:43Z",
+  "updated_at": "2023-09-22T09:15:24Z",
+  "pushed_at": "2023-09-22T22:51:17Z",
   "git_url": "git://github.com/suhitaghosh10/emo-stargan.git",
   "ssh_url": "git@github.com:suhitaghosh10/emo-stargan.git",
   "clone_url": "https://github.com/suhitaghosh10/emo-stargan.git",
   "svn_url": "https://github.com/suhitaghosh10/emo-stargan",
   "homepage": "",
-  "size": 116044,
+  "size": 120404,
   "stargazers_count": 15,
   "watchers_count": 15,
   "language": "Python",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 53
+  "_index": 55
 }

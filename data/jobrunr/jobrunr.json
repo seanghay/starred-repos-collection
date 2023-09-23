@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/jobrunr/jobrunr/deployments",
   "created_at": "2020-04-02T17:34:11Z",
   "updated_at": "2023-09-20T14:47:21Z",
-  "pushed_at": "2023-09-21T07:06:37Z",
+  "pushed_at": "2023-09-22T09:42:34Z",
   "git_url": "git://github.com/jobrunr/jobrunr.git",
   "ssh_url": "git@github.com:jobrunr/jobrunr.git",
   "clone_url": "https://github.com/jobrunr/jobrunr.git",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1789
+  "_index": 1791
 }

@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/SysCV/sam-hq",
-  "description": "Segment Anything in High Quality",
+  "description": "Segment Anything in High Quality [NeurIPS 2023]",
   "fork": false,
   "url": "https://api.github.com/repos/SysCV/sam-hq",
   "forks_url": "https://api.github.com/repos/SysCV/sam-hq/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/SysCV/sam-hq/releases{/id}",
   "deployments_url": "https://api.github.com/repos/SysCV/sam-hq/deployments",
   "created_at": "2023-06-01T02:04:54Z",
-  "updated_at": "2023-09-22T01:35:09Z",
-  "pushed_at": "2023-09-18T20:24:38Z",
+  "updated_at": "2023-09-22T14:39:24Z",
+  "pushed_at": "2023-09-22T14:06:48Z",
   "git_url": "git://github.com/SysCV/sam-hq.git",
   "ssh_url": "git@github.com:SysCV/sam-hq.git",
   "clone_url": "https://github.com/SysCV/sam-hq.git",
   "svn_url": "https://github.com/SysCV/sam-hq",
   "homepage": "https://arxiv.org/abs/2306.01567",
-  "size": 43163,
-  "stargazers_count": 2601,
-  "watchers_count": 2601,
+  "size": 43176,
+  "stargazers_count": 2606,
+  "watchers_count": 2606,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 138,
   "open_issues": 40,
-  "watchers": 2601,
+  "watchers": 2606,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 360
+  "_index": 362
 }

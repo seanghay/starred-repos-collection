@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/hyperdxio/hyperdx/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hyperdxio/hyperdx/deployments",
   "created_at": "2023-09-13T00:46:19Z",
-  "updated_at": "2023-09-22T01:35:26Z",
-  "pushed_at": "2023-09-21T23:36:38Z",
+  "updated_at": "2023-09-23T01:34:58Z",
+  "pushed_at": "2023-09-23T00:31:06Z",
   "git_url": "git://github.com/hyperdxio/hyperdx.git",
   "ssh_url": "git@github.com:hyperdxio/hyperdx.git",
   "clone_url": "https://github.com/hyperdxio/hyperdx.git",
   "svn_url": "https://github.com/hyperdxio/hyperdx",
   "homepage": "https://hyperdx.io/",
-  "size": 5791,
-  "stargazers_count": 3824,
-  "watchers_count": 3824,
+  "size": 6095,
+  "stargazers_count": 4100,
+  "watchers_count": 4100,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 92,
+  "forks_count": 100,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 14,
+  "open_issues_count": 20,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,6 +100,7 @@
   "topics": [
     "analytics",
     "application-monitoring",
+    "hacktoberfest",
     "log-management",
     "logs",
     "metrics",
@@ -109,9 +110,9 @@
     "traces"
   ],
   "visibility": "public",
-  "forks": 92,
-  "open_issues": 14,
-  "watchers": 3824,
+  "forks": 100,
+  "open_issues": 20,
+  "watchers": 4100,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 5
+  "_index": 7
 }
