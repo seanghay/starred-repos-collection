@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/FlagAI-Open/FlagAI/releases{/id}",
   "deployments_url": "https://api.github.com/repos/FlagAI-Open/FlagAI/deployments",
   "created_at": "2022-05-16T06:43:12Z",
-  "updated_at": "2023-09-22T02:30:10Z",
+  "updated_at": "2023-09-23T17:43:28Z",
   "pushed_at": "2023-09-22T01:06:31Z",
   "git_url": "git://github.com/FlagAI-Open/FlagAI.git",
   "ssh_url": "git@github.com:FlagAI-Open/FlagAI.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/FlagAI-Open/FlagAI",
   "homepage": "",
   "size": 106199,
-  "stargazers_count": 3542,
-  "watchers_count": 3542,
+  "stargazers_count": 3544,
+  "watchers_count": 3544,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 494,
   "open_issues": 13,
-  "watchers": 3542,
+  "watchers": 3544,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 344
+  "_index": 345
 }

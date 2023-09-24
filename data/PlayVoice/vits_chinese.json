@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 116,
+  "forks_count": 117,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,7 +107,7 @@
     "vits2"
   ],
   "visibility": "public",
-  "forks": 116,
+  "forks": 117,
   "open_issues": 72,
   "watchers": 750,
   "default_branch": "master",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 179
+  "_index": 180
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/scikit-learn/scikit-learn/releases{/id}",
   "deployments_url": "https://api.github.com/repos/scikit-learn/scikit-learn/deployments",
   "created_at": "2010-08-17T09:43:38Z",
-  "updated_at": "2023-09-23T01:24:46Z",
-  "pushed_at": "2023-09-22T21:09:38Z",
+  "updated_at": "2023-09-23T21:51:03Z",
+  "pushed_at": "2023-09-24T00:59:19Z",
   "git_url": "git://github.com/scikit-learn/scikit-learn.git",
   "ssh_url": "git@github.com:scikit-learn/scikit-learn.git",
   "clone_url": "https://github.com/scikit-learn/scikit-learn.git",
   "svn_url": "https://github.com/scikit-learn/scikit-learn",
   "homepage": "https://scikit-learn.org",
   "size": 159289,
-  "stargazers_count": 55902,
-  "watchers_count": 55902,
+  "stargazers_count": 55911,
+  "watchers_count": 55911,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 24679,
+  "forks_count": 24685,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2259,
+  "open_issues_count": 2261,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -105,9 +105,9 @@
     "statistics"
   ],
   "visibility": "public",
-  "forks": 24679,
-  "open_issues": 2259,
-  "watchers": 55902,
+  "forks": 24685,
+  "open_issues": 2261,
+  "watchers": 55911,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 613
+  "_index": 614
 }

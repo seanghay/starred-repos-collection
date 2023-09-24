@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/dolthub/dolt/releases{/id}",
   "deployments_url": "https://api.github.com/repos/dolthub/dolt/deployments",
   "created_at": "2019-07-24T17:46:25Z",
-  "updated_at": "2023-09-23T00:41:15Z",
+  "updated_at": "2023-09-23T19:11:18Z",
   "pushed_at": "2023-09-22T21:37:44Z",
   "git_url": "git://github.com/dolthub/dolt.git",
   "ssh_url": "git@github.com:dolthub/dolt.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/dolthub/dolt",
   "homepage": "",
   "size": 135334,
-  "stargazers_count": 15536,
-  "watchers_count": 15536,
+  "stargazers_count": 15538,
+  "watchers_count": 15538,
   "language": "Go",
   "has_issues": true,
   "has_projects": false,
@@ -119,7 +119,7 @@
   "visibility": "public",
   "forks": 447,
   "open_issues": 345,
-  "watchers": 15536,
+  "watchers": 15538,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1711
+  "_index": 1712
 }

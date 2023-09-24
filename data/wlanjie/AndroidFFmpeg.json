@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wlanjie/AndroidFFmpeg/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wlanjie/AndroidFFmpeg/deployments",
   "created_at": "2016-05-08T03:11:23Z",
-  "updated_at": "2023-08-25T02:14:25Z",
+  "updated_at": "2023-09-23T07:58:21Z",
   "pushed_at": "2017-10-23T02:25:06Z",
   "git_url": "git://github.com/wlanjie/AndroidFFmpeg.git",
   "ssh_url": "git@github.com:wlanjie/AndroidFFmpeg.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wlanjie/AndroidFFmpeg",
   "homepage": "",
   "size": 231383,
-  "stargazers_count": 368,
-  "watchers_count": 368,
+  "stargazers_count": 369,
+  "watchers_count": 369,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 126,
   "open_issues": 3,
-  "watchers": 368,
+  "watchers": 369,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2813
+  "_index": 2814
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ToolJet/ToolJet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ToolJet/ToolJet/deployments",
   "created_at": "2021-03-30T08:51:34Z",
-  "updated_at": "2023-09-22T20:30:30Z",
+  "updated_at": "2023-09-23T12:05:47Z",
   "pushed_at": "2023-09-22T17:13:59Z",
   "git_url": "git://github.com/ToolJet/ToolJet.git",
   "ssh_url": "git@github.com:ToolJet/ToolJet.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ToolJet/ToolJet",
   "homepage": "https://tooljet.com",
   "size": 755288,
-  "stargazers_count": 20505,
-  "watchers_count": 20505,
+  "stargazers_count": 20513,
+  "watchers_count": 20513,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -122,7 +122,7 @@
   "visibility": "public",
   "forks": 2062,
   "open_issues": 498,
-  "watchers": 20505,
+  "watchers": 20513,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 873
+  "_index": 874
 }

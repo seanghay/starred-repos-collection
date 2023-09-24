@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/craigfrancis/audio-detect/releases{/id}",
   "deployments_url": "https://api.github.com/repos/craigfrancis/audio-detect/deployments",
   "created_at": "2018-12-29T16:24:15Z",
-  "updated_at": "2023-09-08T01:59:02Z",
+  "updated_at": "2023-09-23T09:09:28Z",
   "pushed_at": "2023-06-27T23:12:44Z",
   "git_url": "git://github.com/craigfrancis/audio-detect.git",
   "ssh_url": "git@github.com:craigfrancis/audio-detect.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/craigfrancis/audio-detect",
   "homepage": null,
   "size": 5648,
-  "stargazers_count": 46,
-  "watchers_count": 46,
+  "stargazers_count": 45,
+  "watchers_count": 45,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 6,
   "open_issues": 0,
-  "watchers": 46,
+  "watchers": 45,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 299
+  "_index": 300
 }

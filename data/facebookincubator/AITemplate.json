@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/facebookincubator/AITemplate/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookincubator/AITemplate/deployments",
   "created_at": "2022-07-15T15:40:58Z",
-  "updated_at": "2023-09-21T15:30:19Z",
+  "updated_at": "2023-09-23T22:50:56Z",
   "pushed_at": "2023-09-22T06:55:05Z",
   "git_url": "git://github.com/facebookincubator/AITemplate.git",
   "ssh_url": "git@github.com:facebookincubator/AITemplate.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/facebookincubator/AITemplate",
   "homepage": "",
   "size": 4791,
-  "stargazers_count": 4237,
-  "watchers_count": 4237,
+  "stargazers_count": 4238,
+  "watchers_count": 4238,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 336,
   "open_issues": 129,
-  "watchers": 4237,
+  "watchers": 4238,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 372
+  "_index": 373
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/accompanist/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/accompanist/deployments",
   "created_at": "2020-05-05T07:48:10Z",
-  "updated_at": "2023-09-22T18:19:52Z",
+  "updated_at": "2023-09-23T07:18:28Z",
   "pushed_at": "2023-09-11T02:26:44Z",
   "git_url": "git://github.com/google/accompanist.git",
   "ssh_url": "git@github.com:google/accompanist.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/accompanist",
   "homepage": "https://google.github.io/accompanist",
   "size": 54618,
-  "stargazers_count": 6827,
-  "watchers_count": 6827,
+  "stargazers_count": 6829,
+  "watchers_count": 6829,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 23,
+  "open_issues_count": 25,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -103,8 +103,8 @@
   ],
   "visibility": "public",
   "forks": 541,
-  "open_issues": 23,
-  "watchers": 6827,
+  "open_issues": 25,
+  "watchers": 6829,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1537
+  "_index": 1538
 }
