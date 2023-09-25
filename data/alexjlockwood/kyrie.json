@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/alexjlockwood/kyrie/releases{/id}",
   "deployments_url": "https://api.github.com/repos/alexjlockwood/kyrie/deployments",
   "created_at": "2018-01-26T19:19:55Z",
-  "updated_at": "2023-09-08T17:35:47Z",
+  "updated_at": "2023-09-24T13:55:03Z",
   "pushed_at": "2020-12-23T12:26:04Z",
   "git_url": "git://github.com/alexjlockwood/kyrie.git",
   "ssh_url": "git@github.com:alexjlockwood/kyrie.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/alexjlockwood/kyrie",
   "homepage": "https://alexjlockwood.github.io/kyrie/com.github.alexjlockwood.kyrie/index.html",
   "size": 3195,
-  "stargazers_count": 1067,
-  "watchers_count": 1067,
+  "stargazers_count": 1068,
+  "watchers_count": 1068,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 47,
   "open_issues": 12,
-  "watchers": 1067,
+  "watchers": 1068,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2619
+  "_index": 2620
 }

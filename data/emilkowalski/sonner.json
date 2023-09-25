@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/emilkowalski/sonner/releases{/id}",
   "deployments_url": "https://api.github.com/repos/emilkowalski/sonner/deployments",
   "created_at": "2023-02-23T11:01:18Z",
-  "updated_at": "2023-09-23T12:01:57Z",
-  "pushed_at": "2023-09-20T13:58:38Z",
+  "updated_at": "2023-09-24T20:23:28Z",
+  "pushed_at": "2023-09-24T12:17:32Z",
   "git_url": "git://github.com/emilkowalski/sonner.git",
   "ssh_url": "git@github.com:emilkowalski/sonner.git",
   "clone_url": "https://github.com/emilkowalski/sonner.git",
   "svn_url": "https://github.com/emilkowalski/sonner",
   "homepage": "https://sonner.emilkowal.ski",
-  "size": 761,
-  "stargazers_count": 3953,
-  "watchers_count": 3953,
+  "size": 765,
+  "stargazers_count": 3959,
+  "watchers_count": 3959,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 4,
+  "open_issues_count": 2,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,8 +104,8 @@
   ],
   "visibility": "public",
   "forks": 83,
-  "open_issues": 4,
-  "watchers": 3953,
+  "open_issues": 2,
+  "watchers": 3959,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 255
+  "_index": 256
 }

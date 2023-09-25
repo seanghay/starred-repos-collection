@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/square/okio/releases{/id}",
   "deployments_url": "https://api.github.com/repos/square/okio/deployments",
   "created_at": "2014-03-17T00:02:59Z",
-  "updated_at": "2023-09-23T10:24:20Z",
+  "updated_at": "2023-09-24T09:50:17Z",
   "pushed_at": "2023-09-21T13:36:35Z",
   "git_url": "git://github.com/square/okio.git",
   "ssh_url": "git@github.com:square/okio.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/square/okio",
   "homepage": "https://square.github.io/okio/",
   "size": 8280,
-  "stargazers_count": 8499,
-  "watchers_count": 8499,
+  "stargazers_count": 8500,
+  "watchers_count": 8500,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 1200,
+  "forks_count": 1201,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,9 +102,9 @@
     "kotlin-multiplatform"
   ],
   "visibility": "public",
-  "forks": 1200,
+  "forks": 1201,
   "open_issues": 83,
-  "watchers": 8499,
+  "watchers": 8500,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2734
+  "_index": 2735
 }

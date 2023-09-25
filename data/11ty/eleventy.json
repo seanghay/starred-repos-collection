@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/11ty/eleventy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/11ty/eleventy/deployments",
   "created_at": "2017-11-27T05:19:00Z",
-  "updated_at": "2023-09-23T21:09:46Z",
-  "pushed_at": "2023-09-22T17:30:08Z",
+  "updated_at": "2023-09-25T00:27:12Z",
+  "pushed_at": "2023-09-24T15:04:46Z",
   "git_url": "git://github.com/11ty/eleventy.git",
   "ssh_url": "git@github.com:11ty/eleventy.git",
   "clone_url": "https://github.com/11ty/eleventy.git",
   "svn_url": "https://github.com/11ty/eleventy",
   "homepage": "https://www.11ty.dev/",
   "size": 3497,
-  "stargazers_count": 15065,
-  "watchers_count": 15065,
+  "stargazers_count": 15073,
+  "watchers_count": 15073,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 458,
+  "forks_count": 459,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 485,
+  "open_issues_count": 486,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,9 +106,9 @@
     "templates"
   ],
   "visibility": "public",
-  "forks": 458,
-  "open_issues": 485,
-  "watchers": 15065,
+  "forks": 459,
+  "open_issues": 486,
+  "watchers": 15073,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1754
+  "_index": 1755
 }

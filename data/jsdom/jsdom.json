@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/jsdom/jsdom/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jsdom/jsdom/deployments",
   "created_at": "2010-01-19T06:55:19Z",
-  "updated_at": "2023-09-24T00:45:56Z",
-  "pushed_at": "2023-09-21T10:34:14Z",
+  "updated_at": "2023-09-24T13:08:35Z",
+  "pushed_at": "2023-09-24T10:51:32Z",
   "git_url": "git://github.com/jsdom/jsdom.git",
   "ssh_url": "git@github.com:jsdom/jsdom.git",
   "clone_url": "https://github.com/jsdom/jsdom.git",
   "svn_url": "https://github.com/jsdom/jsdom",
   "homepage": "",
   "size": 38262,
-  "stargazers_count": 19206,
-  "watchers_count": 19206,
+  "stargazers_count": 19205,
+  "watchers_count": 19205,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1655,
+  "forks_count": 1656,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 465,
+  "open_issues_count": 466,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,9 +105,9 @@
     "nodejs"
   ],
   "visibility": "public",
-  "forks": 1655,
-  "open_issues": 465,
-  "watchers": 19206,
+  "forks": 1656,
+  "open_issues": 466,
+  "watchers": 19205,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1083
+  "_index": 1084
 }

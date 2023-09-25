@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/zhihu/Matisse/releases{/id}",
   "deployments_url": "https://api.github.com/repos/zhihu/Matisse/deployments",
   "created_at": "2017-04-13T01:31:05Z",
-  "updated_at": "2023-09-21T07:48:17Z",
+  "updated_at": "2023-09-24T14:44:29Z",
   "pushed_at": "2023-05-15T09:55:57Z",
   "git_url": "git://github.com/zhihu/Matisse.git",
   "ssh_url": "git@github.com:zhihu/Matisse.git",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2859
+  "_index": 2860
 }

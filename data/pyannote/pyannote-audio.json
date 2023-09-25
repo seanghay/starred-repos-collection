@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pyannote/pyannote-audio/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pyannote/pyannote-audio/deployments",
   "created_at": "2016-03-07T17:26:15Z",
-  "updated_at": "2023-09-23T15:43:04Z",
+  "updated_at": "2023-09-24T23:29:18Z",
   "pushed_at": "2023-09-22T20:19:44Z",
   "git_url": "git://github.com/pyannote/pyannote-audio.git",
   "ssh_url": "git@github.com:pyannote/pyannote-audio.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/pyannote/pyannote-audio",
   "homepage": "http://pyannote.github.io",
   "size": 260289,
-  "stargazers_count": 3633,
-  "watchers_count": 3633,
+  "stargazers_count": 3636,
+  "watchers_count": 3636,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 564,
+  "forks_count": 565,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -111,9 +111,9 @@
     "voice-activity-detection"
   ],
   "visibility": "public",
-  "forks": 564,
+  "forks": 565,
   "open_issues": 96,
-  "watchers": 3633,
+  "watchers": 3636,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 456
+  "_index": 457
 }

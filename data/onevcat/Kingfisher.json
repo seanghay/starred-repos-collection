@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/onevcat/Kingfisher/releases{/id}",
   "deployments_url": "https://api.github.com/repos/onevcat/Kingfisher/deployments",
   "created_at": "2015-04-06T14:26:21Z",
-  "updated_at": "2023-09-23T21:24:00Z",
+  "updated_at": "2023-09-24T14:28:43Z",
   "pushed_at": "2023-09-10T14:10:29Z",
   "git_url": "git://github.com/onevcat/Kingfisher.git",
   "ssh_url": "git@github.com:onevcat/Kingfisher.git",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1877
+  "_index": 1878
 }

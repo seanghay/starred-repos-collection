@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/vlang/v/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vlang/v/deployments",
   "created_at": "2019-02-08T02:57:06Z",
-  "updated_at": "2023-09-23T20:01:37Z",
-  "pushed_at": "2023-09-24T00:46:50Z",
+  "updated_at": "2023-09-24T23:59:07Z",
+  "pushed_at": "2023-09-24T17:49:26Z",
   "git_url": "git://github.com/vlang/v.git",
   "ssh_url": "git@github.com:vlang/v.git",
   "clone_url": "https://github.com/vlang/v.git",
   "svn_url": "https://github.com/vlang/v",
   "homepage": "",
-  "size": 65995,
+  "size": 65780,
   "stargazers_count": 34625,
   "watchers_count": 34625,
   "language": "V",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2526
+  "_index": 2527
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/Regex/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/Regex/deployments",
   "created_at": "2021-05-01T10:41:15Z",
-  "updated_at": "2023-09-16T21:08:28Z",
+  "updated_at": "2023-09-24T14:47:37Z",
   "pushed_at": "2022-06-09T18:20:32Z",
   "git_url": "git://github.com/sindresorhus/Regex.git",
   "ssh_url": "git@github.com:sindresorhus/Regex.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sindresorhus/Regex",
   "homepage": "https://sindresorhus.com/Regex",
   "size": 162,
-  "stargazers_count": 320,
-  "watchers_count": 320,
+  "stargazers_count": 319,
+  "watchers_count": 319,
   "language": "Swift",
   "has_issues": true,
   "has_projects": false,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 16,
   "open_issues": 3,
-  "watchers": 320,
+  "watchers": 319,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1680
+  "_index": 1681
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pveyes/aperture/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pveyes/aperture/deployments",
   "created_at": "2019-05-13T10:38:34Z",
-  "updated_at": "2023-09-21T21:04:18Z",
+  "updated_at": "2023-09-24T12:06:19Z",
   "pushed_at": "2022-07-16T17:06:39Z",
   "git_url": "git://github.com/pveyes/aperture.git",
   "ssh_url": "git@github.com:pveyes/aperture.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/pveyes/aperture",
   "homepage": "http://pvey.es/aperture",
   "size": 102,
-  "stargazers_count": 61,
-  "watchers_count": 61,
+  "stargazers_count": 62,
+  "watchers_count": 62,
   "language": null,
   "has_issues": true,
   "has_projects": false,
@@ -100,7 +100,7 @@
   "visibility": "public",
   "forks": 3,
   "open_issues": 0,
-  "watchers": 61,
+  "watchers": 62,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1639
+  "_index": 1640
 }

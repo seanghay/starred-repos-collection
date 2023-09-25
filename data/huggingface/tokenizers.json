@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/huggingface/tokenizers/releases{/id}",
   "deployments_url": "https://api.github.com/repos/huggingface/tokenizers/deployments",
   "created_at": "2019-11-01T17:52:20Z",
-  "updated_at": "2023-09-23T06:00:36Z",
+  "updated_at": "2023-09-24T20:41:44Z",
   "pushed_at": "2023-09-22T00:25:38Z",
   "git_url": "git://github.com/huggingface/tokenizers.git",
   "ssh_url": "git@github.com:huggingface/tokenizers.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/huggingface/tokenizers",
   "homepage": "https://huggingface.co/docs/tokenizers",
   "size": 9813,
-  "stargazers_count": 7583,
-  "watchers_count": 7583,
+  "stargazers_count": 7589,
+  "watchers_count": 7589,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 268,
+  "open_issues_count": 269,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -108,8 +108,8 @@
   ],
   "visibility": "public",
   "forks": 644,
-  "open_issues": 268,
-  "watchers": 7583,
+  "open_issues": 269,
+  "watchers": 7589,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 527
+  "_index": 528
 }
