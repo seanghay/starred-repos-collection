@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/CottaCush/CurrencyEditText.git",
   "svn_url": "https://github.com/CottaCush/CurrencyEditText",
   "homepage": "",
-  "size": 8673,
+  "size": 8674,
   "stargazers_count": 126,
   "watchers_count": 126,
   "language": "Kotlin",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2365
+  "_index": 2369
 }

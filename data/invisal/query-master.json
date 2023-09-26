@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/invisal/query-master/releases{/id}",
   "deployments_url": "https://api.github.com/repos/invisal/query-master/deployments",
   "created_at": "2023-05-15T13:09:55Z",
-  "updated_at": "2023-09-24T13:18:47Z",
-  "pushed_at": "2023-09-25T01:25:18Z",
+  "updated_at": "2023-09-25T04:36:32Z",
+  "pushed_at": "2023-09-25T11:42:35Z",
   "git_url": "git://github.com/invisal/query-master.git",
   "ssh_url": "git@github.com:invisal/query-master.git",
   "clone_url": "https://github.com/invisal/query-master.git",
   "svn_url": "https://github.com/invisal/query-master",
   "homepage": "https://querymaster.io/",
-  "size": 9737,
-  "stargazers_count": 51,
-  "watchers_count": 51,
+  "size": 7303,
+  "stargazers_count": 52,
+  "watchers_count": 52,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 19,
   "open_issues": 20,
-  "watchers": 51,
+  "watchers": 52,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 418
+  "_index": 422
 }

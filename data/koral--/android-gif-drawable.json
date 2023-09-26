@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1807,
+  "forks_count": 1806,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,7 +105,7 @@
     "hacktoberfest"
   ],
   "visibility": "public",
-  "forks": 1807,
+  "forks": 1806,
   "open_issues": 31,
   "watchers": 9426,
   "default_branch": "dev",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2567
+  "_index": 2571
 }

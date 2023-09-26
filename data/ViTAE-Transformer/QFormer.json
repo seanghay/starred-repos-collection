@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ViTAE-Transformer/QFormer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ViTAE-Transformer/QFormer/deployments",
   "created_at": "2023-03-27T23:56:59Z",
-  "updated_at": "2023-09-22T15:14:42Z",
+  "updated_at": "2023-09-25T05:26:23Z",
   "pushed_at": "2023-03-31T01:56:10Z",
   "git_url": "git://github.com/ViTAE-Transformer/QFormer.git",
   "ssh_url": "git@github.com:ViTAE-Transformer/QFormer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ViTAE-Transformer/QFormer",
   "homepage": "",
   "size": 1378,
-  "stargazers_count": 35,
-  "watchers_count": 35,
+  "stargazers_count": 36,
+  "watchers_count": 36,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 1,
   "open_issues": 1,
-  "watchers": 35,
+  "watchers": 36,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 355
+  "_index": 359
 }

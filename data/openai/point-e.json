@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/openai/point-e/releases{/id}",
   "deployments_url": "https://api.github.com/repos/openai/point-e/deployments",
   "created_at": "2022-12-06T16:32:13Z",
-  "updated_at": "2023-09-24T14:14:14Z",
+  "updated_at": "2023-09-26T00:28:07Z",
   "pushed_at": "2023-04-02T11:33:18Z",
   "git_url": "git://github.com/openai/point-e.git",
   "ssh_url": "git@github.com:openai/point-e.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/openai/point-e",
   "homepage": null,
   "size": 1601,
-  "stargazers_count": 5828,
-  "watchers_count": 5828,
+  "stargazers_count": 5832,
+  "watchers_count": 5832,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 680,
+  "forks_count": 683,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 680,
+  "forks": 683,
   "open_issues": 72,
-  "watchers": 5828,
+  "watchers": 5832,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 616
+  "_index": 620
 }

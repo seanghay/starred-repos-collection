@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/meilisearch/meilisearch-js/deployments",
   "created_at": "2019-10-02T15:37:57Z",
   "updated_at": "2023-09-23T11:02:03Z",
-  "pushed_at": "2023-09-20T10:26:35Z",
+  "pushed_at": "2023-09-25T11:51:16Z",
   "git_url": "git://github.com/meilisearch/meilisearch-js.git",
   "ssh_url": "git@github.com:meilisearch/meilisearch-js.git",
   "clone_url": "https://github.com/meilisearch/meilisearch-js.git",
   "svn_url": "https://github.com/meilisearch/meilisearch-js",
   "homepage": "https://www.meilisearch.com",
-  "size": 11320,
+  "size": 11338,
   "stargazers_count": 593,
   "watchers_count": 593,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 12,
+  "open_issues_count": 10,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,7 +106,7 @@
   ],
   "visibility": "public",
   "forks": 83,
-  "open_issues": 12,
+  "open_issues": 10,
   "watchers": 593,
   "default_branch": "main",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1277
+  "_index": 1281
 }

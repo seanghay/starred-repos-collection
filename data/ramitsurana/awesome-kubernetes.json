@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ramitsurana/awesome-kubernetes/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ramitsurana/awesome-kubernetes/deployments",
   "created_at": "2015-10-15T12:14:48Z",
-  "updated_at": "2023-09-24T23:26:05Z",
+  "updated_at": "2023-09-25T17:47:39Z",
   "pushed_at": "2023-09-18T11:13:58Z",
   "git_url": "git://github.com/ramitsurana/awesome-kubernetes.git",
   "ssh_url": "git@github.com:ramitsurana/awesome-kubernetes.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ramitsurana/awesome-kubernetes",
   "homepage": "https://ramitsurana.github.io/awesome-kubernetes",
   "size": 6189,
-  "stargazers_count": 14274,
-  "watchers_count": 14274,
+  "stargazers_count": 14275,
+  "watchers_count": 14275,
   "language": "Shell",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 2243,
+  "forks_count": 2245,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 7,
+  "open_issues_count": 8,
   "license": {
     "key": "other",
     "name": "Other",
@@ -118,9 +118,9 @@
     "schedule"
   ],
   "visibility": "public",
-  "forks": 2243,
-  "open_issues": 7,
-  "watchers": 14274,
+  "forks": 2245,
+  "open_issues": 8,
+  "watchers": 14275,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1456
+  "_index": 1460
 }

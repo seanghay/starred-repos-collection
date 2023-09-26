@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/mltframework/shotcut/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mltframework/shotcut/deployments",
   "created_at": "2012-04-23T22:37:04Z",
-  "updated_at": "2023-09-25T01:41:59Z",
-  "pushed_at": "2023-09-22T17:44:27Z",
+  "updated_at": "2023-09-25T21:20:29Z",
+  "pushed_at": "2023-09-25T20:41:40Z",
   "git_url": "git://github.com/mltframework/shotcut.git",
   "ssh_url": "git@github.com:mltframework/shotcut.git",
   "clone_url": "https://github.com/mltframework/shotcut.git",
   "svn_url": "https://github.com/mltframework/shotcut",
   "homepage": "https://www.shotcut.org",
-  "size": 79515,
-  "stargazers_count": 9145,
-  "watchers_count": 9145,
+  "size": 79520,
+  "stargazers_count": 9147,
+  "watchers_count": 9147,
   "language": "C++",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 980,
+  "forks_count": 981,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "video-editor"
   ],
   "visibility": "public",
-  "forks": 980,
+  "forks": 981,
   "open_issues": 76,
-  "watchers": 9145,
+  "watchers": 9147,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1337
+  "_index": 1341
 }

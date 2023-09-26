@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/rubensousa/Decorator/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rubensousa/Decorator/deployments",
   "created_at": "2020-04-14T09:18:45Z",
-  "updated_at": "2023-09-08T18:05:56Z",
+  "updated_at": "2023-09-25T16:40:11Z",
   "pushed_at": "2022-11-15T22:50:42Z",
   "git_url": "git://github.com/rubensousa/Decorator.git",
   "ssh_url": "git@github.com:rubensousa/Decorator.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/rubensousa/Decorator",
   "homepage": "",
   "size": 757,
-  "stargazers_count": 529,
-  "watchers_count": 529,
+  "stargazers_count": 530,
+  "watchers_count": 530,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 39,
   "open_issues": 1,
-  "watchers": 529,
+  "watchers": 530,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2010
+  "_index": 2014
 }

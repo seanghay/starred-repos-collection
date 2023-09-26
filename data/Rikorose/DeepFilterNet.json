@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Rikorose/DeepFilterNet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Rikorose/DeepFilterNet/deployments",
   "created_at": "2021-10-10T17:32:57Z",
-  "updated_at": "2023-09-24T22:47:12Z",
-  "pushed_at": "2023-09-20T17:51:10Z",
+  "updated_at": "2023-09-25T09:16:56Z",
+  "pushed_at": "2023-09-25T17:30:34Z",
   "git_url": "git://github.com/Rikorose/DeepFilterNet.git",
   "ssh_url": "git@github.com:Rikorose/DeepFilterNet.git",
   "clone_url": "https://github.com/Rikorose/DeepFilterNet.git",
   "svn_url": "https://github.com/Rikorose/DeepFilterNet",
   "homepage": "https://huggingface.co/spaces/hshr/DeepFilterNet2",
-  "size": 179561,
-  "stargazers_count": 1385,
-  "watchers_count": 1385,
+  "size": 179581,
+  "stargazers_count": 1387,
+  "watchers_count": 1387,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 50,
+  "open_issues_count": 51,
   "license": {
     "key": "other",
     "name": "Other",
@@ -108,8 +108,8 @@
   ],
   "visibility": "public",
   "forks": 136,
-  "open_issues": 50,
-  "watchers": 1385,
+  "open_issues": 51,
+  "watchers": 1387,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 285
+  "_index": 289
 }

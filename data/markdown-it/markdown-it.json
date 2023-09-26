@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/markdown-it/markdown-it/releases{/id}",
   "deployments_url": "https://api.github.com/repos/markdown-it/markdown-it/deployments",
   "created_at": "2014-12-19T22:54:53Z",
-  "updated_at": "2023-09-25T00:22:49Z",
+  "updated_at": "2023-09-25T10:41:59Z",
   "pushed_at": "2023-09-05T12:27:52Z",
   "git_url": "git://github.com/markdown-it/markdown-it.git",
   "ssh_url": "git@github.com:markdown-it/markdown-it.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1675,
+  "forks_count": 1674,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "markdown"
   ],
   "visibility": "public",
-  "forks": 1675,
+  "forks": 1674,
   "open_issues": 51,
   "watchers": 16033,
   "default_branch": "master",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1684
+  "_index": 1688
 }

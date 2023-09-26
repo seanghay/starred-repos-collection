@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/vanilla-extract-css/vanilla-extract/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vanilla-extract-css/vanilla-extract/deployments",
   "created_at": "2021-03-26T05:10:54Z",
-  "updated_at": "2023-09-24T10:40:46Z",
+  "updated_at": "2023-09-25T22:31:30Z",
   "pushed_at": "2023-09-17T03:56:00Z",
   "git_url": "git://github.com/vanilla-extract-css/vanilla-extract.git",
   "ssh_url": "git@github.com:vanilla-extract-css/vanilla-extract.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/vanilla-extract-css/vanilla-extract",
   "homepage": "https://vanilla-extract.style",
   "size": 7305,
-  "stargazers_count": 8707,
-  "watchers_count": 8707,
+  "stargazers_count": 8708,
+  "watchers_count": 8708,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 60,
+  "open_issues_count": 59,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 232,
-  "open_issues": 60,
-  "watchers": 8707,
+  "open_issues": 59,
+  "watchers": 8708,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1025
+  "_index": 1029
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Stability-AI/StableLM/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Stability-AI/StableLM/deployments",
   "created_at": "2023-04-19T14:02:16Z",
-  "updated_at": "2023-09-24T18:13:45Z",
+  "updated_at": "2023-09-25T15:23:59Z",
   "pushed_at": "2023-09-06T15:17:26Z",
   "git_url": "git://github.com/Stability-AI/StableLM.git",
   "ssh_url": "git@github.com:Stability-AI/StableLM.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 456
+  "_index": 460
 }

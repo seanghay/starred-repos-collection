@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/oramasearch/orama",
-  "description": "🌌  Fast, in-memory, typo-tolerant, full-text and vector search engine written in TypeScript.",
+  "description": "🌌  Fast, in-memory, typo-tolerant, full-text and vector search engine in <2kb.",
   "fork": false,
   "url": "https://api.github.com/repos/oramasearch/orama",
   "forks_url": "https://api.github.com/repos/oramasearch/orama/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/oramasearch/orama/releases{/id}",
   "deployments_url": "https://api.github.com/repos/oramasearch/orama/deployments",
   "created_at": "2022-05-10T12:01:50Z",
-  "updated_at": "2023-09-25T00:10:27Z",
-  "pushed_at": "2023-09-21T23:39:39Z",
+  "updated_at": "2023-09-25T21:57:54Z",
+  "pushed_at": "2023-09-25T17:57:07Z",
   "git_url": "git://github.com/oramasearch/orama.git",
   "ssh_url": "git@github.com:oramasearch/orama.git",
   "clone_url": "https://github.com/oramasearch/orama.git",
   "svn_url": "https://github.com/oramasearch/orama",
   "homepage": "https://docs.oramasearch.com",
-  "size": 28061,
-  "stargazers_count": 6398,
-  "watchers_count": 6398,
+  "size": 28260,
+  "stargazers_count": 6400,
+  "watchers_count": 6400,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 23,
+  "open_issues_count": 24,
   "license": {
     "key": "other",
     "name": "Other",
@@ -116,8 +116,8 @@
   ],
   "visibility": "public",
   "forks": 188,
-  "open_issues": 23,
-  "watchers": 6398,
+  "open_issues": 24,
+  "watchers": 6400,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 956
+  "_index": 960
 }

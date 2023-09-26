@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/cssinjs/jss/releases{/id}",
   "deployments_url": "https://api.github.com/repos/cssinjs/jss/deployments",
   "created_at": "2014-10-12T20:33:53Z",
-  "updated_at": "2023-09-23T11:33:33Z",
+  "updated_at": "2023-09-25T03:57:08Z",
   "pushed_at": "2023-07-25T09:38:27Z",
   "git_url": "git://github.com/cssinjs/jss.git",
   "ssh_url": "git@github.com:cssinjs/jss.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/cssinjs/jss",
   "homepage": "https://cssinjs.org",
   "size": 8184,
-  "stargazers_count": 6999,
-  "watchers_count": 6999,
+  "stargazers_count": 7000,
+  "watchers_count": 7000,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 434,
   "open_issues": 214,
-  "watchers": 6999,
+  "watchers": 7000,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3118
+  "_index": 3122
 }

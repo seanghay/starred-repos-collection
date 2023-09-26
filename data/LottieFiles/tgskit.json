@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/LottieFiles/tgskit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/LottieFiles/tgskit/deployments",
   "created_at": "2019-07-09T01:01:48Z",
-  "updated_at": "2023-09-10T08:08:54Z",
+  "updated_at": "2023-09-25T02:34:11Z",
   "pushed_at": "2022-10-19T05:59:03Z",
   "git_url": "git://github.com/LottieFiles/tgskit.git",
   "ssh_url": "git@github.com:LottieFiles/tgskit.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/LottieFiles/tgskit",
   "homepage": null,
   "size": 113,
-  "stargazers_count": 56,
-  "watchers_count": 56,
+  "stargazers_count": 57,
+  "watchers_count": 57,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 10,
   "open_issues": 4,
-  "watchers": 56,
+  "watchers": 57,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2079
+  "_index": 2083
 }
