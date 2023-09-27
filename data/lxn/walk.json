@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lxn/walk/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lxn/walk/deployments",
   "created_at": "2010-09-16T08:11:49Z",
-  "updated_at": "2023-09-25T08:22:21Z",
+  "updated_at": "2023-09-26T14:39:25Z",
   "pushed_at": "2022-09-08T09:35:44Z",
   "git_url": "git://github.com/lxn/walk.git",
   "ssh_url": "git@github.com:lxn/walk.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lxn/walk",
   "homepage": "",
   "size": 5450,
-  "stargazers_count": 6540,
-  "watchers_count": 6540,
+  "stargazers_count": 6541,
+  "watchers_count": 6541,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 901,
   "open_issues": 345,
-  "watchers": 6540,
+  "watchers": 6541,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1585
+  "_index": 1586
 }

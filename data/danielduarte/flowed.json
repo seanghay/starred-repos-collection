@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/danielduarte/flowed/releases{/id}",
   "deployments_url": "https://api.github.com/repos/danielduarte/flowed/deployments",
   "created_at": "2019-04-24T06:14:44Z",
-  "updated_at": "2023-09-12T13:31:25Z",
+  "updated_at": "2023-09-26T16:51:01Z",
   "pushed_at": "2023-09-09T23:58:23Z",
   "git_url": "git://github.com/danielduarte/flowed.git",
   "ssh_url": "git@github.com:danielduarte/flowed.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/danielduarte/flowed",
   "homepage": "https://danielduarte.github.io/flowed",
   "size": 1620,
-  "stargazers_count": 107,
-  "watchers_count": 107,
+  "stargazers_count": 108,
+  "watchers_count": 108,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 13,
   "open_issues": 9,
-  "watchers": 107,
+  "watchers": 108,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1156
+  "_index": 1157
 }

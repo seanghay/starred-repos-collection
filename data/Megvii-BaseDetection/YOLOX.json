@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Megvii-BaseDetection/YOLOX/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Megvii-BaseDetection/YOLOX/deployments",
   "created_at": "2021-07-17T02:01:45Z",
-  "updated_at": "2023-09-25T23:05:37Z",
-  "pushed_at": "2023-09-04T10:30:30Z",
+  "updated_at": "2023-09-26T14:51:37Z",
+  "pushed_at": "2023-09-26T08:24:38Z",
   "git_url": "git://github.com/Megvii-BaseDetection/YOLOX.git",
   "ssh_url": "git@github.com:Megvii-BaseDetection/YOLOX.git",
   "clone_url": "https://github.com/Megvii-BaseDetection/YOLOX.git",
   "svn_url": "https://github.com/Megvii-BaseDetection/YOLOX",
   "homepage": "",
   "size": 7708,
-  "stargazers_count": 8521,
-  "watchers_count": 8521,
+  "stargazers_count": 8523,
+  "watchers_count": 8523,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2052,
+  "forks_count": 2055,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 682,
+  "open_issues_count": 686,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -111,9 +111,9 @@
     "yolox"
   ],
   "visibility": "public",
-  "forks": 2052,
-  "open_issues": 682,
-  "watchers": 8521,
+  "forks": 2055,
+  "open_issues": 686,
+  "watchers": 8523,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 674
+  "_index": 675
 }

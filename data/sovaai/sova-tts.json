@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sovaai/sova-tts/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sovaai/sova-tts/deployments",
   "created_at": "2020-08-18T18:24:56Z",
-  "updated_at": "2023-09-20T05:09:35Z",
+  "updated_at": "2023-09-26T06:14:57Z",
   "pushed_at": "2023-04-27T20:49:09Z",
   "git_url": "git://github.com/sovaai/sova-tts.git",
   "ssh_url": "git@github.com:sovaai/sova-tts.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sovaai/sova-tts",
   "homepage": null,
   "size": 781,
-  "stargazers_count": 137,
-  "watchers_count": 137,
+  "stargazers_count": 138,
+  "watchers_count": 138,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 13,
   "open_issues": 7,
-  "watchers": 137,
+  "watchers": 138,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 19
+  "_index": 20
 }

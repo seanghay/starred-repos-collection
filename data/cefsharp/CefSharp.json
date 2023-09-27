@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/cefsharp/CefSharp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/cefsharp/CefSharp/deployments",
   "created_at": "2010-12-03T15:23:23Z",
-  "updated_at": "2023-09-25T19:58:32Z",
+  "updated_at": "2023-09-27T01:37:05Z",
   "pushed_at": "2023-09-25T09:31:14Z",
   "git_url": "git://github.com/cefsharp/CefSharp.git",
   "ssh_url": "git@github.com:cefsharp/CefSharp.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/cefsharp/CefSharp",
   "homepage": "http://cefsharp.github.io/",
   "size": 286415,
-  "stargazers_count": 9427,
-  "watchers_count": 9427,
+  "stargazers_count": 9429,
+  "watchers_count": 9429,
   "language": "C#",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 49,
+  "open_issues_count": 50,
   "license": {
     "key": "other",
     "name": "Other",
@@ -108,8 +108,8 @@
   ],
   "visibility": "public",
   "forks": 2895,
-  "open_issues": 49,
-  "watchers": 9427,
+  "open_issues": 50,
+  "watchers": 9429,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3126
+  "_index": 3127
 }

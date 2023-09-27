@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Samsung/rlottie/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Samsung/rlottie/deployments",
   "created_at": "2019-02-11T09:12:16Z",
-  "updated_at": "2023-09-22T02:29:18Z",
+  "updated_at": "2023-09-26T12:20:02Z",
   "pushed_at": "2023-08-31T05:04:32Z",
   "git_url": "git://github.com/Samsung/rlottie.git",
   "ssh_url": "git@github.com:Samsung/rlottie.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Samsung/rlottie",
   "homepage": null,
   "size": 13132,
-  "stargazers_count": 937,
-  "watchers_count": 937,
+  "stargazers_count": 938,
+  "watchers_count": 938,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 188,
+  "forks_count": 187,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 188,
+  "forks": 187,
   "open_issues": 60,
-  "watchers": 937,
+  "watchers": 938,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1593
+  "_index": 1594
 }

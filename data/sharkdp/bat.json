@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sharkdp/bat/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sharkdp/bat/deployments",
   "created_at": "2018-04-21T10:52:23Z",
-  "updated_at": "2023-09-25T17:34:51Z",
+  "updated_at": "2023-09-27T00:08:04Z",
   "pushed_at": "2023-09-21T23:02:04Z",
   "git_url": "git://github.com/sharkdp/bat.git",
   "ssh_url": "git@github.com:sharkdp/bat.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sharkdp/bat",
   "homepage": "",
   "size": 30760,
-  "stargazers_count": 43074,
-  "watchers_count": 43074,
+  "stargazers_count": 43087,
+  "watchers_count": 43087,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 1136,
   "open_issues": 216,
-  "watchers": 43074,
+  "watchers": 43087,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 781
+  "_index": 782
 }

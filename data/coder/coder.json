@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/coder/coder",
-  "description": "A tool that provisions remote development environments via Terraform",
+  "description": "Provision remote development environments via Terraform",
   "fork": false,
   "url": "https://api.github.com/repos/coder/coder",
   "forks_url": "https://api.github.com/repos/coder/coder/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/coder/coder/releases{/id}",
   "deployments_url": "https://api.github.com/repos/coder/coder/deployments",
   "created_at": "2021-12-22T06:08:52Z",
-  "updated_at": "2023-09-25T22:43:39Z",
-  "pushed_at": "2023-09-26T00:46:08Z",
+  "updated_at": "2023-09-26T21:28:16Z",
+  "pushed_at": "2023-09-26T21:18:49Z",
   "git_url": "git://github.com/coder/coder.git",
   "ssh_url": "git@github.com:coder/coder.git",
   "clone_url": "https://github.com/coder/coder.git",
   "svn_url": "https://github.com/coder/coder",
   "homepage": "https://coder.com",
-  "size": 106362,
-  "stargazers_count": 5275,
-  "watchers_count": 5275,
+  "size": 105375,
+  "stargazers_count": 5283,
+  "watchers_count": 5283,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 431,
+  "forks_count": 432,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 500,
+  "open_issues_count": 496,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -109,9 +109,9 @@
     "vscode"
   ],
   "visibility": "public",
-  "forks": 431,
-  "open_issues": 500,
-  "watchers": 5275,
+  "forks": 432,
+  "open_issues": 496,
+  "watchers": 5283,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1053
+  "_index": 1054
 }
