@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/rerun-io/rerun",
-  "description": "Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui",
+  "description": "Visualize streams of multimodal data. Fast, easy to use, and simple to integrate.  Built in Rust using egui.",
   "fork": false,
   "url": "https://api.github.com/repos/rerun-io/rerun",
   "forks_url": "https://api.github.com/repos/rerun-io/rerun/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/rerun-io/rerun/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rerun-io/rerun/deployments",
   "created_at": "2022-04-08T07:30:05Z",
-  "updated_at": "2023-09-27T00:51:16Z",
-  "pushed_at": "2023-09-26T23:14:12Z",
+  "updated_at": "2023-09-28T01:09:55Z",
+  "pushed_at": "2023-09-27T23:42:49Z",
   "git_url": "git://github.com/rerun-io/rerun.git",
   "ssh_url": "git@github.com:rerun-io/rerun.git",
   "clone_url": "https://github.com/rerun-io/rerun.git",
   "svn_url": "https://github.com/rerun-io/rerun",
-  "homepage": "https://rerun.io",
-  "size": 65950,
-  "stargazers_count": 2906,
-  "watchers_count": 2906,
+  "homepage": "https://rerun.io/",
+  "size": 66804,
+  "stargazers_count": 2927,
+  "watchers_count": 2927,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 131,
+  "forks_count": 132,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 579,
+  "open_issues_count": 575,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,15 +99,16 @@
   "web_commit_signoff_required": false,
   "topics": [
     "computer-vision",
+    "multimodal",
     "python",
     "robotics",
     "rust",
     "visualization"
   ],
   "visibility": "public",
-  "forks": 131,
-  "open_issues": 579,
-  "watchers": 2906,
+  "forks": 132,
+  "open_issues": 575,
+  "watchers": 2927,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 486
+  "_index": 492
 }

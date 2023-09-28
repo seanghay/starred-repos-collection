@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/android/android-studio-poet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/android/android-studio-poet/deployments",
   "created_at": "2017-10-06T15:35:15Z",
-  "updated_at": "2023-09-20T04:32:37Z",
+  "updated_at": "2023-09-27T02:49:36Z",
   "pushed_at": "2022-12-15T14:22:20Z",
   "git_url": "git://github.com/android/android-studio-poet.git",
   "ssh_url": "git@github.com:android/android-studio-poet.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/android/android-studio-poet",
   "homepage": "",
   "size": 2611,
-  "stargazers_count": 687,
-  "watchers_count": 687,
+  "stargazers_count": 688,
+  "watchers_count": 688,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 87,
+  "forks_count": 86,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -114,9 +114,9 @@
     "performance"
   ],
   "visibility": "public",
-  "forks": 87,
+  "forks": 86,
   "open_issues": 12,
-  "watchers": 687,
+  "watchers": 688,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2596
+  "_index": 2602
 }

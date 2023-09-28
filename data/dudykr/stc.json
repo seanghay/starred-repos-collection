@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/dudykr/stc/releases{/id}",
   "deployments_url": "https://api.github.com/repos/dudykr/stc/deployments",
   "created_at": "2020-12-29T12:41:02Z",
-  "updated_at": "2023-09-26T01:36:43Z",
+  "updated_at": "2023-09-27T15:28:30Z",
   "pushed_at": "2023-09-26T16:24:43Z",
   "git_url": "git://github.com/dudykr/stc.git",
   "ssh_url": "git@github.com:dudykr/stc.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/dudykr/stc",
   "homepage": "https://stc.dudy.dev",
   "size": 15815,
-  "stargazers_count": 5292,
-  "watchers_count": 5292,
+  "stargazers_count": 5295,
+  "watchers_count": 5295,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 167,
   "open_issues": 73,
-  "watchers": 5292,
+  "watchers": 5295,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 800
+  "_index": 806
 }

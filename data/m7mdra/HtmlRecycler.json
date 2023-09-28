@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/m7mdra/HtmlRecycler/releases{/id}",
   "deployments_url": "https://api.github.com/repos/m7mdra/HtmlRecycler/deployments",
   "created_at": "2018-08-27T20:58:11Z",
-  "updated_at": "2023-09-08T17:44:23Z",
+  "updated_at": "2023-09-27T08:50:50Z",
   "pushed_at": "2020-11-15T20:49:06Z",
   "git_url": "git://github.com/m7mdra/HtmlRecycler.git",
   "ssh_url": "git@github.com:m7mdra/HtmlRecycler.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/m7mdra/HtmlRecycler",
   "homepage": "",
   "size": 19757,
-  "stargazers_count": 232,
-  "watchers_count": 232,
+  "stargazers_count": 231,
+  "watchers_count": 231,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 56,
   "open_issues": 0,
-  "watchers": 232,
+  "watchers": 231,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2716
+  "_index": 2722
 }

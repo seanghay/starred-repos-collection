@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/erleizh/VideoRecorder/releases{/id}",
   "deployments_url": "https://api.github.com/repos/erleizh/VideoRecorder/deployments",
   "created_at": "2018-06-01T05:01:44Z",
-  "updated_at": "2023-07-24T07:27:13Z",
+  "updated_at": "2023-09-27T23:03:04Z",
   "pushed_at": "2023-04-11T05:15:19Z",
   "git_url": "git://github.com/erleizh/VideoRecorder.git",
   "ssh_url": "git@github.com:erleizh/VideoRecorder.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/erleizh/VideoRecorder",
   "homepage": "",
   "size": 3976,
-  "stargazers_count": 61,
-  "watchers_count": 61,
+  "stargazers_count": 62,
+  "watchers_count": 62,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 20,
   "open_issues": 5,
-  "watchers": 61,
+  "watchers": 62,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2846
+  "_index": 2852
 }

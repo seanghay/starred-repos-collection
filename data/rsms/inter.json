@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/rsms/inter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rsms/inter/deployments",
   "created_at": "2017-08-22T07:14:17Z",
-  "updated_at": "2023-09-27T01:07:02Z",
-  "pushed_at": "2023-09-26T22:22:30Z",
+  "updated_at": "2023-09-27T12:58:43Z",
+  "pushed_at": "2023-09-28T01:16:13Z",
   "git_url": "git://github.com/rsms/inter.git",
   "ssh_url": "git@github.com:rsms/inter.git",
   "clone_url": "https://github.com/rsms/inter.git",
   "svn_url": "https://github.com/rsms/inter",
   "homepage": "https://rsms.me/inter/",
-  "size": 536170,
-  "stargazers_count": 15758,
-  "watchers_count": 15758,
+  "size": 536681,
+  "stargazers_count": 15761,
+  "watchers_count": 15761,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 61,
+  "open_issues_count": 58,
   "license": {
     "key": "ofl-1.1",
     "name": "SIL Open Font License 1.1",
@@ -104,8 +104,8 @@
   ],
   "visibility": "public",
   "forks": 383,
-  "open_issues": 61,
-  "watchers": 15758,
+  "open_issues": 58,
+  "watchers": 15761,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 766
+  "_index": 772
 }

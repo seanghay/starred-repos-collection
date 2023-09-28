@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/chaiNNer-org/chaiNNer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/chaiNNer-org/chaiNNer/deployments",
   "created_at": "2021-09-07T22:58:14Z",
-  "updated_at": "2023-09-26T11:20:14Z",
-  "pushed_at": "2023-09-26T10:40:08Z",
+  "updated_at": "2023-09-28T00:08:23Z",
+  "pushed_at": "2023-09-27T05:11:44Z",
   "git_url": "git://github.com/chaiNNer-org/chaiNNer.git",
   "ssh_url": "git@github.com:chaiNNer-org/chaiNNer.git",
   "clone_url": "https://github.com/chaiNNer-org/chaiNNer.git",
   "svn_url": "https://github.com/chaiNNer-org/chaiNNer",
   "homepage": "https://chaiNNer.app",
-  "size": 26885,
-  "stargazers_count": 3074,
-  "watchers_count": 3074,
+  "size": 26890,
+  "stargazers_count": 3082,
+  "watchers_count": 3082,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 203,
   "open_issues": 192,
-  "watchers": 3074,
+  "watchers": 3082,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 658
+  "_index": 664
 }

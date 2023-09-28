@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nuxt-modules/device/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nuxt-modules/device/deployments",
   "created_at": "2017-12-08T03:27:36Z",
-  "updated_at": "2023-09-25T18:04:51Z",
+  "updated_at": "2023-09-27T06:42:36Z",
   "pushed_at": "2023-09-26T02:05:26Z",
   "git_url": "git://github.com/nuxt-modules/device.git",
   "ssh_url": "git@github.com:nuxt-modules/device.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nuxt-modules/device",
   "homepage": "",
   "size": 1334,
-  "stargazers_count": 779,
-  "watchers_count": 779,
+  "stargazers_count": 780,
+  "watchers_count": 780,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 38,
+  "open_issues_count": 39,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,8 +104,8 @@
   ],
   "visibility": "public",
   "forks": 47,
-  "open_issues": 38,
-  "watchers": 779,
+  "open_issues": 39,
+  "watchers": 780,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1395
+  "_index": 1401
 }

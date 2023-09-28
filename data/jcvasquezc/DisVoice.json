@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jcvasquezc/DisVoice/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jcvasquezc/DisVoice/deployments",
   "created_at": "2017-08-05T17:53:13Z",
-  "updated_at": "2023-09-26T20:40:18Z",
+  "updated_at": "2023-09-27T09:34:49Z",
   "pushed_at": "2023-09-26T22:01:54Z",
   "git_url": "git://github.com/jcvasquezc/DisVoice.git",
   "ssh_url": "git@github.com:jcvasquezc/DisVoice.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jcvasquezc/DisVoice",
   "homepage": "https://disvoice.readthedocs.io/en/latest/",
   "size": 53614,
-  "stargazers_count": 290,
-  "watchers_count": 290,
+  "stargazers_count": 292,
+  "watchers_count": 292,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 71,
   "open_issues": 13,
-  "watchers": 290,
+  "watchers": 292,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 124
+  "_index": 130
 }

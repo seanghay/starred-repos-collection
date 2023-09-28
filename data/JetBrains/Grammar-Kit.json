@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/JetBrains/Grammar-Kit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JetBrains/Grammar-Kit/deployments",
   "created_at": "2011-08-04T12:28:11Z",
-  "updated_at": "2023-09-25T02:07:10Z",
+  "updated_at": "2023-09-27T22:33:56Z",
   "pushed_at": "2023-09-21T09:31:42Z",
   "git_url": "git://github.com/JetBrains/Grammar-Kit.git",
   "ssh_url": "git@github.com:JetBrains/Grammar-Kit.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/JetBrains/Grammar-Kit",
   "homepage": "",
   "size": 70371,
-  "stargazers_count": 671,
-  "watchers_count": 671,
+  "stargazers_count": 672,
+  "watchers_count": 672,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 127,
   "open_issues": 53,
-  "watchers": 671,
+  "watchers": 672,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 85
+  "_index": 91
 }

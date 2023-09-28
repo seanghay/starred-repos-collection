@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/JanssenProject/jans",
-  "description": "Welcome to the Janssen Project, a collaboration hub for digital identity infrastructure software... and introducing Agama--a programming language and archive format for interoperable identity orchestration!",
+  "description": "Welcome to the Janssen Project, a digital identity platform... and introducing Agama, a domain specific language for login journeys.",
   "fork": false,
   "url": "https://api.github.com/repos/JanssenProject/jans",
   "forks_url": "https://api.github.com/repos/JanssenProject/jans/forks",
@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/JanssenProject/jans/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JanssenProject/jans/deployments",
   "created_at": "2020-11-03T15:00:37Z",
-  "updated_at": "2023-09-26T13:16:55Z",
-  "pushed_at": "2023-09-26T23:54:48Z",
+  "updated_at": "2023-09-27T16:30:30Z",
+  "pushed_at": "2023-09-27T23:47:03Z",
   "git_url": "git://github.com/JanssenProject/jans.git",
   "ssh_url": "git@github.com:JanssenProject/jans.git",
   "clone_url": "https://github.com/JanssenProject/jans.git",
   "svn_url": "https://github.com/JanssenProject/jans",
   "homepage": "https://docs.jans.io",
-  "size": 1075057,
+  "size": 1075542,
   "stargazers_count": 279,
   "watchers_count": 279,
   "language": "Java",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 667
+  "_index": 673
 }
