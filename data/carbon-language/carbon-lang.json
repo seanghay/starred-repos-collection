@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/carbon-language/carbon-lang/releases{/id}",
   "deployments_url": "https://api.github.com/repos/carbon-language/carbon-lang/deployments",
   "created_at": "2020-04-27T21:45:16Z",
-  "updated_at": "2023-09-28T23:24:30Z",
-  "pushed_at": "2023-09-28T22:00:50Z",
+  "updated_at": "2023-09-30T00:41:36Z",
+  "pushed_at": "2023-09-30T01:22:11Z",
   "git_url": "git://github.com/carbon-language/carbon-lang.git",
   "ssh_url": "git@github.com:carbon-language/carbon-lang.git",
   "clone_url": "https://github.com/carbon-language/carbon-lang.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1447,
+  "forks_count": 1449,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 141,
+  "open_issues_count": 142,
   "license": {
     "key": "other",
     "name": "Other",
@@ -107,8 +107,8 @@
     "programming-language"
   ],
   "visibility": "public",
-  "forks": 1447,
-  "open_issues": 141,
+  "forks": 1449,
+  "open_issues": 142,
   "watchers": 31317,
   "default_branch": "trunk",
   "permissions": {
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1007
+  "_index": 1010
 }

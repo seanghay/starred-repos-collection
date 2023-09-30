@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/querymx/Querym/deployments",
   "created_at": "2023-05-15T13:09:55Z",
   "updated_at": "2023-09-28T12:01:31Z",
-  "pushed_at": "2023-09-28T09:56:21Z",
+  "pushed_at": "2023-09-29T11:57:44Z",
   "git_url": "git://github.com/querymx/Querym.git",
   "ssh_url": "git@github.com:querymx/Querym.git",
   "clone_url": "https://github.com/querymx/Querym.git",
   "svn_url": "https://github.com/querymx/Querym",
   "homepage": "https://querymaster.io/",
-  "size": 8839,
+  "size": 8849,
   "stargazers_count": 54,
   "watchers_count": 54,
   "language": "TypeScript",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 429
+  "_index": 432
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yysskk/SwipeMenuViewController/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yysskk/SwipeMenuViewController/deployments",
   "created_at": "2017-06-30T08:57:31Z",
-  "updated_at": "2023-09-28T13:37:17Z",
+  "updated_at": "2023-09-29T19:02:30Z",
   "pushed_at": "2023-09-13T14:56:09Z",
   "git_url": "git://github.com/yysskk/SwipeMenuViewController.git",
   "ssh_url": "git@github.com:yysskk/SwipeMenuViewController.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yysskk/SwipeMenuViewController",
   "homepage": "",
   "size": 338,
-  "stargazers_count": 1247,
-  "watchers_count": 1247,
+  "stargazers_count": 1248,
+  "watchers_count": 1248,
   "language": "Swift",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 129,
+  "forks_count": 130,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "swipe-menu"
   ],
   "visibility": "public",
-  "forks": 129,
+  "forks": 130,
   "open_issues": 35,
-  "watchers": 1247,
+  "watchers": 1248,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1551
+  "_index": 1554
 }

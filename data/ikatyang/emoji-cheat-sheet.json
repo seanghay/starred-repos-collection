@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/ikatyang/emoji-cheat-sheet/deployments",
   "created_at": "2017-03-17T15:18:39Z",
   "updated_at": "2023-09-28T18:33:45Z",
-  "pushed_at": "2023-09-29T00:15:09Z",
+  "pushed_at": "2023-09-30T00:14:19Z",
   "git_url": "git://github.com/ikatyang/emoji-cheat-sheet.git",
   "ssh_url": "git@github.com:ikatyang/emoji-cheat-sheet.git",
   "clone_url": "https://github.com/ikatyang/emoji-cheat-sheet.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2450
+  "_index": 2453
 }

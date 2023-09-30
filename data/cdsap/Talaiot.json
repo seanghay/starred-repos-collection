@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/cdsap/Talaiot/deployments",
   "created_at": "2018-11-17T10:27:17Z",
   "updated_at": "2023-09-28T16:31:19Z",
-  "pushed_at": "2023-09-23T23:24:27Z",
+  "pushed_at": "2023-09-29T22:46:10Z",
   "git_url": "git://github.com/cdsap/Talaiot.git",
   "ssh_url": "git@github.com:cdsap/Talaiot.git",
   "clone_url": "https://github.com/cdsap/Talaiot.git",
   "svn_url": "https://github.com/cdsap/Talaiot",
   "homepage": "",
-  "size": 5390,
+  "size": 5397,
   "stargazers_count": 559,
   "watchers_count": 559,
   "language": "Kotlin",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2668
+  "_index": 2671
 }

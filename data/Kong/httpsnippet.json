@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/Kong/httpsnippet/deployments",
   "created_at": "2015-02-04T23:44:13Z",
   "updated_at": "2023-09-26T06:30:23Z",
-  "pushed_at": "2023-08-12T21:02:54Z",
+  "pushed_at": "2023-09-29T20:30:57Z",
   "git_url": "git://github.com/Kong/httpsnippet.git",
   "ssh_url": "git@github.com:Kong/httpsnippet.git",
   "clone_url": "https://github.com/Kong/httpsnippet.git",
   "svn_url": "https://github.com/Kong/httpsnippet",
   "homepage": "",
-  "size": 1302,
+  "size": 1200,
   "stargazers_count": 1061,
   "watchers_count": 1061,
   "language": "TypeScript",
@@ -88,11 +88,11 @@
   "disabled": false,
   "open_issues_count": 37,
   "license": {
-    "key": "mit",
-    "name": "MIT License",
-    "spdx_id": "MIT",
-    "url": "https://api.github.com/licenses/mit",
-    "node_id": "MDc6TGljZW5zZTEz"
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
   },
   "allow_forking": true,
   "is_template": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2127
+  "_index": 2130
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Bowen7/regex-vis/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Bowen7/regex-vis/deployments",
   "created_at": "2020-09-15T07:59:45Z",
-  "updated_at": "2023-09-28T07:53:49Z",
+  "updated_at": "2023-09-29T12:13:21Z",
   "pushed_at": "2023-09-20T15:49:02Z",
   "git_url": "git://github.com/Bowen7/regex-vis.git",
   "ssh_url": "git@github.com:Bowen7/regex-vis.git",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1160
+  "_index": 1163
 }

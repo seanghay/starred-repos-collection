@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/igorwojda/android-showcase.git",
   "svn_url": "https://github.com/igorwojda/android-showcase",
   "homepage": "",
-  "size": 9773,
+  "size": 9774,
   "stargazers_count": 6134,
   "watchers_count": 6134,
   "language": "Kotlin",
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2616
+  "_index": 2619
 }
