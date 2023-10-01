@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/libvips/libvips/deployments",
   "created_at": "2011-01-25T13:15:00Z",
   "updated_at": "2023-09-29T23:39:12Z",
-  "pushed_at": "2023-09-29T14:47:18Z",
+  "pushed_at": "2023-09-30T17:25:36Z",
   "git_url": "git://github.com/libvips/libvips.git",
   "ssh_url": "git@github.com:libvips/libvips.git",
   "clone_url": "https://github.com/libvips/libvips.git",
   "svn_url": "https://github.com/libvips/libvips",
   "homepage": "https://libvips.github.io/libvips/",
-  "size": 92817,
+  "size": 92906,
   "stargazers_count": 8375,
   "watchers_count": 8375,
   "language": "C",
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1283
+  "_index": 1290
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/SeaDve/Kooha/deployments",
   "created_at": "2021-03-04T08:45:11Z",
   "updated_at": "2023-09-28T20:02:59Z",
-  "pushed_at": "2023-09-29T11:59:33Z",
+  "pushed_at": "2023-10-01T01:21:40Z",
   "git_url": "git://github.com/SeaDve/Kooha.git",
   "ssh_url": "git@github.com:SeaDve/Kooha.git",
   "clone_url": "https://github.com/SeaDve/Kooha.git",
   "svn_url": "https://github.com/SeaDve/Kooha",
   "homepage": "",
-  "size": 4435,
+  "size": 4437,
   "stargazers_count": 1756,
   "watchers_count": 1756,
   "language": "Rust",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 228
+  "_index": 235
 }

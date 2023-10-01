@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/facebookresearch/faiss/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookresearch/faiss/deployments",
   "created_at": "2017-02-07T16:07:05Z",
-  "updated_at": "2023-09-29T20:07:23Z",
+  "updated_at": "2023-09-30T22:24:28Z",
   "pushed_at": "2023-09-29T08:21:44Z",
   "git_url": "git://github.com/facebookresearch/faiss.git",
   "ssh_url": "git@github.com:facebookresearch/faiss.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/facebookresearch/faiss",
   "homepage": "https://faiss.ai",
   "size": 141105,
-  "stargazers_count": 24643,
-  "watchers_count": 24643,
+  "stargazers_count": 24651,
+  "watchers_count": 24651,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 3140,
+  "forks_count": 3141,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 3140,
+  "forks": 3141,
   "open_issues": 369,
-  "watchers": 24643,
+  "watchers": 24651,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 141
+  "_index": 148
 }

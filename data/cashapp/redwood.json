@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/cashapp/redwood/deployments",
   "created_at": "2020-10-19T14:20:09Z",
   "updated_at": "2023-09-29T16:17:33Z",
-  "pushed_at": "2023-09-30T01:02:28Z",
+  "pushed_at": "2023-09-30T01:52:31Z",
   "git_url": "git://github.com/cashapp/redwood.git",
   "ssh_url": "git@github.com:cashapp/redwood.git",
   "clone_url": "https://github.com/cashapp/redwood.git",
   "svn_url": "https://github.com/cashapp/redwood",
   "homepage": "https://cashapp.github.io/redwood/0.x/docs/",
-  "size": 33565,
+  "size": 33560,
   "stargazers_count": 1258,
   "watchers_count": 1258,
   "language": "Kotlin",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 881
+  "_index": 888
 }

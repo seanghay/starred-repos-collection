@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/bluelinelabs/Conductor/deployments",
   "created_at": "2016-03-16T18:42:41Z",
   "updated_at": "2023-09-28T02:01:03Z",
-  "pushed_at": "2023-09-29T17:20:26Z",
+  "pushed_at": "2023-09-30T03:19:22Z",
   "git_url": "git://github.com/bluelinelabs/Conductor.git",
   "ssh_url": "git@github.com:bluelinelabs/Conductor.git",
   "clone_url": "https://github.com/bluelinelabs/Conductor.git",
   "svn_url": "https://github.com/bluelinelabs/Conductor",
   "homepage": null,
-  "size": 3786,
+  "size": 3780,
   "stargazers_count": 3882,
   "watchers_count": 3882,
   "language": "Java",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 110,
+  "open_issues_count": 109,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 342,
-  "open_issues": 110,
+  "open_issues": 109,
   "watchers": 3882,
   "default_branch": "develop",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3058
+  "_index": 3065
 }

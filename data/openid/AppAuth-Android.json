@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/openid/AppAuth-Android/deployments",
   "created_at": "2016-02-19T15:09:43Z",
   "updated_at": "2023-09-29T09:57:28Z",
-  "pushed_at": "2023-09-29T07:40:58Z",
+  "pushed_at": "2023-09-30T08:20:34Z",
   "git_url": "git://github.com/openid/AppAuth-Android.git",
   "ssh_url": "git@github.com:openid/AppAuth-Android.git",
   "clone_url": "https://github.com/openid/AppAuth-Android.git",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1479
+  "_index": 1486
 }

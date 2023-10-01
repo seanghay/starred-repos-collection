@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/nomic-ai/gpt4all/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nomic-ai/gpt4all/deployments",
   "created_at": "2023-03-27T18:49:32Z",
-  "updated_at": "2023-09-29T22:38:27Z",
-  "pushed_at": "2023-09-30T01:12:59Z",
+  "updated_at": "2023-10-01T00:14:09Z",
+  "pushed_at": "2023-09-30T23:22:51Z",
   "git_url": "git://github.com/nomic-ai/gpt4all.git",
   "ssh_url": "git@github.com:nomic-ai/gpt4all.git",
   "clone_url": "https://github.com/nomic-ai/gpt4all.git",
   "svn_url": "https://github.com/nomic-ai/gpt4all",
   "homepage": "https://gpt4all.io",
-  "size": 13600,
-  "stargazers_count": 52622,
-  "watchers_count": 52622,
+  "size": 13559,
+  "stargazers_count": 52642,
+  "watchers_count": 52642,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 5770,
+  "forks_count": 5775,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -101,9 +101,9 @@
     "llm-inference"
   ],
   "visibility": "public",
-  "forks": 5770,
+  "forks": 5775,
   "open_issues": 289,
-  "watchers": 52622,
+  "watchers": 52642,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 526
+  "_index": 533
 }

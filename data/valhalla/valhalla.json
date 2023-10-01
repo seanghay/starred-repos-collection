@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/valhalla/valhalla/releases{/id}",
   "deployments_url": "https://api.github.com/repos/valhalla/valhalla/deployments",
   "created_at": "2016-01-19T19:42:29Z",
-  "updated_at": "2023-09-29T13:17:56Z",
+  "updated_at": "2023-09-30T17:48:27Z",
   "pushed_at": "2023-09-29T11:33:08Z",
   "git_url": "git://github.com/valhalla/valhalla.git",
   "ssh_url": "git@github.com:valhalla/valhalla.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/valhalla/valhalla",
   "homepage": "https://valhalla.readthedocs.io",
   "size": 253025,
-  "stargazers_count": 3758,
-  "watchers_count": 3758,
+  "stargazers_count": 3761,
+  "watchers_count": 3761,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 614,
   "open_issues": 658,
-  "watchers": 3758,
+  "watchers": 3761,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 14
+  "_index": 21
 }

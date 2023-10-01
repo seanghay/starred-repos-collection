@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mrcsxsiq/Kotlin-Pokedex/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mrcsxsiq/Kotlin-Pokedex/deployments",
   "created_at": "2019-12-27T02:00:09Z",
-  "updated_at": "2023-09-28T08:27:33Z",
+  "updated_at": "2023-09-30T23:52:29Z",
   "pushed_at": "2023-03-21T23:34:25Z",
   "git_url": "git://github.com/mrcsxsiq/Kotlin-Pokedex.git",
   "ssh_url": "git@github.com:mrcsxsiq/Kotlin-Pokedex.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mrcsxsiq/Kotlin-Pokedex",
   "homepage": "",
   "size": 13735,
-  "stargazers_count": 1446,
-  "watchers_count": 1446,
+  "stargazers_count": 1447,
+  "watchers_count": 1447,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 208,
+  "forks_count": 209,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,9 +110,9 @@
     "viewmodel"
   ],
   "visibility": "public",
-  "forks": 208,
+  "forks": 209,
   "open_issues": 30,
-  "watchers": 1446,
+  "watchers": 1447,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2328
+  "_index": 2335
 }
