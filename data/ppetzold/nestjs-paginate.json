@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/ppetzold/nestjs-paginate/deployments",
   "created_at": "2020-06-26T08:29:49Z",
   "updated_at": "2023-09-24T15:07:41Z",
-  "pushed_at": "2023-09-29T17:38:03Z",
+  "pushed_at": "2023-10-01T17:36:14Z",
   "git_url": "git://github.com/ppetzold/nestjs-paginate.git",
   "ssh_url": "git@github.com:ppetzold/nestjs-paginate.git",
   "clone_url": "https://github.com/ppetzold/nestjs-paginate.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 24,
+  "open_issues_count": 25,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,7 +104,7 @@
   ],
   "visibility": "public",
   "forks": 67,
-  "open_issues": 24,
+  "open_issues": 25,
   "watchers": 293,
   "default_branch": "master",
   "permissions": {
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1487
+  "_index": 1489
 }

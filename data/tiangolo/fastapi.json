@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/tiangolo/fastapi/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tiangolo/fastapi/deployments",
   "created_at": "2018-12-08T08:21:47Z",
-  "updated_at": "2023-10-01T01:53:25Z",
-  "pushed_at": "2023-09-30T21:21:07Z",
+  "updated_at": "2023-10-01T22:57:20Z",
+  "pushed_at": "2023-10-01T17:10:42Z",
   "git_url": "git://github.com/tiangolo/fastapi.git",
   "ssh_url": "git@github.com:tiangolo/fastapi.git",
   "clone_url": "https://github.com/tiangolo/fastapi.git",
   "svn_url": "https://github.com/tiangolo/fastapi",
   "homepage": "https://fastapi.tiangolo.com/",
-  "size": 19189,
-  "stargazers_count": 63060,
-  "watchers_count": 63060,
+  "size": 19116,
+  "stargazers_count": 63075,
+  "watchers_count": 63075,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 5340,
+  "forks_count": 5343,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 511,
+  "open_issues_count": 516,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -120,9 +120,9 @@
     "web"
   ],
   "visibility": "public",
-  "forks": 5340,
-  "open_issues": 511,
-  "watchers": 63060,
+  "forks": 5343,
+  "open_issues": 516,
+  "watchers": 63075,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 247
+  "_index": 249
 }

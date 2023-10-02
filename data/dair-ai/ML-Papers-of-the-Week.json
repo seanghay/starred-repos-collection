@@ -65,17 +65,17 @@
   "releases_url": "https://api.github.com/repos/dair-ai/ML-Papers-of-the-Week/releases{/id}",
   "deployments_url": "https://api.github.com/repos/dair-ai/ML-Papers-of-the-Week/deployments",
   "created_at": "2023-01-08T19:26:35Z",
-  "updated_at": "2023-09-30T19:12:12Z",
-  "pushed_at": "2023-09-25T17:23:42Z",
+  "updated_at": "2023-10-01T19:58:05Z",
+  "pushed_at": "2023-10-01T17:00:07Z",
   "git_url": "git://github.com/dair-ai/ML-Papers-of-the-Week.git",
   "ssh_url": "git@github.com:dair-ai/ML-Papers-of-the-Week.git",
   "clone_url": "https://github.com/dair-ai/ML-Papers-of-the-Week.git",
   "svn_url": "https://github.com/dair-ai/ML-Papers-of-the-Week",
   "homepage": "",
-  "size": 4171,
-  "stargazers_count": 4944,
-  "watchers_count": 4944,
-  "language": "Jupyter Notebook",
+  "size": 4183,
+  "stargazers_count": 4951,
+  "watchers_count": 4951,
+  "language": null,
   "has_issues": true,
   "has_projects": true,
   "has_downloads": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 177,
   "open_issues": 0,
-  "watchers": 4944,
+  "watchers": 4951,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 442
+  "_index": 444
 }

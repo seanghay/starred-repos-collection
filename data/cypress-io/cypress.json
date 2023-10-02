@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/cypress-io/cypress/releases{/id}",
   "deployments_url": "https://api.github.com/repos/cypress-io/cypress/deployments",
   "created_at": "2015-03-04T00:46:28Z",
-  "updated_at": "2023-10-01T01:33:14Z",
+  "updated_at": "2023-10-02T00:14:35Z",
   "pushed_at": "2023-10-01T01:23:12Z",
   "git_url": "git://github.com/cypress-io/cypress.git",
   "ssh_url": "git@github.com:cypress-io/cypress.git",
   "clone_url": "https://github.com/cypress-io/cypress.git",
   "svn_url": "https://github.com/cypress-io/cypress",
   "homepage": "https://cypress.io",
-  "size": 680388,
-  "stargazers_count": 45005,
-  "watchers_count": 45005,
+  "size": 680391,
+  "stargazers_count": 45008,
+  "watchers_count": 45008,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 3035,
+  "forks_count": 3038,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1402,
+  "open_issues_count": 1403,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,9 +112,9 @@
     "tests"
   ],
   "visibility": "public",
-  "forks": 3035,
-  "open_issues": 1402,
-  "watchers": 45005,
+  "forks": 3038,
+  "open_issues": 1403,
+  "watchers": 45008,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2555
+  "_index": 2557
 }

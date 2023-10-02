@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/khaosdoctor/gotql/releases{/id}",
   "deployments_url": "https://api.github.com/repos/khaosdoctor/gotql/deployments",
   "created_at": "2017-11-28T21:46:58Z",
-  "updated_at": "2023-09-22T19:03:35Z",
-  "pushed_at": "2023-08-30T03:25:14Z",
+  "updated_at": "2023-10-01T21:21:29Z",
+  "pushed_at": "2023-10-01T21:11:03Z",
   "git_url": "git://github.com/khaosdoctor/gotql.git",
   "ssh_url": "git@github.com:khaosdoctor/gotql.git",
   "clone_url": "https://github.com/khaosdoctor/gotql.git",
   "svn_url": "https://github.com/khaosdoctor/gotql",
   "homepage": "",
-  "size": 2440,
+  "size": 2442,
   "stargazers_count": 400,
   "watchers_count": 400,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 13,
+  "open_issues_count": 9,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -110,7 +110,7 @@
   ],
   "visibility": "public",
   "forks": 24,
-  "open_issues": 13,
+  "open_issues": 9,
   "watchers": 400,
   "default_branch": "main",
   "permissions": {
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 994
+  "_index": 996
 }

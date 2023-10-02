@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/alecthomas/participle/deployments",
   "created_at": "2016-06-28T14:25:14Z",
   "updated_at": "2023-09-30T15:12:26Z",
-  "pushed_at": "2023-10-01T01:17:45Z",
+  "pushed_at": "2023-10-02T00:36:13Z",
   "git_url": "git://github.com/alecthomas/participle.git",
   "ssh_url": "git@github.com:alecthomas/participle.git",
   "clone_url": "https://github.com/alecthomas/participle.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 195,
+  "forks_count": 196,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -111,7 +111,7 @@
     "participle"
   ],
   "visibility": "public",
-  "forks": 195,
+  "forks": 196,
   "open_issues": 30,
   "watchers": 3131,
   "default_branch": "master",
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1221
+  "_index": 1223
 }

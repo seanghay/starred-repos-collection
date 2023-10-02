@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/google-research/scenic/deployments",
   "created_at": "2021-07-12T14:27:08Z",
   "updated_at": "2023-09-30T18:56:51Z",
-  "pushed_at": "2023-09-28T17:09:46Z",
+  "pushed_at": "2023-10-01T21:09:16Z",
   "git_url": "git://github.com/google-research/scenic.git",
   "ssh_url": "git@github.com:google-research/scenic.git",
   "clone_url": "https://github.com/google-research/scenic.git",
   "svn_url": "https://github.com/google-research/scenic",
   "homepage": "",
-  "size": 58248,
+  "size": 58346,
   "stargazers_count": 2516,
   "watchers_count": 2516,
   "language": "Python",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 347,
+  "forks_count": 346,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 171,
+  "open_issues_count": 176,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -107,8 +107,8 @@
     "vision-transformer"
   ],
   "visibility": "public",
-  "forks": 347,
-  "open_issues": 171,
+  "forks": 346,
+  "open_issues": 176,
   "watchers": 2516,
   "default_branch": "main",
   "permissions": {
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 565
+  "_index": 567
 }

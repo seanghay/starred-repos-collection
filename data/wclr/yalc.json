@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/wclr/yalc/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wclr/yalc/deployments",
   "created_at": "2017-04-17T00:08:27Z",
-  "updated_at": "2023-09-29T19:32:31Z",
-  "pushed_at": "2023-08-03T08:30:18Z",
+  "updated_at": "2023-10-01T15:37:59Z",
+  "pushed_at": "2023-10-01T17:56:49Z",
   "git_url": "git://github.com/wclr/yalc.git",
   "ssh_url": "git@github.com:wclr/yalc.git",
   "clone_url": "https://github.com/wclr/yalc.git",
   "svn_url": "https://github.com/wclr/yalc",
   "homepage": "",
   "size": 429,
-  "stargazers_count": 4849,
-  "watchers_count": 4849,
+  "stargazers_count": 4851,
+  "watchers_count": 4851,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 132,
+  "forks_count": 133,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 90,
+  "open_issues_count": 91,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,9 +106,9 @@
     "yarn-link"
   ],
   "visibility": "public",
-  "forks": 132,
-  "open_issues": 90,
-  "watchers": 4849,
+  "forks": 133,
+  "open_issues": 91,
+  "watchers": 4851,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1953
+  "_index": 1955
 }

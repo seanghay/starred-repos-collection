@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/facebookresearch/CPC_audio/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookresearch/CPC_audio/deployments",
   "created_at": "2020-01-07T23:54:36Z",
-  "updated_at": "2023-09-26T05:11:27Z",
+  "updated_at": "2023-10-01T16:17:47Z",
   "pushed_at": "2021-10-12T21:34:06Z",
   "git_url": "git://github.com/facebookresearch/CPC_audio.git",
   "ssh_url": "git@github.com:facebookresearch/CPC_audio.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/facebookresearch/CPC_audio",
   "homepage": null,
   "size": 3083,
-  "stargazers_count": 323,
-  "watchers_count": 323,
+  "stargazers_count": 324,
+  "watchers_count": 324,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 65,
   "open_issues": 14,
-  "watchers": 323,
+  "watchers": 324,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 349
+  "_index": 351
 }

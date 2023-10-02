@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/microsoft/unilm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microsoft/unilm/deployments",
   "created_at": "2019-07-23T04:15:28Z",
-  "updated_at": "2023-09-30T23:10:43Z",
+  "updated_at": "2023-10-02T01:35:12Z",
   "pushed_at": "2023-09-29T06:14:29Z",
   "git_url": "git://github.com/microsoft/unilm.git",
   "ssh_url": "git@github.com:microsoft/unilm.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/microsoft/unilm",
   "homepage": "https://aka.ms/GeneralAI",
   "size": 42885,
-  "stargazers_count": 15646,
-  "watchers_count": 15646,
+  "stargazers_count": 15654,
+  "watchers_count": 15654,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -121,7 +121,7 @@
   "visibility": "public",
   "forks": 2140,
   "open_issues": 430,
-  "watchers": 15646,
+  "watchers": 15654,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 632
+  "_index": 634
 }

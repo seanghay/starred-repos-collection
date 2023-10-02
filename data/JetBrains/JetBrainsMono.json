@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/JetBrains/JetBrainsMono/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JetBrains/JetBrainsMono/deployments",
   "created_at": "2019-03-01T14:23:25Z",
-  "updated_at": "2023-09-30T22:41:59Z",
+  "updated_at": "2023-10-01T23:06:35Z",
   "pushed_at": "2023-03-14T16:05:20Z",
   "git_url": "git://github.com/JetBrains/JetBrainsMono.git",
   "ssh_url": "git@github.com:JetBrains/JetBrainsMono.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/JetBrains/JetBrainsMono",
   "homepage": "https://jetbrains.com/mono",
   "size": 97855,
-  "stargazers_count": 9493,
-  "watchers_count": 9493,
+  "stargazers_count": 9496,
+  "watchers_count": 9496,
   "language": "Shell",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 281,
   "open_issues": 123,
-  "watchers": 9493,
+  "watchers": 9496,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2339
+  "_index": 2341
 }

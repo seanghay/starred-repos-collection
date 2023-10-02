@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/supabase/supabase/releases{/id}",
   "deployments_url": "https://api.github.com/repos/supabase/supabase/deployments",
   "created_at": "2019-10-12T05:56:49Z",
-  "updated_at": "2023-10-01T01:07:25Z",
-  "pushed_at": "2023-09-30T23:47:22Z",
+  "updated_at": "2023-10-01T23:26:50Z",
+  "pushed_at": "2023-10-02T00:26:58Z",
   "git_url": "git://github.com/supabase/supabase.git",
   "ssh_url": "git@github.com:supabase/supabase.git",
   "clone_url": "https://github.com/supabase/supabase.git",
   "svn_url": "https://github.com/supabase/supabase",
   "homepage": "https://supabase.com",
-  "size": 1309538,
-  "stargazers_count": 57251,
-  "watchers_count": 57251,
+  "size": 1309518,
+  "stargazers_count": 57286,
+  "watchers_count": 57286,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 4941,
   "open_issues": 407,
-  "watchers": 57251,
+  "watchers": 57286,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1741
+  "_index": 1743
 }

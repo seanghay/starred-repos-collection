@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/huggingface/trl/releases{/id}",
   "deployments_url": "https://api.github.com/repos/huggingface/trl/deployments",
   "created_at": "2020-03-27T10:54:55Z",
-  "updated_at": "2023-09-30T17:38:57Z",
-  "pushed_at": "2023-09-29T15:05:38Z",
+  "updated_at": "2023-10-01T15:07:52Z",
+  "pushed_at": "2023-10-02T01:14:28Z",
   "git_url": "git://github.com/huggingface/trl.git",
   "ssh_url": "git@github.com:huggingface/trl.git",
   "clone_url": "https://github.com/huggingface/trl.git",
   "svn_url": "https://github.com/huggingface/trl",
   "homepage": "http://hf.co/docs/trl",
   "size": 5772,
-  "stargazers_count": 5768,
-  "watchers_count": 5768,
+  "stargazers_count": 5771,
+  "watchers_count": 5771,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 611,
+  "forks_count": 612,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 611,
+  "forks": 612,
   "open_issues": 64,
-  "watchers": 5768,
+  "watchers": 5771,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 522
+  "_index": 524
 }

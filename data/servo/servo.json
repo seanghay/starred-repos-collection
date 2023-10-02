@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/servo/servo/releases{/id}",
   "deployments_url": "https://api.github.com/repos/servo/servo/deployments",
   "created_at": "2012-02-08T19:07:25Z",
-  "updated_at": "2023-09-30T23:47:29Z",
-  "pushed_at": "2023-09-30T17:44:22Z",
+  "updated_at": "2023-10-02T00:56:41Z",
+  "pushed_at": "2023-10-01T03:16:21Z",
   "git_url": "git://github.com/servo/servo.git",
   "ssh_url": "git@github.com:servo/servo.git",
   "clone_url": "https://github.com/servo/servo.git",
   "svn_url": "https://github.com/servo/servo",
   "homepage": "https://servo.org/",
   "size": 1354795,
-  "stargazers_count": 23914,
-  "watchers_count": 23914,
+  "stargazers_count": 23922,
+  "watchers_count": 23922,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2769,
+  "forks_count": 2770,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 3408,
+  "open_issues_count": 3409,
   "license": {
     "key": "mpl-2.0",
     "name": "Mozilla Public License 2.0",
@@ -103,9 +103,9 @@
     "servo"
   ],
   "visibility": "public",
-  "forks": 2769,
-  "open_issues": 3408,
-  "watchers": 23914,
+  "forks": 2770,
+  "open_issues": 3409,
+  "watchers": 23922,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 702
+  "_index": 704
 }
