@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/image-js/image-js/deployments",
   "created_at": "2015-06-10T22:32:45Z",
   "updated_at": "2023-09-27T21:35:42Z",
-  "pushed_at": "2023-06-14T11:42:56Z",
+  "pushed_at": "2023-10-02T20:20:01Z",
   "git_url": "git://github.com/image-js/image-js.git",
   "ssh_url": "git@github.com:image-js/image-js.git",
   "clone_url": "https://github.com/image-js/image-js.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 66,
+  "forks_count": 67,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 109,
+  "open_issues_count": 111,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,8 +108,8 @@
     "roi"
   ],
   "visibility": "public",
-  "forks": 66,
-  "open_issues": 109,
+  "forks": 67,
+  "open_issues": 111,
   "watchers": 576,
   "default_branch": "legacy",
   "permissions": {
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 794
+  "_index": 801
 }

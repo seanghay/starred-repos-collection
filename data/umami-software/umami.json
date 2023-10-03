@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/umami-software/umami/releases{/id}",
   "deployments_url": "https://api.github.com/repos/umami-software/umami/deployments",
   "created_at": "2020-07-17T07:59:00Z",
-  "updated_at": "2023-10-02T00:37:07Z",
-  "pushed_at": "2023-10-01T23:11:40Z",
+  "updated_at": "2023-10-02T21:20:29Z",
+  "pushed_at": "2023-10-02T21:49:34Z",
   "git_url": "git://github.com/umami-software/umami.git",
   "ssh_url": "git@github.com:umami-software/umami.git",
   "clone_url": "https://github.com/umami-software/umami.git",
   "svn_url": "https://github.com/umami-software/umami",
   "homepage": "https://umami.is",
-  "size": 10549,
-  "stargazers_count": 17074,
-  "watchers_count": 17074,
+  "size": 11023,
+  "stargazers_count": 17083,
+  "watchers_count": 17083,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 3108,
+  "forks_count": 3114,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 74,
+  "open_issues_count": 77,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,9 +105,9 @@
     "web-analytics"
   ],
   "visibility": "public",
-  "forks": 3108,
-  "open_issues": 74,
-  "watchers": 17074,
+  "forks": 3114,
+  "open_issues": 77,
+  "watchers": 17083,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1923
+  "_index": 1930
 }

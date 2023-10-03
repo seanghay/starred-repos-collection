@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/st235/ExpandableBottomBar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/st235/ExpandableBottomBar/deployments",
   "created_at": "2019-03-01T22:46:24Z",
-  "updated_at": "2023-09-27T07:21:01Z",
+  "updated_at": "2023-10-02T22:15:14Z",
   "pushed_at": "2023-10-01T21:22:40Z",
   "git_url": "git://github.com/st235/ExpandableBottomBar.git",
   "ssh_url": "git@github.com:st235/ExpandableBottomBar.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/st235/ExpandableBottomBar",
   "homepage": "",
   "size": 28408,
-  "stargazers_count": 764,
-  "watchers_count": 764,
+  "stargazers_count": 766,
+  "watchers_count": 766,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 56,
   "open_issues": 0,
-  "watchers": 764,
+  "watchers": 766,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2194
+  "_index": 2201
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mattdesl/canvas-sketch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mattdesl/canvas-sketch/deployments",
   "created_at": "2018-06-14T06:01:46Z",
-  "updated_at": "2023-09-29T20:30:39Z",
+  "updated_at": "2023-10-02T17:50:12Z",
   "pushed_at": "2023-07-20T22:31:08Z",
   "git_url": "git://github.com/mattdesl/canvas-sketch.git",
   "ssh_url": "git@github.com:mattdesl/canvas-sketch.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mattdesl/canvas-sketch",
   "homepage": "",
   "size": 21051,
-  "stargazers_count": 4724,
-  "watchers_count": 4724,
+  "stargazers_count": 4726,
+  "watchers_count": 4726,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 63,
+  "open_issues_count": 64,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 385,
-  "open_issues": 63,
-  "watchers": 4724,
+  "open_issues": 64,
+  "watchers": 4726,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 370
+  "_index": 377
 }

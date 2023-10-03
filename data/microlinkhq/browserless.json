@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/microlinkhq/browserless/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microlinkhq/browserless/deployments",
   "created_at": "2017-09-06T14:34:06Z",
-  "updated_at": "2023-10-01T17:25:04Z",
+  "updated_at": "2023-10-02T08:08:35Z",
   "pushed_at": "2023-09-29T08:07:57Z",
   "git_url": "git://github.com/microlinkhq/browserless.git",
   "ssh_url": "git@github.com:microlinkhq/browserless.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 697
+  "_index": 704
 }

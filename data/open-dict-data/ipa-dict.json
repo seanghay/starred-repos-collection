@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/open-dict-data/ipa-dict/deployments",
   "created_at": "2016-09-18T06:53:52Z",
   "updated_at": "2023-09-25T08:56:05Z",
-  "pushed_at": "2023-02-23T16:05:29Z",
+  "pushed_at": "2023-10-02T23:20:30Z",
   "git_url": "git://github.com/open-dict-data/ipa-dict.git",
   "ssh_url": "git@github.com:open-dict-data/ipa-dict.git",
   "clone_url": "https://github.com/open-dict-data/ipa-dict.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 73,
+  "forks_count": 74,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 24,
+  "open_issues_count": 25,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -111,8 +111,8 @@
     "wordlist"
   ],
   "visibility": "public",
-  "forks": 73,
-  "open_issues": 24,
+  "forks": 74,
+  "open_issues": 25,
   "watchers": 435,
   "default_branch": "master",
   "permissions": {
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 188
+  "_index": 195
 }

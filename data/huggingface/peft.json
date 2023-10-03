@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/huggingface/peft/releases{/id}",
   "deployments_url": "https://api.github.com/repos/huggingface/peft/deployments",
   "created_at": "2022-11-25T03:51:09Z",
-  "updated_at": "2023-10-01T21:25:36Z",
-  "pushed_at": "2023-10-01T16:17:48Z",
+  "updated_at": "2023-10-03T00:02:14Z",
+  "pushed_at": "2023-10-02T11:33:51Z",
   "git_url": "git://github.com/huggingface/peft.git",
   "ssh_url": "git@github.com:huggingface/peft.git",
   "clone_url": "https://github.com/huggingface/peft.git",
   "svn_url": "https://github.com/huggingface/peft",
   "homepage": "https://huggingface.co/docs/peft",
-  "size": 7967,
-  "stargazers_count": 9941,
-  "watchers_count": 9941,
+  "size": 7990,
+  "stargazers_count": 9950,
+  "watchers_count": 9950,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 806,
+  "forks_count": 808,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "transformers"
   ],
   "visibility": "public",
-  "forks": 806,
+  "forks": 808,
   "open_issues": 80,
-  "watchers": 9941,
+  "watchers": 9950,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 515
+  "_index": 522
 }

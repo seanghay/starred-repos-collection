@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/javalin/javalin/deployments",
   "created_at": "2017-04-02T20:01:28Z",
   "updated_at": "2023-09-30T21:12:21Z",
-  "pushed_at": "2023-10-01T22:19:18Z",
+  "pushed_at": "2023-10-02T14:28:31Z",
   "git_url": "git://github.com/javalin/javalin.git",
   "ssh_url": "git@github.com:javalin/javalin.git",
   "clone_url": "https://github.com/javalin/javalin.git",
   "svn_url": "https://github.com/javalin/javalin",
   "homepage": "https://javalin.io",
-  "size": 4601,
+  "size": 4605,
   "stargazers_count": 6767,
   "watchers_count": 6767,
   "language": "Kotlin",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 588,
+  "forks_count": 589,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,7 +109,7 @@
     "web-framework"
   ],
   "visibility": "public",
-  "forks": 588,
+  "forks": 589,
   "open_issues": 16,
   "watchers": 6767,
   "default_branch": "master",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2457
+  "_index": 2464
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/WasmEdge/WasmEdge/releases{/id}",
   "deployments_url": "https://api.github.com/repos/WasmEdge/WasmEdge/deployments",
   "created_at": "2019-11-29T19:00:17Z",
-  "updated_at": "2023-10-01T23:14:57Z",
-  "pushed_at": "2023-10-01T07:07:52Z",
+  "updated_at": "2023-10-02T22:01:31Z",
+  "pushed_at": "2023-10-02T13:16:31Z",
   "git_url": "git://github.com/WasmEdge/WasmEdge.git",
   "ssh_url": "git@github.com:WasmEdge/WasmEdge.git",
   "clone_url": "https://github.com/WasmEdge/WasmEdge.git",
   "svn_url": "https://github.com/WasmEdge/WasmEdge",
   "homepage": "https://WasmEdge.org",
-  "size": 21360,
-  "stargazers_count": 6712,
-  "watchers_count": 6712,
+  "size": 21433,
+  "stargazers_count": 6718,
+  "watchers_count": 6718,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 611,
+  "forks_count": 610,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 295,
+  "open_issues_count": 293,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -107,6 +107,7 @@
     "edge-computing",
     "ewasm",
     "hacktoberfest",
+    "hacktoberfest2023",
     "kubernetes",
     "rust-lang",
     "serverless",
@@ -114,9 +115,9 @@
     "webassembly"
   ],
   "visibility": "public",
-  "forks": 611,
-  "open_issues": 295,
-  "watchers": 6712,
+  "forks": 610,
+  "open_issues": 293,
+  "watchers": 6718,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -125,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 832
+  "_index": 839
 }

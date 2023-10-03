@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/asottile/pyupgrade/releases{/id}",
   "deployments_url": "https://api.github.com/repos/asottile/pyupgrade/deployments",
   "created_at": "2017-02-28T17:50:31Z",
-  "updated_at": "2023-09-30T19:51:47Z",
-  "pushed_at": "2023-09-23T20:21:41Z",
+  "updated_at": "2023-10-02T14:20:44Z",
+  "pushed_at": "2023-10-02T22:45:30Z",
   "git_url": "git://github.com/asottile/pyupgrade.git",
   "ssh_url": "git@github.com:asottile/pyupgrade.git",
   "clone_url": "https://github.com/asottile/pyupgrade.git",
   "svn_url": "https://github.com/asottile/pyupgrade",
   "homepage": "",
-  "size": 1101,
+  "size": 1111,
   "stargazers_count": 2845,
   "watchers_count": 2845,
   "language": "Python",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 16,
+  "open_issues_count": 17,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,7 +104,7 @@
   ],
   "visibility": "public",
   "forks": 167,
-  "open_issues": 16,
+  "open_issues": 17,
   "watchers": 2845,
   "default_branch": "main",
   "permissions": {
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 137
+  "_index": 144
 }

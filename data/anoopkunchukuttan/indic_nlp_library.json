@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/anoopkunchukuttan/indic_nlp_library/releases{/id}",
   "deployments_url": "https://api.github.com/repos/anoopkunchukuttan/indic_nlp_library/deployments",
   "created_at": "2014-10-15T01:56:20Z",
-  "updated_at": "2023-09-30T04:51:42Z",
+  "updated_at": "2023-10-02T23:25:54Z",
   "pushed_at": "2023-09-22T06:16:17Z",
   "git_url": "git://github.com/anoopkunchukuttan/indic_nlp_library.git",
   "ssh_url": "git@github.com:anoopkunchukuttan/indic_nlp_library.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/anoopkunchukuttan/indic_nlp_library",
   "homepage": "http://anoopkunchukuttan.github.io/indic_nlp_library/",
   "size": 9796,
-  "stargazers_count": 498,
-  "watchers_count": 498,
+  "stargazers_count": 499,
+  "watchers_count": 499,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 154,
   "open_issues": 23,
-  "watchers": 498,
+  "watchers": 499,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 194
+  "_index": 201
 }

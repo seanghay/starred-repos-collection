@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/unplugin/unplugin-icons/releases{/id}",
   "deployments_url": "https://api.github.com/repos/unplugin/unplugin-icons/deployments",
   "created_at": "2020-12-24T05:26:15Z",
-  "updated_at": "2023-10-01T10:38:01Z",
-  "pushed_at": "2023-09-12T03:49:38Z",
+  "updated_at": "2023-10-03T00:08:38Z",
+  "pushed_at": "2023-10-02T06:40:56Z",
   "git_url": "git://github.com/unplugin/unplugin-icons.git",
   "ssh_url": "git@github.com:unplugin/unplugin-icons.git",
   "clone_url": "https://github.com/unplugin/unplugin-icons.git",
   "svn_url": "https://github.com/unplugin/unplugin-icons",
   "homepage": "https://www.npmjs.com/package/unplugin-icons",
   "size": 2224,
-  "stargazers_count": 3012,
-  "watchers_count": 3012,
+  "stargazers_count": 3014,
+  "watchers_count": 3014,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 117,
+  "forks_count": 118,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 60,
+  "open_issues_count": 61,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,9 +109,9 @@
     "webpack"
   ],
   "visibility": "public",
-  "forks": 117,
-  "open_issues": 60,
-  "watchers": 3012,
+  "forks": 118,
+  "open_issues": 61,
+  "watchers": 3014,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1502
+  "_index": 1509
 }

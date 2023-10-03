@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/cedrickchee/rnnoise-nodejs/deployments",
   "created_at": "2020-02-11T04:25:04Z",
   "updated_at": "2023-09-27T06:37:09Z",
-  "pushed_at": "2023-07-12T04:21:37Z",
+  "pushed_at": "2023-10-02T19:36:53Z",
   "git_url": "git://github.com/cedrickchee/rnnoise-nodejs.git",
   "ssh_url": "git@github.com:cedrickchee/rnnoise-nodejs.git",
   "clone_url": "https://github.com/cedrickchee/rnnoise-nodejs.git",
   "svn_url": "https://github.com/cedrickchee/rnnoise-nodejs",
   "homepage": null,
-  "size": 164,
+  "size": 181,
   "stargazers_count": 19,
   "watchers_count": 19,
   "language": "Rust",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1,
+  "open_issues_count": 2,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -110,7 +110,7 @@
   ],
   "visibility": "public",
   "forks": 5,
-  "open_issues": 1,
+  "open_issues": 2,
   "watchers": 19,
   "default_branch": "master",
   "permissions": {
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 17
+  "_index": 24
 }
