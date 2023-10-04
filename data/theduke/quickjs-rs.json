@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/theduke/quickjs-rs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/theduke/quickjs-rs/deployments",
   "created_at": "2019-07-16T08:03:56Z",
-  "updated_at": "2023-09-26T20:15:58Z",
+  "updated_at": "2023-10-03T20:24:07Z",
   "pushed_at": "2023-07-31T17:27:37Z",
   "git_url": "git://github.com/theduke/quickjs-rs.git",
   "ssh_url": "git@github.com:theduke/quickjs-rs.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/theduke/quickjs-rs",
   "homepage": "",
   "size": 1286,
-  "stargazers_count": 515,
-  "watchers_count": 515,
+  "stargazers_count": 516,
+  "watchers_count": 516,
   "language": "C",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 49,
+  "forks_count": 48,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "rust-lang"
   ],
   "visibility": "public",
-  "forks": 49,
+  "forks": 48,
   "open_issues": 32,
-  "watchers": 515,
+  "watchers": 516,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 595
+  "_index": 600
 }

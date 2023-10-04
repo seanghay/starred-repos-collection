@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/appsmithorg/appsmith/releases{/id}",
   "deployments_url": "https://api.github.com/repos/appsmithorg/appsmith/deployments",
   "created_at": "2020-06-30T04:07:36Z",
-  "updated_at": "2023-10-02T20:29:03Z",
-  "pushed_at": "2023-10-03T01:30:45Z",
+  "updated_at": "2023-10-04T00:25:24Z",
+  "pushed_at": "2023-10-04T00:27:35Z",
   "git_url": "git://github.com/appsmithorg/appsmith.git",
   "ssh_url": "git@github.com:appsmithorg/appsmith.git",
   "clone_url": "https://github.com/appsmithorg/appsmith.git",
   "svn_url": "https://github.com/appsmithorg/appsmith",
   "homepage": "https://www.appsmith.com",
-  "size": 527119,
-  "stargazers_count": 29255,
-  "watchers_count": 29255,
+  "size": 528514,
+  "stargazers_count": 29262,
+  "watchers_count": 29262,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3029,
+  "forks_count": 3031,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 3655,
+  "open_issues_count": 3678,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -120,9 +120,9 @@
     "workflows"
   ],
   "visibility": "public",
-  "forks": 3029,
-  "open_issues": 3655,
-  "watchers": 29255,
+  "forks": 3031,
+  "open_issues": 3678,
+  "watchers": 29262,
   "default_branch": "release",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1466
+  "_index": 1471
 }

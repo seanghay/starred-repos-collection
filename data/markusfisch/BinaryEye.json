@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 98,
+  "forks_count": 99,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,7 +106,7 @@
     "zxing"
   ],
   "visibility": "public",
-  "forks": 98,
+  "forks": 99,
   "open_issues": 82,
   "watchers": 1015,
   "default_branch": "master",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1689
+  "_index": 1694
 }

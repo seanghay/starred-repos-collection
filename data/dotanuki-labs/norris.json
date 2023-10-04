@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/dotanuki-labs/norris.git",
   "svn_url": "https://github.com/dotanuki-labs/norris",
   "homepage": "",
-  "size": 4581,
+  "size": 4585,
   "stargazers_count": 470,
   "watchers_count": 470,
   "language": "Kotlin",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1553
+  "_index": 1558
 }

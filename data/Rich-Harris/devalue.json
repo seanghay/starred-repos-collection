@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Rich-Harris/devalue/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Rich-Harris/devalue/deployments",
   "created_at": "2018-03-10T21:53:48Z",
-  "updated_at": "2023-10-01T23:06:01Z",
+  "updated_at": "2023-10-03T23:35:27Z",
   "pushed_at": "2023-09-17T19:20:20Z",
   "git_url": "git://github.com/Rich-Harris/devalue.git",
   "ssh_url": "git@github.com:Rich-Harris/devalue.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 21,
+  "open_issues_count": 22,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 47,
-  "open_issues": 21,
+  "open_issues": 22,
   "watchers": 1783,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 817
+  "_index": 822
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/SimplifyJobs/Summer2024-Internships/releases{/id}",
   "deployments_url": "https://api.github.com/repos/SimplifyJobs/Summer2024-Internships/deployments",
   "created_at": "2020-05-23T20:53:18Z",
-  "updated_at": "2023-10-03T01:35:06Z",
-  "pushed_at": "2023-10-03T00:52:38Z",
+  "updated_at": "2023-10-04T01:29:59Z",
+  "pushed_at": "2023-10-04T00:01:28Z",
   "git_url": "git://github.com/SimplifyJobs/Summer2024-Internships.git",
   "ssh_url": "git@github.com:SimplifyJobs/Summer2024-Internships.git",
   "clone_url": "https://github.com/SimplifyJobs/Summer2024-Internships.git",
   "svn_url": "https://github.com/SimplifyJobs/Summer2024-Internships",
   "homepage": "https://swelist.com/",
-  "size": 5132,
-  "stargazers_count": 24439,
-  "watchers_count": 24439,
+  "size": 4792,
+  "stargazers_count": 24489,
+  "watchers_count": 24489,
   "language": null,
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 10,
+  "open_issues_count": 7,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -99,8 +99,8 @@
   ],
   "visibility": "public",
   "forks": 2258,
-  "open_issues": 10,
-  "watchers": 24439,
+  "open_issues": 7,
+  "watchers": 24489,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1096
+  "_index": 1101
 }
