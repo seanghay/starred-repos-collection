@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/log-update/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/log-update/deployments",
   "created_at": "2015-08-16T08:27:28Z",
-  "updated_at": "2023-09-28T15:37:12Z",
+  "updated_at": "2023-10-04T10:22:14Z",
   "pushed_at": "2022-05-11T06:02:29Z",
   "git_url": "git://github.com/sindresorhus/log-update.git",
   "ssh_url": "git@github.com:sindresorhus/log-update.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sindresorhus/log-update",
   "homepage": null,
   "size": 89,
-  "stargazers_count": 1022,
-  "watchers_count": 1022,
+  "stargazers_count": 1023,
+  "watchers_count": 1023,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 51,
   "open_issues": 5,
-  "watchers": 1022,
+  "watchers": 1023,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 229
+  "_index": 230
 }

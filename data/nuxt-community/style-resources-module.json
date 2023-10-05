@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nuxt-community/style-resources-module/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nuxt-community/style-resources-module/deployments",
   "created_at": "2018-11-08T14:55:12Z",
-  "updated_at": "2023-09-11T11:44:46Z",
+  "updated_at": "2023-10-04T19:08:28Z",
   "pushed_at": "2023-09-28T18:34:38Z",
   "git_url": "git://github.com/nuxt-community/style-resources-module.git",
   "ssh_url": "git@github.com:nuxt-community/style-resources-module.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nuxt-community/style-resources-module",
   "homepage": "",
   "size": 905,
-  "stargazers_count": 573,
-  "watchers_count": 573,
+  "stargazers_count": 572,
+  "watchers_count": 572,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 23,
   "open_issues": 34,
-  "watchers": 573,
+  "watchers": 572,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1515
+  "_index": 1516
 }

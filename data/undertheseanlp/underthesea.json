@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/undertheseanlp/underthesea/releases{/id}",
   "deployments_url": "https://api.github.com/repos/undertheseanlp/underthesea/deployments",
   "created_at": "2017-03-01T10:24:26Z",
-  "updated_at": "2023-10-02T04:04:28Z",
-  "pushed_at": "2023-10-01T01:42:33Z",
+  "updated_at": "2023-10-05T00:41:33Z",
+  "pushed_at": "2023-10-05T01:24:33Z",
   "git_url": "git://github.com/undertheseanlp/underthesea.git",
   "ssh_url": "git@github.com:undertheseanlp/underthesea.git",
   "clone_url": "https://github.com/undertheseanlp/underthesea.git",
   "svn_url": "https://github.com/undertheseanlp/underthesea",
   "homepage": "http://undertheseanlp.com",
-  "size": 173735,
-  "stargazers_count": 1237,
-  "watchers_count": 1237,
+  "size": 173737,
+  "stargazers_count": 1238,
+  "watchers_count": 1238,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -115,7 +115,7 @@
   "visibility": "public",
   "forks": 263,
   "open_issues": 45,
-  "watchers": 1237,
+  "watchers": 1238,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 125
+  "_index": 126
 }
