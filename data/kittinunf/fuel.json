@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kittinunf/fuel/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kittinunf/fuel/deployments",
   "created_at": "2015-06-04T04:03:33Z",
-  "updated_at": "2023-10-04T15:03:31Z",
+  "updated_at": "2023-10-05T11:53:48Z",
   "pushed_at": "2023-10-03T11:06:16Z",
   "git_url": "git://github.com/kittinunf/fuel.git",
   "ssh_url": "git@github.com:kittinunf/fuel.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/kittinunf/fuel",
   "homepage": "https://fuel.gitbook.io/documentation/",
   "size": 2456,
-  "stargazers_count": 4397,
-  "watchers_count": 4397,
+  "stargazers_count": 4398,
+  "watchers_count": 4398,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 421,
   "open_issues": 89,
-  "watchers": 4397,
+  "watchers": 4398,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2766
+  "_index": 2771
 }

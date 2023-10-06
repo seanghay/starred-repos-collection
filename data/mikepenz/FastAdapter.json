@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mikepenz/FastAdapter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mikepenz/FastAdapter/deployments",
   "created_at": "2015-12-28T11:05:32Z",
-  "updated_at": "2023-09-28T18:20:03Z",
+  "updated_at": "2023-10-05T10:35:38Z",
   "pushed_at": "2023-08-15T14:10:18Z",
   "git_url": "git://github.com/mikepenz/FastAdapter.git",
   "ssh_url": "git@github.com:mikepenz/FastAdapter.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mikepenz/FastAdapter",
   "homepage": "https://mikepenz.dev",
   "size": 19866,
-  "stargazers_count": 3770,
-  "watchers_count": 3770,
+  "stargazers_count": 3772,
+  "watchers_count": 3772,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 7,
+  "open_issues_count": 8,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -118,8 +118,8 @@
   ],
   "visibility": "public",
   "forks": 511,
-  "open_issues": 7,
-  "watchers": 3770,
+  "open_issues": 8,
+  "watchers": 3772,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3013
+  "_index": 3018
 }

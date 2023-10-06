@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/enricocid/Music-Player-GO/releases{/id}",
   "deployments_url": "https://api.github.com/repos/enricocid/Music-Player-GO/deployments",
   "created_at": "2018-01-29T18:10:28Z",
-  "updated_at": "2023-10-03T15:50:52Z",
+  "updated_at": "2023-10-05T04:38:54Z",
   "pushed_at": "2023-07-18T12:26:52Z",
   "git_url": "git://github.com/enricocid/Music-Player-GO.git",
   "ssh_url": "git@github.com:enricocid/Music-Player-GO.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/enricocid/Music-Player-GO",
   "homepage": "",
   "size": 78043,
-  "stargazers_count": 1553,
-  "watchers_count": 1553,
+  "stargazers_count": 1554,
+  "watchers_count": 1554,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -115,7 +115,7 @@
   "visibility": "public",
   "forks": 205,
   "open_issues": 76,
-  "watchers": 1553,
+  "watchers": 1554,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2232
+  "_index": 2237
 }

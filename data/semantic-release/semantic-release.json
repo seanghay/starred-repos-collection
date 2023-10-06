@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/semantic-release/semantic-release/releases{/id}",
   "deployments_url": "https://api.github.com/repos/semantic-release/semantic-release/deployments",
   "created_at": "2014-09-15T16:18:28Z",
-  "updated_at": "2023-10-05T00:46:25Z",
-  "pushed_at": "2023-10-03T11:25:39Z",
+  "updated_at": "2023-10-06T00:21:38Z",
+  "pushed_at": "2023-10-05T16:37:14Z",
   "git_url": "git://github.com/semantic-release/semantic-release.git",
   "ssh_url": "git@github.com:semantic-release/semantic-release.git",
   "clone_url": "https://github.com/semantic-release/semantic-release.git",
   "svn_url": "https://github.com/semantic-release/semantic-release",
   "homepage": "https://semantic-release.gitbook.io",
-  "size": 5476,
-  "stargazers_count": 18716,
-  "watchers_count": 18716,
+  "size": 5554,
+  "stargazers_count": 18722,
+  "watchers_count": 18722,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1769,
+  "forks_count": 1770,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -112,9 +112,9 @@
     "version"
   ],
   "visibility": "public",
-  "forks": 1769,
+  "forks": 1770,
   "open_issues": 334,
-  "watchers": 18716,
+  "watchers": 18722,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 994
+  "_index": 999
 }

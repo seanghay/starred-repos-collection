@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/chrisbanes/tivi/deployments",
   "created_at": "2017-08-17T16:35:58Z",
   "updated_at": "2023-10-04T20:40:42Z",
-  "pushed_at": "2023-10-05T01:34:01Z",
+  "pushed_at": "2023-10-05T19:23:09Z",
   "git_url": "git://github.com/chrisbanes/tivi.git",
   "ssh_url": "git@github.com:chrisbanes/tivi.git",
   "clone_url": "https://github.com/chrisbanes/tivi.git",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2660
+  "_index": 2665
 }

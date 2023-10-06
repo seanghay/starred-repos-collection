@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/timescale/timescaledb/releases{/id}",
   "deployments_url": "https://api.github.com/repos/timescale/timescaledb/deployments",
   "created_at": "2017-03-07T20:03:41Z",
-  "updated_at": "2023-10-05T01:14:48Z",
-  "pushed_at": "2023-10-04T20:50:01Z",
+  "updated_at": "2023-10-05T20:21:01Z",
+  "pushed_at": "2023-10-05T23:40:36Z",
   "git_url": "git://github.com/timescale/timescaledb.git",
   "ssh_url": "git@github.com:timescale/timescaledb.git",
   "clone_url": "https://github.com/timescale/timescaledb.git",
   "svn_url": "https://github.com/timescale/timescaledb",
   "homepage": "https://www.timescale.com/",
-  "size": 36468,
-  "stargazers_count": 15579,
-  "watchers_count": 15579,
+  "size": 36457,
+  "stargazers_count": 15584,
+  "watchers_count": 15584,
   "language": "C",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 575,
+  "open_issues_count": 576,
   "license": {
     "key": "other",
     "name": "Other",
@@ -101,6 +101,7 @@
     "analytics",
     "database",
     "financial-analysis",
+    "hacktoberfest",
     "iot",
     "postgres",
     "postgresql",
@@ -112,8 +113,8 @@
   ],
   "visibility": "public",
   "forks": 813,
-  "open_issues": 575,
-  "watchers": 15579,
+  "open_issues": 576,
+  "watchers": 15584,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 881
+  "_index": 886
 }

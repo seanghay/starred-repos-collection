@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Sandpack/nodebox-runtime/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Sandpack/nodebox-runtime/deployments",
   "created_at": "2023-02-01T13:22:59Z",
-  "updated_at": "2023-10-03T20:59:28Z",
+  "updated_at": "2023-10-05T17:50:04Z",
   "pushed_at": "2023-08-03T03:24:56Z",
   "git_url": "git://github.com/Sandpack/nodebox-runtime.git",
   "ssh_url": "git@github.com:Sandpack/nodebox-runtime.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Sandpack/nodebox-runtime",
   "homepage": "https://sandpack.codesandbox.io/docs/advanced-usage/nodebox",
   "size": 43347,
-  "stargazers_count": 614,
-  "watchers_count": 614,
+  "stargazers_count": 615,
+  "watchers_count": 615,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 31,
   "open_issues": 17,
-  "watchers": 614,
+  "watchers": 615,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 682
+  "_index": 687
 }

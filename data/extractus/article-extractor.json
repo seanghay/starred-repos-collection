@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/extractus/article-extractor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/extractus/article-extractor/deployments",
   "created_at": "2015-11-29T04:20:27Z",
-  "updated_at": "2023-10-04T20:56:34Z",
-  "pushed_at": "2023-10-05T01:32:52Z",
+  "updated_at": "2023-10-06T00:25:42Z",
+  "pushed_at": "2023-10-05T02:16:10Z",
   "git_url": "git://github.com/extractus/article-extractor.git",
   "ssh_url": "git@github.com:extractus/article-extractor.git",
   "clone_url": "https://github.com/extractus/article-extractor.git",
   "svn_url": "https://github.com/extractus/article-extractor",
   "homepage": "https://extractor-demos.pages.dev/article-extractor",
   "size": 8339,
-  "stargazers_count": 1098,
-  "watchers_count": 1098,
+  "stargazers_count": 1109,
+  "watchers_count": 1109,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 6,
+  "open_issues_count": 3,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,8 +109,8 @@
   ],
   "visibility": "public",
   "forks": 106,
-  "open_issues": 6,
-  "watchers": 1098,
+  "open_issues": 3,
+  "watchers": 1109,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 375
+  "_index": 380
 }

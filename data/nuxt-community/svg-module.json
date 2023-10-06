@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nuxt-community/svg-module/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nuxt-community/svg-module/deployments",
   "created_at": "2018-11-05T07:34:45Z",
-  "updated_at": "2023-09-15T10:21:16Z",
+  "updated_at": "2023-10-05T22:31:15Z",
   "pushed_at": "2023-09-04T09:02:29Z",
   "git_url": "git://github.com/nuxt-community/svg-module.git",
   "ssh_url": "git@github.com:nuxt-community/svg-module.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nuxt-community/svg-module",
   "homepage": null,
   "size": 1169,
-  "stargazers_count": 325,
-  "watchers_count": 325,
+  "stargazers_count": 326,
+  "watchers_count": 326,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 35,
   "open_issues": 16,
-  "watchers": 325,
+  "watchers": 326,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1428
+  "_index": 1433
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/tink/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/tink/deployments",
   "created_at": "2014-06-06T16:21:09Z",
-  "updated_at": "2023-10-04T23:59:25Z",
+  "updated_at": "2023-10-05T19:35:21Z",
   "pushed_at": "2023-10-03T15:56:13Z",
   "git_url": "git://github.com/google/tink.git",
   "ssh_url": "git@github.com:google/tink.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/tink",
   "homepage": "https://developers.google.com/tink",
   "size": 58213,
-  "stargazers_count": 13332,
-  "watchers_count": 13332,
+  "stargazers_count": 13333,
+  "watchers_count": 13333,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1223,
+  "forks_count": 1222,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,9 +108,9 @@
     "security"
   ],
   "visibility": "public",
-  "forks": 1223,
+  "forks": 1222,
   "open_issues": 37,
-  "watchers": 13332,
+  "watchers": 13333,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2548
+  "_index": 2553
 }

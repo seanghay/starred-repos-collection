@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/js-temporal/temporal-polyfill/releases{/id}",
   "deployments_url": "https://api.github.com/repos/js-temporal/temporal-polyfill/deployments",
   "created_at": "2021-05-06T20:56:01Z",
-  "updated_at": "2023-10-04T18:39:40Z",
+  "updated_at": "2023-10-05T19:31:52Z",
   "pushed_at": "2023-07-08T20:00:56Z",
   "git_url": "git://github.com/js-temporal/temporal-polyfill.git",
   "ssh_url": "git@github.com:js-temporal/temporal-polyfill.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/js-temporal/temporal-polyfill",
   "homepage": "",
   "size": 3771,
-  "stargazers_count": 428,
-  "watchers_count": 428,
+  "stargazers_count": 429,
+  "watchers_count": 429,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 25,
   "open_issues": 38,
-  "watchers": 428,
+  "watchers": 429,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1527
+  "_index": 1532
 }
