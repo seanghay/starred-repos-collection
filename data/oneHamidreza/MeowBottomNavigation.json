@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/oneHamidreza/MeowBottomNavigation/releases{/id}",
   "deployments_url": "https://api.github.com/repos/oneHamidreza/MeowBottomNavigation/deployments",
   "created_at": "2019-02-10T09:11:55Z",
-  "updated_at": "2023-09-29T11:49:33Z",
-  "pushed_at": "2023-06-26T02:50:30Z",
+  "updated_at": "2023-10-06T07:05:41Z",
+  "pushed_at": "2023-10-06T05:46:36Z",
   "git_url": "git://github.com/oneHamidreza/MeowBottomNavigation.git",
   "ssh_url": "git@github.com:oneHamidreza/MeowBottomNavigation.git",
   "clone_url": "https://github.com/oneHamidreza/MeowBottomNavigation.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 196,
+  "forks_count": 197,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 41,
+  "open_issues_count": 42,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -100,8 +100,8 @@
     "navigaion"
   ],
   "visibility": "public",
-  "forks": 196,
-  "open_issues": 41,
+  "forks": 197,
+  "open_issues": 42,
   "watchers": 1238,
   "default_branch": "master",
   "permissions": {
@@ -111,5 +111,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2754
+  "_index": 2757
 }

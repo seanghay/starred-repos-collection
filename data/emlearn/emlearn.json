@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/emlearn/emlearn/releases{/id}",
   "deployments_url": "https://api.github.com/repos/emlearn/emlearn/deployments",
   "created_at": "2018-03-16T19:46:17Z",
-  "updated_at": "2023-10-04T12:03:25Z",
+  "updated_at": "2023-10-06T12:38:12Z",
   "pushed_at": "2023-10-05T07:00:04Z",
   "git_url": "git://github.com/emlearn/emlearn.git",
   "ssh_url": "git@github.com:emlearn/emlearn.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/emlearn/emlearn",
   "homepage": "",
   "size": 1995,
-  "stargazers_count": 303,
-  "watchers_count": 303,
+  "stargazers_count": 304,
+  "watchers_count": 304,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 40,
+  "forks_count": 41,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -114,9 +114,9 @@
     "tinyml"
   ],
   "visibility": "public",
-  "forks": 40,
+  "forks": 41,
   "open_issues": 13,
-  "watchers": 303,
+  "watchers": 304,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 428
+  "_index": 431
 }

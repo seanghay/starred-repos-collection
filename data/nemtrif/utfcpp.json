@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nemtrif/utfcpp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nemtrif/utfcpp/deployments",
   "created_at": "2015-08-15T16:11:54Z",
-  "updated_at": "2023-10-01T18:54:00Z",
+  "updated_at": "2023-10-06T22:24:11Z",
   "pushed_at": "2023-10-01T22:28:22Z",
   "git_url": "git://github.com/nemtrif/utfcpp.git",
   "ssh_url": "git@github.com:nemtrif/utfcpp.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nemtrif/utfcpp",
   "homepage": null,
   "size": 179,
-  "stargazers_count": 1267,
-  "watchers_count": 1267,
+  "stargazers_count": 1268,
+  "watchers_count": 1268,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 169,
   "open_issues": 4,
-  "watchers": 1267,
+  "watchers": 1268,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 158
+  "_index": 161
 }

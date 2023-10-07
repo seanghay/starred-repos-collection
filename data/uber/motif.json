@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/uber/motif/deployments",
   "created_at": "2018-07-30T21:04:55Z",
   "updated_at": "2023-08-08T08:07:00Z",
-  "pushed_at": "2023-09-20T14:55:07Z",
+  "pushed_at": "2023-10-06T16:42:27Z",
   "git_url": "git://github.com/uber/motif.git",
   "ssh_url": "git@github.com:uber/motif.git",
   "clone_url": "https://github.com/uber/motif.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 30,
+  "open_issues_count": 31,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 40,
-  "open_issues": 30,
+  "open_issues": 31,
   "watchers": 524,
   "default_branch": "main",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2416
+  "_index": 2419
 }

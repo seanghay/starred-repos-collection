@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/rhasspy/rhasspy3/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rhasspy/rhasspy3/deployments",
   "created_at": "2023-03-02T22:32:39Z",
-  "updated_at": "2023-10-01T07:19:47Z",
-  "pushed_at": "2023-09-29T19:46:48Z",
+  "updated_at": "2023-10-06T23:29:15Z",
+  "pushed_at": "2023-10-06T16:59:30Z",
   "git_url": "git://github.com/rhasspy/rhasspy3.git",
   "ssh_url": "git@github.com:rhasspy/rhasspy3.git",
   "clone_url": "https://github.com/rhasspy/rhasspy3.git",
   "svn_url": "https://github.com/rhasspy/rhasspy3",
   "homepage": null,
   "size": 16095,
-  "stargazers_count": 158,
-  "watchers_count": 158,
+  "stargazers_count": 159,
+  "watchers_count": 159,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 39,
+  "open_issues_count": 40,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 15,
-  "open_issues": 39,
-  "watchers": 158,
+  "open_issues": 40,
+  "watchers": 159,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 22
+  "_index": 25
 }

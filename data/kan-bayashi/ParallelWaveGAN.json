@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kan-bayashi/ParallelWaveGAN/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kan-bayashi/ParallelWaveGAN/deployments",
   "created_at": "2019-10-29T02:32:35Z",
-  "updated_at": "2023-10-05T19:46:21Z",
+  "updated_at": "2023-10-06T04:20:33Z",
   "pushed_at": "2023-09-27T13:07:31Z",
   "git_url": "git://github.com/kan-bayashi/ParallelWaveGAN.git",
   "ssh_url": "git@github.com:kan-bayashi/ParallelWaveGAN.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/kan-bayashi/ParallelWaveGAN",
   "homepage": "https://kan-bayashi.github.io/ParallelWaveGAN/",
   "size": 36492,
-  "stargazers_count": 1379,
-  "watchers_count": 1379,
+  "stargazers_count": 1380,
+  "watchers_count": 1380,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -114,7 +114,7 @@
   "visibility": "public",
   "forks": 316,
   "open_issues": 35,
-  "watchers": 1379,
+  "watchers": 1380,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 270
+  "_index": 273
 }

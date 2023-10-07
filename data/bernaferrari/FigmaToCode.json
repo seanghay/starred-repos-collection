@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/bernaferrari/FigmaToCode/deployments",
   "created_at": "2020-06-19T21:02:32Z",
   "updated_at": "2023-10-05T14:07:42Z",
-  "pushed_at": "2023-09-12T14:00:27Z",
+  "pushed_at": "2023-10-06T08:45:17Z",
   "git_url": "git://github.com/bernaferrari/FigmaToCode.git",
   "ssh_url": "git@github.com:bernaferrari/FigmaToCode.git",
   "clone_url": "https://github.com/bernaferrari/FigmaToCode.git",
   "svn_url": "https://github.com/bernaferrari/FigmaToCode",
   "homepage": "https://www.figma.com/community/plugin/842128343887142055",
-  "size": 12005,
+  "size": 12063,
   "stargazers_count": 3220,
   "watchers_count": 3220,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 21,
+  "open_issues_count": 22,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -113,7 +113,7 @@
   ],
   "visibility": "public",
   "forks": 235,
-  "open_issues": 21,
+  "open_issues": 22,
   "watchers": 3220,
   "default_branch": "main",
   "permissions": {
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 15
+  "_index": 18
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/sockjs/sockjs-client/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sockjs/sockjs-client/deployments",
   "created_at": "2011-07-22T14:12:01Z",
-  "updated_at": "2023-10-04T12:47:06Z",
-  "pushed_at": "2023-09-18T11:17:55Z",
+  "updated_at": "2023-10-06T16:25:35Z",
+  "pushed_at": "2023-10-06T08:00:59Z",
   "git_url": "git://github.com/sockjs/sockjs-client.git",
   "ssh_url": "git@github.com:sockjs/sockjs-client.git",
   "clone_url": "https://github.com/sockjs/sockjs-client.git",
   "svn_url": "https://github.com/sockjs/sockjs-client",
   "homepage": "",
   "size": 3418,
-  "stargazers_count": 8274,
-  "watchers_count": 8274,
+  "stargazers_count": 8275,
+  "watchers_count": 8275,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 1351,
+  "forks_count": 1352,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 18,
+  "open_issues_count": 19,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,9 +104,9 @@
     "websocket"
   ],
   "visibility": "public",
-  "forks": 1351,
-  "open_issues": 18,
-  "watchers": 8274,
+  "forks": 1352,
+  "open_issues": 19,
+  "watchers": 8275,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1695
+  "_index": 1698
 }

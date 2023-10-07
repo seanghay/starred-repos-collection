@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/YavorGIvanov/sam.cpp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/YavorGIvanov/sam.cpp/deployments",
   "created_at": "2023-08-23T14:26:42Z",
-  "updated_at": "2023-10-05T07:12:26Z",
+  "updated_at": "2023-10-07T01:13:39Z",
   "pushed_at": "2023-10-05T14:13:03Z",
   "git_url": "git://github.com/YavorGIvanov/sam.cpp.git",
   "ssh_url": "git@github.com:YavorGIvanov/sam.cpp.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/YavorGIvanov/sam.cpp",
   "homepage": null,
   "size": 253,
-  "stargazers_count": 1121,
-  "watchers_count": 1121,
+  "stargazers_count": 1127,
+  "watchers_count": 1127,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 45,
   "open_issues": 6,
-  "watchers": 1121,
+  "watchers": 1127,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 124
+  "_index": 127
 }

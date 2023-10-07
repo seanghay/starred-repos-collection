@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/asottile/pyupgrade/releases{/id}",
   "deployments_url": "https://api.github.com/repos/asottile/pyupgrade/deployments",
   "created_at": "2017-02-28T17:50:31Z",
-  "updated_at": "2023-10-05T18:52:00Z",
+  "updated_at": "2023-10-06T13:07:01Z",
   "pushed_at": "2023-10-05T17:00:01Z",
   "git_url": "git://github.com/asottile/pyupgrade.git",
   "ssh_url": "git@github.com:asottile/pyupgrade.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/asottile/pyupgrade",
   "homepage": "",
   "size": 1052,
-  "stargazers_count": 2852,
-  "watchers_count": 2852,
+  "stargazers_count": 2853,
+  "watchers_count": 2853,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 167,
   "open_issues": 17,
-  "watchers": 2852,
+  "watchers": 2853,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 155
+  "_index": 158
 }

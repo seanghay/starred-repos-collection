@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/webview/webview/releases{/id}",
   "deployments_url": "https://api.github.com/repos/webview/webview/deployments",
   "created_at": "2017-08-19T08:26:00Z",
-  "updated_at": "2023-10-05T15:33:04Z",
+  "updated_at": "2023-10-06T11:10:12Z",
   "pushed_at": "2023-09-25T02:25:59Z",
   "git_url": "git://github.com/webview/webview.git",
   "ssh_url": "git@github.com:webview/webview.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/webview/webview",
   "homepage": "https://webview.dev",
   "size": 5324,
-  "stargazers_count": 11543,
-  "watchers_count": 11543,
+  "stargazers_count": 11545,
+  "watchers_count": 11545,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 917,
+  "forks_count": 918,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 198,
+  "open_issues_count": 199,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -115,9 +115,9 @@
     "webview2"
   ],
   "visibility": "public",
-  "forks": 917,
-  "open_issues": 198,
-  "watchers": 11543,
+  "forks": 918,
+  "open_issues": 199,
+  "watchers": 11545,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 123
+  "_index": 126
 }

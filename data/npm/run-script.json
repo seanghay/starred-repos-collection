@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/npm/run-script/deployments",
   "created_at": "2020-01-22T22:21:24Z",
   "updated_at": "2023-09-22T18:52:31Z",
-  "pushed_at": "2023-10-02T15:57:58Z",
+  "pushed_at": "2023-10-06T15:59:09Z",
   "git_url": "git://github.com/npm/run-script.git",
   "ssh_url": "git@github.com:npm/run-script.git",
   "clone_url": "https://github.com/npm/run-script.git",
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2333
+  "_index": 2336
 }
