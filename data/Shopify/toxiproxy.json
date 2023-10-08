@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Shopify/toxiproxy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Shopify/toxiproxy/deployments",
   "created_at": "2014-09-04T13:56:38Z",
-  "updated_at": "2023-10-06T22:13:31Z",
+  "updated_at": "2023-10-07T17:11:55Z",
   "pushed_at": "2023-10-05T15:18:20Z",
   "git_url": "git://github.com/Shopify/toxiproxy.git",
   "ssh_url": "git@github.com:Shopify/toxiproxy.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Shopify/toxiproxy",
   "homepage": "https://github.com/shopify/toxiproxy",
   "size": 3472,
-  "stargazers_count": 9438,
-  "watchers_count": 9438,
+  "stargazers_count": 9441,
+  "watchers_count": 9441,
   "language": "Go",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 429,
+  "forks_count": 430,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,9 +109,9 @@
     "testing"
   ],
   "visibility": "public",
-  "forks": 429,
+  "forks": 430,
   "open_issues": 81,
-  "watchers": 9438,
+  "watchers": 9441,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 881
+  "_index": 883
 }

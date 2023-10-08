@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/exceljs/exceljs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/exceljs/exceljs/deployments",
   "created_at": "2014-12-09T20:57:12Z",
-  "updated_at": "2023-10-06T12:12:07Z",
+  "updated_at": "2023-10-08T00:52:35Z",
   "pushed_at": "2023-10-01T00:01:53Z",
   "git_url": "git://github.com/exceljs/exceljs.git",
   "ssh_url": "git@github.com:exceljs/exceljs.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/exceljs/exceljs",
   "homepage": "",
   "size": 22017,
-  "stargazers_count": 11934,
-  "watchers_count": 11934,
+  "stargazers_count": 11935,
+  "watchers_count": 11935,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1545,
+  "forks_count": 1546,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -111,9 +111,9 @@
     "xlsxwriter"
   ],
   "visibility": "public",
-  "forks": 1545,
+  "forks": 1546,
   "open_issues": 481,
-  "watchers": 11934,
+  "watchers": 11935,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 424
+  "_index": 426
 }

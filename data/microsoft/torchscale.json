@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/microsoft/torchscale/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microsoft/torchscale/deployments",
   "created_at": "2022-11-17T08:55:59Z",
-  "updated_at": "2023-10-07T01:40:29Z",
+  "updated_at": "2023-10-07T18:03:43Z",
   "pushed_at": "2023-09-29T04:59:56Z",
   "git_url": "git://github.com/microsoft/torchscale.git",
   "ssh_url": "git@github.com:microsoft/torchscale.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/microsoft/torchscale",
   "homepage": "https://aka.ms/GeneralAI",
   "size": 284,
-  "stargazers_count": 2560,
-  "watchers_count": 2560,
+  "stargazers_count": 2565,
+  "watchers_count": 2565,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 167,
+  "forks_count": 168,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,9 +108,9 @@
     "translation"
   ],
   "visibility": "public",
-  "forks": 167,
+  "forks": 168,
   "open_issues": 12,
-  "watchers": 2560,
+  "watchers": 2565,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 245
+  "_index": 247
 }

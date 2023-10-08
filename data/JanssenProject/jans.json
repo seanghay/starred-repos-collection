@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/JanssenProject/jans/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JanssenProject/jans/deployments",
   "created_at": "2020-11-03T15:00:37Z",
-  "updated_at": "2023-10-06T18:47:33Z",
-  "pushed_at": "2023-10-06T23:46:52Z",
+  "updated_at": "2023-10-07T14:31:28Z",
+  "pushed_at": "2023-10-07T23:47:20Z",
   "git_url": "git://github.com/JanssenProject/jans.git",
   "ssh_url": "git@github.com:JanssenProject/jans.git",
   "clone_url": "https://github.com/JanssenProject/jans.git",
   "svn_url": "https://github.com/JanssenProject/jans",
   "homepage": "https://docs.jans.io",
-  "size": 1129668,
-  "stargazers_count": 284,
-  "watchers_count": 284,
+  "size": 1129779,
+  "stargazers_count": 285,
+  "watchers_count": 285,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 426,
+  "open_issues_count": 424,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -110,8 +110,8 @@
   ],
   "visibility": "public",
   "forks": 50,
-  "open_issues": 426,
-  "watchers": 284,
+  "open_issues": 424,
+  "watchers": 285,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 706
+  "_index": 708
 }

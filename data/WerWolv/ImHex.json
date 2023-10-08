@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/WerWolv/ImHex/releases{/id}",
   "deployments_url": "https://api.github.com/repos/WerWolv/ImHex/deployments",
   "created_at": "2020-11-10T14:27:00Z",
-  "updated_at": "2023-10-07T00:48:39Z",
-  "pushed_at": "2023-10-06T17:31:53Z",
+  "updated_at": "2023-10-08T00:35:04Z",
+  "pushed_at": "2023-10-07T21:35:35Z",
   "git_url": "git://github.com/WerWolv/ImHex.git",
   "ssh_url": "git@github.com:WerWolv/ImHex.git",
   "clone_url": "https://github.com/WerWolv/ImHex.git",
   "svn_url": "https://github.com/WerWolv/ImHex",
   "homepage": "https://imhex.werwolv.net",
-  "size": 28524,
-  "stargazers_count": 30213,
-  "watchers_count": 30213,
+  "size": 28531,
+  "stargazers_count": 30219,
+  "watchers_count": 30219,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 1482,
+  "forks_count": 1484,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 184,
+  "open_issues_count": 181,
   "license": {
     "key": "gpl-2.0",
     "name": "GNU General Public License v2.0",
@@ -119,9 +119,9 @@
     "windows"
   ],
   "visibility": "public",
-  "forks": 1482,
-  "open_issues": 184,
-  "watchers": 30213,
+  "forks": 1484,
+  "open_issues": 181,
+  "watchers": 30219,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 999
+  "_index": 1001
 }

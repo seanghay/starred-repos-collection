@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/afollestad/mnml/releases{/id}",
   "deployments_url": "https://api.github.com/repos/afollestad/mnml/deployments",
   "created_at": "2018-12-14T02:20:49Z",
-  "updated_at": "2023-09-14T00:49:36Z",
+  "updated_at": "2023-10-07T05:41:59Z",
   "pushed_at": "2023-09-03T03:49:39Z",
   "git_url": "git://github.com/afollestad/mnml.git",
   "ssh_url": "git@github.com:afollestad/mnml.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/afollestad/mnml",
   "homepage": "https://af.codes",
   "size": 17662,
-  "stargazers_count": 636,
-  "watchers_count": 636,
+  "stargazers_count": 637,
+  "watchers_count": 637,
   "language": "Kotlin",
   "has_issues": false,
   "has_projects": false,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 77,
   "open_issues": 49,
-  "watchers": 636,
+  "watchers": 637,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2708
+  "_index": 2710
 }

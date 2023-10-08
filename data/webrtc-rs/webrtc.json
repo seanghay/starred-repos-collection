@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/webrtc-rs/webrtc/releases{/id}",
   "deployments_url": "https://api.github.com/repos/webrtc-rs/webrtc/deployments",
   "created_at": "2019-08-15T06:18:40Z",
-  "updated_at": "2023-10-05T23:19:49Z",
+  "updated_at": "2023-10-08T00:10:28Z",
   "pushed_at": "2023-10-05T19:53:30Z",
   "git_url": "git://github.com/webrtc-rs/webrtc.git",
   "ssh_url": "git@github.com:webrtc-rs/webrtc.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/webrtc-rs/webrtc",
   "homepage": "https://webrtc.rs",
   "size": 12771,
-  "stargazers_count": 3374,
-  "watchers_count": 3374,
+  "stargazers_count": 3378,
+  "watchers_count": 3378,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 271,
   "open_issues": 99,
-  "watchers": 3374,
+  "watchers": 3378,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1150
+  "_index": 1152
 }

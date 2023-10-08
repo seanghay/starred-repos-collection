@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/servo/servo/releases{/id}",
   "deployments_url": "https://api.github.com/repos/servo/servo/deployments",
   "created_at": "2012-02-08T19:07:25Z",
-  "updated_at": "2023-10-07T00:22:15Z",
-  "pushed_at": "2023-10-06T22:22:13Z",
+  "updated_at": "2023-10-07T20:28:33Z",
+  "pushed_at": "2023-10-08T01:26:02Z",
   "git_url": "git://github.com/servo/servo.git",
   "ssh_url": "git@github.com:servo/servo.git",
   "clone_url": "https://github.com/servo/servo.git",
   "svn_url": "https://github.com/servo/servo",
   "homepage": "https://servo.org/",
-  "size": 1365141,
-  "stargazers_count": 23954,
-  "watchers_count": 23954,
+  "size": 1365241,
+  "stargazers_count": 23959,
+  "watchers_count": 23959,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2772,
+  "forks_count": 2773,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,9 +103,9 @@
     "servo"
   ],
   "visibility": "public",
-  "forks": 2772,
+  "forks": 2773,
   "open_issues": 3409,
-  "watchers": 23954,
+  "watchers": 23959,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 725
+  "_index": 727
 }

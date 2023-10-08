@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/renzholy/mongood/releases{/id}",
   "deployments_url": "https://api.github.com/repos/renzholy/mongood/deployments",
   "created_at": "2020-05-21T18:07:11Z",
-  "updated_at": "2023-09-18T06:08:43Z",
+  "updated_at": "2023-10-07T09:00:42Z",
   "pushed_at": "2023-08-31T01:27:22Z",
   "git_url": "git://github.com/renzholy/mongood.git",
   "ssh_url": "git@github.com:renzholy/mongood.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/renzholy/mongood",
   "homepage": "",
   "size": 13650,
-  "stargazers_count": 708,
-  "watchers_count": 708,
+  "stargazers_count": 709,
+  "watchers_count": 709,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 57,
   "open_issues": 5,
-  "watchers": 708,
+  "watchers": 709,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1036
+  "_index": 1038
 }

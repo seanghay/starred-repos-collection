@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/leptos-rs/leptos/releases{/id}",
   "deployments_url": "https://api.github.com/repos/leptos-rs/leptos/deployments",
   "created_at": "2022-07-31T20:40:30Z",
-  "updated_at": "2023-10-07T01:20:02Z",
-  "pushed_at": "2023-10-06T18:20:17Z",
+  "updated_at": "2023-10-08T01:25:12Z",
+  "pushed_at": "2023-10-07T20:54:30Z",
   "git_url": "git://github.com/leptos-rs/leptos.git",
   "ssh_url": "git@github.com:leptos-rs/leptos.git",
   "clone_url": "https://github.com/leptos-rs/leptos.git",
   "svn_url": "https://github.com/leptos-rs/leptos",
   "homepage": "https://leptos.dev",
-  "size": 8643,
-  "stargazers_count": 12121,
-  "watchers_count": 12121,
+  "size": 8279,
+  "stargazers_count": 12144,
+  "watchers_count": 12144,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 447,
+  "forks_count": 449,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 56,
+  "open_issues_count": 54,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,9 +108,9 @@
     "webassembly"
   ],
   "visibility": "public",
-  "forks": 447,
-  "open_issues": 56,
-  "watchers": 12121,
+  "forks": 449,
+  "open_issues": 54,
+  "watchers": 12144,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 41
+  "_index": 43
 }

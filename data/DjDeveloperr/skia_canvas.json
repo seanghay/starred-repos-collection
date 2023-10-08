@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/DjDeveloperr/skia_canvas/deployments",
   "created_at": "2022-09-19T07:19:45Z",
   "updated_at": "2023-10-02T18:10:31Z",
-  "pushed_at": "2023-09-20T21:04:06Z",
+  "pushed_at": "2023-10-07T04:29:47Z",
   "git_url": "git://github.com/DjDeveloperr/skia_canvas.git",
   "ssh_url": "git@github.com:DjDeveloperr/skia_canvas.git",
   "clone_url": "https://github.com/DjDeveloperr/skia_canvas.git",
   "svn_url": "https://github.com/DjDeveloperr/skia_canvas",
   "homepage": "https://deno.land/x/skia_canvas",
-  "size": 994,
+  "size": 992,
   "stargazers_count": 98,
   "watchers_count": 98,
   "language": "C++",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 12,
+  "open_issues_count": 10,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -109,7 +109,7 @@
   ],
   "visibility": "public",
   "forks": 6,
-  "open_issues": 12,
+  "open_issues": 10,
   "watchers": 98,
   "default_branch": "main",
   "permissions": {
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 806
+  "_index": 808
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/uber/kraken/releases{/id}",
   "deployments_url": "https://api.github.com/repos/uber/kraken/deployments",
   "created_at": "2018-12-06T06:04:35Z",
-  "updated_at": "2023-10-06T14:26:58Z",
+  "updated_at": "2023-10-07T16:35:17Z",
   "pushed_at": "2023-09-27T16:27:54Z",
   "git_url": "git://github.com/uber/kraken.git",
   "ssh_url": "git@github.com:uber/kraken.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/uber/kraken",
   "homepage": "",
   "size": 6643,
-  "stargazers_count": 5641,
-  "watchers_count": 5641,
+  "stargazers_count": 5643,
+  "watchers_count": 5643,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 392,
   "open_issues": 81,
-  "watchers": 5641,
+  "watchers": 5643,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 829
+  "_index": 831
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/OpenNMT/CTranslate2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/OpenNMT/CTranslate2/deployments",
   "created_at": "2019-09-23T08:10:42Z",
-  "updated_at": "2023-10-06T13:35:07Z",
+  "updated_at": "2023-10-07T18:54:59Z",
   "pushed_at": "2023-09-28T13:39:38Z",
   "git_url": "git://github.com/OpenNMT/CTranslate2.git",
   "ssh_url": "git@github.com:OpenNMT/CTranslate2.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/OpenNMT/CTranslate2",
   "homepage": "https://opennmt.net/CTranslate2",
   "size": 13176,
-  "stargazers_count": 1955,
-  "watchers_count": 1955,
+  "stargazers_count": 1956,
+  "watchers_count": 1956,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -122,7 +122,7 @@
   "visibility": "public",
   "forks": 180,
   "open_issues": 94,
-  "watchers": 1955,
+  "watchers": 1956,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 533
+  "_index": 535
 }

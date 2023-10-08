@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/samizdatco/skia-canvas/releases{/id}",
   "deployments_url": "https://api.github.com/repos/samizdatco/skia-canvas/deployments",
   "created_at": "2020-08-04T22:12:53Z",
-  "updated_at": "2023-10-02T01:39:31Z",
+  "updated_at": "2023-10-07T11:19:10Z",
   "pushed_at": "2023-08-17T02:40:07Z",
   "git_url": "git://github.com/samizdatco/skia-canvas.git",
   "ssh_url": "git@github.com:samizdatco/skia-canvas.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/samizdatco/skia-canvas",
   "homepage": "",
   "size": 3145,
-  "stargazers_count": 1549,
-  "watchers_count": 1549,
+  "stargazers_count": 1550,
+  "watchers_count": 1550,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 39,
+  "open_issues_count": 40,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 59,
-  "open_issues": 39,
-  "watchers": 1549,
+  "open_issues": 40,
+  "watchers": 1550,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 676
+  "_index": 678
 }

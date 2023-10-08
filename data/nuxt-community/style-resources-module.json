@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/nuxt-community/style-resources-module",
-  "description": "Style Resources for Nuxt 2",
+  "description": "Style Resources for Nuxt 3",
   "fork": false,
   "url": "https://api.github.com/repos/nuxt-community/style-resources-module",
   "forks_url": "https://api.github.com/repos/nuxt-community/style-resources-module/forks",
@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/nuxt-community/style-resources-module/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nuxt-community/style-resources-module/deployments",
   "created_at": "2018-11-08T14:55:12Z",
-  "updated_at": "2023-10-06T14:00:27Z",
-  "pushed_at": "2023-10-06T21:35:10Z",
+  "updated_at": "2023-10-07T15:05:36Z",
+  "pushed_at": "2023-10-08T00:41:05Z",
   "git_url": "git://github.com/nuxt-community/style-resources-module.git",
   "ssh_url": "git@github.com:nuxt-community/style-resources-module.git",
   "clone_url": "https://github.com/nuxt-community/style-resources-module.git",
   "svn_url": "https://github.com/nuxt-community/style-resources-module",
   "homepage": "",
-  "size": 906,
+  "size": 1007,
   "stargazers_count": 573,
   "watchers_count": 573,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 33,
+  "open_issues_count": 30,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,9 +108,9 @@
   ],
   "visibility": "public",
   "forks": 23,
-  "open_issues": 33,
+  "open_issues": 30,
   "watchers": 573,
-  "default_branch": "master",
+  "default_branch": "main",
   "permissions": {
     "admin": false,
     "maintain": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1524
+  "_index": 1526
 }

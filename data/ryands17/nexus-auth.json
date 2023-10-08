@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/ryands17/nexus-auth.git",
   "svn_url": "https://github.com/ryands17/nexus-auth",
   "homepage": null,
-  "size": 3018,
+  "size": 3125,
   "stargazers_count": 159,
   "watchers_count": 159,
   "language": "TypeScript",
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1269
+  "_index": 1271
 }

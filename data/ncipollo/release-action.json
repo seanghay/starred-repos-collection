@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ncipollo/release-action/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ncipollo/release-action/deployments",
   "created_at": "2019-08-23T15:03:16Z",
-  "updated_at": "2023-10-06T10:16:29Z",
+  "updated_at": "2023-10-07T12:09:49Z",
   "pushed_at": "2023-10-01T09:41:15Z",
   "git_url": "git://github.com/ncipollo/release-action.git",
   "ssh_url": "git@github.com:ncipollo/release-action.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ncipollo/release-action",
   "homepage": "",
   "size": 20252,
-  "stargazers_count": 1007,
-  "watchers_count": 1007,
+  "stargazers_count": 1008,
+  "watchers_count": 1008,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 163,
   "open_issues": 6,
-  "watchers": 1007,
+  "watchers": 1008,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1461
+  "_index": 1463
 }
