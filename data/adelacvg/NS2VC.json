@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/adelacvg/NS2VC/releases{/id}",
   "deployments_url": "https://api.github.com/repos/adelacvg/NS2VC/deployments",
   "created_at": "2023-05-03T14:55:31Z",
-  "updated_at": "2023-10-03T04:16:35Z",
+  "updated_at": "2023-10-08T07:13:52Z",
   "pushed_at": "2023-10-03T13:51:01Z",
   "git_url": "git://github.com/adelacvg/NS2VC.git",
   "ssh_url": "git@github.com:adelacvg/NS2VC.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/adelacvg/NS2VC",
   "homepage": "",
   "size": 17550,
-  "stargazers_count": 151,
-  "watchers_count": 151,
+  "stargazers_count": 152,
+  "watchers_count": 152,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 5,
   "open_issues": 10,
-  "watchers": 151,
+  "watchers": 152,
   "default_branch": "vc-v2",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 17
+  "_index": 28
 }

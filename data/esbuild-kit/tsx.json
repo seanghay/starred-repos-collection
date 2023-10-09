@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/esbuild-kit/tsx/releases{/id}",
   "deployments_url": "https://api.github.com/repos/esbuild-kit/tsx/deployments",
   "created_at": "2022-03-15T20:15:42Z",
-  "updated_at": "2023-10-07T16:28:07Z",
+  "updated_at": "2023-10-09T01:36:20Z",
   "pushed_at": "2023-10-05T20:28:42Z",
   "git_url": "git://github.com/esbuild-kit/tsx.git",
   "ssh_url": "git@github.com:esbuild-kit/tsx.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/esbuild-kit/tsx",
   "homepage": "",
   "size": 972,
-  "stargazers_count": 5535,
-  "watchers_count": 5535,
+  "stargazers_count": 5542,
+  "watchers_count": 5542,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 76,
+  "forks_count": 75,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,9 +108,9 @@
     "watch"
   ],
   "visibility": "public",
-  "forks": 76,
+  "forks": 75,
   "open_issues": 61,
-  "watchers": 5535,
+  "watchers": 5542,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1052
+  "_index": 1063
 }

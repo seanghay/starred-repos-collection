@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/1adrianb/face-alignment/releases{/id}",
   "deployments_url": "https://api.github.com/repos/1adrianb/face-alignment/deployments",
   "created_at": "2017-09-15T20:32:44Z",
-  "updated_at": "2023-10-07T06:52:39Z",
+  "updated_at": "2023-10-08T16:37:27Z",
   "pushed_at": "2023-08-17T14:37:33Z",
   "git_url": "git://github.com/1adrianb/face-alignment.git",
   "ssh_url": "git@github.com:1adrianb/face-alignment.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/1adrianb/face-alignment",
   "homepage": "https://www.adrianbulat.com",
   "size": 5412,
-  "stargazers_count": 6512,
-  "watchers_count": 6512,
+  "stargazers_count": 6514,
+  "watchers_count": 6514,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 1306,
   "open_issues": 76,
-  "watchers": 6512,
+  "watchers": 6514,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 336
+  "_index": 347
 }

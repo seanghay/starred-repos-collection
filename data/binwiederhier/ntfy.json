@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/binwiederhier/ntfy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/binwiederhier/ntfy/deployments",
   "created_at": "2021-10-23T19:25:32Z",
-  "updated_at": "2023-10-07T23:56:29Z",
-  "pushed_at": "2023-10-02T15:49:36Z",
+  "updated_at": "2023-10-08T21:10:46Z",
+  "pushed_at": "2023-10-08T19:59:48Z",
   "git_url": "git://github.com/binwiederhier/ntfy.git",
   "ssh_url": "git@github.com:binwiederhier/ntfy.git",
   "clone_url": "https://github.com/binwiederhier/ntfy.git",
   "svn_url": "https://github.com/binwiederhier/ntfy",
   "homepage": "https://ntfy.sh",
   "size": 34496,
-  "stargazers_count": 14133,
-  "watchers_count": 14133,
+  "stargazers_count": 14149,
+  "watchers_count": 14149,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 510,
+  "forks_count": 512,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 155,
+  "open_issues_count": 156,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -107,9 +107,9 @@
     "rest-api"
   ],
   "visibility": "public",
-  "forks": 510,
-  "open_issues": 155,
-  "watchers": 14133,
+  "forks": 512,
+  "open_issues": 156,
+  "watchers": 14149,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 830
+  "_index": 841
 }

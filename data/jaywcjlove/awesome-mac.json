@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jaywcjlove/awesome-mac/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jaywcjlove/awesome-mac/deployments",
   "created_at": "2016-07-17T15:33:47Z",
-  "updated_at": "2023-10-08T01:23:51Z",
+  "updated_at": "2023-10-08T21:45:28Z",
   "pushed_at": "2023-10-03T15:54:07Z",
   "git_url": "git://github.com/jaywcjlove/awesome-mac.git",
   "ssh_url": "git@github.com:jaywcjlove/awesome-mac.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jaywcjlove/awesome-mac",
   "homepage": "https://git.io/macx",
   "size": 11583,
-  "stargazers_count": 63968,
-  "watchers_count": 63968,
+  "stargazers_count": 63987,
+  "watchers_count": 63987,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 5976,
   "open_issues": 139,
-  "watchers": 63968,
+  "watchers": 63987,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1066
+  "_index": 1077
 }

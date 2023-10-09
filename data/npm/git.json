@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/npm/git/releases{/id}",
   "deployments_url": "https://api.github.com/repos/npm/git/deployments",
   "created_at": "2020-03-09T23:57:08Z",
-  "updated_at": "2023-08-01T00:35:21Z",
+  "updated_at": "2023-10-08T22:31:53Z",
   "pushed_at": "2023-10-05T23:32:58Z",
   "git_url": "git://github.com/npm/git.git",
   "ssh_url": "git@github.com:npm/git.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/npm/git",
   "homepage": "",
   "size": 342,
-  "stargazers_count": 54,
-  "watchers_count": 54,
+  "stargazers_count": 55,
+  "watchers_count": 55,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -103,7 +103,7 @@
   "visibility": "public",
   "forks": 13,
   "open_issues": 5,
-  "watchers": 54,
+  "watchers": 55,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2185
+  "_index": 2196
 }

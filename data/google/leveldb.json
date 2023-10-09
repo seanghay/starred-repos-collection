@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/google/leveldb/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/leveldb/deployments",
   "created_at": "2014-08-27T21:17:52Z",
-  "updated_at": "2023-10-07T13:48:16Z",
-  "pushed_at": "2023-10-01T01:38:00Z",
+  "updated_at": "2023-10-08T12:05:55Z",
+  "pushed_at": "2023-10-08T09:58:36Z",
   "git_url": "git://github.com/google/leveldb.git",
   "ssh_url": "git@github.com:google/leveldb.git",
   "clone_url": "https://github.com/google/leveldb.git",
   "svn_url": "https://github.com/google/leveldb",
   "homepage": "",
   "size": 1653,
-  "stargazers_count": 33636,
-  "watchers_count": 33636,
+  "stargazers_count": 33641,
+  "watchers_count": 33641,
   "language": "C++",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 296,
+  "open_issues_count": 297,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 7506,
-  "open_issues": 296,
-  "watchers": 33636,
+  "open_issues": 297,
+  "watchers": 33641,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1866
+  "_index": 1877
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/phan/phan/releases{/id}",
   "deployments_url": "https://api.github.com/repos/phan/phan/deployments",
   "created_at": "2015-10-22T14:34:09Z",
-  "updated_at": "2023-10-07T11:37:56Z",
+  "updated_at": "2023-10-08T09:56:30Z",
   "pushed_at": "2023-10-05T00:11:32Z",
   "git_url": "git://github.com/phan/phan.git",
   "ssh_url": "git@github.com:phan/phan.git",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3113
+  "_index": 3124
 }

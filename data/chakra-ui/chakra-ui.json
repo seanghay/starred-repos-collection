@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/chakra-ui/chakra-ui/releases{/id}",
   "deployments_url": "https://api.github.com/repos/chakra-ui/chakra-ui/deployments",
   "created_at": "2019-08-17T14:27:54Z",
-  "updated_at": "2023-10-07T21:55:50Z",
-  "pushed_at": "2023-10-06T21:36:58Z",
+  "updated_at": "2023-10-09T01:39:46Z",
+  "pushed_at": "2023-10-08T09:35:58Z",
   "git_url": "git://github.com/chakra-ui/chakra-ui.git",
   "ssh_url": "git@github.com:chakra-ui/chakra-ui.git",
   "clone_url": "https://github.com/chakra-ui/chakra-ui.git",
   "svn_url": "https://github.com/chakra-ui/chakra-ui",
   "homepage": "https://chakra-ui.com",
   "size": 127094,
-  "stargazers_count": 34560,
-  "watchers_count": 34560,
+  "stargazers_count": 34579,
+  "watchers_count": 34579,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 3044,
+  "forks_count": 3045,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 238,
+  "open_issues_count": 241,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -111,9 +111,9 @@
     "wai-aria"
   ],
   "visibility": "public",
-  "forks": 3044,
-  "open_issues": 238,
-  "watchers": 34560,
+  "forks": 3045,
+  "open_issues": 241,
+  "watchers": 34579,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 470
+  "_index": 481
 }

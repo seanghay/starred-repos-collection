@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/TencentARC/T2I-Adapter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/TencentARC/T2I-Adapter/deployments",
   "created_at": "2023-02-15T14:27:49Z",
-  "updated_at": "2023-10-08T01:47:55Z",
+  "updated_at": "2023-10-08T21:36:06Z",
   "pushed_at": "2023-09-27T23:17:52Z",
   "git_url": "git://github.com/TencentARC/T2I-Adapter.git",
   "ssh_url": "git@github.com:TencentARC/T2I-Adapter.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/TencentARC/T2I-Adapter",
   "homepage": null,
   "size": 4506,
-  "stargazers_count": 2487,
-  "watchers_count": 2487,
+  "stargazers_count": 2492,
+  "watchers_count": 2492,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 151,
   "open_issues": 59,
-  "watchers": 2487,
+  "watchers": 2492,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 660
+  "_index": 671
 }
