@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/s3prl/s3prl/releases{/id}",
   "deployments_url": "https://api.github.com/repos/s3prl/s3prl/deployments",
   "created_at": "2019-07-15T01:54:52Z",
-  "updated_at": "2023-10-08T14:17:59Z",
-  "pushed_at": "2023-10-06T10:23:42Z",
+  "updated_at": "2023-10-09T13:52:13Z",
+  "pushed_at": "2023-10-09T17:00:26Z",
   "git_url": "git://github.com/s3prl/s3prl.git",
   "ssh_url": "git@github.com:s3prl/s3prl.git",
   "clone_url": "https://github.com/s3prl/s3prl.git",
   "svn_url": "https://github.com/s3prl/s3prl",
   "homepage": "https://s3prl.github.io/s3prl/",
-  "size": 136571,
-  "stargazers_count": 1866,
-  "watchers_count": 1866,
+  "size": 136588,
+  "stargazers_count": 1868,
+  "watchers_count": 1868,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 425,
+  "forks_count": 426,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 55,
+  "open_issues_count": 54,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -120,9 +120,9 @@
     "wavlm"
   ],
   "visibility": "public",
-  "forks": 425,
-  "open_issues": 55,
-  "watchers": 1866,
+  "forks": 426,
+  "open_issues": 54,
+  "watchers": 1868,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 256
+  "_index": 261
 }

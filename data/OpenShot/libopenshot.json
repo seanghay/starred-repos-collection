@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/OpenShot/libopenshot.git",
   "svn_url": "https://github.com/OpenShot/libopenshot",
   "homepage": "http://www.openshot.org",
-  "size": 120006,
+  "size": 119904,
   "stargazers_count": 1062,
   "watchers_count": 1062,
   "language": "C++",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1619
+  "_index": 1624
 }

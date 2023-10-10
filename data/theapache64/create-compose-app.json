@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/theapache64/create-compose-app/releases{/id}",
   "deployments_url": "https://api.github.com/repos/theapache64/create-compose-app/deployments",
   "created_at": "2021-05-15T09:28:18Z",
-  "updated_at": "2023-10-07T07:00:48Z",
+  "updated_at": "2023-10-09T14:22:41Z",
   "pushed_at": "2023-07-23T16:52:42Z",
   "git_url": "git://github.com/theapache64/create-compose-app.git",
   "ssh_url": "git@github.com:theapache64/create-compose-app.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/theapache64/create-compose-app",
   "homepage": "",
   "size": 24739,
-  "stargazers_count": 504,
-  "watchers_count": 504,
+  "stargazers_count": 505,
+  "watchers_count": 505,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 4,
+  "open_issues_count": 5,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -103,8 +103,8 @@
   ],
   "visibility": "public",
   "forks": 9,
-  "open_issues": 4,
-  "watchers": 504,
+  "open_issues": 5,
+  "watchers": 505,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1514
+  "_index": 1519
 }

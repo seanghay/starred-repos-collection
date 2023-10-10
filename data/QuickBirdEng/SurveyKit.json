@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/QuickBirdEng/SurveyKit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/QuickBirdEng/SurveyKit/deployments",
   "created_at": "2019-09-16T06:38:47Z",
-  "updated_at": "2023-09-18T15:55:49Z",
+  "updated_at": "2023-10-09T16:32:43Z",
   "pushed_at": "2023-06-05T08:35:59Z",
   "git_url": "git://github.com/QuickBirdEng/SurveyKit.git",
   "ssh_url": "git@github.com:QuickBirdEng/SurveyKit.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/QuickBirdEng/SurveyKit",
   "homepage": null,
   "size": 4662,
-  "stargazers_count": 374,
-  "watchers_count": 374,
+  "stargazers_count": 375,
+  "watchers_count": 375,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -115,7 +115,7 @@
   "visibility": "public",
   "forks": 70,
   "open_issues": 19,
-  "watchers": 374,
+  "watchers": 375,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1816
+  "_index": 1821
 }

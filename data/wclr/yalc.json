@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wclr/yalc/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wclr/yalc/deployments",
   "created_at": "2017-04-17T00:08:27Z",
-  "updated_at": "2023-10-08T16:05:47Z",
+  "updated_at": "2023-10-10T01:02:51Z",
   "pushed_at": "2023-10-01T17:56:49Z",
   "git_url": "git://github.com/wclr/yalc.git",
   "ssh_url": "git@github.com:wclr/yalc.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wclr/yalc",
   "homepage": "",
   "size": 429,
-  "stargazers_count": 4928,
-  "watchers_count": 4928,
+  "stargazers_count": 4943,
+  "watchers_count": 4943,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 133,
+  "forks_count": 134,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,9 +106,9 @@
     "yarn-link"
   ],
   "visibility": "public",
-  "forks": 133,
+  "forks": 134,
   "open_issues": 91,
-  "watchers": 4928,
+  "watchers": 4943,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1989
+  "_index": 1994
 }

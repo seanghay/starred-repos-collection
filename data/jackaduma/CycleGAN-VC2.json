@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jackaduma/CycleGAN-VC2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jackaduma/CycleGAN-VC2/deployments",
   "created_at": "2020-05-13T11:29:35Z",
-  "updated_at": "2023-10-06T21:01:06Z",
+  "updated_at": "2023-10-09T12:30:30Z",
   "pushed_at": "2023-06-10T12:00:48Z",
   "git_url": "git://github.com/jackaduma/CycleGAN-VC2.git",
   "ssh_url": "git@github.com:jackaduma/CycleGAN-VC2.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 107,
+  "forks_count": 108,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -112,7 +112,7 @@
     "voice-conversion"
   ],
   "visibility": "public",
-  "forks": 107,
+  "forks": 108,
   "open_issues": 17,
   "watchers": 458,
   "default_branch": "master",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 62
+  "_index": 67
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/openai/shap-e/releases{/id}",
   "deployments_url": "https://api.github.com/repos/openai/shap-e/deployments",
   "created_at": "2023-04-19T18:54:32Z",
-  "updated_at": "2023-10-08T20:14:58Z",
+  "updated_at": "2023-10-09T16:37:48Z",
   "pushed_at": "2023-07-11T16:41:38Z",
   "git_url": "git://github.com/openai/shap-e.git",
   "ssh_url": "git@github.com:openai/shap-e.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/openai/shap-e",
   "homepage": null,
   "size": 11962,
-  "stargazers_count": 10455,
-  "watchers_count": 10455,
+  "stargazers_count": 10457,
+  "watchers_count": 10457,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 787,
+  "forks_count": 788,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 787,
+  "forks": 788,
   "open_issues": 75,
-  "watchers": 10455,
+  "watchers": 10457,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 488
+  "_index": 493
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/android/renderscript-samples/deployments",
   "created_at": "2019-08-08T04:45:19Z",
   "updated_at": "2023-10-05T16:53:58Z",
-  "pushed_at": "2023-08-28T21:54:28Z",
+  "pushed_at": "2023-10-09T18:37:40Z",
   "git_url": "git://github.com/android/renderscript-samples.git",
   "ssh_url": "git@github.com:android/renderscript-samples.git",
   "clone_url": "https://github.com/android/renderscript-samples.git",
   "svn_url": "https://github.com/android/renderscript-samples",
   "homepage": "",
-  "size": 7642,
+  "size": 77548,
   "stargazers_count": 189,
   "watchers_count": 189,
   "language": "C++",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 12,
+  "open_issues_count": 11,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -103,7 +103,7 @@
   ],
   "visibility": "public",
   "forks": 83,
-  "open_issues": 12,
+  "open_issues": 11,
   "watchers": 189,
   "default_branch": "main",
   "permissions": {
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2646
+  "_index": 2651
 }
