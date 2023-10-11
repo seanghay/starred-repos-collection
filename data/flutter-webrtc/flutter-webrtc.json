@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1002,
+  "forks_count": 1003,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,7 +109,7 @@
     "webrtc-plugin"
   ],
   "visibility": "public",
-  "forks": 1002,
+  "forks": 1003,
   "open_issues": 432,
   "watchers": 3734,
   "default_branch": "main",

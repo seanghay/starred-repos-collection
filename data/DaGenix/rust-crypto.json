@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/DaGenix/rust-crypto/releases{/id}",
   "deployments_url": "https://api.github.com/repos/DaGenix/rust-crypto/deployments",
   "created_at": "2013-10-09T03:15:53Z",
-  "updated_at": "2023-10-04T12:45:57Z",
+  "updated_at": "2023-10-10T20:29:12Z",
   "pushed_at": "2023-03-20T06:55:07Z",
   "git_url": "git://github.com/DaGenix/rust-crypto.git",
   "ssh_url": "git@github.com:DaGenix/rust-crypto.git",

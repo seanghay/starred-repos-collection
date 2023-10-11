@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Drovosek01/adobe-packager/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Drovosek01/adobe-packager/deployments",
   "created_at": "2021-08-26T18:20:47Z",
-  "updated_at": "2023-10-08T14:21:24Z",
+  "updated_at": "2023-10-10T15:11:40Z",
   "pushed_at": "2023-06-14T08:19:56Z",
   "git_url": "git://github.com/Drovosek01/adobe-packager.git",
   "ssh_url": "git@github.com:Drovosek01/adobe-packager.git",

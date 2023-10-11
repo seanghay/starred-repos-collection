@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/google-research/nisaba/deployments",
   "created_at": "2020-12-03T22:40:26Z",
   "updated_at": "2023-09-27T23:00:02Z",
-  "pushed_at": "2023-10-05T20:21:26Z",
+  "pushed_at": "2023-10-10T12:34:57Z",
   "git_url": "git://github.com/google-research/nisaba.git",
   "ssh_url": "git@github.com:google-research/nisaba.git",
   "clone_url": "https://github.com/google-research/nisaba.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 8,
+  "open_issues_count": 9,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -121,7 +121,7 @@
   ],
   "visibility": "public",
   "forks": 4,
-  "open_issues": 8,
+  "open_issues": 9,
   "watchers": 26,
   "default_branch": "main",
   "permissions": {
