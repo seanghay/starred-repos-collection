@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/speed-highlight/core/releases{/id}",
   "deployments_url": "https://api.github.com/repos/speed-highlight/core/deployments",
   "created_at": "2021-08-14T12:18:55Z",
-  "updated_at": "2023-10-10T13:56:28Z",
+  "updated_at": "2023-10-11T19:59:36Z",
   "pushed_at": "2023-10-05T19:38:09Z",
   "git_url": "git://github.com/speed-highlight/core.git",
   "ssh_url": "git@github.com:speed-highlight/core.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/speed-highlight/core",
   "homepage": "https://speed-highlight.github.io/core/examples/",
   "size": 1871,
-  "stargazers_count": 178,
-  "watchers_count": 178,
+  "stargazers_count": 179,
+  "watchers_count": 179,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -115,7 +115,7 @@
   "visibility": "public",
   "forks": 7,
   "open_issues": 7,
-  "watchers": 178,
+  "watchers": 179,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1219
+  "_index": 1220
 }

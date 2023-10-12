@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/yt-dlp/yt-dlp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yt-dlp/yt-dlp/deployments",
   "created_at": "2020-10-26T04:22:55Z",
-  "updated_at": "2023-10-11T01:24:10Z",
-  "pushed_at": "2023-10-10T23:56:52Z",
+  "updated_at": "2023-10-12T01:12:03Z",
+  "pushed_at": "2023-10-11T18:33:28Z",
   "git_url": "git://github.com/yt-dlp/yt-dlp.git",
   "ssh_url": "git@github.com:yt-dlp/yt-dlp.git",
   "clone_url": "https://github.com/yt-dlp/yt-dlp.git",
   "svn_url": "https://github.com/yt-dlp/yt-dlp",
   "homepage": "https://discord.gg/H5MNcFW63r",
   "size": 45270,
-  "stargazers_count": 57511,
-  "watchers_count": 57511,
+  "stargazers_count": 57567,
+  "watchers_count": 57567,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 4717,
+  "forks_count": 4722,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1307,
+  "open_issues_count": 1311,
   "license": {
     "key": "unlicense",
     "name": "The Unlicense",
@@ -108,9 +108,9 @@
     "yt-dlp"
   ],
   "visibility": "public",
-  "forks": 4717,
-  "open_issues": 1307,
-  "watchers": 57511,
+  "forks": 4722,
+  "open_issues": 1311,
+  "watchers": 57567,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1566
+  "_index": 1567
 }

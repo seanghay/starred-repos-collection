@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/fondesa/recycler-view-divider/deployments",
   "created_at": "2016-04-12T19:18:21Z",
   "updated_at": "2023-10-09T14:22:16Z",
-  "pushed_at": "2023-10-10T19:12:10Z",
+  "pushed_at": "2023-10-11T19:35:53Z",
   "git_url": "git://github.com/fondesa/recycler-view-divider.git",
   "ssh_url": "git@github.com:fondesa/recycler-view-divider.git",
   "clone_url": "https://github.com/fondesa/recycler-view-divider.git",
   "svn_url": "https://github.com/fondesa/recycler-view-divider",
   "homepage": "",
-  "size": 1627,
+  "size": 1635,
   "stargazers_count": 491,
   "watchers_count": 491,
   "language": "Kotlin",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 7,
+  "open_issues_count": 5,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -114,7 +114,7 @@
   ],
   "visibility": "public",
   "forks": 44,
-  "open_issues": 7,
+  "open_issues": 5,
   "watchers": 491,
   "default_branch": "master",
   "permissions": {
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2290
+  "_index": 2291
 }

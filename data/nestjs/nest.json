@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/nestjs/nest/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nestjs/nest/deployments",
   "created_at": "2017-02-04T20:12:52Z",
-  "updated_at": "2023-10-11T01:12:28Z",
-  "pushed_at": "2023-10-11T00:05:17Z",
+  "updated_at": "2023-10-12T01:34:51Z",
+  "pushed_at": "2023-10-11T17:39:35Z",
   "git_url": "git://github.com/nestjs/nest.git",
   "ssh_url": "git@github.com:nestjs/nest.git",
   "clone_url": "https://github.com/nestjs/nest.git",
   "svn_url": "https://github.com/nestjs/nest",
   "homepage": "https://nestjs.com",
-  "size": 311235,
-  "stargazers_count": 60226,
-  "watchers_count": 60226,
+  "size": 311236,
+  "stargazers_count": 60248,
+  "watchers_count": 60248,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 7163,
+  "forks_count": 7165,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 108,
+  "open_issues_count": 109,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -113,9 +113,9 @@
     "websockets"
   ],
   "visibility": "public",
-  "forks": 7163,
-  "open_issues": 108,
-  "watchers": 60226,
+  "forks": 7165,
+  "open_issues": 109,
+  "watchers": 60248,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3104
+  "_index": 3105
 }

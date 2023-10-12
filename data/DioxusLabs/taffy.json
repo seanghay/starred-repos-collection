@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/DioxusLabs/taffy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/DioxusLabs/taffy/deployments",
   "created_at": "2022-01-04T19:36:24Z",
-  "updated_at": "2023-10-10T19:06:43Z",
-  "pushed_at": "2023-10-10T21:32:19Z",
+  "updated_at": "2023-10-11T21:25:56Z",
+  "pushed_at": "2023-10-12T00:10:32Z",
   "git_url": "git://github.com/DioxusLabs/taffy.git",
   "ssh_url": "git@github.com:DioxusLabs/taffy.git",
   "clone_url": "https://github.com/DioxusLabs/taffy.git",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1104
+  "_index": 1105
 }

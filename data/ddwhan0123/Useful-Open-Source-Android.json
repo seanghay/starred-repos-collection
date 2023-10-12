@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ddwhan0123/Useful-Open-Source-Android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ddwhan0123/Useful-Open-Source-Android/deployments",
   "created_at": "2016-04-13T07:19:51Z",
-  "updated_at": "2023-10-08T06:24:39Z",
-  "pushed_at": "2023-10-08T04:25:04Z",
+  "updated_at": "2023-10-12T01:24:12Z",
+  "pushed_at": "2023-10-11T05:08:04Z",
   "git_url": "git://github.com/ddwhan0123/Useful-Open-Source-Android.git",
   "ssh_url": "git@github.com:ddwhan0123/Useful-Open-Source-Android.git",
   "clone_url": "https://github.com/ddwhan0123/Useful-Open-Source-Android.git",
   "svn_url": "https://github.com/ddwhan0123/Useful-Open-Source-Android",
   "homepage": "",
-  "size": 14263,
-  "stargazers_count": 1484,
-  "watchers_count": 1484,
+  "size": 14272,
+  "stargazers_count": 1483,
+  "watchers_count": 1483,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -99,7 +99,7 @@
   "visibility": "public",
   "forks": 415,
   "open_issues": 2,
-  "watchers": 1484,
+  "watchers": 1483,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -108,5 +108,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2283
+  "_index": 2284
 }

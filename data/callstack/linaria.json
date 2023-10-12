@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/callstack/linaria/releases{/id}",
   "deployments_url": "https://api.github.com/repos/callstack/linaria/deployments",
   "created_at": "2017-05-23T00:52:34Z",
-  "updated_at": "2023-10-11T01:08:37Z",
+  "updated_at": "2023-10-11T22:14:35Z",
   "pushed_at": "2023-10-09T19:15:27Z",
   "git_url": "git://github.com/callstack/linaria.git",
   "ssh_url": "git@github.com:callstack/linaria.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3049
+  "_index": 3050
 }

@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 8,
+  "forks_count": 9,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -100,7 +100,7 @@
     "video-processing"
   ],
   "visibility": "public",
-  "forks": 8,
+  "forks": 9,
   "open_issues": 3,
   "watchers": 52,
   "default_branch": "master",
@@ -111,5 +111,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2963
+  "_index": 2964
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/typesense/typesense/releases{/id}",
   "deployments_url": "https://api.github.com/repos/typesense/typesense/deployments",
   "created_at": "2017-01-18T08:01:47Z",
-  "updated_at": "2023-10-11T00:17:43Z",
-  "pushed_at": "2023-10-10T13:53:10Z",
+  "updated_at": "2023-10-12T01:30:12Z",
+  "pushed_at": "2023-10-11T13:50:31Z",
   "git_url": "git://github.com/typesense/typesense.git",
   "ssh_url": "git@github.com:typesense/typesense.git",
   "clone_url": "https://github.com/typesense/typesense.git",
   "svn_url": "https://github.com/typesense/typesense",
   "homepage": "https://typesense.org",
-  "size": 8145,
-  "stargazers_count": 15369,
-  "watchers_count": 15369,
+  "size": 8150,
+  "stargazers_count": 15387,
+  "watchers_count": 15387,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 473,
+  "forks_count": 475,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 386,
+  "open_issues_count": 388,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -120,9 +120,9 @@
     "vector-search"
   ],
   "visibility": "public",
-  "forks": 473,
-  "open_issues": 386,
-  "watchers": 15369,
+  "forks": 475,
+  "open_issues": 388,
+  "watchers": 15387,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 944
+  "_index": 945
 }
