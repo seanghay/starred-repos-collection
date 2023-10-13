@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/osquery/osquery/releases{/id}",
   "deployments_url": "https://api.github.com/repos/osquery/osquery/deployments",
   "created_at": "2014-07-29T20:27:33Z",
-  "updated_at": "2023-10-12T01:34:41Z",
-  "pushed_at": "2023-10-11T20:16:10Z",
+  "updated_at": "2023-10-12T12:52:13Z",
+  "pushed_at": "2023-10-12T04:01:19Z",
   "git_url": "git://github.com/osquery/osquery.git",
   "ssh_url": "git@github.com:osquery/osquery.git",
   "clone_url": "https://github.com/osquery/osquery.git",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2358
+  "_index": 2359
 }

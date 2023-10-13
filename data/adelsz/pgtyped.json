@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/adelsz/pgtyped/releases{/id}",
   "deployments_url": "https://api.github.com/repos/adelsz/pgtyped/deployments",
   "created_at": "2019-09-23T20:52:29Z",
-  "updated_at": "2023-10-11T23:47:27Z",
-  "pushed_at": "2023-10-12T00:57:13Z",
+  "updated_at": "2023-10-12T21:20:31Z",
+  "pushed_at": "2023-10-13T00:07:17Z",
   "git_url": "git://github.com/adelsz/pgtyped.git",
   "ssh_url": "git@github.com:adelsz/pgtyped.git",
   "clone_url": "https://github.com/adelsz/pgtyped.git",
   "svn_url": "https://github.com/adelsz/pgtyped",
   "homepage": "https://pgtyped.dev",
-  "size": 9261,
-  "stargazers_count": 2585,
-  "watchers_count": 2585,
+  "size": 9256,
+  "stargazers_count": 2588,
+  "watchers_count": 2588,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 80,
   "open_issues": 37,
-  "watchers": 2585,
+  "watchers": 2588,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2123
+  "_index": 2124
 }

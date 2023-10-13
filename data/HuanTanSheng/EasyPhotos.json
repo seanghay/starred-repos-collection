@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/HuanTanSheng/EasyPhotos/releases{/id}",
   "deployments_url": "https://api.github.com/repos/HuanTanSheng/EasyPhotos/deployments",
   "created_at": "2017-10-19T03:32:05Z",
-  "updated_at": "2023-10-11T16:01:10Z",
+  "updated_at": "2023-10-12T15:06:36Z",
   "pushed_at": "2022-10-25T03:09:29Z",
   "git_url": "git://github.com/HuanTanSheng/EasyPhotos.git",
   "ssh_url": "git@github.com:HuanTanSheng/EasyPhotos.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 482,
+  "forks_count": 483,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -93,7 +93,7 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 482,
+  "forks": 483,
   "open_issues": 75,
   "watchers": 2867,
   "default_branch": "master",
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 767
+  "_index": 768
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/WebReflection/linkedom/releases{/id}",
   "deployments_url": "https://api.github.com/repos/WebReflection/linkedom/deployments",
   "created_at": "2020-12-13T16:51:36Z",
-  "updated_at": "2023-10-11T20:46:52Z",
+  "updated_at": "2023-10-12T14:45:06Z",
   "pushed_at": "2023-10-10T20:33:02Z",
   "git_url": "git://github.com/WebReflection/linkedom.git",
   "ssh_url": "git@github.com:WebReflection/linkedom.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/WebReflection/linkedom",
   "homepage": "https://webreflection.medium.com/linkedom-a-jsdom-alternative-53dd8f699311",
   "size": 5283,
-  "stargazers_count": 1320,
-  "watchers_count": 1320,
+  "stargazers_count": 1322,
+  "watchers_count": 1322,
   "language": "HTML",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 62,
   "open_issues": 26,
-  "watchers": 1320,
+  "watchers": 1322,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1148
+  "_index": 1149
 }

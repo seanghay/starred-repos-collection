@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/mozilla/web-ext/deployments",
   "created_at": "2016-02-01T18:08:32Z",
   "updated_at": "2023-10-10T05:59:03Z",
-  "pushed_at": "2023-10-10T16:50:46Z",
+  "pushed_at": "2023-10-12T09:17:15Z",
   "git_url": "git://github.com/mozilla/web-ext.git",
   "ssh_url": "git@github.com:mozilla/web-ext.git",
   "clone_url": "https://github.com/mozilla/web-ext.git",
   "svn_url": "https://github.com/mozilla/web-ext",
   "homepage": null,
-  "size": 9772,
+  "size": 10841,
   "stargazers_count": 2420,
   "watchers_count": 2420,
   "language": "JavaScript",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 933
+  "_index": 934
 }

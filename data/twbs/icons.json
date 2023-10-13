@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1049,
+  "forks_count": 1048,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,7 +107,7 @@
     "woff2"
   ],
   "visibility": "public",
-  "forks": 1049,
+  "forks": 1048,
   "open_issues": 299,
   "watchers": 6916,
   "default_branch": "main",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1426
+  "_index": 1427
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/typesense/typesense/releases{/id}",
   "deployments_url": "https://api.github.com/repos/typesense/typesense/deployments",
   "created_at": "2017-01-18T08:01:47Z",
-  "updated_at": "2023-10-12T01:30:12Z",
+  "updated_at": "2023-10-13T01:44:45Z",
   "pushed_at": "2023-10-11T13:50:31Z",
   "git_url": "git://github.com/typesense/typesense.git",
   "ssh_url": "git@github.com:typesense/typesense.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/typesense/typesense",
   "homepage": "https://typesense.org",
   "size": 8150,
-  "stargazers_count": 15387,
-  "watchers_count": 15387,
+  "stargazers_count": 15412,
+  "watchers_count": 15412,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 475,
+  "forks_count": 476,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -120,9 +120,9 @@
     "vector-search"
   ],
   "visibility": "public",
-  "forks": 475,
+  "forks": 476,
   "open_issues": 388,
-  "watchers": 15387,
+  "watchers": 15412,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 945
+  "_index": 946
 }

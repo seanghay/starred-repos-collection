@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/zitadel/zitadel",
-  "description": "ZITADEL - Identity infrastructure, simplified for you.",
+  "description": "ZITADEL - Identity infrastructure, simplified for you. We combine the best of Auth0 and Keycloak for you.",
   "fork": false,
   "url": "https://api.github.com/repos/zitadel/zitadel",
   "forks_url": "https://api.github.com/repos/zitadel/zitadel/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/zitadel/zitadel/releases{/id}",
   "deployments_url": "https://api.github.com/repos/zitadel/zitadel/deployments",
   "created_at": "2020-03-16T13:51:31Z",
-  "updated_at": "2023-10-11T20:32:43Z",
-  "pushed_at": "2023-10-11T15:37:14Z",
+  "updated_at": "2023-10-12T23:49:04Z",
+  "pushed_at": "2023-10-12T16:51:51Z",
   "git_url": "git://github.com/zitadel/zitadel.git",
   "ssh_url": "git@github.com:zitadel/zitadel.git",
   "clone_url": "https://github.com/zitadel/zitadel.git",
   "svn_url": "https://github.com/zitadel/zitadel",
   "homepage": "https://zitadel.com",
-  "size": 422487,
-  "stargazers_count": 4751,
-  "watchers_count": 4751,
+  "size": 422433,
+  "stargazers_count": 4787,
+  "watchers_count": 4787,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 453,
+  "open_issues_count": 442,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -115,8 +115,8 @@
   ],
   "visibility": "public",
   "forks": 274,
-  "open_issues": 453,
-  "watchers": 4751,
+  "open_issues": 442,
+  "watchers": 4787,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 510
+  "_index": 511
 }

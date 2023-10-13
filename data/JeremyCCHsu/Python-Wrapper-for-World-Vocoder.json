@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/JeremyCCHsu/Python-Wrapper-for-World-Vocoder/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JeremyCCHsu/Python-Wrapper-for-World-Vocoder/deployments",
   "created_at": "2016-05-24T12:25:34Z",
-  "updated_at": "2023-10-09T06:21:41Z",
+  "updated_at": "2023-10-12T14:45:09Z",
   "pushed_at": "2023-09-25T08:44:08Z",
   "git_url": "git://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder.git",
   "ssh_url": "git@github.com:JeremyCCHsu/Python-Wrapper-for-World-Vocoder.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder",
   "homepage": null,
   "size": 128,
-  "stargazers_count": 658,
-  "watchers_count": 658,
+  "stargazers_count": 659,
+  "watchers_count": 659,
   "language": "Cython",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 116,
   "open_issues": 15,
-  "watchers": 658,
+  "watchers": 659,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 441
+  "_index": 442
 }

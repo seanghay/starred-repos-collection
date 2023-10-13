@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/taixiang/tabScroll/releases{/id}",
   "deployments_url": "https://api.github.com/repos/taixiang/tabScroll/deployments",
   "created_at": "2018-07-22T02:28:49Z",
-  "updated_at": "2023-05-31T02:02:11Z",
+  "updated_at": "2023-10-12T09:01:56Z",
   "pushed_at": "2018-08-05T02:54:17Z",
   "git_url": "git://github.com/taixiang/tabScroll.git",
   "ssh_url": "git@github.com:taixiang/tabScroll.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/taixiang/tabScroll",
   "homepage": null,
   "size": 142,
-  "stargazers_count": 159,
-  "watchers_count": 159,
+  "stargazers_count": 160,
+  "watchers_count": 160,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 37,
+  "forks_count": 38,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -93,9 +93,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 37,
+  "forks": 38,
   "open_issues": 3,
-  "watchers": 159,
+  "watchers": 160,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2035
+  "_index": 2036
 }

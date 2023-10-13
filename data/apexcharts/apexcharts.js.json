@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/apexcharts/apexcharts.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/apexcharts/apexcharts.js/deployments",
   "created_at": "2018-07-24T15:22:23Z",
-  "updated_at": "2023-10-11T22:14:08Z",
-  "pushed_at": "2023-10-06T09:53:13Z",
+  "updated_at": "2023-10-12T14:43:57Z",
+  "pushed_at": "2023-10-12T15:59:10Z",
   "git_url": "git://github.com/apexcharts/apexcharts.js.git",
   "ssh_url": "git@github.com:apexcharts/apexcharts.js.git",
   "clone_url": "https://github.com/apexcharts/apexcharts.js.git",
   "svn_url": "https://github.com/apexcharts/apexcharts.js",
   "homepage": "https://apexcharts.com",
-  "size": 56948,
+  "size": 56959,
   "stargazers_count": 12930,
   "watchers_count": 12930,
   "language": "JavaScript",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3079
+  "_index": 3080
 }

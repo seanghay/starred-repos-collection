@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mravanelli/SincNet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mravanelli/SincNet/deployments",
   "created_at": "2018-07-10T19:54:09Z",
-  "updated_at": "2023-10-02T03:29:26Z",
+  "updated_at": "2023-10-12T06:03:02Z",
   "pushed_at": "2021-04-28T07:54:52Z",
   "git_url": "git://github.com/mravanelli/SincNet.git",
   "ssh_url": "git@github.com:mravanelli/SincNet.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mravanelli/SincNet",
   "homepage": "",
   "size": 82780,
-  "stargazers_count": 1056,
-  "watchers_count": 1056,
+  "stargazers_count": 1057,
+  "watchers_count": 1057,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -122,7 +122,7 @@
   "visibility": "public",
   "forks": 251,
   "open_issues": 33,
-  "watchers": 1056,
+  "watchers": 1057,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 184
+  "_index": 185
 }

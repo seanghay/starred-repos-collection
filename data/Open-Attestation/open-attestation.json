@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/Open-Attestation/open-attestation/deployments",
   "created_at": "2018-07-31T03:50:18Z",
   "updated_at": "2023-10-08T02:56:58Z",
-  "pushed_at": "2023-09-07T02:30:41Z",
+  "pushed_at": "2023-10-12T10:14:03Z",
   "git_url": "git://github.com/Open-Attestation/open-attestation.git",
   "ssh_url": "git@github.com:Open-Attestation/open-attestation.git",
   "clone_url": "https://github.com/Open-Attestation/open-attestation.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 18,
+  "forks_count": 20,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,7 +105,7 @@
     "signature"
   ],
   "visibility": "public",
-  "forks": 18,
+  "forks": 20,
   "open_issues": 47,
   "watchers": 44,
   "default_branch": "master",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1029
+  "_index": 1030
 }

@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 38,
+  "forks_count": 39,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,7 +108,7 @@
     "wifi"
   ],
   "visibility": "public",
-  "forks": 38,
+  "forks": 39,
   "open_issues": 10,
   "watchers": 188,
   "default_branch": "RxJava2.x",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2540
+  "_index": 2541
 }

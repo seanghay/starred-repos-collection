@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/chomeyama/SiFiGAN/releases{/id}",
   "deployments_url": "https://api.github.com/repos/chomeyama/SiFiGAN/deployments",
   "created_at": "2022-10-26T15:01:39Z",
-  "updated_at": "2023-10-10T03:09:21Z",
+  "updated_at": "2023-10-12T09:22:08Z",
   "pushed_at": "2023-07-29T16:21:40Z",
   "git_url": "git://github.com/chomeyama/SiFiGAN.git",
   "ssh_url": "git@github.com:chomeyama/SiFiGAN.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/chomeyama/SiFiGAN",
   "homepage": null,
   "size": 1253,
-  "stargazers_count": 201,
-  "watchers_count": 201,
+  "stargazers_count": 202,
+  "watchers_count": 202,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 29,
+  "forks_count": 30,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 29,
+  "forks": 30,
   "open_issues": 1,
-  "watchers": 201,
+  "watchers": 202,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 293
+  "_index": 294
 }

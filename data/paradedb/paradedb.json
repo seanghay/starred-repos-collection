@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/paradedb/paradedb/releases{/id}",
   "deployments_url": "https://api.github.com/repos/paradedb/paradedb/deployments",
   "created_at": "2023-06-30T20:21:47Z",
-  "updated_at": "2023-10-12T01:24:49Z",
-  "pushed_at": "2023-10-12T01:20:54Z",
+  "updated_at": "2023-10-13T01:32:05Z",
+  "pushed_at": "2023-10-12T22:36:22Z",
   "git_url": "git://github.com/paradedb/paradedb.git",
   "ssh_url": "git@github.com:paradedb/paradedb.git",
   "clone_url": "https://github.com/paradedb/paradedb.git",
   "svn_url": "https://github.com/paradedb/paradedb",
   "homepage": "https://paradedb.com",
-  "size": 2392,
-  "stargazers_count": 1312,
-  "watchers_count": 1312,
+  "size": 2618,
+  "stargazers_count": 1363,
+  "watchers_count": 1363,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 32,
+  "forks_count": 33,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -120,9 +120,9 @@
     "vectors"
   ],
   "visibility": "public",
-  "forks": 32,
+  "forks": 33,
   "open_issues": 29,
-  "watchers": 1312,
+  "watchers": 1363,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3
+  "_index": 4
 }

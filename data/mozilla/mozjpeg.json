@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/mozilla/mozjpeg/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mozilla/mozjpeg/deployments",
   "created_at": "2014-01-12T06:25:02Z",
-  "updated_at": "2023-10-10T01:06:38Z",
-  "pushed_at": "2023-09-23T21:30:32Z",
+  "updated_at": "2023-10-12T12:50:14Z",
+  "pushed_at": "2023-10-12T16:55:42Z",
   "git_url": "git://github.com/mozilla/mozjpeg.git",
   "ssh_url": "git@github.com:mozilla/mozjpeg.git",
   "clone_url": "https://github.com/mozilla/mozjpeg.git",
   "svn_url": "https://github.com/mozilla/mozjpeg",
   "homepage": "",
-  "size": 14909,
-  "stargazers_count": 5223,
-  "watchers_count": 5223,
+  "size": 14984,
+  "stargazers_count": 5225,
+  "watchers_count": 5225,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 428,
   "open_issues": 92,
-  "watchers": 5223,
+  "watchers": 5225,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1961
+  "_index": 1962
 }
