@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/rollup/plugins/deployments",
   "created_at": "2019-08-21T15:02:50Z",
   "updated_at": "2023-10-12T14:56:32Z",
-  "pushed_at": "2023-10-12T08:04:56Z",
+  "pushed_at": "2023-10-13T14:34:01Z",
   "git_url": "git://github.com/rollup/plugins.git",
   "ssh_url": "git@github.com:rollup/plugins.git",
   "clone_url": "https://github.com/rollup/plugins.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 35,
+  "open_issues_count": 37,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,7 +104,7 @@
   ],
   "visibility": "public",
   "forks": 533,
-  "open_issues": 35,
+  "open_issues": 37,
   "watchers": 3369,
   "default_branch": "master",
   "permissions": {
