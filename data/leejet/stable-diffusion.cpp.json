@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 112,
+  "forks_count": 113,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -111,7 +111,7 @@
     "txt2img"
   ],
   "visibility": "public",
-  "forks": 112,
+  "forks": 113,
   "open_issues": 23,
   "watchers": 1724,
   "default_branch": "master",

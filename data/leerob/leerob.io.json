@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1248,
+  "forks_count": 1249,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 4,
+  "open_issues_count": 7,
   "license": {
     "key": "other",
     "name": "Other",
@@ -108,8 +108,8 @@
     "vercel"
   ],
   "visibility": "public",
-  "forks": 1248,
-  "open_issues": 4,
+  "forks": 1249,
+  "open_issues": 7,
   "watchers": 6209,
   "default_branch": "main",
   "permissions": {
