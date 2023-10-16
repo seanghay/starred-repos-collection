@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/inokawa/virtua",
-  "description": "A zero-config, fast and small (~3kB) virtual list and grid component for React.",
+  "description": "A zero-config, fast and small (~3kB) virtual list (and grid) component for React.",
   "fork": false,
   "url": "https://api.github.com/repos/inokawa/virtua",
   "forks_url": "https://api.github.com/repos/inokawa/virtua/forks",
@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/inokawa/virtua/releases{/id}",
   "deployments_url": "https://api.github.com/repos/inokawa/virtua/deployments",
   "created_at": "2022-10-11T14:16:42Z",
-  "updated_at": "2023-10-14T06:25:36Z",
-  "pushed_at": "2023-10-14T14:50:28Z",
+  "updated_at": "2023-10-15T14:27:04Z",
+  "pushed_at": "2023-10-15T14:36:52Z",
   "git_url": "git://github.com/inokawa/virtua.git",
   "ssh_url": "git@github.com:inokawa/virtua.git",
   "clone_url": "https://github.com/inokawa/virtua.git",
   "svn_url": "https://github.com/inokawa/virtua",
   "homepage": "https://inokawa.github.io/virtua/",
-  "size": 86325,
+  "size": 83393,
   "stargazers_count": 600,
   "watchers_count": 600,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 26,
+  "open_issues_count": 25,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,7 +112,7 @@
   ],
   "visibility": "public",
   "forks": 13,
-  "open_issues": 26,
+  "open_issues": 25,
   "watchers": 600,
   "default_branch": "main",
   "permissions": {
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 256
+  "_index": 258
 }

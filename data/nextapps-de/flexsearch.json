@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nextapps-de/flexsearch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nextapps-de/flexsearch/deployments",
   "created_at": "2018-02-25T12:40:24Z",
-  "updated_at": "2023-10-14T09:39:47Z",
+  "updated_at": "2023-10-15T17:26:31Z",
   "pushed_at": "2023-09-28T11:33:59Z",
   "git_url": "git://github.com/nextapps-de/flexsearch.git",
   "ssh_url": "git@github.com:nextapps-de/flexsearch.git",
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1260
+  "_index": 1262
 }

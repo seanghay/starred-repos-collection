@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/poolifier/poolifier/releases{/id}",
   "deployments_url": "https://api.github.com/repos/poolifier/poolifier/deployments",
   "created_at": "2020-01-17T10:23:27Z",
-  "updated_at": "2023-10-12T01:29:02Z",
-  "pushed_at": "2023-10-14T17:49:27Z",
+  "updated_at": "2023-10-15T18:35:18Z",
+  "pushed_at": "2023-10-15T22:20:08Z",
   "git_url": "git://github.com/poolifier/poolifier.git",
   "ssh_url": "git@github.com:poolifier/poolifier.git",
   "clone_url": "https://github.com/poolifier/poolifier.git",
   "svn_url": "https://github.com/poolifier/poolifier",
   "homepage": "https://poolifier.github.io/poolifier/",
-  "size": 14596,
-  "stargazers_count": 264,
-  "watchers_count": 264,
+  "size": 14693,
+  "stargazers_count": 266,
+  "watchers_count": 266,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -114,7 +114,7 @@
   "visibility": "public",
   "forks": 12,
   "open_issues": 15,
-  "watchers": 264,
+  "watchers": 266,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 547
+  "_index": 549
 }

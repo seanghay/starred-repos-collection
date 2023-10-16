@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/mozilla/web-ext/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mozilla/web-ext/deployments",
   "created_at": "2016-02-01T18:08:32Z",
-  "updated_at": "2023-10-14T14:25:03Z",
-  "pushed_at": "2023-10-12T09:17:15Z",
+  "updated_at": "2023-10-15T14:57:26Z",
+  "pushed_at": "2023-10-15T18:06:34Z",
   "git_url": "git://github.com/mozilla/web-ext.git",
   "ssh_url": "git@github.com:mozilla/web-ext.git",
   "clone_url": "https://github.com/mozilla/web-ext.git",
   "svn_url": "https://github.com/mozilla/web-ext",
   "homepage": null,
   "size": 10841,
-  "stargazers_count": 2421,
-  "watchers_count": 2421,
+  "stargazers_count": 2422,
+  "watchers_count": 2422,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 340,
+  "forks_count": 341,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 182,
+  "open_issues_count": 183,
   "license": {
     "key": "mpl-2.0",
     "name": "Mozilla Public License 2.0",
@@ -105,9 +105,9 @@
     "webextensions"
   ],
   "visibility": "public",
-  "forks": 340,
-  "open_issues": 182,
-  "watchers": 2421,
+  "forks": 341,
+  "open_issues": 183,
+  "watchers": 2422,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 934
+  "_index": 936
 }

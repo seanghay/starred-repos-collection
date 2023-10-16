@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mebjas/html5-qrcode/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mebjas/html5-qrcode/deployments",
   "created_at": "2015-10-28T17:46:38Z",
-  "updated_at": "2023-10-14T15:23:54Z",
+  "updated_at": "2023-10-15T08:59:01Z",
   "pushed_at": "2023-09-16T06:48:21Z",
   "git_url": "git://github.com/mebjas/html5-qrcode.git",
   "ssh_url": "git@github.com:mebjas/html5-qrcode.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mebjas/html5-qrcode",
   "homepage": "https://qrcode.minhazav.dev",
   "size": 23238,
-  "stargazers_count": 3817,
-  "watchers_count": 3817,
+  "stargazers_count": 3820,
+  "watchers_count": 3820,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 845,
   "open_issues": 283,
-  "watchers": 3817,
+  "watchers": 3820,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 647
+  "_index": 649
 }

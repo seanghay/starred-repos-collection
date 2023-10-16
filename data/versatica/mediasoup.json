@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 48,
+  "open_issues_count": 50,
   "license": {
     "key": "isc",
     "name": "ISC License",
@@ -107,7 +107,7 @@
   ],
   "visibility": "public",
   "forks": 1052,
-  "open_issues": 48,
+  "open_issues": 50,
   "watchers": 5569,
   "default_branch": "v3",
   "permissions": {
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1195
+  "_index": 1197
 }

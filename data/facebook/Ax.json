@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/facebook/Ax/deployments",
   "created_at": "2019-02-09T15:23:44Z",
   "updated_at": "2023-10-14T12:16:03Z",
-  "pushed_at": "2023-10-14T07:13:07Z",
+  "pushed_at": "2023-10-15T07:20:00Z",
   "git_url": "git://github.com/facebook/Ax.git",
   "ssh_url": "git@github.com:facebook/Ax.git",
   "clone_url": "https://github.com/facebook/Ax.git",
   "svn_url": "https://github.com/facebook/Ax",
   "homepage": "https://ax.dev",
-  "size": 335926,
+  "size": 336871,
   "stargazers_count": 2150,
   "watchers_count": 2150,
   "language": "Jupyter Notebook",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 378
+  "_index": 380
 }

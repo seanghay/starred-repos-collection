@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/python-pillow/Pillow/releases{/id}",
   "deployments_url": "https://api.github.com/repos/python-pillow/Pillow/deployments",
   "created_at": "2012-07-24T21:38:39Z",
-  "updated_at": "2023-10-14T21:25:33Z",
-  "pushed_at": "2023-10-14T04:34:13Z",
+  "updated_at": "2023-10-16T01:45:50Z",
+  "pushed_at": "2023-10-15T22:12:02Z",
   "git_url": "git://github.com/python-pillow/Pillow.git",
   "ssh_url": "git@github.com:python-pillow/Pillow.git",
   "clone_url": "https://github.com/python-pillow/Pillow.git",
   "svn_url": "https://github.com/python-pillow/Pillow",
   "homepage": "https://python-pillow.org",
-  "size": 199378,
-  "stargazers_count": 11166,
-  "watchers_count": 11166,
+  "size": 199422,
+  "stargazers_count": 11167,
+  "watchers_count": 11167,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 96,
+  "open_issues_count": 97,
   "license": {
     "key": "other",
     "name": "Other",
@@ -109,8 +109,8 @@
   ],
   "visibility": "public",
   "forks": 2114,
-  "open_issues": 96,
-  "watchers": 11166,
+  "open_issues": 97,
+  "watchers": 11167,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 574
+  "_index": 576
 }

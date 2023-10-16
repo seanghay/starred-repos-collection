@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/dgtlmoon/changedetection.io/releases{/id}",
   "deployments_url": "https://api.github.com/repos/dgtlmoon/changedetection.io/deployments",
   "created_at": "2021-01-27T16:03:30Z",
-  "updated_at": "2023-10-14T22:34:52Z",
+  "updated_at": "2023-10-16T00:55:57Z",
   "pushed_at": "2023-10-14T21:32:49Z",
   "git_url": "git://github.com/dgtlmoon/changedetection.io.git",
   "ssh_url": "git@github.com:dgtlmoon/changedetection.io.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/dgtlmoon/changedetection.io",
   "homepage": "https://changedetection.io",
   "size": 6961,
-  "stargazers_count": 12670,
-  "watchers_count": 12670,
+  "stargazers_count": 12683,
+  "watchers_count": 12683,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 702,
+  "forks_count": 703,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -120,9 +120,9 @@
     "website-monitoring"
   ],
   "visibility": "public",
-  "forks": 702,
+  "forks": 703,
   "open_issues": 165,
-  "watchers": 12670,
+  "watchers": 12683,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 157
+  "_index": 159
 }

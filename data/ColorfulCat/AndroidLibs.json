@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ColorfulCat/AndroidLibs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ColorfulCat/AndroidLibs/deployments",
   "created_at": "2015-11-02T09:15:52Z",
-  "updated_at": "2023-10-14T03:19:39Z",
+  "updated_at": "2023-10-16T00:47:29Z",
   "pushed_at": "2020-04-20T03:29:39Z",
   "git_url": "git://github.com/ColorfulCat/AndroidLibs.git",
   "ssh_url": "git@github.com:ColorfulCat/AndroidLibs.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ColorfulCat/AndroidLibs",
   "homepage": "https://www.xcube.cn",
   "size": 3336,
-  "stargazers_count": 7635,
-  "watchers_count": 7635,
+  "stargazers_count": 7636,
+  "watchers_count": 7636,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1679,
+  "forks_count": 1678,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,9 +110,9 @@
     "view"
   ],
   "visibility": "public",
-  "forks": 1679,
+  "forks": 1678,
   "open_issues": 1,
-  "watchers": 7635,
+  "watchers": 7636,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2509
+  "_index": 2511
 }

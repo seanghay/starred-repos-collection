@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kaituoxu/Conv-TasNet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kaituoxu/Conv-TasNet/deployments",
   "created_at": "2018-12-20T16:00:54Z",
-  "updated_at": "2023-10-14T17:03:28Z",
+  "updated_at": "2023-10-15T04:05:12Z",
   "pushed_at": "2023-04-06T07:59:54Z",
   "git_url": "git://github.com/kaituoxu/Conv-TasNet.git",
   "ssh_url": "git@github.com:kaituoxu/Conv-TasNet.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/kaituoxu/Conv-TasNet",
   "homepage": "",
   "size": 1288,
-  "stargazers_count": 585,
-  "watchers_count": 585,
+  "stargazers_count": 586,
+  "watchers_count": 586,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 148,
   "open_issues": 25,
-  "watchers": 585,
+  "watchers": 586,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 433
+  "_index": 435
 }
