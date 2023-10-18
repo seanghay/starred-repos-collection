@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/NVIDIA/NeMo-text-processing/releases{/id}",
   "deployments_url": "https://api.github.com/repos/NVIDIA/NeMo-text-processing/deployments",
   "created_at": "2022-11-04T20:38:24Z",
-  "updated_at": "2023-10-11T11:56:01Z",
-  "pushed_at": "2023-10-16T22:05:25Z",
+  "updated_at": "2023-10-17T20:26:45Z",
+  "pushed_at": "2023-10-17T15:23:54Z",
   "git_url": "git://github.com/NVIDIA/NeMo-text-processing.git",
   "ssh_url": "git@github.com:NVIDIA/NeMo-text-processing.git",
   "clone_url": "https://github.com/NVIDIA/NeMo-text-processing.git",
   "svn_url": "https://github.com/NVIDIA/NeMo-text-processing",
   "homepage": "https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/nlp/text_normalization/wfst/wfst_text_normalization.html",
   "size": 7735,
-  "stargazers_count": 158,
-  "watchers_count": 158,
+  "stargazers_count": 159,
+  "watchers_count": 159,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 44,
   "open_issues": 9,
-  "watchers": 158,
+  "watchers": 159,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 291
+  "_index": 292
 }

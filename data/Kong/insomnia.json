@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/Kong/insomnia",
-  "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.",
+  "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
   "fork": false,
   "url": "https://api.github.com/repos/Kong/insomnia",
   "forks_url": "https://api.github.com/repos/Kong/insomnia/forks",
@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Kong/insomnia/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Kong/insomnia/deployments",
   "created_at": "2016-04-23T03:54:26Z",
-  "updated_at": "2023-10-17T00:57:40Z",
+  "updated_at": "2023-10-18T00:13:16Z",
   "pushed_at": "2023-10-16T16:14:31Z",
   "git_url": "git://github.com/Kong/insomnia.git",
   "ssh_url": "git@github.com:Kong/insomnia.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Kong/insomnia",
   "homepage": "https://insomnia.rest",
   "size": 122855,
-  "stargazers_count": 30841,
-  "watchers_count": 30841,
+  "stargazers_count": 30843,
+  "watchers_count": 30843,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1736,
+  "forks_count": 1737,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 615,
+  "open_issues_count": 613,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -110,9 +110,9 @@
     "websockets"
   ],
   "visibility": "public",
-  "forks": 1736,
-  "open_issues": 615,
-  "watchers": 30841,
+  "forks": 1737,
+  "open_issues": 613,
+  "watchers": 30843,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2461
+  "_index": 2462
 }

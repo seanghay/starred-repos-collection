@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/break-a-scene/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/break-a-scene/deployments",
   "created_at": "2023-09-13T08:10:12Z",
-  "updated_at": "2023-10-16T12:54:11Z",
+  "updated_at": "2023-10-17T21:28:06Z",
   "pushed_at": "2023-09-21T14:12:49Z",
   "git_url": "git://github.com/google/break-a-scene.git",
   "ssh_url": "git@github.com:google/break-a-scene.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/break-a-scene",
   "homepage": "https://omriavrahami.com/break-a-scene/",
   "size": 13746,
-  "stargazers_count": 366,
-  "watchers_count": 366,
+  "stargazers_count": 369,
+  "watchers_count": 369,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1,
+  "open_issues_count": 0,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 14,
-  "open_issues": 1,
-  "watchers": 366,
+  "open_issues": 0,
+  "watchers": 369,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 36
+  "_index": 37
 }

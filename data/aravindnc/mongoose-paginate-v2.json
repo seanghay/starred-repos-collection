@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/aravindnc/mongoose-paginate-v2.git",
   "svn_url": "https://github.com/aravindnc/mongoose-paginate-v2",
   "homepage": "https://www.npmjs.com/package/mongoose-paginate-v2",
-  "size": 1339,
+  "size": 1482,
   "stargazers_count": 473,
   "watchers_count": 473,
   "language": "JavaScript",
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1311
+  "_index": 1312
 }

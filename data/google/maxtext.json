@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/google/maxtext/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/maxtext/deployments",
   "created_at": "2023-02-28T19:47:29Z",
-  "updated_at": "2023-10-16T17:26:42Z",
-  "pushed_at": "2023-10-17T00:24:46Z",
+  "updated_at": "2023-10-17T23:21:20Z",
+  "pushed_at": "2023-10-18T00:55:47Z",
   "git_url": "git://github.com/google/maxtext.git",
   "ssh_url": "git@github.com:google/maxtext.git",
   "clone_url": "https://github.com/google/maxtext.git",
   "svn_url": "https://github.com/google/maxtext",
   "homepage": "",
-  "size": 2664,
-  "stargazers_count": 379,
-  "watchers_count": 379,
+  "size": 2699,
+  "stargazers_count": 382,
+  "watchers_count": 382,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 36,
+  "forks_count": 37,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 17,
+  "open_issues_count": 20,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -103,9 +103,9 @@
     "llm"
   ],
   "visibility": "public",
-  "forks": 36,
-  "open_issues": 17,
-  "watchers": 379,
+  "forks": 37,
+  "open_issues": 20,
+  "watchers": 382,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 520
+  "_index": 521
 }

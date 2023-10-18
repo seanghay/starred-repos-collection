@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/yume-chan/ya-webadb/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yume-chan/ya-webadb/deployments",
   "created_at": "2020-01-31T08:17:11Z",
-  "updated_at": "2023-10-13T15:30:22Z",
-  "pushed_at": "2023-10-16T05:24:20Z",
+  "updated_at": "2023-10-17T13:05:33Z",
+  "pushed_at": "2023-10-17T13:13:55Z",
   "git_url": "git://github.com/yume-chan/ya-webadb.git",
   "ssh_url": "git@github.com:yume-chan/ya-webadb.git",
   "clone_url": "https://github.com/yume-chan/ya-webadb.git",
   "svn_url": "https://github.com/yume-chan/ya-webadb",
   "homepage": "https://tangoapp.dev/",
-  "size": 246836,
-  "stargazers_count": 1667,
-  "watchers_count": 1667,
+  "size": 246843,
+  "stargazers_count": 1670,
+  "watchers_count": 1670,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 245,
   "open_issues": 17,
-  "watchers": 1667,
+  "watchers": 1670,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1875
+  "_index": 1876
 }

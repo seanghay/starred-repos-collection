@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bytedance/music_source_separation/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bytedance/music_source_separation/deployments",
   "created_at": "2021-05-19T02:02:41Z",
-  "updated_at": "2023-10-16T10:24:16Z",
+  "updated_at": "2023-10-17T08:30:35Z",
   "pushed_at": "2022-10-08T15:55:47Z",
   "git_url": "git://github.com/bytedance/music_source_separation.git",
   "ssh_url": "git@github.com:bytedance/music_source_separation.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/bytedance/music_source_separation",
   "homepage": null,
   "size": 1306,
-  "stargazers_count": 1103,
-  "watchers_count": 1103,
+  "stargazers_count": 1104,
+  "watchers_count": 1104,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 179,
+  "forks_count": 180,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 179,
+  "forks": 180,
   "open_issues": 40,
-  "watchers": 1103,
+  "watchers": 1104,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 586
+  "_index": 587
 }

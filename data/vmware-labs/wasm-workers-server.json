@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/vmware-labs/wasm-workers-server/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vmware-labs/wasm-workers-server/deployments",
   "created_at": "2022-10-10T09:29:34Z",
-  "updated_at": "2023-10-15T08:22:49Z",
-  "pushed_at": "2023-10-16T15:24:47Z",
+  "updated_at": "2023-10-17T15:51:01Z",
+  "pushed_at": "2023-10-17T16:43:10Z",
   "git_url": "git://github.com/vmware-labs/wasm-workers-server.git",
   "ssh_url": "git@github.com:vmware-labs/wasm-workers-server.git",
   "clone_url": "https://github.com/vmware-labs/wasm-workers-server.git",
   "svn_url": "https://github.com/vmware-labs/wasm-workers-server",
   "homepage": "https://workers.wasmlabs.dev",
-  "size": 8834,
-  "stargazers_count": 427,
-  "watchers_count": 427,
+  "size": 10795,
+  "stargazers_count": 428,
+  "watchers_count": 428,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 23,
+  "open_issues_count": 21,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 27,
-  "open_issues": 23,
-  "watchers": 427,
+  "open_issues": 21,
+  "watchers": 428,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 889
+  "_index": 890
 }

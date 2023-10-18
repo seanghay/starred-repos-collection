@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/vercel/edge-runtime/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vercel/edge-runtime/deployments",
   "created_at": "2022-06-28T15:42:20Z",
-  "updated_at": "2023-10-15T17:14:12Z",
-  "pushed_at": "2023-10-16T22:22:34Z",
+  "updated_at": "2023-10-17T12:13:07Z",
+  "pushed_at": "2023-10-17T13:48:27Z",
   "git_url": "git://github.com/vercel/edge-runtime.git",
   "ssh_url": "git@github.com:vercel/edge-runtime.git",
   "clone_url": "https://github.com/vercel/edge-runtime.git",
   "svn_url": "https://github.com/vercel/edge-runtime",
   "homepage": "https://edge-runtime.vercel.app",
-  "size": 3313,
-  "stargazers_count": 665,
-  "watchers_count": 665,
+  "size": 3439,
+  "stargazers_count": 667,
+  "watchers_count": 667,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 17,
+  "open_issues_count": 15,
   "license": {
     "key": "mpl-2.0",
     "name": "Mozilla Public License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 60,
-  "open_issues": 17,
-  "watchers": 665,
+  "open_issues": 15,
+  "watchers": 667,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1096
+  "_index": 1097
 }

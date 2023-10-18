@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Kotlin/kotlinx.serialization/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Kotlin/kotlinx.serialization/deployments",
   "created_at": "2017-07-20T11:25:23Z",
-  "updated_at": "2023-10-16T11:04:14Z",
-  "pushed_at": "2023-10-16T19:59:46Z",
+  "updated_at": "2023-10-17T12:42:16Z",
+  "pushed_at": "2023-10-17T17:35:01Z",
   "git_url": "git://github.com/Kotlin/kotlinx.serialization.git",
   "ssh_url": "git@github.com:Kotlin/kotlinx.serialization.git",
   "clone_url": "https://github.com/Kotlin/kotlinx.serialization.git",
   "svn_url": "https://github.com/Kotlin/kotlinx.serialization",
   "homepage": "",
-  "size": 9596,
-  "stargazers_count": 4782,
-  "watchers_count": 4782,
+  "size": 9600,
+  "stargazers_count": 4785,
+  "watchers_count": 4785,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 619,
+  "forks_count": 620,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 356,
+  "open_issues_count": 358,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -105,9 +105,9 @@
     "serialization"
   ],
   "visibility": "public",
-  "forks": 619,
-  "open_issues": 356,
-  "watchers": 4782,
+  "forks": 620,
+  "open_issues": 358,
+  "watchers": 4785,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2274
+  "_index": 2275
 }

@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/himself65/rich-data.git",
   "svn_url": "https://github.com/himself65/rich-data",
   "homepage": "https://rich-data.dev",
-  "size": 4131,
+  "size": 4404,
   "stargazers_count": 141,
   "watchers_count": 141,
   "language": "TypeScript",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 612
+  "_index": 613
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/NixOS/nix/releases{/id}",
   "deployments_url": "https://api.github.com/repos/NixOS/nix/deployments",
   "created_at": "2012-02-08T10:17:59Z",
-  "updated_at": "2023-10-16T21:08:50Z",
-  "pushed_at": "2023-10-16T22:26:40Z",
+  "updated_at": "2023-10-18T01:11:00Z",
+  "pushed_at": "2023-10-17T22:21:10Z",
   "git_url": "git://github.com/NixOS/nix.git",
   "ssh_url": "git@github.com:NixOS/nix.git",
   "clone_url": "https://github.com/NixOS/nix.git",
   "svn_url": "https://github.com/NixOS/nix",
   "homepage": "https://nixos.org/",
-  "size": 64995,
-  "stargazers_count": 9195,
-  "watchers_count": 9195,
+  "size": 65008,
+  "stargazers_count": 9203,
+  "watchers_count": 9203,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 1236,
   "open_issues": 2899,
-  "watchers": 9195,
+  "watchers": 9203,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1384
+  "_index": 1385
 }

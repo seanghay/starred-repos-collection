@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/querymx/querym/deployments",
   "created_at": "2023-05-15T13:09:55Z",
   "updated_at": "2023-10-10T08:11:49Z",
-  "pushed_at": "2023-10-16T21:45:18Z",
+  "pushed_at": "2023-10-18T01:19:13Z",
   "git_url": "git://github.com/querymx/querym.git",
   "ssh_url": "git@github.com:querymx/querym.git",
   "clone_url": "https://github.com/querymx/querym.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 19,
+  "open_issues_count": 20,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -106,7 +106,7 @@
   ],
   "visibility": "public",
   "forks": 23,
-  "open_issues": 19,
+  "open_issues": 20,
   "watchers": 63,
   "default_branch": "main",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 484
+  "_index": 485
 }

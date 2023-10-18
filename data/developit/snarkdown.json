@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/developit/snarkdown/releases{/id}",
   "deployments_url": "https://api.github.com/repos/developit/snarkdown/deployments",
   "created_at": "2014-11-05T01:16:49Z",
-  "updated_at": "2023-10-14T11:41:59Z",
+  "updated_at": "2023-10-17T13:04:31Z",
   "pushed_at": "2022-11-29T17:36:42Z",
   "git_url": "git://github.com/developit/snarkdown.git",
   "ssh_url": "git@github.com:developit/snarkdown.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/developit/snarkdown",
   "homepage": "http://jsfiddle.net/developit/828w6t1x/",
   "size": 207,
-  "stargazers_count": 2190,
-  "watchers_count": 2190,
+  "stargazers_count": 2191,
+  "watchers_count": 2191,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 128,
   "open_issues": 40,
-  "watchers": 2190,
+  "watchers": 2191,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2101
+  "_index": 2102
 }

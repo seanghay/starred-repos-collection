@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/sqlite/sqlite-wasm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sqlite/sqlite-wasm/deployments",
   "created_at": "2023-04-13T07:24:18Z",
-  "updated_at": "2023-10-16T05:37:48Z",
-  "pushed_at": "2023-10-16T07:49:16Z",
+  "updated_at": "2023-10-17T17:37:46Z",
+  "pushed_at": "2023-10-17T11:35:48Z",
   "git_url": "git://github.com/sqlite/sqlite-wasm.git",
   "ssh_url": "git@github.com:sqlite/sqlite-wasm.git",
   "clone_url": "https://github.com/sqlite/sqlite-wasm.git",
   "svn_url": "https://github.com/sqlite/sqlite-wasm",
   "homepage": "",
-  "size": 1600,
-  "stargazers_count": 203,
-  "watchers_count": 203,
+  "size": 1602,
+  "stargazers_count": 204,
+  "watchers_count": 204,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 0,
+  "open_issues_count": 1,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -104,8 +104,8 @@
   ],
   "visibility": "public",
   "forks": 14,
-  "open_issues": 0,
-  "watchers": 203,
+  "open_issues": 1,
+  "watchers": 204,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 510
+  "_index": 511
 }

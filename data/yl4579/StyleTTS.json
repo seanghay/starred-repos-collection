@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yl4579/StyleTTS/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yl4579/StyleTTS/deployments",
   "created_at": "2022-06-01T00:42:32Z",
-  "updated_at": "2023-10-12T03:48:58Z",
+  "updated_at": "2023-10-17T17:20:38Z",
   "pushed_at": "2023-08-08T20:17:21Z",
   "git_url": "git://github.com/yl4579/StyleTTS.git",
   "ssh_url": "git@github.com:yl4579/StyleTTS.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yl4579/StyleTTS",
   "homepage": "",
   "size": 116484,
-  "stargazers_count": 273,
-  "watchers_count": 273,
+  "stargazers_count": 274,
+  "watchers_count": 274,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 41,
   "open_issues": 4,
-  "watchers": 273,
+  "watchers": 274,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 245
+  "_index": 246
 }

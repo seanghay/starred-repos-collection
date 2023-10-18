@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/PatrickJS/awesome-angular/releases{/id}",
   "deployments_url": "https://api.github.com/repos/PatrickJS/awesome-angular/deployments",
   "created_at": "2015-09-01T05:12:10Z",
-  "updated_at": "2023-10-16T19:15:47Z",
-  "pushed_at": "2023-10-10T21:47:43Z",
+  "updated_at": "2023-10-17T20:30:18Z",
+  "pushed_at": "2023-10-17T20:34:41Z",
   "git_url": "git://github.com/PatrickJS/awesome-angular.git",
   "ssh_url": "git@github.com:PatrickJS/awesome-angular.git",
   "clone_url": "https://github.com/PatrickJS/awesome-angular.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 11,
+  "open_issues_count": 12,
   "license": {
     "key": "cc0-1.0",
     "name": "Creative Commons Zero v1.0 Universal",
@@ -110,7 +110,7 @@
   ],
   "visibility": "public",
   "forks": 1330,
-  "open_issues": 11,
+  "open_issues": 12,
   "watchers": 9076,
   "default_branch": "gh-pages",
   "permissions": {
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3127
+  "_index": 3128
 }

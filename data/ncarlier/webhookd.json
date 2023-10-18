@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/ncarlier/webhookd/deployments",
   "created_at": "2014-09-24T13:05:46Z",
   "updated_at": "2023-10-11T00:32:01Z",
-  "pushed_at": "2023-10-15T06:47:30Z",
+  "pushed_at": "2023-10-17T20:05:14Z",
   "git_url": "git://github.com/ncarlier/webhookd.git",
   "ssh_url": "git@github.com:ncarlier/webhookd.git",
   "clone_url": "https://github.com/ncarlier/webhookd.git",
   "svn_url": "https://github.com/ncarlier/webhookd",
   "homepage": null,
-  "size": 453,
+  "size": 454,
   "stargazers_count": 711,
   "watchers_count": 711,
   "language": "Go",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 13,
+  "open_issues_count": 15,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -111,7 +111,7 @@
   ],
   "visibility": "public",
   "forks": 70,
-  "open_issues": 13,
+  "open_issues": 15,
   "watchers": 711,
   "default_branch": "master",
   "permissions": {
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1430
+  "_index": 1431
 }

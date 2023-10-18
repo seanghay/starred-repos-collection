@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/glushchenko/fsnotes/releases{/id}",
   "deployments_url": "https://api.github.com/repos/glushchenko/fsnotes/deployments",
   "created_at": "2017-07-20T17:16:35Z",
-  "updated_at": "2023-10-16T13:51:23Z",
-  "pushed_at": "2023-10-16T17:56:11Z",
+  "updated_at": "2023-10-17T20:17:51Z",
+  "pushed_at": "2023-10-17T22:38:59Z",
   "git_url": "git://github.com/glushchenko/fsnotes.git",
   "ssh_url": "git@github.com:glushchenko/fsnotes.git",
   "clone_url": "https://github.com/glushchenko/fsnotes.git",
   "svn_url": "https://github.com/glushchenko/fsnotes",
   "homepage": "https://fsnot.es",
-  "size": 39574,
-  "stargazers_count": 5837,
-  "watchers_count": 5837,
+  "size": 39651,
+  "stargazers_count": 5839,
+  "watchers_count": 5839,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 243,
+  "open_issues_count": 242,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 417,
-  "open_issues": 243,
-  "watchers": 5837,
+  "open_issues": 242,
+  "watchers": 5839,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1572
+  "_index": 1573
 }
