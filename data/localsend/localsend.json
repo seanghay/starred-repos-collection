@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/localsend/localsend/releases{/id}",
   "deployments_url": "https://api.github.com/repos/localsend/localsend/deployments",
   "created_at": "2022-12-16T00:46:07Z",
-  "updated_at": "2023-10-18T01:29:40Z",
-  "pushed_at": "2023-10-17T22:06:00Z",
+  "updated_at": "2023-10-19T01:43:28Z",
+  "pushed_at": "2023-10-18T22:56:24Z",
   "git_url": "git://github.com/localsend/localsend.git",
   "ssh_url": "git@github.com:localsend/localsend.git",
   "clone_url": "https://github.com/localsend/localsend.git",
   "svn_url": "https://github.com/localsend/localsend",
   "homepage": "https://localsend.org",
-  "size": 4112,
-  "stargazers_count": 15230,
-  "watchers_count": 15230,
+  "size": 4145,
+  "stargazers_count": 15370,
+  "watchers_count": 15370,
   "language": "Dart",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 808,
+  "forks_count": 814,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 224,
+  "open_issues_count": 225,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -102,9 +102,9 @@
     "flutter"
   ],
   "visibility": "public",
-  "forks": 808,
-  "open_issues": 224,
-  "watchers": 15230,
+  "forks": 814,
+  "open_issues": 225,
+  "watchers": 15370,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 738
+  "_index": 739
 }

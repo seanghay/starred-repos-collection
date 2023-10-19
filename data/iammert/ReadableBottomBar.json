@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/iammert/ReadableBottomBar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/iammert/ReadableBottomBar/deployments",
   "created_at": "2019-03-09T21:47:37Z",
-  "updated_at": "2023-10-10T18:21:58Z",
+  "updated_at": "2023-10-18T16:45:42Z",
   "pushed_at": "2021-11-09T08:44:52Z",
   "git_url": "git://github.com/iammert/ReadableBottomBar.git",
   "ssh_url": "git@github.com:iammert/ReadableBottomBar.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/iammert/ReadableBottomBar",
   "homepage": null,
   "size": 3558,
-  "stargazers_count": 1250,
-  "watchers_count": 1250,
+  "stargazers_count": 1251,
+  "watchers_count": 1251,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 120,
+  "forks_count": 119,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,9 +103,9 @@
     "view"
   ],
   "visibility": "public",
-  "forks": 120,
+  "forks": 119,
   "open_issues": 18,
-  "watchers": 1250,
+  "watchers": 1251,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2934
+  "_index": 2935
 }

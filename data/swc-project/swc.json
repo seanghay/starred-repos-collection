@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/swc-project/swc/releases{/id}",
   "deployments_url": "https://api.github.com/repos/swc-project/swc/deployments",
   "created_at": "2017-12-22T11:40:14Z",
-  "updated_at": "2023-10-17T21:43:21Z",
-  "pushed_at": "2023-10-18T00:07:04Z",
+  "updated_at": "2023-10-18T18:52:34Z",
+  "pushed_at": "2023-10-19T00:15:08Z",
   "git_url": "git://github.com/swc-project/swc.git",
   "ssh_url": "git@github.com:swc-project/swc.git",
   "clone_url": "https://github.com/swc-project/swc.git",
   "svn_url": "https://github.com/swc-project/swc",
   "homepage": "https://swc.rs",
-  "size": 287086,
-  "stargazers_count": 28707,
-  "watchers_count": 28707,
+  "size": 289969,
+  "stargazers_count": 28712,
+  "watchers_count": 28712,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 340,
+  "open_issues_count": 341,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -112,8 +112,8 @@
   ],
   "visibility": "public",
   "forks": 1075,
-  "open_issues": 340,
-  "watchers": 28707,
+  "open_issues": 341,
+  "watchers": 28712,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 841
+  "_index": 842
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/werman/noise-suppression-for-voice/releases{/id}",
   "deployments_url": "https://api.github.com/repos/werman/noise-suppression-for-voice/deployments",
   "created_at": "2018-01-21T20:21:13Z",
-  "updated_at": "2023-10-17T16:39:58Z",
+  "updated_at": "2023-10-18T21:03:21Z",
   "pushed_at": "2023-04-19T01:45:02Z",
   "git_url": "git://github.com/werman/noise-suppression-for-voice.git",
   "ssh_url": "git@github.com:werman/noise-suppression-for-voice.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 187,
+  "forks_count": 188,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,7 +109,7 @@
     "vst3-plugin"
   ],
   "visibility": "public",
-  "forks": 187,
+  "forks": 188,
   "open_issues": 67,
   "watchers": 3922,
   "default_branch": "master",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 209
+  "_index": 210
 }

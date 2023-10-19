@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/pyf98/DPHuBERT.git",
   "svn_url": "https://github.com/pyf98/DPHuBERT",
   "homepage": "",
-  "size": 1743,
+  "size": 1717,
   "stargazers_count": 66,
   "watchers_count": 66,
   "language": "Python",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 102
+  "_index": 103
 }

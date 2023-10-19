@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/PrudhviGNV/Speech-Emotion-Recognization/releases{/id}",
   "deployments_url": "https://api.github.com/repos/PrudhviGNV/Speech-Emotion-Recognization/deployments",
   "created_at": "2020-08-15T18:13:08Z",
-  "updated_at": "2023-10-13T07:38:23Z",
+  "updated_at": "2023-10-18T05:07:40Z",
   "pushed_at": "2020-09-15T03:08:16Z",
   "git_url": "git://github.com/PrudhviGNV/Speech-Emotion-Recognization.git",
   "ssh_url": "git@github.com:PrudhviGNV/Speech-Emotion-Recognization.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/PrudhviGNV/Speech-Emotion-Recognization",
   "homepage": "",
   "size": 685,
-  "stargazers_count": 21,
-  "watchers_count": 21,
+  "stargazers_count": 22,
+  "watchers_count": 22,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 4,
   "open_issues": 2,
-  "watchers": 21,
+  "watchers": 22,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 144
+  "_index": 145
 }

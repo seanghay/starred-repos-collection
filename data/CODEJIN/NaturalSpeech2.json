@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/CODEJIN/NaturalSpeech2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/CODEJIN/NaturalSpeech2/deployments",
   "created_at": "2023-05-04T06:31:58Z",
-  "updated_at": "2023-10-13T13:22:04Z",
+  "updated_at": "2023-10-18T12:15:10Z",
   "pushed_at": "2023-10-11T14:01:26Z",
   "git_url": "git://github.com/CODEJIN/NaturalSpeech2.git",
   "ssh_url": "git@github.com:CODEJIN/NaturalSpeech2.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/CODEJIN/NaturalSpeech2",
   "homepage": null,
   "size": 62790,
-  "stargazers_count": 98,
-  "watchers_count": 98,
+  "stargazers_count": 99,
+  "watchers_count": 99,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 12,
+  "forks_count": 13,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 3,
+  "open_issues_count": 2,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 12,
-  "open_issues": 3,
-  "watchers": 98,
+  "forks": 13,
+  "open_issues": 2,
+  "watchers": 99,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 52
+  "_index": 53
 }

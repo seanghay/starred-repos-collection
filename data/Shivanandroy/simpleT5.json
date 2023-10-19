@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Shivanandroy/simpleT5/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Shivanandroy/simpleT5/deployments",
   "created_at": "2021-05-28T08:23:12Z",
-  "updated_at": "2023-10-07T18:22:17Z",
+  "updated_at": "2023-10-18T05:50:06Z",
   "pushed_at": "2023-05-19T08:06:50Z",
   "git_url": "git://github.com/Shivanandroy/simpleT5.git",
   "ssh_url": "git@github.com:Shivanandroy/simpleT5.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Shivanandroy/simpleT5",
   "homepage": "",
   "size": 369,
-  "stargazers_count": 348,
-  "watchers_count": 348,
+  "stargazers_count": 350,
+  "watchers_count": 350,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 58,
+  "forks_count": 59,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -111,9 +111,9 @@
     "translation"
   ],
   "visibility": "public",
-  "forks": 58,
+  "forks": 59,
   "open_issues": 33,
-  "watchers": 348,
+  "watchers": 350,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 512
+  "_index": 513
 }

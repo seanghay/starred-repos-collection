@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Cuberto/bubble-icon-tabbar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Cuberto/bubble-icon-tabbar/deployments",
   "created_at": "2019-02-08T10:22:34Z",
-  "updated_at": "2023-10-10T03:25:05Z",
+  "updated_at": "2023-10-18T21:10:09Z",
   "pushed_at": "2020-06-08T07:19:13Z",
   "git_url": "git://github.com/Cuberto/bubble-icon-tabbar.git",
   "ssh_url": "git@github.com:Cuberto/bubble-icon-tabbar.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Cuberto/bubble-icon-tabbar",
   "homepage": null,
   "size": 15930,
-  "stargazers_count": 1073,
-  "watchers_count": 1073,
+  "stargazers_count": 1072,
+  "watchers_count": 1072,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 104,
   "open_issues": 18,
-  "watchers": 1073,
+  "watchers": 1072,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2931
+  "_index": 2932
 }

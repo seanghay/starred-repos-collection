@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/suhitaghosh10/emo-stargan/releases{/id}",
   "deployments_url": "https://api.github.com/repos/suhitaghosh10/emo-stargan/deployments",
   "created_at": "2023-05-22T09:49:06Z",
-  "updated_at": "2023-10-17T18:14:56Z",
+  "updated_at": "2023-10-18T11:37:27Z",
   "pushed_at": "2023-09-22T22:51:17Z",
   "git_url": "git://github.com/suhitaghosh10/emo-stargan.git",
   "ssh_url": "git@github.com:suhitaghosh10/emo-stargan.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 124
+  "_index": 125
 }

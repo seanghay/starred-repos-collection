@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Yasic/ParticleTextView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Yasic/ParticleTextView/deployments",
   "created_at": "2017-05-05T16:12:39Z",
-  "updated_at": "2023-09-12T06:41:54Z",
+  "updated_at": "2023-10-18T08:39:25Z",
   "pushed_at": "2017-05-31T16:23:21Z",
   "git_url": "git://github.com/Yasic/ParticleTextView.git",
   "ssh_url": "git@github.com:Yasic/ParticleTextView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Yasic/ParticleTextView",
   "homepage": "",
   "size": 48025,
-  "stargazers_count": 1314,
-  "watchers_count": 1314,
+  "stargazers_count": 1315,
+  "watchers_count": 1315,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -99,7 +99,7 @@
   "visibility": "public",
   "forks": 196,
   "open_issues": 11,
-  "watchers": 1314,
+  "watchers": 1315,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -108,5 +108,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2500
+  "_index": 2501
 }
