@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/microg/GmsCore/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microg/GmsCore/deployments",
   "created_at": "2014-04-23T19:28:47Z",
-  "updated_at": "2023-10-19T01:12:47Z",
+  "updated_at": "2023-10-20T01:14:03Z",
   "pushed_at": "2023-10-12T11:34:42Z",
   "git_url": "git://github.com/microg/GmsCore.git",
   "ssh_url": "git@github.com:microg/GmsCore.git",
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1645
+  "_index": 1647
 }

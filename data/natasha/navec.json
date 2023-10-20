@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/natasha/navec/releases{/id}",
   "deployments_url": "https://api.github.com/repos/natasha/navec/deployments",
   "created_at": "2019-05-30T14:13:18Z",
-  "updated_at": "2023-10-17T19:29:59Z",
+  "updated_at": "2023-10-19T12:58:57Z",
   "pushed_at": "2023-07-24T09:22:26Z",
   "git_url": "git://github.com/natasha/navec.git",
   "ssh_url": "git@github.com:natasha/navec.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/natasha/navec",
   "homepage": "",
   "size": 1946,
-  "stargazers_count": 147,
-  "watchers_count": 147,
+  "stargazers_count": 148,
+  "watchers_count": 148,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 16,
   "open_issues": 4,
-  "watchers": 147,
+  "watchers": 148,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 152
+  "_index": 154
 }

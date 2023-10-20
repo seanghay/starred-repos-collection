@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/iammert/StatusView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/iammert/StatusView/deployments",
   "created_at": "2017-01-26T15:01:57Z",
-  "updated_at": "2023-10-18T16:59:19Z",
+  "updated_at": "2023-10-19T06:44:25Z",
   "pushed_at": "2018-03-07T06:41:54Z",
   "git_url": "git://github.com/iammert/StatusView.git",
   "ssh_url": "git@github.com:iammert/StatusView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/iammert/StatusView",
   "homepage": null,
   "size": 591,
-  "stargazers_count": 782,
-  "watchers_count": 782,
+  "stargazers_count": 783,
+  "watchers_count": 783,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -99,7 +99,7 @@
   "visibility": "public",
   "forks": 84,
   "open_issues": 3,
-  "watchers": 782,
+  "watchers": 783,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -108,5 +108,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2870
+  "_index": 2872
 }

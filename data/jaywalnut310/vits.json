@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jaywalnut310/vits/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jaywalnut310/vits/deployments",
   "created_at": "2021-05-26T23:38:12Z",
-  "updated_at": "2023-10-18T17:54:52Z",
+  "updated_at": "2023-10-19T16:13:21Z",
   "pushed_at": "2023-07-04T06:03:57Z",
   "git_url": "git://github.com/jaywalnut310/vits.git",
   "ssh_url": "git@github.com:jaywalnut310/vits.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jaywalnut310/vits",
   "homepage": "https://jaywalnut310.github.io/vits-demo/index.html",
   "size": 3423,
-  "stargazers_count": 5296,
-  "watchers_count": 5296,
+  "stargazers_count": 5299,
+  "watchers_count": 5299,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1062,
+  "forks_count": 1061,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 136,
+  "open_issues_count": 137,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,9 +105,9 @@
     "tts"
   ],
   "visibility": "public",
-  "forks": 1062,
-  "open_issues": 136,
-  "watchers": 5296,
+  "forks": 1061,
+  "open_issues": 137,
+  "watchers": 5299,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 602
+  "_index": 604
 }

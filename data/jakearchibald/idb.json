@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jakearchibald/idb/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jakearchibald/idb/deployments",
   "created_at": "2015-08-06T15:02:03Z",
-  "updated_at": "2023-10-18T17:22:58Z",
+  "updated_at": "2023-10-20T00:53:31Z",
   "pushed_at": "2023-03-08T09:11:11Z",
   "git_url": "git://github.com/jakearchibald/idb.git",
   "ssh_url": "git@github.com:jakearchibald/idb.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jakearchibald/idb",
   "homepage": "https://www.npmjs.com/package/idb",
   "size": 649,
-  "stargazers_count": 5558,
-  "watchers_count": 5558,
+  "stargazers_count": 5560,
+  "watchers_count": 5560,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 344,
+  "forks_count": 345,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 344,
+  "forks": 345,
   "open_issues": 29,
-  "watchers": 5558,
+  "watchers": 5560,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 519
+  "_index": 521
 }

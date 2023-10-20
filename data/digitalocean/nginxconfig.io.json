@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/digitalocean/nginxconfig.io/releases{/id}",
   "deployments_url": "https://api.github.com/repos/digitalocean/nginxconfig.io/deployments",
   "created_at": "2018-01-05T14:21:14Z",
-  "updated_at": "2023-10-18T19:51:38Z",
+  "updated_at": "2023-10-20T01:37:03Z",
   "pushed_at": "2023-10-16T17:56:30Z",
   "git_url": "git://github.com/digitalocean/nginxconfig.io.git",
   "ssh_url": "git@github.com:digitalocean/nginxconfig.io.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/digitalocean/nginxconfig.io",
   "homepage": "https://do.co/nginxconfig",
   "size": 7848,
-  "stargazers_count": 26319,
-  "watchers_count": 26319,
+  "stargazers_count": 26321,
+  "watchers_count": 26321,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1958,
+  "forks_count": 1957,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 44,
+  "open_issues_count": 46,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -120,9 +120,9 @@
     "wordpress"
   ],
   "visibility": "public",
-  "forks": 1958,
-  "open_issues": 44,
-  "watchers": 26319,
+  "forks": 1957,
+  "open_issues": 46,
+  "watchers": 26321,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1122
+  "_index": 1124
 }

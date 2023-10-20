@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nytimes/react-prosemirror/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nytimes/react-prosemirror/deployments",
   "created_at": "2023-02-06T21:54:16Z",
-  "updated_at": "2023-10-18T00:57:54Z",
+  "updated_at": "2023-10-19T08:15:38Z",
   "pushed_at": "2023-10-13T22:11:48Z",
   "git_url": "git://github.com/nytimes/react-prosemirror.git",
   "ssh_url": "git@github.com:nytimes/react-prosemirror.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 10
+  "_index": 12
 }

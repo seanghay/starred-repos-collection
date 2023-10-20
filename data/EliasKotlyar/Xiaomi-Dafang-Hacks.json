@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/EliasKotlyar/Xiaomi-Dafang-Hacks/releases{/id}",
   "deployments_url": "https://api.github.com/repos/EliasKotlyar/Xiaomi-Dafang-Hacks/deployments",
   "created_at": "2017-10-20T18:11:04Z",
-  "updated_at": "2023-10-18T11:15:54Z",
+  "updated_at": "2023-10-19T17:25:57Z",
   "pushed_at": "2023-08-13T11:25:50Z",
   "git_url": "git://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks.git",
   "ssh_url": "git@github.com:EliasKotlyar/Xiaomi-Dafang-Hacks.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks",
   "homepage": null,
   "size": 357401,
-  "stargazers_count": 4024,
-  "watchers_count": 4024,
+  "stargazers_count": 4025,
+  "watchers_count": 4025,
   "language": "Shell",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 49,
+  "open_issues_count": 48,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -94,8 +94,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 1005,
-  "open_issues": 49,
-  "watchers": 4024,
+  "open_issues": 48,
+  "watchers": 4025,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1583
+  "_index": 1585
 }

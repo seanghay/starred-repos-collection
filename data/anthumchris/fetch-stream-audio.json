@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/anthumchris/fetch-stream-audio/releases{/id}",
   "deployments_url": "https://api.github.com/repos/anthumchris/fetch-stream-audio/deployments",
   "created_at": "2018-03-15T03:41:37Z",
-  "updated_at": "2023-10-14T17:10:47Z",
+  "updated_at": "2023-10-19T19:08:25Z",
   "pushed_at": "2023-03-04T05:29:14Z",
   "git_url": "git://github.com/anthumchris/fetch-stream-audio.git",
   "ssh_url": "git@github.com:anthumchris/fetch-stream-audio.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/anthumchris/fetch-stream-audio",
   "homepage": "https://fetch-stream-audio.anthum.com",
   "size": 944,
-  "stargazers_count": 300,
-  "watchers_count": 300,
+  "stargazers_count": 301,
+  "watchers_count": 301,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -114,7 +114,7 @@
   "visibility": "public",
   "forks": 22,
   "open_issues": 15,
-  "watchers": 300,
+  "watchers": 301,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 650
+  "_index": 652
 }

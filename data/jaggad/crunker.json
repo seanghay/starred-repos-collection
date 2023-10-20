@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jaggad/crunker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jaggad/crunker/deployments",
   "created_at": "2017-04-24T06:08:49Z",
-  "updated_at": "2023-10-18T04:48:10Z",
+  "updated_at": "2023-10-19T19:26:23Z",
   "pushed_at": "2023-10-18T17:59:48Z",
   "git_url": "git://github.com/jaggad/crunker.git",
   "ssh_url": "git@github.com:jaggad/crunker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jaggad/crunker",
   "homepage": "https://jaggad.github.io/crunker/examples/client/",
   "size": 2883,
-  "stargazers_count": 315,
-  "watchers_count": 315,
+  "stargazers_count": 317,
+  "watchers_count": 317,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 50,
+  "forks_count": 51,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,9 +106,9 @@
     "webaudio-api"
   ],
   "visibility": "public",
-  "forks": 50,
+  "forks": 51,
   "open_issues": 15,
-  "watchers": 315,
+  "watchers": 317,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 595
+  "_index": 597
 }

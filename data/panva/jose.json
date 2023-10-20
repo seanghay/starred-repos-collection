@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/panva/jose/releases{/id}",
   "deployments_url": "https://api.github.com/repos/panva/jose/deployments",
   "created_at": "2018-11-06T08:46:01Z",
-  "updated_at": "2023-10-18T20:27:28Z",
-  "pushed_at": "2023-10-18T11:23:48Z",
+  "updated_at": "2023-10-19T19:05:51Z",
+  "pushed_at": "2023-10-19T10:31:04Z",
   "git_url": "git://github.com/panva/jose.git",
   "ssh_url": "git@github.com:panva/jose.git",
   "clone_url": "https://github.com/panva/jose.git",
   "svn_url": "https://github.com/panva/jose",
   "homepage": "",
-  "size": 11642,
-  "stargazers_count": 3998,
-  "watchers_count": 3998,
+  "size": 11698,
+  "stargazers_count": 4002,
+  "watchers_count": 4002,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -120,7 +120,7 @@
   "visibility": "public",
   "forks": 291,
   "open_issues": 0,
-  "watchers": 3998,
+  "watchers": 4002,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 765
+  "_index": 767
 }

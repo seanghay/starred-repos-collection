@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 176,
+  "forks_count": 177,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 40,
+  "open_issues_count": 41,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,8 +104,8 @@
     "vscode"
   ],
   "visibility": "public",
-  "forks": 176,
-  "open_issues": 40,
+  "forks": 177,
+  "open_issues": 41,
   "watchers": 1814,
   "default_branch": "main",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2090
+  "_index": 2092
 }

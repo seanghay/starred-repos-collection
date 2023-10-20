@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/resendlabs/react-email/releases{/id}",
   "deployments_url": "https://api.github.com/repos/resendlabs/react-email/deployments",
   "created_at": "2022-09-19T19:24:54Z",
-  "updated_at": "2023-10-19T00:35:32Z",
+  "updated_at": "2023-10-19T23:57:02Z",
   "pushed_at": "2023-10-18T19:28:30Z",
   "git_url": "git://github.com/resendlabs/react-email.git",
   "ssh_url": "git@github.com:resendlabs/react-email.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/resendlabs/react-email",
   "homepage": "https://react.email",
   "size": 54160,
-  "stargazers_count": 9773,
-  "watchers_count": 9773,
+  "stargazers_count": 9805,
+  "watchers_count": 9805,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 423,
+  "forks_count": 422,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 89,
+  "open_issues_count": 91,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 423,
-  "open_issues": 89,
-  "watchers": 9773,
+  "forks": 422,
+  "open_issues": 91,
+  "watchers": 9805,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 812
+  "_index": 814
 }

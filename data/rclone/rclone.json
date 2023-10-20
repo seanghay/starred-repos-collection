@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/rclone/rclone/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rclone/rclone/deployments",
   "created_at": "2014-03-16T16:19:57Z",
-  "updated_at": "2023-10-19T00:07:51Z",
-  "pushed_at": "2023-10-18T16:55:59Z",
+  "updated_at": "2023-10-20T01:29:07Z",
+  "pushed_at": "2023-10-19T16:50:11Z",
   "git_url": "git://github.com/rclone/rclone.git",
   "ssh_url": "git@github.com:rclone/rclone.git",
   "clone_url": "https://github.com/rclone/rclone.git",
   "svn_url": "https://github.com/rclone/rclone",
   "homepage": "https://rclone.org",
-  "size": 182225,
-  "stargazers_count": 40780,
-  "watchers_count": 40780,
+  "size": 183543,
+  "stargazers_count": 40791,
+  "watchers_count": 40791,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3736,
+  "forks_count": 3737,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 917,
+  "open_issues_count": 920,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -120,9 +120,9 @@
     "webdav"
   ],
   "visibility": "public",
-  "forks": 3736,
-  "open_issues": 917,
-  "watchers": 40780,
+  "forks": 3737,
+  "open_issues": 920,
+  "watchers": 40791,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 563
+  "_index": 565
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/graphile/worker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/graphile/worker/deployments",
   "created_at": "2019-03-01T16:17:46Z",
-  "updated_at": "2023-10-18T16:27:09Z",
-  "pushed_at": "2023-10-18T16:26:11Z",
+  "updated_at": "2023-10-19T17:58:40Z",
+  "pushed_at": "2023-10-19T10:41:52Z",
   "git_url": "git://github.com/graphile/worker.git",
   "ssh_url": "git@github.com:graphile/worker.git",
   "clone_url": "https://github.com/graphile/worker.git",
   "svn_url": "https://github.com/graphile/worker",
   "homepage": "http://worker.graphile.org/",
-  "size": 2143,
-  "stargazers_count": 1427,
-  "watchers_count": 1427,
+  "size": 2166,
+  "stargazers_count": 1428,
+  "watchers_count": 1428,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 46,
+  "open_issues_count": 39,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,8 +109,8 @@
   ],
   "visibility": "public",
   "forks": 79,
-  "open_issues": 46,
-  "watchers": 1427,
+  "open_issues": 39,
+  "watchers": 1428,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2160
+  "_index": 2162
 }
