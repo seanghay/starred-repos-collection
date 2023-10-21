@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/fent/node-ytdl/deployments",
   "created_at": "2012-07-16T22:57:47Z",
   "updated_at": "2023-10-17T08:30:31Z",
-  "pushed_at": "2023-07-21T05:42:52Z",
+  "pushed_at": "2023-10-20T03:56:28Z",
   "git_url": "git://github.com/fent/node-ytdl.git",
   "ssh_url": "git@github.com:fent/node-ytdl.git",
   "clone_url": "https://github.com/fent/node-ytdl.git",
   "svn_url": "https://github.com/fent/node-ytdl",
   "homepage": "",
-  "size": 2493,
+  "size": 2522,
   "stargazers_count": 1190,
   "watchers_count": 1190,
   "language": "JavaScript",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 670
+  "_index": 675
 }

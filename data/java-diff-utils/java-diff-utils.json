@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/java-diff-utils/java-diff-utils/releases{/id}",
   "deployments_url": "https://api.github.com/repos/java-diff-utils/java-diff-utils/deployments",
   "created_at": "2017-03-30T05:47:23Z",
-  "updated_at": "2023-10-19T15:32:09Z",
+  "updated_at": "2023-10-20T05:41:22Z",
   "pushed_at": "2023-10-09T14:24:00Z",
   "git_url": "git://github.com/java-diff-utils/java-diff-utils.git",
   "ssh_url": "git@github.com:java-diff-utils/java-diff-utils.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/java-diff-utils/java-diff-utils",
   "homepage": "https://java-diff-utils.github.io/java-diff-utils/",
   "size": 2984,
-  "stargazers_count": 1106,
-  "watchers_count": 1106,
+  "stargazers_count": 1108,
+  "watchers_count": 1108,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 7,
+  "open_issues_count": 8,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -111,8 +111,8 @@
   ],
   "visibility": "public",
   "forks": 200,
-  "open_issues": 7,
-  "watchers": 1106,
+  "open_issues": 8,
+  "watchers": 1108,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2553
+  "_index": 2558
 }

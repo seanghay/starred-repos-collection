@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/square/wire/releases{/id}",
   "deployments_url": "https://api.github.com/repos/square/wire/deployments",
   "created_at": "2013-08-21T15:45:47Z",
-  "updated_at": "2023-10-18T15:19:15Z",
-  "pushed_at": "2023-10-19T17:09:14Z",
+  "updated_at": "2023-10-20T21:21:38Z",
+  "pushed_at": "2023-10-20T16:10:59Z",
   "git_url": "git://github.com/square/wire.git",
   "ssh_url": "git@github.com:square/wire.git",
   "clone_url": "https://github.com/square/wire.git",
   "svn_url": "https://github.com/square/wire",
   "homepage": "https://square.github.io/wire/",
-  "size": 29428,
-  "stargazers_count": 4091,
-  "watchers_count": 4091,
+  "size": 29456,
+  "stargazers_count": 4092,
+  "watchers_count": 4092,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 136,
+  "open_issues_count": 137,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 600,
-  "open_issues": 136,
-  "watchers": 4091,
+  "open_issues": 137,
+  "watchers": 4092,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2057
+  "_index": 2062
 }

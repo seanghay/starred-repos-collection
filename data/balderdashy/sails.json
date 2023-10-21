@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/balderdashy/sails/releases{/id}",
   "deployments_url": "https://api.github.com/repos/balderdashy/sails/deployments",
   "created_at": "2012-03-18T19:46:15Z",
-  "updated_at": "2023-10-18T23:49:50Z",
+  "updated_at": "2023-10-20T11:41:09Z",
   "pushed_at": "2023-09-01T21:26:49Z",
   "git_url": "git://github.com/balderdashy/sails.git",
   "ssh_url": "git@github.com:balderdashy/sails.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1996,
+  "forks_count": 1995,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 583,
+  "open_issues_count": 584,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -99,8 +99,8 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 1996,
-  "open_issues": 583,
+  "forks": 1995,
+  "open_issues": 584,
   "watchers": 22667,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3119
+  "_index": 3124
 }

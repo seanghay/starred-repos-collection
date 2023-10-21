@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/nvm-sh/nvm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nvm-sh/nvm/deployments",
   "created_at": "2010-04-15T17:47:47Z",
-  "updated_at": "2023-10-20T00:50:53Z",
-  "pushed_at": "2023-10-11T22:52:19Z",
+  "updated_at": "2023-10-21T00:12:26Z",
+  "pushed_at": "2023-10-20T22:59:03Z",
   "git_url": "git://github.com/nvm-sh/nvm.git",
   "ssh_url": "git@github.com:nvm-sh/nvm.git",
   "clone_url": "https://github.com/nvm-sh/nvm.git",
   "svn_url": "https://github.com/nvm-sh/nvm",
   "homepage": "",
-  "size": 3329,
-  "stargazers_count": 70882,
-  "watchers_count": 70882,
+  "size": 3347,
+  "stargazers_count": 70896,
+  "watchers_count": 70896,
   "language": "Shell",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 7518,
+  "forks_count": 7521,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -113,9 +113,9 @@
     "zsh"
   ],
   "visibility": "public",
-  "forks": 7518,
+  "forks": 7521,
   "open_issues": 400,
-  "watchers": 70882,
+  "watchers": 70896,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1562
+  "_index": 1567
 }

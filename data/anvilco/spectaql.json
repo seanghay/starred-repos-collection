@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/anvilco/spectaql/releases{/id}",
   "deployments_url": "https://api.github.com/repos/anvilco/spectaql/deployments",
   "created_at": "2021-03-16T21:57:13Z",
-  "updated_at": "2023-10-19T15:55:59Z",
+  "updated_at": "2023-10-20T22:37:25Z",
   "pushed_at": "2023-10-16T18:07:06Z",
   "git_url": "git://github.com/anvilco/spectaql.git",
   "ssh_url": "git@github.com:anvilco/spectaql.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/anvilco/spectaql",
   "homepage": "https://useanvil.com/docs/api/graphql/reference/",
   "size": 5800,
-  "stargazers_count": 979,
-  "watchers_count": 979,
+  "stargazers_count": 980,
+  "watchers_count": 980,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 113,
+  "forks_count": 114,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,9 +106,9 @@
     "nodejs"
   ],
   "visibility": "public",
-  "forks": 113,
+  "forks": 114,
   "open_issues": 53,
-  "watchers": 979,
+  "watchers": 980,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 891
+  "_index": 896
 }

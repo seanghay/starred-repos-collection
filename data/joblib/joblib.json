@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/joblib/joblib/deployments",
   "created_at": "2010-05-07T06:48:26Z",
   "updated_at": "2023-10-19T06:33:08Z",
-  "pushed_at": "2023-10-17T08:54:01Z",
+  "pushed_at": "2023-10-20T21:26:01Z",
   "git_url": "git://github.com/joblib/joblib.git",
   "ssh_url": "git@github.com:joblib/joblib.git",
   "clone_url": "https://github.com/joblib/joblib.git",
   "svn_url": "https://github.com/joblib/joblib",
   "homepage": "http://joblib.readthedocs.org",
-  "size": 4323,
+  "size": 4342,
   "stargazers_count": 3458,
   "watchers_count": 3458,
   "language": "Python",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 405,
+  "open_issues_count": 404,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -107,7 +107,7 @@
   ],
   "visibility": "public",
   "forks": 422,
-  "open_issues": 405,
+  "open_issues": 404,
   "watchers": 3458,
   "default_branch": "master",
   "permissions": {
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 672
+  "_index": 677
 }

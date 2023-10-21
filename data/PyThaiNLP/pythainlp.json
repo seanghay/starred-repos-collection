@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/PyThaiNLP/pythainlp/deployments",
   "created_at": "2016-06-23T14:57:26Z",
   "updated_at": "2023-10-18T15:51:33Z",
-  "pushed_at": "2023-10-19T17:25:05Z",
+  "pushed_at": "2023-10-20T13:47:34Z",
   "git_url": "git://github.com/PyThaiNLP/pythainlp.git",
   "ssh_url": "git@github.com:PyThaiNLP/pythainlp.git",
   "clone_url": "https://github.com/PyThaiNLP/pythainlp.git",
   "svn_url": "https://github.com/PyThaiNLP/pythainlp",
   "homepage": "https://pythainlp.github.io/",
-  "size": 61619,
+  "size": 61612,
   "stargazers_count": 880,
   "watchers_count": 880,
   "language": "Python",
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 48
+  "_index": 53
 }

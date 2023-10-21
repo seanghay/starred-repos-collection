@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/yoheinakajima/instagraph/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yoheinakajima/instagraph/deployments",
   "created_at": "2023-09-12T21:25:09Z",
-  "updated_at": "2023-10-19T02:33:21Z",
-  "pushed_at": "2023-10-19T23:32:57Z",
+  "updated_at": "2023-10-20T23:08:34Z",
+  "pushed_at": "2023-10-20T20:29:41Z",
   "git_url": "git://github.com/yoheinakajima/instagraph.git",
   "ssh_url": "git@github.com:yoheinakajima/instagraph.git",
   "clone_url": "https://github.com/yoheinakajima/instagraph.git",
   "svn_url": "https://github.com/yoheinakajima/instagraph",
   "homepage": null,
-  "size": 147,
-  "stargazers_count": 2765,
-  "watchers_count": 2765,
+  "size": 163,
+  "stargazers_count": 2769,
+  "watchers_count": 2769,
   "language": "HTML",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 17,
+  "open_issues_count": 15,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 236,
-  "open_issues": 17,
-  "watchers": 2765,
+  "open_issues": 15,
+  "watchers": 2769,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 131
+  "_index": 136
 }

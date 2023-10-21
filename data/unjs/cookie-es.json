@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/unjs/cookie-es/releases{/id}",
   "deployments_url": "https://api.github.com/repos/unjs/cookie-es/deployments",
   "created_at": "2021-11-22T23:16:35Z",
-  "updated_at": "2023-10-15T18:41:48Z",
-  "pushed_at": "2023-10-19T11:24:24Z",
+  "updated_at": "2023-10-20T21:17:05Z",
+  "pushed_at": "2023-10-20T22:47:43Z",
   "git_url": "git://github.com/unjs/cookie-es.git",
   "ssh_url": "git@github.com:unjs/cookie-es.git",
   "clone_url": "https://github.com/unjs/cookie-es.git",
   "svn_url": "https://github.com/unjs/cookie-es",
   "homepage": "",
-  "size": 170,
-  "stargazers_count": 70,
-  "watchers_count": 70,
+  "size": 171,
+  "stargazers_count": 71,
+  "watchers_count": 71,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 3,
   "open_issues": 7,
-  "watchers": 70,
+  "watchers": 71,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1351
+  "_index": 1356
 }

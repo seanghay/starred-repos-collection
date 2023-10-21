@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/jina-ai/jina/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jina-ai/jina/deployments",
   "created_at": "2020-02-13T17:04:44Z",
-  "updated_at": "2023-10-19T14:01:13Z",
-  "pushed_at": "2023-10-19T22:20:14Z",
+  "updated_at": "2023-10-20T15:51:53Z",
+  "pushed_at": "2023-10-20T23:38:27Z",
   "git_url": "git://github.com/jina-ai/jina.git",
   "ssh_url": "git@github.com:jina-ai/jina.git",
   "clone_url": "https://github.com/jina-ai/jina.git",
   "svn_url": "https://github.com/jina-ai/jina",
   "homepage": "https://docs.jina.ai",
-  "size": 1216507,
-  "stargazers_count": 19203,
-  "watchers_count": 19203,
+  "size": 1231963,
+  "stargazers_count": 19204,
+  "watchers_count": 19204,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 2176,
+  "forks_count": 2177,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 22,
+  "open_issues_count": 20,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -120,9 +120,9 @@
     "prometheus"
   ],
   "visibility": "public",
-  "forks": 2176,
-  "open_issues": 22,
-  "watchers": 19203,
+  "forks": 2177,
+  "open_issues": 20,
+  "watchers": 19204,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1573
+  "_index": 1578
 }
