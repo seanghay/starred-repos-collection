@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 727,
+  "forks_count": 726,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -115,7 +115,7 @@
     "tensorflow"
   ],
   "visibility": "public",
-  "forks": 727,
+  "forks": 726,
   "open_issues": 103,
   "watchers": 4331,
   "default_branch": "master",
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 719
+  "_index": 720
 }

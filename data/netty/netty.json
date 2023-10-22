@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/netty/netty/releases{/id}",
   "deployments_url": "https://api.github.com/repos/netty/netty/deployments",
   "created_at": "2010-11-09T09:22:21Z",
-  "updated_at": "2023-10-20T10:01:50Z",
+  "updated_at": "2023-10-21T20:25:29Z",
   "pushed_at": "2023-10-20T12:31:53Z",
   "git_url": "git://github.com/netty/netty.git",
   "ssh_url": "git@github.com:netty/netty.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 15624,
+  "forks_count": 15623,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,7 +99,7 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 15624,
+  "forks": 15623,
   "open_issues": 585,
   "watchers": 31959,
   "default_branch": "4.1",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2963
+  "_index": 2964
 }

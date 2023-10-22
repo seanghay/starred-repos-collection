@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/alexcorvi/heic2any/releases{/id}",
   "deployments_url": "https://api.github.com/repos/alexcorvi/heic2any/deployments",
   "created_at": "2019-06-06T15:09:02Z",
-  "updated_at": "2023-10-18T06:38:53Z",
+  "updated_at": "2023-10-21T17:34:24Z",
   "pushed_at": "2023-04-04T19:58:20Z",
   "git_url": "git://github.com/alexcorvi/heic2any.git",
   "ssh_url": "git@github.com:alexcorvi/heic2any.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/alexcorvi/heic2any",
   "homepage": "https://alexcorvi.github.io/heic2any/",
   "size": 7555,
-  "stargazers_count": 459,
-  "watchers_count": 459,
+  "stargazers_count": 461,
+  "watchers_count": 461,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 64,
   "open_issues": 14,
-  "watchers": 459,
+  "watchers": 461,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 401
+  "_index": 402
 }

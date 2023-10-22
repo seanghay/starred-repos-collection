@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jstringer1/garmin-connectiq/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jstringer1/garmin-connectiq/deployments",
   "created_at": "2019-04-27T08:25:21Z",
-  "updated_at": "2021-10-11T17:59:23Z",
+  "updated_at": "2023-10-21T17:56:25Z",
   "pushed_at": "2020-12-31T11:02:19Z",
   "git_url": "git://github.com/jstringer1/garmin-connectiq.git",
   "ssh_url": "git@github.com:jstringer1/garmin-connectiq.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jstringer1/garmin-connectiq",
   "homepage": null,
   "size": 1835,
-  "stargazers_count": 3,
-  "watchers_count": 3,
+  "stargazers_count": 4,
+  "watchers_count": 4,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -102,7 +102,7 @@
   "visibility": "public",
   "forks": 0,
   "open_issues": 0,
-  "watchers": 3,
+  "watchers": 4,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -111,5 +111,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1483
+  "_index": 1484
 }

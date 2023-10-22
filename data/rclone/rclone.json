@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/rclone/rclone/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rclone/rclone/deployments",
   "created_at": "2014-03-16T16:19:57Z",
-  "updated_at": "2023-10-20T23:41:59Z",
-  "pushed_at": "2023-10-20T17:54:18Z",
+  "updated_at": "2023-10-22T01:17:22Z",
+  "pushed_at": "2023-10-21T16:49:17Z",
   "git_url": "git://github.com/rclone/rclone.git",
   "ssh_url": "git@github.com:rclone/rclone.git",
   "clone_url": "https://github.com/rclone/rclone.git",
   "svn_url": "https://github.com/rclone/rclone",
   "homepage": "https://rclone.org",
-  "size": 181759,
-  "stargazers_count": 40806,
-  "watchers_count": 40806,
+  "size": 181807,
+  "stargazers_count": 40819,
+  "watchers_count": 40819,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3739,
+  "forks_count": 3740,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -120,9 +120,9 @@
     "webdav"
   ],
   "visibility": "public",
-  "forks": 3739,
+  "forks": 3740,
   "open_issues": 921,
-  "watchers": 40806,
+  "watchers": 40819,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 570
+  "_index": 571
 }

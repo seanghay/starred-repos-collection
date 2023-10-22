@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/konform-kt/konform/releases{/id}",
   "deployments_url": "https://api.github.com/repos/konform-kt/konform/deployments",
   "created_at": "2018-03-07T20:32:19Z",
-  "updated_at": "2023-10-20T22:13:00Z",
+  "updated_at": "2023-10-22T00:43:43Z",
   "pushed_at": "2023-10-19T13:43:31Z",
   "git_url": "git://github.com/konform-kt/konform.git",
   "ssh_url": "git@github.com:konform-kt/konform.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/konform-kt/konform",
   "homepage": "https://www.konform.io",
   "size": 254,
-  "stargazers_count": 590,
-  "watchers_count": 590,
+  "stargazers_count": 592,
+  "watchers_count": 592,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 38,
   "open_issues": 33,
-  "watchers": 590,
+  "watchers": 592,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2808
+  "_index": 2809
 }

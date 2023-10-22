@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/serde-rs/json/releases{/id}",
   "deployments_url": "https://api.github.com/repos/serde-rs/json/deployments",
   "created_at": "2015-05-19T16:30:20Z",
-  "updated_at": "2023-10-21T00:49:48Z",
+  "updated_at": "2023-10-21T04:14:15Z",
   "pushed_at": "2023-10-18T04:07:46Z",
   "git_url": "git://github.com/serde-rs/json.git",
   "ssh_url": "git@github.com:serde-rs/json.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/serde-rs/json",
   "homepage": "",
   "size": 2721,
-  "stargazers_count": 4166,
-  "watchers_count": 4166,
+  "stargazers_count": 4167,
+  "watchers_count": 4167,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 507,
   "open_issues": 145,
-  "watchers": 4166,
+  "watchers": 4167,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1276
+  "_index": 1277
 }

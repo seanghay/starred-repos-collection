@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/JanssenProject/jans",
-  "description": "Welcome to the Janssen Project, a digital identity platform... and introducing Agama, a domain specific language for login journeys.",
+  "description": "An open source digital identity platform that scales: Janssen is a distribution of standards-based, developer friendly, components that are engineered to work together in any cloud.",
   "fork": false,
   "url": "https://api.github.com/repos/JanssenProject/jans",
   "forks_url": "https://api.github.com/repos/JanssenProject/jans/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/JanssenProject/jans/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JanssenProject/jans/deployments",
   "created_at": "2020-11-03T15:00:37Z",
-  "updated_at": "2023-10-18T15:05:49Z",
-  "pushed_at": "2023-10-21T01:06:44Z",
+  "updated_at": "2023-10-21T03:48:54Z",
+  "pushed_at": "2023-10-21T23:44:53Z",
   "git_url": "git://github.com/JanssenProject/jans.git",
   "ssh_url": "git@github.com:JanssenProject/jans.git",
   "clone_url": "https://github.com/JanssenProject/jans.git",
   "svn_url": "https://github.com/JanssenProject/jans",
   "homepage": "https://docs.jans.io",
-  "size": 1219426,
-  "stargazers_count": 294,
-  "watchers_count": 294,
+  "size": 1220274,
+  "stargazers_count": 295,
+  "watchers_count": 295,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 50,
+  "forks_count": 51,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,9 +109,9 @@
     "sso"
   ],
   "visibility": "public",
-  "forks": 50,
+  "forks": 51,
   "open_issues": 438,
-  "watchers": 294,
+  "watchers": 295,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 737
+  "_index": 738
 }

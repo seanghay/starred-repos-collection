@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/alphacep/MB-iSTFT-VITS2/deployments",
   "created_at": "2023-10-01T19:43:04Z",
   "updated_at": "2023-10-05T12:43:51Z",
-  "pushed_at": "2023-10-01T22:31:28Z",
+  "pushed_at": "2023-10-22T00:28:05Z",
   "git_url": "git://github.com/alphacep/MB-iSTFT-VITS2.git",
   "ssh_url": "git@github.com:alphacep/MB-iSTFT-VITS2.git",
   "clone_url": "https://github.com/alphacep/MB-iSTFT-VITS2.git",
   "svn_url": "https://github.com/alphacep/MB-iSTFT-VITS2",
   "homepage": "",
-  "size": 4247,
+  "size": 4266,
   "stargazers_count": 2,
   "watchers_count": 2,
   "language": "Python",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 36
+  "_index": 37
 }

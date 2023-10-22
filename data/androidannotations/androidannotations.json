@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/androidannotations/androidannotations/releases{/id}",
   "deployments_url": "https://api.github.com/repos/androidannotations/androidannotations/deployments",
   "created_at": "2012-01-06T08:48:03Z",
-  "updated_at": "2023-10-20T10:14:44Z",
+  "updated_at": "2023-10-21T05:13:57Z",
   "pushed_at": "2022-05-31T13:16:38Z",
   "git_url": "git://github.com/androidannotations/androidannotations.git",
   "ssh_url": "git@github.com:androidannotations/androidannotations.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/androidannotations/androidannotations",
   "homepage": "",
   "size": 22510,
-  "stargazers_count": 11107,
-  "watchers_count": 11107,
+  "stargazers_count": 11108,
+  "watchers_count": 11108,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2422,
+  "forks_count": 2423,
   "mirror_url": null,
   "archived": true,
   "disabled": false,
@@ -104,9 +104,9 @@
     "java"
   ],
   "visibility": "public",
-  "forks": 2422,
+  "forks": 2423,
   "open_issues": 50,
-  "watchers": 11107,
+  "watchers": 11108,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2526
+  "_index": 2527
 }

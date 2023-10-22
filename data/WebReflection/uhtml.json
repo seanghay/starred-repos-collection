@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/WebReflection/uhtml/releases{/id}",
   "deployments_url": "https://api.github.com/repos/WebReflection/uhtml/deployments",
   "created_at": "2020-02-15T17:45:33Z",
-  "updated_at": "2023-10-09T22:25:48Z",
+  "updated_at": "2023-10-21T15:32:26Z",
   "pushed_at": "2023-09-06T13:16:14Z",
   "git_url": "git://github.com/WebReflection/uhtml.git",
   "ssh_url": "git@github.com:WebReflection/uhtml.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/WebReflection/uhtml",
   "homepage": null,
   "size": 1193,
-  "stargazers_count": 751,
-  "watchers_count": 751,
+  "stargazers_count": 752,
+  "watchers_count": 752,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 33,
   "open_issues": 4,
-  "watchers": 751,
+  "watchers": 752,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1078
+  "_index": 1079
 }

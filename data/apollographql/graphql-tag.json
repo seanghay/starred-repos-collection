@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/apollographql/graphql-tag/releases{/id}",
   "deployments_url": "https://api.github.com/repos/apollographql/graphql-tag/deployments",
   "created_at": "2016-06-24T20:32:33Z",
-  "updated_at": "2023-10-20T22:25:29Z",
+  "updated_at": "2023-10-21T12:44:48Z",
   "pushed_at": "2023-10-19T11:26:02Z",
   "git_url": "git://github.com/apollographql/graphql-tag.git",
   "ssh_url": "git@github.com:apollographql/graphql-tag.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/apollographql/graphql-tag",
   "homepage": null,
   "size": 1069,
-  "stargazers_count": 2280,
-  "watchers_count": 2280,
+  "stargazers_count": 2281,
+  "watchers_count": 2281,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 180,
   "open_issues": 97,
-  "watchers": 2280,
+  "watchers": 2281,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1666
+  "_index": 1667
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/milvus-io/milvus/releases{/id}",
   "deployments_url": "https://api.github.com/repos/milvus-io/milvus/deployments",
   "created_at": "2019-09-16T06:43:43Z",
-  "updated_at": "2023-10-20T22:55:46Z",
-  "pushed_at": "2023-10-20T23:58:16Z",
+  "updated_at": "2023-10-21T17:42:19Z",
+  "pushed_at": "2023-10-21T15:05:48Z",
   "git_url": "git://github.com/milvus-io/milvus.git",
   "ssh_url": "git@github.com:milvus-io/milvus.git",
   "clone_url": "https://github.com/milvus-io/milvus.git",
   "svn_url": "https://github.com/milvus-io/milvus",
   "homepage": "https://milvus.io",
-  "size": 169438,
-  "stargazers_count": 23535,
-  "watchers_count": 23535,
+  "size": 169466,
+  "stargazers_count": 23541,
+  "watchers_count": 23541,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2555,
+  "forks_count": 2557,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 498,
+  "open_issues_count": 500,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -117,9 +117,9 @@
     "vector-store"
   ],
   "visibility": "public",
-  "forks": 2555,
-  "open_issues": 498,
-  "watchers": 23535,
+  "forks": 2557,
+  "open_issues": 500,
+  "watchers": 23541,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1461
+  "_index": 1462
 }
