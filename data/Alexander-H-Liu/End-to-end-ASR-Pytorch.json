@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Alexander-H-Liu/End-to-end-ASR-Pytorch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Alexander-H-Liu/End-to-end-ASR-Pytorch/deployments",
   "created_at": "2017-12-08T16:52:28Z",
-  "updated_at": "2023-10-17T19:14:32Z",
+  "updated_at": "2023-10-23T11:03:18Z",
   "pushed_at": "2020-12-19T07:53:25Z",
   "git_url": "git://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch.git",
   "ssh_url": "git@github.com:Alexander-H-Liu/End-to-end-ASR-Pytorch.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch",
   "homepage": "",
   "size": 943,
-  "stargazers_count": 1137,
-  "watchers_count": 1137,
+  "stargazers_count": 1136,
+  "watchers_count": 1136,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 321,
   "open_issues": 32,
-  "watchers": 1137,
+  "watchers": 1136,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 339
+  "_index": 341
 }

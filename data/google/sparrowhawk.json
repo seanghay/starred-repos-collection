@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/sparrowhawk/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/sparrowhawk/deployments",
   "created_at": "2016-04-27T12:45:46Z",
-  "updated_at": "2023-09-03T08:27:44Z",
+  "updated_at": "2023-10-23T11:14:25Z",
   "pushed_at": "2018-06-16T14:51:34Z",
   "git_url": "git://github.com/google/sparrowhawk.git",
   "ssh_url": "git@github.com:google/sparrowhawk.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 165
+  "_index": 167
 }

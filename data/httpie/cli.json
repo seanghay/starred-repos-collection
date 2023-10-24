@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/httpie/cli/releases{/id}",
   "deployments_url": "https://api.github.com/repos/httpie/cli/deployments",
   "created_at": "2012-02-25T12:39:13Z",
-  "updated_at": "2023-10-22T23:46:00Z",
-  "pushed_at": "2023-10-16T05:45:30Z",
+  "updated_at": "2023-10-23T23:59:59Z",
+  "pushed_at": "2023-10-23T10:56:13Z",
   "git_url": "git://github.com/httpie/cli.git",
   "ssh_url": "git@github.com:httpie/cli.git",
   "clone_url": "https://github.com/httpie/cli.git",
   "svn_url": "https://github.com/httpie/cli",
   "homepage": "https://httpie.io",
   "size": 6818,
-  "stargazers_count": 29804,
-  "watchers_count": 29804,
+  "stargazers_count": 29821,
+  "watchers_count": 29821,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 163,
+  "open_issues_count": 164,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -121,8 +121,8 @@
   ],
   "visibility": "public",
   "forks": 3828,
-  "open_issues": 163,
-  "watchers": 29804,
+  "open_issues": 164,
+  "watchers": 29821,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1212
+  "_index": 1214
 }

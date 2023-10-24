@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/querymx/querym.git",
   "svn_url": "https://github.com/querymx/querym",
   "homepage": "https://querym.net/",
-  "size": 8970,
+  "size": 9946,
   "stargazers_count": 64,
   "watchers_count": 64,
   "language": "TypeScript",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 22,
+  "forks_count": 23,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 17,
+  "open_issues_count": 18,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -105,8 +105,8 @@
     "mysql"
   ],
   "visibility": "public",
-  "forks": 22,
-  "open_issues": 17,
+  "forks": 23,
+  "open_issues": 18,
   "watchers": 64,
   "default_branch": "main",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 494
+  "_index": 496
 }

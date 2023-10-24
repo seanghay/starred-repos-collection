@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/nuxt-community/style-resources-module/deployments",
   "created_at": "2018-11-08T14:55:12Z",
   "updated_at": "2023-10-09T17:59:37Z",
-  "pushed_at": "2023-10-20T13:50:54Z",
+  "pushed_at": "2023-10-24T00:29:33Z",
   "git_url": "git://github.com/nuxt-community/style-resources-module.git",
   "ssh_url": "git@github.com:nuxt-community/style-resources-module.git",
   "clone_url": "https://github.com/nuxt-community/style-resources-module.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 30,
+  "open_issues_count": 31,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,7 +108,7 @@
   ],
   "visibility": "public",
   "forks": 23,
-  "open_issues": 30,
+  "open_issues": 31,
   "watchers": 572,
   "default_branch": "main",
   "permissions": {
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1556
+  "_index": 1558
 }

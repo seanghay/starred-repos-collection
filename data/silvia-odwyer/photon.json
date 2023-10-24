@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/silvia-odwyer/photon/releases{/id}",
   "deployments_url": "https://api.github.com/repos/silvia-odwyer/photon/deployments",
   "created_at": "2019-02-13T19:46:04Z",
-  "updated_at": "2023-10-22T00:57:43Z",
+  "updated_at": "2023-10-23T12:09:17Z",
   "pushed_at": "2023-10-21T16:21:10Z",
   "git_url": "git://github.com/silvia-odwyer/photon.git",
   "ssh_url": "git@github.com:silvia-odwyer/photon.git",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1490
+  "_index": 1492
 }

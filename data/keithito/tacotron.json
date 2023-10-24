@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/keithito/tacotron/releases{/id}",
   "deployments_url": "https://api.github.com/repos/keithito/tacotron/deployments",
   "created_at": "2017-07-08T17:03:31Z",
-  "updated_at": "2023-10-17T08:35:26Z",
+  "updated_at": "2023-10-24T01:36:59Z",
   "pushed_at": "2023-07-06T21:12:04Z",
   "git_url": "git://github.com/keithito/tacotron.git",
   "ssh_url": "git@github.com:keithito/tacotron.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/keithito/tacotron",
   "homepage": "",
   "size": 113,
-  "stargazers_count": 2855,
-  "watchers_count": 2855,
+  "stargazers_count": 2856,
+  "watchers_count": 2856,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 965,
   "open_issues": 138,
-  "watchers": 2855,
+  "watchers": 2856,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 134
+  "_index": 136
 }

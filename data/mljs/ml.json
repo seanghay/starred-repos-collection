@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mljs/ml/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mljs/ml/deployments",
   "created_at": "2014-10-27T13:04:38Z",
-  "updated_at": "2023-10-21T09:07:25Z",
+  "updated_at": "2023-10-23T11:08:01Z",
   "pushed_at": "2022-03-09T07:37:17Z",
   "git_url": "git://github.com/mljs/ml.git",
   "ssh_url": "git@github.com:mljs/ml.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 257,
+  "forks_count": 258,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "ml"
   ],
   "visibility": "public",
-  "forks": 257,
+  "forks": 258,
   "open_issues": 26,
   "watchers": 2397,
   "default_branch": "master",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 846
+  "_index": 848
 }

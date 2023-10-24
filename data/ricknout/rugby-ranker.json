@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/ricknout/rugby-ranker/deployments",
   "created_at": "2018-09-25T20:48:22Z",
   "updated_at": "2023-09-16T07:17:07Z",
-  "pushed_at": "2023-10-13T09:37:11Z",
+  "pushed_at": "2023-10-23T07:51:52Z",
   "git_url": "git://github.com/ricknout/rugby-ranker.git",
   "ssh_url": "git@github.com:ricknout/rugby-ranker.git",
   "clone_url": "https://github.com/ricknout/rugby-ranker.git",
   "svn_url": "https://github.com/ricknout/rugby-ranker",
   "homepage": "https://play.google.com/store/apps/details?id=com.ricknout.rugbyranker",
-  "size": 121039,
+  "size": 121041,
   "stargazers_count": 288,
   "watchers_count": 288,
   "language": "Kotlin",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2460
+  "_index": 2462
 }

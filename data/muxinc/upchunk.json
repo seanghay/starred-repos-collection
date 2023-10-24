@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/muxinc/upchunk/releases{/id}",
   "deployments_url": "https://api.github.com/repos/muxinc/upchunk/deployments",
   "created_at": "2018-12-12T23:31:47Z",
-  "updated_at": "2023-10-21T06:20:40Z",
+  "updated_at": "2023-10-23T08:25:20Z",
   "pushed_at": "2023-10-05T17:24:04Z",
   "git_url": "git://github.com/muxinc/upchunk.git",
   "ssh_url": "git@github.com:muxinc/upchunk.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/muxinc/upchunk",
   "homepage": "",
   "size": 531,
-  "stargazers_count": 286,
-  "watchers_count": 286,
+  "stargazers_count": 287,
+  "watchers_count": 287,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 41,
   "open_issues": 10,
-  "watchers": 286,
+  "watchers": 287,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1826
+  "_index": 1828
 }

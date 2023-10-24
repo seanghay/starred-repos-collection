@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/callbag/callbag/releases{/id}",
   "deployments_url": "https://api.github.com/repos/callbag/callbag/deployments",
   "created_at": "2018-01-19T15:53:40Z",
-  "updated_at": "2023-09-27T14:00:31Z",
+  "updated_at": "2023-10-23T11:03:29Z",
   "pushed_at": "2023-02-27T19:29:12Z",
   "git_url": "git://github.com/callbag/callbag.git",
   "ssh_url": "git@github.com:callbag/callbag.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/callbag/callbag",
   "homepage": "",
   "size": 52,
-  "stargazers_count": 1546,
-  "watchers_count": 1546,
+  "stargazers_count": 1545,
+  "watchers_count": 1545,
   "language": null,
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 39,
   "open_issues": 8,
-  "watchers": 1546,
+  "watchers": 1545,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3124
+  "_index": 3126
 }

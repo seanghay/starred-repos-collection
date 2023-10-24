@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ngxs/store/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ngxs/store/deployments",
   "created_at": "2018-02-13T18:55:44Z",
-  "updated_at": "2023-10-20T16:13:38Z",
+  "updated_at": "2023-10-23T20:13:46Z",
   "pushed_at": "2023-10-20T23:06:08Z",
   "git_url": "git://github.com/ngxs/store.git",
   "ssh_url": "git@github.com:ngxs/store.git",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3129
+  "_index": 3131
 }

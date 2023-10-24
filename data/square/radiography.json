@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/square/radiography/releases{/id}",
   "deployments_url": "https://api.github.com/repos/square/radiography/deployments",
   "created_at": "2020-08-07T19:01:33Z",
-  "updated_at": "2023-10-20T08:07:33Z",
+  "updated_at": "2023-10-23T16:27:17Z",
   "pushed_at": "2023-10-18T17:48:55Z",
   "git_url": "git://github.com/square/radiography.git",
   "ssh_url": "git@github.com:square/radiography.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/square/radiography",
   "homepage": "",
   "size": 2678,
-  "stargazers_count": 787,
-  "watchers_count": 787,
+  "stargazers_count": 788,
+  "watchers_count": 788,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 31,
   "open_issues": 19,
-  "watchers": 787,
+  "watchers": 788,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1962
+  "_index": 1964
 }

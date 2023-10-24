@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/signalapp/libsignal/releases{/id}",
   "deployments_url": "https://api.github.com/repos/signalapp/libsignal/deployments",
   "created_at": "2020-09-12T03:00:47Z",
-  "updated_at": "2023-10-22T19:51:58Z",
+  "updated_at": "2023-10-23T16:07:45Z",
   "pushed_at": "2023-10-22T16:57:02Z",
   "git_url": "git://github.com/signalapp/libsignal.git",
   "ssh_url": "git@github.com:signalapp/libsignal.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 296,
+  "forks_count": 297,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,7 +99,7 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 296,
+  "forks": 297,
   "open_issues": 12,
   "watchers": 2414,
   "default_branch": "main",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1077
+  "_index": 1079
 }

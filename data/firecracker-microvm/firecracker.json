@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/firecracker-microvm/firecracker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/firecracker-microvm/firecracker/deployments",
   "created_at": "2017-10-19T06:18:47Z",
-  "updated_at": "2023-10-23T01:33:17Z",
-  "pushed_at": "2023-10-21T23:36:54Z",
+  "updated_at": "2023-10-24T01:36:42Z",
+  "pushed_at": "2023-10-23T20:56:11Z",
   "git_url": "git://github.com/firecracker-microvm/firecracker.git",
   "ssh_url": "git@github.com:firecracker-microvm/firecracker.git",
   "clone_url": "https://github.com/firecracker-microvm/firecracker.git",
   "svn_url": "https://github.com/firecracker-microvm/firecracker",
   "homepage": "http://firecracker-microvm.io",
-  "size": 27161,
-  "stargazers_count": 22762,
-  "watchers_count": 22762,
+  "size": 27253,
+  "stargazers_count": 22765,
+  "watchers_count": 22765,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1628,
+  "forks_count": 1630,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 126,
+  "open_issues_count": 125,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -109,9 +109,9 @@
     "virtualization"
   ],
   "visibility": "public",
-  "forks": 1628,
-  "open_issues": 126,
-  "watchers": 22762,
+  "forks": 1630,
+  "open_issues": 125,
+  "watchers": 22765,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 883
+  "_index": 885
 }

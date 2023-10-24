@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/openobserve/openobserve/releases{/id}",
   "deployments_url": "https://api.github.com/repos/openobserve/openobserve/deployments",
   "created_at": "2023-02-02T03:29:51Z",
-  "updated_at": "2023-10-22T21:06:05Z",
-  "pushed_at": "2023-10-22T21:43:15Z",
+  "updated_at": "2023-10-24T00:52:00Z",
+  "pushed_at": "2023-10-24T01:14:34Z",
   "git_url": "git://github.com/openobserve/openobserve.git",
   "ssh_url": "git@github.com:openobserve/openobserve.git",
   "clone_url": "https://github.com/openobserve/openobserve.git",
   "svn_url": "https://github.com/openobserve/openobserve",
   "homepage": "https://openobserve.ai",
-  "size": 18792,
-  "stargazers_count": 6923,
-  "watchers_count": 6923,
+  "size": 18008,
+  "stargazers_count": 6928,
+  "watchers_count": 6928,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 268,
+  "forks_count": 270,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 202,
+  "open_issues_count": 209,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -118,9 +118,9 @@
     "traces"
   ],
   "visibility": "public",
-  "forks": 268,
-  "open_issues": 202,
-  "watchers": 6923,
+  "forks": 270,
+  "open_issues": 209,
+  "watchers": 6928,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 420
+  "_index": 422
 }

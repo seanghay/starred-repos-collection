@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/maxrmorrison/torchcrepe/releases{/id}",
   "deployments_url": "https://api.github.com/repos/maxrmorrison/torchcrepe/deployments",
   "created_at": "2020-06-03T15:32:49Z",
-  "updated_at": "2023-10-20T22:23:12Z",
+  "updated_at": "2023-10-23T19:23:45Z",
   "pushed_at": "2023-10-09T20:58:03Z",
   "git_url": "git://github.com/maxrmorrison/torchcrepe.git",
   "ssh_url": "git@github.com:maxrmorrison/torchcrepe.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/maxrmorrison/torchcrepe",
   "homepage": "",
   "size": 73946,
-  "stargazers_count": 302,
-  "watchers_count": 302,
+  "stargazers_count": 303,
+  "watchers_count": 303,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 53,
+  "forks_count": 54,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "pytorch"
   ],
   "visibility": "public",
-  "forks": 53,
+  "forks": 54,
   "open_issues": 2,
-  "watchers": 302,
+  "watchers": 303,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 442
+  "_index": 444
 }

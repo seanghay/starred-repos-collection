@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lisawray/groupie/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lisawray/groupie/deployments",
   "created_at": "2016-09-01T20:59:35Z",
-  "updated_at": "2023-10-18T01:29:52Z",
+  "updated_at": "2023-10-23T11:00:38Z",
   "pushed_at": "2023-10-03T04:12:10Z",
   "git_url": "git://github.com/lisawray/groupie.git",
   "ssh_url": "git@github.com:lisawray/groupie.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2578
+  "_index": 2580
 }

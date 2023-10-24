@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kiruto/debug-bottle/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kiruto/debug-bottle/deployments",
   "created_at": "2016-08-19T10:07:01Z",
-  "updated_at": "2023-10-15T21:44:07Z",
+  "updated_at": "2023-10-23T11:16:50Z",
   "pushed_at": "2018-03-15T08:14:51Z",
   "git_url": "git://github.com/kiruto/debug-bottle.git",
   "ssh_url": "git@github.com:kiruto/debug-bottle.git",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1737
+  "_index": 1739
 }

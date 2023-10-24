@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/eclipse-theia/theia/releases{/id}",
   "deployments_url": "https://api.github.com/repos/eclipse-theia/theia/deployments",
   "created_at": "2017-02-24T14:42:05Z",
-  "updated_at": "2023-10-22T23:47:54Z",
-  "pushed_at": "2023-10-22T17:04:33Z",
+  "updated_at": "2023-10-23T22:00:42Z",
+  "pushed_at": "2023-10-23T17:51:23Z",
   "git_url": "git://github.com/eclipse-theia/theia.git",
   "ssh_url": "git@github.com:eclipse-theia/theia.git",
   "clone_url": "https://github.com/eclipse-theia/theia.git",
   "svn_url": "https://github.com/eclipse-theia/theia",
   "homepage": "http://theia-ide.org",
-  "size": 168646,
-  "stargazers_count": 18492,
-  "watchers_count": 18492,
+  "size": 168699,
+  "stargazers_count": 18491,
+  "watchers_count": 18491,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1373,
+  "open_issues_count": 1371,
   "license": {
     "key": "epl-2.0",
     "name": "Eclipse Public License 2.0",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 2441,
-  "open_issues": 1373,
-  "watchers": 18492,
+  "open_issues": 1371,
+  "watchers": 18491,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2049
+  "_index": 2051
 }
