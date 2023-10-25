@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/remarkjs/remark/releases{/id}",
   "deployments_url": "https://api.github.com/repos/remarkjs/remark/deployments",
   "created_at": "2014-07-28T19:35:14Z",
-  "updated_at": "2023-10-23T19:25:59Z",
-  "pushed_at": "2023-10-12T23:07:41Z",
+  "updated_at": "2023-10-25T01:31:21Z",
+  "pushed_at": "2023-10-24T18:32:53Z",
   "git_url": "git://github.com/remarkjs/remark.git",
   "ssh_url": "git@github.com:remarkjs/remark.git",
   "clone_url": "https://github.com/remarkjs/remark.git",
   "svn_url": "https://github.com/remarkjs/remark",
   "homepage": "https://remark.js.org",
   "size": 13146,
-  "stargazers_count": 6773,
-  "watchers_count": 6773,
+  "stargazers_count": 6783,
+  "watchers_count": 6783,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 378,
+  "forks_count": 379,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 6,
+  "open_issues_count": 7,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,9 +106,9 @@
     "unified"
   ],
   "visibility": "public",
-  "forks": 378,
-  "open_issues": 6,
-  "watchers": 6773,
+  "forks": 379,
+  "open_issues": 7,
+  "watchers": 6783,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1754
+  "_index": 1755
 }

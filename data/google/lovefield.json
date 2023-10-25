@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/lovefield/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/lovefield/deployments",
   "created_at": "2014-09-30T18:29:14Z",
-  "updated_at": "2023-10-23T11:07:50Z",
+  "updated_at": "2023-10-24T14:26:57Z",
   "pushed_at": "2021-08-10T22:09:29Z",
   "git_url": "git://github.com/google/lovefield.git",
   "ssh_url": "git@github.com:google/lovefield.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/lovefield",
   "homepage": "https://google.github.io/lovefield/",
   "size": 53970,
-  "stargazers_count": 6844,
-  "watchers_count": 6844,
+  "stargazers_count": 6845,
+  "watchers_count": 6845,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 421,
   "open_issues": 55,
-  "watchers": 6844,
+  "watchers": 6845,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1897
+  "_index": 1898
 }

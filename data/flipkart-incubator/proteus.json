@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/flipkart-incubator/proteus/releases{/id}",
   "deployments_url": "https://api.github.com/repos/flipkart-incubator/proteus/deployments",
   "created_at": "2014-04-24T06:04:31Z",
-  "updated_at": "2023-10-23T11:06:43Z",
+  "updated_at": "2023-10-24T11:13:19Z",
   "pushed_at": "2021-11-22T11:55:06Z",
   "git_url": "git://github.com/flipkart-incubator/proteus.git",
   "ssh_url": "git@github.com:flipkart-incubator/proteus.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/flipkart-incubator/proteus",
   "homepage": "",
   "size": 3550,
-  "stargazers_count": 1285,
-  "watchers_count": 1285,
+  "stargazers_count": 1284,
+  "watchers_count": 1284,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 196,
   "open_issues": 5,
-  "watchers": 1285,
+  "watchers": 1284,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2332
+  "_index": 2333
 }

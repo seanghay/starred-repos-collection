@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/emlearn/emlearn/releases{/id}",
   "deployments_url": "https://api.github.com/repos/emlearn/emlearn/deployments",
   "created_at": "2018-03-16T19:46:17Z",
-  "updated_at": "2023-10-23T11:13:26Z",
-  "pushed_at": "2023-10-19T18:08:21Z",
+  "updated_at": "2023-10-24T17:32:52Z",
+  "pushed_at": "2023-10-24T22:18:14Z",
   "git_url": "git://github.com/emlearn/emlearn.git",
   "ssh_url": "git@github.com:emlearn/emlearn.git",
   "clone_url": "https://github.com/emlearn/emlearn.git",
   "svn_url": "https://github.com/emlearn/emlearn",
   "homepage": "",
-  "size": 1995,
-  "stargazers_count": 311,
-  "watchers_count": 311,
+  "size": 2004,
+  "stargazers_count": 312,
+  "watchers_count": 312,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 14,
+  "open_issues_count": 15,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -115,8 +115,8 @@
   ],
   "visibility": "public",
   "forks": 41,
-  "open_issues": 14,
-  "watchers": 311,
+  "open_issues": 15,
+  "watchers": 312,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 465
+  "_index": 466
 }

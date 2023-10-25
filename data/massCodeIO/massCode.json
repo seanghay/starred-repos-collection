@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/massCodeIO/massCode/releases{/id}",
   "deployments_url": "https://api.github.com/repos/massCodeIO/massCode/deployments",
   "created_at": "2022-03-29T07:54:21Z",
-  "updated_at": "2023-10-23T17:36:43Z",
+  "updated_at": "2023-10-24T08:09:33Z",
   "pushed_at": "2023-10-22T15:56:08Z",
   "git_url": "git://github.com/massCodeIO/massCode.git",
   "ssh_url": "git@github.com:massCodeIO/massCode.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/massCodeIO/massCode",
   "homepage": "https://masscode.io",
   "size": 4424,
-  "stargazers_count": 5056,
-  "watchers_count": 5056,
+  "stargazers_count": 5059,
+  "watchers_count": 5059,
   "language": "Vue",
   "has_issues": true,
   "has_projects": true,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 157,
   "open_issues": 14,
-  "watchers": 5056,
+  "watchers": 5059,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1092
+  "_index": 1093
 }

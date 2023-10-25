@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kbiakov/CodeView-Android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kbiakov/CodeView-Android/deployments",
   "created_at": "2016-08-22T21:54:03Z",
-  "updated_at": "2023-10-09T02:23:43Z",
+  "updated_at": "2023-10-24T12:07:41Z",
   "pushed_at": "2022-01-16T06:29:12Z",
   "git_url": "git://github.com/kbiakov/CodeView-Android.git",
   "ssh_url": "git@github.com:kbiakov/CodeView-Android.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/kbiakov/CodeView-Android",
   "homepage": "",
   "size": 1511,
-  "stargazers_count": 845,
-  "watchers_count": 845,
+  "stargazers_count": 844,
+  "watchers_count": 844,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -116,7 +116,7 @@
   "visibility": "public",
   "forks": 109,
   "open_issues": 20,
-  "watchers": 845,
+  "watchers": 844,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1738
+  "_index": 1739
 }

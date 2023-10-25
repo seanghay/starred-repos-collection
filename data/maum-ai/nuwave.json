@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/maum-ai/nuwave/releases{/id}",
   "deployments_url": "https://api.github.com/repos/maum-ai/nuwave/deployments",
   "created_at": "2021-03-30T06:48:36Z",
-  "updated_at": "2023-10-16T00:40:50Z",
+  "updated_at": "2023-10-24T03:24:12Z",
   "pushed_at": "2022-07-22T00:44:22Z",
   "git_url": "git://github.com/maum-ai/nuwave.git",
   "ssh_url": "git@github.com:maum-ai/nuwave.git",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 358
+  "_index": 359
 }

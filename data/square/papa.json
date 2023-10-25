@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/square/papa/releases{/id}",
   "deployments_url": "https://api.github.com/repos/square/papa/deployments",
   "created_at": "2021-09-17T21:54:28Z",
-  "updated_at": "2023-10-20T21:12:07Z",
+  "updated_at": "2023-10-24T11:13:50Z",
   "pushed_at": "2023-09-20T02:03:41Z",
   "git_url": "git://github.com/square/papa.git",
   "ssh_url": "git@github.com:square/papa.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 14,
+  "forks_count": 15,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,7 +99,7 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 14,
+  "forks": 15,
   "open_issues": 15,
   "watchers": 318,
   "default_branch": "main",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1532
+  "_index": 1533
 }

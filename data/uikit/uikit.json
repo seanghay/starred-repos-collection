@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/uikit/uikit/deployments",
   "created_at": "2013-07-18T16:00:26Z",
   "updated_at": "2023-10-23T17:02:41Z",
-  "pushed_at": "2023-10-23T15:19:47Z",
+  "pushed_at": "2023-10-24T14:01:20Z",
   "git_url": "git://github.com/uikit/uikit.git",
   "ssh_url": "git@github.com:uikit/uikit.git",
   "clone_url": "https://github.com/uikit/uikit.git",
   "svn_url": "https://github.com/uikit/uikit",
   "homepage": "http://getuikit.com",
-  "size": 53071,
+  "size": 52995,
   "stargazers_count": 17964,
   "watchers_count": 17964,
   "language": "HTML",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3181
+  "_index": 3182
 }

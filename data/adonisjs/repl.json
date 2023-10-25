@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2,
+  "forks_count": 3,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,7 +105,7 @@
     "tinker"
   ],
   "visibility": "public",
-  "forks": 2,
+  "forks": 3,
   "open_issues": 0,
   "watchers": 90,
   "default_branch": "develop",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1858
+  "_index": 1859
 }

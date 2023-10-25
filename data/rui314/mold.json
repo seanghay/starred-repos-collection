@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/rui314/mold/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rui314/mold/deployments",
   "created_at": "2020-09-29T05:12:48Z",
-  "updated_at": "2023-10-23T23:44:24Z",
-  "pushed_at": "2023-10-23T14:48:01Z",
+  "updated_at": "2023-10-24T23:33:23Z",
+  "pushed_at": "2023-10-24T03:36:33Z",
   "git_url": "git://github.com/rui314/mold.git",
   "ssh_url": "git@github.com:rui314/mold.git",
   "clone_url": "https://github.com/rui314/mold.git",
   "svn_url": "https://github.com/rui314/mold",
   "homepage": "",
   "size": 19391,
-  "stargazers_count": 12186,
-  "watchers_count": 12186,
+  "stargazers_count": 12190,
+  "watchers_count": 12190,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 414,
   "open_issues": 154,
-  "watchers": 12186,
+  "watchers": 12190,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1307
+  "_index": 1308
 }

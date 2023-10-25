@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/adamwdraper/Numeral-js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/adamwdraper/Numeral-js/deployments",
   "created_at": "2012-10-01T20:50:23Z",
-  "updated_at": "2023-10-23T11:03:58Z",
+  "updated_at": "2023-10-24T14:24:49Z",
   "pushed_at": "2023-07-06T10:47:43Z",
   "git_url": "git://github.com/adamwdraper/Numeral-js.git",
   "ssh_url": "git@github.com:adamwdraper/Numeral-js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/adamwdraper/Numeral-js",
   "homepage": "http://numeraljs.com",
   "size": 1103,
-  "stargazers_count": 9507,
-  "watchers_count": 9507,
+  "stargazers_count": 9509,
+  "watchers_count": 9509,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 996,
   "open_issues": 349,
-  "watchers": 9507,
+  "watchers": 9509,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1433
+  "_index": 1434
 }

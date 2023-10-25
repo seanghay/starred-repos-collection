@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/webview/webview/releases{/id}",
   "deployments_url": "https://api.github.com/repos/webview/webview/deployments",
   "created_at": "2017-08-19T08:26:00Z",
-  "updated_at": "2023-10-23T11:02:43Z",
+  "updated_at": "2023-10-24T15:24:21Z",
   "pushed_at": "2023-10-10T22:21:30Z",
   "git_url": "git://github.com/webview/webview.git",
   "ssh_url": "git@github.com:webview/webview.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/webview/webview",
   "homepage": "https://webview.dev",
   "size": 5324,
-  "stargazers_count": 11586,
-  "watchers_count": 11586,
+  "stargazers_count": 11590,
+  "watchers_count": 11590,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -117,7 +117,7 @@
   "visibility": "public",
   "forks": 924,
   "open_issues": 205,
-  "watchers": 11586,
+  "watchers": 11590,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 160
+  "_index": 161
 }

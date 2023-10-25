@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pndurette/gTTS/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pndurette/gTTS/deployments",
   "created_at": "2014-05-15T02:52:58Z",
-  "updated_at": "2023-10-23T11:06:51Z",
+  "updated_at": "2023-10-25T01:07:50Z",
   "pushed_at": "2023-10-03T16:51:13Z",
   "git_url": "git://github.com/pndurette/gTTS.git",
   "ssh_url": "git@github.com:pndurette/gTTS.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/pndurette/gTTS",
   "homepage": "http://gtts.readthedocs.org/",
   "size": 512,
-  "stargazers_count": 2009,
-  "watchers_count": 2009,
+  "stargazers_count": 2010,
+  "watchers_count": 2010,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 341,
   "open_issues": 12,
-  "watchers": 2009,
+  "watchers": 2010,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 26
+  "_index": 27
 }

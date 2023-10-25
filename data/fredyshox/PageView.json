@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fredyshox/PageView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fredyshox/PageView/deployments",
   "created_at": "2020-02-09T00:31:06Z",
-  "updated_at": "2023-10-23T19:52:38Z",
+  "updated_at": "2023-10-24T11:17:58Z",
   "pushed_at": "2023-03-11T22:57:52Z",
   "git_url": "git://github.com/fredyshox/PageView.git",
   "ssh_url": "git@github.com:fredyshox/PageView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/fredyshox/PageView",
   "homepage": "",
   "size": 2756,
-  "stargazers_count": 490,
-  "watchers_count": 490,
+  "stargazers_count": 491,
+  "watchers_count": 491,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 34,
   "open_issues": 10,
-  "watchers": 490,
+  "watchers": 491,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1519
+  "_index": 1520
 }

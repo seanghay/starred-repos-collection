@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/zitadel/zitadel/releases{/id}",
   "deployments_url": "https://api.github.com/repos/zitadel/zitadel/deployments",
   "created_at": "2020-03-16T13:51:31Z",
-  "updated_at": "2023-10-24T01:32:56Z",
-  "pushed_at": "2023-10-23T18:02:20Z",
+  "updated_at": "2023-10-25T00:43:09Z",
+  "pushed_at": "2023-10-24T21:19:13Z",
   "git_url": "git://github.com/zitadel/zitadel.git",
   "ssh_url": "git@github.com:zitadel/zitadel.git",
   "clone_url": "https://github.com/zitadel/zitadel.git",
   "svn_url": "https://github.com/zitadel/zitadel",
   "homepage": "https://zitadel.com",
-  "size": 423641,
-  "stargazers_count": 4953,
-  "watchers_count": 4953,
+  "size": 423993,
+  "stargazers_count": 4965,
+  "watchers_count": 4965,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 285,
+  "forks_count": 289,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 453,
+  "open_issues_count": 458,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -114,9 +114,9 @@
     "user"
   ],
   "visibility": "public",
-  "forks": 285,
-  "open_issues": 453,
-  "watchers": 4953,
+  "forks": 289,
+  "open_issues": 458,
+  "watchers": 4965,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 525
+  "_index": 526
 }

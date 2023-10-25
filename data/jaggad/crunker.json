@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jaggad/crunker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jaggad/crunker/deployments",
   "created_at": "2017-04-24T06:08:49Z",
-  "updated_at": "2023-10-24T01:09:07Z",
+  "updated_at": "2023-10-24T10:50:43Z",
   "pushed_at": "2023-10-21T04:06:05Z",
   "git_url": "git://github.com/jaggad/crunker.git",
   "ssh_url": "git@github.com:jaggad/crunker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jaggad/crunker",
   "homepage": "https://jaggad.github.io/crunker/examples/client/",
   "size": 2886,
-  "stargazers_count": 320,
-  "watchers_count": 320,
+  "stargazers_count": 322,
+  "watchers_count": 322,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 15,
+  "open_issues_count": 16,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 51,
-  "open_issues": 15,
-  "watchers": 320,
+  "open_issues": 16,
+  "watchers": 322,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 605
+  "_index": 606
 }

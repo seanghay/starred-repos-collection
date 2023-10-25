@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/koral--/android-gif-drawable/releases{/id}",
   "deployments_url": "https://api.github.com/repos/koral--/android-gif-drawable/deployments",
   "created_at": "2013-01-30T01:37:46Z",
-  "updated_at": "2023-10-20T03:33:34Z",
-  "pushed_at": "2023-10-16T06:59:33Z",
+  "updated_at": "2023-10-24T12:07:35Z",
+  "pushed_at": "2023-10-24T13:12:56Z",
   "git_url": "git://github.com/koral--/android-gif-drawable.git",
   "ssh_url": "git@github.com:koral--/android-gif-drawable.git",
   "clone_url": "https://github.com/koral--/android-gif-drawable.git",
   "svn_url": "https://github.com/koral--/android-gif-drawable",
   "homepage": "",
-  "size": 6021,
-  "stargazers_count": 9438,
-  "watchers_count": 9438,
+  "size": 6025,
+  "stargazers_count": 9436,
+  "watchers_count": 9436,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 1806,
   "open_issues": 32,
-  "watchers": 9438,
+  "watchers": 9436,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2645
+  "_index": 2646
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/vercel/ncc/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vercel/ncc/deployments",
   "created_at": "2018-11-13T04:00:21Z",
-  "updated_at": "2023-10-24T01:32:48Z",
+  "updated_at": "2023-10-25T00:33:42Z",
   "pushed_at": "2023-10-18T21:56:43Z",
   "git_url": "git://github.com/vercel/ncc.git",
   "ssh_url": "git@github.com:vercel/ncc.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/vercel/ncc",
   "homepage": "https://npmjs.com/@vercel/ncc",
   "size": 11460,
-  "stargazers_count": 8415,
-  "watchers_count": 8415,
+  "stargazers_count": 8421,
+  "watchers_count": 8421,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 288,
   "open_issues": 185,
-  "watchers": 8415,
+  "watchers": 8421,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1518
+  "_index": 1519
 }
