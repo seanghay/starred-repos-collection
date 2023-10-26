@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/WordOps/WordOps/releases{/id}",
   "deployments_url": "https://api.github.com/repos/WordOps/WordOps/deployments",
   "created_at": "2018-02-12T12:19:24Z",
-  "updated_at": "2023-10-24T23:56:33Z",
+  "updated_at": "2023-10-25T20:57:37Z",
   "pushed_at": "2023-10-20T11:27:53Z",
   "git_url": "git://github.com/WordOps/WordOps.git",
   "ssh_url": "git@github.com:WordOps/WordOps.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/WordOps/WordOps",
   "homepage": "https://wordops.net",
   "size": 4193,
-  "stargazers_count": 1157,
-  "watchers_count": 1157,
+  "stargazers_count": 1158,
+  "watchers_count": 1158,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 197,
+  "forks_count": 196,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -117,9 +117,9 @@
     "wordpress-site"
   ],
   "visibility": "public",
-  "forks": 197,
+  "forks": 196,
   "open_issues": 170,
-  "watchers": 1157,
+  "watchers": 1158,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 906
+  "_index": 909
 }

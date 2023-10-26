@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/seanghay/result-of/releases{/id}",
   "deployments_url": "https://api.github.com/repos/seanghay/result-of/deployments",
   "created_at": "2020-08-27T03:27:36Z",
-  "updated_at": "2023-08-18T20:56:04Z",
+  "updated_at": "2023-10-25T13:42:29Z",
   "pushed_at": "2022-04-23T09:28:07Z",
   "git_url": "git://github.com/seanghay/result-of.git",
   "ssh_url": "git@github.com:seanghay/result-of.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/seanghay/result-of",
   "homepage": "",
   "size": 89,
-  "stargazers_count": 16,
-  "watchers_count": 16,
+  "stargazers_count": 17,
+  "watchers_count": 17,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 0,
   "open_issues": 0,
-  "watchers": 16,
+  "watchers": 17,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 907
+  "_index": 910
 }

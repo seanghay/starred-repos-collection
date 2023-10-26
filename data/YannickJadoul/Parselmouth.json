@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/YannickJadoul/Parselmouth/releases{/id}",
   "deployments_url": "https://api.github.com/repos/YannickJadoul/Parselmouth/deployments",
   "created_at": "2017-06-06T15:57:13Z",
-  "updated_at": "2023-10-24T00:50:43Z",
+  "updated_at": "2023-10-25T03:22:59Z",
   "pushed_at": "2023-10-10T00:31:06Z",
   "git_url": "git://github.com/YannickJadoul/Parselmouth.git",
   "ssh_url": "git@github.com:YannickJadoul/Parselmouth.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 458
+  "_index": 461
 }

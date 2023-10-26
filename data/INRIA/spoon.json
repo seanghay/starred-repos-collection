@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/INRIA/spoon/releases{/id}",
   "deployments_url": "https://api.github.com/repos/INRIA/spoon/deployments",
   "created_at": "2013-11-06T15:29:59Z",
-  "updated_at": "2023-10-22T08:21:16Z",
-  "pushed_at": "2023-10-24T13:24:57Z",
+  "updated_at": "2023-10-26T01:11:20Z",
+  "pushed_at": "2023-10-26T00:57:05Z",
   "git_url": "git://github.com/INRIA/spoon.git",
   "ssh_url": "git@github.com:INRIA/spoon.git",
   "clone_url": "https://github.com/INRIA/spoon.git",
   "svn_url": "https://github.com/INRIA/spoon",
   "homepage": "http://spoon.gforge.inria.fr/",
-  "size": 34549,
-  "stargazers_count": 1577,
-  "watchers_count": 1577,
+  "size": 34550,
+  "stargazers_count": 1579,
+  "watchers_count": 1579,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 307,
+  "open_issues_count": 308,
   "license": {
     "key": "other",
     "name": "Other",
@@ -117,8 +117,8 @@
   ],
   "visibility": "public",
   "forks": 330,
-  "open_issues": 307,
-  "watchers": 1577,
+  "open_issues": 308,
+  "watchers": 1579,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1721
+  "_index": 1724
 }

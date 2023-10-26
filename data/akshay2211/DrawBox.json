@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 29,
+  "forks_count": 30,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -115,7 +115,7 @@
     "signature-pad"
   ],
   "visibility": "public",
-  "forks": 29,
+  "forks": 30,
   "open_issues": 8,
   "watchers": 241,
   "default_branch": "main",
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1289
+  "_index": 1292
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/rgalus/sticky-js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rgalus/sticky-js/deployments",
   "created_at": "2016-07-19T11:24:32Z",
-  "updated_at": "2023-10-24T15:28:18Z",
+  "updated_at": "2023-10-25T22:49:12Z",
   "pushed_at": "2021-08-10T23:50:10Z",
   "git_url": "git://github.com/rgalus/sticky-js.git",
   "ssh_url": "git@github.com:rgalus/sticky-js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/rgalus/sticky-js",
   "homepage": "https://rgalus.github.io/sticky-js/",
   "size": 854,
-  "stargazers_count": 710,
-  "watchers_count": 710,
+  "stargazers_count": 711,
+  "watchers_count": 711,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 196,
   "open_issues": 56,
-  "watchers": 710,
+  "watchers": 711,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3155
+  "_index": 3158
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/android/animation-samples/releases{/id}",
   "deployments_url": "https://api.github.com/repos/android/animation-samples/deployments",
   "created_at": "2019-08-08T04:45:57Z",
-  "updated_at": "2023-10-24T14:34:13Z",
+  "updated_at": "2023-10-25T08:49:28Z",
   "pushed_at": "2023-03-27T07:48:00Z",
   "git_url": "git://github.com/android/animation-samples.git",
   "ssh_url": "git@github.com:android/animation-samples.git",
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2691
+  "_index": 2694
 }

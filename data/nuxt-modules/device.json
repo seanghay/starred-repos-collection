@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/nuxt-modules/device.git",
   "svn_url": "https://github.com/nuxt-modules/device",
   "homepage": "",
-  "size": 1205,
+  "size": 1206,
   "stargazers_count": 782,
   "watchers_count": 782,
   "language": "TypeScript",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1469
+  "_index": 1472
 }

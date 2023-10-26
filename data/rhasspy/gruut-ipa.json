@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/rhasspy/gruut-ipa/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rhasspy/gruut-ipa/deployments",
   "created_at": "2020-10-06T18:13:00Z",
-  "updated_at": "2023-10-11T13:56:05Z",
+  "updated_at": "2023-10-25T05:49:01Z",
   "pushed_at": "2022-06-24T19:47:47Z",
   "git_url": "git://github.com/rhasspy/gruut-ipa.git",
   "ssh_url": "git@github.com:rhasspy/gruut-ipa.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/rhasspy/gruut-ipa",
   "homepage": "",
   "size": 313,
-  "stargazers_count": 55,
-  "watchers_count": 55,
+  "stargazers_count": 56,
+  "watchers_count": 56,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 9,
   "open_issues": 10,
-  "watchers": 55,
+  "watchers": 56,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 349
+  "_index": 352
 }

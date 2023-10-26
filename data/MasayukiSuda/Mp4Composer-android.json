@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/MasayukiSuda/Mp4Composer-android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/MasayukiSuda/Mp4Composer-android/deployments",
   "created_at": "2018-01-15T11:27:23Z",
-  "updated_at": "2023-10-23T03:50:12Z",
+  "updated_at": "2023-10-25T11:28:04Z",
   "pushed_at": "2020-11-25T15:32:02Z",
   "git_url": "git://github.com/MasayukiSuda/Mp4Composer-android.git",
   "ssh_url": "git@github.com:MasayukiSuda/Mp4Composer-android.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/MasayukiSuda/Mp4Composer-android",
   "homepage": "",
   "size": 21878,
-  "stargazers_count": 900,
-  "watchers_count": 900,
+  "stargazers_count": 903,
+  "watchers_count": 903,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 210,
+  "forks_count": 211,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -120,9 +120,9 @@
     "video-trimmer"
   ],
   "visibility": "public",
-  "forks": 210,
+  "forks": 211,
   "open_issues": 33,
-  "watchers": 900,
+  "watchers": 903,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2981
+  "_index": 2984
 }
