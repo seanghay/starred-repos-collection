@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 820,
+  "forks_count": 821,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,7 +106,7 @@
     "opencl"
   ],
   "visibility": "public",
-  "forks": 820,
+  "forks": 821,
   "open_issues": 59,
   "watchers": 4820,
   "default_branch": "master",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 236
+  "_index": 237
 }

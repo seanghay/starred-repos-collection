@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/alecthomas/participle/deployments",
   "created_at": "2016-06-28T14:25:14Z",
   "updated_at": "2023-10-25T22:48:24Z",
-  "pushed_at": "2023-10-26T01:00:58Z",
+  "pushed_at": "2023-10-27T01:05:52Z",
   "git_url": "git://github.com/alecthomas/participle.git",
   "ssh_url": "git@github.com:alecthomas/participle.git",
   "clone_url": "https://github.com/alecthomas/participle.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 207,
+  "forks_count": 208,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 31,
+  "open_issues_count": 32,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -111,8 +111,8 @@
     "participle"
   ],
   "visibility": "public",
-  "forks": 207,
-  "open_issues": 31,
+  "forks": 208,
+  "open_issues": 32,
   "watchers": 3147,
   "default_branch": "master",
   "permissions": {
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1282
+  "_index": 1283
 }

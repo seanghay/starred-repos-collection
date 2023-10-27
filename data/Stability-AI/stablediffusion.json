@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Stability-AI/stablediffusion/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Stability-AI/stablediffusion/deployments",
   "created_at": "2022-11-23T23:59:50Z",
-  "updated_at": "2023-10-26T00:07:24Z",
+  "updated_at": "2023-10-27T00:06:29Z",
   "pushed_at": "2023-10-05T01:28:17Z",
   "git_url": "git://github.com/Stability-AI/stablediffusion.git",
   "ssh_url": "git@github.com:Stability-AI/stablediffusion.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Stability-AI/stablediffusion",
   "homepage": null,
   "size": 75094,
-  "stargazers_count": 30997,
-  "watchers_count": 30997,
+  "stargazers_count": 31022,
+  "watchers_count": 31022,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 4086,
+  "forks_count": 4096,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 4086,
+  "forks": 4096,
   "open_issues": 234,
-  "watchers": 30997,
+  "watchers": 31022,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 838
+  "_index": 839
 }

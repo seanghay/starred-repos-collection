@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/lejard-h/chopper/deployments",
   "created_at": "2018-04-07T15:29:07Z",
   "updated_at": "2023-10-22T21:34:54Z",
-  "pushed_at": "2023-10-26T00:34:43Z",
+  "pushed_at": "2023-10-26T20:35:02Z",
   "git_url": "git://github.com/lejard-h/chopper.git",
   "ssh_url": "git@github.com:lejard-h/chopper.git",
   "clone_url": "https://github.com/lejard-h/chopper.git",
   "svn_url": "https://github.com/lejard-h/chopper",
   "homepage": "https://hadrien-lejard.gitbook.io/chopper",
-  "size": 6685,
+  "size": 6695,
   "stargazers_count": 678,
   "watchers_count": 678,
   "language": "Dart",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 19,
+  "open_issues_count": 16,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -94,7 +94,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 124,
-  "open_issues": 19,
+  "open_issues": 16,
   "watchers": 678,
   "default_branch": "develop",
   "permissions": {
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1592
+  "_index": 1593
 }

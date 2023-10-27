@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/github/hotkey/releases{/id}",
   "deployments_url": "https://api.github.com/repos/github/hotkey/deployments",
   "created_at": "2019-01-17T15:56:28Z",
-  "updated_at": "2023-10-24T21:51:17Z",
-  "pushed_at": "2023-10-24T18:08:41Z",
+  "updated_at": "2023-10-26T15:03:50Z",
+  "pushed_at": "2023-10-26T21:35:55Z",
   "git_url": "git://github.com/github/hotkey.git",
   "ssh_url": "git@github.com:github/hotkey.git",
   "clone_url": "https://github.com/github/hotkey.git",
   "svn_url": "https://github.com/github/hotkey",
-  "homepage": "https://github.github.io/hotkey/pages/",
-  "size": 980,
-  "stargazers_count": 2981,
-  "watchers_count": 2981,
+  "homepage": "https://github.github.com/hotkey/",
+  "size": 1035,
+  "stargazers_count": 2982,
+  "watchers_count": 2982,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 108,
+  "forks_count": 109,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,9 +102,9 @@
     "shortcuts"
   ],
   "visibility": "public",
-  "forks": 108,
+  "forks": 109,
   "open_issues": 11,
-  "watchers": 2981,
+  "watchers": 2982,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2037
+  "_index": 2038
 }

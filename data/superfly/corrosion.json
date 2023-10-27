@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/superfly/corrosion/deployments",
   "created_at": "2023-04-23T15:42:33Z",
   "updated_at": "2023-10-24T10:40:03Z",
-  "pushed_at": "2023-10-25T20:02:09Z",
+  "pushed_at": "2023-10-26T19:25:28Z",
   "git_url": "git://github.com/superfly/corrosion.git",
   "ssh_url": "git@github.com:superfly/corrosion.git",
   "clone_url": "https://github.com/superfly/corrosion.git",
   "svn_url": "https://github.com/superfly/corrosion",
   "homepage": "https://superfly.github.io/corrosion/",
-  "size": 21145,
+  "size": 21247,
   "stargazers_count": 454,
   "watchers_count": 454,
   "language": "Rust",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 5,
+  "open_issues_count": 6,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -108,7 +108,7 @@
   ],
   "visibility": "public",
   "forks": 6,
-  "open_issues": 5,
+  "open_issues": 6,
   "watchers": 454,
   "default_branch": "main",
   "permissions": {
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 84
+  "_index": 85
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/salu133445/muspy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/salu133445/muspy/deployments",
   "created_at": "2020-03-13T21:53:38Z",
-  "updated_at": "2023-10-24T21:27:00Z",
+  "updated_at": "2023-10-26T09:01:36Z",
   "pushed_at": "2023-06-26T08:08:25Z",
   "git_url": "git://github.com/salu133445/muspy.git",
   "ssh_url": "git@github.com:salu133445/muspy.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/salu133445/muspy",
   "homepage": "https://salu133445.github.io/muspy/",
   "size": 17042,
-  "stargazers_count": 385,
-  "watchers_count": 385,
+  "stargazers_count": 386,
+  "watchers_count": 386,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 48,
   "open_issues": 20,
-  "watchers": 385,
+  "watchers": 386,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 70
+  "_index": 71
 }

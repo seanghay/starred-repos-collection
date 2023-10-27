@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/haoheliu/versatile_audio_super_resolution/releases{/id}",
   "deployments_url": "https://api.github.com/repos/haoheliu/versatile_audio_super_resolution/deployments",
   "created_at": "2023-09-06T19:55:09Z",
-  "updated_at": "2023-10-25T22:20:28Z",
-  "pushed_at": "2023-09-28T03:55:24Z",
+  "updated_at": "2023-10-27T01:26:08Z",
+  "pushed_at": "2023-10-26T15:10:47Z",
   "git_url": "git://github.com/haoheliu/versatile_audio_super_resolution.git",
   "ssh_url": "git@github.com:haoheliu/versatile_audio_super_resolution.git",
   "clone_url": "https://github.com/haoheliu/versatile_audio_super_resolution.git",
   "svn_url": "https://github.com/haoheliu/versatile_audio_super_resolution",
   "homepage": "",
-  "size": 7042,
-  "stargazers_count": 514,
-  "watchers_count": 514,
+  "size": 7012,
+  "stargazers_count": 519,
+  "watchers_count": 519,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 24,
+  "open_issues_count": 22,
   "license": {
     "key": "other",
     "name": "Other",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 51,
-  "open_issues": 24,
-  "watchers": 514,
+  "open_issues": 22,
+  "watchers": 519,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 141
+  "_index": 142
 }

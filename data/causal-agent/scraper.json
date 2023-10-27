@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/causal-agent/scraper/deployments",
   "created_at": "2016-01-01T21:45:09Z",
   "updated_at": "2023-10-23T11:12:29Z",
-  "pushed_at": "2023-10-19T18:38:24Z",
+  "pushed_at": "2023-10-26T19:51:13Z",
   "git_url": "git://github.com/causal-agent/scraper.git",
   "ssh_url": "git@github.com:causal-agent/scraper.git",
   "clone_url": "https://github.com/causal-agent/scraper.git",
   "svn_url": "https://github.com/causal-agent/scraper",
   "homepage": "https://docs.rs/scraper",
-  "size": 4400,
+  "size": 4398,
   "stargazers_count": 1550,
   "watchers_count": 1550,
   "language": "Rust",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 9,
+  "open_issues_count": 8,
   "license": {
     "key": "isc",
     "name": "ISC License",
@@ -103,7 +103,7 @@
   ],
   "visibility": "public",
   "forks": 120,
-  "open_issues": 9,
+  "open_issues": 8,
   "watchers": 1550,
   "default_branch": "master",
   "permissions": {
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 808
+  "_index": 809
 }

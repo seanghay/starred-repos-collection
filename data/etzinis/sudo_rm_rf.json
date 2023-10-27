@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/etzinis/sudo_rm_rf/releases{/id}",
   "deployments_url": "https://api.github.com/repos/etzinis/sudo_rm_rf/deployments",
   "created_at": "2020-07-12T17:56:43Z",
-  "updated_at": "2023-10-12T04:29:57Z",
+  "updated_at": "2023-10-26T03:06:51Z",
   "pushed_at": "2023-07-06T21:59:47Z",
   "git_url": "git://github.com/etzinis/sudo_rm_rf.git",
   "ssh_url": "git@github.com:etzinis/sudo_rm_rf.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/etzinis/sudo_rm_rf",
   "homepage": "",
   "size": 22018,
-  "stargazers_count": 264,
-  "watchers_count": 264,
+  "stargazers_count": 265,
+  "watchers_count": 265,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 30,
   "open_issues": 5,
-  "watchers": 264,
+  "watchers": 265,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 422
+  "_index": 423
 }

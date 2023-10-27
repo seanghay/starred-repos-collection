@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/twitter/the-algorithm-ml/releases{/id}",
   "deployments_url": "https://api.github.com/repos/twitter/the-algorithm-ml/deployments",
   "created_at": "2023-03-27T15:51:49Z",
-  "updated_at": "2023-10-25T17:04:17Z",
+  "updated_at": "2023-10-26T13:52:19Z",
   "pushed_at": "2023-09-21T17:35:11Z",
   "git_url": "git://github.com/twitter/the-algorithm-ml.git",
   "ssh_url": "git@github.com:twitter/the-algorithm-ml.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2231,
+  "forks_count": 2230,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,7 +99,7 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 2231,
+  "forks": 2230,
   "open_issues": 53,
   "watchers": 9739,
   "default_branch": "main",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 595
+  "_index": 596
 }

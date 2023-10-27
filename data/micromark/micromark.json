@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/micromark/micromark/releases{/id}",
   "deployments_url": "https://api.github.com/repos/micromark/micromark/deployments",
   "created_at": "2018-11-13T17:34:37Z",
-  "updated_at": "2023-10-25T20:04:38Z",
-  "pushed_at": "2023-06-26T12:37:23Z",
+  "updated_at": "2023-10-26T12:53:48Z",
+  "pushed_at": "2023-10-26T23:24:08Z",
   "git_url": "git://github.com/micromark/micromark.git",
   "ssh_url": "git@github.com:micromark/micromark.git",
   "clone_url": "https://github.com/micromark/micromark.git",
   "svn_url": "https://github.com/micromark/micromark",
   "homepage": "https://unifiedjs.com",
-  "size": 2164,
-  "stargazers_count": 1536,
-  "watchers_count": 1536,
+  "size": 2190,
+  "stargazers_count": 1537,
+  "watchers_count": 1537,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 54,
+  "forks_count": 56,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 5,
+  "open_issues_count": 7,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -110,9 +110,9 @@
     "unified"
   ],
   "visibility": "public",
-  "forks": 54,
-  "open_issues": 5,
-  "watchers": 1536,
+  "forks": 56,
+  "open_issues": 7,
+  "watchers": 1537,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1757
+  "_index": 1758
 }

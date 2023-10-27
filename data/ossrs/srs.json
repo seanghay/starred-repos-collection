@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ossrs/srs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ossrs/srs/deployments",
   "created_at": "2015-04-29T06:59:32Z",
-  "updated_at": "2023-10-26T01:14:14Z",
-  "pushed_at": "2023-10-25T12:45:38Z",
+  "updated_at": "2023-10-27T01:39:51Z",
+  "pushed_at": "2023-10-26T15:06:29Z",
   "git_url": "git://github.com/ossrs/srs.git",
   "ssh_url": "git@github.com:ossrs/srs.git",
   "clone_url": "https://github.com/ossrs/srs.git",
   "svn_url": "https://github.com/ossrs/srs",
   "homepage": "https://ossrs.io",
   "size": 252632,
-  "stargazers_count": 22888,
-  "watchers_count": 22888,
+  "stargazers_count": 22899,
+  "watchers_count": 22899,
   "language": "C++",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 5142,
+  "forks_count": 5143,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 169,
+  "open_issues_count": 170,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -120,9 +120,9 @@
     "webrtc"
   ],
   "visibility": "public",
-  "forks": 5142,
-  "open_issues": 169,
-  "watchers": 22888,
+  "forks": 5143,
+  "open_issues": 170,
+  "watchers": 22899,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1469
+  "_index": 1470
 }

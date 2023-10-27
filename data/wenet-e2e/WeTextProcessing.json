@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/wenet-e2e/WeTextProcessing/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wenet-e2e/WeTextProcessing/deployments",
   "created_at": "2022-08-23T14:33:26Z",
-  "updated_at": "2023-10-25T02:31:29Z",
-  "pushed_at": "2023-10-25T16:27:48Z",
+  "updated_at": "2023-10-26T06:42:23Z",
+  "pushed_at": "2023-10-26T05:51:34Z",
   "git_url": "git://github.com/wenet-e2e/WeTextProcessing.git",
   "ssh_url": "git@github.com:wenet-e2e/WeTextProcessing.git",
   "clone_url": "https://github.com/wenet-e2e/WeTextProcessing.git",
   "svn_url": "https://github.com/wenet-e2e/WeTextProcessing",
   "homepage": "",
-  "size": 470,
-  "stargazers_count": 295,
-  "watchers_count": 295,
+  "size": 481,
+  "stargazers_count": 296,
+  "watchers_count": 296,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 44,
+  "forks_count": 45,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 6,
+  "open_issues_count": 4,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -103,9 +103,9 @@
     "text-processing"
   ],
   "visibility": "public",
-  "forks": 44,
-  "open_issues": 6,
-  "watchers": 295,
+  "forks": 45,
+  "open_issues": 4,
+  "watchers": 296,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 275
+  "_index": 276
 }
