@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yoheinakajima/instagraph/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yoheinakajima/instagraph/deployments",
   "created_at": "2023-09-12T21:25:09Z",
-  "updated_at": "2023-10-27T00:35:54Z",
+  "updated_at": "2023-10-27T20:30:47Z",
   "pushed_at": "2023-10-20T20:29:41Z",
   "git_url": "git://github.com/yoheinakajima/instagraph.git",
   "ssh_url": "git@github.com:yoheinakajima/instagraph.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yoheinakajima/instagraph",
   "homepage": null,
   "size": 163,
-  "stargazers_count": 2796,
-  "watchers_count": 2796,
+  "stargazers_count": 2800,
+  "watchers_count": 2800,
   "language": "HTML",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 240,
   "open_issues": 15,
-  "watchers": 2796,
+  "watchers": 2800,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 144
+  "_index": 146
 }

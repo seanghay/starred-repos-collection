@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/thi-ng/umbrella",
-  "description": "⛱  Broadly scoped ecosystem & mono-repository of 183 TypeScript projects for general purpose, functional, data driven development",
+  "description": "⛱  Broadly scoped ecosystem & mono-repository of 184 TypeScript projects for general purpose, functional, data driven development",
   "fork": false,
   "url": "https://api.github.com/repos/thi-ng/umbrella",
   "forks_url": "https://api.github.com/repos/thi-ng/umbrella/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/thi-ng/umbrella/releases{/id}",
   "deployments_url": "https://api.github.com/repos/thi-ng/umbrella/deployments",
   "created_at": "2018-01-24T02:31:44Z",
-  "updated_at": "2023-10-26T14:37:59Z",
-  "pushed_at": "2023-10-26T23:09:20Z",
+  "updated_at": "2023-10-27T18:57:21Z",
+  "pushed_at": "2023-10-27T20:44:43Z",
   "git_url": "git://github.com/thi-ng/umbrella.git",
   "ssh_url": "git@github.com:thi-ng/umbrella.git",
   "clone_url": "https://github.com/thi-ng/umbrella.git",
   "svn_url": "https://github.com/thi-ng/umbrella",
   "homepage": "https://thi.ng",
-  "size": 186987,
-  "stargazers_count": 3062,
-  "watchers_count": 3062,
+  "size": 187847,
+  "stargazers_count": 3063,
+  "watchers_count": 3063,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -122,7 +122,7 @@
   "visibility": "public",
   "forks": 138,
   "open_issues": 63,
-  "watchers": 3062,
+  "watchers": 3063,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1891
+  "_index": 1893
 }

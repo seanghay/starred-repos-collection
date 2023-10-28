@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/auspicious3000/SpeechSplit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/auspicious3000/SpeechSplit/deployments",
   "created_at": "2020-06-24T08:06:08Z",
-  "updated_at": "2023-10-26T10:36:14Z",
+  "updated_at": "2023-10-27T13:09:46Z",
   "pushed_at": "2022-02-08T02:22:44Z",
   "git_url": "git://github.com/auspicious3000/SpeechSplit.git",
   "ssh_url": "git@github.com:auspicious3000/SpeechSplit.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/auspicious3000/SpeechSplit",
   "homepage": "http://arxiv.org/abs/2004.11284",
   "size": 241,
-  "stargazers_count": 577,
-  "watchers_count": 577,
+  "stargazers_count": 578,
+  "watchers_count": 578,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 92,
   "open_issues": 29,
-  "watchers": 577,
+  "watchers": 578,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 285
+  "_index": 287
 }

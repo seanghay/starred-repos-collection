@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/sindresorhus/parse-json/deployments",
   "created_at": "2015-08-25T14:11:41Z",
   "updated_at": "2023-10-15T15:00:52Z",
-  "pushed_at": "2023-09-01T06:40:07Z",
+  "pushed_at": "2023-10-27T18:32:16Z",
   "git_url": "git://github.com/sindresorhus/parse-json.git",
   "ssh_url": "git@github.com:sindresorhus/parse-json.git",
   "clone_url": "https://github.com/sindresorhus/parse-json.git",
   "svn_url": "https://github.com/sindresorhus/parse-json",
   "homepage": null,
-  "size": 46,
+  "size": 45,
   "stargazers_count": 323,
   "watchers_count": 323,
   "language": "JavaScript",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 38,
+  "forks_count": 39,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,7 +99,7 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 38,
+  "forks": 39,
   "open_issues": 2,
   "watchers": 323,
   "default_branch": "main",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1043
+  "_index": 1045
 }

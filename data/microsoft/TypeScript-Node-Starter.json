@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/microsoft/TypeScript-Node-Starter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microsoft/TypeScript-Node-Starter/deployments",
   "created_at": "2017-05-09T19:53:52Z",
-  "updated_at": "2023-10-26T13:50:02Z",
+  "updated_at": "2023-10-27T02:37:28Z",
   "pushed_at": "2022-06-24T15:40:58Z",
   "git_url": "git://github.com/microsoft/TypeScript-Node-Starter.git",
   "ssh_url": "git@github.com:microsoft/TypeScript-Node-Starter.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/microsoft/TypeScript-Node-Starter",
   "homepage": "",
   "size": 1751,
-  "stargazers_count": 11181,
-  "watchers_count": 11181,
+  "stargazers_count": 11182,
+  "watchers_count": 11182,
   "language": "SCSS",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2817,
+  "forks_count": 2818,
   "mirror_url": null,
   "archived": true,
   "disabled": false,
@@ -105,9 +105,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 2817,
+  "forks": 2818,
   "open_issues": 69,
-  "watchers": 11181,
+  "watchers": 11182,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3129
+  "_index": 3131
 }

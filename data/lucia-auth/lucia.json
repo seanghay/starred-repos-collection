@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/lucia-auth/lucia/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lucia-auth/lucia/deployments",
   "created_at": "2022-07-18T14:53:24Z",
-  "updated_at": "2023-10-27T01:30:30Z",
-  "pushed_at": "2023-10-26T00:13:11Z",
+  "updated_at": "2023-10-27T21:28:45Z",
+  "pushed_at": "2023-10-28T01:21:42Z",
   "git_url": "git://github.com/lucia-auth/lucia.git",
   "ssh_url": "git@github.com:lucia-auth/lucia.git",
   "clone_url": "https://github.com/lucia-auth/lucia.git",
   "svn_url": "https://github.com/lucia-auth/lucia",
   "homepage": "https://lucia-auth.com",
-  "size": 5415,
-  "stargazers_count": 3956,
-  "watchers_count": 3956,
+  "size": 5418,
+  "stargazers_count": 3961,
+  "watchers_count": 3961,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 323,
+  "forks_count": 325,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 36,
+  "open_issues_count": 37,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,9 +103,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 323,
-  "open_issues": 36,
-  "watchers": 3956,
+  "forks": 325,
+  "open_issues": 37,
+  "watchers": 3961,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 10
+  "_index": 12
 }

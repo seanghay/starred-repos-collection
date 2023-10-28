@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/robertlevonyan/media-picker/deployments",
   "created_at": "2018-03-16T16:40:06Z",
   "updated_at": "2023-08-16T10:32:01Z",
-  "pushed_at": "2023-02-17T07:29:17Z",
+  "pushed_at": "2023-10-27T12:09:40Z",
   "git_url": "git://github.com/robertlevonyan/media-picker.git",
   "ssh_url": "git@github.com:robertlevonyan/media-picker.git",
   "clone_url": "https://github.com/robertlevonyan/media-picker.git",
   "svn_url": "https://github.com/robertlevonyan/media-picker",
   "homepage": "",
-  "size": 719,
+  "size": 725,
   "stargazers_count": 190,
   "watchers_count": 190,
   "language": "Kotlin",
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2340
+  "_index": 2342
 }

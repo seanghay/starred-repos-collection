@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/upscayl/upscayl/releases{/id}",
   "deployments_url": "https://api.github.com/repos/upscayl/upscayl/deployments",
   "created_at": "2022-07-30T17:19:20Z",
-  "updated_at": "2023-10-27T00:57:13Z",
-  "pushed_at": "2023-10-26T13:16:58Z",
+  "updated_at": "2023-10-28T01:15:26Z",
+  "pushed_at": "2023-10-27T14:31:31Z",
   "git_url": "git://github.com/upscayl/upscayl.git",
   "ssh_url": "git@github.com:upscayl/upscayl.git",
   "clone_url": "https://github.com/upscayl/upscayl.git",
   "svn_url": "https://github.com/upscayl/upscayl",
   "homepage": "https://upscayl.org",
-  "size": 476640,
-  "stargazers_count": 18872,
-  "watchers_count": 18872,
+  "size": 481156,
+  "stargazers_count": 18899,
+  "watchers_count": 18899,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 774,
+  "forks_count": 776,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 19,
+  "open_issues_count": 20,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -111,9 +111,9 @@
     "upscayl"
   ],
   "visibility": "public",
-  "forks": 774,
-  "open_issues": 19,
-  "watchers": 18872,
+  "forks": 776,
+  "open_issues": 20,
+  "watchers": 18899,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 986
+  "_index": 988
 }

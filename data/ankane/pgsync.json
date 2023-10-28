@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 189,
+  "forks_count": 188,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -101,7 +101,7 @@
     "postgresql"
   ],
   "visibility": "public",
-  "forks": 189,
+  "forks": 188,
   "open_issues": 9,
   "watchers": 2778,
   "default_branch": "master",
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 988
+  "_index": 990
 }
