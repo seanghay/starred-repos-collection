@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/raycast/extensions/releases{/id}",
   "deployments_url": "https://api.github.com/repos/raycast/extensions/deployments",
   "created_at": "2021-09-21T14:43:50Z",
-  "updated_at": "2023-10-27T14:41:27Z",
-  "pushed_at": "2023-10-28T00:45:03Z",
+  "updated_at": "2023-10-28T14:50:44Z",
+  "pushed_at": "2023-10-28T23:42:07Z",
   "git_url": "git://github.com/raycast/extensions.git",
   "ssh_url": "git@github.com:raycast/extensions.git",
   "clone_url": "https://github.com/raycast/extensions.git",
   "svn_url": "https://github.com/raycast/extensions",
   "homepage": "https://developers.raycast.com",
-  "size": 6094926,
+  "size": 6103685,
   "stargazers_count": 4257,
   "watchers_count": 4257,
   "language": "TypeScript",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 2005,
+  "forks_count": 2006,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,7 +99,7 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 2005,
+  "forks": 2006,
   "open_issues": 497,
   "watchers": 4257,
   "default_branch": "main",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1433
+  "_index": 1436
 }

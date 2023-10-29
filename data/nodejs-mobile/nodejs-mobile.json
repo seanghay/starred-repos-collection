@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/nodejs-mobile/nodejs-mobile/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nodejs-mobile/nodejs-mobile/deployments",
   "created_at": "2021-10-07T17:51:52Z",
-  "updated_at": "2023-10-28T00:08:26Z",
-  "pushed_at": "2023-10-17T10:59:18Z",
+  "updated_at": "2023-10-28T16:16:43Z",
+  "pushed_at": "2023-10-28T22:33:58Z",
   "git_url": "git://github.com/nodejs-mobile/nodejs-mobile.git",
   "ssh_url": "git@github.com:nodejs-mobile/nodejs-mobile.git",
   "clone_url": "https://github.com/nodejs-mobile/nodejs-mobile.git",
   "svn_url": "https://github.com/nodejs-mobile/nodejs-mobile",
   "homepage": "",
   "size": 697709,
-  "stargazers_count": 263,
-  "watchers_count": 263,
+  "stargazers_count": 264,
+  "watchers_count": 264,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 30,
+  "forks_count": 31,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 25,
+  "open_issues_count": 27,
   "license": {
     "key": "other",
     "name": "Other",
@@ -107,9 +107,9 @@
     "react-native"
   ],
   "visibility": "public",
-  "forks": 30,
-  "open_issues": 25,
-  "watchers": 263,
+  "forks": 31,
+  "open_issues": 27,
+  "watchers": 264,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1399
+  "_index": 1402
 }

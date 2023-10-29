@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/gorse-io/gorse/deployments",
   "created_at": "2018-08-14T11:01:09Z",
   "updated_at": "2023-10-27T03:01:10Z",
-  "pushed_at": "2023-10-07T03:42:13Z",
+  "pushed_at": "2023-10-28T18:59:48Z",
   "git_url": "git://github.com/gorse-io/gorse.git",
   "ssh_url": "git@github.com:gorse-io/gorse.git",
   "clone_url": "https://github.com/gorse-io/gorse.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 716,
+  "forks_count": 718,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 63,
+  "open_issues_count": 64,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -105,8 +105,8 @@
     "recommender-system"
   ],
   "visibility": "public",
-  "forks": 716,
-  "open_issues": 63,
+  "forks": 718,
+  "open_issues": 64,
   "watchers": 7661,
   "default_branch": "master",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1342
+  "_index": 1345
 }

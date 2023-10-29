@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yasharpm/InstaCropper/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yasharpm/InstaCropper/deployments",
   "created_at": "2017-03-12T05:53:04Z",
-  "updated_at": "2023-08-03T07:45:33Z",
+  "updated_at": "2023-10-28T02:49:52Z",
   "pushed_at": "2022-01-07T09:56:25Z",
   "git_url": "git://github.com/yasharpm/InstaCropper.git",
   "ssh_url": "git@github.com:yasharpm/InstaCropper.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yasharpm/InstaCropper",
   "homepage": "",
   "size": 137,
-  "stargazers_count": 376,
-  "watchers_count": 376,
+  "stargazers_count": 375,
+  "watchers_count": 375,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 44,
   "open_issues": 9,
-  "watchers": 376,
+  "watchers": 375,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2978
+  "_index": 2981
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/alibaba-damo-academy/3D-Speaker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/alibaba-damo-academy/3D-Speaker/deployments",
   "created_at": "2023-03-06T04:05:27Z",
-  "updated_at": "2023-10-27T11:35:58Z",
+  "updated_at": "2023-10-29T00:37:45Z",
   "pushed_at": "2023-10-17T07:15:02Z",
   "git_url": "git://github.com/alibaba-damo-academy/3D-Speaker.git",
   "ssh_url": "git@github.com:alibaba-damo-academy/3D-Speaker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/alibaba-damo-academy/3D-Speaker",
   "homepage": "",
   "size": 2807,
-  "stargazers_count": 293,
-  "watchers_count": 293,
+  "stargazers_count": 294,
+  "watchers_count": 294,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 25,
   "open_issues": 0,
-  "watchers": 293,
+  "watchers": 294,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 108
+  "_index": 111
 }

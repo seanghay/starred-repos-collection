@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/novuhq/novu/releases{/id}",
   "deployments_url": "https://api.github.com/repos/novuhq/novu/deployments",
   "created_at": "2021-08-26T15:22:44Z",
-  "updated_at": "2023-10-27T22:08:45Z",
-  "pushed_at": "2023-10-27T19:21:54Z",
+  "updated_at": "2023-10-29T00:05:04Z",
+  "pushed_at": "2023-10-28T21:20:37Z",
   "git_url": "git://github.com/novuhq/novu.git",
   "ssh_url": "git@github.com:novuhq/novu.git",
   "clone_url": "https://github.com/novuhq/novu.git",
   "svn_url": "https://github.com/novuhq/novu",
   "homepage": "https://novu.co",
   "size": 167839,
-  "stargazers_count": 30552,
-  "watchers_count": 30552,
+  "stargazers_count": 30575,
+  "watchers_count": 30575,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3337,
+  "forks_count": 3367,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 364,
+  "open_issues_count": 367,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -116,9 +116,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 3337,
-  "open_issues": 364,
-  "watchers": 30552,
+  "forks": 3367,
+  "open_issues": 367,
+  "watchers": 30575,
   "default_branch": "next",
   "permissions": {
     "admin": false,
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1401
+  "_index": 1404
 }

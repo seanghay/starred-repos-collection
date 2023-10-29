@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/sony/bigvsan.git",
   "svn_url": "https://github.com/sony/bigvsan",
   "homepage": "",
-  "size": 14814,
+  "size": 14816,
   "stargazers_count": 126,
   "watchers_count": 126,
   "language": "Python",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 43
+  "_index": 46
 }

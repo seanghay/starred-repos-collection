@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 278,
+  "forks_count": 279,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -112,7 +112,7 @@
     "tntsearch"
   ],
   "visibility": "public",
-  "forks": 278,
+  "forks": 279,
   "open_issues": 76,
   "watchers": 2980,
   "default_branch": "master",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1376
+  "_index": 1379
 }

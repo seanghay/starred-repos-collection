@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/TencentARC/AnimeSR/releases{/id}",
   "deployments_url": "https://api.github.com/repos/TencentARC/AnimeSR/deployments",
   "created_at": "2022-06-14T07:04:29Z",
-  "updated_at": "2023-10-26T01:21:45Z",
+  "updated_at": "2023-10-28T03:47:21Z",
   "pushed_at": "2023-08-18T13:09:28Z",
   "git_url": "git://github.com/TencentARC/AnimeSR.git",
   "ssh_url": "git@github.com:TencentARC/AnimeSR.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/TencentARC/AnimeSR",
   "homepage": null,
   "size": 182,
-  "stargazers_count": 279,
-  "watchers_count": 279,
+  "stargazers_count": 280,
+  "watchers_count": 280,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 29,
   "open_issues": 6,
-  "watchers": 279,
+  "watchers": 280,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 698
+  "_index": 701
 }

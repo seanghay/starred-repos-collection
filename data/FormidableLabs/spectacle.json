@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/FormidableLabs/spectacle/releases{/id}",
   "deployments_url": "https://api.github.com/repos/FormidableLabs/spectacle/deployments",
   "created_at": "2015-06-30T20:36:07Z",
-  "updated_at": "2023-10-24T23:12:22Z",
+  "updated_at": "2023-10-28T07:19:46Z",
   "pushed_at": "2023-09-12T12:29:02Z",
   "git_url": "git://github.com/FormidableLabs/spectacle.git",
   "ssh_url": "git@github.com:FormidableLabs/spectacle.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/FormidableLabs/spectacle",
   "homepage": "http://formidable.com/open-source/spectacle/",
   "size": 115165,
-  "stargazers_count": 9599,
-  "watchers_count": 9599,
+  "stargazers_count": 9600,
+  "watchers_count": 9600,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 742,
   "open_issues": 62,
-  "watchers": 9599,
+  "watchers": 9600,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3122
+  "_index": 3125
 }

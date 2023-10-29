@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Rich-Harris/degit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Rich-Harris/degit/deployments",
   "created_at": "2017-07-31T17:44:38Z",
-  "updated_at": "2023-10-27T13:27:45Z",
+  "updated_at": "2023-10-28T19:24:41Z",
   "pushed_at": "2023-08-04T14:23:05Z",
   "git_url": "git://github.com/Rich-Harris/degit.git",
   "ssh_url": "git@github.com:Rich-Harris/degit.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Rich-Harris/degit",
   "homepage": null,
   "size": 697,
-  "stargazers_count": 6252,
-  "watchers_count": 6252,
+  "stargazers_count": 6255,
+  "watchers_count": 6255,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 223,
+  "forks_count": 225,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 223,
+  "forks": 225,
   "open_issues": 79,
-  "watchers": 6252,
+  "watchers": 6255,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1076
+  "_index": 1079
 }

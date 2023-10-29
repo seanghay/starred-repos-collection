@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/dgtlmoon/changedetection.io",
-  "description": "The best and simplest free open source website change detection, watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change and Price Drop notificatio",
+  "description": "The best and simplest free open source website change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
   "fork": false,
   "url": "https://api.github.com/repos/dgtlmoon/changedetection.io",
   "forks_url": "https://api.github.com/repos/dgtlmoon/changedetection.io/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/dgtlmoon/changedetection.io/releases{/id}",
   "deployments_url": "https://api.github.com/repos/dgtlmoon/changedetection.io/deployments",
   "created_at": "2021-01-27T16:03:30Z",
-  "updated_at": "2023-10-28T01:06:07Z",
-  "pushed_at": "2023-10-26T19:59:34Z",
+  "updated_at": "2023-10-28T21:51:42Z",
+  "pushed_at": "2023-10-28T18:20:34Z",
   "git_url": "git://github.com/dgtlmoon/changedetection.io.git",
   "ssh_url": "git@github.com:dgtlmoon/changedetection.io.git",
   "clone_url": "https://github.com/dgtlmoon/changedetection.io.git",
   "svn_url": "https://github.com/dgtlmoon/changedetection.io",
   "homepage": "https://changedetection.io",
-  "size": 7292,
-  "stargazers_count": 12798,
-  "watchers_count": 12798,
+  "size": 7340,
+  "stargazers_count": 12802,
+  "watchers_count": 12802,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 712,
+  "forks_count": 711,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 159,
+  "open_issues_count": 161,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -120,9 +120,9 @@
     "website-watcher"
   ],
   "visibility": "public",
-  "forks": 712,
-  "open_issues": 159,
-  "watchers": 12798,
+  "forks": 711,
+  "open_issues": 161,
+  "watchers": 12802,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 178
+  "_index": 181
 }

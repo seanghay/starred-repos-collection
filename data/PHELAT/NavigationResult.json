@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/PHELAT/NavigationResult/releases{/id}",
   "deployments_url": "https://api.github.com/repos/PHELAT/NavigationResult/deployments",
   "created_at": "2019-05-03T12:07:22Z",
-  "updated_at": "2023-06-10T01:22:24Z",
+  "updated_at": "2023-10-28T02:43:34Z",
   "pushed_at": "2020-06-01T13:34:30Z",
   "git_url": "git://github.com/PHELAT/NavigationResult.git",
   "ssh_url": "git@github.com:PHELAT/NavigationResult.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/PHELAT/NavigationResult",
   "homepage": "",
   "size": 182,
-  "stargazers_count": 58,
-  "watchers_count": 58,
+  "stargazers_count": 57,
+  "watchers_count": 57,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 3,
   "open_issues": 3,
-  "watchers": 58,
+  "watchers": 57,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2720
+  "_index": 2723
 }

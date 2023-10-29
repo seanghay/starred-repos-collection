@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/antoniomika/sish/deployments",
   "created_at": "2019-02-15T15:36:23Z",
   "updated_at": "2023-10-27T13:53:00Z",
-  "pushed_at": "2023-10-12T20:20:20Z",
+  "pushed_at": "2023-10-28T04:10:30Z",
   "git_url": "git://github.com/antoniomika/sish.git",
   "ssh_url": "git@github.com:antoniomika/sish.git",
   "clone_url": "https://github.com/antoniomika/sish.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 285,
+  "forks_count": 286,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 5,
+  "open_issues_count": 6,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,8 +108,8 @@
     "websockets"
   ],
   "visibility": "public",
-  "forks": 285,
-  "open_issues": 5,
+  "forks": 286,
+  "open_issues": 6,
   "watchers": 3566,
   "default_branch": "main",
   "permissions": {
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 591
+  "_index": 594
 }

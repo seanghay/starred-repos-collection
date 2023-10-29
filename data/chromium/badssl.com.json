@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/chromium/badssl.com/releases{/id}",
   "deployments_url": "https://api.github.com/repos/chromium/badssl.com/deployments",
   "created_at": "2015-04-07T22:37:47Z",
-  "updated_at": "2023-10-26T23:59:57Z",
+  "updated_at": "2023-10-28T11:51:14Z",
   "pushed_at": "2023-07-21T21:58:47Z",
   "git_url": "git://github.com/chromium/badssl.com.git",
   "ssh_url": "git@github.com:chromium/badssl.com.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/chromium/badssl.com",
   "homepage": "https://badssl.com",
   "size": 6772,
-  "stargazers_count": 2635,
-  "watchers_count": 2635,
+  "stargazers_count": 2636,
+  "watchers_count": 2636,
   "language": "HTML",
   "has_issues": true,
   "has_projects": true,
@@ -114,7 +114,7 @@
   "visibility": "public",
   "forks": 199,
   "open_issues": 201,
-  "watchers": 2635,
+  "watchers": 2636,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1990
+  "_index": 1993
 }
