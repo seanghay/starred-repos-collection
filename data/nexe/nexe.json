@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nexe/nexe/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nexe/nexe/deployments",
   "created_at": "2011-11-26T19:12:16Z",
-  "updated_at": "2023-10-28T22:00:18Z",
+  "updated_at": "2023-10-29T22:36:56Z",
   "pushed_at": "2023-08-27T01:40:23Z",
   "git_url": "git://github.com/nexe/nexe.git",
   "ssh_url": "git@github.com:nexe/nexe.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nexe/nexe",
   "homepage": "",
   "size": 32576,
-  "stargazers_count": 12398,
-  "watchers_count": 12398,
+  "stargazers_count": 12401,
+  "watchers_count": 12401,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 134,
+  "open_issues_count": 133,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -110,8 +110,8 @@
   ],
   "visibility": "public",
   "forks": 536,
-  "open_issues": 134,
-  "watchers": 12398,
+  "open_issues": 133,
+  "watchers": 12401,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1790
+  "_index": 1792
 }

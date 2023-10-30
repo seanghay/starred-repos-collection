@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/theonedev/onedev/releases{/id}",
   "deployments_url": "https://api.github.com/repos/theonedev/onedev/deployments",
   "created_at": "2018-11-06T02:57:01Z",
-  "updated_at": "2023-10-28T04:26:49Z",
-  "pushed_at": "2023-10-28T23:11:37Z",
+  "updated_at": "2023-10-29T18:31:06Z",
+  "pushed_at": "2023-10-30T01:03:55Z",
   "git_url": "git://github.com/theonedev/onedev.git",
   "ssh_url": "git@github.com:theonedev/onedev.git",
   "clone_url": "https://github.com/theonedev/onedev.git",
   "svn_url": "https://github.com/theonedev/onedev",
   "homepage": "https://onedev.io",
-  "size": 208177,
-  "stargazers_count": 11978,
-  "watchers_count": 11978,
+  "size": 208185,
+  "stargazers_count": 11983,
+  "watchers_count": 11983,
   "language": "Java",
   "has_issues": false,
   "has_projects": false,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 803,
   "open_issues": 0,
-  "watchers": 11978,
+  "watchers": 11983,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2392
+  "_index": 2394
 }

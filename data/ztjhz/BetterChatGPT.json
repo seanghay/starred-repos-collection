@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ztjhz/BetterChatGPT/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ztjhz/BetterChatGPT/deployments",
   "created_at": "2023-03-03T22:16:18Z",
-  "updated_at": "2023-10-29T01:28:41Z",
+  "updated_at": "2023-10-29T21:57:47Z",
   "pushed_at": "2023-10-25T18:22:06Z",
   "git_url": "git://github.com/ztjhz/BetterChatGPT.git",
   "ssh_url": "git@github.com:ztjhz/BetterChatGPT.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ztjhz/BetterChatGPT",
   "homepage": "http://bettergpt.chat/",
   "size": 3452,
-  "stargazers_count": 6262,
-  "watchers_count": 6262,
+  "stargazers_count": 6265,
+  "watchers_count": 6265,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 2166,
+  "forks_count": 2167,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 159,
+  "open_issues_count": 160,
   "license": {
     "key": "cc0-1.0",
     "name": "Creative Commons Zero v1.0 Universal",
@@ -106,9 +106,9 @@
     "gpt-4"
   ],
   "visibility": "public",
-  "forks": 2166,
-  "open_issues": 159,
-  "watchers": 6262,
+  "forks": 2167,
+  "open_issues": 160,
+  "watchers": 6265,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 660
+  "_index": 662
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/n8n-io/n8n/releases{/id}",
   "deployments_url": "https://api.github.com/repos/n8n-io/n8n/deployments",
   "created_at": "2019-06-22T09:24:21Z",
-  "updated_at": "2023-10-28T22:47:20Z",
-  "pushed_at": "2023-10-28T20:34:06Z",
+  "updated_at": "2023-10-30T01:28:44Z",
+  "pushed_at": "2023-10-29T21:44:32Z",
   "git_url": "git://github.com/n8n-io/n8n.git",
   "ssh_url": "git@github.com:n8n-io/n8n.git",
   "clone_url": "https://github.com/n8n-io/n8n.git",
   "svn_url": "https://github.com/n8n-io/n8n",
   "homepage": "https://n8n.io",
-  "size": 142670,
-  "stargazers_count": 34613,
-  "watchers_count": 34613,
+  "size": 142728,
+  "stargazers_count": 34623,
+  "watchers_count": 34623,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 4058,
+  "forks_count": 4060,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 260,
+  "open_issues_count": 262,
   "license": {
     "key": "other",
     "name": "Other",
@@ -120,9 +120,9 @@
     "workflow-automation"
   ],
   "visibility": "public",
-  "forks": 4058,
-  "open_issues": 260,
-  "watchers": 34613,
+  "forks": 4060,
+  "open_issues": 262,
+  "watchers": 34623,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1399
+  "_index": 1401
 }

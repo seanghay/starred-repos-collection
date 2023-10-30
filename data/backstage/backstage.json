@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/backstage/backstage/releases{/id}",
   "deployments_url": "https://api.github.com/repos/backstage/backstage/deployments",
   "created_at": "2020-01-24T22:39:49Z",
-  "updated_at": "2023-10-28T23:44:58Z",
-  "pushed_at": "2023-10-28T17:45:03Z",
+  "updated_at": "2023-10-30T00:14:56Z",
+  "pushed_at": "2023-10-29T21:59:14Z",
   "git_url": "git://github.com/backstage/backstage.git",
   "ssh_url": "git@github.com:backstage/backstage.git",
   "clone_url": "https://github.com/backstage/backstage.git",
   "svn_url": "https://github.com/backstage/backstage",
   "homepage": "https://backstage.io",
   "size": 4529415,
-  "stargazers_count": 23656,
-  "watchers_count": 23656,
+  "stargazers_count": 23664,
+  "watchers_count": 23664,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 4651,
+  "forks_count": 4653,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,9 +109,9 @@
     "service-catalog"
   ],
   "visibility": "public",
-  "forks": 4651,
+  "forks": 4653,
   "open_issues": 505,
-  "watchers": 23656,
+  "watchers": 23664,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 823
+  "_index": 825
 }

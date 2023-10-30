@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jvilk/BrowserFS/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jvilk/BrowserFS/deployments",
   "created_at": "2013-04-18T17:32:50Z",
-  "updated_at": "2023-10-28T19:48:55Z",
+  "updated_at": "2023-10-29T04:29:09Z",
   "pushed_at": "2023-09-24T21:14:17Z",
   "git_url": "git://github.com/jvilk/BrowserFS.git",
   "ssh_url": "git@github.com:jvilk/BrowserFS.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jvilk/BrowserFS",
   "homepage": null,
   "size": 10447,
-  "stargazers_count": 2966,
-  "watchers_count": 2966,
+  "stargazers_count": 2967,
+  "watchers_count": 2967,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 228,
   "open_issues": 0,
-  "watchers": 2966,
+  "watchers": 2967,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1696
+  "_index": 1698
 }

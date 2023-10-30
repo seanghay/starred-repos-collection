@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/PrismJS/prism/releases{/id}",
   "deployments_url": "https://api.github.com/repos/PrismJS/prism/deployments",
   "created_at": "2012-07-10T19:47:14Z",
-  "updated_at": "2023-10-28T21:28:26Z",
-  "pushed_at": "2023-10-28T19:06:48Z",
+  "updated_at": "2023-10-29T17:39:49Z",
+  "pushed_at": "2023-10-29T21:52:33Z",
   "git_url": "git://github.com/PrismJS/prism.git",
   "ssh_url": "git@github.com:PrismJS/prism.git",
   "clone_url": "https://github.com/PrismJS/prism.git",
   "svn_url": "https://github.com/PrismJS/prism",
   "homepage": "https://prismjs.com",
   "size": 13978,
-  "stargazers_count": 11662,
-  "watchers_count": 11662,
+  "stargazers_count": 11665,
+  "watchers_count": 11665,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 1308,
   "open_issues": 355,
-  "watchers": 11662,
+  "watchers": 11665,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1984
+  "_index": 1986
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/open-dict-data/ipa-dict/releases{/id}",
   "deployments_url": "https://api.github.com/repos/open-dict-data/ipa-dict/deployments",
   "created_at": "2016-09-18T06:53:52Z",
-  "updated_at": "2023-10-28T02:19:10Z",
+  "updated_at": "2023-10-29T04:40:52Z",
   "pushed_at": "2023-10-02T23:20:30Z",
   "git_url": "git://github.com/open-dict-data/ipa-dict.git",
   "ssh_url": "git@github.com:open-dict-data/ipa-dict.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/open-dict-data/ipa-dict",
   "homepage": "https://open-dict-data.github.io/ipa-lookup/",
   "size": 34845,
-  "stargazers_count": 441,
-  "watchers_count": 441,
+  "stargazers_count": 442,
+  "watchers_count": 442,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 77,
   "open_issues": 25,
-  "watchers": 441,
+  "watchers": 442,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 253
+  "_index": 255
 }

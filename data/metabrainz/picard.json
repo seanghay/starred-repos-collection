@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/metabrainz/picard/releases{/id}",
   "deployments_url": "https://api.github.com/repos/metabrainz/picard/deployments",
   "created_at": "2011-08-16T22:30:23Z",
-  "updated_at": "2023-10-28T19:32:45Z",
-  "pushed_at": "2023-10-27T22:50:19Z",
+  "updated_at": "2023-10-29T23:44:18Z",
+  "pushed_at": "2023-10-29T23:20:58Z",
   "git_url": "git://github.com/metabrainz/picard.git",
   "ssh_url": "git@github.com:metabrainz/picard.git",
   "clone_url": "https://github.com/metabrainz/picard.git",
   "svn_url": "https://github.com/metabrainz/picard",
   "homepage": "https://picard.musicbrainz.org",
-  "size": 73136,
-  "stargazers_count": 3355,
-  "watchers_count": 3355,
+  "size": 73241,
+  "stargazers_count": 3356,
+  "watchers_count": 3356,
   "language": "Python",
   "has_issues": false,
   "has_projects": false,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 379,
   "open_issues": 6,
-  "watchers": 3355,
+  "watchers": 3356,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 225
+  "_index": 227
 }
