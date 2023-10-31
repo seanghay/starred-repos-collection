@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bigscience-workshop/petals/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bigscience-workshop/petals/deployments",
   "created_at": "2022-06-12T00:10:27Z",
-  "updated_at": "2023-10-29T20:51:18Z",
+  "updated_at": "2023-10-31T00:43:33Z",
   "pushed_at": "2023-10-24T13:25:46Z",
   "git_url": "git://github.com/bigscience-workshop/petals.git",
   "ssh_url": "git@github.com:bigscience-workshop/petals.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/bigscience-workshop/petals",
   "homepage": "https://petals.dev",
   "size": 4148,
-  "stargazers_count": 7767,
-  "watchers_count": 7767,
+  "stargazers_count": 7772,
+  "watchers_count": 7772,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 383,
+  "forks_count": 384,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -120,9 +120,9 @@
     "volunteer-computing"
   ],
   "visibility": "public",
-  "forks": 383,
+  "forks": 384,
   "open_issues": 70,
-  "watchers": 7767,
+  "watchers": 7772,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 307
+  "_index": 309
 }

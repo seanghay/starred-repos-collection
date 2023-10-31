@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pdf2htmlEX/pdf2htmlEX/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pdf2htmlEX/pdf2htmlEX/deployments",
   "created_at": "2018-01-22T15:26:50Z",
-  "updated_at": "2023-10-30T01:39:23Z",
+  "updated_at": "2023-10-30T23:59:18Z",
   "pushed_at": "2023-05-14T19:40:03Z",
   "git_url": "git://github.com/pdf2htmlEX/pdf2htmlEX.git",
   "ssh_url": "git@github.com:pdf2htmlEX/pdf2htmlEX.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/pdf2htmlEX/pdf2htmlEX",
   "homepage": "https://pdf2htmlEX.github.io/pdf2htmlEX/",
   "size": 139155,
-  "stargazers_count": 2765,
-  "watchers_count": 2765,
+  "stargazers_count": 2772,
+  "watchers_count": 2772,
   "language": "HTML",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 331,
   "open_issues": 85,
-  "watchers": 2765,
+  "watchers": 2772,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 43
+  "_index": 45
 }

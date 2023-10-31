@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/Diizzayy/nuxt-graphql-client.git",
   "svn_url": "https://github.com/Diizzayy/nuxt-graphql-client",
   "homepage": "https://nuxt-graphql-client.web.app",
-  "size": 2583,
+  "size": 2909,
   "stargazers_count": 300,
   "watchers_count": 300,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 52,
+  "open_issues_count": 51,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -114,7 +114,7 @@
   ],
   "visibility": "public",
   "forks": 33,
-  "open_issues": 52,
+  "open_issues": 51,
   "watchers": 300,
   "default_branch": "main",
   "permissions": {
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1271
+  "_index": 1273
 }

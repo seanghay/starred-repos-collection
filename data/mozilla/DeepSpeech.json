@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mozilla/DeepSpeech/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mozilla/DeepSpeech/deployments",
   "created_at": "2016-06-02T15:04:53Z",
-  "updated_at": "2023-10-30T01:07:31Z",
+  "updated_at": "2023-10-30T17:45:07Z",
   "pushed_at": "2023-09-16T05:37:11Z",
   "git_url": "git://github.com/mozilla/DeepSpeech.git",
   "ssh_url": "git@github.com:mozilla/DeepSpeech.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mozilla/DeepSpeech",
   "homepage": "",
   "size": 50568,
-  "stargazers_count": 23233,
-  "watchers_count": 23233,
+  "stargazers_count": 23242,
+  "watchers_count": 23242,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3871,
+  "forks_count": 3870,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,9 +110,9 @@
     "tensorflow"
   ],
   "visibility": "public",
-  "forks": 3871,
+  "forks": 3870,
   "open_issues": 135,
-  "watchers": 23233,
+  "watchers": 23242,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 556
+  "_index": 558
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/flairNLP/flair/releases{/id}",
   "deployments_url": "https://api.github.com/repos/flairNLP/flair/deployments",
   "created_at": "2018-06-11T11:04:18Z",
-  "updated_at": "2023-10-30T01:26:59Z",
-  "pushed_at": "2023-10-29T18:07:21Z",
+  "updated_at": "2023-10-30T21:42:36Z",
+  "pushed_at": "2023-10-30T12:31:22Z",
   "git_url": "git://github.com/flairNLP/flair.git",
   "ssh_url": "git@github.com:flairNLP/flair.git",
   "clone_url": "https://github.com/flairNLP/flair.git",
   "svn_url": "https://github.com/flairNLP/flair",
   "homepage": "https://flairnlp.github.io/flair/",
-  "size": 108442,
-  "stargazers_count": 13183,
-  "watchers_count": 13183,
+  "size": 108791,
+  "stargazers_count": 13193,
+  "watchers_count": 13193,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 2046,
+  "forks_count": 2045,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 55,
+  "open_issues_count": 52,
   "license": {
     "key": "other",
     "name": "Other",
@@ -108,9 +108,9 @@
     "word-embeddings"
   ],
   "visibility": "public",
-  "forks": 2046,
-  "open_issues": 55,
-  "watchers": 13183,
+  "forks": 2045,
+  "open_issues": 52,
+  "watchers": 13193,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 513
+  "_index": 515
 }

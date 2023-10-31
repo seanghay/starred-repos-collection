@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/marcuswestin/store.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/marcuswestin/store.js/deployments",
   "created_at": "2010-06-27T20:29:33Z",
-  "updated_at": "2023-10-28T11:19:08Z",
+  "updated_at": "2023-10-30T07:36:33Z",
   "pushed_at": "2023-02-25T18:36:12Z",
   "git_url": "git://github.com/marcuswestin/store.js.git",
   "ssh_url": "git@github.com:marcuswestin/store.js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/marcuswestin/store.js",
   "homepage": "",
   "size": 621,
-  "stargazers_count": 13945,
-  "watchers_count": 13945,
+  "stargazers_count": 13946,
+  "watchers_count": 13946,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 96,
+  "open_issues_count": 97,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,8 +108,8 @@
   ],
   "visibility": "public",
   "forks": 1392,
-  "open_issues": 96,
-  "watchers": 13945,
+  "open_issues": 97,
+  "watchers": 13946,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1694
+  "_index": 1696
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ultralytics/yolov5/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ultralytics/yolov5/deployments",
   "created_at": "2020-05-18T03:45:11Z",
-  "updated_at": "2023-10-30T01:37:42Z",
-  "pushed_at": "2023-10-29T19:08:20Z",
+  "updated_at": "2023-10-31T01:21:56Z",
+  "pushed_at": "2023-10-30T09:47:27Z",
   "git_url": "git://github.com/ultralytics/yolov5.git",
   "ssh_url": "git@github.com:ultralytics/yolov5.git",
   "clone_url": "https://github.com/ultralytics/yolov5.git",
   "svn_url": "https://github.com/ultralytics/yolov5",
   "homepage": "https://docs.ultralytics.com",
-  "size": 15009,
-  "stargazers_count": 42674,
-  "watchers_count": 42674,
+  "size": 15011,
+  "stargazers_count": 42704,
+  "watchers_count": 42704,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 14833,
+  "forks_count": 14837,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -113,9 +113,9 @@
     "yolov5"
   ],
   "visibility": "public",
-  "forks": 14833,
+  "forks": 14837,
   "open_issues": 213,
-  "watchers": 42674,
+  "watchers": 42704,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 759
+  "_index": 761
 }
