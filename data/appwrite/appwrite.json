@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/appwrite/appwrite/releases{/id}",
   "deployments_url": "https://api.github.com/repos/appwrite/appwrite/deployments",
   "created_at": "2019-04-08T16:36:25Z",
-  "updated_at": "2023-10-31T01:37:41Z",
-  "pushed_at": "2023-10-31T01:18:17Z",
+  "updated_at": "2023-11-01T01:28:21Z",
+  "pushed_at": "2023-10-31T20:05:47Z",
   "git_url": "git://github.com/appwrite/appwrite.git",
   "ssh_url": "git@github.com:appwrite/appwrite.git",
   "clone_url": "https://github.com/appwrite/appwrite.git",
   "svn_url": "https://github.com/appwrite/appwrite",
   "homepage": "https://appwrite.io",
-  "size": 254191,
-  "stargazers_count": 37667,
-  "watchers_count": 37667,
+  "size": 254315,
+  "stargazers_count": 37702,
+  "watchers_count": 37702,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 3445,
+  "forks_count": 3448,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 756,
+  "open_issues_count": 762,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -118,9 +118,9 @@
     "web"
   ],
   "visibility": "public",
-  "forks": 3445,
-  "open_issues": 756,
-  "watchers": 37667,
+  "forks": 3448,
+  "open_issues": 762,
+  "watchers": 37702,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1160
+  "_index": 1162
 }

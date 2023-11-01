@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/JetBrains/intellij-community/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JetBrains/intellij-community/deployments",
   "created_at": "2011-09-30T13:33:05Z",
-  "updated_at": "2023-10-30T23:59:28Z",
-  "pushed_at": "2023-10-30T22:49:02Z",
+  "updated_at": "2023-10-31T22:36:53Z",
+  "pushed_at": "2023-10-31T21:56:57Z",
   "git_url": "git://github.com/JetBrains/intellij-community.git",
   "ssh_url": "git@github.com:JetBrains/intellij-community.git",
   "clone_url": "https://github.com/JetBrains/intellij-community.git",
   "svn_url": "https://github.com/JetBrains/intellij-community",
   "homepage": "https://jetbrains.com/idea",
-  "size": 4578841,
-  "stargazers_count": 15940,
-  "watchers_count": 15940,
+  "size": 4579331,
+  "stargazers_count": 15943,
+  "watchers_count": 15943,
   "language": null,
   "has_issues": false,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 5023,
+  "forks_count": 5025,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "intellij-platform"
   ],
   "visibility": "public",
-  "forks": 5023,
+  "forks": 5025,
   "open_issues": 249,
-  "watchers": 15940,
+  "watchers": 15943,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1756
+  "_index": 1758
 }

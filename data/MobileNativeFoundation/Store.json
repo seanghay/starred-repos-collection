@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/MobileNativeFoundation/Store/releases{/id}",
   "deployments_url": "https://api.github.com/repos/MobileNativeFoundation/Store/deployments",
   "created_at": "2019-12-05T18:58:10Z",
-  "updated_at": "2023-10-26T15:43:28Z",
-  "pushed_at": "2023-10-18T22:25:29Z",
+  "updated_at": "2023-10-31T14:25:59Z",
+  "pushed_at": "2023-10-31T16:45:11Z",
   "git_url": "git://github.com/MobileNativeFoundation/Store.git",
   "ssh_url": "git@github.com:MobileNativeFoundation/Store.git",
   "clone_url": "https://github.com/MobileNativeFoundation/Store.git",
   "svn_url": "https://github.com/MobileNativeFoundation/Store",
   "homepage": "https://mobilenativefoundation.github.io/Store/",
-  "size": 11150,
-  "stargazers_count": 2944,
-  "watchers_count": 2944,
+  "size": 11152,
+  "stargazers_count": 2945,
+  "watchers_count": 2945,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 190,
   "open_issues": 52,
-  "watchers": 2944,
+  "watchers": 2945,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2323
+  "_index": 2325
 }

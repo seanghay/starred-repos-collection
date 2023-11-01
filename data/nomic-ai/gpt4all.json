@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/nomic-ai/gpt4all/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nomic-ai/gpt4all/deployments",
   "created_at": "2023-03-27T18:49:32Z",
-  "updated_at": "2023-10-31T01:42:09Z",
-  "pushed_at": "2023-10-31T00:40:54Z",
+  "updated_at": "2023-11-01T01:26:08Z",
+  "pushed_at": "2023-10-31T21:05:45Z",
   "git_url": "git://github.com/nomic-ai/gpt4all.git",
   "ssh_url": "git@github.com:nomic-ai/gpt4all.git",
   "clone_url": "https://github.com/nomic-ai/gpt4all.git",
   "svn_url": "https://github.com/nomic-ai/gpt4all",
   "homepage": "https://gpt4all.io",
-  "size": 13857,
-  "stargazers_count": 54000,
-  "watchers_count": 54000,
+  "size": 13885,
+  "stargazers_count": 54040,
+  "watchers_count": 54040,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 5917,
+  "forks_count": 5923,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 262,
+  "open_issues_count": 260,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -101,9 +101,9 @@
     "llm-inference"
   ],
   "visibility": "public",
-  "forks": 5917,
-  "open_issues": 262,
-  "watchers": 54000,
+  "forks": 5923,
+  "open_issues": 260,
+  "watchers": 54040,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 604
+  "_index": 606
 }

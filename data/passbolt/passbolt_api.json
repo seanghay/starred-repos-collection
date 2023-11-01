@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/passbolt/passbolt_api/releases{/id}",
   "deployments_url": "https://api.github.com/repos/passbolt/passbolt_api/deployments",
   "created_at": "2016-02-23T01:14:59Z",
-  "updated_at": "2023-10-30T19:43:10Z",
+  "updated_at": "2023-10-31T18:37:32Z",
   "pushed_at": "2023-10-30T20:22:56Z",
   "git_url": "git://github.com/passbolt/passbolt_api.git",
   "ssh_url": "git@github.com:passbolt/passbolt_api.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/passbolt/passbolt_api",
   "homepage": "https://passbolt.com",
   "size": 145270,
-  "stargazers_count": 4054,
-  "watchers_count": 4054,
+  "stargazers_count": 4056,
+  "watchers_count": 4056,
   "language": "PHP",
   "has_issues": true,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 286,
   "open_issues": 23,
-  "watchers": 4054,
+  "watchers": 4056,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2996
+  "_index": 2998
 }

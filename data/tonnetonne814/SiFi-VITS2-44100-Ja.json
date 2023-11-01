@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tonnetonne814/SiFi-VITS2-44100-Ja/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tonnetonne814/SiFi-VITS2-44100-Ja/deployments",
   "created_at": "2023-09-19T09:27:12Z",
-  "updated_at": "2023-10-26T03:35:20Z",
+  "updated_at": "2023-10-31T08:06:45Z",
   "pushed_at": "2023-09-25T07:45:01Z",
   "git_url": "git://github.com/tonnetonne814/SiFi-VITS2-44100-Ja.git",
   "ssh_url": "git@github.com:tonnetonne814/SiFi-VITS2-44100-Ja.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/tonnetonne814/SiFi-VITS2-44100-Ja",
   "homepage": null,
   "size": 11719,
-  "stargazers_count": 38,
-  "watchers_count": 38,
+  "stargazers_count": 39,
+  "watchers_count": 39,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 4,
   "open_issues": 0,
-  "watchers": 38,
+  "watchers": 39,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 88
+  "_index": 90
 }

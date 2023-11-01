@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ctrlplusb/easy-peasy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ctrlplusb/easy-peasy/deployments",
   "created_at": "2018-10-21T20:52:18Z",
-  "updated_at": "2023-10-26T18:22:25Z",
+  "updated_at": "2023-10-31T15:07:01Z",
   "pushed_at": "2023-10-27T19:04:48Z",
   "git_url": "git://github.com/ctrlplusb/easy-peasy.git",
   "ssh_url": "git@github.com:ctrlplusb/easy-peasy.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ctrlplusb/easy-peasy",
   "homepage": "https://easy-peasy.dev",
   "size": 9636,
-  "stargazers_count": 5002,
-  "watchers_count": 5002,
+  "stargazers_count": 5003,
+  "watchers_count": 5003,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 12,
+  "open_issues_count": 11,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,8 +108,8 @@
   ],
   "visibility": "public",
   "forks": 199,
-  "open_issues": 12,
-  "watchers": 5002,
+  "open_issues": 11,
+  "watchers": 5003,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3030
+  "_index": 3032
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/vuejs/vitepress/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vuejs/vitepress/deployments",
   "created_at": "2020-04-30T23:16:17Z",
-  "updated_at": "2023-10-30T16:01:57Z",
+  "updated_at": "2023-10-31T16:37:32Z",
   "pushed_at": "2023-10-30T04:40:13Z",
   "git_url": "git://github.com/vuejs/vitepress.git",
   "ssh_url": "git@github.com:vuejs/vitepress.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/vuejs/vitepress",
   "homepage": "https://vitepress.dev",
   "size": 6775,
-  "stargazers_count": 9284,
-  "watchers_count": 9284,
+  "stargazers_count": 9294,
+  "watchers_count": 9294,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1591,
+  "forks_count": 1592,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,9 +106,9 @@
     "vue"
   ],
   "visibility": "public",
-  "forks": 1591,
+  "forks": 1592,
   "open_issues": 161,
-  "watchers": 9284,
+  "watchers": 9294,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1840
+  "_index": 1842
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/onevcat/Kingfisher/releases{/id}",
   "deployments_url": "https://api.github.com/repos/onevcat/Kingfisher/deployments",
   "created_at": "2015-04-06T14:26:21Z",
-  "updated_at": "2023-10-31T01:16:29Z",
+  "updated_at": "2023-11-01T00:51:46Z",
   "pushed_at": "2023-10-29T14:05:58Z",
   "git_url": "git://github.com/onevcat/Kingfisher.git",
   "ssh_url": "git@github.com:onevcat/Kingfisher.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/onevcat/Kingfisher",
   "homepage": "",
   "size": 5485,
-  "stargazers_count": 21714,
-  "watchers_count": 21714,
+  "stargazers_count": 21720,
+  "watchers_count": 21720,
   "language": "Swift",
   "has_issues": true,
   "has_projects": false,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 2459,
   "open_issues": 113,
-  "watchers": 21714,
+  "watchers": 21720,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1970
+  "_index": 1972
 }

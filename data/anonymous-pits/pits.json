@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/anonymous-pits/pits/releases{/id}",
   "deployments_url": "https://api.github.com/repos/anonymous-pits/pits/deployments",
   "created_at": "2023-02-20T08:12:59Z",
-  "updated_at": "2023-10-29T22:49:48Z",
+  "updated_at": "2023-10-31T10:21:47Z",
   "pushed_at": "2023-07-16T07:28:53Z",
   "git_url": "git://github.com/anonymous-pits/pits.git",
   "ssh_url": "git@github.com:anonymous-pits/pits.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/anonymous-pits/pits",
   "homepage": "https://anonymous-pits.github.io/pits/",
   "size": 70835,
-  "stargazers_count": 253,
-  "watchers_count": 253,
+  "stargazers_count": 254,
+  "watchers_count": 254,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 34,
   "open_issues": 21,
-  "watchers": 253,
+  "watchers": 254,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 349
+  "_index": 351
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/clearw5/Auto.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/clearw5/Auto.js/deployments",
   "created_at": "2017-01-27T01:01:16Z",
-  "updated_at": "2023-10-30T10:16:26Z",
+  "updated_at": "2023-10-31T16:45:52Z",
   "pushed_at": "2023-02-11T02:52:26Z",
   "git_url": "git://github.com/clearw5/Auto.js.git",
   "ssh_url": "git@github.com:clearw5/Auto.js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/clearw5/Auto.js",
   "homepage": "https://pro.autojs.org",
   "size": 8,
-  "stargazers_count": 12647,
-  "watchers_count": 12647,
+  "stargazers_count": 12646,
+  "watchers_count": 12646,
   "language": null,
   "has_issues": false,
   "has_projects": false,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 4025,
   "open_issues": 87,
-  "watchers": 12647,
+  "watchers": 12646,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2123
+  "_index": 2125
 }

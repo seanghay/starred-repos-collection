@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/tomas/needle/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tomas/needle/deployments",
   "created_at": "2011-12-11T03:09:37Z",
-  "updated_at": "2023-10-29T19:49:46Z",
-  "pushed_at": "2023-05-17T21:42:31Z",
+  "updated_at": "2023-10-31T19:33:33Z",
+  "pushed_at": "2023-10-31T10:45:06Z",
   "git_url": "git://github.com/tomas/needle.git",
   "ssh_url": "git@github.com:tomas/needle.git",
   "clone_url": "https://github.com/tomas/needle.git",
   "svn_url": "https://github.com/tomas/needle",
   "homepage": "https://www.npmjs.com/package/needle",
   "size": 780,
-  "stargazers_count": 1597,
-  "watchers_count": 1597,
+  "stargazers_count": 1598,
+  "watchers_count": 1598,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 86,
+  "open_issues_count": 87,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 247,
-  "open_issues": 86,
-  "watchers": 1597,
+  "open_issues": 87,
+  "watchers": 1598,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1879
+  "_index": 1881
 }

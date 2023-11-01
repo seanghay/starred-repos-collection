@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/daniilrobnikov/vits2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/daniilrobnikov/vits2/deployments",
   "created_at": "2023-07-29T20:56:12Z",
-  "updated_at": "2023-10-30T09:35:42Z",
+  "updated_at": "2023-10-31T07:20:42Z",
   "pushed_at": "2023-09-11T21:39:22Z",
   "git_url": "git://github.com/daniilrobnikov/vits2.git",
   "ssh_url": "git@github.com:daniilrobnikov/vits2.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/daniilrobnikov/vits2",
   "homepage": "https://vits-2.github.io/demo/",
   "size": 7710,
-  "stargazers_count": 160,
-  "watchers_count": 160,
+  "stargazers_count": 161,
+  "watchers_count": 161,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 19,
   "open_issues": 7,
-  "watchers": 160,
+  "watchers": 161,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 102
+  "_index": 104
 }

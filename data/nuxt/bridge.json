@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/nuxt/bridge/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nuxt/bridge/deployments",
   "created_at": "2022-04-11T13:01:55Z",
-  "updated_at": "2023-10-29T09:29:27Z",
-  "pushed_at": "2023-10-30T21:13:41Z",
+  "updated_at": "2023-10-31T03:54:05Z",
+  "pushed_at": "2023-10-31T21:12:23Z",
   "git_url": "git://github.com/nuxt/bridge.git",
   "ssh_url": "git@github.com:nuxt/bridge.git",
   "clone_url": "https://github.com/nuxt/bridge.git",
   "svn_url": "https://github.com/nuxt/bridge",
   "homepage": "",
-  "size": 2632,
-  "stargazers_count": 242,
-  "watchers_count": 242,
+  "size": 2119,
+  "stargazers_count": 243,
+  "watchers_count": 243,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 80,
+  "open_issues_count": 82,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,8 +104,8 @@
   ],
   "visibility": "public",
   "forks": 22,
-  "open_issues": 80,
-  "watchers": 242,
+  "open_issues": 82,
+  "watchers": 243,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 954
+  "_index": 956
 }
