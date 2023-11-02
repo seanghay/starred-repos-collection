@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 237,
+  "forks_count": 238,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 106,
+  "open_issues_count": 107,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,8 +105,8 @@
     "react-native"
   ],
   "visibility": "public",
-  "forks": 237,
-  "open_issues": 106,
+  "forks": 238,
+  "open_issues": 107,
   "watchers": 784,
   "default_branch": "master",
   "permissions": {
