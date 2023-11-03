@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/square/retrofit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/square/retrofit/deployments",
   "created_at": "2010-09-06T21:39:43Z",
-  "updated_at": "2023-11-01T21:45:20Z",
-  "pushed_at": "2023-11-02T00:30:39Z",
+  "updated_at": "2023-11-03T01:27:53Z",
+  "pushed_at": "2023-11-02T04:53:36Z",
   "git_url": "git://github.com/square/retrofit.git",
   "ssh_url": "git@github.com:square/retrofit.git",
   "clone_url": "https://github.com/square/retrofit.git",
   "svn_url": "https://github.com/square/retrofit",
   "homepage": "https://square.github.io/retrofit/",
-  "size": 5892,
-  "stargazers_count": 42134,
-  "watchers_count": 42134,
+  "size": 5893,
+  "stargazers_count": 42138,
+  "watchers_count": 42138,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 7355,
+  "forks_count": 7354,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 192,
+  "open_issues_count": 191,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -102,9 +102,9 @@
     "java"
   ],
   "visibility": "public",
-  "forks": 7355,
-  "open_issues": 192,
-  "watchers": 42134,
+  "forks": 7354,
+  "open_issues": 191,
+  "watchers": 42138,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2717
+  "_index": 2724
 }

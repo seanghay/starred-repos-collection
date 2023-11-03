@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/LAION-AI/Text-to-speech/deployments",
   "created_at": "2023-10-18T06:09:40Z",
   "updated_at": "2023-10-30T09:04:32Z",
-  "pushed_at": "2023-10-20T18:59:49Z",
+  "pushed_at": "2023-11-02T11:36:06Z",
   "git_url": "git://github.com/LAION-AI/Text-to-speech.git",
   "ssh_url": "git@github.com:LAION-AI/Text-to-speech.git",
   "clone_url": "https://github.com/LAION-AI/Text-to-speech.git",
   "svn_url": "https://github.com/LAION-AI/Text-to-speech",
   "homepage": null,
-  "size": 57,
+  "size": 59,
   "stargazers_count": 51,
   "watchers_count": 51,
   "language": "Python",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 10
+  "_index": 17
 }

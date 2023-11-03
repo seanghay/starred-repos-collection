@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/projectdiscovery/katana/releases{/id}",
   "deployments_url": "https://api.github.com/repos/projectdiscovery/katana/deployments",
   "created_at": "2021-01-02T16:56:05Z",
-  "updated_at": "2023-11-01T14:32:44Z",
+  "updated_at": "2023-11-02T19:00:26Z",
   "pushed_at": "2023-10-31T16:36:57Z",
   "git_url": "git://github.com/projectdiscovery/katana.git",
   "ssh_url": "git@github.com:projectdiscovery/katana.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/projectdiscovery/katana",
   "homepage": "",
   "size": 789,
-  "stargazers_count": 7636,
-  "watchers_count": 7636,
+  "stargazers_count": 7638,
+  "watchers_count": 7638,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 405,
   "open_issues": 61,
-  "watchers": 7636,
+  "watchers": 7638,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 872
+  "_index": 879
 }

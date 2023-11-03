@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wonjune-kang/lvc-vc/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wonjune-kang/lvc-vc/deployments",
   "created_at": "2022-12-06T16:44:18Z",
-  "updated_at": "2023-10-23T03:14:09Z",
+  "updated_at": "2023-11-02T19:53:20Z",
   "pushed_at": "2023-10-22T20:19:20Z",
   "git_url": "git://github.com/wonjune-kang/lvc-vc.git",
   "ssh_url": "git@github.com:wonjune-kang/lvc-vc.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wonjune-kang/lvc-vc",
   "homepage": "https://arxiv.org/abs/2205.09784",
   "size": 5970,
-  "stargazers_count": 61,
-  "watchers_count": 61,
+  "stargazers_count": 63,
+  "watchers_count": 63,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 5,
   "open_issues": 0,
-  "watchers": 61,
+  "watchers": 63,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 124
+  "_index": 131
 }

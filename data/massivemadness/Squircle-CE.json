@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/massivemadness/Squircle-CE/releases{/id}",
   "deployments_url": "https://api.github.com/repos/massivemadness/Squircle-CE/deployments",
   "created_at": "2017-08-17T10:07:48Z",
-  "updated_at": "2023-11-01T13:37:07Z",
+  "updated_at": "2023-11-02T06:47:22Z",
   "pushed_at": "2023-10-22T06:43:06Z",
   "git_url": "git://github.com/massivemadness/Squircle-CE.git",
   "ssh_url": "git@github.com:massivemadness/Squircle-CE.git",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1750
+  "_index": 1757
 }

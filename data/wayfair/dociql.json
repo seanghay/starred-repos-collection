@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/wayfair/dociql/deployments",
   "created_at": "2019-02-08T13:34:11Z",
   "updated_at": "2023-10-31T17:55:00Z",
-  "pushed_at": "2023-10-31T03:49:00Z",
+  "pushed_at": "2023-11-02T06:57:19Z",
   "git_url": "git://github.com/wayfair/dociql.git",
   "ssh_url": "git@github.com:wayfair/dociql.git",
   "clone_url": "https://github.com/wayfair/dociql.git",
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1540
+  "_index": 1547
 }

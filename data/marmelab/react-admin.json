@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/marmelab/react-admin",
-  "description": "A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design",
+  "description": "A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design",
   "fork": false,
   "url": "https://api.github.com/repos/marmelab/react-admin",
   "forks_url": "https://api.github.com/repos/marmelab/react-admin/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/marmelab/react-admin/releases{/id}",
   "deployments_url": "https://api.github.com/repos/marmelab/react-admin/deployments",
   "created_at": "2016-07-13T07:58:54Z",
-  "updated_at": "2023-11-02T01:15:54Z",
-  "pushed_at": "2023-10-31T14:38:35Z",
+  "updated_at": "2023-11-02T19:41:36Z",
+  "pushed_at": "2023-11-02T12:29:12Z",
   "git_url": "git://github.com/marmelab/react-admin.git",
   "ssh_url": "git@github.com:marmelab/react-admin.git",
   "clone_url": "https://github.com/marmelab/react-admin.git",
   "svn_url": "https://github.com/marmelab/react-admin",
   "homepage": "http://marmelab.com/react-admin",
-  "size": 365548,
-  "stargazers_count": 23066,
-  "watchers_count": 23066,
+  "size": 365559,
+  "stargazers_count": 23072,
+  "watchers_count": 23072,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 113,
+  "open_issues_count": 108,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -113,8 +113,8 @@
   ],
   "visibility": "public",
   "forks": 5078,
-  "open_issues": 113,
-  "watchers": 23066,
+  "open_issues": 108,
+  "watchers": 23072,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1860
+  "_index": 1867
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/addyosmani/critical/releases{/id}",
   "deployments_url": "https://api.github.com/repos/addyosmani/critical/deployments",
   "created_at": "2014-06-28T09:31:42Z",
-  "updated_at": "2023-11-01T11:11:29Z",
+  "updated_at": "2023-11-02T17:51:42Z",
   "pushed_at": "2023-10-31T19:20:10Z",
   "git_url": "git://github.com/addyosmani/critical.git",
   "ssh_url": "git@github.com:addyosmani/critical.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/addyosmani/critical",
   "homepage": "",
   "size": 4597,
-  "stargazers_count": 9874,
-  "watchers_count": 9874,
+  "stargazers_count": 9875,
+  "watchers_count": 9875,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 443,
+  "forks_count": 444,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,9 +106,9 @@
     "inline-styles"
   ],
   "visibility": "public",
-  "forks": 443,
+  "forks": 444,
   "open_issues": 39,
-  "watchers": 9874,
+  "watchers": 9875,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1640
+  "_index": 1647
 }

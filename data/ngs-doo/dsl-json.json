@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ngs-doo/dsl-json/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ngs-doo/dsl-json/deployments",
   "created_at": "2015-11-02T09:17:39Z",
-  "updated_at": "2023-10-31T07:01:48Z",
+  "updated_at": "2023-11-02T20:13:12Z",
   "pushed_at": "2023-08-29T17:27:58Z",
   "git_url": "git://github.com/ngs-doo/dsl-json.git",
   "ssh_url": "git@github.com:ngs-doo/dsl-json.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 23,
+  "open_issues_count": 24,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -107,7 +107,7 @@
   ],
   "visibility": "public",
   "forks": 104,
-  "open_issues": 23,
+  "open_issues": 24,
   "watchers": 944,
   "default_branch": "master",
   "permissions": {
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2250
+  "_index": 2257
 }

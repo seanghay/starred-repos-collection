@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/kysely-org/kysely/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kysely-org/kysely/deployments",
   "created_at": "2021-02-22T09:06:55Z",
-  "updated_at": "2023-11-02T01:27:26Z",
-  "pushed_at": "2023-11-01T20:42:38Z",
+  "updated_at": "2023-11-02T23:39:49Z",
+  "pushed_at": "2023-11-02T17:16:08Z",
   "git_url": "git://github.com/kysely-org/kysely.git",
   "ssh_url": "git@github.com:kysely-org/kysely.git",
   "clone_url": "https://github.com/kysely-org/kysely.git",
   "svn_url": "https://github.com/kysely-org/kysely",
   "homepage": "https://kysely.dev",
   "size": 50860,
-  "stargazers_count": 7737,
-  "watchers_count": 7737,
+  "stargazers_count": 7744,
+  "watchers_count": 7744,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 176,
   "open_issues": 84,
-  "watchers": 7737,
+  "watchers": 7744,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 948
+  "_index": 955
 }

@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/nuxt-community/recaptcha-module/deployments",
   "created_at": "2019-02-12T07:23:13Z",
   "updated_at": "2023-10-06T14:28:10Z",
-  "pushed_at": "2023-05-30T16:44:45Z",
+  "pushed_at": "2023-11-02T06:06:38Z",
   "git_url": "git://github.com/nuxt-community/recaptcha-module.git",
   "ssh_url": "git@github.com:nuxt-community/recaptcha-module.git",
   "clone_url": "https://github.com/nuxt-community/recaptcha-module.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 30,
+  "open_issues_count": 31,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,7 +106,7 @@
   ],
   "visibility": "public",
   "forks": 61,
-  "open_issues": 30,
+  "open_issues": 31,
   "watchers": 246,
   "default_branch": "main",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1485
+  "_index": 1492
 }

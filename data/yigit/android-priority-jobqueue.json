@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yigit/android-priority-jobqueue/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yigit/android-priority-jobqueue/deployments",
   "created_at": "2014-06-20T00:12:45Z",
-  "updated_at": "2023-10-23T11:07:05Z",
+  "updated_at": "2023-11-02T13:16:52Z",
   "pushed_at": "2022-10-22T00:16:33Z",
   "git_url": "git://github.com/yigit/android-priority-jobqueue.git",
   "ssh_url": "git@github.com:yigit/android-priority-jobqueue.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yigit/android-priority-jobqueue",
   "homepage": "",
   "size": 14756,
-  "stargazers_count": 3408,
-  "watchers_count": 3408,
+  "stargazers_count": 3406,
+  "watchers_count": 3406,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 404,
   "open_issues": 142,
-  "watchers": 3408,
+  "watchers": 3406,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2395
+  "_index": 2402
 }

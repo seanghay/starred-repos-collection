@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/typeorm/typeorm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/typeorm/typeorm/deployments",
   "created_at": "2016-02-29T07:41:14Z",
-  "updated_at": "2023-11-01T23:28:45Z",
+  "updated_at": "2023-11-03T01:01:43Z",
   "pushed_at": "2023-10-24T18:10:40Z",
   "git_url": "git://github.com/typeorm/typeorm.git",
   "ssh_url": "git@github.com:typeorm/typeorm.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/typeorm/typeorm",
   "homepage": "http://typeorm.io",
   "size": 25916,
-  "stargazers_count": 32354,
-  "watchers_count": 32354,
+  "stargazers_count": 32360,
+  "watchers_count": 32360,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2226,
+  "open_issues_count": 2225,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -121,8 +121,8 @@
   ],
   "visibility": "public",
   "forks": 6060,
-  "open_issues": 2226,
-  "watchers": 32354,
+  "open_issues": 2225,
+  "watchers": 32360,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1895
+  "_index": 1902
 }

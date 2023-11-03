@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/revdotcom/fstalign/releases{/id}",
   "deployments_url": "https://api.github.com/repos/revdotcom/fstalign/deployments",
   "created_at": "2021-03-24T16:23:11Z",
-  "updated_at": "2023-10-18T22:07:33Z",
+  "updated_at": "2023-11-02T19:02:18Z",
   "pushed_at": "2023-10-19T19:36:02Z",
   "git_url": "git://github.com/revdotcom/fstalign.git",
   "ssh_url": "git@github.com:revdotcom/fstalign.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/revdotcom/fstalign",
   "homepage": "",
   "size": 322,
-  "stargazers_count": 129,
-  "watchers_count": 129,
+  "stargazers_count": 130,
+  "watchers_count": 130,
   "language": "C++",
   "has_issues": true,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 6,
   "open_issues": 2,
-  "watchers": 129,
+  "watchers": 130,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 348
+  "_index": 355
 }

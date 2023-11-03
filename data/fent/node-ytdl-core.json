@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fent/node-ytdl-core/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fent/node-ytdl-core/deployments",
   "created_at": "2014-06-29T22:06:35Z",
-  "updated_at": "2023-11-02T00:25:07Z",
+  "updated_at": "2023-11-02T20:54:02Z",
   "pushed_at": "2023-10-12T11:06:31Z",
   "git_url": "git://github.com/fent/node-ytdl-core.git",
   "ssh_url": "git@github.com:fent/node-ytdl-core.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/fent/node-ytdl-core",
   "homepage": "",
   "size": 23229,
-  "stargazers_count": 4046,
-  "watchers_count": 4046,
+  "stargazers_count": 4049,
+  "watchers_count": 4049,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 731,
+  "forks_count": 732,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "youtube-downloader"
   ],
   "visibility": "public",
-  "forks": 731,
+  "forks": 732,
   "open_issues": 86,
-  "watchers": 4046,
+  "watchers": 4049,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 636
+  "_index": 643
 }

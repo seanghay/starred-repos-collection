@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/parallax/jsPDF/releases{/id}",
   "deployments_url": "https://api.github.com/repos/parallax/jsPDF/deployments",
   "created_at": "2009-12-06T14:56:32Z",
-  "updated_at": "2023-11-01T20:55:58Z",
+  "updated_at": "2023-11-02T11:36:28Z",
   "pushed_at": "2023-10-26T12:40:59Z",
   "git_url": "git://github.com/parallax/jsPDF.git",
   "ssh_url": "git@github.com:parallax/jsPDF.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/parallax/jsPDF",
   "homepage": "https://parall.ax/products/jspdf",
   "size": 108123,
-  "stargazers_count": 27519,
-  "watchers_count": 27519,
+  "stargazers_count": 27523,
+  "watchers_count": 27523,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -103,7 +103,7 @@
   "visibility": "public",
   "forks": 4673,
   "open_issues": 178,
-  "watchers": 27519,
+  "watchers": 27523,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3041
+  "_index": 3048
 }

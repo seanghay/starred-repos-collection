@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/nodejs/undici/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nodejs/undici/deployments",
   "created_at": "2018-05-11T22:07:48Z",
-  "updated_at": "2023-11-01T17:47:46Z",
-  "pushed_at": "2023-11-01T22:47:25Z",
+  "updated_at": "2023-11-03T00:16:41Z",
+  "pushed_at": "2023-11-02T23:54:33Z",
   "git_url": "git://github.com/nodejs/undici.git",
   "ssh_url": "git@github.com:nodejs/undici.git",
   "clone_url": "https://github.com/nodejs/undici.git",
   "svn_url": "https://github.com/nodejs/undici",
   "homepage": "https://nodejs.github.io/undici",
-  "size": 7245,
+  "size": 7242,
   "stargazers_count": 5036,
   "watchers_count": 5036,
   "language": "JavaScript",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 840
+  "_index": 847
 }

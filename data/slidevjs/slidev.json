@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/slidevjs/slidev/releases{/id}",
   "deployments_url": "https://api.github.com/repos/slidevjs/slidev/deployments",
   "created_at": "2021-04-24T01:25:23Z",
-  "updated_at": "2023-11-02T01:34:23Z",
-  "pushed_at": "2023-10-30T23:49:44Z",
+  "updated_at": "2023-11-03T01:44:06Z",
+  "pushed_at": "2023-11-02T19:04:08Z",
   "git_url": "git://github.com/slidevjs/slidev.git",
   "ssh_url": "git@github.com:slidevjs/slidev.git",
   "clone_url": "https://github.com/slidevjs/slidev.git",
   "svn_url": "https://github.com/slidevjs/slidev",
   "homepage": "https://sli.dev",
-  "size": 73072,
-  "stargazers_count": 28700,
-  "watchers_count": 28700,
+  "size": 73086,
+  "stargazers_count": 28738,
+  "watchers_count": 28738,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 49,
+  "open_issues_count": 50,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 1122,
-  "open_issues": 49,
-  "watchers": 28700,
+  "open_issues": 50,
+  "watchers": 28738,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1773
+  "_index": 1780
 }

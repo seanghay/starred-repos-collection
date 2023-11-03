@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/11ty/eleventy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/11ty/eleventy/deployments",
   "created_at": "2017-11-27T05:19:00Z",
-  "updated_at": "2023-11-01T23:55:52Z",
+  "updated_at": "2023-11-02T22:34:13Z",
   "pushed_at": "2023-11-01T13:53:54Z",
   "git_url": "git://github.com/11ty/eleventy.git",
   "ssh_url": "git@github.com:11ty/eleventy.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/11ty/eleventy",
   "homepage": "https://www.11ty.dev/",
   "size": 3663,
-  "stargazers_count": 15265,
-  "watchers_count": 15265,
+  "stargazers_count": 15275,
+  "watchers_count": 15275,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 463,
   "open_issues": 489,
-  "watchers": 15265,
+  "watchers": 15275,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1849
+  "_index": 1856
 }

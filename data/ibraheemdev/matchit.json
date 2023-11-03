@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ibraheemdev/matchit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ibraheemdev/matchit/deployments",
   "created_at": "2020-12-21T16:55:26Z",
-  "updated_at": "2023-10-28T15:45:02Z",
-  "pushed_at": "2023-10-26T15:40:45Z",
+  "updated_at": "2023-11-02T02:00:03Z",
+  "pushed_at": "2023-11-02T09:17:59Z",
   "git_url": "git://github.com/ibraheemdev/matchit.git",
   "ssh_url": "git@github.com:ibraheemdev/matchit.git",
   "clone_url": "https://github.com/ibraheemdev/matchit.git",
   "svn_url": "https://github.com/ibraheemdev/matchit",
   "homepage": "https://docs.rs/matchit",
-  "size": 350,
-  "stargazers_count": 280,
-  "watchers_count": 280,
+  "size": 343,
+  "stargazers_count": 281,
+  "watchers_count": 281,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 14,
+  "open_issues_count": 15,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 29,
-  "open_issues": 14,
-  "watchers": 280,
+  "open_issues": 15,
+  "watchers": 281,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 284
+  "_index": 291
 }
