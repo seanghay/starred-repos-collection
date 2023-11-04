@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin/deployments",
   "created_at": "2018-05-25T19:40:02Z",
-  "updated_at": "2023-11-02T08:02:10Z",
+  "updated_at": "2023-11-03T05:06:39Z",
   "pushed_at": "2023-10-31T19:12:22Z",
   "git_url": "git://github.com/vanniktech/gradle-maven-publish-plugin.git",
   "ssh_url": "git@github.com:vanniktech/gradle-maven-publish-plugin.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/vanniktech/gradle-maven-publish-plugin",
   "homepage": "https://vanniktech.github.io/gradle-maven-publish-plugin",
   "size": 1401,
-  "stargazers_count": 1019,
-  "watchers_count": 1019,
+  "stargazers_count": 1020,
+  "watchers_count": 1020,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 104,
   "open_issues": 6,
-  "watchers": 1019,
+  "watchers": 1020,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1225
+  "_index": 1226
 }

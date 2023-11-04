@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yagop/node-telegram-bot-api/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yagop/node-telegram-bot-api/deployments",
   "created_at": "2015-06-28T22:35:33Z",
-  "updated_at": "2023-11-02T16:52:05Z",
+  "updated_at": "2023-11-03T23:47:56Z",
   "pushed_at": "2023-11-01T11:31:58Z",
   "git_url": "git://github.com/yagop/node-telegram-bot-api.git",
   "ssh_url": "git@github.com:yagop/node-telegram-bot-api.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yagop/node-telegram-bot-api",
   "homepage": "",
   "size": 2291,
-  "stargazers_count": 7520,
-  "watchers_count": 7520,
+  "stargazers_count": 7525,
+  "watchers_count": 7525,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 1500,
   "open_issues": 71,
-  "watchers": 7520,
+  "watchers": 7525,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1363
+  "_index": 1364
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/facebookresearch/Detic/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookresearch/Detic/deployments",
   "created_at": "2021-12-11T18:38:12Z",
-  "updated_at": "2023-11-02T02:28:02Z",
+  "updated_at": "2023-11-03T12:04:25Z",
   "pushed_at": "2023-08-28T12:58:23Z",
   "git_url": "git://github.com/facebookresearch/Detic.git",
   "ssh_url": "git@github.com:facebookresearch/Detic.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 172,
+  "forks_count": 175,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,7 +99,7 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 172,
+  "forks": 175,
   "open_issues": 53,
   "watchers": 1629,
   "default_branch": "main",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1147
+  "_index": 1148
 }

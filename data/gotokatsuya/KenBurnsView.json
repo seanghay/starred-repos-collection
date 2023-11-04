@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/gotokatsuya/KenBurnsView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gotokatsuya/KenBurnsView/deployments",
   "created_at": "2014-06-05T19:02:41Z",
-  "updated_at": "2023-08-12T08:49:58Z",
+  "updated_at": "2023-11-03T06:13:43Z",
   "pushed_at": "2016-01-14T07:29:06Z",
   "git_url": "git://github.com/gotokatsuya/KenBurnsView.git",
   "ssh_url": "git@github.com:gotokatsuya/KenBurnsView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/gotokatsuya/KenBurnsView",
   "homepage": "",
   "size": 134174,
-  "stargazers_count": 213,
-  "watchers_count": 213,
+  "stargazers_count": 212,
+  "watchers_count": 212,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 38,
   "open_issues": 12,
-  "watchers": 213,
+  "watchers": 212,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2324
+  "_index": 2325
 }

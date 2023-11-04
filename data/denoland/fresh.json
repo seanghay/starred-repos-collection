@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/denoland/fresh/releases{/id}",
   "deployments_url": "https://api.github.com/repos/denoland/fresh/deployments",
   "created_at": "2021-05-07T14:42:26Z",
-  "updated_at": "2023-11-02T20:00:42Z",
-  "pushed_at": "2023-11-02T17:16:46Z",
+  "updated_at": "2023-11-04T00:27:58Z",
+  "pushed_at": "2023-11-03T22:12:39Z",
   "git_url": "git://github.com/denoland/fresh.git",
   "ssh_url": "git@github.com:denoland/fresh.git",
   "clone_url": "https://github.com/denoland/fresh.git",
   "svn_url": "https://github.com/denoland/fresh",
   "homepage": "https://fresh.deno.dev",
-  "size": 29319,
-  "stargazers_count": 11415,
-  "watchers_count": 11415,
+  "size": 29452,
+  "stargazers_count": 11416,
+  "watchers_count": 11416,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 540,
+  "forks_count": 542,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 207,
+  "open_issues_count": 205,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,9 +105,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 540,
-  "open_issues": 207,
-  "watchers": 11415,
+  "forks": 542,
+  "open_issues": 205,
+  "watchers": 11416,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1122
+  "_index": 1123
 }

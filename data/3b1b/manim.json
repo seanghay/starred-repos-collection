@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/3b1b/manim/releases{/id}",
   "deployments_url": "https://api.github.com/repos/3b1b/manim/deployments",
   "created_at": "2015-03-22T18:50:58Z",
-  "updated_at": "2023-11-02T23:29:51Z",
+  "updated_at": "2023-11-03T22:56:18Z",
   "pushed_at": "2023-10-03T10:12:48Z",
   "git_url": "git://github.com/3b1b/manim.git",
   "ssh_url": "git@github.com:3b1b/manim.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/3b1b/manim",
   "homepage": null,
   "size": 75821,
-  "stargazers_count": 54525,
-  "watchers_count": 54525,
+  "stargazers_count": 54539,
+  "watchers_count": 54539,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 5529,
+  "forks_count": 5531,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "python"
   ],
   "visibility": "public",
-  "forks": 5529,
+  "forks": 5531,
   "open_issues": 392,
-  "watchers": 54525,
+  "watchers": 54539,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 528
+  "_index": 529
 }

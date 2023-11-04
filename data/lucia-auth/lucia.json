@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/lucia-auth/lucia/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lucia-auth/lucia/deployments",
   "created_at": "2022-07-18T14:53:24Z",
-  "updated_at": "2023-11-02T23:44:49Z",
-  "pushed_at": "2023-11-02T14:40:15Z",
+  "updated_at": "2023-11-03T23:02:17Z",
+  "pushed_at": "2023-11-03T20:38:07Z",
   "git_url": "git://github.com/lucia-auth/lucia.git",
   "ssh_url": "git@github.com:lucia-auth/lucia.git",
   "clone_url": "https://github.com/lucia-auth/lucia.git",
   "svn_url": "https://github.com/lucia-auth/lucia",
   "homepage": "https://lucia-auth.com",
-  "size": 5452,
-  "stargazers_count": 4028,
-  "watchers_count": 4028,
+  "size": 5459,
+  "stargazers_count": 4034,
+  "watchers_count": 4034,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 333,
   "open_issues": 39,
-  "watchers": 4028,
+  "watchers": 4034,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 28
+  "_index": 29
 }
