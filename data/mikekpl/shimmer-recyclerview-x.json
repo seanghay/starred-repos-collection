@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mikekpl/shimmer-recyclerview-x/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mikekpl/shimmer-recyclerview-x/deployments",
   "created_at": "2018-10-29T07:18:36Z",
-  "updated_at": "2023-11-03T15:32:24Z",
+  "updated_at": "2023-11-04T17:45:08Z",
   "pushed_at": "2023-11-03T16:28:03Z",
   "git_url": "git://github.com/mikekpl/shimmer-recyclerview-x.git",
   "ssh_url": "git@github.com:mikekpl/shimmer-recyclerview-x.git",
@@ -94,10 +94,13 @@
   "topics": [
     "android",
     "androidx",
-    "java",
+    "animation",
+    "kotlin",
+    "loading",
     "recyclerview",
     "shimmer",
-    "view"
+    "view",
+    "viewholder"
   ],
   "visibility": "public",
   "forks": 30,
