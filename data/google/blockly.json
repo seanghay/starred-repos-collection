@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/blockly/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/blockly/deployments",
   "created_at": "2013-10-25T21:13:33Z",
-  "updated_at": "2023-11-04T13:43:07Z",
+  "updated_at": "2023-11-05T13:52:50Z",
   "pushed_at": "2023-11-03T18:19:30Z",
   "git_url": "git://github.com/google/blockly.git",
   "ssh_url": "git@github.com:google/blockly.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/blockly",
   "homepage": "https://developers.google.com/blockly/",
   "size": 140912,
-  "stargazers_count": 11707,
-  "watchers_count": 11707,
+  "stargazers_count": 11709,
+  "watchers_count": 11709,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 3614,
   "open_issues": 495,
-  "watchers": 11707,
+  "watchers": 11709,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1388
+  "_index": 1391
 }

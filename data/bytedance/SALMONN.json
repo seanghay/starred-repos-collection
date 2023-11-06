@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 39,
+  "forks_count": 38,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 4,
+  "open_issues_count": 3,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -109,8 +109,8 @@
     "tsinghua-university"
   ],
   "visibility": "public",
-  "forks": 39,
-  "open_issues": 4,
+  "forks": 38,
+  "open_issues": 3,
   "watchers": 570,
   "default_branch": "main",
   "permissions": {
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 21
+  "_index": 24
 }

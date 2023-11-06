@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/wenet-e2e/wetts.git",
   "svn_url": "https://github.com/wenet-e2e/wetts",
   "homepage": null,
-  "size": 3592,
+  "size": 3598,
   "stargazers_count": 273,
   "watchers_count": 273,
   "language": "Python",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 293
+  "_index": 296
 }

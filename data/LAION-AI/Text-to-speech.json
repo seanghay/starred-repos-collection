@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/LAION-AI/Text-to-speech/releases{/id}",
   "deployments_url": "https://api.github.com/repos/LAION-AI/Text-to-speech/deployments",
   "created_at": "2023-10-18T06:09:40Z",
-  "updated_at": "2023-10-30T09:04:32Z",
+  "updated_at": "2023-11-05T09:24:09Z",
   "pushed_at": "2023-11-04T10:10:21Z",
   "git_url": "git://github.com/LAION-AI/Text-to-speech.git",
   "ssh_url": "git@github.com:LAION-AI/Text-to-speech.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/LAION-AI/Text-to-speech",
   "homepage": null,
   "size": 62,
-  "stargazers_count": 51,
-  "watchers_count": 51,
+  "stargazers_count": 52,
+  "watchers_count": 52,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 5,
+  "forks_count": 6,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 5,
+  "forks": 6,
   "open_issues": 1,
-  "watchers": 51,
+  "watchers": 52,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 18
+  "_index": 21
 }

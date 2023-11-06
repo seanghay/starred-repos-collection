@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/xiph/rnnoise/releases{/id}",
   "deployments_url": "https://api.github.com/repos/xiph/rnnoise/deployments",
   "created_at": "2017-08-03T06:34:37Z",
-  "updated_at": "2023-11-04T07:47:36Z",
+  "updated_at": "2023-11-05T05:40:30Z",
   "pushed_at": "2023-06-09T00:11:13Z",
   "git_url": "git://github.com/xiph/rnnoise.git",
   "ssh_url": "git@github.com:xiph/rnnoise.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/xiph/rnnoise",
   "homepage": "",
   "size": 876,
-  "stargazers_count": 3303,
-  "watchers_count": 3303,
+  "stargazers_count": 3304,
+  "watchers_count": 3304,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 160,
+  "open_issues_count": 161,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 842,
-  "open_issues": 160,
-  "watchers": 3303,
+  "open_issues": 161,
+  "watchers": 3304,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 579
+  "_index": 582
 }

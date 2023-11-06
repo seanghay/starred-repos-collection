@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tinkoff-mobile-tech/ScrollingPagerIndicator/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tinkoff-mobile-tech/ScrollingPagerIndicator/deployments",
   "created_at": "2018-02-12T15:31:13Z",
-  "updated_at": "2023-10-12T17:23:53Z",
+  "updated_at": "2023-11-05T16:04:12Z",
   "pushed_at": "2023-08-21T14:25:05Z",
   "git_url": "git://github.com/tinkoff-mobile-tech/ScrollingPagerIndicator.git",
   "ssh_url": "git@github.com:tinkoff-mobile-tech/ScrollingPagerIndicator.git",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2898
+  "_index": 2901
 }

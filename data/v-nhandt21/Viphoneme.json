@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/v-nhandt21/Viphoneme/releases{/id}",
   "deployments_url": "https://api.github.com/repos/v-nhandt21/Viphoneme/deployments",
   "created_at": "2020-04-05T17:03:53Z",
-  "updated_at": "2023-11-04T16:50:38Z",
+  "updated_at": "2023-11-05T23:09:02Z",
   "pushed_at": "2023-10-23T06:36:01Z",
   "git_url": "git://github.com/v-nhandt21/Viphoneme.git",
   "ssh_url": "git@github.com:v-nhandt21/Viphoneme.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/v-nhandt21/Viphoneme",
   "homepage": "",
   "size": 1091,
-  "stargazers_count": 44,
-  "watchers_count": 44,
+  "stargazers_count": 45,
+  "watchers_count": 45,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 11,
   "open_issues": 3,
-  "watchers": 44,
+  "watchers": 45,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 108
+  "_index": 111
 }

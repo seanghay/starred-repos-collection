@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/haoheliu/AudioLDM/releases{/id}",
   "deployments_url": "https://api.github.com/repos/haoheliu/AudioLDM/deployments",
   "created_at": "2023-01-29T22:40:38Z",
-  "updated_at": "2023-11-04T16:43:55Z",
+  "updated_at": "2023-11-05T16:46:59Z",
   "pushed_at": "2023-10-17T13:39:04Z",
   "git_url": "git://github.com/haoheliu/AudioLDM.git",
   "ssh_url": "git@github.com:haoheliu/AudioLDM.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/haoheliu/AudioLDM",
   "homepage": "https://audioldm.github.io/",
   "size": 2506,
-  "stargazers_count": 1989,
-  "watchers_count": 1989,
+  "stargazers_count": 1990,
+  "watchers_count": 1990,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 67,
+  "open_issues_count": 68,
   "license": {
     "key": "other",
     "name": "Other",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 189,
-  "open_issues": 67,
-  "watchers": 1989,
+  "open_issues": 68,
+  "watchers": 1990,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 202
+  "_index": 205
 }

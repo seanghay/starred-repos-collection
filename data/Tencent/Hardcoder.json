@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 207,
+  "forks_count": 206,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "wechat"
   ],
   "visibility": "public",
-  "forks": 207,
+  "forks": 206,
   "open_issues": 17,
   "watchers": 2126,
   "default_branch": "master",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1604
+  "_index": 1607
 }

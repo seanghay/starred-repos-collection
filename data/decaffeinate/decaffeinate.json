@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 167,
+  "forks_count": 168,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "decaffeinate"
   ],
   "visibility": "public",
-  "forks": 167,
+  "forks": 168,
   "open_issues": 41,
   "watchers": 2706,
   "default_branch": "main",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1091
+  "_index": 1094
 }

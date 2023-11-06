@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 742,
+  "forks_count": 741,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,7 +106,7 @@
     "spectacle"
   ],
   "visibility": "public",
-  "forks": 742,
+  "forks": 741,
   "open_issues": 64,
   "watchers": 9604,
   "default_branch": "main",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3139
+  "_index": 3142
 }

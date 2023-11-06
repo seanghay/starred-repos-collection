@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/re2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/re2/deployments",
   "created_at": "2014-08-18T21:21:26Z",
-  "updated_at": "2023-11-04T11:01:49Z",
+  "updated_at": "2023-11-05T21:56:08Z",
   "pushed_at": "2023-11-01T16:39:13Z",
   "git_url": "git://github.com/google/re2.git",
   "ssh_url": "git@github.com:google/re2.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/re2",
   "homepage": "",
   "size": 9696,
-  "stargazers_count": 8272,
-  "watchers_count": 8272,
+  "stargazers_count": 8274,
+  "watchers_count": 8274,
   "language": "C++",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 1137,
   "open_issues": 2,
-  "watchers": 8272,
+  "watchers": 8274,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 306
+  "_index": 309
 }

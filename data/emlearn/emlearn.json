@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/emlearn/emlearn/deployments",
   "created_at": "2018-03-16T19:46:17Z",
   "updated_at": "2023-11-04T13:31:19Z",
-  "pushed_at": "2023-10-29T13:24:04Z",
+  "pushed_at": "2023-11-05T23:32:39Z",
   "git_url": "git://github.com/emlearn/emlearn.git",
   "ssh_url": "git@github.com:emlearn/emlearn.git",
   "clone_url": "https://github.com/emlearn/emlearn.git",
   "svn_url": "https://github.com/emlearn/emlearn",
   "homepage": "",
-  "size": 2017,
+  "size": 2018,
   "stargazers_count": 313,
   "watchers_count": 313,
   "language": "Python",
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 489
+  "_index": 492
 }

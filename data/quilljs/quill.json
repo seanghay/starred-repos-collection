@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/quilljs/quill/releases{/id}",
   "deployments_url": "https://api.github.com/repos/quilljs/quill/deployments",
   "created_at": "2012-07-30T23:23:18Z",
-  "updated_at": "2023-11-04T19:56:23Z",
-  "pushed_at": "2023-11-03T13:30:02Z",
+  "updated_at": "2023-11-06T01:49:41Z",
+  "pushed_at": "2023-11-05T10:27:29Z",
   "git_url": "git://github.com/quilljs/quill.git",
   "ssh_url": "git@github.com:quilljs/quill.git",
   "clone_url": "https://github.com/quilljs/quill.git",
   "svn_url": "https://github.com/quilljs/quill",
   "homepage": "https://quilljs.com",
-  "size": 15479,
-  "stargazers_count": 37315,
-  "watchers_count": 37315,
+  "size": 15485,
+  "stargazers_count": 37319,
+  "watchers_count": 37319,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 3147,
   "open_issues": 1366,
-  "watchers": 37315,
+  "watchers": 37319,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2319
+  "_index": 2322
 }
