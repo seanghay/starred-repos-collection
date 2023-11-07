@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/facebookresearch/covost/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookresearch/covost/deployments",
   "created_at": "2020-01-29T00:59:45Z",
-  "updated_at": "2023-10-31T22:29:10Z",
+  "updated_at": "2023-11-06T21:15:57Z",
   "pushed_at": "2021-09-14T21:59:06Z",
   "git_url": "git://github.com/facebookresearch/covost.git",
   "ssh_url": "git@github.com:facebookresearch/covost.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/facebookresearch/covost",
   "homepage": "",
   "size": 610,
-  "stargazers_count": 301,
-  "watchers_count": 301,
+  "stargazers_count": 304,
+  "watchers_count": 304,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 45,
   "open_issues": 2,
-  "watchers": 301,
+  "watchers": 304,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 43
+  "_index": 44
 }

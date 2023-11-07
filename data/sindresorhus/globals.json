@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/globals/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/globals/deployments",
   "created_at": "2013-12-14T13:46:23Z",
-  "updated_at": "2023-10-17T19:26:30Z",
+  "updated_at": "2023-11-06T17:00:30Z",
   "pushed_at": "2023-10-05T15:02:49Z",
   "git_url": "git://github.com/sindresorhus/globals.git",
   "ssh_url": "git@github.com:sindresorhus/globals.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sindresorhus/globals",
   "homepage": null,
   "size": 248,
-  "stargazers_count": 300,
-  "watchers_count": 300,
+  "stargazers_count": 301,
+  "watchers_count": 301,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 115,
   "open_issues": 8,
-  "watchers": 300,
+  "watchers": 301,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1205
+  "_index": 1206
 }

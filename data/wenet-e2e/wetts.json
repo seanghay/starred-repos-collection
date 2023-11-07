@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/wenet-e2e/wetts/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wenet-e2e/wetts/deployments",
   "created_at": "2022-02-19T02:09:40Z",
-  "updated_at": "2023-11-02T03:02:34Z",
-  "pushed_at": "2023-11-05T01:33:48Z",
+  "updated_at": "2023-11-06T07:18:14Z",
+  "pushed_at": "2023-11-06T14:19:21Z",
   "git_url": "git://github.com/wenet-e2e/wetts.git",
   "ssh_url": "git@github.com:wenet-e2e/wetts.git",
   "clone_url": "https://github.com/wenet-e2e/wetts.git",
   "svn_url": "https://github.com/wenet-e2e/wetts",
   "homepage": null,
-  "size": 3598,
-  "stargazers_count": 273,
-  "watchers_count": 273,
+  "size": 3604,
+  "stargazers_count": 277,
+  "watchers_count": 277,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 10,
+  "open_issues_count": 9,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 48,
-  "open_issues": 10,
-  "watchers": 273,
+  "open_issues": 9,
+  "watchers": 277,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 296
+  "_index": 297
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/saket/press/releases{/id}",
   "deployments_url": "https://api.github.com/repos/saket/press/deployments",
   "created_at": "2019-08-11T01:16:57Z",
-  "updated_at": "2023-11-04T10:26:42Z",
+  "updated_at": "2023-11-06T06:39:45Z",
   "pushed_at": "2022-10-19T19:28:29Z",
   "git_url": "git://github.com/saket/press.git",
   "ssh_url": "git@github.com:saket/press.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/saket/press",
   "homepage": "",
   "size": 5514,
-  "stargazers_count": 1850,
-  "watchers_count": 1850,
+  "stargazers_count": 1849,
+  "watchers_count": 1849,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -99,7 +99,7 @@
   "visibility": "public",
   "forks": 112,
   "open_issues": 13,
-  "watchers": 1850,
+  "watchers": 1849,
   "default_branch": "trunk",
   "permissions": {
     "admin": false,
@@ -108,5 +108,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2496
+  "_index": 2497
 }

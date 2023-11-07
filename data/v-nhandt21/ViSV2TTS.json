@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/v-nhandt21/ViSV2TTS/deployments",
   "created_at": "2021-05-09T08:16:57Z",
   "updated_at": "2023-11-01T02:50:45Z",
-  "pushed_at": "2023-10-25T08:05:23Z",
+  "pushed_at": "2023-11-06T22:33:29Z",
   "git_url": "git://github.com/v-nhandt21/ViSV2TTS.git",
   "ssh_url": "git@github.com:v-nhandt21/ViSV2TTS.git",
   "clone_url": "https://github.com/v-nhandt21/ViSV2TTS.git",
@@ -82,19 +82,19 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 4,
+  "forks_count": 5,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 5,
+  "open_issues_count": 6,
   "license": null,
   "allow_forking": true,
   "is_template": false,
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 4,
-  "open_issues": 5,
+  "forks": 5,
+  "open_issues": 6,
   "watchers": 15,
   "default_branch": "master",
   "permissions": {
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 35
+  "_index": 36
 }

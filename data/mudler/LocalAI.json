@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/mudler/LocalAI/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mudler/LocalAI/deployments",
   "created_at": "2023-03-18T22:58:02Z",
-  "updated_at": "2023-11-06T01:37:17Z",
-  "pushed_at": "2023-11-06T01:44:48Z",
+  "updated_at": "2023-11-07T01:43:11Z",
+  "pushed_at": "2023-11-07T01:11:10Z",
   "git_url": "git://github.com/mudler/LocalAI.git",
   "ssh_url": "git@github.com:mudler/LocalAI.git",
   "clone_url": "https://github.com/mudler/LocalAI.git",
   "svn_url": "https://github.com/mudler/LocalAI",
   "homepage": "https://localai.io",
-  "size": 1769,
-  "stargazers_count": 12812,
-  "watchers_count": 12812,
+  "size": 1922,
+  "stargazers_count": 12861,
+  "watchers_count": 12861,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1141,
+  "forks_count": 1147,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 167,
+  "open_issues_count": 172,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -117,9 +117,9 @@
     "vicuna"
   ],
   "visibility": "public",
-  "forks": 1141,
-  "open_issues": 167,
-  "watchers": 12812,
+  "forks": 1147,
+  "open_issues": 172,
+  "watchers": 12861,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 579
+  "_index": 580
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/C2FO/fast-csv/deployments",
   "created_at": "2012-09-10T21:56:55Z",
   "updated_at": "2023-11-05T21:21:14Z",
-  "pushed_at": "2023-11-04T00:52:31Z",
+  "pushed_at": "2023-11-06T21:21:51Z",
   "git_url": "git://github.com/C2FO/fast-csv.git",
   "ssh_url": "git@github.com:C2FO/fast-csv.git",
   "clone_url": "https://github.com/C2FO/fast-csv.git",
   "svn_url": "https://github.com/C2FO/fast-csv",
   "homepage": "http://c2fo.github.io/fast-csv",
-  "size": 4680,
+  "size": 4679,
   "stargazers_count": 1452,
   "watchers_count": 1452,
   "language": "TypeScript",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1954
+  "_index": 1955
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/johnrengelman/shadow/releases{/id}",
   "deployments_url": "https://api.github.com/repos/johnrengelman/shadow/deployments",
   "created_at": "2012-12-19T16:13:32Z",
-  "updated_at": "2023-11-05T12:59:59Z",
-  "pushed_at": "2023-11-05T21:52:21Z",
+  "updated_at": "2023-11-07T01:24:12Z",
+  "pushed_at": "2023-11-06T01:57:41Z",
   "git_url": "git://github.com/johnrengelman/shadow.git",
   "ssh_url": "git@github.com:johnrengelman/shadow.git",
   "clone_url": "https://github.com/johnrengelman/shadow.git",
   "svn_url": "https://github.com/johnrengelman/shadow",
   "homepage": "http://imperceptiblethoughts.com/shadow/",
   "size": 5650,
-  "stargazers_count": 3417,
-  "watchers_count": 3417,
+  "stargazers_count": 3418,
+  "watchers_count": 3418,
   "language": "Groovy",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 384,
   "open_issues": 250,
-  "watchers": 3417,
+  "watchers": 3418,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1358
+  "_index": 1359
 }

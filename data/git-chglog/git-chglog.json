@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/git-chglog/git-chglog/deployments",
   "created_at": "2018-02-02T13:57:20Z",
   "updated_at": "2023-11-03T12:43:21Z",
-  "pushed_at": "2023-11-04T15:24:36Z",
+  "pushed_at": "2023-11-06T11:23:55Z",
   "git_url": "git://github.com/git-chglog/git-chglog.git",
   "ssh_url": "git@github.com:git-chglog/git-chglog.git",
   "clone_url": "https://github.com/git-chglog/git-chglog.git",
   "svn_url": "https://github.com/git-chglog/git-chglog",
   "homepage": "https://godoc.org/github.com/git-chglog/git-chglog",
-  "size": 2851,
+  "size": 2852,
   "stargazers_count": 2535,
   "watchers_count": 2535,
   "language": "Go",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1891
+  "_index": 1892
 }

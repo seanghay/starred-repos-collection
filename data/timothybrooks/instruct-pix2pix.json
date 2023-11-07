@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/timothybrooks/instruct-pix2pix/releases{/id}",
   "deployments_url": "https://api.github.com/repos/timothybrooks/instruct-pix2pix/deployments",
   "created_at": "2023-01-09T03:14:31Z",
-  "updated_at": "2023-11-05T18:45:44Z",
+  "updated_at": "2023-11-06T12:47:25Z",
   "pushed_at": "2023-02-12T10:04:32Z",
   "git_url": "git://github.com/timothybrooks/instruct-pix2pix.git",
   "ssh_url": "git@github.com:timothybrooks/instruct-pix2pix.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 480,
+  "forks_count": 481,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,7 +99,7 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 480,
+  "forks": 481,
   "open_issues": 51,
   "watchers": 5376,
   "default_branch": "main",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 628
+  "_index": 629
 }

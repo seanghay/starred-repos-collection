@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/s0md3v/roop/releases{/id}",
   "deployments_url": "https://api.github.com/repos/s0md3v/roop/deployments",
   "created_at": "2023-05-28T14:37:54Z",
-  "updated_at": "2023-11-06T01:32:49Z",
-  "pushed_at": "2023-10-28T04:28:54Z",
+  "updated_at": "2023-11-07T00:44:44Z",
+  "pushed_at": "2023-11-06T12:29:12Z",
   "git_url": "git://github.com/s0md3v/roop.git",
   "ssh_url": "git@github.com:s0md3v/roop.git",
   "clone_url": "https://github.com/s0md3v/roop.git",
   "svn_url": "https://github.com/s0md3v/roop",
   "homepage": "",
   "size": 99765,
-  "stargazers_count": 21917,
-  "watchers_count": 21917,
+  "stargazers_count": 21945,
+  "watchers_count": 21945,
   "language": "Python",
   "has_issues": false,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 4826,
+  "forks_count": 4837,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 6,
+  "open_issues_count": 7,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -102,9 +102,9 @@
     "face-swap"
   ],
   "visibility": "public",
-  "forks": 4826,
-  "open_issues": 6,
-  "watchers": 21917,
+  "forks": 4837,
+  "open_issues": 7,
+  "watchers": 21945,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 456
+  "_index": 457
 }

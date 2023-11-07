@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/primus/primus/deployments",
   "created_at": "2013-06-25T08:17:42Z",
   "updated_at": "2023-11-03T17:10:27Z",
-  "pushed_at": "2023-11-03T16:43:17Z",
+  "pushed_at": "2023-11-06T18:13:11Z",
   "git_url": "git://github.com/primus/primus.git",
   "ssh_url": "git@github.com:primus/primus.git",
   "clone_url": "https://github.com/primus/primus.git",
   "svn_url": "https://github.com/primus/primus",
   "homepage": "",
-  "size": 2992,
+  "size": 2998,
   "stargazers_count": 4436,
   "watchers_count": 4436,
   "language": "JavaScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 52,
+  "open_issues_count": 49,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -111,7 +111,7 @@
   ],
   "visibility": "public",
   "forks": 302,
-  "open_issues": 52,
+  "open_issues": 49,
   "watchers": 4436,
   "default_branch": "master",
   "permissions": {
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1760
+  "_index": 1761
 }

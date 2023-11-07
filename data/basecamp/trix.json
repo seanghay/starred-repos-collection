@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/basecamp/trix/releases{/id}",
   "deployments_url": "https://api.github.com/repos/basecamp/trix/deployments",
   "created_at": "2013-08-01T22:21:30Z",
-  "updated_at": "2023-11-05T07:01:52Z",
+  "updated_at": "2023-11-06T13:35:27Z",
   "pushed_at": "2023-10-30T12:59:10Z",
   "git_url": "git://github.com/basecamp/trix.git",
   "ssh_url": "git@github.com:basecamp/trix.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/basecamp/trix",
   "homepage": "https://trix-editor.org/",
   "size": 6194,
-  "stargazers_count": 17960,
-  "watchers_count": 17960,
+  "stargazers_count": 17961,
+  "watchers_count": 17961,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 1083,
   "open_issues": 113,
-  "watchers": 17960,
+  "watchers": 17961,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2358
+  "_index": 2359
 }

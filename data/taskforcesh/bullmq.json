@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/taskforcesh/bullmq/releases{/id}",
   "deployments_url": "https://api.github.com/repos/taskforcesh/bullmq/deployments",
   "created_at": "2018-12-19T21:46:28Z",
-  "updated_at": "2023-11-05T18:15:26Z",
-  "pushed_at": "2023-11-05T11:16:07Z",
+  "updated_at": "2023-11-07T01:19:54Z",
+  "pushed_at": "2023-11-07T01:27:42Z",
   "git_url": "git://github.com/taskforcesh/bullmq.git",
   "ssh_url": "git@github.com:taskforcesh/bullmq.git",
   "clone_url": "https://github.com/taskforcesh/bullmq.git",
   "svn_url": "https://github.com/taskforcesh/bullmq",
   "homepage": "https://bullmq.io",
-  "size": 47554,
-  "stargazers_count": 4507,
-  "watchers_count": 4507,
+  "size": 47576,
+  "stargazers_count": 4515,
+  "watchers_count": 4515,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 344,
+  "forks_count": 345,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 265,
+  "open_issues_count": 267,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,9 +106,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 344,
-  "open_issues": 265,
-  "watchers": 4507,
+  "forks": 345,
+  "open_issues": 267,
+  "watchers": 4515,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1882
+  "_index": 1883
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lucaong/minisearch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lucaong/minisearch/deployments",
   "created_at": "2018-09-17T15:13:16Z",
-  "updated_at": "2023-11-05T23:33:06Z",
+  "updated_at": "2023-11-06T09:20:22Z",
   "pushed_at": "2023-10-30T12:16:45Z",
   "git_url": "git://github.com/lucaong/minisearch.git",
   "ssh_url": "git@github.com:lucaong/minisearch.git",
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 423
+  "_index": 424
 }

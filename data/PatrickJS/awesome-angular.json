@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1331,
+  "forks_count": 1332,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,7 +109,7 @@
     "awesome-list"
   ],
   "visibility": "public",
-  "forks": 1331,
+  "forks": 1332,
   "open_issues": 0,
   "watchers": 9085,
   "default_branch": "gh-pages",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3166
+  "_index": 3167
 }

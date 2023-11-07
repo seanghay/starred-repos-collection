@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jvilk/BrowserFS/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jvilk/BrowserFS/deployments",
   "created_at": "2013-04-18T17:32:50Z",
-  "updated_at": "2023-11-03T04:25:16Z",
+  "updated_at": "2023-11-06T18:34:55Z",
   "pushed_at": "2023-09-24T21:14:17Z",
   "git_url": "git://github.com/jvilk/BrowserFS.git",
   "ssh_url": "git@github.com:jvilk/BrowserFS.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1713
+  "_index": 1714
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/twbs/icons/releases{/id}",
   "deployments_url": "https://api.github.com/repos/twbs/icons/deployments",
   "created_at": "2019-07-25T17:59:58Z",
-  "updated_at": "2023-11-05T22:25:04Z",
+  "updated_at": "2023-11-06T09:28:12Z",
   "pushed_at": "2023-11-02T22:26:00Z",
   "git_url": "git://github.com/twbs/icons.git",
   "ssh_url": "git@github.com:twbs/icons.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/twbs/icons",
   "homepage": "https://icons.getbootstrap.com",
   "size": 61733,
-  "stargazers_count": 6953,
-  "watchers_count": 6953,
+  "stargazers_count": 6955,
+  "watchers_count": 6955,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1050,
+  "forks_count": 1051,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "woff2"
   ],
   "visibility": "public",
-  "forks": 1050,
+  "forks": 1051,
   "open_issues": 307,
-  "watchers": 6953,
+  "watchers": 6955,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1468
+  "_index": 1469
 }

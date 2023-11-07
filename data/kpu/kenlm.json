@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kpu/kenlm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kpu/kenlm/deployments",
   "created_at": "2011-11-15T17:07:17Z",
-  "updated_at": "2023-11-06T00:52:39Z",
+  "updated_at": "2023-11-06T07:42:58Z",
   "pushed_at": "2023-10-31T00:48:59Z",
   "git_url": "git://github.com/kpu/kenlm.git",
   "ssh_url": "git@github.com:kpu/kenlm.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/kpu/kenlm",
   "homepage": "http://kheafield.com/code/kenlm/",
   "size": 6087,
-  "stargazers_count": 2277,
-  "watchers_count": 2277,
+  "stargazers_count": 2279,
+  "watchers_count": 2279,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 493,
   "open_issues": 118,
-  "watchers": 2277,
+  "watchers": 2279,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 646
+  "_index": 647
 }

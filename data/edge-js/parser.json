@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/edge-js/parser/releases{/id}",
   "deployments_url": "https://api.github.com/repos/edge-js/parser/deployments",
   "created_at": "2018-05-25T12:30:55Z",
-  "updated_at": "2023-07-25T10:24:29Z",
-  "pushed_at": "2023-08-10T04:56:36Z",
+  "updated_at": "2023-11-06T11:24:10Z",
+  "pushed_at": "2023-11-06T11:23:37Z",
   "git_url": "git://github.com/edge-js/parser.git",
   "ssh_url": "git@github.com:edge-js/parser.git",
   "clone_url": "https://github.com/edge-js/parser.git",
   "svn_url": "https://github.com/edge-js/parser",
   "homepage": null,
-  "size": 2482,
+  "size": 2031,
   "stargazers_count": 16,
   "watchers_count": 16,
   "language": "TypeScript",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 998
+  "_index": 999
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/georust/kml/deployments",
   "created_at": "2020-12-18T14:30:25Z",
   "updated_at": "2023-11-02T18:27:27Z",
-  "pushed_at": "2023-10-30T11:42:23Z",
+  "pushed_at": "2023-11-07T00:30:56Z",
   "git_url": "git://github.com/georust/kml.git",
   "ssh_url": "git@github.com:georust/kml.git",
   "clone_url": "https://github.com/georust/kml.git",
   "svn_url": "https://github.com/georust/kml",
   "homepage": "https://docs.rs/kml/",
-  "size": 286,
+  "size": 236,
   "stargazers_count": 21,
   "watchers_count": 21,
   "language": "Rust",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 6
+  "_index": 7
 }
