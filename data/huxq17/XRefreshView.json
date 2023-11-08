@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/huxq17/XRefreshView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/huxq17/XRefreshView/deployments",
   "created_at": "2015-06-03T09:28:04Z",
-  "updated_at": "2023-11-03T16:35:04Z",
+  "updated_at": "2023-11-07T03:27:31Z",
   "pushed_at": "2022-10-03T23:22:33Z",
   "git_url": "git://github.com/huxq17/XRefreshView.git",
   "ssh_url": "git@github.com:huxq17/XRefreshView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/huxq17/XRefreshView",
   "homepage": "",
   "size": 25281,
-  "stargazers_count": 1695,
-  "watchers_count": 1695,
+  "stargazers_count": 1694,
+  "watchers_count": 1694,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 510,
   "open_issues": 56,
-  "watchers": 1695,
+  "watchers": 1694,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2484
+  "_index": 2486
 }

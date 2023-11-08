@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/schollz/croc/releases{/id}",
   "deployments_url": "https://api.github.com/repos/schollz/croc/deployments",
   "created_at": "2017-10-17T15:20:18Z",
-  "updated_at": "2023-11-06T20:55:49Z",
-  "pushed_at": "2023-11-06T08:23:15Z",
+  "updated_at": "2023-11-08T00:18:02Z",
+  "pushed_at": "2023-11-07T22:33:36Z",
   "git_url": "git://github.com/schollz/croc.git",
   "ssh_url": "git@github.com:schollz/croc.git",
   "clone_url": "https://github.com/schollz/croc.git",
   "svn_url": "https://github.com/schollz/croc",
   "homepage": "https://schollz.com/software/croc6",
-  "size": 24537,
-  "stargazers_count": 24958,
-  "watchers_count": 24958,
+  "size": 24544,
+  "stargazers_count": 24964,
+  "watchers_count": 24964,
   "language": "Go",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1021,
+  "forks_count": 1022,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 138,
+  "open_issues_count": 140,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,9 +107,9 @@
     "transfer"
   ],
   "visibility": "public",
-  "forks": 1021,
-  "open_issues": 138,
-  "watchers": 24958,
+  "forks": 1022,
+  "open_issues": 140,
+  "watchers": 24964,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 104
+  "_index": 106
 }

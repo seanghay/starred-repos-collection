@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/unjs/ufo/releases{/id}",
   "deployments_url": "https://api.github.com/repos/unjs/ufo/deployments",
   "created_at": "2020-12-04T18:21:58Z",
-  "updated_at": "2023-11-06T19:51:27Z",
+  "updated_at": "2023-11-07T15:36:42Z",
   "pushed_at": "2023-11-06T01:46:01Z",
   "git_url": "git://github.com/unjs/ufo.git",
   "ssh_url": "git@github.com:unjs/ufo.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/unjs/ufo",
   "homepage": "",
   "size": 1104,
-  "stargazers_count": 755,
-  "watchers_count": 755,
+  "stargazers_count": 757,
+  "watchers_count": 757,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 32,
   "open_issues": 12,
-  "watchers": 755,
+  "watchers": 757,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1644
+  "_index": 1646
 }

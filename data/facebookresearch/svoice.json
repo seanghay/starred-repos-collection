@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/facebookresearch/svoice/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookresearch/svoice/deployments",
   "created_at": "2020-11-19T16:37:28Z",
-  "updated_at": "2023-11-06T18:32:59Z",
+  "updated_at": "2023-11-07T12:56:09Z",
   "pushed_at": "2023-10-11T04:31:33Z",
   "git_url": "git://github.com/facebookresearch/svoice.git",
   "ssh_url": "git@github.com:facebookresearch/svoice.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 167,
+  "forks_count": 168,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,7 +99,7 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 167,
+  "forks": 168,
   "open_issues": 29,
   "watchers": 1094,
   "default_branch": "main",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 476
+  "_index": 478
 }

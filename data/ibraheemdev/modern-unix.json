@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ibraheemdev/modern-unix/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ibraheemdev/modern-unix/deployments",
   "created_at": "2021-01-12T00:50:14Z",
-  "updated_at": "2023-11-07T01:16:04Z",
+  "updated_at": "2023-11-08T01:08:06Z",
   "pushed_at": "2023-10-03T01:22:02Z",
   "git_url": "git://github.com/ibraheemdev/modern-unix.git",
   "ssh_url": "git@github.com:ibraheemdev/modern-unix.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ibraheemdev/modern-unix",
   "homepage": "",
   "size": 49,
-  "stargazers_count": 28387,
-  "watchers_count": 28387,
+  "stargazers_count": 28399,
+  "watchers_count": 28399,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 88,
+  "open_issues_count": 90,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -102,8 +102,8 @@
   ],
   "visibility": "public",
   "forks": 716,
-  "open_issues": 88,
-  "watchers": 28387,
+  "open_issues": 90,
+  "watchers": 28399,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1626
+  "_index": 1628
 }

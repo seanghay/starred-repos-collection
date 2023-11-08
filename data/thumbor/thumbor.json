@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/thumbor/thumbor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/thumbor/thumbor/deployments",
   "created_at": "2011-03-16T17:30:05Z",
-  "updated_at": "2023-11-06T13:37:20Z",
-  "pushed_at": "2023-11-01T20:38:00Z",
+  "updated_at": "2023-11-07T15:50:18Z",
+  "pushed_at": "2023-11-07T20:50:43Z",
   "git_url": "git://github.com/thumbor/thumbor.git",
   "ssh_url": "git@github.com:thumbor/thumbor.git",
   "clone_url": "https://github.com/thumbor/thumbor.git",
   "svn_url": "https://github.com/thumbor/thumbor",
   "homepage": "http://thumbor.org",
-  "size": 51949,
-  "stargazers_count": 9695,
-  "watchers_count": 9695,
+  "size": 51954,
+  "stargazers_count": 9694,
+  "watchers_count": 9694,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 17,
+  "open_issues_count": 16,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -102,8 +102,8 @@
   ],
   "visibility": "public",
   "forks": 829,
-  "open_issues": 17,
-  "watchers": 9695,
+  "open_issues": 16,
+  "watchers": 9694,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2715
+  "_index": 2717
 }

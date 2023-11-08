@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Kozea/WeasyPrint/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Kozea/WeasyPrint/deployments",
   "created_at": "2011-08-09T14:14:24Z",
-  "updated_at": "2023-11-06T04:37:57Z",
-  "pushed_at": "2023-11-04T21:11:02Z",
+  "updated_at": "2023-11-07T14:44:55Z",
+  "pushed_at": "2023-11-07T11:37:52Z",
   "git_url": "git://github.com/Kozea/WeasyPrint.git",
   "ssh_url": "git@github.com:Kozea/WeasyPrint.git",
   "clone_url": "https://github.com/Kozea/WeasyPrint.git",
   "svn_url": "https://github.com/Kozea/WeasyPrint",
   "homepage": "https://weasyprint.org",
-  "size": 32949,
-  "stargazers_count": 6169,
-  "watchers_count": 6169,
+  "size": 32952,
+  "stargazers_count": 6167,
+  "watchers_count": 6167,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 625,
+  "forks_count": 626,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,9 +106,9 @@
     "weasyprint"
   ],
   "visibility": "public",
-  "forks": 625,
+  "forks": 626,
   "open_issues": 191,
-  "watchers": 6169,
+  "watchers": 6167,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 35
+  "_index": 37
 }

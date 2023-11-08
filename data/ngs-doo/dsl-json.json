@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ngs-doo/dsl-json/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ngs-doo/dsl-json/deployments",
   "created_at": "2015-11-02T09:17:39Z",
-  "updated_at": "2023-11-05T02:33:53Z",
-  "pushed_at": "2023-08-29T17:27:58Z",
+  "updated_at": "2023-11-07T12:40:54Z",
+  "pushed_at": "2023-11-07T22:05:44Z",
   "git_url": "git://github.com/ngs-doo/dsl-json.git",
   "ssh_url": "git@github.com:ngs-doo/dsl-json.git",
   "clone_url": "https://github.com/ngs-doo/dsl-json.git",
   "svn_url": "https://github.com/ngs-doo/dsl-json",
   "homepage": "https://dsl-platform.com",
   "size": 2457,
-  "stargazers_count": 944,
-  "watchers_count": 944,
+  "stargazers_count": 943,
+  "watchers_count": 943,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 104,
+  "forks_count": 105,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 24,
+  "open_issues_count": 25,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -106,9 +106,9 @@
     "scala"
   ],
   "visibility": "public",
-  "forks": 104,
-  "open_issues": 24,
-  "watchers": 944,
+  "forks": 105,
+  "open_issues": 25,
+  "watchers": 943,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2262
+  "_index": 2264
 }

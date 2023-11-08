@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/edge-js/edge",
-  "description": "Node.js templating engine with fresh air",
+  "description": "Node.js template with a breath of fresh air",
   "fork": false,
   "url": "https://api.github.com/repos/edge-js/edge",
   "forks_url": "https://api.github.com/repos/edge-js/edge/forks",
@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/edge-js/edge/releases{/id}",
   "deployments_url": "https://api.github.com/repos/edge-js/edge/deployments",
   "created_at": "2017-03-05T12:09:21Z",
-  "updated_at": "2023-11-06T10:03:40Z",
-  "pushed_at": "2023-11-05T14:18:30Z",
+  "updated_at": "2023-11-07T05:16:30Z",
+  "pushed_at": "2023-11-07T05:58:11Z",
   "git_url": "git://github.com/edge-js/edge.git",
   "ssh_url": "git@github.com:edge-js/edge.git",
   "clone_url": "https://github.com/edge-js/edge.git",
   "svn_url": "https://github.com/edge-js/edge",
-  "homepage": "https://docs.adonisjs.com/guides/views/introduction",
-  "size": 2165,
+  "homepage": "https://edgejs.dev",
+  "size": 2172,
   "stargazers_count": 496,
   "watchers_count": 496,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1,
+  "open_issues_count": 0,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -98,13 +98,12 @@
   "is_template": false,
   "web_commit_signoff_required": false,
   "topics": [
-    "lexer",
-    "node-js",
-    "templating-engine"
+    "nodejs",
+    "templating"
   ],
   "visibility": "public",
   "forks": 21,
-  "open_issues": 1,
+  "open_issues": 0,
   "watchers": 496,
   "default_branch": "develop",
   "permissions": {
@@ -114,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1229
+  "_index": 1231
 }

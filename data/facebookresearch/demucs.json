@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/facebookresearch/demucs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookresearch/demucs/deployments",
   "created_at": "2019-10-25T02:43:20Z",
-  "updated_at": "2023-11-06T22:33:27Z",
+  "updated_at": "2023-11-07T19:40:41Z",
   "pushed_at": "2023-10-27T15:42:13Z",
   "git_url": "git://github.com/facebookresearch/demucs.git",
   "ssh_url": "git@github.com:facebookresearch/demucs.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/facebookresearch/demucs",
   "homepage": "",
   "size": 78525,
-  "stargazers_count": 6990,
-  "watchers_count": 6990,
+  "stargazers_count": 6994,
+  "watchers_count": 6994,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 842,
   "open_issues": 238,
-  "watchers": 6990,
+  "watchers": 6994,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 471
+  "_index": 473
 }

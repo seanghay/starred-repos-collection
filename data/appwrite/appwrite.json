@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/appwrite/appwrite/releases{/id}",
   "deployments_url": "https://api.github.com/repos/appwrite/appwrite/deployments",
   "created_at": "2019-04-08T16:36:25Z",
-  "updated_at": "2023-11-07T01:23:31Z",
-  "pushed_at": "2023-11-06T21:30:57Z",
+  "updated_at": "2023-11-08T00:19:06Z",
+  "pushed_at": "2023-11-07T19:05:56Z",
   "git_url": "git://github.com/appwrite/appwrite.git",
   "ssh_url": "git@github.com:appwrite/appwrite.git",
   "clone_url": "https://github.com/appwrite/appwrite.git",
   "svn_url": "https://github.com/appwrite/appwrite",
   "homepage": "https://appwrite.io",
-  "size": 254483,
-  "stargazers_count": 37835,
-  "watchers_count": 37835,
+  "size": 254505,
+  "stargazers_count": 37850,
+  "watchers_count": 37850,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 752,
+  "open_issues_count": 747,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -119,8 +119,8 @@
   ],
   "visibility": "public",
   "forks": 3461,
-  "open_issues": 752,
-  "watchers": 37835,
+  "open_issues": 747,
+  "watchers": 37850,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1174
+  "_index": 1176
 }

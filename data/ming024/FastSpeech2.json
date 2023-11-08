@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ming024/FastSpeech2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ming024/FastSpeech2/deployments",
   "created_at": "2020-06-25T13:57:53Z",
-  "updated_at": "2023-11-06T06:31:08Z",
+  "updated_at": "2023-11-07T10:05:12Z",
   "pushed_at": "2023-10-27T04:35:58Z",
   "git_url": "git://github.com/ming024/FastSpeech2.git",
   "ssh_url": "git@github.com:ming024/FastSpeech2.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ming024/FastSpeech2",
   "homepage": "",
   "size": 338234,
-  "stargazers_count": 1450,
-  "watchers_count": 1450,
+  "stargazers_count": 1452,
+  "watchers_count": 1452,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 479,
   "open_issues": 127,
-  "watchers": 1450,
+  "watchers": 1452,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 413
+  "_index": 415
 }

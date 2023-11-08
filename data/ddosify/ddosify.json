@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/ddosify/ddosify",
-  "description": "\"Canva\" of K8s Observability. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀",
+  "description": "\"Canva\" of Kubernetes Observability. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀",
   "fork": false,
   "url": "https://api.github.com/repos/ddosify/ddosify",
   "forks_url": "https://api.github.com/repos/ddosify/ddosify/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ddosify/ddosify/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ddosify/ddosify/deployments",
   "created_at": "2021-08-04T07:43:53Z",
-  "updated_at": "2023-11-06T14:58:23Z",
-  "pushed_at": "2023-11-06T14:43:16Z",
+  "updated_at": "2023-11-07T19:23:19Z",
+  "pushed_at": "2023-11-07T11:50:31Z",
   "git_url": "git://github.com/ddosify/ddosify.git",
   "ssh_url": "git@github.com:ddosify/ddosify.git",
   "clone_url": "https://github.com/ddosify/ddosify.git",
   "svn_url": "https://github.com/ddosify/ddosify",
   "homepage": "https://ddosify.com",
-  "size": 2249,
-  "stargazers_count": 7944,
-  "watchers_count": 7944,
+  "size": 2251,
+  "stargazers_count": 7947,
+  "watchers_count": 7947,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 360,
+  "forks_count": 359,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 27,
+  "open_issues_count": 26,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -111,9 +111,9 @@
     "performance-testing"
   ],
   "visibility": "public",
-  "forks": 360,
-  "open_issues": 27,
-  "watchers": 7944,
+  "forks": 359,
+  "open_issues": 26,
+  "watchers": 7947,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 0
+  "_index": 2
 }

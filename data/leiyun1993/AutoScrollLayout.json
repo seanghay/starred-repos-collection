@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/leiyun1993/AutoScrollLayout/releases{/id}",
   "deployments_url": "https://api.github.com/repos/leiyun1993/AutoScrollLayout/deployments",
   "created_at": "2017-06-22T03:47:15Z",
-  "updated_at": "2023-09-27T09:04:33Z",
+  "updated_at": "2023-11-07T06:47:12Z",
   "pushed_at": "2020-01-16T08:11:07Z",
   "git_url": "git://github.com/leiyun1993/AutoScrollLayout.git",
   "ssh_url": "git@github.com:leiyun1993/AutoScrollLayout.git",
@@ -111,5 +111,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2320
+  "_index": 2322
 }

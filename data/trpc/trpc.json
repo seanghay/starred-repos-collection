@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/trpc/trpc/releases{/id}",
   "deployments_url": "https://api.github.com/repos/trpc/trpc/deployments",
   "created_at": "2020-07-18T01:17:11Z",
-  "updated_at": "2023-11-07T01:21:08Z",
-  "pushed_at": "2023-11-06T16:35:27Z",
+  "updated_at": "2023-11-08T01:41:42Z",
+  "pushed_at": "2023-11-08T00:41:57Z",
   "git_url": "git://github.com/trpc/trpc.git",
   "ssh_url": "git@github.com:trpc/trpc.git",
   "clone_url": "https://github.com/trpc/trpc.git",
   "svn_url": "https://github.com/trpc/trpc",
   "homepage": "https://tRPC.io",
-  "size": 32797,
-  "stargazers_count": 29620,
-  "watchers_count": 29620,
+  "size": 32802,
+  "stargazers_count": 29656,
+  "watchers_count": 29656,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1059,
+  "forks_count": 1060,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 101,
+  "open_issues_count": 98,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,9 +106,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 1059,
-  "open_issues": 101,
-  "watchers": 29620,
+  "forks": 1060,
+  "open_issues": 98,
+  "watchers": 29656,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1205
+  "_index": 1207
 }

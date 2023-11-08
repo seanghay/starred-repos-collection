@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/chrisbanes/tivi/releases{/id}",
   "deployments_url": "https://api.github.com/repos/chrisbanes/tivi/deployments",
   "created_at": "2017-08-17T16:35:58Z",
-  "updated_at": "2023-11-06T12:50:44Z",
-  "pushed_at": "2023-11-06T19:05:54Z",
+  "updated_at": "2023-11-07T13:19:22Z",
+  "pushed_at": "2023-11-08T00:28:33Z",
   "git_url": "git://github.com/chrisbanes/tivi.git",
   "ssh_url": "git@github.com:chrisbanes/tivi.git",
   "clone_url": "https://github.com/chrisbanes/tivi.git",
   "svn_url": "https://github.com/chrisbanes/tivi",
   "homepage": "",
-  "size": 25611,
-  "stargazers_count": 6192,
-  "watchers_count": 6192,
+  "size": 25619,
+  "stargazers_count": 6196,
+  "watchers_count": 6196,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 844,
   "open_issues": 20,
-  "watchers": 6192,
+  "watchers": 6196,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2730
+  "_index": 2732
 }

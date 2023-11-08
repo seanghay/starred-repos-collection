@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nodeca/image-blob-reduce/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nodeca/image-blob-reduce/deployments",
   "created_at": "2020-06-25T11:12:29Z",
-  "updated_at": "2023-11-03T10:29:32Z",
+  "updated_at": "2023-11-07T17:02:32Z",
   "pushed_at": "2023-06-19T02:39:05Z",
   "git_url": "git://github.com/nodeca/image-blob-reduce.git",
   "ssh_url": "git@github.com:nodeca/image-blob-reduce.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nodeca/image-blob-reduce",
   "homepage": "https://nodeca.github.io/image-blob-reduce/",
   "size": 267,
-  "stargazers_count": 227,
-  "watchers_count": 227,
+  "stargazers_count": 228,
+  "watchers_count": 228,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 30,
   "open_issues": 3,
-  "watchers": 227,
+  "watchers": 228,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 836
+  "_index": 838
 }

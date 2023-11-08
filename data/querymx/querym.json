@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/querymx/querym.git",
   "svn_url": "https://github.com/querymx/querym",
   "homepage": "https://querym.net/",
-  "size": 7997,
+  "size": 8001,
   "stargazers_count": 64,
   "watchers_count": 64,
   "language": "TypeScript",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 524
+  "_index": 526
 }

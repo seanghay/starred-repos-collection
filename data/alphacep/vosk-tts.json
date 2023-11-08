@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/alphacep/vosk-tts/releases{/id}",
   "deployments_url": "https://api.github.com/repos/alphacep/vosk-tts/deployments",
   "created_at": "2023-04-07T00:31:19Z",
-  "updated_at": "2023-11-04T12:50:44Z",
+  "updated_at": "2023-11-08T00:22:01Z",
   "pushed_at": "2023-10-19T01:01:02Z",
   "git_url": "git://github.com/alphacep/vosk-tts.git",
   "ssh_url": "git@github.com:alphacep/vosk-tts.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/alphacep/vosk-tts",
   "homepage": null,
   "size": 2622,
-  "stargazers_count": 44,
-  "watchers_count": 44,
+  "stargazers_count": 45,
+  "watchers_count": 45,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 5,
+  "forks_count": 6,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 5,
+  "forks": 6,
   "open_issues": 3,
-  "watchers": 44,
+  "watchers": 45,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 230
+  "_index": 232
 }

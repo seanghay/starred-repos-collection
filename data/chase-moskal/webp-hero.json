@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/chase-moskal/webp-hero/releases{/id}",
   "deployments_url": "https://api.github.com/repos/chase-moskal/webp-hero/deployments",
   "created_at": "2017-12-14T07:32:54Z",
-  "updated_at": "2023-09-28T18:09:01Z",
+  "updated_at": "2023-11-08T01:08:39Z",
   "pushed_at": "2022-06-06T01:39:26Z",
   "git_url": "git://github.com/chase-moskal/webp-hero.git",
   "ssh_url": "git@github.com:chase-moskal/webp-hero.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/chase-moskal/webp-hero",
   "homepage": "https://chasemoskal.com/webp-hero/",
   "size": 3534,
-  "stargazers_count": 240,
-  "watchers_count": 240,
+  "stargazers_count": 241,
+  "watchers_count": 241,
   "language": "CMake",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 23,
   "open_issues": 9,
-  "watchers": 240,
+  "watchers": 241,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2231
+  "_index": 2233
 }
