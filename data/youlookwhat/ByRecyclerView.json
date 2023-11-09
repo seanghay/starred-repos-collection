@@ -65,13 +65,13 @@
   "releases_url": "https://api.github.com/repos/youlookwhat/ByRecyclerView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/youlookwhat/ByRecyclerView/deployments",
   "created_at": "2019-08-20T13:34:28Z",
-  "updated_at": "2023-11-07T14:58:56Z",
+  "updated_at": "2023-11-08T10:58:15Z",
   "pushed_at": "2023-06-09T01:34:55Z",
   "git_url": "git://github.com/youlookwhat/ByRecyclerView.git",
   "ssh_url": "git@github.com:youlookwhat/ByRecyclerView.git",
   "clone_url": "https://github.com/youlookwhat/ByRecyclerView.git",
   "svn_url": "https://github.com/youlookwhat/ByRecyclerView",
-  "homepage": "https://jinbeen.com/ByRecyclerView",
+  "homepage": "https://youlookwhat.github.io/ByRecyclerView",
   "size": 7480,
   "stargazers_count": 751,
   "watchers_count": 751,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2343
+  "_index": 2348
 }

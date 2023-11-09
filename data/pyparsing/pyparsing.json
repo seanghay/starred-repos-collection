@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/pyparsing/pyparsing/deployments",
   "created_at": "2017-05-14T18:07:01Z",
   "updated_at": "2023-11-07T14:32:08Z",
-  "pushed_at": "2023-11-07T17:49:22Z",
+  "pushed_at": "2023-11-08T15:38:16Z",
   "git_url": "git://github.com/pyparsing/pyparsing.git",
   "ssh_url": "git@github.com:pyparsing/pyparsing.git",
   "clone_url": "https://github.com/pyparsing/pyparsing.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 33,
+  "open_issues_count": 35,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,7 +112,7 @@
   ],
   "visibility": "public",
   "forks": 267,
-  "open_issues": 33,
+  "open_issues": 35,
   "watchers": 1979,
   "default_branch": "master",
   "permissions": {
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 189
+  "_index": 194
 }

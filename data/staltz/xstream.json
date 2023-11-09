@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/staltz/xstream/releases{/id}",
   "deployments_url": "https://api.github.com/repos/staltz/xstream/deployments",
   "created_at": "2016-04-22T19:25:41Z",
-  "updated_at": "2023-11-03T02:04:14Z",
+  "updated_at": "2023-11-08T15:31:44Z",
   "pushed_at": "2023-07-18T20:00:00Z",
   "git_url": "git://github.com/staltz/xstream.git",
   "ssh_url": "git@github.com:staltz/xstream.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/staltz/xstream",
   "homepage": "http://staltz.github.io/xstream/",
   "size": 1651,
-  "stargazers_count": 2355,
-  "watchers_count": 2355,
+  "stargazers_count": 2356,
+  "watchers_count": 2356,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 142,
+  "forks_count": 143,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 142,
+  "forks": 143,
   "open_issues": 51,
-  "watchers": 2355,
+  "watchers": 2356,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3155
+  "_index": 3160
 }

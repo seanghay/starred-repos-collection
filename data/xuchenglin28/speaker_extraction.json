@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/xuchenglin28/speaker_extraction/releases{/id}",
   "deployments_url": "https://api.github.com/repos/xuchenglin28/speaker_extraction/deployments",
   "created_at": "2018-10-28T12:51:20Z",
-  "updated_at": "2023-10-30T18:15:40Z",
+  "updated_at": "2023-11-08T09:03:14Z",
   "pushed_at": "2021-01-24T02:38:34Z",
   "git_url": "git://github.com/xuchenglin28/speaker_extraction.git",
   "ssh_url": "git@github.com:xuchenglin28/speaker_extraction.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 220
+  "_index": 225
 }

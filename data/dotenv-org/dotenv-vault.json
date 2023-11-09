@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/dotenv-org/dotenv-vault",
-  "description": "A secrets manager for .env and .env.vault files.",
+  "description": "Sync your .env files between machines, environments, and team members. From the same people that pioneered dotenv.",
   "fork": false,
   "url": "https://api.github.com/repos/dotenv-org/dotenv-vault",
   "forks_url": "https://api.github.com/repos/dotenv-org/dotenv-vault/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/dotenv-org/dotenv-vault/releases{/id}",
   "deployments_url": "https://api.github.com/repos/dotenv-org/dotenv-vault/deployments",
   "created_at": "2022-03-14T08:08:01Z",
-  "updated_at": "2023-11-07T14:59:28Z",
-  "pushed_at": "2023-11-07T14:12:25Z",
+  "updated_at": "2023-11-08T22:38:25Z",
+  "pushed_at": "2023-11-08T21:42:06Z",
   "git_url": "git://github.com/dotenv-org/dotenv-vault.git",
   "ssh_url": "git@github.com:dotenv-org/dotenv-vault.git",
   "clone_url": "https://github.com/dotenv-org/dotenv-vault.git",
   "svn_url": "https://github.com/dotenv-org/dotenv-vault",
   "homepage": "https://www.dotenv.org",
   "size": 3002,
-  "stargazers_count": 827,
-  "watchers_count": 827,
+  "stargazers_count": 830,
+  "watchers_count": 830,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -118,7 +118,7 @@
   "visibility": "public",
   "forks": 31,
   "open_issues": 31,
-  "watchers": 827,
+  "watchers": 830,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1238
+  "_index": 1243
 }

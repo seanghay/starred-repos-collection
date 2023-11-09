@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mozilla/nunjucks/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mozilla/nunjucks/deployments",
   "created_at": "2012-08-09T05:40:44Z",
-  "updated_at": "2023-11-07T15:46:24Z",
+  "updated_at": "2023-11-08T12:54:37Z",
   "pushed_at": "2023-10-21T09:07:27Z",
   "git_url": "git://github.com/mozilla/nunjucks.git",
   "ssh_url": "git@github.com:mozilla/nunjucks.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mozilla/nunjucks",
   "homepage": "https://mozilla.github.io/nunjucks/",
   "size": 7884,
-  "stargazers_count": 8294,
-  "watchers_count": 8294,
+  "stargazers_count": 8295,
+  "watchers_count": 8295,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 681,
   "open_issues": 326,
-  "watchers": 8294,
+  "watchers": 8295,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1032
+  "_index": 1037
 }

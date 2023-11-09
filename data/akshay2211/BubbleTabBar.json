@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/akshay2211/BubbleTabBar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/akshay2211/BubbleTabBar/deployments",
   "created_at": "2019-08-20T13:04:04Z",
-  "updated_at": "2023-11-02T04:48:43Z",
+  "updated_at": "2023-11-08T10:42:53Z",
   "pushed_at": "2023-01-24T07:38:11Z",
   "git_url": "git://github.com/akshay2211/BubbleTabBar.git",
   "ssh_url": "git@github.com:akshay2211/BubbleTabBar.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/akshay2211/BubbleTabBar",
   "homepage": "https://github.com/akshay2211/BubbleTabBar",
   "size": 18621,
-  "stargazers_count": 707,
-  "watchers_count": 707,
+  "stargazers_count": 709,
+  "watchers_count": 709,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 67,
+  "forks_count": 68,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,9 +110,9 @@
     "uiview"
   ],
   "visibility": "public",
-  "forks": 67,
+  "forks": 68,
   "open_issues": 3,
-  "watchers": 707,
+  "watchers": 709,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1678
+  "_index": 1683
 }

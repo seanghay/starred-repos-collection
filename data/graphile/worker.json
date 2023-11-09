@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/graphile/worker/deployments",
   "created_at": "2019-03-01T16:17:46Z",
   "updated_at": "2023-11-07T02:52:47Z",
-  "pushed_at": "2023-11-07T14:54:37Z",
+  "pushed_at": "2023-11-08T17:18:01Z",
   "git_url": "git://github.com/graphile/worker.git",
   "ssh_url": "git@github.com:graphile/worker.git",
   "clone_url": "https://github.com/graphile/worker.git",
   "svn_url": "https://github.com/graphile/worker",
   "homepage": "http://worker.graphile.org/",
-  "size": 2827,
+  "size": 2817,
   "stargazers_count": 1437,
   "watchers_count": 1437,
   "language": "TypeScript",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2200
+  "_index": 2205
 }

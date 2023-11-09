@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ohmjs/ohm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ohmjs/ohm/deployments",
   "created_at": "2015-05-21T15:42:14Z",
-  "updated_at": "2023-11-07T18:36:50Z",
+  "updated_at": "2023-11-08T22:18:48Z",
   "pushed_at": "2023-10-16T03:41:27Z",
   "git_url": "git://github.com/ohmjs/ohm.git",
   "ssh_url": "git@github.com:ohmjs/ohm.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ohmjs/ohm",
   "homepage": "",
   "size": 25230,
-  "stargazers_count": 4707,
-  "watchers_count": 4707,
+  "stargazers_count": 4709,
+  "watchers_count": 4709,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 229,
   "open_issues": 35,
-  "watchers": 4707,
+  "watchers": 4709,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1814
+  "_index": 1819
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/automerge/automerge-classic/releases{/id}",
   "deployments_url": "https://api.github.com/repos/automerge/automerge-classic/deployments",
   "created_at": "2017-04-19T15:25:24Z",
-  "updated_at": "2023-11-07T19:00:47Z",
+  "updated_at": "2023-11-08T23:31:53Z",
   "pushed_at": "2023-03-14T15:24:45Z",
   "git_url": "git://github.com/automerge/automerge-classic.git",
   "ssh_url": "git@github.com:automerge/automerge-classic.git",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1977
+  "_index": 1982
 }

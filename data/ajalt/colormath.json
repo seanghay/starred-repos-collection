@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ajalt/colormath/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ajalt/colormath/deployments",
   "created_at": "2018-07-05T01:01:41Z",
-  "updated_at": "2023-11-04T23:09:17Z",
+  "updated_at": "2023-11-08T21:48:55Z",
   "pushed_at": "2023-11-04T20:14:08Z",
   "git_url": "git://github.com/ajalt/colormath.git",
   "ssh_url": "git@github.com:ajalt/colormath.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ajalt/colormath",
   "homepage": "https://ajalt.github.io/colormath/",
   "size": 6727,
-  "stargazers_count": 250,
-  "watchers_count": 250,
+  "stargazers_count": 251,
+  "watchers_count": 251,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 16,
   "open_issues": 2,
-  "watchers": 250,
+  "watchers": 251,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1993
+  "_index": 1998
 }
