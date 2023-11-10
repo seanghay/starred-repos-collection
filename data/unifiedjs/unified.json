@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/unifiedjs/unified/releases{/id}",
   "deployments_url": "https://api.github.com/repos/unifiedjs/unified/deployments",
   "created_at": "2015-07-31T08:53:01Z",
-  "updated_at": "2023-11-08T09:12:34Z",
+  "updated_at": "2023-11-10T00:29:58Z",
   "pushed_at": "2023-10-26T11:23:32Z",
   "git_url": "git://github.com/unifiedjs/unified.git",
   "ssh_url": "git@github.com:unifiedjs/unified.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/unifiedjs/unified",
   "homepage": "https://unifiedjs.com",
   "size": 733,
-  "stargazers_count": 4052,
-  "watchers_count": 4052,
+  "stargazers_count": 4055,
+  "watchers_count": 4055,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 119,
   "open_issues": 1,
-  "watchers": 4052,
+  "watchers": 4055,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1435
+  "_index": 1437
 }

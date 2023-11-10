@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jadore801120/attention-is-all-you-need-pytorch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jadore801120/attention-is-all-you-need-pytorch/deployments",
   "created_at": "2017-06-14T10:15:20Z",
-  "updated_at": "2023-11-08T11:36:31Z",
+  "updated_at": "2023-11-09T20:13:05Z",
   "pushed_at": "2023-10-05T02:14:06Z",
   "git_url": "git://github.com/jadore801120/attention-is-all-you-need-pytorch.git",
   "ssh_url": "git@github.com:jadore801120/attention-is-all-you-need-pytorch.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jadore801120/attention-is-all-you-need-pytorch",
   "homepage": "",
   "size": 166,
-  "stargazers_count": 7997,
-  "watchers_count": 7997,
+  "stargazers_count": 8000,
+  "watchers_count": 8000,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 1862,
   "open_issues": 75,
-  "watchers": 7997,
+  "watchers": 8000,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 349
+  "_index": 351
 }

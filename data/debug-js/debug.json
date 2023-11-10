@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/debug-js/debug/releases{/id}",
   "deployments_url": "https://api.github.com/repos/debug-js/debug/deployments",
   "created_at": "2011-11-29T02:23:54Z",
-  "updated_at": "2023-11-08T06:48:19Z",
+  "updated_at": "2023-11-09T07:45:21Z",
   "pushed_at": "2023-09-15T03:15:26Z",
   "git_url": "git://github.com/debug-js/debug.git",
   "ssh_url": "git@github.com:debug-js/debug.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/debug-js/debug",
   "homepage": "",
   "size": 410,
-  "stargazers_count": 10863,
-  "watchers_count": 10863,
+  "stargazers_count": 10864,
+  "watchers_count": 10864,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 951,
   "open_issues": 68,
-  "watchers": 10863,
+  "watchers": 10864,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1077
+  "_index": 1079
 }

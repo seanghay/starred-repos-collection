@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mailhog/MailHog/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mailhog/MailHog/deployments",
   "created_at": "2014-04-16T22:28:49Z",
-  "updated_at": "2023-11-08T23:22:18Z",
+  "updated_at": "2023-11-09T20:33:34Z",
   "pushed_at": "2023-08-15T21:30:35Z",
   "git_url": "git://github.com/mailhog/MailHog.git",
   "ssh_url": "git@github.com:mailhog/MailHog.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mailhog/MailHog",
   "homepage": "",
   "size": 2979,
-  "stargazers_count": 12720,
-  "watchers_count": 12720,
+  "stargazers_count": 12723,
+  "watchers_count": 12723,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 1003,
   "open_issues": 241,
-  "watchers": 12720,
+  "watchers": 12723,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 778
+  "_index": 780
 }

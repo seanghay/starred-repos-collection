@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/raphamorim/react-ape/releases{/id}",
   "deployments_url": "https://api.github.com/repos/raphamorim/react-ape/deployments",
   "created_at": "2018-05-31T20:54:53Z",
-  "updated_at": "2023-11-01T19:44:38Z",
+  "updated_at": "2023-11-09T10:43:29Z",
   "pushed_at": "2023-08-21T14:05:35Z",
   "git_url": "git://github.com/raphamorim/react-ape.git",
   "ssh_url": "git@github.com:raphamorim/react-ape.git",
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1371
+  "_index": 1373
 }

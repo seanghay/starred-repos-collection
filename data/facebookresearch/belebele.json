@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/facebookresearch/belebele.git",
   "svn_url": "https://github.com/facebookresearch/belebele",
   "homepage": null,
-  "size": 55,
+  "size": 71,
   "stargazers_count": 269,
   "watchers_count": 269,
   "language": "Python",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 189
+  "_index": 191
 }

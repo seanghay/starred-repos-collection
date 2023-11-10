@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/json-path/JsonPath/releases{/id}",
   "deployments_url": "https://api.github.com/repos/json-path/JsonPath/deployments",
   "created_at": "2011-01-24T13:19:19Z",
-  "updated_at": "2023-11-08T08:26:44Z",
+  "updated_at": "2023-11-09T13:09:24Z",
   "pushed_at": "2023-10-02T19:17:37Z",
   "git_url": "git://github.com/json-path/JsonPath.git",
   "ssh_url": "git@github.com:json-path/JsonPath.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/json-path/JsonPath",
   "homepage": "",
   "size": 2609,
-  "stargazers_count": 8299,
-  "watchers_count": 8299,
+  "stargazers_count": 8300,
+  "watchers_count": 8300,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1633,
+  "forks_count": 1635,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 377,
+  "open_issues_count": 378,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 1633,
-  "open_issues": 377,
-  "watchers": 8299,
+  "forks": 1635,
+  "open_issues": 378,
+  "watchers": 8300,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2061
+  "_index": 2063
 }

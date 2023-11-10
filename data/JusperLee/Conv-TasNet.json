@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/JusperLee/Conv-TasNet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JusperLee/Conv-TasNet/deployments",
   "created_at": "2019-11-21T06:52:54Z",
-  "updated_at": "2023-11-08T14:30:25Z",
+  "updated_at": "2023-11-09T09:34:31Z",
   "pushed_at": "2023-05-26T03:48:22Z",
   "git_url": "git://github.com/JusperLee/Conv-TasNet.git",
   "ssh_url": "git@github.com:JusperLee/Conv-TasNet.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/JusperLee/Conv-TasNet",
   "homepage": null,
   "size": 77,
-  "stargazers_count": 337,
-  "watchers_count": 337,
+  "stargazers_count": 338,
+  "watchers_count": 338,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -100,7 +100,7 @@
   "visibility": "public",
   "forks": 68,
   "open_issues": 0,
-  "watchers": 337,
+  "watchers": 338,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 433
+  "_index": 435
 }

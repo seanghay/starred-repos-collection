@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/laysakura/serde-encrypt/releases{/id}",
   "deployments_url": "https://api.github.com/repos/laysakura/serde-encrypt/deployments",
   "created_at": "2021-06-10T10:14:42Z",
-  "updated_at": "2023-10-19T09:23:23Z",
+  "updated_at": "2023-11-09T16:28:22Z",
   "pushed_at": "2023-08-17T20:07:51Z",
   "git_url": "git://github.com/laysakura/serde-encrypt.git",
   "ssh_url": "git@github.com:laysakura/serde-encrypt.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/laysakura/serde-encrypt",
   "homepage": "",
   "size": 231,
-  "stargazers_count": 171,
-  "watchers_count": 171,
+  "stargazers_count": 172,
+  "watchers_count": 172,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 5,
   "open_issues": 17,
-  "watchers": 171,
+  "watchers": 172,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1726
+  "_index": 1728
 }

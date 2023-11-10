@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Binary-Finery/Bungee/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Binary-Finery/Bungee/deployments",
   "created_at": "2017-12-26T20:25:23Z",
-  "updated_at": "2023-09-21T05:41:19Z",
+  "updated_at": "2023-11-09T05:09:26Z",
   "pushed_at": "2021-02-16T13:20:56Z",
   "git_url": "git://github.com/Binary-Finery/Bungee.git",
   "ssh_url": "git@github.com:Binary-Finery/Bungee.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2064
+  "_index": 2066
 }

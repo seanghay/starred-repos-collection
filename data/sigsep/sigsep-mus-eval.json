@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/sigsep/sigsep-mus-eval/deployments",
   "created_at": "2018-02-07T20:15:36Z",
   "updated_at": "2023-10-15T16:50:32Z",
-  "pushed_at": "2023-05-24T11:56:29Z",
+  "pushed_at": "2023-11-09T10:09:07Z",
   "git_url": "git://github.com/sigsep/sigsep-mus-eval.git",
   "ssh_url": "git@github.com:sigsep/sigsep-mus-eval.git",
   "clone_url": "https://github.com/sigsep/sigsep-mus-eval.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 9,
+  "open_issues_count": 10,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 32,
-  "open_issues": 9,
+  "open_issues": 10,
   "watchers": 169,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 467
+  "_index": 469
 }

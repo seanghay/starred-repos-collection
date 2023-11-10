@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 32,
+  "forks_count": 33,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -112,7 +112,7 @@
     "wallpapers"
   ],
   "visibility": "public",
-  "forks": 32,
+  "forks": 33,
   "open_issues": 7,
   "watchers": 264,
   "default_branch": "master",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2275
+  "_index": 2277
 }

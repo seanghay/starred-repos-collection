@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/alibaba/nacos/releases{/id}",
   "deployments_url": "https://api.github.com/repos/alibaba/nacos/deployments",
   "created_at": "2018-06-15T06:49:27Z",
-  "updated_at": "2023-11-09T01:17:53Z",
-  "pushed_at": "2023-11-08T09:29:27Z",
+  "updated_at": "2023-11-10T01:42:47Z",
+  "pushed_at": "2023-11-09T15:09:07Z",
   "git_url": "git://github.com/alibaba/nacos.git",
   "ssh_url": "git@github.com:alibaba/nacos.git",
   "clone_url": "https://github.com/alibaba/nacos.git",
   "svn_url": "https://github.com/alibaba/nacos",
   "homepage": "https://nacos.io",
-  "size": 56351,
-  "stargazers_count": 27854,
-  "watchers_count": 27854,
+  "size": 55987,
+  "stargazers_count": 27863,
+  "watchers_count": 27863,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 12300,
+  "forks_count": 12299,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 260,
+  "open_issues_count": 254,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -113,9 +113,9 @@
     "spring-cloud"
   ],
   "visibility": "public",
-  "forks": 12300,
-  "open_issues": 260,
-  "watchers": 27854,
+  "forks": 12299,
+  "open_issues": 254,
+  "watchers": 27863,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2767
+  "_index": 2769
 }

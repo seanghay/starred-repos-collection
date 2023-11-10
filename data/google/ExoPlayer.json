@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/ExoPlayer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/ExoPlayer/deployments",
   "created_at": "2014-06-13T21:19:18Z",
-  "updated_at": "2023-11-08T19:42:50Z",
+  "updated_at": "2023-11-10T00:11:20Z",
   "pushed_at": "2023-11-08T18:48:22Z",
   "git_url": "git://github.com/google/ExoPlayer.git",
   "ssh_url": "git@github.com:google/ExoPlayer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/ExoPlayer",
   "homepage": "",
   "size": 376023,
-  "stargazers_count": 21119,
-  "watchers_count": 21119,
+  "stargazers_count": 21122,
+  "watchers_count": 21122,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 6067,
+  "forks_count": 6068,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 741,
+  "open_issues_count": 740,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -104,9 +104,9 @@
     "mediaplayer"
   ],
   "visibility": "public",
-  "forks": 6067,
-  "open_issues": 741,
-  "watchers": 21119,
+  "forks": 6068,
+  "open_issues": 740,
+  "watchers": 21122,
   "default_branch": "release-v2",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3141
+  "_index": 3143
 }
