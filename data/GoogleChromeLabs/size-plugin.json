@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/GoogleChromeLabs/size-plugin/deployments",
   "created_at": "2018-08-24T17:48:27Z",
   "updated_at": "2023-10-08T09:45:01Z",
-  "pushed_at": "2023-10-27T09:10:08Z",
+  "pushed_at": "2023-11-10T12:19:24Z",
   "git_url": "git://github.com/GoogleChromeLabs/size-plugin.git",
   "ssh_url": "git@github.com:GoogleChromeLabs/size-plugin.git",
   "clone_url": "https://github.com/GoogleChromeLabs/size-plugin.git",
   "svn_url": "https://github.com/GoogleChromeLabs/size-plugin",
   "homepage": "https://npm.im/size-plugin",
-  "size": 1385,
+  "size": 1580,
   "stargazers_count": 1674,
   "watchers_count": 1674,
   "language": "JavaScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 15,
+  "open_issues_count": 16,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -106,7 +106,7 @@
   ],
   "visibility": "public",
   "forks": 47,
-  "open_issues": 15,
+  "open_issues": 16,
   "watchers": 1674,
   "default_branch": "master",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1291
+  "_index": 1295
 }

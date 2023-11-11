@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/CUNY-CL/yoyodyne/deployments",
   "created_at": "2022-12-05T14:34:02Z",
   "updated_at": "2023-09-19T12:55:52Z",
-  "pushed_at": "2023-11-04T16:34:09Z",
+  "pushed_at": "2023-11-10T23:26:54Z",
   "git_url": "git://github.com/CUNY-CL/yoyodyne.git",
   "ssh_url": "git@github.com:CUNY-CL/yoyodyne.git",
   "clone_url": "https://github.com/CUNY-CL/yoyodyne.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 21,
+  "open_issues_count": 23,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 8,
-  "open_issues": 21,
+  "open_issues": 23,
   "watchers": 14,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 189
+  "_index": 193
 }

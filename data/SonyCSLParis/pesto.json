@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/SonyCSLParis/pesto/releases{/id}",
   "deployments_url": "https://api.github.com/repos/SonyCSLParis/pesto/deployments",
   "created_at": "2023-05-03T15:11:04Z",
-  "updated_at": "2023-11-09T23:11:31Z",
+  "updated_at": "2023-11-10T05:35:27Z",
   "pushed_at": "2023-10-18T09:11:50Z",
   "git_url": "git://github.com/SonyCSLParis/pesto.git",
   "ssh_url": "git@github.com:SonyCSLParis/pesto.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/SonyCSLParis/pesto",
   "homepage": null,
   "size": 1454,
-  "stargazers_count": 78,
-  "watchers_count": 78,
+  "stargazers_count": 79,
+  "watchers_count": 79,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 0,
+  "open_issues_count": 1,
   "license": {
     "key": "lgpl-3.0",
     "name": "GNU Lesser General Public License v3.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 7,
-  "open_issues": 0,
-  "watchers": 78,
+  "open_issues": 1,
+  "watchers": 79,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 40
+  "_index": 44
 }

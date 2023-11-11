@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/IDEA-Research/GroundingDINO/releases{/id}",
   "deployments_url": "https://api.github.com/repos/IDEA-Research/GroundingDINO/deployments",
   "created_at": "2023-03-09T06:14:41Z",
-  "updated_at": "2023-11-10T00:03:58Z",
+  "updated_at": "2023-11-11T01:19:34Z",
   "pushed_at": "2023-10-22T03:04:58Z",
   "git_url": "git://github.com/IDEA-Research/GroundingDINO.git",
   "ssh_url": "git@github.com:IDEA-Research/GroundingDINO.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/IDEA-Research/GroundingDINO",
   "homepage": "https://arxiv.org/abs/2303.05499",
   "size": 13187,
-  "stargazers_count": 3523,
-  "watchers_count": 3523,
+  "stargazers_count": 3544,
+  "watchers_count": 3544,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 353,
+  "forks_count": 354,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 172,
+  "open_issues_count": 173,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -105,9 +105,9 @@
     "vision-language-transformer"
   ],
   "visibility": "public",
-  "forks": 353,
-  "open_issues": 172,
-  "watchers": 3523,
+  "forks": 354,
+  "open_issues": 173,
+  "watchers": 3544,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 254
+  "_index": 258
 }

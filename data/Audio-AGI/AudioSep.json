@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Audio-AGI/AudioSep/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Audio-AGI/AudioSep/deployments",
   "created_at": "2023-08-08T19:18:47Z",
-  "updated_at": "2023-11-08T11:44:35Z",
+  "updated_at": "2023-11-10T23:14:52Z",
   "pushed_at": "2023-10-31T17:43:39Z",
   "git_url": "git://github.com/Audio-AGI/AudioSep.git",
   "ssh_url": "git@github.com:Audio-AGI/AudioSep.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Audio-AGI/AudioSep",
   "homepage": "https://audio-agi.github.io/Separate-Anything-You-Describe/",
   "size": 16917,
-  "stargazers_count": 1222,
-  "watchers_count": 1222,
+  "stargazers_count": 1224,
+  "watchers_count": 1224,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 91,
+  "forks_count": 92,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 91,
+  "forks": 92,
   "open_issues": 22,
-  "watchers": 1222,
+  "watchers": 1224,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 284
+  "_index": 288
 }

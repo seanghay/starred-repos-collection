@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/livebud/bud/releases{/id}",
   "deployments_url": "https://api.github.com/repos/livebud/bud/deployments",
   "created_at": "2022-04-17T20:02:52Z",
-  "updated_at": "2023-11-09T23:49:45Z",
-  "pushed_at": "2023-11-09T09:15:24Z",
+  "updated_at": "2023-11-10T16:49:52Z",
+  "pushed_at": "2023-11-10T08:12:38Z",
   "git_url": "git://github.com/livebud/bud.git",
   "ssh_url": "git@github.com:livebud/bud.git",
   "clone_url": "https://github.com/livebud/bud.git",
   "svn_url": "https://github.com/livebud/bud",
   "homepage": "",
-  "size": 26267,
-  "stargazers_count": 5341,
-  "watchers_count": 5341,
+  "size": 26294,
+  "stargazers_count": 5342,
+  "watchers_count": 5342,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 206,
   "open_issues": 54,
-  "watchers": 5341,
+  "watchers": 5342,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1194
+  "_index": 1198
 }

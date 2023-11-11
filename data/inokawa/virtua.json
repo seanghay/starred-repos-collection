@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/inokawa/virtua/deployments",
   "created_at": "2022-10-11T14:16:42Z",
   "updated_at": "2023-11-09T23:24:30Z",
-  "pushed_at": "2023-11-04T16:54:41Z",
+  "pushed_at": "2023-11-10T17:18:05Z",
   "git_url": "git://github.com/inokawa/virtua.git",
   "ssh_url": "git@github.com:inokawa/virtua.git",
   "clone_url": "https://github.com/inokawa/virtua.git",
   "svn_url": "https://github.com/inokawa/virtua",
   "homepage": "https://inokawa.github.io/virtua/",
-  "size": 89928,
+  "size": 86467,
   "stargazers_count": 642,
   "watchers_count": 642,
   "language": "TypeScript",
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 307
+  "_index": 311
 }

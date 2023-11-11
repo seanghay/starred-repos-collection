@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/coollabsio/coolify/releases{/id}",
   "deployments_url": "https://api.github.com/repos/coollabsio/coolify/deployments",
   "created_at": "2021-01-25T20:54:01Z",
-  "updated_at": "2023-11-10T01:29:56Z",
-  "pushed_at": "2023-11-09T14:11:14Z",
+  "updated_at": "2023-11-11T01:20:22Z",
+  "pushed_at": "2023-11-10T21:04:08Z",
   "git_url": "git://github.com/coollabsio/coolify.git",
   "ssh_url": "git@github.com:coollabsio/coolify.git",
   "clone_url": "https://github.com/coollabsio/coolify.git",
   "svn_url": "https://github.com/coollabsio/coolify",
   "homepage": "https://coolify.io",
-  "size": 13435,
-  "stargazers_count": 9593,
-  "watchers_count": 9593,
+  "size": 13510,
+  "stargazers_count": 9598,
+  "watchers_count": 9598,
   "language": "PHP",
   "has_issues": true,
   "has_projects": true,
@@ -121,7 +121,7 @@
   "visibility": "public",
   "forks": 515,
   "open_issues": 34,
-  "watchers": 9593,
+  "watchers": 9598,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 752
+  "_index": 756
 }

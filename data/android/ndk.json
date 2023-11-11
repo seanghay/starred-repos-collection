@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/android/ndk/releases{/id}",
   "deployments_url": "https://api.github.com/repos/android/ndk/deployments",
   "created_at": "2015-12-16T18:51:36Z",
-  "updated_at": "2023-11-09T21:01:29Z",
+  "updated_at": "2023-11-10T11:29:02Z",
   "pushed_at": "2023-10-26T17:12:47Z",
   "git_url": "git://github.com/android/ndk.git",
   "ssh_url": "git@github.com:android/ndk.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/android/ndk",
   "homepage": null,
   "size": 35954,
-  "stargazers_count": 1780,
-  "watchers_count": 1780,
+  "stargazers_count": 1781,
+  "watchers_count": 1781,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 290,
   "open_issues": 147,
-  "watchers": 1780,
+  "watchers": 1781,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1493
+  "_index": 1497
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jaydenseric/apollo-upload-client/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jaydenseric/apollo-upload-client/deployments",
   "created_at": "2017-02-24T01:52:30Z",
-  "updated_at": "2023-11-09T20:43:17Z",
+  "updated_at": "2023-11-10T17:39:49Z",
   "pushed_at": "2023-10-25T12:21:24Z",
   "git_url": "git://github.com/jaydenseric/apollo-upload-client.git",
   "ssh_url": "git@github.com:jaydenseric/apollo-upload-client.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 4,
+  "open_issues_count": 6,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -103,7 +103,7 @@
   ],
   "visibility": "public",
   "forks": 163,
-  "open_issues": 4,
+  "open_issues": 6,
   "watchers": 1491,
   "default_branch": "master",
   "permissions": {
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2109
+  "_index": 2113
 }

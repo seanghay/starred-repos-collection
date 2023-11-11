@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/unjs/ofetch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/unjs/ofetch/deployments",
   "created_at": "2020-12-09T13:11:38Z",
-  "updated_at": "2023-11-09T19:51:38Z",
+  "updated_at": "2023-11-10T23:29:01Z",
   "pushed_at": "2023-11-08T21:12:11Z",
   "git_url": "git://github.com/unjs/ofetch.git",
   "ssh_url": "git@github.com:unjs/ofetch.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/unjs/ofetch",
   "homepage": "",
   "size": 1067,
-  "stargazers_count": 2686,
-  "watchers_count": 2686,
+  "stargazers_count": 2692,
+  "watchers_count": 2692,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 84,
+  "forks_count": 85,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 84,
+  "forks": 85,
   "open_issues": 23,
-  "watchers": 2686,
+  "watchers": 2692,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 708
+  "_index": 712
 }
