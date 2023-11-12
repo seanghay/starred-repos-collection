@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 374,
+  "forks_count": 375,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,7 +108,7 @@
     "tusky"
   ],
   "visibility": "public",
-  "forks": 374,
+  "forks": 375,
   "open_issues": 520,
   "watchers": 2283,
   "default_branch": "develop",

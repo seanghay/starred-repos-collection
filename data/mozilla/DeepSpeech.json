@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mozilla/DeepSpeech/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mozilla/DeepSpeech/deployments",
   "created_at": "2016-06-02T15:04:53Z",
-  "updated_at": "2023-11-10T18:59:38Z",
+  "updated_at": "2023-11-11T16:26:24Z",
   "pushed_at": "2023-09-16T05:37:11Z",
   "git_url": "git://github.com/mozilla/DeepSpeech.git",
   "ssh_url": "git@github.com:mozilla/DeepSpeech.git",

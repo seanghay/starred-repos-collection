@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/thelinhbkhn2014/Text2PhonemeSequence/releases{/id}",
   "deployments_url": "https://api.github.com/repos/thelinhbkhn2014/Text2PhonemeSequence/deployments",
   "created_at": "2023-05-19T09:22:05Z",
-  "updated_at": "2023-10-23T07:05:11Z",
+  "updated_at": "2023-11-11T15:14:48Z",
   "pushed_at": "2023-07-03T15:42:40Z",
   "git_url": "git://github.com/thelinhbkhn2014/Text2PhonemeSequence.git",
   "ssh_url": "git@github.com:thelinhbkhn2014/Text2PhonemeSequence.git",
