@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/privatenumber/tsx/releases{/id}",
   "deployments_url": "https://api.github.com/repos/privatenumber/tsx/deployments",
   "created_at": "2022-03-15T20:15:42Z",
-  "updated_at": "2023-11-11T23:53:02Z",
+  "updated_at": "2023-11-13T01:39:19Z",
   "pushed_at": "2023-11-11T02:59:41Z",
   "git_url": "git://github.com/privatenumber/tsx.git",
   "ssh_url": "git@github.com:privatenumber/tsx.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/privatenumber/tsx",
   "homepage": "",
   "size": 1377,
-  "stargazers_count": 5813,
-  "watchers_count": 5813,
+  "stargazers_count": 5820,
+  "watchers_count": 5820,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 77,
   "open_issues": 60,
-  "watchers": 5813,
+  "watchers": 5820,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1125
+  "_index": 1127
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/haoheliu/AudioLDM2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/haoheliu/AudioLDM2/deployments",
   "created_at": "2023-08-04T14:43:09Z",
-  "updated_at": "2023-11-11T19:43:57Z",
+  "updated_at": "2023-11-12T08:43:31Z",
   "pushed_at": "2023-10-26T16:46:34Z",
   "git_url": "git://github.com/haoheliu/AudioLDM2.git",
   "ssh_url": "git@github.com:haoheliu/AudioLDM2.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/haoheliu/AudioLDM2",
   "homepage": "",
   "size": 1613,
-  "stargazers_count": 1758,
-  "watchers_count": 1758,
+  "stargazers_count": 1759,
+  "watchers_count": 1759,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 133,
   "open_issues": 45,
-  "watchers": 1758,
+  "watchers": 1759,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 235
+  "_index": 237
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/enso-org/enso/deployments",
   "created_at": "2016-12-16T17:23:37Z",
   "updated_at": "2023-11-11T11:39:23Z",
-  "pushed_at": "2023-11-11T17:48:02Z",
+  "pushed_at": "2023-11-12T07:19:17Z",
   "git_url": "git://github.com/enso-org/enso.git",
   "ssh_url": "git@github.com:enso-org/enso.git",
   "clone_url": "https://github.com/enso-org/enso.git",
   "svn_url": "https://github.com/enso-org/enso",
   "homepage": "https://enso.org",
-  "size": 68581,
+  "size": 68610,
   "stargazers_count": 6645,
   "watchers_count": 6645,
   "language": "Rust",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 491
+  "_index": 493
 }

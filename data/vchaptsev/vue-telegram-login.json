@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/vchaptsev/vue-telegram-login/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vchaptsev/vue-telegram-login/deployments",
   "created_at": "2018-02-24T18:04:05Z",
-  "updated_at": "2023-09-09T15:33:23Z",
+  "updated_at": "2023-11-12T13:02:24Z",
   "pushed_at": "2019-03-15T14:04:33Z",
   "git_url": "git://github.com/vchaptsev/vue-telegram-login.git",
   "ssh_url": "git@github.com:vchaptsev/vue-telegram-login.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/vchaptsev/vue-telegram-login",
   "homepage": null,
   "size": 14,
-  "stargazers_count": 77,
-  "watchers_count": 77,
+  "stargazers_count": 78,
+  "watchers_count": 78,
   "language": "Vue",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 16,
   "open_issues": 5,
-  "watchers": 77,
+  "watchers": 78,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1146
+  "_index": 1148
 }

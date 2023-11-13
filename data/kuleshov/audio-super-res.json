@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kuleshov/audio-super-res/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kuleshov/audio-super-res/deployments",
   "created_at": "2017-03-13T02:47:00Z",
-  "updated_at": "2023-11-10T17:01:52Z",
+  "updated_at": "2023-11-12T11:35:46Z",
   "pushed_at": "2023-10-24T23:48:19Z",
   "git_url": "git://github.com/kuleshov/audio-super-res.git",
   "ssh_url": "git@github.com:kuleshov/audio-super-res.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 766
+  "_index": 768
 }

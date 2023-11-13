@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/tinygrad/tinygrad/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tinygrad/tinygrad/deployments",
   "created_at": "2020-10-18T16:23:12Z",
-  "updated_at": "2023-11-12T00:46:20Z",
-  "pushed_at": "2023-11-12T00:29:46Z",
+  "updated_at": "2023-11-13T01:00:15Z",
+  "pushed_at": "2023-11-13T01:40:48Z",
   "git_url": "git://github.com/tinygrad/tinygrad.git",
   "ssh_url": "git@github.com:tinygrad/tinygrad.git",
   "clone_url": "https://github.com/tinygrad/tinygrad.git",
   "svn_url": "https://github.com/tinygrad/tinygrad",
   "homepage": "",
-  "size": 21092,
-  "stargazers_count": 20295,
-  "watchers_count": 20295,
+  "size": 20919,
+  "stargazers_count": 20316,
+  "watchers_count": 20316,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 95,
+  "open_issues_count": 97,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 2619,
-  "open_issues": 95,
-  "watchers": 20295,
+  "open_issues": 97,
+  "watchers": 20316,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 522
+  "_index": 524
 }

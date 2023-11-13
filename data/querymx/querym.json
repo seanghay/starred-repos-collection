@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/querymx/querym/deployments",
   "created_at": "2023-05-15T13:09:55Z",
   "updated_at": "2023-11-11T14:56:31Z",
-  "pushed_at": "2023-11-11T14:31:01Z",
+  "pushed_at": "2023-11-13T01:33:07Z",
   "git_url": "git://github.com/querymx/querym.git",
   "ssh_url": "git@github.com:querymx/querym.git",
   "clone_url": "https://github.com/querymx/querym.git",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 537
+  "_index": 539
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/videolan/dav1d/releases{/id}",
   "deployments_url": "https://api.github.com/repos/videolan/dav1d/deployments",
   "created_at": "2018-10-24T09:37:02Z",
-  "updated_at": "2023-11-11T18:53:36Z",
-  "pushed_at": "2023-11-01T21:35:04Z",
+  "updated_at": "2023-11-12T23:21:19Z",
+  "pushed_at": "2023-11-12T22:00:05Z",
   "git_url": "git://github.com/videolan/dav1d.git",
   "ssh_url": "git@github.com:videolan/dav1d.git",
   "clone_url": "https://github.com/videolan/dav1d.git",
   "svn_url": "https://github.com/videolan/dav1d",
   "homepage": "",
-  "size": 7400,
-  "stargazers_count": 427,
-  "watchers_count": 427,
+  "size": 7447,
+  "stargazers_count": 428,
+  "watchers_count": 428,
   "language": "Assembly",
   "has_issues": false,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 52,
   "open_issues": 0,
-  "watchers": 427,
+  "watchers": 428,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 668
+  "_index": 670
 }

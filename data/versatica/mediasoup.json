@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/versatica/mediasoup/releases{/id}",
   "deployments_url": "https://api.github.com/repos/versatica/mediasoup/deployments",
   "created_at": "2014-12-12T12:00:36Z",
-  "updated_at": "2023-11-10T13:17:55Z",
+  "updated_at": "2023-11-13T01:33:23Z",
   "pushed_at": "2023-11-10T12:05:07Z",
   "git_url": "git://github.com/versatica/mediasoup.git",
   "ssh_url": "git@github.com:versatica/mediasoup.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/versatica/mediasoup",
   "homepage": "https://mediasoup.org",
   "size": 167937,
-  "stargazers_count": 5612,
-  "watchers_count": 5612,
+  "stargazers_count": 5616,
+  "watchers_count": 5616,
   "language": "C++",
   "has_issues": true,
   "has_projects": false,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 1059,
   "open_issues": 51,
-  "watchers": 5612,
+  "watchers": 5616,
   "default_branch": "v3",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1250
+  "_index": 1252
 }

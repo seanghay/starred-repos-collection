@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/julienschmidt/httprouter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/julienschmidt/httprouter/deployments",
   "created_at": "2013-12-05T15:10:55Z",
-  "updated_at": "2023-11-10T22:14:35Z",
+  "updated_at": "2023-11-13T00:42:28Z",
   "pushed_at": "2023-10-19T21:35:58Z",
   "git_url": "git://github.com/julienschmidt/httprouter.git",
   "ssh_url": "git@github.com:julienschmidt/httprouter.git",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1717
+  "_index": 1719
 }

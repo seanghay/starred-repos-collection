@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/flutter/flutter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/flutter/flutter/deployments",
   "created_at": "2015-03-06T22:54:58Z",
-  "updated_at": "2023-11-12T01:20:07Z",
-  "pushed_at": "2023-11-12T00:15:53Z",
+  "updated_at": "2023-11-13T01:37:03Z",
+  "pushed_at": "2023-11-13T01:05:57Z",
   "git_url": "git://github.com/flutter/flutter.git",
   "ssh_url": "git@github.com:flutter/flutter.git",
   "clone_url": "https://github.com/flutter/flutter.git",
   "svn_url": "https://github.com/flutter/flutter",
   "homepage": "https://flutter.dev",
-  "size": 275266,
-  "stargazers_count": 157877,
-  "watchers_count": 157877,
+  "size": 275267,
+  "stargazers_count": 157888,
+  "watchers_count": 157888,
   "language": "Dart",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 26299,
+  "forks_count": 26306,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 11941,
+  "open_issues_count": 11959,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -119,9 +119,9 @@
     "windows"
   ],
   "visibility": "public",
-  "forks": 26299,
-  "open_issues": 11941,
-  "watchers": 157877,
+  "forks": 26306,
+  "open_issues": 11959,
+  "watchers": 157888,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1865
+  "_index": 1867
 }
