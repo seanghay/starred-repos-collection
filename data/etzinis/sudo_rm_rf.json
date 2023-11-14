@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 30,
+  "forks_count": 31,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,7 +104,7 @@
     "speech-separation"
   ],
   "visibility": "public",
-  "forks": 30,
+  "forks": 31,
   "open_issues": 5,
   "watchers": 266,
   "default_branch": "master",
