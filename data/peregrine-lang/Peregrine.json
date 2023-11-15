@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 77,
+  "forks_count": 78,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 4,
+  "open_issues_count": 3,
   "license": {
     "key": "mpl-2.0",
     "name": "Mozilla Public License 2.0",
@@ -105,8 +105,8 @@
     "programming-language"
   ],
   "visibility": "public",
-  "forks": 77,
-  "open_issues": 4,
+  "forks": 78,
+  "open_issues": 3,
   "watchers": 1485,
   "default_branch": "main",
   "permissions": {
