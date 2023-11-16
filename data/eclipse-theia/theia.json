@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/eclipse-theia/theia/releases{/id}",
   "deployments_url": "https://api.github.com/repos/eclipse-theia/theia/deployments",
   "created_at": "2017-02-24T14:42:05Z",
-  "updated_at": "2023-11-14T20:05:29Z",
+  "updated_at": "2023-11-15T22:36:21Z",
   "pushed_at": "2023-11-14T18:48:50Z",
   "git_url": "git://github.com/eclipse-theia/theia.git",
   "ssh_url": "git@github.com:eclipse-theia/theia.git",

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kittinunf/Result/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kittinunf/Result/deployments",
   "created_at": "2015-10-28T12:34:53Z",
-  "updated_at": "2023-11-14T08:48:50Z",
+  "updated_at": "2023-11-15T05:54:03Z",
   "pushed_at": "2023-11-12T22:39:12Z",
   "git_url": "git://github.com/kittinunf/Result.git",
   "ssh_url": "git@github.com:kittinunf/Result.git",
@@ -100,8 +100,8 @@
   "topics": [
     "functional",
     "kotlin",
+    "kotlin-multiplatform",
     "kotlin-multiplatform-library",
-    "kotlin-multiplatform-mobile",
     "optional",
     "result"
   ],

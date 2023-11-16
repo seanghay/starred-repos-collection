@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/sooftware/conformer",
-  "description": "PyTorch implementation of \"Conformer: Convolution-augmented Transformer for Speech Recognition\" (INTERSPEECH 2020)",
+  "description": "[Unofficial] PyTorch implementation of \"Conformer: Convolution-augmented Transformer for Speech Recognition\" (INTERSPEECH 2020)",
   "fork": false,
   "url": "https://api.github.com/repos/sooftware/conformer",
   "forks_url": "https://api.github.com/repos/sooftware/conformer/forks",
@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sooftware/conformer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sooftware/conformer/deployments",
   "created_at": "2021-01-21T15:57:20Z",
-  "updated_at": "2023-11-14T07:51:13Z",
+  "updated_at": "2023-11-15T08:40:48Z",
   "pushed_at": "2023-07-13T05:02:15Z",
   "git_url": "git://github.com/sooftware/conformer.git",
   "ssh_url": "git@github.com:sooftware/conformer.git",

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Moya/Moya/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Moya/Moya/deployments",
   "created_at": "2014-08-16T07:41:21Z",
-  "updated_at": "2023-11-14T13:40:56Z",
+  "updated_at": "2023-11-15T08:59:54Z",
   "pushed_at": "2023-11-08T09:43:04Z",
   "git_url": "git://github.com/Moya/Moya.git",
   "ssh_url": "git@github.com:Moya/Moya.git",

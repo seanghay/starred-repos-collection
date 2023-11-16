@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/idealo/image-super-resolution/releases{/id}",
   "deployments_url": "https://api.github.com/repos/idealo/image-super-resolution/deployments",
   "created_at": "2018-11-26T13:41:13Z",
-  "updated_at": "2023-11-13T11:37:15Z",
+  "updated_at": "2023-11-15T06:32:43Z",
   "pushed_at": "2022-01-23T11:27:35Z",
   "git_url": "git://github.com/idealo/image-super-resolution.git",
   "ssh_url": "git@github.com:idealo/image-super-resolution.git",
