@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/intel/intel-one-mono/releases{/id}",
   "deployments_url": "https://api.github.com/repos/intel/intel-one-mono/deployments",
   "created_at": "2023-04-11T20:25:19Z",
-  "updated_at": "2023-11-16T00:31:59Z",
-  "pushed_at": "2023-11-14T14:38:20Z",
+  "updated_at": "2023-11-17T01:44:46Z",
+  "pushed_at": "2023-11-16T17:43:04Z",
   "git_url": "git://github.com/intel/intel-one-mono.git",
   "ssh_url": "git@github.com:intel/intel-one-mono.git",
   "clone_url": "https://github.com/intel/intel-one-mono.git",
   "svn_url": "https://github.com/intel/intel-one-mono",
   "homepage": "",
   "size": 15504,
-  "stargazers_count": 8714,
-  "watchers_count": 8714,
+  "stargazers_count": 8717,
+  "watchers_count": 8717,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 477,
   "open_issues": 17,
-  "watchers": 8714,
+  "watchers": 8717,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 464
+  "_index": 465
 }

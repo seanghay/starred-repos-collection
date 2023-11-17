@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wolfgarbe/SymSpell/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wolfgarbe/SymSpell/deployments",
   "created_at": "2014-03-25T11:01:35Z",
-  "updated_at": "2023-11-15T11:58:00Z",
+  "updated_at": "2023-11-17T00:55:26Z",
   "pushed_at": "2023-09-07T21:20:44Z",
   "git_url": "git://github.com/wolfgarbe/SymSpell.git",
   "ssh_url": "git@github.com:wolfgarbe/SymSpell.git",
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 243
+  "_index": 244
 }

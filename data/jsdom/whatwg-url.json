@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jsdom/whatwg-url/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jsdom/whatwg-url/deployments",
   "created_at": "2015-04-28T23:29:03Z",
-  "updated_at": "2023-11-04T07:57:50Z",
+  "updated_at": "2023-11-16T06:35:45Z",
   "pushed_at": "2023-11-12T05:53:33Z",
   "git_url": "git://github.com/jsdom/whatwg-url.git",
   "ssh_url": "git@github.com:jsdom/whatwg-url.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jsdom/whatwg-url",
   "homepage": "https://jsdom.github.io/whatwg-url/",
   "size": 1028,
-  "stargazers_count": 339,
-  "watchers_count": 339,
+  "stargazers_count": 340,
+  "watchers_count": 340,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 89,
+  "forks_count": 90,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 89,
+  "forks": 90,
   "open_issues": 6,
-  "watchers": 339,
+  "watchers": 340,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 845
+  "_index": 846
 }

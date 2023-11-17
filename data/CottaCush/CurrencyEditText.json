@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/CottaCush/CurrencyEditText/deployments",
   "created_at": "2019-07-02T09:06:54Z",
   "updated_at": "2023-10-30T08:33:06Z",
-  "pushed_at": "2023-11-07T21:23:30Z",
+  "pushed_at": "2023-11-16T21:54:59Z",
   "git_url": "git://github.com/CottaCush/CurrencyEditText.git",
   "ssh_url": "git@github.com:CottaCush/CurrencyEditText.git",
   "clone_url": "https://github.com/CottaCush/CurrencyEditText.git",
   "svn_url": "https://github.com/CottaCush/CurrencyEditText",
   "homepage": "",
-  "size": 8675,
+  "size": 8679,
   "stargazers_count": 127,
   "watchers_count": 127,
   "language": "Kotlin",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2486
+  "_index": 2487
 }

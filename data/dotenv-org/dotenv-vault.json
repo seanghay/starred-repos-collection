@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/dotenv-org/dotenv-vault",
-  "description": "Sync your .env files between machines, environments, and team members. From the same people that pioneered dotenv.",
+  "description": "sync .env files—from the creator of `dotenv`.",
   "fork": false,
   "url": "https://api.github.com/repos/dotenv-org/dotenv-vault",
   "forks_url": "https://api.github.com/repos/dotenv-org/dotenv-vault/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/dotenv-org/dotenv-vault/releases{/id}",
   "deployments_url": "https://api.github.com/repos/dotenv-org/dotenv-vault/deployments",
   "created_at": "2022-03-14T08:08:01Z",
-  "updated_at": "2023-11-15T19:53:02Z",
-  "pushed_at": "2023-11-08T21:42:06Z",
+  "updated_at": "2023-11-17T01:02:35Z",
+  "pushed_at": "2023-11-17T00:58:53Z",
   "git_url": "git://github.com/dotenv-org/dotenv-vault.git",
   "ssh_url": "git@github.com:dotenv-org/dotenv-vault.git",
   "clone_url": "https://github.com/dotenv-org/dotenv-vault.git",
   "svn_url": "https://github.com/dotenv-org/dotenv-vault",
   "homepage": "https://www.dotenv.org",
-  "size": 3002,
-  "stargazers_count": 845,
-  "watchers_count": 845,
+  "size": 3016,
+  "stargazers_count": 847,
+  "watchers_count": 847,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -98,27 +98,14 @@
   "is_template": false,
   "web_commit_signoff_required": false,
   "topics": [
-    "cli",
     "dotenv",
-    "dotenv-cli",
-    "dotenv-expand",
-    "dotenv-parser",
-    "dotenv-vault",
-    "encryption",
     "env",
-    "environment",
-    "environment-variables",
-    "secret-management",
-    "secrets",
-    "secrets-management",
-    "secrets-manager",
-    "security",
-    "vault"
+    "secrets"
   ],
   "visibility": "public",
   "forks": 31,
   "open_issues": 31,
-  "watchers": 845,
+  "watchers": 847,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -127,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1251
+  "_index": 1252
 }

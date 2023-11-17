@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 198,
+  "forks_count": 197,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,7 +106,7 @@
     "odbc-driver"
   ],
   "visibility": "public",
-  "forks": 198,
+  "forks": 197,
   "open_issues": 67,
   "watchers": 903,
   "default_branch": "dev",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 31
+  "_index": 32
 }

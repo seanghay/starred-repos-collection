@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/microsoft/Llama-2-Onnx/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microsoft/Llama-2-Onnx/deployments",
   "created_at": "2023-07-17T21:01:49Z",
-  "updated_at": "2023-11-15T11:08:20Z",
-  "pushed_at": "2023-11-15T01:05:50Z",
+  "updated_at": "2023-11-17T00:41:37Z",
+  "pushed_at": "2023-11-16T19:28:28Z",
   "git_url": "git://github.com/microsoft/Llama-2-Onnx.git",
   "ssh_url": "git@github.com:microsoft/Llama-2-Onnx.git",
   "clone_url": "https://github.com/microsoft/Llama-2-Onnx.git",
   "svn_url": "https://github.com/microsoft/Llama-2-Onnx",
   "homepage": null,
-  "size": 8260,
-  "stargazers_count": 879,
-  "watchers_count": 879,
+  "size": 8268,
+  "stargazers_count": 880,
+  "watchers_count": 880,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 66,
   "open_issues": 13,
-  "watchers": 879,
+  "watchers": 880,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 288
+  "_index": 289
 }

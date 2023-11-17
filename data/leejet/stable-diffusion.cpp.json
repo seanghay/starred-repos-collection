@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/leejet/stable-diffusion.cpp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/leejet/stable-diffusion.cpp/deployments",
   "created_at": "2023-08-13T07:36:51Z",
-  "updated_at": "2023-11-15T15:21:54Z",
-  "pushed_at": "2023-11-15T04:39:44Z",
+  "updated_at": "2023-11-16T13:22:58Z",
+  "pushed_at": "2023-11-16T21:53:43Z",
   "git_url": "git://github.com/leejet/stable-diffusion.cpp.git",
   "ssh_url": "git@github.com:leejet/stable-diffusion.cpp.git",
   "clone_url": "https://github.com/leejet/stable-diffusion.cpp.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 123,
+  "forks_count": 122,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 26,
+  "open_issues_count": 27,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -111,8 +111,8 @@
     "txt2img"
   ],
   "visibility": "public",
-  "forks": 123,
-  "open_issues": 26,
+  "forks": 122,
+  "open_issues": 27,
   "watchers": 1817,
   "default_branch": "master",
   "permissions": {
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 253
+  "_index": 254
 }

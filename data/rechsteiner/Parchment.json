@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/rechsteiner/Parchment/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rechsteiner/Parchment/deployments",
   "created_at": "2016-03-13T15:04:27Z",
-  "updated_at": "2023-11-15T09:42:41Z",
+  "updated_at": "2023-11-16T10:24:59Z",
   "pushed_at": "2023-09-02T17:45:06Z",
   "git_url": "git://github.com/rechsteiner/Parchment.git",
   "ssh_url": "git@github.com:rechsteiner/Parchment.git",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1757
+  "_index": 1758
 }

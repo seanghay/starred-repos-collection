@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/denoland/eszip/deployments",
   "created_at": "2021-02-14T22:40:09Z",
   "updated_at": "2023-11-15T23:22:55Z",
-  "pushed_at": "2023-11-10T17:42:31Z",
+  "pushed_at": "2023-11-16T18:28:31Z",
   "git_url": "git://github.com/denoland/eszip.git",
   "ssh_url": "git@github.com:denoland/eszip.git",
   "clone_url": "https://github.com/denoland/eszip.git",
   "svn_url": "https://github.com/denoland/eszip",
   "homepage": "https://crates.io/crates/eszip",
-  "size": 49181,
+  "size": 50584,
   "stargazers_count": 193,
   "watchers_count": 193,
   "language": "Rust",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1035
+  "_index": 1036
 }

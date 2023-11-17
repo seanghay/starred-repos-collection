@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/TencentARC/GFPGAN/releases{/id}",
   "deployments_url": "https://api.github.com/repos/TencentARC/GFPGAN/deployments",
   "created_at": "2021-03-19T06:18:20Z",
-  "updated_at": "2023-11-16T00:46:47Z",
-  "pushed_at": "2023-11-14T13:02:31Z",
+  "updated_at": "2023-11-16T21:16:27Z",
+  "pushed_at": "2023-11-16T09:21:13Z",
   "git_url": "git://github.com/TencentARC/GFPGAN.git",
   "ssh_url": "git@github.com:TencentARC/GFPGAN.git",
   "clone_url": "https://github.com/TencentARC/GFPGAN.git",
   "svn_url": "https://github.com/TencentARC/GFPGAN",
   "homepage": "",
   "size": 5534,
-  "stargazers_count": 32883,
-  "watchers_count": 32883,
+  "stargazers_count": 32885,
+  "watchers_count": 32885,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 5361,
+  "forks_count": 5363,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 289,
+  "open_issues_count": 290,
   "license": {
     "key": "other",
     "name": "Other",
@@ -107,9 +107,9 @@
     "super-resolution"
   ],
   "visibility": "public",
-  "forks": 5361,
-  "open_issues": 289,
-  "watchers": 32883,
+  "forks": 5363,
+  "open_issues": 290,
+  "watchers": 32885,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 772
+  "_index": 773
 }

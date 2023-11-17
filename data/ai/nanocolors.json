@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ai/nanocolors/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ai/nanocolors/deployments",
   "created_at": "2021-09-21T02:32:09Z",
-  "updated_at": "2023-10-11T12:39:33Z",
+  "updated_at": "2023-11-16T14:48:59Z",
   "pushed_at": "2021-10-09T12:14:47Z",
   "git_url": "git://github.com/ai/nanocolors.git",
   "ssh_url": "git@github.com:ai/nanocolors.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ai/nanocolors",
   "homepage": "",
   "size": 1847,
-  "stargazers_count": 873,
-  "watchers_count": 873,
+  "stargazers_count": 872,
+  "watchers_count": 872,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 24,
   "open_issues": 0,
-  "watchers": 873,
+  "watchers": 872,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1583
+  "_index": 1584
 }
