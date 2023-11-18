@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/popeindustries/inline-source/deployments",
   "created_at": "2013-04-24T11:11:38Z",
   "updated_at": "2023-11-01T21:29:12Z",
-  "pushed_at": "2023-11-07T13:45:11Z",
+  "pushed_at": "2023-11-17T15:02:47Z",
   "git_url": "git://github.com/popeindustries/inline-source.git",
   "ssh_url": "git@github.com:popeindustries/inline-source.git",
   "clone_url": "https://github.com/popeindustries/inline-source.git",
   "svn_url": "https://github.com/popeindustries/inline-source",
   "homepage": "",
-  "size": 900,
+  "size": 917,
   "stargazers_count": 188,
   "watchers_count": 188,
   "language": "JavaScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 12,
+  "open_issues_count": 10,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 46,
-  "open_issues": 12,
+  "open_issues": 10,
   "watchers": 188,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1019
+  "_index": 1020
 }

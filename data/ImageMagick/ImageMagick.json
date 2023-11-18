@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ImageMagick/ImageMagick/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ImageMagick/ImageMagick/deployments",
   "created_at": "2015-05-17T20:07:50Z",
-  "updated_at": "2023-11-16T22:49:52Z",
-  "pushed_at": "2023-11-14T03:34:18Z",
+  "updated_at": "2023-11-17T21:05:32Z",
+  "pushed_at": "2023-11-17T03:09:03Z",
   "git_url": "git://github.com/ImageMagick/ImageMagick.git",
   "ssh_url": "git@github.com:ImageMagick/ImageMagick.git",
   "clone_url": "https://github.com/ImageMagick/ImageMagick.git",
   "svn_url": "https://github.com/ImageMagick/ImageMagick",
   "homepage": "https://imagemagick.org",
-  "size": 160319,
-  "stargazers_count": 10194,
-  "watchers_count": 10194,
+  "size": 160320,
+  "stargazers_count": 10199,
+  "watchers_count": 10199,
   "language": "C",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1249,
+  "forks_count": 1250,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,9 +106,9 @@
     "resize"
   ],
   "visibility": "public",
-  "forks": 1249,
+  "forks": 1250,
   "open_issues": 84,
-  "watchers": 10194,
+  "watchers": 10199,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 869
+  "_index": 870
 }

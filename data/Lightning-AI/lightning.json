@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Lightning-AI/lightning/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Lightning-AI/lightning/deployments",
   "created_at": "2019-03-31T00:45:57Z",
-  "updated_at": "2023-11-16T15:51:35Z",
-  "pushed_at": "2023-11-17T01:01:25Z",
+  "updated_at": "2023-11-17T23:58:08Z",
+  "pushed_at": "2023-11-18T00:38:16Z",
   "git_url": "git://github.com/Lightning-AI/lightning.git",
   "ssh_url": "git@github.com:Lightning-AI/lightning.git",
   "clone_url": "https://github.com/Lightning-AI/lightning.git",
   "svn_url": "https://github.com/Lightning-AI/lightning",
   "homepage": "https://lightning.ai",
-  "size": 129156,
-  "stargazers_count": 25139,
-  "watchers_count": 25139,
+  "size": 129090,
+  "stargazers_count": 25153,
+  "watchers_count": 25153,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 722,
+  "open_issues_count": 725,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -108,8 +108,8 @@
   ],
   "visibility": "public",
   "forks": 3070,
-  "open_issues": 722,
-  "watchers": 25139,
+  "open_issues": 725,
+  "watchers": 25153,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 31
+  "_index": 32
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/JusperLee/Dual-Path-RNN-Pytorch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JusperLee/Dual-Path-RNN-Pytorch/deployments",
   "created_at": "2020-01-28T13:06:33Z",
-  "updated_at": "2023-11-14T03:53:07Z",
+  "updated_at": "2023-11-17T02:05:30Z",
   "pushed_at": "2023-02-14T07:49:35Z",
   "git_url": "git://github.com/JusperLee/Dual-Path-RNN-Pytorch.git",
   "ssh_url": "git@github.com:JusperLee/Dual-Path-RNN-Pytorch.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/JusperLee/Dual-Path-RNN-Pytorch",
   "homepage": null,
   "size": 97,
-  "stargazers_count": 361,
-  "watchers_count": 361,
+  "stargazers_count": 362,
+  "watchers_count": 362,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 65,
   "open_issues": 26,
-  "watchers": 361,
+  "watchers": 362,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 233
+  "_index": 234
 }

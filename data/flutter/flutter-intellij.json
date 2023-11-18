@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 325,
+  "forks_count": 326,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 588,
+  "open_issues_count": 589,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -103,8 +103,8 @@
     "java"
   ],
   "visibility": "public",
-  "forks": 325,
-  "open_issues": 588,
+  "forks": 326,
+  "open_issues": 589,
   "watchers": 1907,
   "default_branch": "master",
   "permissions": {
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1525
+  "_index": 1526
 }

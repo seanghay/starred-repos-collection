@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sockjs/sockjs-client/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sockjs/sockjs-client/deployments",
   "created_at": "2011-07-22T14:12:01Z",
-  "updated_at": "2023-11-16T20:34:59Z",
+  "updated_at": "2023-11-17T04:24:06Z",
   "pushed_at": "2023-11-09T05:27:31Z",
   "git_url": "git://github.com/sockjs/sockjs-client.git",
   "ssh_url": "git@github.com:sockjs/sockjs-client.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sockjs/sockjs-client",
   "homepage": "",
   "size": 3584,
-  "stargazers_count": 8295,
-  "watchers_count": 8295,
+  "stargazers_count": 8296,
+  "watchers_count": 8296,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 1365,
   "open_issues": 23,
-  "watchers": 8295,
+  "watchers": 8296,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1776
+  "_index": 1777
 }

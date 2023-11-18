@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/nuxt/nuxt/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nuxt/nuxt/deployments",
   "created_at": "2016-10-26T11:18:47Z",
-  "updated_at": "2023-11-17T01:25:19Z",
-  "pushed_at": "2023-11-17T00:22:50Z",
+  "updated_at": "2023-11-17T21:54:46Z",
+  "pushed_at": "2023-11-17T23:24:10Z",
   "git_url": "git://github.com/nuxt/nuxt.git",
   "ssh_url": "git@github.com:nuxt/nuxt.git",
   "clone_url": "https://github.com/nuxt/nuxt.git",
   "svn_url": "https://github.com/nuxt/nuxt",
   "homepage": "https://nuxt.com",
-  "size": 109313,
-  "stargazers_count": 48445,
-  "watchers_count": 48445,
+  "size": 109108,
+  "stargazers_count": 48470,
+  "watchers_count": 48470,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 4545,
+  "forks_count": 4544,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 953,
+  "open_issues_count": 955,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,9 +112,9 @@
     "vue"
   ],
   "visibility": "public",
-  "forks": 4545,
-  "open_issues": 953,
-  "watchers": 48445,
+  "forks": 4544,
+  "open_issues": 955,
+  "watchers": 48470,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1198
+  "_index": 1199
 }

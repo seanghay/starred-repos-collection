@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/toptal/gitignore.io/releases{/id}",
   "deployments_url": "https://api.github.com/repos/toptal/gitignore.io/deployments",
   "created_at": "2013-02-14T14:25:36Z",
-  "updated_at": "2023-11-17T00:41:59Z",
+  "updated_at": "2023-11-17T13:12:34Z",
   "pushed_at": "2023-10-17T23:23:57Z",
   "git_url": "git://github.com/toptal/gitignore.io.git",
   "ssh_url": "git@github.com:toptal/gitignore.io.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 629,
+  "forks_count": 627,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,7 +107,7 @@
     "vapor-swift"
   ],
   "visibility": "public",
-  "forks": 629,
+  "forks": 627,
   "open_issues": 13,
   "watchers": 7844,
   "default_branch": "master",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1712
+  "_index": 1713
 }

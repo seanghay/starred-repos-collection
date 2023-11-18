@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/JakeWharton/mosaic/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JakeWharton/mosaic/deployments",
   "created_at": "2020-09-03T17:34:46Z",
-  "updated_at": "2023-11-15T18:35:53Z",
-  "pushed_at": "2023-11-16T22:29:59Z",
+  "updated_at": "2023-11-17T15:27:02Z",
+  "pushed_at": "2023-11-17T22:34:40Z",
   "git_url": "git://github.com/JakeWharton/mosaic.git",
   "ssh_url": "git@github.com:JakeWharton/mosaic.git",
   "clone_url": "https://github.com/JakeWharton/mosaic.git",
   "svn_url": "https://github.com/JakeWharton/mosaic",
   "homepage": "",
-  "size": 2837,
-  "stargazers_count": 1678,
-  "watchers_count": 1678,
+  "size": 2849,
+  "stargazers_count": 1679,
+  "watchers_count": 1679,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 15,
+  "open_issues_count": 14,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 52,
-  "open_issues": 15,
-  "watchers": 1678,
+  "open_issues": 14,
+  "watchers": 1679,
   "default_branch": "trunk",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1653
+  "_index": 1654
 }

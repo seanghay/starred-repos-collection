@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/SigNoz/signoz/releases{/id}",
   "deployments_url": "https://api.github.com/repos/SigNoz/signoz/deployments",
   "created_at": "2021-01-03T12:44:36Z",
-  "updated_at": "2023-11-17T00:56:46Z",
-  "pushed_at": "2023-11-16T20:20:53Z",
+  "updated_at": "2023-11-17T22:17:11Z",
+  "pushed_at": "2023-11-17T22:58:08Z",
   "git_url": "git://github.com/SigNoz/signoz.git",
   "ssh_url": "git@github.com:SigNoz/signoz.git",
   "clone_url": "https://github.com/SigNoz/signoz.git",
   "svn_url": "https://github.com/SigNoz/signoz",
   "homepage": "https://signoz.io",
-  "size": 54992,
-  "stargazers_count": 15244,
-  "watchers_count": 15244,
+  "size": 55170,
+  "stargazers_count": 15258,
+  "watchers_count": 15258,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 914,
+  "forks_count": 915,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 868,
+  "open_issues_count": 869,
   "license": {
     "key": "other",
     "name": "Other",
@@ -117,9 +117,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 914,
-  "open_issues": 868,
-  "watchers": 15244,
+  "forks": 915,
+  "open_issues": 869,
+  "watchers": 15258,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1009
+  "_index": 1010
 }

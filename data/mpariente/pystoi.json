@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mpariente/pystoi/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mpariente/pystoi/deployments",
   "created_at": "2018-04-18T12:01:22Z",
-  "updated_at": "2023-11-11T23:52:24Z",
+  "updated_at": "2023-11-17T06:57:51Z",
   "pushed_at": "2023-05-01T08:57:53Z",
   "git_url": "git://github.com/mpariente/pystoi.git",
   "ssh_url": "git@github.com:mpariente/pystoi.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mpariente/pystoi",
   "homepage": "",
   "size": 811,
-  "stargazers_count": 284,
-  "watchers_count": 284,
+  "stargazers_count": 285,
+  "watchers_count": 285,
   "language": "MATLAB",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 59,
   "open_issues": 5,
-  "watchers": 284,
+  "watchers": 285,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 360
+  "_index": 361
 }

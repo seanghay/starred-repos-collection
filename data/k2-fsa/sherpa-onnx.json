@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/k2-fsa/sherpa-onnx",
-  "description": "Real-time speech recognition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go",
+  "description": "Speech-to-text and text-to-speech using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go",
   "fork": false,
   "url": "https://api.github.com/repos/k2-fsa/sherpa-onnx",
   "forks_url": "https://api.github.com/repos/k2-fsa/sherpa-onnx/forks",
@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/k2-fsa/sherpa-onnx/releases{/id}",
   "deployments_url": "https://api.github.com/repos/k2-fsa/sherpa-onnx/deployments",
   "created_at": "2022-09-01T05:47:33Z",
-  "updated_at": "2023-11-16T15:01:49Z",
-  "pushed_at": "2023-11-17T01:23:25Z",
+  "updated_at": "2023-11-17T03:05:43Z",
+  "pushed_at": "2023-11-17T05:22:38Z",
   "git_url": "git://github.com/k2-fsa/sherpa-onnx.git",
   "ssh_url": "git@github.com:k2-fsa/sherpa-onnx.git",
   "clone_url": "https://github.com/k2-fsa/sherpa-onnx.git",
   "svn_url": "https://github.com/k2-fsa/sherpa-onnx",
   "homepage": "https://k2-fsa.github.io/sherpa/onnx/index.html",
-  "size": 2276,
+  "size": 2277,
   "stargazers_count": 293,
   "watchers_count": 293,
   "language": "C++",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 47,
+  "open_issues_count": 48,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -118,7 +118,7 @@
   ],
   "visibility": "public",
   "forks": 69,
-  "open_issues": 47,
+  "open_issues": 48,
   "watchers": 293,
   "default_branch": "master",
   "permissions": {
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 274
+  "_index": 275
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/psf/black/releases{/id}",
   "deployments_url": "https://api.github.com/repos/psf/black/deployments",
   "created_at": "2018-03-14T19:54:45Z",
-  "updated_at": "2023-11-17T01:01:45Z",
-  "pushed_at": "2023-11-14T15:25:32Z",
+  "updated_at": "2023-11-17T15:10:36Z",
+  "pushed_at": "2023-11-17T21:39:44Z",
   "git_url": "git://github.com/psf/black.git",
   "ssh_url": "git@github.com:psf/black.git",
   "clone_url": "https://github.com/psf/black.git",
   "svn_url": "https://github.com/psf/black",
   "homepage": "https://black.readthedocs.io/en/stable/",
-  "size": 6954,
-  "stargazers_count": 35439,
-  "watchers_count": 35439,
+  "size": 5976,
+  "stargazers_count": 35447,
+  "watchers_count": 35447,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2332,
+  "forks_count": 2333,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 378,
+  "open_issues_count": 376,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,9 +109,9 @@
     "yapf"
   ],
   "visibility": "public",
-  "forks": 2332,
-  "open_issues": 378,
-  "watchers": 35439,
+  "forks": 2333,
+  "open_issues": 376,
+  "watchers": 35447,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 36
+  "_index": 37
 }

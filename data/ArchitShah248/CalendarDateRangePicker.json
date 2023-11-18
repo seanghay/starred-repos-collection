@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ArchitShah248/CalendarDateRangePicker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ArchitShah248/CalendarDateRangePicker/deployments",
   "created_at": "2017-08-12T21:16:20Z",
-  "updated_at": "2023-10-25T10:23:24Z",
+  "updated_at": "2023-11-17T17:38:14Z",
   "pushed_at": "2023-03-15T21:56:03Z",
   "git_url": "git://github.com/ArchitShah248/CalendarDateRangePicker.git",
   "ssh_url": "git@github.com:ArchitShah248/CalendarDateRangePicker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ArchitShah248/CalendarDateRangePicker",
   "homepage": null,
   "size": 2192,
-  "stargazers_count": 252,
-  "watchers_count": 252,
+  "stargazers_count": 251,
+  "watchers_count": 251,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 80,
   "open_issues": 40,
-  "watchers": 252,
+  "watchers": 251,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2582
+  "_index": 2583
 }
