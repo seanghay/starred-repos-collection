@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/amitness/colab-connect/releases{/id}",
   "deployments_url": "https://api.github.com/repos/amitness/colab-connect/deployments",
   "created_at": "2023-04-17T20:03:42Z",
-  "updated_at": "2023-11-17T01:26:40Z",
+  "updated_at": "2023-11-18T23:35:30Z",
   "pushed_at": "2023-06-15T09:37:05Z",
   "git_url": "git://github.com/amitness/colab-connect.git",
   "ssh_url": "git@github.com:amitness/colab-connect.git",
