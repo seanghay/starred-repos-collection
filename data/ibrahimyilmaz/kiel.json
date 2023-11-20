@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ibrahimyilmaz/kiel/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ibrahimyilmaz/kiel/deployments",
   "created_at": "2020-07-29T19:34:03Z",
-  "updated_at": "2023-11-11T13:02:50Z",
+  "updated_at": "2023-11-20T01:26:14Z",
   "pushed_at": "2021-05-04T20:32:00Z",
   "git_url": "git://github.com/ibrahimyilmaz/kiel.git",
   "ssh_url": "git@github.com:ibrahimyilmaz/kiel.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ibrahimyilmaz/kiel",
   "homepage": "",
   "size": 323,
-  "stargazers_count": 369,
-  "watchers_count": 369,
+  "stargazers_count": 368,
+  "watchers_count": 368,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 30,
   "open_issues": 6,
-  "watchers": 369,
+  "watchers": 368,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1865
+  "_index": 1866
 }

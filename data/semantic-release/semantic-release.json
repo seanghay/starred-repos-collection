@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/semantic-release/semantic-release/releases{/id}",
   "deployments_url": "https://api.github.com/repos/semantic-release/semantic-release/deployments",
   "created_at": "2014-09-15T16:18:28Z",
-  "updated_at": "2023-11-18T21:47:33Z",
-  "pushed_at": "2023-11-18T21:03:18Z",
+  "updated_at": "2023-11-19T22:18:31Z",
+  "pushed_at": "2023-11-19T20:43:48Z",
   "git_url": "git://github.com/semantic-release/semantic-release.git",
   "ssh_url": "git@github.com:semantic-release/semantic-release.git",
   "clone_url": "https://github.com/semantic-release/semantic-release.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1777,
+  "forks_count": 1778,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 342,
+  "open_issues_count": 344,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,8 +112,8 @@
     "version"
   ],
   "visibility": "public",
-  "forks": 1777,
-  "open_issues": 342,
+  "forks": 1778,
+  "open_issues": 344,
   "watchers": 18953,
   "default_branch": "master",
   "permissions": {
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1081
+  "_index": 1082
 }

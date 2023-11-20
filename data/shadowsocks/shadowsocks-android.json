@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/shadowsocks/shadowsocks-android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-android/deployments",
   "created_at": "2012-12-16T13:40:29Z",
-  "updated_at": "2023-11-18T14:36:09Z",
+  "updated_at": "2023-11-19T18:06:22Z",
   "pushed_at": "2023-11-02T08:58:23Z",
   "git_url": "git://github.com/shadowsocks/shadowsocks-android.git",
   "ssh_url": "git@github.com:shadowsocks/shadowsocks-android.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/shadowsocks/shadowsocks-android",
   "homepage": "",
   "size": 53587,
-  "stargazers_count": 34239,
-  "watchers_count": 34239,
+  "stargazers_count": 34243,
+  "watchers_count": 34243,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 11676,
+  "forks_count": 11674,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,9 +102,9 @@
     "shadowsocks"
   ],
   "visibility": "public",
-  "forks": 11676,
+  "forks": 11674,
   "open_issues": 44,
-  "watchers": 34239,
+  "watchers": 34243,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1
+  "_index": 2
 }

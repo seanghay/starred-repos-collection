@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/tchayen/red-otter/deployments",
   "created_at": "2023-03-09T13:17:02Z",
   "updated_at": "2023-11-18T10:12:26Z",
-  "pushed_at": "2023-11-18T13:13:31Z",
+  "pushed_at": "2023-11-19T22:30:14Z",
   "git_url": "git://github.com/tchayen/red-otter.git",
   "ssh_url": "git@github.com:tchayen/red-otter.git",
   "clone_url": "https://github.com/tchayen/red-otter.git",
   "svn_url": "https://github.com/tchayen/red-otter",
   "homepage": "https://red-otter.dev",
-  "size": 4164,
+  "size": 3678,
   "stargazers_count": 237,
   "watchers_count": 237,
   "language": "TypeScript",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 273
+  "_index": 274
 }

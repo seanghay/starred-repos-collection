@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/insidegui/VirtualBuddy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/insidegui/VirtualBuddy/deployments",
   "created_at": "2022-04-12T00:07:35Z",
-  "updated_at": "2023-11-18T12:31:41Z",
+  "updated_at": "2023-11-19T20:51:02Z",
   "pushed_at": "2023-11-14T18:53:16Z",
   "git_url": "git://github.com/insidegui/VirtualBuddy.git",
   "ssh_url": "git@github.com:insidegui/VirtualBuddy.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/insidegui/VirtualBuddy",
   "homepage": "",
   "size": 12558,
-  "stargazers_count": 4127,
-  "watchers_count": 4127,
+  "stargazers_count": 4129,
+  "watchers_count": 4129,
   "language": "Swift",
   "has_issues": false,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 107,
+  "forks_count": 108,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,9 +102,9 @@
     "virtual-machine"
   ],
   "visibility": "public",
-  "forks": 107,
+  "forks": 108,
   "open_issues": 0,
-  "watchers": 4127,
+  "watchers": 4129,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 922
+  "_index": 923
 }

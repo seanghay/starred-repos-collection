@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/egoist/openai-proxy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/egoist/openai-proxy/deployments",
   "created_at": "2023-03-20T15:20:21Z",
-  "updated_at": "2023-11-18T10:11:48Z",
+  "updated_at": "2023-11-19T12:10:54Z",
   "pushed_at": "2023-11-14T04:31:30Z",
   "git_url": "git://github.com/egoist/openai-proxy.git",
   "ssh_url": "git@github.com:egoist/openai-proxy.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/egoist/openai-proxy",
   "homepage": "https://chatkit.app",
   "size": 33,
-  "stargazers_count": 300,
-  "watchers_count": 300,
+  "stargazers_count": 301,
+  "watchers_count": 301,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 340,
+  "forks_count": 341,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -93,9 +93,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 340,
+  "forks": 341,
   "open_issues": 1,
-  "watchers": 300,
+  "watchers": 301,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 638
+  "_index": 639
 }

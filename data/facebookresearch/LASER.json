@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/facebookresearch/LASER/deployments",
   "created_at": "2018-06-20T15:18:09Z",
   "updated_at": "2023-11-18T18:44:30Z",
-  "pushed_at": "2023-11-17T18:33:30Z",
+  "pushed_at": "2023-11-19T16:41:06Z",
   "git_url": "git://github.com/facebookresearch/LASER.git",
   "ssh_url": "git@github.com:facebookresearch/LASER.git",
   "clone_url": "https://github.com/facebookresearch/LASER.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 258
+  "_index": 259
 }

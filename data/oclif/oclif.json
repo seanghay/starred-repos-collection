@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/oclif/oclif/releases{/id}",
   "deployments_url": "https://api.github.com/repos/oclif/oclif/deployments",
   "created_at": "2018-01-11T20:59:27Z",
-  "updated_at": "2023-11-18T10:01:33Z",
+  "updated_at": "2023-11-19T10:13:03Z",
   "pushed_at": "2023-11-17T15:53:11Z",
   "git_url": "git://github.com/oclif/oclif.git",
   "ssh_url": "git@github.com:oclif/oclif.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1956
+  "_index": 1957
 }

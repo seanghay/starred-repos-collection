@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fishslot/video_loopback_for_webui/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fishslot/video_loopback_for_webui/deployments",
   "created_at": "2023-01-16T12:12:19Z",
-  "updated_at": "2023-11-12T15:26:38Z",
+  "updated_at": "2023-11-19T18:31:56Z",
   "pushed_at": "2023-04-21T12:08:24Z",
   "git_url": "git://github.com/fishslot/video_loopback_for_webui.git",
   "ssh_url": "git@github.com:fishslot/video_loopback_for_webui.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 744
+  "_index": 745
 }

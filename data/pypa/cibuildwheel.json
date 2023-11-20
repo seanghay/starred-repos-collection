@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/pypa/cibuildwheel/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pypa/cibuildwheel/deployments",
   "created_at": "2017-03-19T20:59:00Z",
-  "updated_at": "2023-11-17T14:14:05Z",
-  "pushed_at": "2023-11-18T10:38:23Z",
+  "updated_at": "2023-11-19T16:58:08Z",
+  "pushed_at": "2023-11-19T13:05:57Z",
   "git_url": "git://github.com/pypa/cibuildwheel.git",
   "ssh_url": "git@github.com:pypa/cibuildwheel.git",
   "clone_url": "https://github.com/pypa/cibuildwheel.git",
   "svn_url": "https://github.com/pypa/cibuildwheel",
   "homepage": "https://cibuildwheel.readthedocs.org/",
-  "size": 5344,
-  "stargazers_count": 1601,
-  "watchers_count": 1601,
+  "size": 5363,
+  "stargazers_count": 1602,
+  "watchers_count": 1602,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 61,
+  "open_issues_count": 63,
   "license": {
     "key": "other",
     "name": "Other",
@@ -112,8 +112,8 @@
   ],
   "visibility": "public",
   "forks": 209,
-  "open_issues": 61,
-  "watchers": 1601,
+  "open_issues": 63,
+  "watchers": 1602,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 102
+  "_index": 103
 }

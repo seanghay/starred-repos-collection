@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/k2-fsa/sherpa-onnx/releases{/id}",
   "deployments_url": "https://api.github.com/repos/k2-fsa/sherpa-onnx/deployments",
   "created_at": "2022-09-01T05:47:33Z",
-  "updated_at": "2023-11-18T20:42:44Z",
-  "pushed_at": "2023-11-18T13:19:43Z",
+  "updated_at": "2023-11-19T22:53:28Z",
+  "pushed_at": "2023-11-20T01:20:51Z",
   "git_url": "git://github.com/k2-fsa/sherpa-onnx.git",
   "ssh_url": "git@github.com:k2-fsa/sherpa-onnx.git",
   "clone_url": "https://github.com/k2-fsa/sherpa-onnx.git",
   "svn_url": "https://github.com/k2-fsa/sherpa-onnx",
   "homepage": "https://k2-fsa.github.io/sherpa/onnx/index.html",
   "size": 2289,
-  "stargazers_count": 294,
-  "watchers_count": 294,
+  "stargazers_count": 296,
+  "watchers_count": 296,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 69,
+  "forks_count": 70,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 49,
+  "open_issues_count": 48,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -117,9 +117,9 @@
     "windows"
   ],
   "visibility": "public",
-  "forks": 69,
-  "open_issues": 49,
-  "watchers": 294,
+  "forks": 70,
+  "open_issues": 48,
+  "watchers": 296,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 275
+  "_index": 276
 }

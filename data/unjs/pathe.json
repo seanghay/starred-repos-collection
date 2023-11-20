@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/unjs/pathe/releases{/id}",
   "deployments_url": "https://api.github.com/repos/unjs/pathe/deployments",
   "created_at": "2021-09-22T18:20:03Z",
-  "updated_at": "2023-11-13T07:20:03Z",
+  "updated_at": "2023-11-19T13:05:33Z",
   "pushed_at": "2023-11-14T20:01:23Z",
   "git_url": "git://github.com/unjs/pathe.git",
   "ssh_url": "git@github.com:unjs/pathe.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/unjs/pathe",
   "homepage": "",
   "size": 602,
-  "stargazers_count": 295,
-  "watchers_count": 295,
+  "stargazers_count": 296,
+  "watchers_count": 296,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 6,
   "open_issues": 7,
-  "watchers": 295,
+  "watchers": 296,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1593
+  "_index": 1594
 }

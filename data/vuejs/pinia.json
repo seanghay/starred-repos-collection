@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/vuejs/pinia/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vuejs/pinia/deployments",
   "created_at": "2019-11-18T21:05:01Z",
-  "updated_at": "2023-11-18T23:33:11Z",
+  "updated_at": "2023-11-20T01:48:54Z",
   "pushed_at": "2023-11-17T14:39:27Z",
   "git_url": "git://github.com/vuejs/pinia.git",
   "ssh_url": "git@github.com:vuejs/pinia.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/vuejs/pinia",
   "homepage": "https://pinia.vuejs.org",
   "size": 7426,
-  "stargazers_count": 11580,
-  "watchers_count": 11580,
+  "stargazers_count": 11584,
+  "watchers_count": 11584,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 919,
+  "forks_count": 920,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "vuex"
   ],
   "visibility": "public",
-  "forks": 919,
+  "forks": 920,
   "open_issues": 38,
-  "watchers": 11580,
+  "watchers": 11584,
   "default_branch": "v2",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1457
+  "_index": 1458
 }

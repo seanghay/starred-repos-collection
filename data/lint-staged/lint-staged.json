@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lint-staged/lint-staged/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lint-staged/lint-staged/deployments",
   "created_at": "2016-01-15T07:51:21Z",
-  "updated_at": "2023-11-18T03:29:26Z",
+  "updated_at": "2023-11-19T18:50:59Z",
   "pushed_at": "2023-11-11T15:24:54Z",
   "git_url": "git://github.com/lint-staged/lint-staged.git",
   "ssh_url": "git@github.com:lint-staged/lint-staged.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lint-staged/lint-staged",
   "homepage": "",
   "size": 5960,
-  "stargazers_count": 12384,
-  "watchers_count": 12384,
+  "stargazers_count": 12387,
+  "watchers_count": 12387,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 441,
   "open_issues": 103,
-  "watchers": 12384,
+  "watchers": 12387,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1237
+  "_index": 1238
 }

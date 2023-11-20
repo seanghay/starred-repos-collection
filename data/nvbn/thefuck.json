@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/nvbn/thefuck/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nvbn/thefuck/deployments",
   "created_at": "2015-04-08T15:08:04Z",
-  "updated_at": "2023-11-19T00:56:37Z",
-  "pushed_at": "2023-11-13T08:47:33Z",
+  "updated_at": "2023-11-20T00:22:12Z",
+  "pushed_at": "2023-11-19T11:33:11Z",
   "git_url": "git://github.com/nvbn/thefuck.git",
   "ssh_url": "git@github.com:nvbn/thefuck.git",
   "clone_url": "https://github.com/nvbn/thefuck.git",
   "svn_url": "https://github.com/nvbn/thefuck",
   "homepage": "",
   "size": 4043,
-  "stargazers_count": 80126,
-  "watchers_count": 80126,
+  "stargazers_count": 80130,
+  "watchers_count": 80130,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3501,
+  "forks_count": 3504,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 311,
+  "open_issues_count": 312,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -102,9 +102,9 @@
     "shell"
   ],
   "visibility": "public",
-  "forks": 3501,
-  "open_issues": 311,
-  "watchers": 80126,
+  "forks": 3504,
+  "open_issues": 312,
+  "watchers": 80130,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2649
+  "_index": 2650
 }

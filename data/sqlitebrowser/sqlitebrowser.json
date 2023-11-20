@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/sqlitebrowser/sqlitebrowser/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sqlitebrowser/sqlitebrowser/deployments",
   "created_at": "2014-05-04T01:54:44Z",
-  "updated_at": "2023-11-18T16:03:08Z",
-  "pushed_at": "2023-11-18T21:47:28Z",
+  "updated_at": "2023-11-20T01:07:01Z",
+  "pushed_at": "2023-11-19T07:59:31Z",
   "git_url": "git://github.com/sqlitebrowser/sqlitebrowser.git",
   "ssh_url": "git@github.com:sqlitebrowser/sqlitebrowser.git",
   "clone_url": "https://github.com/sqlitebrowser/sqlitebrowser.git",
   "svn_url": "https://github.com/sqlitebrowser/sqlitebrowser",
   "homepage": "https://sqlitebrowser.org",
-  "size": 30148,
-  "stargazers_count": 19213,
-  "watchers_count": 19213,
+  "size": 30152,
+  "stargazers_count": 19215,
+  "watchers_count": 19215,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2054,
+  "forks_count": 2055,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "sqlitebrowser"
   ],
   "visibility": "public",
-  "forks": 2054,
+  "forks": 2055,
   "open_issues": 635,
-  "watchers": 19213,
+  "watchers": 19215,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2116
+  "_index": 2117
 }

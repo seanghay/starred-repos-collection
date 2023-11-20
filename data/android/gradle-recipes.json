@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/android/gradle-recipes/releases{/id}",
   "deployments_url": "https://api.github.com/repos/android/gradle-recipes/deployments",
   "created_at": "2020-04-27T08:59:03Z",
-  "updated_at": "2023-11-18T03:16:00Z",
+  "updated_at": "2023-11-19T06:47:05Z",
   "pushed_at": "2023-11-14T19:36:50Z",
   "git_url": "git://github.com/android/gradle-recipes.git",
   "ssh_url": "git@github.com:android/gradle-recipes.git",
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2098
+  "_index": 2099
 }
