@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mozilla/nunjucks/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mozilla/nunjucks/deployments",
   "created_at": "2012-08-09T05:40:44Z",
-  "updated_at": "2023-11-19T23:48:46Z",
+  "updated_at": "2023-11-20T21:30:45Z",
   "pushed_at": "2023-10-21T09:07:27Z",
   "git_url": "git://github.com/mozilla/nunjucks.git",
   "ssh_url": "git@github.com:mozilla/nunjucks.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 325,
+  "open_issues_count": 326,
   "license": {
     "key": "bsd-2-clause",
     "name": "BSD 2-Clause \"Simplified\" License",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 682,
-  "open_issues": 325,
+  "open_issues": 326,
   "watchers": 8306,
   "default_branch": "master",
   "permissions": {

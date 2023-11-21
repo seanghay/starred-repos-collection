@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/rhasspy/gruut-ipa/deployments",
   "created_at": "2020-10-06T18:13:00Z",
   "updated_at": "2023-11-19T18:48:11Z",
-  "pushed_at": "2022-06-24T19:47:47Z",
+  "pushed_at": "2023-11-20T16:04:36Z",
   "git_url": "git://github.com/rhasspy/gruut-ipa.git",
   "ssh_url": "git@github.com:rhasspy/gruut-ipa.git",
   "clone_url": "https://github.com/rhasspy/gruut-ipa.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 10,
+  "open_issues_count": 11,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 9,
-  "open_issues": 10,
+  "open_issues": 11,
   "watchers": 56,
   "default_branch": "master",
   "permissions": {
