@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/svg/svgo/releases{/id}",
   "deployments_url": "https://api.github.com/repos/svg/svgo/deployments",
   "created_at": "2012-08-22T10:41:43Z",
-  "updated_at": "2023-11-20T15:29:43Z",
-  "pushed_at": "2023-11-20T15:54:09Z",
+  "updated_at": "2023-11-22T01:44:39Z",
+  "pushed_at": "2023-11-21T15:01:36Z",
   "git_url": "git://github.com/svg/svgo.git",
   "ssh_url": "git@github.com:svg/svgo.git",
   "clone_url": "https://github.com/svg/svgo.git",
   "svn_url": "https://github.com/svg/svgo",
   "homepage": "",
   "size": 5088,
-  "stargazers_count": 19802,
-  "watchers_count": 19802,
+  "stargazers_count": 19807,
+  "watchers_count": 19807,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1394,
+  "forks_count": 1395,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 242,
+  "open_issues_count": 243,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,9 +107,9 @@
     "svgo"
   ],
   "visibility": "public",
-  "forks": 1394,
-  "open_issues": 242,
-  "watchers": 19802,
+  "forks": 1395,
+  "open_issues": 243,
+  "watchers": 19807,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2260
+  "_index": 2261
 }

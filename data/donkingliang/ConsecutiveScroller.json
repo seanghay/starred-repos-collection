@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/donkingliang/ConsecutiveScroller/releases{/id}",
   "deployments_url": "https://api.github.com/repos/donkingliang/ConsecutiveScroller/deployments",
   "created_at": "2020-03-15T08:01:26Z",
-  "updated_at": "2023-11-20T02:58:46Z",
+  "updated_at": "2023-11-21T10:48:38Z",
   "pushed_at": "2023-03-28T06:57:07Z",
   "git_url": "git://github.com/donkingliang/ConsecutiveScroller.git",
   "ssh_url": "git@github.com:donkingliang/ConsecutiveScroller.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 340,
+  "forks_count": 341,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 37,
+  "open_issues_count": 38,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -111,8 +111,8 @@
     "sticky-headers"
   ],
   "visibility": "public",
-  "forks": 340,
-  "open_issues": 37,
+  "forks": 341,
+  "open_issues": 38,
   "watchers": 2496,
   "default_branch": "master",
   "permissions": {
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2241
+  "_index": 2242
 }

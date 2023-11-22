@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/openai/CLIP/releases{/id}",
   "deployments_url": "https://api.github.com/repos/openai/CLIP/deployments",
   "created_at": "2020-12-16T11:24:42Z",
-  "updated_at": "2023-11-21T00:35:17Z",
-  "pushed_at": "2023-10-16T22:47:52Z",
+  "updated_at": "2023-11-22T01:28:00Z",
+  "pushed_at": "2023-11-21T10:40:35Z",
   "git_url": "git://github.com/openai/CLIP.git",
   "ssh_url": "git@github.com:openai/CLIP.git",
   "clone_url": "https://github.com/openai/CLIP.git",
   "svn_url": "https://github.com/openai/CLIP",
   "homepage": "",
   "size": 9140,
-  "stargazers_count": 19073,
-  "watchers_count": 19073,
+  "stargazers_count": 19098,
+  "watchers_count": 19098,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2676,
+  "forks_count": 2679,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,9 +102,9 @@
     "machine-learning"
   ],
   "visibility": "public",
-  "forks": 2676,
+  "forks": 2679,
   "open_issues": 174,
-  "watchers": 19073,
+  "watchers": 19098,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 773
+  "_index": 774
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/davidmerfield/Blot/deployments",
   "created_at": "2016-01-29T01:04:05Z",
   "updated_at": "2023-11-18T10:58:24Z",
-  "pushed_at": "2023-11-20T13:03:09Z",
+  "pushed_at": "2023-11-21T19:01:57Z",
   "git_url": "git://github.com/davidmerfield/Blot.git",
   "ssh_url": "git@github.com:davidmerfield/Blot.git",
   "clone_url": "https://github.com/davidmerfield/Blot.git",
   "svn_url": "https://github.com/davidmerfield/Blot",
   "homepage": "https://blot.im",
-  "size": 3306461,
+  "size": 3306571,
   "stargazers_count": 1288,
   "watchers_count": 1288,
   "language": "JavaScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 10,
+  "open_issues_count": 8,
   "license": {
     "key": "cc0-1.0",
     "name": "Creative Commons Zero v1.0 Universal",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 72,
-  "open_issues": 10,
+  "open_issues": 8,
   "watchers": 1288,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 97
+  "_index": 98
 }

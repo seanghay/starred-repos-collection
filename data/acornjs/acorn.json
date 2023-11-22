@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/acornjs/acorn/releases{/id}",
   "deployments_url": "https://api.github.com/repos/acornjs/acorn/deployments",
   "created_at": "2012-09-24T10:05:00Z",
-  "updated_at": "2023-11-20T20:17:32Z",
+  "updated_at": "2023-11-21T19:21:08Z",
   "pushed_at": "2023-11-17T17:10:23Z",
   "git_url": "git://github.com/acornjs/acorn.git",
   "ssh_url": "git@github.com:acornjs/acorn.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/acornjs/acorn",
   "homepage": "",
   "size": 6356,
-  "stargazers_count": 9865,
-  "watchers_count": 9865,
+  "stargazers_count": 9872,
+  "watchers_count": 9872,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 944,
+  "forks_count": 945,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -93,9 +93,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 944,
+  "forks": 945,
   "open_issues": 15,
-  "watchers": 9865,
+  "watchers": 9872,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1257
+  "_index": 1258
 }

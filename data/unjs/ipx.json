@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/unjs/ipx.git",
   "svn_url": "https://github.com/unjs/ipx",
   "homepage": "",
-  "size": 2669,
+  "size": 2461,
   "stargazers_count": 966,
   "watchers_count": 966,
   "language": "TypeScript",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1372
+  "_index": 1373
 }

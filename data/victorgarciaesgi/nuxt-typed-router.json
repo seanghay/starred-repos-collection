@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/victorgarciaesgi/nuxt-typed-router",
-  "description": "🚦Provide autocompletion for routes paths, names and params in Nuxt apps",
+  "description": "🚦Provide autocompletion and typecheck to Nuxt router",
   "fork": false,
   "url": "https://api.github.com/repos/victorgarciaesgi/nuxt-typed-router",
   "forks_url": "https://api.github.com/repos/victorgarciaesgi/nuxt-typed-router/forks",
@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/victorgarciaesgi/nuxt-typed-router/releases{/id}",
   "deployments_url": "https://api.github.com/repos/victorgarciaesgi/nuxt-typed-router/deployments",
   "created_at": "2020-01-08T14:03:01Z",
-  "updated_at": "2023-11-15T07:18:27Z",
+  "updated_at": "2023-11-21T18:23:36Z",
   "pushed_at": "2023-11-10T09:32:56Z",
   "git_url": "git://github.com/victorgarciaesgi/nuxt-typed-router.git",
   "ssh_url": "git@github.com:victorgarciaesgi/nuxt-typed-router.git",
@@ -106,6 +106,7 @@
     "nuxtjs",
     "typed-pages",
     "typed-router",
+    "typedpages",
     "typescript",
     "vue",
     "vue-router",
@@ -123,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1317
+  "_index": 1318
 }

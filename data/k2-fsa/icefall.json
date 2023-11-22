@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/k2-fsa/icefall/releases{/id}",
   "deployments_url": "https://api.github.com/repos/k2-fsa/icefall/deployments",
   "created_at": "2021-06-26T09:48:12Z",
-  "updated_at": "2023-11-19T15:01:01Z",
-  "pushed_at": "2023-11-18T10:47:56Z",
+  "updated_at": "2023-11-21T15:14:33Z",
+  "pushed_at": "2023-11-22T01:47:44Z",
   "git_url": "git://github.com/k2-fsa/icefall.git",
   "ssh_url": "git@github.com:k2-fsa/icefall.git",
   "clone_url": "https://github.com/k2-fsa/icefall.git",
   "svn_url": "https://github.com/k2-fsa/icefall",
   "homepage": "https://k2-fsa.github.io/icefall/",
   "size": 17396,
-  "stargazers_count": 639,
-  "watchers_count": 639,
+  "stargazers_count": 640,
+  "watchers_count": 640,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 352,
+  "open_issues_count": 353,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 238,
-  "open_issues": 352,
-  "watchers": 639,
+  "open_issues": 353,
+  "watchers": 640,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 270
+  "_index": 271
 }

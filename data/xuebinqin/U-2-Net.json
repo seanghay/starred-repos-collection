@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/xuebinqin/U-2-Net/releases{/id}",
   "deployments_url": "https://api.github.com/repos/xuebinqin/U-2-Net/deployments",
   "created_at": "2020-05-04T17:10:28Z",
-  "updated_at": "2023-11-21T01:10:00Z",
+  "updated_at": "2023-11-21T19:51:35Z",
   "pushed_at": "2023-11-17T20:49:12Z",
   "git_url": "git://github.com/xuebinqin/U-2-Net.git",
   "ssh_url": "git@github.com:xuebinqin/U-2-Net.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/xuebinqin/U-2-Net",
   "homepage": "",
   "size": 68534,
-  "stargazers_count": 7649,
-  "watchers_count": 7649,
+  "stargazers_count": 7650,
+  "watchers_count": 7650,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 1350,
   "open_issues": 216,
-  "watchers": 7649,
+  "watchers": 7650,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1069
+  "_index": 1070
 }

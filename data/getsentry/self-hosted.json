@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/getsentry/self-hosted/releases{/id}",
   "deployments_url": "https://api.github.com/repos/getsentry/self-hosted/deployments",
   "created_at": "2016-02-11T21:19:52Z",
-  "updated_at": "2023-11-20T16:59:04Z",
-  "pushed_at": "2023-11-21T00:27:48Z",
+  "updated_at": "2023-11-22T00:31:36Z",
+  "pushed_at": "2023-11-21T20:30:45Z",
   "git_url": "git://github.com/getsentry/self-hosted.git",
   "ssh_url": "git@github.com:getsentry/self-hosted.git",
   "clone_url": "https://github.com/getsentry/self-hosted.git",
   "svn_url": "https://github.com/getsentry/self-hosted",
   "homepage": "https://develop.sentry.dev/self-hosted/",
-  "size": 855,
-  "stargazers_count": 6759,
-  "watchers_count": 6759,
+  "size": 858,
+  "stargazers_count": 6766,
+  "watchers_count": 6766,
   "language": "Shell",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 172,
+  "open_issues_count": 174,
   "license": {
     "key": "other",
     "name": "Other",
@@ -108,8 +108,8 @@
   ],
   "visibility": "public",
   "forks": 1612,
-  "open_issues": 172,
-  "watchers": 6759,
+  "open_issues": 174,
+  "watchers": 6766,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1272
+  "_index": 1273
 }

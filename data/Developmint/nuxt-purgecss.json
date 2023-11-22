@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/Developmint/nuxt-purgecss.git",
   "svn_url": "https://github.com/Developmint/nuxt-purgecss",
   "homepage": "",
-  "size": 884,
+  "size": 885,
   "stargazers_count": 455,
   "watchers_count": 455,
   "language": "TypeScript",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 950
+  "_index": 951
 }

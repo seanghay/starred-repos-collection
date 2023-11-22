@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/RazrFalcon/tiny-skia/releases{/id}",
   "deployments_url": "https://api.github.com/repos/RazrFalcon/tiny-skia/deployments",
   "created_at": "2020-08-19T12:51:42Z",
-  "updated_at": "2023-11-20T06:07:11Z",
+  "updated_at": "2023-11-21T21:37:37Z",
   "pushed_at": "2023-10-01T06:22:13Z",
   "git_url": "git://github.com/RazrFalcon/tiny-skia.git",
   "ssh_url": "git@github.com:RazrFalcon/tiny-skia.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/RazrFalcon/tiny-skia",
   "homepage": "",
   "size": 1263,
-  "stargazers_count": 894,
-  "watchers_count": 894,
+  "stargazers_count": 895,
+  "watchers_count": 895,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 58,
   "open_issues": 24,
-  "watchers": 894,
+  "watchers": 895,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1033
+  "_index": 1034
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/yl4579/StyleTTS2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yl4579/StyleTTS2/deployments",
   "created_at": "2023-06-14T00:48:11Z",
-  "updated_at": "2023-11-21T01:51:25Z",
-  "pushed_at": "2023-11-21T01:47:17Z",
+  "updated_at": "2023-11-22T01:49:54Z",
+  "pushed_at": "2023-11-21T22:50:27Z",
   "git_url": "git://github.com/yl4579/StyleTTS2.git",
   "ssh_url": "git@github.com:yl4579/StyleTTS2.git",
   "clone_url": "https://github.com/yl4579/StyleTTS2.git",
   "svn_url": "https://github.com/yl4579/StyleTTS2",
   "homepage": "",
-  "size": 137256,
-  "stargazers_count": 1977,
-  "watchers_count": 1977,
+  "size": 137309,
+  "stargazers_count": 2266,
+  "watchers_count": 2266,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 73,
+  "forks_count": 86,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 6,
+  "open_issues_count": 7,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,9 +112,9 @@
     "wavlm"
   ],
   "visibility": "public",
-  "forks": 73,
-  "open_issues": 6,
-  "watchers": 1977,
+  "forks": 86,
+  "open_issues": 7,
+  "watchers": 2266,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 74
+  "_index": 75
 }

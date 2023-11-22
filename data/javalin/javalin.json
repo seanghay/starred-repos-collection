@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/javalin/javalin/releases{/id}",
   "deployments_url": "https://api.github.com/repos/javalin/javalin/deployments",
   "created_at": "2017-04-02T20:01:28Z",
-  "updated_at": "2023-11-21T01:47:23Z",
-  "pushed_at": "2023-11-21T01:29:58Z",
+  "updated_at": "2023-11-21T23:29:47Z",
+  "pushed_at": "2023-11-21T21:27:33Z",
   "git_url": "git://github.com/javalin/javalin.git",
   "ssh_url": "git@github.com:javalin/javalin.git",
   "clone_url": "https://github.com/javalin/javalin.git",
   "svn_url": "https://github.com/javalin/javalin",
   "homepage": "https://javalin.io",
-  "size": 4687,
+  "size": 4712,
   "stargazers_count": 6840,
   "watchers_count": 6840,
   "language": "Kotlin",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2558
+  "_index": 2559
 }

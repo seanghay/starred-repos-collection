@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/AfterShip/phone/releases{/id}",
   "deployments_url": "https://api.github.com/repos/AfterShip/phone/deployments",
   "created_at": "2013-07-18T01:31:24Z",
-  "updated_at": "2023-11-14T10:34:10Z",
+  "updated_at": "2023-11-21T07:12:29Z",
   "pushed_at": "2023-10-23T03:21:10Z",
   "git_url": "git://github.com/AfterShip/phone.git",
   "ssh_url": "git@github.com:AfterShip/phone.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/AfterShip/phone",
   "homepage": "https://www.aftership.com",
   "size": 1638,
-  "stargazers_count": 780,
-  "watchers_count": 780,
+  "stargazers_count": 781,
+  "watchers_count": 781,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 266,
   "open_issues": 0,
-  "watchers": 780,
+  "watchers": 781,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1076
+  "_index": 1077
 }

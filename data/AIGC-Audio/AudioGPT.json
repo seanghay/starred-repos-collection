@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/AIGC-Audio/AudioGPT/releases{/id}",
   "deployments_url": "https://api.github.com/repos/AIGC-Audio/AudioGPT/deployments",
   "created_at": "2023-03-16T07:12:18Z",
-  "updated_at": "2023-11-21T01:54:33Z",
+  "updated_at": "2023-11-22T00:10:16Z",
   "pushed_at": "2023-10-05T19:11:58Z",
   "git_url": "git://github.com/AIGC-Audio/AudioGPT.git",
   "ssh_url": "git@github.com:AIGC-Audio/AudioGPT.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/AIGC-Audio/AudioGPT",
   "homepage": "https://huggingface.co/spaces/AIGC-Audio/AudioGPT",
   "size": 24122,
-  "stargazers_count": 9390,
-  "watchers_count": 9390,
+  "stargazers_count": 9391,
+  "watchers_count": 9391,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 813,
+  "forks_count": 812,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 45,
+  "open_issues_count": 44,
   "license": {
     "key": "other",
     "name": "Other",
@@ -106,9 +106,9 @@
     "talking-head"
   ],
   "visibility": "public",
-  "forks": 813,
-  "open_issues": 45,
-  "watchers": 9390,
+  "forks": 812,
+  "open_issues": 44,
+  "watchers": 9391,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 456
+  "_index": 457
 }

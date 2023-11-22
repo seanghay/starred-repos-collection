@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/edge-js/edge/releases{/id}",
   "deployments_url": "https://api.github.com/repos/edge-js/edge/deployments",
   "created_at": "2017-03-05T12:09:21Z",
-  "updated_at": "2023-11-20T15:43:31Z",
+  "updated_at": "2023-11-21T08:56:06Z",
   "pushed_at": "2023-11-07T05:58:11Z",
   "git_url": "git://github.com/edge-js/edge.git",
   "ssh_url": "git@github.com:edge-js/edge.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/edge-js/edge",
   "homepage": "https://edgejs.dev",
   "size": 2172,
-  "stargazers_count": 504,
-  "watchers_count": 504,
+  "stargazers_count": 505,
+  "watchers_count": 505,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 0,
+  "open_issues_count": 1,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,8 +103,8 @@
   ],
   "visibility": "public",
   "forks": 22,
-  "open_issues": 0,
-  "watchers": 504,
+  "open_issues": 1,
+  "watchers": 505,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1247
+  "_index": 1248
 }

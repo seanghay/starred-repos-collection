@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/AssemblyScript/assemblyscript/releases{/id}",
   "deployments_url": "https://api.github.com/repos/AssemblyScript/assemblyscript/deployments",
   "created_at": "2017-09-28T11:06:50Z",
-  "updated_at": "2023-11-21T00:20:34Z",
-  "pushed_at": "2023-11-21T01:16:03Z",
+  "updated_at": "2023-11-22T00:13:01Z",
+  "pushed_at": "2023-11-22T01:15:49Z",
   "git_url": "git://github.com/AssemblyScript/assemblyscript.git",
   "ssh_url": "git@github.com:AssemblyScript/assemblyscript.git",
   "clone_url": "https://github.com/AssemblyScript/assemblyscript.git",
   "svn_url": "https://github.com/AssemblyScript/assemblyscript",
   "homepage": "https://www.assemblyscript.org",
-  "size": 163436,
-  "stargazers_count": 16050,
-  "watchers_count": 16050,
+  "size": 163451,
+  "stargazers_count": 16056,
+  "watchers_count": 16056,
   "language": "WebAssembly",
   "has_issues": true,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 667,
   "open_issues": 195,
-  "watchers": 16050,
+  "watchers": 16056,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1954
+  "_index": 1955
 }
