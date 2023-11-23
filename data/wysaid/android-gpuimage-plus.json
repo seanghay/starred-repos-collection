@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/wysaid/android-gpuimage-plus/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wysaid/android-gpuimage-plus/deployments",
   "created_at": "2015-11-20T07:47:36Z",
-  "updated_at": "2023-11-12T04:15:15Z",
-  "pushed_at": "2023-11-21T08:41:31Z",
+  "updated_at": "2023-11-22T15:12:55Z",
+  "pushed_at": "2023-11-22T17:15:15Z",
   "git_url": "git://github.com/wysaid/android-gpuimage-plus.git",
   "ssh_url": "git@github.com:wysaid/android-gpuimage-plus.git",
   "clone_url": "https://github.com/wysaid/android-gpuimage-plus.git",
   "svn_url": "https://github.com/wysaid/android-gpuimage-plus",
   "homepage": "",
   "size": 120384,
-  "stargazers_count": 1727,
-  "watchers_count": 1727,
+  "stargazers_count": 1728,
+  "watchers_count": 1728,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 472,
   "open_issues": 319,
-  "watchers": 1727,
+  "watchers": 1728,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2949
+  "_index": 2952
 }

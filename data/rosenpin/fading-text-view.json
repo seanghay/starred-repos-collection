@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/rosenpin/fading-text-view/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rosenpin/fading-text-view/deployments",
   "created_at": "2016-12-08T17:30:56Z",
-  "updated_at": "2023-11-12T13:26:53Z",
+  "updated_at": "2023-11-22T05:20:28Z",
   "pushed_at": "2023-11-15T11:29:34Z",
   "git_url": "git://github.com/rosenpin/fading-text-view.git",
   "ssh_url": "git@github.com:rosenpin/fading-text-view.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/rosenpin/fading-text-view",
   "homepage": "",
   "size": 986,
-  "stargazers_count": 1729,
-  "watchers_count": 1729,
+  "stargazers_count": 1730,
+  "watchers_count": 1730,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -100,7 +100,7 @@
   "visibility": "public",
   "forks": 226,
   "open_issues": 3,
-  "watchers": 1729,
+  "watchers": 1730,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2682
+  "_index": 2685
 }

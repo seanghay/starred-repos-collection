@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/nolanlawson/emoji-picker-element/deployments",
   "created_at": "2020-05-07T03:17:18Z",
   "updated_at": "2023-11-12T11:54:25Z",
-  "pushed_at": "2023-11-21T15:53:18Z",
+  "pushed_at": "2023-11-22T22:45:36Z",
   "git_url": "git://github.com/nolanlawson/emoji-picker-element.git",
   "ssh_url": "git@github.com:nolanlawson/emoji-picker-element.git",
   "clone_url": "https://github.com/nolanlawson/emoji-picker-element.git",
   "svn_url": "https://github.com/nolanlawson/emoji-picker-element",
   "homepage": "https://nolanlawson.github.io/emoji-picker-element/",
-  "size": 5514,
+  "size": 5525,
   "stargazers_count": 1091,
   "watchers_count": 1091,
   "language": "JavaScript",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 74,
+  "forks_count": 75,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 21,
+  "open_issues_count": 23,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -105,8 +105,8 @@
     "web-components"
   ],
   "visibility": "public",
-  "forks": 74,
-  "open_issues": 21,
+  "forks": 75,
+  "open_issues": 23,
   "watchers": 1091,
   "default_branch": "master",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2067
+  "_index": 2070
 }

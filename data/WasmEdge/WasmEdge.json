@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/WasmEdge/WasmEdge/releases{/id}",
   "deployments_url": "https://api.github.com/repos/WasmEdge/WasmEdge/deployments",
   "created_at": "2019-11-29T19:00:17Z",
-  "updated_at": "2023-11-22T00:10:54Z",
-  "pushed_at": "2023-11-22T00:49:38Z",
+  "updated_at": "2023-11-23T01:35:15Z",
+  "pushed_at": "2023-11-22T22:52:03Z",
   "git_url": "git://github.com/WasmEdge/WasmEdge.git",
   "ssh_url": "git@github.com:WasmEdge/WasmEdge.git",
   "clone_url": "https://github.com/WasmEdge/WasmEdge.git",
   "svn_url": "https://github.com/WasmEdge/WasmEdge",
   "homepage": "https://WasmEdge.org",
-  "size": 21442,
-  "stargazers_count": 7069,
-  "watchers_count": 7069,
+  "size": 21440,
+  "stargazers_count": 7076,
+  "watchers_count": 7076,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 634,
+  "forks_count": 635,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -115,9 +115,9 @@
     "webassembly"
   ],
   "visibility": "public",
-  "forks": 634,
+  "forks": 635,
   "open_issues": 272,
-  "watchers": 7069,
+  "watchers": 7076,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 934
+  "_index": 937
 }

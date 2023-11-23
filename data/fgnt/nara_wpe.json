@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fgnt/nara_wpe/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fgnt/nara_wpe/deployments",
   "created_at": "2017-10-26T08:19:07Z",
-  "updated_at": "2023-11-21T17:50:07Z",
+  "updated_at": "2023-11-22T13:20:23Z",
   "pushed_at": "2023-03-16T04:10:31Z",
   "git_url": "git://github.com/fgnt/nara_wpe.git",
   "ssh_url": "git@github.com:fgnt/nara_wpe.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/fgnt/nara_wpe",
   "homepage": null,
   "size": 4015,
-  "stargazers_count": 427,
-  "watchers_count": 427,
+  "stargazers_count": 429,
+  "watchers_count": 429,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 162,
   "open_issues": 11,
-  "watchers": 427,
+  "watchers": 429,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 360
+  "_index": 363
 }

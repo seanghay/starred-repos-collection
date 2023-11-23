@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/steven-tey/novel/releases{/id}",
   "deployments_url": "https://api.github.com/repos/steven-tey/novel/deployments",
   "created_at": "2023-03-21T21:14:33Z",
-  "updated_at": "2023-11-22T00:24:38Z",
+  "updated_at": "2023-11-23T01:34:24Z",
   "pushed_at": "2023-11-18T05:37:49Z",
   "git_url": "git://github.com/steven-tey/novel.git",
   "ssh_url": "git@github.com:steven-tey/novel.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/steven-tey/novel",
   "homepage": "https://novel.sh",
   "size": 90868,
-  "stargazers_count": 9260,
-  "watchers_count": 9260,
+  "stargazers_count": 9272,
+  "watchers_count": 9272,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 78,
+  "open_issues_count": 79,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -109,8 +109,8 @@
   ],
   "visibility": "public",
   "forks": 852,
-  "open_issues": 78,
-  "watchers": 9260,
+  "open_issues": 79,
+  "watchers": 9272,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 190
+  "_index": 193
 }

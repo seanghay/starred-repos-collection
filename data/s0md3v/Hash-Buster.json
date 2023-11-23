@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/s0md3v/Hash-Buster/releases{/id}",
   "deployments_url": "https://api.github.com/repos/s0md3v/Hash-Buster/deployments",
   "created_at": "2017-07-03T17:28:51Z",
-  "updated_at": "2023-11-21T20:46:04Z",
+  "updated_at": "2023-11-22T18:37:24Z",
   "pushed_at": "2023-04-11T09:43:06Z",
   "git_url": "git://github.com/s0md3v/Hash-Buster.git",
   "ssh_url": "git@github.com:s0md3v/Hash-Buster.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/s0md3v/Hash-Buster",
   "homepage": "",
   "size": 46,
-  "stargazers_count": 1568,
-  "watchers_count": 1568,
+  "stargazers_count": 1574,
+  "watchers_count": 1574,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 395,
+  "forks_count": 396,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,9 +110,9 @@
     "sha512"
   ],
   "visibility": "public",
-  "forks": 395,
+  "forks": 396,
   "open_issues": 22,
-  "watchers": 1568,
+  "watchers": 1574,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1626
+  "_index": 1629
 }

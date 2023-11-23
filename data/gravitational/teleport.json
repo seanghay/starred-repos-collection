@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/gravitational/teleport/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gravitational/teleport/deployments",
   "created_at": "2015-03-02T19:36:00Z",
-  "updated_at": "2023-11-22T01:15:07Z",
-  "pushed_at": "2023-11-22T01:32:22Z",
+  "updated_at": "2023-11-22T23:58:55Z",
+  "pushed_at": "2023-11-23T01:35:45Z",
   "git_url": "git://github.com/gravitational/teleport.git",
   "ssh_url": "git@github.com:gravitational/teleport.git",
   "clone_url": "https://github.com/gravitational/teleport.git",
   "svn_url": "https://github.com/gravitational/teleport",
   "homepage": "https://goteleport.com",
-  "size": 607359,
-  "stargazers_count": 15407,
-  "watchers_count": 15407,
+  "size": 607890,
+  "stargazers_count": 15413,
+  "watchers_count": 15413,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2388,
+  "open_issues_count": 2397,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -121,8 +121,8 @@
   ],
   "visibility": "public",
   "forks": 1607,
-  "open_issues": 2388,
-  "watchers": 15407,
+  "open_issues": 2397,
+  "watchers": 15413,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1506
+  "_index": 1509
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mwilliamson/mammoth.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mwilliamson/mammoth.js/deployments",
   "created_at": "2013-03-29T21:41:02Z",
-  "updated_at": "2023-11-21T09:26:07Z",
+  "updated_at": "2023-11-22T13:26:15Z",
   "pushed_at": "2023-11-13T23:21:37Z",
   "git_url": "git://github.com/mwilliamson/mammoth.js.git",
   "ssh_url": "git@github.com:mwilliamson/mammoth.js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mwilliamson/mammoth.js",
   "homepage": "",
   "size": 1339,
-  "stargazers_count": 4370,
-  "watchers_count": 4370,
+  "stargazers_count": 4372,
+  "watchers_count": 4372,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 47,
+  "open_issues_count": 48,
   "license": {
     "key": "bsd-2-clause",
     "name": "BSD 2-Clause \"Simplified\" License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 518,
-  "open_issues": 47,
-  "watchers": 4370,
+  "open_issues": 48,
+  "watchers": 4372,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 359
+  "_index": 362
 }

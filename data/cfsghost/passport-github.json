@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/cfsghost/passport-github/releases{/id}",
   "deployments_url": "https://api.github.com/repos/cfsghost/passport-github/deployments",
   "created_at": "2014-08-23T22:44:36Z",
-  "updated_at": "2023-11-20T05:25:33Z",
+  "updated_at": "2023-11-22T16:09:59Z",
   "pushed_at": "2023-11-20T04:11:47Z",
   "git_url": "git://github.com/cfsghost/passport-github.git",
   "ssh_url": "git@github.com:cfsghost/passport-github.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/cfsghost/passport-github",
   "homepage": "",
   "size": 67,
-  "stargazers_count": 237,
-  "watchers_count": 237,
+  "stargazers_count": 236,
+  "watchers_count": 236,
   "language": "JavaScript",
   "has_issues": false,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 106,
   "open_issues": 2,
-  "watchers": 237,
+  "watchers": 236,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1270
+  "_index": 1273
 }

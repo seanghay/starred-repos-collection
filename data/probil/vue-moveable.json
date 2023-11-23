@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/probil/vue-moveable/releases{/id}",
   "deployments_url": "https://api.github.com/repos/probil/vue-moveable/deployments",
   "created_at": "2019-07-28T23:08:10Z",
-  "updated_at": "2023-11-15T02:21:32Z",
+  "updated_at": "2023-11-22T09:16:35Z",
   "pushed_at": "2021-11-09T12:52:30Z",
   "git_url": "git://github.com/probil/vue-moveable.git",
   "ssh_url": "git@github.com:probil/vue-moveable.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/probil/vue-moveable",
   "homepage": "https://vue-moveable.netlify.com/",
   "size": 5562,
-  "stargazers_count": 963,
-  "watchers_count": 963,
+  "stargazers_count": 964,
+  "watchers_count": 964,
   "language": "Vue",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 69,
   "open_issues": 46,
-  "watchers": 963,
+  "watchers": 964,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2232
+  "_index": 2235
 }

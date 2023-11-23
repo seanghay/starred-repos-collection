@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/zhou-you/EasyXRecyclerView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/zhou-you/EasyXRecyclerView/deployments",
   "created_at": "2018-04-11T11:49:16Z",
-  "updated_at": "2023-10-25T16:11:25Z",
+  "updated_at": "2023-11-22T03:17:54Z",
   "pushed_at": "2019-12-02T03:11:44Z",
   "git_url": "git://github.com/zhou-you/EasyXRecyclerView.git",
   "ssh_url": "git@github.com:zhou-you/EasyXRecyclerView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/zhou-you/EasyXRecyclerView",
   "homepage": "",
   "size": 74573,
-  "stargazers_count": 625,
-  "watchers_count": 625,
+  "stargazers_count": 626,
+  "watchers_count": 626,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -103,7 +103,7 @@
   "visibility": "public",
   "forks": 118,
   "open_issues": 5,
-  "watchers": 625,
+  "watchers": 626,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2391
+  "_index": 2394
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/faressoft/terminalizer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/faressoft/terminalizer/deployments",
   "created_at": "2018-07-22T16:00:15Z",
-  "updated_at": "2023-11-21T20:07:05Z",
-  "pushed_at": "2023-10-06T01:55:20Z",
+  "updated_at": "2023-11-22T20:01:07Z",
+  "pushed_at": "2023-11-22T15:21:51Z",
   "git_url": "git://github.com/faressoft/terminalizer.git",
   "ssh_url": "git@github.com:faressoft/terminalizer.git",
   "clone_url": "https://github.com/faressoft/terminalizer.git",
   "svn_url": "https://github.com/faressoft/terminalizer",
   "homepage": "https://terminalizer.com",
   "size": 3991,
-  "stargazers_count": 14648,
-  "watchers_count": 14648,
+  "stargazers_count": 14650,
+  "watchers_count": 14650,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 508,
+  "forks_count": 509,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 95,
+  "open_issues_count": 97,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -120,9 +120,9 @@
     "zsh"
   ],
   "visibility": "public",
-  "forks": 508,
-  "open_issues": 95,
-  "watchers": 14648,
+  "forks": 509,
+  "open_issues": 97,
+  "watchers": 14650,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3051
+  "_index": 3054
 }

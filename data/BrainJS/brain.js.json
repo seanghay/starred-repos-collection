@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/BrainJS/brain.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/BrainJS/brain.js/deployments",
   "created_at": "2016-02-13T18:09:44Z",
-  "updated_at": "2023-11-21T16:26:24Z",
+  "updated_at": "2023-11-22T21:24:54Z",
   "pushed_at": "2023-07-24T12:17:00Z",
   "git_url": "git://github.com/BrainJS/brain.js.git",
   "ssh_url": "git@github.com:BrainJS/brain.js.git",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3221
+  "_index": 3224
 }
