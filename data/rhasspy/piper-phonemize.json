@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/rhasspy/piper-phonemize/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rhasspy/piper-phonemize/deployments",
   "created_at": "2023-06-06T21:39:58Z",
-  "updated_at": "2023-11-22T16:36:04Z",
+  "updated_at": "2023-11-23T20:59:12Z",
   "pushed_at": "2023-11-14T17:54:51Z",
   "git_url": "git://github.com/rhasspy/piper-phonemize.git",
   "ssh_url": "git@github.com:rhasspy/piper-phonemize.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/rhasspy/piper-phonemize",
   "homepage": null,
   "size": 9620,
-  "stargazers_count": 26,
-  "watchers_count": 26,
+  "stargazers_count": 27,
+  "watchers_count": 27,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 11,
   "open_issues": 10,
-  "watchers": 26,
+  "watchers": 27,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 110
+  "_index": 117
 }

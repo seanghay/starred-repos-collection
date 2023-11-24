@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/github/branch-deploy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/github/branch-deploy/deployments",
   "created_at": "2022-04-28T13:51:25Z",
-  "updated_at": "2023-11-16T15:40:19Z",
+  "updated_at": "2023-11-23T17:18:37Z",
   "pushed_at": "2023-11-02T21:19:27Z",
   "git_url": "git://github.com/github/branch-deploy.git",
   "ssh_url": "git@github.com:github/branch-deploy.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/github/branch-deploy",
   "homepage": "https://github.com/marketplace/actions/branch-deploy",
   "size": 6978,
-  "stargazers_count": 272,
-  "watchers_count": 272,
+  "stargazers_count": 273,
+  "watchers_count": 273,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -114,7 +114,7 @@
   "visibility": "public",
   "forks": 44,
   "open_issues": 2,
-  "watchers": 272,
+  "watchers": 273,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 806
+  "_index": 813
 }

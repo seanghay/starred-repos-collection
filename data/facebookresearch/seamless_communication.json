@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/facebookresearch/seamless_communication/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookresearch/seamless_communication/deployments",
   "created_at": "2023-08-01T20:36:21Z",
-  "updated_at": "2023-11-22T20:52:15Z",
+  "updated_at": "2023-11-23T20:57:27Z",
   "pushed_at": "2023-11-16T00:43:27Z",
   "git_url": "git://github.com/facebookresearch/seamless_communication.git",
   "ssh_url": "git@github.com:facebookresearch/seamless_communication.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/facebookresearch/seamless_communication",
   "homepage": null,
   "size": 565,
-  "stargazers_count": 5844,
-  "watchers_count": 5844,
+  "stargazers_count": 5850,
+  "watchers_count": 5850,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 513,
+  "forks_count": 514,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 513,
+  "forks": 514,
   "open_issues": 90,
-  "watchers": 5844,
+  "watchers": 5850,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 264
+  "_index": 271
 }

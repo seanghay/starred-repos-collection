@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/basecamp/kamal/releases{/id}",
   "deployments_url": "https://api.github.com/repos/basecamp/kamal/deployments",
   "created_at": "2023-01-07T14:32:08Z",
-  "updated_at": "2023-11-22T23:20:24Z",
-  "pushed_at": "2023-11-22T18:39:35Z",
+  "updated_at": "2023-11-23T20:59:59Z",
+  "pushed_at": "2023-11-23T09:22:39Z",
   "git_url": "git://github.com/basecamp/kamal.git",
   "ssh_url": "git@github.com:basecamp/kamal.git",
   "clone_url": "https://github.com/basecamp/kamal.git",
   "svn_url": "https://github.com/basecamp/kamal",
   "homepage": "https://kamal-deploy.org",
-  "size": 1156,
-  "stargazers_count": 7875,
-  "watchers_count": 7875,
+  "size": 1157,
+  "stargazers_count": 7878,
+  "watchers_count": 7878,
   "language": "Ruby",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 281,
   "open_issues": 74,
-  "watchers": 7875,
+  "watchers": 7878,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 65
+  "_index": 72
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sooftware/conformer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sooftware/conformer/deployments",
   "created_at": "2021-01-21T15:57:20Z",
-  "updated_at": "2023-11-22T03:03:40Z",
+  "updated_at": "2023-11-23T12:24:07Z",
   "pushed_at": "2023-07-13T05:02:15Z",
   "git_url": "git://github.com/sooftware/conformer.git",
   "ssh_url": "git@github.com:sooftware/conformer.git",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 667
+  "_index": 674
 }

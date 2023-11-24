@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/paradedb/paradedb/releases{/id}",
   "deployments_url": "https://api.github.com/repos/paradedb/paradedb/deployments",
   "created_at": "2023-06-30T20:21:47Z",
-  "updated_at": "2023-11-22T19:52:20Z",
-  "pushed_at": "2023-11-22T22:50:27Z",
+  "updated_at": "2023-11-23T20:33:10Z",
+  "pushed_at": "2023-11-23T21:20:49Z",
   "git_url": "git://github.com/paradedb/paradedb.git",
   "ssh_url": "git@github.com:paradedb/paradedb.git",
   "clone_url": "https://github.com/paradedb/paradedb.git",
   "svn_url": "https://github.com/paradedb/paradedb",
   "homepage": "https://paradedb.com",
-  "size": 3233,
-  "stargazers_count": 1707,
-  "watchers_count": 1707,
+  "size": 3286,
+  "stargazers_count": 1709,
+  "watchers_count": 1709,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 47,
+  "forks_count": 48,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 37,
+  "open_issues_count": 39,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -120,9 +120,9 @@
     "vectors"
   ],
   "visibility": "public",
-  "forks": 47,
-  "open_issues": 37,
-  "watchers": 1707,
+  "forks": 48,
+  "open_issues": 39,
+  "watchers": 1709,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 68
+  "_index": 75
 }

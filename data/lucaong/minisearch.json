@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lucaong/minisearch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lucaong/minisearch/deployments",
   "created_at": "2018-09-17T15:13:16Z",
-  "updated_at": "2023-11-23T00:34:01Z",
+  "updated_at": "2023-11-23T12:32:33Z",
   "pushed_at": "2023-11-22T13:57:38Z",
   "git_url": "git://github.com/lucaong/minisearch.git",
   "ssh_url": "git@github.com:lucaong/minisearch.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lucaong/minisearch",
   "homepage": "https://lucaong.github.io/minisearch/",
   "size": 5702,
-  "stargazers_count": 3537,
-  "watchers_count": 3537,
+  "stargazers_count": 3538,
+  "watchers_count": 3538,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 104,
   "open_issues": 5,
-  "watchers": 3537,
+  "watchers": 3538,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 446
+  "_index": 453
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/OpenInstituteCambodia/open-khmer-school/releases{/id}",
   "deployments_url": "https://api.github.com/repos/OpenInstituteCambodia/open-khmer-school/deployments",
   "created_at": "2019-02-27T07:00:34Z",
-  "updated_at": "2023-09-27T18:40:47Z",
+  "updated_at": "2023-11-23T03:45:59Z",
   "pushed_at": "2023-02-11T09:45:31Z",
   "git_url": "git://github.com/OpenInstituteCambodia/open-khmer-school.git",
   "ssh_url": "git@github.com:OpenInstituteCambodia/open-khmer-school.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/OpenInstituteCambodia/open-khmer-school",
   "homepage": null,
   "size": 586,
-  "stargazers_count": 25,
-  "watchers_count": 25,
+  "stargazers_count": 26,
+  "watchers_count": 26,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 5,
   "open_issues": 1,
-  "watchers": 25,
+  "watchers": 26,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 117
+  "_index": 124
 }

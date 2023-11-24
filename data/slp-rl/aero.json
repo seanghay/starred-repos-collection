@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/slp-rl/aero/releases{/id}",
   "deployments_url": "https://api.github.com/repos/slp-rl/aero/deployments",
   "created_at": "2022-11-22T11:48:37Z",
-  "updated_at": "2023-11-16T08:43:47Z",
+  "updated_at": "2023-11-23T02:03:36Z",
   "pushed_at": "2023-08-02T17:49:48Z",
   "git_url": "git://github.com/slp-rl/aero.git",
   "ssh_url": "git@github.com:slp-rl/aero.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/slp-rl/aero",
   "homepage": "",
   "size": 167221,
-  "stargazers_count": 126,
-  "watchers_count": 126,
+  "stargazers_count": 127,
+  "watchers_count": 127,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 4,
+  "open_issues_count": 5,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,8 +108,8 @@
   ],
   "visibility": "public",
   "forks": 16,
-  "open_issues": 4,
-  "watchers": 126,
+  "open_issues": 5,
+  "watchers": 127,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 234
+  "_index": 241
 }

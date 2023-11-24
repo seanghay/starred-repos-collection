@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/florent37/ShapeOfView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/florent37/ShapeOfView/deployments",
   "created_at": "2018-02-18T12:14:06Z",
-  "updated_at": "2023-11-22T13:58:29Z",
+  "updated_at": "2023-11-23T11:32:29Z",
   "pushed_at": "2021-04-22T22:31:09Z",
   "git_url": "git://github.com/florent37/ShapeOfView.git",
   "ssh_url": "git@github.com:florent37/ShapeOfView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/florent37/ShapeOfView",
   "homepage": "",
   "size": 14176,
-  "stargazers_count": 3090,
-  "watchers_count": 3090,
+  "stargazers_count": 3091,
+  "watchers_count": 3091,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 405,
   "open_issues": 48,
-  "watchers": 3090,
+  "watchers": 3091,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2663
+  "_index": 2670
 }

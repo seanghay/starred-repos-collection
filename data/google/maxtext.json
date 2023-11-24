@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/maxtext/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/maxtext/deployments",
   "created_at": "2023-02-28T19:47:29Z",
-  "updated_at": "2023-11-22T05:54:26Z",
+  "updated_at": "2023-11-24T00:53:57Z",
   "pushed_at": "2023-11-22T23:00:34Z",
   "git_url": "git://github.com/google/maxtext.git",
   "ssh_url": "git@github.com:google/maxtext.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/maxtext",
   "homepage": "",
   "size": 2888,
-  "stargazers_count": 451,
-  "watchers_count": 451,
+  "stargazers_count": 458,
+  "watchers_count": 458,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 50,
+  "forks_count": 49,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,9 +103,9 @@
     "llm"
   ],
   "visibility": "public",
-  "forks": 50,
+  "forks": 49,
   "open_issues": 19,
-  "watchers": 451,
+  "watchers": 458,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 582
+  "_index": 589
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/liabru/matter-js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/liabru/matter-js/deployments",
   "created_at": "2014-02-19T14:16:17Z",
-  "updated_at": "2023-11-22T22:32:53Z",
+  "updated_at": "2023-11-23T13:14:12Z",
   "pushed_at": "2023-11-14T21:08:02Z",
   "git_url": "git://github.com/liabru/matter-js.git",
   "ssh_url": "git@github.com:liabru/matter-js.git",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 361
+  "_index": 368
 }
