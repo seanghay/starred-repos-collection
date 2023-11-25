@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/vercel/next.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vercel/next.js/deployments",
   "created_at": "2016-10-05T23:32:51Z",
-  "updated_at": "2023-11-24T01:33:35Z",
-  "pushed_at": "2023-11-23T23:22:50Z",
+  "updated_at": "2023-11-25T01:30:03Z",
+  "pushed_at": "2023-11-24T23:21:40Z",
   "git_url": "git://github.com/vercel/next.js.git",
   "ssh_url": "git@github.com:vercel/next.js.git",
   "clone_url": "https://github.com/vercel/next.js.git",
   "svn_url": "https://github.com/vercel/next.js",
   "homepage": "https://nextjs.org",
-  "size": 1890962,
-  "stargazers_count": 114940,
-  "watchers_count": 114940,
+  "size": 1890895,
+  "stargazers_count": 114977,
+  "watchers_count": 114977,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 25243,
+  "forks_count": 25252,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2805,
+  "open_issues_count": 2819,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -114,9 +114,9 @@
     "vercel"
   ],
   "visibility": "public",
-  "forks": 25243,
-  "open_issues": 2805,
-  "watchers": 114940,
+  "forks": 25252,
+  "open_issues": 2819,
+  "watchers": 114977,
   "default_branch": "canary",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1359
+  "_index": 1362
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/detly/gammatone/releases{/id}",
   "deployments_url": "https://api.github.com/repos/detly/gammatone/deployments",
   "created_at": "2014-04-19T01:31:35Z",
-  "updated_at": "2023-11-08T02:32:37Z",
+  "updated_at": "2023-11-24T19:14:12Z",
   "pushed_at": "2023-06-29T13:35:08Z",
   "git_url": "git://github.com/detly/gammatone.git",
   "ssh_url": "git@github.com:detly/gammatone.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/detly/gammatone",
   "homepage": null,
   "size": 60223,
-  "stargazers_count": 204,
-  "watchers_count": 204,
+  "stargazers_count": 203,
+  "watchers_count": 203,
   "language": "Matlab",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 64,
   "open_issues": 11,
-  "watchers": 204,
+  "watchers": 203,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 394
+  "_index": 397
 }

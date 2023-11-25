@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Automattic/mongoose/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Automattic/mongoose/deployments",
   "created_at": "2010-04-06T21:39:05Z",
-  "updated_at": "2023-11-24T01:27:12Z",
-  "pushed_at": "2023-11-23T17:30:20Z",
+  "updated_at": "2023-11-24T22:30:27Z",
+  "pushed_at": "2023-11-24T17:36:05Z",
   "git_url": "git://github.com/Automattic/mongoose.git",
   "ssh_url": "git@github.com:Automattic/mongoose.git",
   "clone_url": "https://github.com/Automattic/mongoose.git",
   "svn_url": "https://github.com/Automattic/mongoose",
   "homepage": "https://mongoosejs.com",
-  "size": 117138,
-  "stargazers_count": 26197,
-  "watchers_count": 26197,
+  "size": 117264,
+  "stargazers_count": 26195,
+  "watchers_count": 26195,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 3799,
+  "forks_count": 3798,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "orm"
   ],
   "visibility": "public",
-  "forks": 3799,
+  "forks": 3798,
   "open_issues": 268,
-  "watchers": 26197,
+  "watchers": 26195,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1938
+  "_index": 1941
 }

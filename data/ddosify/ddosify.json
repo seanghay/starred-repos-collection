@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ddosify/ddosify/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ddosify/ddosify/deployments",
   "created_at": "2021-08-04T07:43:53Z",
-  "updated_at": "2023-11-23T19:47:30Z",
-  "pushed_at": "2023-11-24T00:42:26Z",
+  "updated_at": "2023-11-24T20:17:01Z",
+  "pushed_at": "2023-11-24T07:47:26Z",
   "git_url": "git://github.com/ddosify/ddosify.git",
   "ssh_url": "git@github.com:ddosify/ddosify.git",
   "clone_url": "https://github.com/ddosify/ddosify.git",
   "svn_url": "https://github.com/ddosify/ddosify",
   "homepage": "https://ddosify.com",
-  "size": 2285,
-  "stargazers_count": 7959,
-  "watchers_count": 7959,
+  "size": 4413,
+  "stargazers_count": 7958,
+  "watchers_count": 7958,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 363,
   "open_issues": 25,
-  "watchers": 7959,
+  "watchers": 7958,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 29
+  "_index": 32
 }

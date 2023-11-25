@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/speechio/chinese_text_normalization/releases{/id}",
   "deployments_url": "https://api.github.com/repos/speechio/chinese_text_normalization/deployments",
   "created_at": "2019-09-22T04:17:07Z",
-  "updated_at": "2023-11-21T01:19:53Z",
+  "updated_at": "2023-11-24T19:54:40Z",
   "pushed_at": "2023-03-18T09:43:18Z",
   "git_url": "git://github.com/speechio/chinese_text_normalization.git",
   "ssh_url": "git@github.com:speechio/chinese_text_normalization.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/speechio/chinese_text_normalization",
   "homepage": null,
   "size": 940,
-  "stargazers_count": 558,
-  "watchers_count": 558,
+  "stargazers_count": 557,
+  "watchers_count": 557,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 135,
   "open_issues": 4,
-  "watchers": 558,
+  "watchers": 557,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 239
+  "_index": 242
 }

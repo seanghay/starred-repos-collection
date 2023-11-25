@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/AI4Bharat/indicnlp_catalog/releases{/id}",
   "deployments_url": "https://api.github.com/repos/AI4Bharat/indicnlp_catalog/deployments",
   "created_at": "2019-08-29T09:14:43Z",
-  "updated_at": "2023-11-16T16:59:15Z",
+  "updated_at": "2023-11-24T19:53:58Z",
   "pushed_at": "2023-09-27T08:03:57Z",
   "git_url": "git://github.com/AI4Bharat/indicnlp_catalog.git",
   "ssh_url": "git@github.com:AI4Bharat/indicnlp_catalog.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 345
+  "_index": 348
 }

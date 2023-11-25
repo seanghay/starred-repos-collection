@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/audiojs/audio-decode.git",
   "svn_url": "https://github.com/audiojs/audio-decode",
   "homepage": "",
-  "size": 268,
+  "size": 287,
   "stargazers_count": 126,
   "watchers_count": 126,
   "language": "JavaScript",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 730
+  "_index": 733
 }

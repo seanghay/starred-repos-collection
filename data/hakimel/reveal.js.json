@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/hakimel/reveal.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hakimel/reveal.js/deployments",
   "created_at": "2011-06-07T18:54:22Z",
-  "updated_at": "2023-11-24T01:27:49Z",
-  "pushed_at": "2023-11-23T13:13:20Z",
+  "updated_at": "2023-11-25T01:33:59Z",
+  "pushed_at": "2023-11-24T09:43:06Z",
   "git_url": "git://github.com/hakimel/reveal.js.git",
   "ssh_url": "git@github.com:hakimel/reveal.js.git",
   "clone_url": "https://github.com/hakimel/reveal.js.git",
   "svn_url": "https://github.com/hakimel/reveal.js",
   "homepage": "https://revealjs.com",
-  "size": 23202,
-  "stargazers_count": 65901,
-  "watchers_count": 65901,
+  "size": 23658,
+  "stargazers_count": 65919,
+  "watchers_count": 65919,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 759,
+  "open_issues_count": 760,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,8 +104,8 @@
   ],
   "visibility": "public",
   "forks": 16893,
-  "open_issues": 759,
-  "watchers": 65901,
+  "open_issues": 760,
+  "watchers": 65919,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1143
+  "_index": 1146
 }

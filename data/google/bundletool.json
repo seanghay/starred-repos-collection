@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/bundletool/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/bundletool/deployments",
   "created_at": "2018-05-04T07:24:09Z",
-  "updated_at": "2023-11-24T01:13:24Z",
+  "updated_at": "2023-11-24T19:39:39Z",
   "pushed_at": "2023-11-07T17:50:21Z",
   "git_url": "git://github.com/google/bundletool.git",
   "ssh_url": "git@github.com:google/bundletool.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2798
+  "_index": 2801
 }

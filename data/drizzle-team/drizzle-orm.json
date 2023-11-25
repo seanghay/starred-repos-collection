@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/deployments",
   "created_at": "2021-06-24T09:03:05Z",
-  "updated_at": "2023-11-23T23:48:52Z",
-  "pushed_at": "2023-11-23T12:41:49Z",
+  "updated_at": "2023-11-25T00:22:44Z",
+  "pushed_at": "2023-11-24T10:48:27Z",
   "git_url": "git://github.com/drizzle-team/drizzle-orm.git",
   "ssh_url": "git@github.com:drizzle-team/drizzle-orm.git",
   "clone_url": "https://github.com/drizzle-team/drizzle-orm.git",
   "svn_url": "https://github.com/drizzle-team/drizzle-orm",
   "homepage": "https://orm.drizzle.team",
   "size": 23392,
-  "stargazers_count": 15063,
-  "watchers_count": 15063,
+  "stargazers_count": 15082,
+  "watchers_count": 15082,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -121,7 +121,7 @@
   "visibility": "public",
   "forks": 315,
   "open_issues": 588,
-  "watchers": 15063,
+  "watchers": 15082,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 576
+  "_index": 579
 }

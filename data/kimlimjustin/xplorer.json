@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kimlimjustin/xplorer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kimlimjustin/xplorer/deployments",
   "created_at": "2021-04-23T15:59:45Z",
-  "updated_at": "2023-11-23T19:26:00Z",
+  "updated_at": "2023-11-24T23:27:18Z",
   "pushed_at": "2023-10-19T11:42:57Z",
   "git_url": "git://github.com/kimlimjustin/xplorer.git",
   "ssh_url": "git@github.com:kimlimjustin/xplorer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/kimlimjustin/xplorer",
   "homepage": "https://xplorer.space",
   "size": 21948,
-  "stargazers_count": 3422,
-  "watchers_count": 3422,
+  "stargazers_count": 3424,
+  "watchers_count": 3424,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 271,
   "open_issues": 15,
-  "watchers": 3422,
+  "watchers": 3424,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 623
+  "_index": 626
 }

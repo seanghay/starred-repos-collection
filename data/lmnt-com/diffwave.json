@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lmnt-com/diffwave/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lmnt-com/diffwave/deployments",
   "created_at": "2020-09-23T03:50:07Z",
-  "updated_at": "2023-11-23T02:35:22Z",
+  "updated_at": "2023-11-24T20:07:16Z",
   "pushed_at": "2023-07-18T01:28:06Z",
   "git_url": "git://github.com/lmnt-com/diffwave.git",
   "ssh_url": "git@github.com:lmnt-com/diffwave.git",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 414
+  "_index": 417
 }

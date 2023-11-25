@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/omertov/encoder4editing/releases{/id}",
   "deployments_url": "https://api.github.com/repos/omertov/encoder4editing/deployments",
   "created_at": "2021-02-04T14:42:38Z",
-  "updated_at": "2023-11-24T01:25:54Z",
+  "updated_at": "2023-11-24T20:11:19Z",
   "pushed_at": "2023-07-15T00:35:18Z",
   "git_url": "git://github.com/omertov/encoder4editing.git",
   "ssh_url": "git@github.com:omertov/encoder4editing.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/omertov/encoder4editing",
   "homepage": "",
   "size": 34247,
-  "stargazers_count": 873,
-  "watchers_count": 873,
+  "stargazers_count": 872,
+  "watchers_count": 872,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 153,
   "open_issues": 27,
-  "watchers": 873,
+  "watchers": 872,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 103
+  "_index": 106
 }

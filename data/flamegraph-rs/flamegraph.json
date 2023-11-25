@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/flamegraph-rs/flamegraph/releases{/id}",
   "deployments_url": "https://api.github.com/repos/flamegraph-rs/flamegraph/deployments",
   "created_at": "2019-03-07T16:31:30Z",
-  "updated_at": "2023-11-23T14:28:09Z",
-  "pushed_at": "2023-10-23T08:35:53Z",
+  "updated_at": "2023-11-24T19:48:22Z",
+  "pushed_at": "2023-11-24T13:52:19Z",
   "git_url": "git://github.com/flamegraph-rs/flamegraph.git",
   "ssh_url": "git@github.com:flamegraph-rs/flamegraph.git",
   "clone_url": "https://github.com/flamegraph-rs/flamegraph.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 128,
+  "forks_count": 129,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 55,
+  "open_issues_count": 56,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -103,8 +103,8 @@
     "profiling"
   ],
   "visibility": "public",
-  "forks": 128,
-  "open_issues": 55,
+  "forks": 129,
+  "open_issues": 56,
   "watchers": 3892,
   "default_branch": "main",
   "permissions": {
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1407
+  "_index": 1410
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yerfor/SyntaSpeech/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yerfor/SyntaSpeech/deployments",
   "created_at": "2022-05-12T12:45:57Z",
-  "updated_at": "2023-11-15T04:15:50Z",
+  "updated_at": "2023-11-24T20:25:11Z",
   "pushed_at": "2022-09-04T06:07:49Z",
   "git_url": "git://github.com/yerfor/SyntaSpeech.git",
   "ssh_url": "git@github.com:yerfor/SyntaSpeech.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yerfor/SyntaSpeech",
   "homepage": "",
   "size": 340,
-  "stargazers_count": 178,
-  "watchers_count": 178,
+  "stargazers_count": 177,
+  "watchers_count": 177,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 28,
   "open_issues": 6,
-  "watchers": 178,
+  "watchers": 177,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 466
+  "_index": 469
 }

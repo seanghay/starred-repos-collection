@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/hearsilent/DiscreteSlider/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hearsilent/DiscreteSlider/deployments",
   "created_at": "2019-04-10T12:23:43Z",
-  "updated_at": "2023-11-07T07:24:45Z",
+  "updated_at": "2023-11-24T19:49:37Z",
   "pushed_at": "2020-04-20T04:18:32Z",
   "git_url": "git://github.com/hearsilent/DiscreteSlider.git",
   "ssh_url": "git@github.com:hearsilent/DiscreteSlider.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/hearsilent/DiscreteSlider",
   "homepage": null,
   "size": 1587,
-  "stargazers_count": 356,
-  "watchers_count": 356,
+  "stargazers_count": 355,
+  "watchers_count": 355,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 23,
   "open_issues": 5,
-  "watchers": 356,
+  "watchers": 355,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1996
+  "_index": 1999
 }

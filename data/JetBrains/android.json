@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/JetBrains/android.git",
   "svn_url": "https://github.com/JetBrains/android",
   "homepage": "",
-  "size": 1474563,
+  "size": 1474781,
   "stargazers_count": 877,
   "watchers_count": 877,
   "language": "Kotlin",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1298
+  "_index": 1301
 }

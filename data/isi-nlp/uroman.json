@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/isi-nlp/uroman/releases{/id}",
   "deployments_url": "https://api.github.com/repos/isi-nlp/uroman/deployments",
   "created_at": "2018-06-27T22:12:23Z",
-  "updated_at": "2023-11-22T12:54:24Z",
+  "updated_at": "2023-11-24T19:41:06Z",
   "pushed_at": "2021-12-02T01:04:54Z",
   "git_url": "git://github.com/isi-nlp/uroman.git",
   "ssh_url": "git@github.com:isi-nlp/uroman.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 534
+  "_index": 537
 }

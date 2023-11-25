@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/neuspell/neuspell/releases{/id}",
   "deployments_url": "https://api.github.com/repos/neuspell/neuspell/deployments",
   "created_at": "2020-07-12T00:07:49Z",
-  "updated_at": "2023-11-12T19:35:44Z",
+  "updated_at": "2023-11-24T20:04:50Z",
   "pushed_at": "2023-07-31T10:52:01Z",
   "git_url": "git://github.com/neuspell/neuspell.git",
   "ssh_url": "git@github.com:neuspell/neuspell.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/neuspell/neuspell",
   "homepage": "",
   "size": 76363,
-  "stargazers_count": 611,
-  "watchers_count": 611,
+  "stargazers_count": 610,
+  "watchers_count": 610,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 94,
   "open_issues": 54,
-  "watchers": 611,
+  "watchers": 610,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 275
+  "_index": 278
 }

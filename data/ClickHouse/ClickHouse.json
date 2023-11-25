@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ClickHouse/ClickHouse/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ClickHouse/ClickHouse/deployments",
   "created_at": "2016-06-02T08:28:18Z",
-  "updated_at": "2023-11-23T23:36:02Z",
-  "pushed_at": "2023-11-24T01:12:17Z",
+  "updated_at": "2023-11-25T01:42:39Z",
+  "pushed_at": "2023-11-24T23:56:43Z",
   "git_url": "git://github.com/ClickHouse/ClickHouse.git",
   "ssh_url": "git@github.com:ClickHouse/ClickHouse.git",
   "clone_url": "https://github.com/ClickHouse/ClickHouse.git",
   "svn_url": "https://github.com/ClickHouse/ClickHouse",
   "homepage": "https://clickhouse.com",
-  "size": 1163199,
-  "stargazers_count": 31798,
-  "watchers_count": 31798,
+  "size": 1162417,
+  "stargazers_count": 31813,
+  "watchers_count": 31813,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 6266,
+  "forks_count": 6272,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 3522,
+  "open_issues_count": 3510,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -109,9 +109,9 @@
     "sql"
   ],
   "visibility": "public",
-  "forks": 6266,
-  "open_issues": 3522,
-  "watchers": 31798,
+  "forks": 6272,
+  "open_issues": 3510,
+  "watchers": 31813,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 91
+  "_index": 94
 }

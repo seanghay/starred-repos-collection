@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/marl/crepe/releases{/id}",
   "deployments_url": "https://api.github.com/repos/marl/crepe/deployments",
   "created_at": "2017-12-17T06:49:38Z",
-  "updated_at": "2023-11-20T19:43:42Z",
+  "updated_at": "2023-11-24T19:36:12Z",
   "pushed_at": "2023-09-18T21:59:15Z",
   "git_url": "git://github.com/marl/crepe.git",
   "ssh_url": "git@github.com:marl/crepe.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/marl/crepe",
   "homepage": "https://marl.github.io/crepe/",
   "size": 191939,
-  "stargazers_count": 969,
-  "watchers_count": 969,
+  "stargazers_count": 968,
+  "watchers_count": 968,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 150,
   "open_issues": 37,
-  "watchers": 969,
+  "watchers": 968,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 745
+  "_index": 748
 }

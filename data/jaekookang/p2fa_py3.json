@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jaekookang/p2fa_py3/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jaekookang/p2fa_py3/deployments",
   "created_at": "2018-03-09T02:57:39Z",
-  "updated_at": "2023-11-17T06:00:36Z",
+  "updated_at": "2023-11-24T19:38:09Z",
   "pushed_at": "2023-05-06T13:51:05Z",
   "git_url": "git://github.com/jaekookang/p2fa_py3.git",
   "ssh_url": "git@github.com:jaekookang/p2fa_py3.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jaekookang/p2fa_py3",
   "homepage": null,
   "size": 17983,
-  "stargazers_count": 91,
-  "watchers_count": 91,
+  "stargazers_count": 90,
+  "watchers_count": 90,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -99,7 +99,7 @@
   "visibility": "public",
   "forks": 20,
   "open_issues": 5,
-  "watchers": 91,
+  "watchers": 90,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -108,5 +108,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 598
+  "_index": 601
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pedromassango/titled_navigation_bar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pedromassango/titled_navigation_bar/deployments",
   "created_at": "2019-03-10T21:12:36Z",
-  "updated_at": "2023-11-16T13:58:08Z",
+  "updated_at": "2023-11-24T05:23:12Z",
   "pushed_at": "2021-11-30T15:57:39Z",
   "git_url": "git://github.com/pedromassango/titled_navigation_bar.git",
   "ssh_url": "git@github.com:pedromassango/titled_navigation_bar.git",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2627
+  "_index": 2630
 }

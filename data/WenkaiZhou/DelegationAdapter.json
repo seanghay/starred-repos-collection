@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/WenkaiZhou/DelegationAdapter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/WenkaiZhou/DelegationAdapter/deployments",
   "created_at": "2018-04-17T09:48:20Z",
-  "updated_at": "2023-11-07T06:53:35Z",
+  "updated_at": "2023-11-24T07:19:39Z",
   "pushed_at": "2022-09-30T05:54:25Z",
   "git_url": "git://github.com/WenkaiZhou/DelegationAdapter.git",
   "ssh_url": "git@github.com:WenkaiZhou/DelegationAdapter.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/WenkaiZhou/DelegationAdapter",
   "homepage": "https://blog.csdn.net/xuehuayous/article/details/80021325",
   "size": 24190,
-  "stargazers_count": 416,
-  "watchers_count": 416,
+  "stargazers_count": 417,
+  "watchers_count": 417,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -103,7 +103,7 @@
   "visibility": "public",
   "forks": 69,
   "open_issues": 0,
-  "watchers": 416,
+  "watchers": 417,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2416
+  "_index": 2419
 }
