@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/alecthomas/participle.git",
   "svn_url": "https://github.com/alecthomas/participle",
   "homepage": "",
-  "size": 940,
+  "size": 941,
   "stargazers_count": 3168,
   "watchers_count": 3168,
   "language": "Go",
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1338
+  "_index": 1341
 }

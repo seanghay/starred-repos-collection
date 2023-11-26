@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Vinlic/WebVideoCreator/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Vinlic/WebVideoCreator/deployments",
   "created_at": "2023-09-09T17:21:42Z",
-  "updated_at": "2023-11-25T01:16:09Z",
-  "pushed_at": "2023-11-24T18:23:06Z",
+  "updated_at": "2023-11-25T02:38:55Z",
+  "pushed_at": "2023-11-25T14:05:20Z",
   "git_url": "git://github.com/Vinlic/WebVideoCreator.git",
   "ssh_url": "git@github.com:Vinlic/WebVideoCreator.git",
   "clone_url": "https://github.com/Vinlic/WebVideoCreator.git",
   "svn_url": "https://github.com/Vinlic/WebVideoCreator",
   "homepage": "",
-  "size": 7736,
-  "stargazers_count": 43,
-  "watchers_count": 43,
+  "size": 6966,
+  "stargazers_count": 44,
+  "watchers_count": 44,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 12,
+  "forks_count": 13,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 3,
+  "open_issues_count": 2,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -107,9 +107,9 @@
     "vtuber"
   ],
   "visibility": "public",
-  "forks": 12,
-  "open_issues": 3,
-  "watchers": 43,
+  "forks": 13,
+  "open_issues": 2,
+  "watchers": 44,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 11
+  "_index": 14
 }

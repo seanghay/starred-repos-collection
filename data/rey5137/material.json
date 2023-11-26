@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/rey5137/material/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rey5137/material/deployments",
   "created_at": "2014-12-09T12:07:32Z",
-  "updated_at": "2023-11-15T16:12:31Z",
+  "updated_at": "2023-11-25T16:57:28Z",
   "pushed_at": "2023-05-28T15:35:01Z",
   "git_url": "git://github.com/rey5137/material.git",
   "ssh_url": "git@github.com:rey5137/material.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/rey5137/material",
   "homepage": "http://rey5137.com/material/",
   "size": 3901,
-  "stargazers_count": 6018,
-  "watchers_count": 6018,
+  "stargazers_count": 6017,
+  "watchers_count": 6017,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 1348,
   "open_issues": 215,
-  "watchers": 6018,
+  "watchers": 6017,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2584
+  "_index": 2587
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/SizheAn/PanoHead/releases{/id}",
   "deployments_url": "https://api.github.com/repos/SizheAn/PanoHead/deployments",
   "created_at": "2023-06-13T17:31:43Z",
-  "updated_at": "2023-11-24T20:35:56Z",
+  "updated_at": "2023-11-25T21:17:36Z",
   "pushed_at": "2023-11-24T02:44:48Z",
   "git_url": "git://github.com/SizheAn/PanoHead.git",
   "ssh_url": "git@github.com:SizheAn/PanoHead.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/SizheAn/PanoHead",
   "homepage": null,
   "size": 30116,
-  "stargazers_count": 1716,
-  "watchers_count": 1716,
+  "stargazers_count": 1717,
+  "watchers_count": 1717,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 230,
   "open_issues": 18,
-  "watchers": 1716,
+  "watchers": 1717,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 433
+  "_index": 436
 }

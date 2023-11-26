@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/JakeChampion/fetch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JakeChampion/fetch/deployments",
   "created_at": "2014-10-13T00:26:19Z",
-  "updated_at": "2023-11-24T19:15:31Z",
-  "pushed_at": "2023-11-24T00:46:42Z",
+  "updated_at": "2023-11-25T13:22:33Z",
+  "pushed_at": "2023-11-25T22:39:19Z",
   "git_url": "git://github.com/JakeChampion/fetch.git",
   "ssh_url": "git@github.com:JakeChampion/fetch.git",
   "clone_url": "https://github.com/JakeChampion/fetch.git",
   "svn_url": "https://github.com/JakeChampion/fetch",
   "homepage": "",
   "size": 585,
-  "stargazers_count": 25784,
-  "watchers_count": 25784,
+  "stargazers_count": 25785,
+  "watchers_count": 25785,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 4,
+  "open_issues_count": 3,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 3236,
-  "open_issues": 4,
-  "watchers": 25784,
+  "open_issues": 3,
+  "watchers": 25785,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2146
+  "_index": 2149
 }

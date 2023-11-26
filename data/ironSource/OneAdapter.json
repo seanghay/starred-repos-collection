@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ironSource/OneAdapter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ironSource/OneAdapter/deployments",
   "created_at": "2018-11-21T15:46:40Z",
-  "updated_at": "2023-10-28T02:42:07Z",
+  "updated_at": "2023-11-25T15:42:03Z",
   "pushed_at": "2023-07-24T08:08:48Z",
   "git_url": "git://github.com/ironSource/OneAdapter.git",
   "ssh_url": "git@github.com:ironSource/OneAdapter.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ironSource/OneAdapter",
   "homepage": "",
   "size": 5155,
-  "stargazers_count": 469,
-  "watchers_count": 469,
+  "stargazers_count": 468,
+  "watchers_count": 468,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -116,7 +116,7 @@
   "visibility": "public",
   "forks": 44,
   "open_issues": 5,
-  "watchers": 469,
+  "watchers": 468,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2468
+  "_index": 2471
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/VinAIResearch/XPhoneBERT/releases{/id}",
   "deployments_url": "https://api.github.com/repos/VinAIResearch/XPhoneBERT/deployments",
   "created_at": "2023-04-27T03:45:35Z",
-  "updated_at": "2023-11-24T20:34:27Z",
+  "updated_at": "2023-11-25T07:31:02Z",
   "pushed_at": "2023-09-07T23:03:42Z",
   "git_url": "git://github.com/VinAIResearch/XPhoneBERT.git",
   "ssh_url": "git@github.com:VinAIResearch/XPhoneBERT.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/VinAIResearch/XPhoneBERT",
   "homepage": "",
   "size": 3814,
-  "stargazers_count": 236,
-  "watchers_count": 236,
+  "stargazers_count": 237,
+  "watchers_count": 237,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 30,
   "open_issues": 5,
-  "watchers": 236,
+  "watchers": 237,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 87
+  "_index": 90
 }

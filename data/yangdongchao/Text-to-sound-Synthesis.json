@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yangdongchao/Text-to-sound-Synthesis/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yangdongchao/Text-to-sound-Synthesis/deployments",
   "created_at": "2022-05-23T13:45:15Z",
-  "updated_at": "2023-11-24T20:25:25Z",
+  "updated_at": "2023-11-25T03:41:57Z",
   "pushed_at": "2023-08-03T02:54:35Z",
   "git_url": "git://github.com/yangdongchao/Text-to-sound-Synthesis.git",
   "ssh_url": "git@github.com:yangdongchao/Text-to-sound-Synthesis.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yangdongchao/Text-to-sound-Synthesis",
   "homepage": "http://dongchaoyang.top/text-to-sound-synthesis-demo/",
   "size": 53908,
-  "stargazers_count": 312,
-  "watchers_count": 312,
+  "stargazers_count": 313,
+  "watchers_count": 313,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 34,
+  "forks_count": 35,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -93,9 +93,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 34,
+  "forks": 35,
   "open_issues": 15,
-  "watchers": 312,
+  "watchers": 313,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 83
+  "_index": 86
 }

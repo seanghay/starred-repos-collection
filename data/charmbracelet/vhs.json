@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/charmbracelet/vhs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/charmbracelet/vhs/deployments",
   "created_at": "2022-07-19T14:28:36Z",
-  "updated_at": "2023-11-25T01:41:52Z",
+  "updated_at": "2023-11-25T15:34:04Z",
   "pushed_at": "2023-11-16T20:38:05Z",
   "git_url": "git://github.com/charmbracelet/vhs.git",
   "ssh_url": "git@github.com:charmbracelet/vhs.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/charmbracelet/vhs",
   "homepage": "",
   "size": 40027,
-  "stargazers_count": 12325,
-  "watchers_count": 12325,
+  "stargazers_count": 12329,
+  "watchers_count": 12329,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 203,
   "open_issues": 62,
-  "watchers": 12325,
+  "watchers": 12329,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 896
+  "_index": 899
 }

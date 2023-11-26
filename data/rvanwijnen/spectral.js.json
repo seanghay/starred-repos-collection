@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/rvanwijnen/spectral.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rvanwijnen/spectral.js/deployments",
   "created_at": "2023-04-03T20:52:31Z",
-  "updated_at": "2023-11-25T01:41:15Z",
+  "updated_at": "2023-11-25T23:49:57Z",
   "pushed_at": "2023-04-21T12:47:45Z",
   "git_url": "git://github.com/rvanwijnen/spectral.js.git",
   "ssh_url": "git@github.com:rvanwijnen/spectral.js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/rvanwijnen/spectral.js",
   "homepage": "https://onedayofcrypto.art/",
   "size": 159,
-  "stargazers_count": 468,
-  "watchers_count": 468,
+  "stargazers_count": 485,
+  "watchers_count": 485,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 9,
+  "forks_count": 10,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,9 +108,9 @@
     "paint-mixing"
   ],
   "visibility": "public",
-  "forks": 9,
+  "forks": 10,
   "open_issues": 1,
-  "watchers": 468,
+  "watchers": 485,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 631
+  "_index": 634
 }

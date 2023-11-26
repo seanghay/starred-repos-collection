@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/exceljs/exceljs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/exceljs/exceljs/deployments",
   "created_at": "2014-12-09T20:57:12Z",
-  "updated_at": "2023-11-24T19:15:58Z",
-  "pushed_at": "2023-11-24T19:33:20Z",
+  "updated_at": "2023-11-25T12:18:42Z",
+  "pushed_at": "2023-11-25T23:37:44Z",
   "git_url": "git://github.com/exceljs/exceljs.git",
   "ssh_url": "git@github.com:exceljs/exceljs.git",
   "clone_url": "https://github.com/exceljs/exceljs.git",
   "svn_url": "https://github.com/exceljs/exceljs",
   "homepage": "",
   "size": 21789,
-  "stargazers_count": 12201,
-  "watchers_count": 12201,
+  "stargazers_count": 12206,
+  "watchers_count": 12206,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 1576,
   "open_issues": 511,
-  "watchers": 12201,
+  "watchers": 12206,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 518
+  "_index": 521
 }

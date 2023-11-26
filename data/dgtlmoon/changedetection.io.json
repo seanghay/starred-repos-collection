@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/dgtlmoon/changedetection.io/releases{/id}",
   "deployments_url": "https://api.github.com/repos/dgtlmoon/changedetection.io/deployments",
   "created_at": "2021-01-27T16:03:30Z",
-  "updated_at": "2023-11-25T01:09:46Z",
-  "pushed_at": "2023-11-20T14:18:46Z",
+  "updated_at": "2023-11-26T00:26:25Z",
+  "pushed_at": "2023-11-25T19:06:07Z",
   "git_url": "git://github.com/dgtlmoon/changedetection.io.git",
   "ssh_url": "git@github.com:dgtlmoon/changedetection.io.git",
   "clone_url": "https://github.com/dgtlmoon/changedetection.io.git",
   "svn_url": "https://github.com/dgtlmoon/changedetection.io",
   "homepage": "https://changedetection.io",
-  "size": 7214,
-  "stargazers_count": 13121,
-  "watchers_count": 13121,
+  "size": 7123,
+  "stargazers_count": 13130,
+  "watchers_count": 13130,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 730,
+  "forks_count": 733,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 169,
+  "open_issues_count": 171,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -120,9 +120,9 @@
     "website-watcher"
   ],
   "visibility": "public",
-  "forks": 730,
-  "open_issues": 169,
-  "watchers": 13121,
+  "forks": 733,
+  "open_issues": 171,
+  "watchers": 13130,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 231
+  "_index": 234
 }

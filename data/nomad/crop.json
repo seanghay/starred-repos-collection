@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nomad/crop/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nomad/crop/deployments",
   "created_at": "2022-10-22T21:05:05Z",
-  "updated_at": "2023-11-24T17:23:28Z",
+  "updated_at": "2023-11-25T14:56:10Z",
   "pushed_at": "2023-11-12T01:12:42Z",
   "git_url": "git://github.com/nomad/crop.git",
   "ssh_url": "git@github.com:nomad/crop.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nomad/crop",
   "homepage": "https://crates.io/crates/crop",
   "size": 998,
-  "stargazers_count": 206,
-  "watchers_count": 206,
+  "stargazers_count": 207,
+  "watchers_count": 207,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 7,
   "open_issues": 2,
-  "watchers": 206,
+  "watchers": 207,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 224
+  "_index": 227
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/apache/superset/releases{/id}",
   "deployments_url": "https://api.github.com/repos/apache/superset/deployments",
   "created_at": "2015-07-21T18:55:34Z",
-  "updated_at": "2023-11-25T01:42:03Z",
+  "updated_at": "2023-11-25T23:22:37Z",
   "pushed_at": "2023-11-24T15:36:32Z",
   "git_url": "git://github.com/apache/superset.git",
   "ssh_url": "git@github.com:apache/superset.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/apache/superset",
   "homepage": "https://superset.apache.org/",
   "size": 540409,
-  "stargazers_count": 55295,
-  "watchers_count": 55295,
+  "stargazers_count": 55300,
+  "watchers_count": 55300,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 11800,
+  "forks_count": 11801,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -118,9 +118,9 @@
     "superset"
   ],
   "visibility": "public",
-  "forks": 11800,
+  "forks": 11801,
   "open_issues": 1646,
-  "watchers": 55295,
+  "watchers": 55300,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2005
+  "_index": 2008
 }

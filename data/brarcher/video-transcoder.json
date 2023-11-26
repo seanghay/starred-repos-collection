@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/brarcher/video-transcoder/releases{/id}",
   "deployments_url": "https://api.github.com/repos/brarcher/video-transcoder/deployments",
   "created_at": "2018-01-01T19:33:50Z",
-  "updated_at": "2023-11-05T16:41:30Z",
+  "updated_at": "2023-11-25T14:42:32Z",
   "pushed_at": "2022-10-02T23:54:53Z",
   "git_url": "git://github.com/brarcher/video-transcoder.git",
   "ssh_url": "git@github.com:brarcher/video-transcoder.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/brarcher/video-transcoder",
   "homepage": "",
   "size": 44518,
-  "stargazers_count": 433,
-  "watchers_count": 433,
+  "stargazers_count": 434,
+  "watchers_count": 434,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 56,
   "open_issues": 69,
-  "watchers": 433,
+  "watchers": 434,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2464
+  "_index": 2467
 }

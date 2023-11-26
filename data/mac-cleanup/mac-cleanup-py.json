@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/mac-cleanup/mac-cleanup-py/deployments",
   "created_at": "2022-06-29T18:50:23Z",
   "updated_at": "2023-11-23T10:50:08Z",
-  "pushed_at": "2023-11-24T10:08:58Z",
+  "pushed_at": "2023-11-25T17:19:20Z",
   "git_url": "git://github.com/mac-cleanup/mac-cleanup-py.git",
   "ssh_url": "git@github.com:mac-cleanup/mac-cleanup-py.git",
   "clone_url": "https://github.com/mac-cleanup/mac-cleanup-py.git",
   "svn_url": "https://github.com/mac-cleanup/mac-cleanup-py",
   "homepage": "",
-  "size": 8478,
+  "size": 8483,
   "stargazers_count": 389,
   "watchers_count": 389,
   "language": "Python",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 13,
+  "open_issues_count": 11,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -105,7 +105,7 @@
   ],
   "visibility": "public",
   "forks": 20,
-  "open_issues": 13,
+  "open_issues": 11,
   "watchers": 389,
   "default_branch": "main",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 226
+  "_index": 229
 }

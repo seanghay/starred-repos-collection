@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/yl4579/PL-BERT/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yl4579/PL-BERT/deployments",
   "created_at": "2023-01-24T02:27:11Z",
-  "updated_at": "2023-11-24T20:31:21Z",
-  "pushed_at": "2023-11-19T21:37:24Z",
+  "updated_at": "2023-11-25T15:55:12Z",
+  "pushed_at": "2023-11-25T21:33:07Z",
   "git_url": "git://github.com/yl4579/PL-BERT.git",
   "ssh_url": "git@github.com:yl4579/PL-BERT.git",
   "clone_url": "https://github.com/yl4579/PL-BERT.git",
   "svn_url": "https://github.com/yl4579/PL-BERT",
   "homepage": "",
-  "size": 3771,
-  "stargazers_count": 132,
-  "watchers_count": 132,
+  "size": 3777,
+  "stargazers_count": 133,
+  "watchers_count": 133,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1,
+  "open_issues_count": 2,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 15,
-  "open_issues": 1,
-  "watchers": 132,
+  "open_issues": 2,
+  "watchers": 133,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 90
+  "_index": 93
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Jungjee/RawNet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Jungjee/RawNet/deployments",
   "created_at": "2019-03-18T07:21:51Z",
-  "updated_at": "2023-11-24T19:48:43Z",
+  "updated_at": "2023-11-25T03:43:11Z",
   "pushed_at": "2022-06-22T08:53:05Z",
   "git_url": "git://github.com/Jungjee/RawNet.git",
   "ssh_url": "git@github.com:Jungjee/RawNet.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Jungjee/RawNet",
   "homepage": "",
   "size": 184317,
-  "stargazers_count": 294,
-  "watchers_count": 294,
+  "stargazers_count": 295,
+  "watchers_count": 295,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 52,
+  "forks_count": 53,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "voxceleb2"
   ],
   "visibility": "public",
-  "forks": 52,
+  "forks": 53,
   "open_issues": 0,
-  "watchers": 294,
+  "watchers": 295,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 480
+  "_index": 483
 }
