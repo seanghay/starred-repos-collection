@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 245,
+  "forks_count": 246,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -112,7 +112,7 @@
     "videoeditor-sdk"
   ],
   "visibility": "public",
-  "forks": 245,
+  "forks": 246,
   "open_issues": 30,
   "watchers": 1092,
   "default_branch": "develop",

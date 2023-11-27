@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mCyp/Orient-Ui/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mCyp/Orient-Ui/deployments",
   "created_at": "2019-08-08T01:07:23Z",
-  "updated_at": "2023-11-25T16:58:00Z",
+  "updated_at": "2023-11-26T17:10:07Z",
   "pushed_at": "2021-01-23T08:25:37Z",
   "git_url": "git://github.com/mCyp/Orient-Ui.git",
   "ssh_url": "git@github.com:mCyp/Orient-Ui.git",

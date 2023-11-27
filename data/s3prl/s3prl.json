@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/s3prl/s3prl/releases{/id}",
   "deployments_url": "https://api.github.com/repos/s3prl/s3prl/deployments",
   "created_at": "2019-07-15T01:54:52Z",
-  "updated_at": "2023-11-25T11:45:32Z",
+  "updated_at": "2023-11-26T08:06:03Z",
   "pushed_at": "2023-11-17T10:51:27Z",
   "git_url": "git://github.com/s3prl/s3prl.git",
   "ssh_url": "git@github.com:s3prl/s3prl.git",
