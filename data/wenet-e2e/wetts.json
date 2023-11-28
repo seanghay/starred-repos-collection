@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wenet-e2e/wetts/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wenet-e2e/wetts/deployments",
   "created_at": "2022-02-19T02:09:40Z",
-  "updated_at": "2023-11-25T12:07:58Z",
+  "updated_at": "2023-11-27T09:46:05Z",
   "pushed_at": "2023-11-26T11:46:00Z",
   "git_url": "git://github.com/wenet-e2e/wetts.git",
   "ssh_url": "git@github.com:wenet-e2e/wetts.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 10,
+  "open_issues_count": 11,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 49,
-  "open_issues": 10,
+  "open_issues": 11,
   "watchers": 288,
   "default_branch": "main",
   "permissions": {
