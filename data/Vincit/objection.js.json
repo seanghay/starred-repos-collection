@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Vincit/objection.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Vincit/objection.js/deployments",
   "created_at": "2015-04-14T10:36:51Z",
-  "updated_at": "2023-11-27T23:15:39Z",
+  "updated_at": "2023-11-29T00:35:12Z",
   "pushed_at": "2023-11-26T11:44:22Z",
   "git_url": "git://github.com/Vincit/objection.js.git",
   "ssh_url": "git@github.com:Vincit/objection.js.git",

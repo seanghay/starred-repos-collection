@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/rishikksh20/LightSpeech/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rishikksh20/LightSpeech/deployments",
   "created_at": "2021-02-09T18:43:12Z",
-  "updated_at": "2023-11-13T13:32:53Z",
+  "updated_at": "2023-11-28T16:59:33Z",
   "pushed_at": "2021-09-01T09:34:47Z",
   "git_url": "git://github.com/rishikksh20/LightSpeech.git",
   "ssh_url": "git@github.com:rishikksh20/LightSpeech.git",
