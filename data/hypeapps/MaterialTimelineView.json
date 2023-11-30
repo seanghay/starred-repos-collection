@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/hypeapps/MaterialTimelineView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hypeapps/MaterialTimelineView/deployments",
   "created_at": "2017-10-09T16:55:57Z",
-  "updated_at": "2023-10-16T16:57:35Z",
+  "updated_at": "2023-11-29T08:15:17Z",
   "pushed_at": "2018-04-08T15:28:57Z",
   "git_url": "git://github.com/hypeapps/MaterialTimelineView.git",
   "ssh_url": "git@github.com:hypeapps/MaterialTimelineView.git",
