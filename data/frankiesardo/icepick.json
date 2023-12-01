@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 25,
+  "open_issues_count": 26,
   "license": {
     "key": "epl-1.0",
     "name": "Eclipse Public License 1.0",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 211,
-  "open_issues": 25,
+  "open_issues": 26,
   "watchers": 3770,
   "default_branch": "master",
   "permissions": {
