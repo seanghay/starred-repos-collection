@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 538,
+  "forks_count": 539,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,7 +109,7 @@
     "vulkan-samples"
   ],
   "visibility": "public",
-  "forks": 538,
+  "forks": 539,
   "open_issues": 62,
   "watchers": 3542,
   "default_branch": "main",
