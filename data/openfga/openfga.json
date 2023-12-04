@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 113,
+  "forks_count": 114,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 88,
+  "open_issues_count": 89,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -110,8 +110,8 @@
     "zanzibar"
   ],
   "visibility": "public",
-  "forks": 113,
-  "open_issues": 88,
+  "forks": 114,
+  "open_issues": 89,
   "watchers": 1685,
   "default_branch": "main",
   "permissions": {
