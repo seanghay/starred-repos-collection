@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 7,
+  "forks_count": 8,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,7 +105,7 @@
     "pytorch"
   ],
   "visibility": "public",
-  "forks": 7,
+  "forks": 8,
   "open_issues": 1,
   "watchers": 23,
   "default_branch": "master",

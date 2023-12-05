@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/hyperledger/iroha/deployments",
   "created_at": "2019-04-16T17:50:11Z",
   "updated_at": "2023-12-03T16:30:37Z",
-  "pushed_at": "2023-12-03T23:40:49Z",
+  "pushed_at": "2023-12-05T01:10:10Z",
   "git_url": "git://github.com/hyperledger/iroha.git",
   "ssh_url": "git@github.com:hyperledger/iroha.git",
   "clone_url": "https://github.com/hyperledger/iroha.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 486,
+  "open_issues_count": 489,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -109,7 +109,7 @@
   ],
   "visibility": "public",
   "forks": 274,
-  "open_issues": 486,
+  "open_issues": 489,
   "watchers": 400,
   "default_branch": "main",
   "permissions": {

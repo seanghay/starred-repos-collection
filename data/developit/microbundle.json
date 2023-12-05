@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 382,
+  "forks_count": 383,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 89,
+  "open_issues_count": 91,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,8 +107,8 @@
     "umd"
   ],
   "visibility": "public",
-  "forks": 382,
-  "open_issues": 89,
+  "forks": 383,
+  "open_issues": 91,
   "watchers": 7836,
   "default_branch": "master",
   "permissions": {
