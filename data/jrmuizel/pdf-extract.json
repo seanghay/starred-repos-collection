@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/jrmuizel/pdf-extract/deployments",
   "created_at": "2017-02-01T05:01:50Z",
   "updated_at": "2023-12-04T16:22:10Z",
-  "pushed_at": "2023-11-25T00:19:57Z",
+  "pushed_at": "2023-12-05T15:35:16Z",
   "git_url": "git://github.com/jrmuizel/pdf-extract.git",
   "ssh_url": "git@github.com:jrmuizel/pdf-extract.git",
   "clone_url": "https://github.com/jrmuizel/pdf-extract.git",
   "svn_url": "https://github.com/jrmuizel/pdf-extract",
   "homepage": "",
-  "size": 337,
+  "size": 338,
   "stargazers_count": 251,
   "watchers_count": 251,
   "language": "Rust",
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 344
+  "_index": 353
 }

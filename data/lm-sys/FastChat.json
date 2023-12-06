@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lm-sys/FastChat/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lm-sys/FastChat/deployments",
   "created_at": "2023-03-19T00:18:02Z",
-  "updated_at": "2023-12-05T00:58:49Z",
+  "updated_at": "2023-12-06T01:37:35Z",
   "pushed_at": "2023-12-04T23:23:20Z",
   "git_url": "git://github.com/lm-sys/FastChat.git",
   "ssh_url": "git@github.com:lm-sys/FastChat.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lm-sys/FastChat",
   "homepage": "",
   "size": 31727,
-  "stargazers_count": 29712,
-  "watchers_count": 29712,
+  "stargazers_count": 29742,
+  "watchers_count": 29742,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3680,
+  "forks_count": 3690,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 443,
+  "open_issues_count": 447,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 3680,
-  "open_issues": 443,
-  "watchers": 29712,
+  "forks": 3690,
+  "open_issues": 447,
+  "watchers": 29742,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 645
+  "_index": 654
 }

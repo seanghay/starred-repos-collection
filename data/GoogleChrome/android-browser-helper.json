@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/GoogleChrome/android-browser-helper/releases{/id}",
   "deployments_url": "https://api.github.com/repos/GoogleChrome/android-browser-helper/deployments",
   "created_at": "2019-08-09T08:38:25Z",
-  "updated_at": "2023-12-01T13:12:44Z",
+  "updated_at": "2023-12-05T12:19:46Z",
   "pushed_at": "2023-11-15T01:10:25Z",
   "git_url": "git://github.com/GoogleChrome/android-browser-helper.git",
   "ssh_url": "git@github.com:GoogleChrome/android-browser-helper.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/GoogleChrome/android-browser-helper",
   "homepage": "",
   "size": 1892,
-  "stargazers_count": 622,
-  "watchers_count": 622,
+  "stargazers_count": 623,
+  "watchers_count": 623,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 300,
+  "forks_count": 302,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 300,
+  "forks": 302,
   "open_issues": 92,
-  "watchers": 622,
+  "watchers": 623,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2180
+  "_index": 2189
 }

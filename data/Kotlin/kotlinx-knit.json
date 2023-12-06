@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/Kotlin/kotlinx-knit/deployments",
   "created_at": "2020-02-03T08:33:47Z",
   "updated_at": "2023-11-08T13:26:23Z",
-  "pushed_at": "2023-09-17T13:11:17Z",
+  "pushed_at": "2023-12-05T13:00:11Z",
   "git_url": "git://github.com/Kotlin/kotlinx-knit.git",
   "ssh_url": "git@github.com:Kotlin/kotlinx-knit.git",
   "clone_url": "https://github.com/Kotlin/kotlinx-knit.git",
   "svn_url": "https://github.com/Kotlin/kotlinx-knit",
   "homepage": "",
-  "size": 230,
+  "size": 232,
   "stargazers_count": 294,
   "watchers_count": 294,
   "language": "Kotlin",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2346
+  "_index": 2355
 }

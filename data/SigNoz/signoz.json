@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/SigNoz/signoz",
-  "description": "SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool",
+  "description": "SigNoz is an open-source observability platform with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool",
   "fork": false,
   "url": "https://api.github.com/repos/SigNoz/signoz",
   "forks_url": "https://api.github.com/repos/SigNoz/signoz/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/SigNoz/signoz/releases{/id}",
   "deployments_url": "https://api.github.com/repos/SigNoz/signoz/deployments",
   "created_at": "2021-01-03T12:44:36Z",
-  "updated_at": "2023-12-04T22:26:34Z",
-  "pushed_at": "2023-12-04T20:15:48Z",
+  "updated_at": "2023-12-06T01:24:40Z",
+  "pushed_at": "2023-12-05T23:31:31Z",
   "git_url": "git://github.com/SigNoz/signoz.git",
   "ssh_url": "git@github.com:SigNoz/signoz.git",
   "clone_url": "https://github.com/SigNoz/signoz.git",
   "svn_url": "https://github.com/SigNoz/signoz",
   "homepage": "https://signoz.io",
-  "size": 55572,
-  "stargazers_count": 15417,
-  "watchers_count": 15417,
+  "size": 55291,
+  "stargazers_count": 15439,
+  "watchers_count": 15439,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 926,
+  "forks_count": 928,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 897,
+  "open_issues_count": 905,
   "license": {
     "key": "other",
     "name": "Other",
@@ -117,9 +117,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 926,
-  "open_issues": 897,
-  "watchers": 15417,
+  "forks": 928,
+  "open_issues": 905,
+  "watchers": 15439,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1028
+  "_index": 1037
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/waywardgeek/infnoise/releases{/id}",
   "deployments_url": "https://api.github.com/repos/waywardgeek/infnoise/deployments",
   "created_at": "2014-09-28T07:41:27Z",
-  "updated_at": "2023-12-01T07:43:17Z",
+  "updated_at": "2023-12-05T10:25:43Z",
   "pushed_at": "2023-06-08T04:23:47Z",
   "git_url": "git://github.com/waywardgeek/infnoise.git",
   "ssh_url": "git@github.com:waywardgeek/infnoise.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/waywardgeek/infnoise",
   "homepage": "",
   "size": 68270,
-  "stargazers_count": 683,
-  "watchers_count": 683,
+  "stargazers_count": 684,
+  "watchers_count": 684,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 99,
   "open_issues": 14,
-  "watchers": 683,
+  "watchers": 684,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2687
+  "_index": 2696
 }

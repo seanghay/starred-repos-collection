@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 875,
+  "forks_count": 876,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,7 +110,7 @@
     "mvvm"
   ],
   "visibility": "public",
-  "forks": 875,
+  "forks": 876,
   "open_issues": 9,
   "watchers": 6198,
   "default_branch": "main",
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2746
+  "_index": 2755
 }

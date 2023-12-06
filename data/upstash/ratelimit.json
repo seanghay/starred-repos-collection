@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/upstash/ratelimit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/upstash/ratelimit/deployments",
   "created_at": "2022-04-20T07:29:46Z",
-  "updated_at": "2023-12-03T12:42:26Z",
+  "updated_at": "2023-12-05T17:51:16Z",
   "pushed_at": "2023-11-28T23:10:57Z",
   "git_url": "git://github.com/upstash/ratelimit.git",
   "ssh_url": "git@github.com:upstash/ratelimit.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/upstash/ratelimit",
   "homepage": "https://ratelimit-with-vercel-kv.vercel.app",
   "size": 614,
-  "stargazers_count": 1120,
-  "watchers_count": 1120,
+  "stargazers_count": 1122,
+  "watchers_count": 1122,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 32,
   "open_issues": 13,
-  "watchers": 1120,
+  "watchers": 1122,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 694
+  "_index": 703
 }

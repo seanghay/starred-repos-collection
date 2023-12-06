@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/denoland/eszip.git",
   "svn_url": "https://github.com/denoland/eszip",
   "homepage": "https://crates.io/crates/eszip",
-  "size": 51072,
+  "size": 52335,
   "stargazers_count": 194,
   "watchers_count": 194,
   "language": "Rust",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1055
+  "_index": 1064
 }

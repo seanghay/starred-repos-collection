@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/toml-lang/toml/releases{/id}",
   "deployments_url": "https://api.github.com/repos/toml-lang/toml/deployments",
   "created_at": "2013-02-24T03:03:57Z",
-  "updated_at": "2023-12-05T01:30:00Z",
+  "updated_at": "2023-12-05T18:50:13Z",
   "pushed_at": "2023-12-04T21:19:32Z",
   "git_url": "git://github.com/toml-lang/toml.git",
   "ssh_url": "git@github.com:toml-lang/toml.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1641
+  "_index": 1650
 }

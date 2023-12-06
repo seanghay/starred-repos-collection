@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/DoubangoTelecom/FaceLivenessDetection-SDK/releases{/id}",
   "deployments_url": "https://api.github.com/repos/DoubangoTelecom/FaceLivenessDetection-SDK/deployments",
   "created_at": "2021-04-04T19:21:57Z",
-  "updated_at": "2023-11-24T20:13:23Z",
+  "updated_at": "2023-12-05T16:11:03Z",
   "pushed_at": "2023-05-09T20:30:40Z",
   "git_url": "git://github.com/DoubangoTelecom/FaceLivenessDetection-SDK.git",
   "ssh_url": "git@github.com:DoubangoTelecom/FaceLivenessDetection-SDK.git",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 204
+  "_index": 213
 }

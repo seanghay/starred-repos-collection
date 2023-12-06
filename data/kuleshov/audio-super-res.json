@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kuleshov/audio-super-res/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kuleshov/audio-super-res/deployments",
   "created_at": "2017-03-13T02:47:00Z",
-  "updated_at": "2023-11-27T07:48:06Z",
+  "updated_at": "2023-12-05T04:16:54Z",
   "pushed_at": "2023-10-24T23:48:19Z",
   "git_url": "git://github.com/kuleshov/audio-super-res.git",
   "ssh_url": "git@github.com:kuleshov/audio-super-res.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/kuleshov/audio-super-res",
   "homepage": "",
   "size": 59600,
-  "stargazers_count": 1018,
-  "watchers_count": 1018,
+  "stargazers_count": 1019,
+  "watchers_count": 1019,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 201,
   "open_issues": 10,
-  "watchers": 1018,
+  "watchers": 1019,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 788
+  "_index": 797
 }
