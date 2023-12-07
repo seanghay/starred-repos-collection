@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/DavidDiazGuerra/gpuRIR/releases{/id}",
   "deployments_url": "https://api.github.com/repos/DavidDiazGuerra/gpuRIR/deployments",
   "created_at": "2018-10-08T08:31:53Z",
-  "updated_at": "2023-11-30T08:49:57Z",
+  "updated_at": "2023-12-06T13:12:41Z",
   "pushed_at": "2023-11-03T13:03:22Z",
   "git_url": "git://github.com/DavidDiazGuerra/gpuRIR.git",
   "ssh_url": "git@github.com:DavidDiazGuerra/gpuRIR.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/DavidDiazGuerra/gpuRIR",
   "homepage": "",
   "size": 4122,
-  "stargazers_count": 400,
-  "watchers_count": 400,
+  "stargazers_count": 401,
+  "watchers_count": 401,
   "language": "Cuda",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 84,
   "open_issues": 15,
-  "watchers": 400,
+  "watchers": 401,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 361
+  "_index": 363
 }

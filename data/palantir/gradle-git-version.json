@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/palantir/gradle-git-version/deployments",
   "created_at": "2015-09-17T21:21:50Z",
   "updated_at": "2023-12-05T15:12:17Z",
-  "pushed_at": "2023-12-03T23:57:49Z",
+  "pushed_at": "2023-12-06T08:34:12Z",
   "git_url": "git://github.com/palantir/gradle-git-version.git",
   "ssh_url": "git@github.com:palantir/gradle-git-version.git",
   "clone_url": "https://github.com/palantir/gradle-git-version.git",
   "svn_url": "https://github.com/palantir/gradle-git-version",
   "homepage": "",
-  "size": 1091,
+  "size": 1093,
   "stargazers_count": 343,
   "watchers_count": 343,
   "language": "Java",
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2153
+  "_index": 2155
 }

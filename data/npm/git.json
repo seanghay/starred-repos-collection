@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/npm/git/deployments",
   "created_at": "2020-03-09T23:57:08Z",
   "updated_at": "2023-11-15T23:32:40Z",
-  "pushed_at": "2023-12-05T23:56:26Z",
+  "pushed_at": "2023-12-07T00:12:53Z",
   "git_url": "git://github.com/npm/git.git",
   "ssh_url": "git@github.com:npm/git.git",
   "clone_url": "https://github.com/npm/git.git",
   "svn_url": "https://github.com/npm/git",
   "homepage": "",
-  "size": 361,
+  "size": 362,
   "stargazers_count": 57,
   "watchers_count": 57,
   "language": "JavaScript",
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2289
+  "_index": 2291
 }

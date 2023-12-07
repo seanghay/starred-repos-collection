@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/markusfisch/BinaryEye/deployments",
   "created_at": "2017-08-27T13:03:48Z",
   "updated_at": "2023-12-05T19:56:09Z",
-  "pushed_at": "2023-11-27T09:39:27Z",
+  "pushed_at": "2023-12-06T15:38:30Z",
   "git_url": "git://github.com/markusfisch/BinaryEye.git",
   "ssh_url": "git@github.com:markusfisch/BinaryEye.git",
   "clone_url": "https://github.com/markusfisch/BinaryEye.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 102,
+  "forks_count": 103,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,7 +106,7 @@
     "zxing"
   ],
   "visibility": "public",
-  "forks": 102,
+  "forks": 103,
   "open_issues": 89,
   "watchers": 1071,
   "default_branch": "master",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1809
+  "_index": 1811
 }

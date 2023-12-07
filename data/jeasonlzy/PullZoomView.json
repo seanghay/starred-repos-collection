@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jeasonlzy/PullZoomView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jeasonlzy/PullZoomView/deployments",
   "created_at": "2016-03-13T15:39:19Z",
-  "updated_at": "2023-11-12T11:00:06Z",
+  "updated_at": "2023-12-06T03:20:06Z",
   "pushed_at": "2020-10-02T04:01:01Z",
   "git_url": "git://github.com/jeasonlzy/PullZoomView.git",
   "ssh_url": "git@github.com:jeasonlzy/PullZoomView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jeasonlzy/PullZoomView",
   "homepage": "",
   "size": 5121,
-  "stargazers_count": 590,
-  "watchers_count": 590,
+  "stargazers_count": 591,
+  "watchers_count": 591,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 102,
   "open_issues": 25,
-  "watchers": 590,
+  "watchers": 591,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2258
+  "_index": 2260
 }

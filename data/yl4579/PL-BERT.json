@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yl4579/PL-BERT/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yl4579/PL-BERT/deployments",
   "created_at": "2023-01-24T02:27:11Z",
-  "updated_at": "2023-12-05T08:09:46Z",
+  "updated_at": "2023-12-06T02:06:10Z",
   "pushed_at": "2023-12-03T04:14:46Z",
   "git_url": "git://github.com/yl4579/PL-BERT.git",
   "ssh_url": "git@github.com:yl4579/PL-BERT.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yl4579/PL-BERT",
   "homepage": "",
   "size": 3777,
-  "stargazers_count": 139,
-  "watchers_count": 139,
+  "stargazers_count": 140,
+  "watchers_count": 140,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 17,
   "open_issues": 3,
-  "watchers": 139,
+  "watchers": 140,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 102
+  "_index": 104
 }

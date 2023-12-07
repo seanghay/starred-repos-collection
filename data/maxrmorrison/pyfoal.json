@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/maxrmorrison/pyfoal/deployments",
   "created_at": "2020-11-18T19:57:00Z",
   "updated_at": "2023-11-24T20:09:06Z",
-  "pushed_at": "2023-09-14T09:02:48Z",
+  "pushed_at": "2023-12-06T22:32:42Z",
   "git_url": "git://github.com/maxrmorrison/pyfoal.git",
   "ssh_url": "git@github.com:maxrmorrison/pyfoal.git",
   "clone_url": "https://github.com/maxrmorrison/pyfoal.git",
   "svn_url": "https://github.com/maxrmorrison/pyfoal",
   "homepage": "",
-  "size": 7504,
+  "size": 7507,
   "stargazers_count": 41,
   "watchers_count": 41,
   "language": "Jupyter Notebook",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 615
+  "_index": 617
 }

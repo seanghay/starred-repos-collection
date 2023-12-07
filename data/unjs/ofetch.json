@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/unjs/ofetch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/unjs/ofetch/deployments",
   "created_at": "2020-12-09T13:11:38Z",
-  "updated_at": "2023-12-03T15:43:57Z",
-  "pushed_at": "2023-12-05T15:23:05Z",
+  "updated_at": "2023-12-06T09:45:47Z",
+  "pushed_at": "2023-12-06T19:56:31Z",
   "git_url": "git://github.com/unjs/ofetch.git",
   "ssh_url": "git@github.com:unjs/ofetch.git",
   "clone_url": "https://github.com/unjs/ofetch.git",
   "svn_url": "https://github.com/unjs/ofetch",
   "homepage": "",
-  "size": 1138,
+  "size": 1198,
   "stargazers_count": 2782,
   "watchers_count": 2782,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 36,
+  "open_issues_count": 38,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 91,
-  "open_issues": 36,
+  "open_issues": 38,
   "watchers": 2782,
   "default_branch": "main",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 743
+  "_index": 745
 }

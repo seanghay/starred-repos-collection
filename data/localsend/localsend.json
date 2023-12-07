@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/localsend/localsend",
-  "description": "An open source cross-platform alternative to AirDrop",
+  "description": "An open-source cross-platform alternative to AirDrop",
   "fork": false,
   "url": "https://api.github.com/repos/localsend/localsend",
   "forks_url": "https://api.github.com/repos/localsend/localsend/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/localsend/localsend/releases{/id}",
   "deployments_url": "https://api.github.com/repos/localsend/localsend/deployments",
   "created_at": "2022-12-16T00:46:07Z",
-  "updated_at": "2023-12-06T01:00:28Z",
-  "pushed_at": "2023-12-05T12:49:41Z",
+  "updated_at": "2023-12-07T01:51:10Z",
+  "pushed_at": "2023-12-06T19:07:21Z",
   "git_url": "git://github.com/localsend/localsend.git",
   "ssh_url": "git@github.com:localsend/localsend.git",
   "clone_url": "https://github.com/localsend/localsend.git",
   "svn_url": "https://github.com/localsend/localsend",
   "homepage": "https://localsend.org",
-  "size": 5587,
-  "stargazers_count": 23935,
-  "watchers_count": 23935,
+  "size": 5599,
+  "stargazers_count": 23982,
+  "watchers_count": 23982,
   "language": "Dart",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1155,
+  "forks_count": 1158,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 264,
+  "open_issues_count": 263,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -102,9 +102,9 @@
     "flutter"
   ],
   "visibility": "public",
-  "forks": 1155,
-  "open_issues": 264,
-  "watchers": 23935,
+  "forks": 1158,
+  "open_issues": 263,
+  "watchers": 23982,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 821
+  "_index": 823
 }

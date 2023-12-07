@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/valhalla/valhalla/deployments",
   "created_at": "2016-01-19T19:42:29Z",
   "updated_at": "2023-12-05T15:40:58Z",
-  "pushed_at": "2023-12-05T22:09:16Z",
+  "pushed_at": "2023-12-06T20:41:26Z",
   "git_url": "git://github.com/valhalla/valhalla.git",
   "ssh_url": "git@github.com:valhalla/valhalla.git",
   "clone_url": "https://github.com/valhalla/valhalla.git",
   "svn_url": "https://github.com/valhalla/valhalla",
   "homepage": "https://valhalla.readthedocs.io",
-  "size": 253653,
+  "size": 253516,
   "stargazers_count": 3954,
   "watchers_count": 3954,
   "language": "C++",
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 150
+  "_index": 152
 }

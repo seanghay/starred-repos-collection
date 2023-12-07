@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/amitshekhariitbhu/RxJava2-Android-Samples/releases{/id}",
   "deployments_url": "https://api.github.com/repos/amitshekhariitbhu/RxJava2-Android-Samples/deployments",
   "created_at": "2016-08-27T08:21:37Z",
-  "updated_at": "2023-12-05T01:16:04Z",
+  "updated_at": "2023-12-06T14:43:00Z",
   "pushed_at": "2023-01-18T08:12:31Z",
   "git_url": "git://github.com/amitshekhariitbhu/RxJava2-Android-Samples.git",
   "ssh_url": "git@github.com:amitshekhariitbhu/RxJava2-Android-Samples.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/amitshekhariitbhu/RxJava2-Android-Samples",
   "homepage": "https://amitshekhar.me",
   "size": 494,
-  "stargazers_count": 4964,
-  "watchers_count": 4964,
+  "stargazers_count": 4965,
+  "watchers_count": 4965,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1112,
+  "forks_count": 1111,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -111,9 +111,9 @@
     "tutorials"
   ],
   "visibility": "public",
-  "forks": 1112,
+  "forks": 1111,
   "open_issues": 17,
-  "watchers": 4964,
+  "watchers": 4965,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2590
+  "_index": 2592
 }

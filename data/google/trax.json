@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/google/trax/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/trax/deployments",
   "created_at": "2019-10-05T15:09:14Z",
-  "updated_at": "2023-12-05T18:44:09Z",
-  "pushed_at": "2023-12-01T14:35:56Z",
+  "updated_at": "2023-12-06T12:46:58Z",
+  "pushed_at": "2023-12-06T23:32:28Z",
   "git_url": "git://github.com/google/trax.git",
   "ssh_url": "git@github.com:google/trax.git",
   "clone_url": "https://github.com/google/trax.git",
   "svn_url": "https://github.com/google/trax",
   "homepage": "",
-  "size": 169039,
-  "stargazers_count": 7817,
-  "watchers_count": 7817,
+  "size": 169040,
+  "stargazers_count": 7818,
+  "watchers_count": 7818,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 811,
+  "forks_count": 810,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 119,
+  "open_issues_count": 120,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -107,9 +107,9 @@
     "transformer"
   ],
   "visibility": "public",
-  "forks": 811,
-  "open_issues": 119,
-  "watchers": 7817,
+  "forks": 810,
+  "open_issues": 120,
+  "watchers": 7818,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 273
+  "_index": 275
 }

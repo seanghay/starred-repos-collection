@@ -65,17 +65,17 @@
   "releases_url": "https://api.github.com/repos/wenet-e2e/wenet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wenet-e2e/wenet/deployments",
   "created_at": "2020-11-17T03:57:23Z",
-  "updated_at": "2023-12-05T08:25:39Z",
-  "pushed_at": "2023-12-05T13:01:53Z",
+  "updated_at": "2023-12-06T14:47:20Z",
+  "pushed_at": "2023-12-06T15:08:51Z",
   "git_url": "git://github.com/wenet-e2e/wenet.git",
   "ssh_url": "git@github.com:wenet-e2e/wenet.git",
   "clone_url": "https://github.com/wenet-e2e/wenet.git",
   "svn_url": "https://github.com/wenet-e2e/wenet",
   "homepage": "https://wenet-e2e.github.io/wenet/",
-  "size": 21702,
-  "stargazers_count": 3432,
-  "watchers_count": 3432,
-  "language": "C++",
+  "size": 21786,
+  "stargazers_count": 3434,
+  "watchers_count": 3434,
+  "language": "Python",
   "has_issues": true,
   "has_projects": true,
   "has_downloads": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 951,
   "open_issues": 128,
-  "watchers": 3432,
+  "watchers": 3434,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 93
+  "_index": 95
 }
