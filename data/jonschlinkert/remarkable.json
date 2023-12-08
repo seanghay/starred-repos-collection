@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jonschlinkert/remarkable/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jonschlinkert/remarkable/deployments",
   "created_at": "2014-09-01T17:57:42Z",
-  "updated_at": "2023-12-06T19:35:34Z",
+  "updated_at": "2023-12-07T16:35:22Z",
   "pushed_at": "2023-11-29T16:45:48Z",
   "git_url": "git://github.com/jonschlinkert/remarkable.git",
   "ssh_url": "git@github.com:jonschlinkert/remarkable.git",

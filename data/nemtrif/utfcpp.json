@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/nemtrif/utfcpp/deployments",
   "created_at": "2015-08-15T16:11:54Z",
   "updated_at": "2023-12-06T07:26:57Z",
-  "pushed_at": "2023-12-03T23:06:35Z",
+  "pushed_at": "2023-12-08T01:51:32Z",
   "git_url": "git://github.com/nemtrif/utfcpp.git",
   "ssh_url": "git@github.com:nemtrif/utfcpp.git",
   "clone_url": "https://github.com/nemtrif/utfcpp.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 178,
+  "forks_count": 179,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 0,
+  "open_issues_count": 1,
   "license": {
     "key": "bsl-1.0",
     "name": "Boost Software License 1.0",
@@ -109,8 +109,8 @@
     "utf-8"
   ],
   "visibility": "public",
-  "forks": 178,
-  "open_issues": 0,
+  "forks": 179,
+  "open_issues": 1,
   "watchers": 1303,
   "default_branch": "master",
   "permissions": {
