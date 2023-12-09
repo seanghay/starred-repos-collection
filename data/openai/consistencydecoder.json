@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/openai/consistencydecoder/releases{/id}",
   "deployments_url": "https://api.github.com/repos/openai/consistencydecoder/deployments",
   "created_at": "2023-11-02T13:06:36Z",
-  "updated_at": "2023-12-08T00:40:34Z",
+  "updated_at": "2023-12-08T19:07:25Z",
   "pushed_at": "2023-11-07T11:21:38Z",
   "git_url": "git://github.com/openai/consistencydecoder.git",
   "ssh_url": "git@github.com:openai/consistencydecoder.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 42
+  "_index": 44
 }

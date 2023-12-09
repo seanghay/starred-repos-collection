@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/wenet-e2e/wenet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wenet-e2e/wenet/deployments",
   "created_at": "2020-11-17T03:57:23Z",
-  "updated_at": "2023-12-07T02:55:54Z",
-  "pushed_at": "2023-12-07T16:30:58Z",
+  "updated_at": "2023-12-08T19:05:45Z",
+  "pushed_at": "2023-12-08T15:22:51Z",
   "git_url": "git://github.com/wenet-e2e/wenet.git",
   "ssh_url": "git@github.com:wenet-e2e/wenet.git",
   "clone_url": "https://github.com/wenet-e2e/wenet.git",
   "svn_url": "https://github.com/wenet-e2e/wenet",
   "homepage": "https://wenet-e2e.github.io/wenet/",
-  "size": 21826,
-  "stargazers_count": 3435,
-  "watchers_count": 3435,
+  "size": 22054,
+  "stargazers_count": 3434,
+  "watchers_count": 3434,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 951,
+  "forks_count": 952,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 130,
+  "open_issues_count": 122,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -109,9 +109,9 @@
     "whisper"
   ],
   "visibility": "public",
-  "forks": 951,
-  "open_issues": 130,
-  "watchers": 3435,
+  "forks": 952,
+  "open_issues": 122,
+  "watchers": 3434,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 95
+  "_index": 97
 }

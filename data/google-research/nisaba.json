@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/google-research/nisaba/deployments",
   "created_at": "2020-12-03T22:40:26Z",
   "updated_at": "2023-11-17T16:50:38Z",
-  "pushed_at": "2023-12-08T00:43:18Z",
+  "pushed_at": "2023-12-08T16:32:28Z",
   "git_url": "git://github.com/google-research/nisaba.git",
   "ssh_url": "git@github.com:google-research/nisaba.git",
   "clone_url": "https://github.com/google-research/nisaba.git",
   "svn_url": "https://github.com/google-research/nisaba",
   "homepage": "",
-  "size": 1715,
+  "size": 1716,
   "stargazers_count": 26,
   "watchers_count": 26,
   "language": "C++",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 13,
+  "open_issues_count": 12,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -121,7 +121,7 @@
   ],
   "visibility": "public",
   "forks": 4,
-  "open_issues": 13,
+  "open_issues": 12,
   "watchers": 26,
   "default_branch": "main",
   "permissions": {
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 348
+  "_index": 350
 }

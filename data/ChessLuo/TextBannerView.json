@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ChessLuo/TextBannerView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ChessLuo/TextBannerView/deployments",
   "created_at": "2018-03-28T12:44:05Z",
-  "updated_at": "2023-11-09T09:32:05Z",
+  "updated_at": "2023-12-09T01:46:07Z",
   "pushed_at": "2019-04-30T02:03:25Z",
   "git_url": "git://github.com/ChessLuo/TextBannerView.git",
   "ssh_url": "git@github.com:ChessLuo/TextBannerView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ChessLuo/TextBannerView",
   "homepage": "",
   "size": 5193,
-  "stargazers_count": 428,
-  "watchers_count": 428,
+  "stargazers_count": 427,
+  "watchers_count": 427,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 71,
   "open_issues": 13,
-  "watchers": 428,
+  "watchers": 427,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2471
+  "_index": 2473
 }

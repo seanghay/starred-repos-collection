@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/logto-io/logto/releases{/id}",
   "deployments_url": "https://api.github.com/repos/logto-io/logto/deployments",
   "created_at": "2021-06-19T03:01:50Z",
-  "updated_at": "2023-12-08T01:49:40Z",
-  "pushed_at": "2023-12-07T16:20:12Z",
+  "updated_at": "2023-12-09T00:12:16Z",
+  "pushed_at": "2023-12-08T13:07:24Z",
   "git_url": "git://github.com/logto-io/logto.git",
   "ssh_url": "git@github.com:logto-io/logto.git",
   "clone_url": "https://github.com/logto-io/logto.git",
   "svn_url": "https://github.com/logto-io/logto",
   "homepage": "https://logto.io",
-  "size": 36718,
-  "stargazers_count": 6530,
-  "watchers_count": 6530,
+  "size": 36651,
+  "stargazers_count": 6533,
+  "watchers_count": 6533,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 94,
+  "open_issues_count": 96,
   "license": {
     "key": "mpl-2.0",
     "name": "Mozilla Public License 2.0",
@@ -118,8 +118,8 @@
   ],
   "visibility": "public",
   "forks": 293,
-  "open_issues": 94,
-  "watchers": 6530,
+  "open_issues": 96,
+  "watchers": 6533,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1086
+  "_index": 1088
 }

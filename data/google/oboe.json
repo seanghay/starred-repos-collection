@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/google/oboe/deployments",
   "created_at": "2017-10-02T17:56:48Z",
   "updated_at": "2023-12-07T15:09:04Z",
-  "pushed_at": "2023-12-07T20:30:42Z",
+  "pushed_at": "2023-12-08T18:59:11Z",
   "git_url": "git://github.com/google/oboe.git",
   "ssh_url": "git@github.com:google/oboe.git",
   "clone_url": "https://github.com/google/oboe.git",
   "svn_url": "https://github.com/google/oboe",
   "homepage": "",
-  "size": 54997,
+  "size": 55000,
   "stargazers_count": 3501,
   "watchers_count": 3501,
   "language": "C++",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 91,
+  "open_issues_count": 92,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -104,7 +104,7 @@
   ],
   "visibility": "public",
   "forks": 540,
-  "open_issues": 91,
+  "open_issues": 92,
   "watchers": 3501,
   "default_branch": "main",
   "permissions": {
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2524
+  "_index": 2526
 }

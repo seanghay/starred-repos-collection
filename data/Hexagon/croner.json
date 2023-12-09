@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Hexagon/croner/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Hexagon/croner/deployments",
   "created_at": "2015-12-09T20:43:12Z",
-  "updated_at": "2023-12-07T11:59:26Z",
+  "updated_at": "2023-12-08T13:07:34Z",
   "pushed_at": "2023-12-03T19:38:26Z",
   "git_url": "git://github.com/Hexagon/croner.git",
   "ssh_url": "git@github.com:Hexagon/croner.git",
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 412
+  "_index": 414
 }
