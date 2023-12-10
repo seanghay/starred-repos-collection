@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/atlassian/react-beautiful-dnd/releases{/id}",
   "deployments_url": "https://api.github.com/repos/atlassian/react-beautiful-dnd/deployments",
   "created_at": "2017-08-09T03:37:15Z",
-  "updated_at": "2023-12-08T22:48:45Z",
+  "updated_at": "2023-12-10T01:05:39Z",
   "pushed_at": "2023-12-08T02:03:27Z",
   "git_url": "git://github.com/atlassian/react-beautiful-dnd.git",
   "ssh_url": "git@github.com:atlassian/react-beautiful-dnd.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/atlassian/react-beautiful-dnd",
   "homepage": "https://react-beautiful-dnd.netlify.com",
   "size": 14776,
-  "stargazers_count": 31459,
-  "watchers_count": 31459,
+  "stargazers_count": 31464,
+  "watchers_count": 31464,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2495,
+  "forks_count": 2496,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 612,
+  "open_issues_count": 611,
   "license": {
     "key": "other",
     "name": "Other",
@@ -106,9 +106,9 @@
     "sortable"
   ],
   "visibility": "public",
-  "forks": 2495,
-  "open_issues": 612,
-  "watchers": 31459,
+  "forks": 2496,
+  "open_issues": 611,
+  "watchers": 31464,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 899
+  "_index": 901
 }

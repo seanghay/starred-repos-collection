@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/valeriansaliou/sonic/releases{/id}",
   "deployments_url": "https://api.github.com/repos/valeriansaliou/sonic/deployments",
   "created_at": "2019-02-26T13:16:58Z",
-  "updated_at": "2023-12-09T01:40:31Z",
+  "updated_at": "2023-12-10T01:28:45Z",
   "pushed_at": "2023-12-08T14:56:35Z",
   "git_url": "git://github.com/valeriansaliou/sonic.git",
   "ssh_url": "git@github.com:valeriansaliou/sonic.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/valeriansaliou/sonic",
   "homepage": "https://crates.io/crates/sonic-server",
   "size": 2510,
-  "stargazers_count": 18836,
-  "watchers_count": 18836,
+  "stargazers_count": 18919,
+  "watchers_count": 18919,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 544,
+  "forks_count": 546,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,9 +110,9 @@
     "server"
   ],
   "visibility": "public",
-  "forks": 544,
+  "forks": 546,
   "open_issues": 66,
-  "watchers": 18836,
+  "watchers": 18919,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1427
+  "_index": 1429
 }

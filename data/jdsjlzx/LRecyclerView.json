@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jdsjlzx/LRecyclerView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jdsjlzx/LRecyclerView/deployments",
   "created_at": "2016-05-19T10:12:08Z",
-  "updated_at": "2023-11-29T09:14:48Z",
+  "updated_at": "2023-12-09T08:17:48Z",
   "pushed_at": "2019-06-27T02:37:21Z",
   "git_url": "git://github.com/jdsjlzx/LRecyclerView.git",
   "ssh_url": "git@github.com:jdsjlzx/LRecyclerView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jdsjlzx/LRecyclerView",
   "homepage": "http://blog.csdn.net/jdsjlzx/article/details/51794220",
   "size": 38365,
-  "stargazers_count": 2471,
-  "watchers_count": 2471,
+  "stargazers_count": 2472,
+  "watchers_count": 2472,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 603,
   "open_issues": 102,
-  "watchers": 2471,
+  "watchers": 2472,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2332
+  "_index": 2334
 }
