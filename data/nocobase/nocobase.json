@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/nocobase/nocobase",
-  "description": "NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools. ",
+  "description": "NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools. 极易扩展的无代码/低代码开发平台。",
   "fork": false,
   "url": "https://api.github.com/repos/nocobase/nocobase",
   "forks_url": "https://api.github.com/repos/nocobase/nocobase/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/nocobase/nocobase/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nocobase/nocobase/deployments",
   "created_at": "2020-10-24T07:27:48Z",
-  "updated_at": "2023-12-09T15:09:24Z",
-  "pushed_at": "2023-12-10T00:39:43Z",
+  "updated_at": "2023-12-10T23:49:55Z",
+  "pushed_at": "2023-12-11T01:04:36Z",
   "git_url": "git://github.com/nocobase/nocobase.git",
   "ssh_url": "git@github.com:nocobase/nocobase.git",
   "clone_url": "https://github.com/nocobase/nocobase.git",
   "svn_url": "https://github.com/nocobase/nocobase",
   "homepage": "https://www.nocobase.com",
-  "size": 130717,
-  "stargazers_count": 4970,
-  "watchers_count": 4970,
+  "size": 131038,
+  "stargazers_count": 4972,
+  "watchers_count": 4972,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 679,
+  "forks_count": 680,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 136,
+  "open_issues_count": 137,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -119,9 +119,9 @@
     "workflows"
   ],
   "visibility": "public",
-  "forks": 679,
-  "open_issues": 136,
-  "watchers": 4970,
+  "forks": 680,
+  "open_issues": 137,
+  "watchers": 4972,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1233
+  "_index": 1235
 }

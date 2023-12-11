@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wenet-e2e/WeTextProcessing/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wenet-e2e/WeTextProcessing/deployments",
   "created_at": "2022-08-23T14:33:26Z",
-  "updated_at": "2023-12-06T02:08:03Z",
+  "updated_at": "2023-12-11T00:34:29Z",
   "pushed_at": "2023-12-07T13:40:26Z",
   "git_url": "git://github.com/wenet-e2e/WeTextProcessing.git",
   "ssh_url": "git@github.com:wenet-e2e/WeTextProcessing.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wenet-e2e/WeTextProcessing",
   "homepage": "",
   "size": 523,
-  "stargazers_count": 311,
-  "watchers_count": 311,
+  "stargazers_count": 312,
+  "watchers_count": 312,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 47,
   "open_issues": 4,
-  "watchers": 311,
+  "watchers": 312,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 349
+  "_index": 351
 }

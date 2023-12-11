@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/browserslist/browserslist/releases{/id}",
   "deployments_url": "https://api.github.com/repos/browserslist/browserslist/deployments",
   "created_at": "2014-12-13T19:35:45Z",
-  "updated_at": "2023-12-09T17:50:37Z",
-  "pushed_at": "2023-12-03T05:04:01Z",
+  "updated_at": "2023-12-11T01:51:30Z",
+  "pushed_at": "2023-12-10T15:06:16Z",
   "git_url": "git://github.com/browserslist/browserslist.git",
   "ssh_url": "git@github.com:browserslist/browserslist.git",
   "clone_url": "https://github.com/browserslist/browserslist.git",
   "svn_url": "https://github.com/browserslist/browserslist",
   "homepage": "https://browsersl.ist",
-  "size": 4363,
+  "size": 4393,
   "stargazers_count": 12451,
   "watchers_count": 12451,
   "language": "JavaScript",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 730,
+  "forks_count": 731,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,7 +99,7 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 730,
+  "forks": 731,
   "open_issues": 35,
   "watchers": 12451,
   "default_branch": "main",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1510
+  "_index": 1512
 }

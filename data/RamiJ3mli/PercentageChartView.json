@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/RamiJ3mli/PercentageChartView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/RamiJ3mli/PercentageChartView/deployments",
   "created_at": "2019-03-29T20:30:46Z",
-  "updated_at": "2023-12-01T08:06:15Z",
+  "updated_at": "2023-12-10T18:37:55Z",
   "pushed_at": "2023-10-25T18:52:55Z",
   "git_url": "git://github.com/RamiJ3mli/PercentageChartView.git",
   "ssh_url": "git@github.com:RamiJ3mli/PercentageChartView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/RamiJ3mli/PercentageChartView",
   "homepage": "",
   "size": 62131,
-  "stargazers_count": 376,
-  "watchers_count": 376,
+  "stargazers_count": 375,
+  "watchers_count": 375,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 80,
   "open_issues": 21,
-  "watchers": 376,
+  "watchers": 375,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2892
+  "_index": 2894
 }

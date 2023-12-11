@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/CjangCjengh/vits/releases{/id}",
   "deployments_url": "https://api.github.com/repos/CjangCjengh/vits/deployments",
   "created_at": "2022-08-02T11:28:59Z",
-  "updated_at": "2023-12-09T11:09:47Z",
+  "updated_at": "2023-12-10T07:33:46Z",
   "pushed_at": "2023-12-06T01:29:47Z",
   "git_url": "git://github.com/CjangCjengh/vits.git",
   "ssh_url": "git@github.com:CjangCjengh/vits.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/CjangCjengh/vits",
   "homepage": "",
   "size": 32053,
-  "stargazers_count": 845,
-  "watchers_count": 845,
+  "stargazers_count": 846,
+  "watchers_count": 846,
   "language": "Python",
   "has_issues": false,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 191,
   "open_issues": 0,
-  "watchers": 845,
+  "watchers": 846,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 225
+  "_index": 227
 }

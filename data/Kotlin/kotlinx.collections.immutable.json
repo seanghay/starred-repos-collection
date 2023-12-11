@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/Kotlin/kotlinx.collections.immutable/deployments",
   "created_at": "2016-05-26T17:23:13Z",
   "updated_at": "2023-12-09T15:58:25Z",
-  "pushed_at": "2023-12-04T11:08:47Z",
+  "pushed_at": "2023-12-10T15:14:35Z",
   "git_url": "git://github.com/Kotlin/kotlinx.collections.immutable.git",
   "ssh_url": "git@github.com:Kotlin/kotlinx.collections.immutable.git",
   "clone_url": "https://github.com/Kotlin/kotlinx.collections.immutable.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 51,
+  "forks_count": 52,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 49,
+  "open_issues_count": 51,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -104,8 +104,8 @@
     "kotlin"
   ],
   "visibility": "public",
-  "forks": 51,
-  "open_issues": 49,
+  "forks": 52,
+  "open_issues": 51,
   "watchers": 976,
   "default_branch": "master",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2789
+  "_index": 2791
 }

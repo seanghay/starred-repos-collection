@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/microsoft/fluentui-android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microsoft/fluentui-android/deployments",
   "created_at": "2020-04-20T08:44:32Z",
-  "updated_at": "2023-12-08T23:33:22Z",
+  "updated_at": "2023-12-11T00:47:28Z",
   "pushed_at": "2023-12-08T06:09:37Z",
   "git_url": "git://github.com/microsoft/fluentui-android.git",
   "ssh_url": "git@github.com:microsoft/fluentui-android.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/microsoft/fluentui-android",
   "homepage": null,
   "size": 18164,
-  "stargazers_count": 494,
-  "watchers_count": 494,
+  "stargazers_count": 498,
+  "watchers_count": 498,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 97,
   "open_issues": 39,
-  "watchers": 494,
+  "watchers": 498,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2160
+  "_index": 2162
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/aria2/aria2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/aria2/aria2/deployments",
   "created_at": "2010-11-27T09:41:48Z",
-  "updated_at": "2023-12-09T17:30:49Z",
-  "pushed_at": "2023-11-15T12:10:36Z",
+  "updated_at": "2023-12-11T01:41:31Z",
+  "pushed_at": "2023-12-10T10:54:27Z",
   "git_url": "git://github.com/aria2/aria2.git",
   "ssh_url": "git@github.com:aria2/aria2.git",
   "clone_url": "https://github.com/aria2/aria2.git",
   "svn_url": "https://github.com/aria2/aria2",
   "homepage": "https://aria2.github.io/",
   "size": 31414,
-  "stargazers_count": 32150,
-  "watchers_count": 32150,
+  "stargazers_count": 32161,
+  "watchers_count": 32161,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1034,
+  "open_issues_count": 1035,
   "license": {
     "key": "gpl-2.0",
     "name": "GNU General Public License v2.0",
@@ -109,8 +109,8 @@
   ],
   "visibility": "public",
   "forks": 3388,
-  "open_issues": 1034,
-  "watchers": 32150,
+  "open_issues": 1035,
+  "watchers": 32161,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 823
+  "_index": 825
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/hpcaitech/ColossalAI/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hpcaitech/ColossalAI/deployments",
   "created_at": "2021-10-28T16:19:44Z",
-  "updated_at": "2023-12-09T23:56:29Z",
-  "pushed_at": "2023-12-08T13:24:42Z",
+  "updated_at": "2023-12-11T01:38:11Z",
+  "pushed_at": "2023-12-11T01:19:02Z",
   "git_url": "git://github.com/hpcaitech/ColossalAI.git",
   "ssh_url": "git@github.com:hpcaitech/ColossalAI.git",
   "clone_url": "https://github.com/hpcaitech/ColossalAI.git",
   "svn_url": "https://github.com/hpcaitech/ColossalAI",
   "homepage": "https://www.colossalai.org",
   "size": 28620,
-  "stargazers_count": 35535,
-  "watchers_count": 35535,
+  "stargazers_count": 35544,
+  "watchers_count": 35544,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -114,7 +114,7 @@
   "visibility": "public",
   "forks": 4063,
   "open_issues": 351,
-  "watchers": 35535,
+  "watchers": 35544,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 795
+  "_index": 797
 }

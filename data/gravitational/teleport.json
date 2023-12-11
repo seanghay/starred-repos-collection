@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/gravitational/teleport/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gravitational/teleport/deployments",
   "created_at": "2015-03-02T19:36:00Z",
-  "updated_at": "2023-12-10T00:54:18Z",
-  "pushed_at": "2023-12-09T22:53:08Z",
+  "updated_at": "2023-12-10T11:58:35Z",
+  "pushed_at": "2023-12-10T22:58:17Z",
   "git_url": "git://github.com/gravitational/teleport.git",
   "ssh_url": "git@github.com:gravitational/teleport.git",
   "clone_url": "https://github.com/gravitational/teleport.git",
   "svn_url": "https://github.com/gravitational/teleport",
   "homepage": "https://goteleport.com",
-  "size": 621118,
-  "stargazers_count": 15485,
-  "watchers_count": 15485,
+  "size": 621230,
+  "stargazers_count": 15487,
+  "watchers_count": 15487,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2403,
+  "open_issues_count": 2410,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -121,8 +121,8 @@
   ],
   "visibility": "public",
   "forks": 1616,
-  "open_issues": 2403,
-  "watchers": 15485,
+  "open_issues": 2410,
+  "watchers": 15487,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1537
+  "_index": 1539
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/fastlane/fastlane/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fastlane/fastlane/deployments",
   "created_at": "2014-12-02T17:00:38Z",
-  "updated_at": "2023-12-09T20:40:00Z",
-  "pushed_at": "2023-12-09T22:48:50Z",
+  "updated_at": "2023-12-11T01:23:11Z",
+  "pushed_at": "2023-12-10T23:59:35Z",
   "git_url": "git://github.com/fastlane/fastlane.git",
   "ssh_url": "git@github.com:fastlane/fastlane.git",
   "clone_url": "https://github.com/fastlane/fastlane.git",
   "svn_url": "https://github.com/fastlane/fastlane",
   "homepage": "https://fastlane.tools",
-  "size": 81320,
-  "stargazers_count": 38134,
-  "watchers_count": 38134,
+  "size": 81314,
+  "stargazers_count": 38133,
+  "watchers_count": 38133,
   "language": "Ruby",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 578,
+  "open_issues_count": 577,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,8 +112,8 @@
   ],
   "visibility": "public",
   "forks": 5723,
-  "open_issues": 578,
-  "watchers": 38134,
+  "open_issues": 577,
+  "watchers": 38133,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2676
+  "_index": 2678
 }

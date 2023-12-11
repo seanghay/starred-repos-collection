@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/hyperdevs-team/poeditor-android-gradle-plugin/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hyperdevs-team/poeditor-android-gradle-plugin/deployments",
   "created_at": "2016-07-07T11:17:50Z",
-  "updated_at": "2023-12-08T09:24:53Z",
-  "pushed_at": "2023-11-27T08:01:08Z",
+  "updated_at": "2023-12-11T00:17:21Z",
+  "pushed_at": "2023-12-10T23:50:05Z",
   "git_url": "git://github.com/hyperdevs-team/poeditor-android-gradle-plugin.git",
   "ssh_url": "git@github.com:hyperdevs-team/poeditor-android-gradle-plugin.git",
   "clone_url": "https://github.com/hyperdevs-team/poeditor-android-gradle-plugin.git",
   "svn_url": "https://github.com/hyperdevs-team/poeditor-android-gradle-plugin",
   "homepage": "",
-  "size": 337,
-  "stargazers_count": 48,
-  "watchers_count": 48,
+  "size": 340,
+  "stargazers_count": 49,
+  "watchers_count": 49,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 7,
+  "open_issues_count": 6,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -112,8 +112,8 @@
   ],
   "visibility": "public",
   "forks": 26,
-  "open_issues": 7,
-  "watchers": 48,
+  "open_issues": 6,
+  "watchers": 49,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1850
+  "_index": 1852
 }

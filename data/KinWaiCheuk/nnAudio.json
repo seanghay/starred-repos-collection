@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/KinWaiCheuk/nnAudio/releases{/id}",
   "deployments_url": "https://api.github.com/repos/KinWaiCheuk/nnAudio/deployments",
   "created_at": "2019-09-02T04:31:14Z",
-  "updated_at": "2023-12-07T11:45:09Z",
+  "updated_at": "2023-12-10T22:24:20Z",
   "pushed_at": "2023-09-04T22:14:55Z",
   "git_url": "git://github.com/KinWaiCheuk/nnAudio.git",
   "ssh_url": "git@github.com:KinWaiCheuk/nnAudio.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/KinWaiCheuk/nnAudio",
   "homepage": "",
   "size": 99274,
-  "stargazers_count": 917,
-  "watchers_count": 917,
+  "stargazers_count": 918,
+  "watchers_count": 918,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 88,
   "open_issues": 18,
-  "watchers": 917,
+  "watchers": 918,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 560
+  "_index": 562
 }

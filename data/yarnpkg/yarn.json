@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2920,
+  "forks_count": 2919,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,7 +104,7 @@
     "yarn"
   ],
   "visibility": "public",
-  "forks": 2920,
+  "forks": 2919,
   "open_issues": 1989,
   "watchers": 41268,
   "default_branch": "master",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2032
+  "_index": 2034
 }
