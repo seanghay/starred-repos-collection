@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/deepset-ai/haystack/releases{/id}",
   "deployments_url": "https://api.github.com/repos/deepset-ai/haystack/deployments",
   "created_at": "2019-11-14T09:05:28Z",
-  "updated_at": "2023-12-10T22:33:51Z",
-  "pushed_at": "2023-12-09T18:01:14Z",
+  "updated_at": "2023-12-11T23:29:56Z",
+  "pushed_at": "2023-12-11T19:39:09Z",
   "git_url": "git://github.com/deepset-ai/haystack.git",
   "ssh_url": "git@github.com:deepset-ai/haystack.git",
   "clone_url": "https://github.com/deepset-ai/haystack.git",
   "svn_url": "https://github.com/deepset-ai/haystack",
   "homepage": "https://haystack.deepset.ai",
-  "size": 37822,
-  "stargazers_count": 11874,
-  "watchers_count": 11874,
+  "size": 37829,
+  "stargazers_count": 11888,
+  "watchers_count": 11888,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1500,
+  "forks_count": 1503,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 408,
+  "open_issues_count": 398,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -117,9 +117,9 @@
     "transformers"
   ],
   "visibility": "public",
-  "forks": 1500,
-  "open_issues": 408,
-  "watchers": 11874,
+  "forks": 1503,
+  "open_issues": 398,
+  "watchers": 11888,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 687
+  "_index": 690
 }

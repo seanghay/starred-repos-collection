@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Desklop/RNNoise_Wrapper/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Desklop/RNNoise_Wrapper/deployments",
   "created_at": "2019-11-01T14:29:33Z",
-  "updated_at": "2023-12-09T10:07:17Z",
+  "updated_at": "2023-12-11T13:02:23Z",
   "pushed_at": "2023-03-24T23:40:32Z",
   "git_url": "git://github.com/Desklop/RNNoise_Wrapper.git",
   "ssh_url": "git@github.com:Desklop/RNNoise_Wrapper.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Desklop/RNNoise_Wrapper",
   "homepage": "",
   "size": 34477,
-  "stargazers_count": 101,
-  "watchers_count": 101,
+  "stargazers_count": 102,
+  "watchers_count": 102,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -121,7 +121,7 @@
   "visibility": "public",
   "forks": 33,
   "open_issues": 6,
-  "watchers": 101,
+  "watchers": 102,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 331
+  "_index": 334
 }

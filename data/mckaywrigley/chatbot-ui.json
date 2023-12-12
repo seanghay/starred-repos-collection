@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mckaywrigley/chatbot-ui/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mckaywrigley/chatbot-ui/deployments",
   "created_at": "2023-03-11T14:53:14Z",
-  "updated_at": "2023-12-11T01:41:19Z",
+  "updated_at": "2023-12-11T23:51:27Z",
   "pushed_at": "2023-12-10T22:22:57Z",
   "git_url": "git://github.com/mckaywrigley/chatbot-ui.git",
   "ssh_url": "git@github.com:mckaywrigley/chatbot-ui.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mckaywrigley/chatbot-ui",
   "homepage": "https://chatbotui.com",
   "size": 2290,
-  "stargazers_count": 19009,
-  "watchers_count": 19009,
+  "stargazers_count": 19036,
+  "watchers_count": 19036,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 5674,
+  "forks_count": 5678,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 5674,
+  "forks": 5678,
   "open_issues": 463,
-  "watchers": 19009,
+  "watchers": 19036,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 675
+  "_index": 678
 }

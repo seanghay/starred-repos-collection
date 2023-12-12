@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/unjs/consola/releases{/id}",
   "deployments_url": "https://api.github.com/repos/unjs/consola/deployments",
   "created_at": "2018-03-31T15:47:47Z",
-  "updated_at": "2023-12-10T15:32:59Z",
+  "updated_at": "2023-12-11T06:17:42Z",
   "pushed_at": "2023-12-09T22:05:29Z",
   "git_url": "git://github.com/unjs/consola.git",
   "ssh_url": "git@github.com:unjs/consola.git",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2521
+  "_index": 2524
 }

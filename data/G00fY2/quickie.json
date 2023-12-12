@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/G00fY2/quickie/releases{/id}",
   "deployments_url": "https://api.github.com/repos/G00fY2/quickie/deployments",
   "created_at": "2020-11-16T08:18:08Z",
-  "updated_at": "2023-12-08T09:25:01Z",
+  "updated_at": "2023-12-11T11:52:45Z",
   "pushed_at": "2023-12-08T13:42:58Z",
   "git_url": "git://github.com/G00fY2/quickie.git",
   "ssh_url": "git@github.com:G00fY2/quickie.git",
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1708
+  "_index": 1711
 }

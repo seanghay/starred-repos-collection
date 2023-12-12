@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/mongodb/mongo-kafka/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mongodb/mongo-kafka/deployments",
   "created_at": "2019-04-26T15:05:05Z",
-  "updated_at": "2023-12-07T10:22:45Z",
-  "pushed_at": "2023-12-05T17:10:44Z",
+  "updated_at": "2023-12-11T04:32:46Z",
+  "pushed_at": "2023-12-11T11:53:08Z",
   "git_url": "git://github.com/mongodb/mongo-kafka.git",
   "ssh_url": "git@github.com:mongodb/mongo-kafka.git",
   "clone_url": "https://github.com/mongodb/mongo-kafka.git",
   "svn_url": "https://github.com/mongodb/mongo-kafka",
   "homepage": "",
-  "size": 1968,
-  "stargazers_count": 315,
-  "watchers_count": 315,
+  "size": 1975,
+  "stargazers_count": 316,
+  "watchers_count": 316,
   "language": "Java",
   "has_issues": false,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 9,
+  "open_issues_count": 7,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -112,8 +112,8 @@
   ],
   "visibility": "public",
   "forks": 215,
-  "open_issues": 9,
-  "watchers": 315,
+  "open_issues": 7,
+  "watchers": 316,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1253
+  "_index": 1256
 }

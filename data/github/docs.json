@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/github/docs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/github/docs/deployments",
   "created_at": "2019-05-31T15:57:39Z",
-  "updated_at": "2023-12-10T18:30:12Z",
-  "pushed_at": "2023-12-11T01:48:26Z",
+  "updated_at": "2023-12-11T23:20:05Z",
+  "pushed_at": "2023-12-12T01:48:07Z",
   "git_url": "git://github.com/github/docs.git",
   "ssh_url": "git@github.com:github/docs.git",
   "clone_url": "https://github.com/github/docs.git",
   "svn_url": "https://github.com/github/docs",
   "homepage": "https://docs.github.com",
-  "size": 1845398,
-  "stargazers_count": 15013,
-  "watchers_count": 15013,
+  "size": 1847072,
+  "stargazers_count": 15016,
+  "watchers_count": 15016,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 62400,
+  "forks_count": 62424,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 67,
+  "open_issues_count": 58,
   "license": {
     "key": "cc-by-4.0",
     "name": "Creative Commons Attribution 4.0 International",
@@ -103,9 +103,9 @@
     "works-with-codespaces"
   ],
   "visibility": "public",
-  "forks": 62400,
-  "open_issues": 67,
-  "watchers": 15013,
+  "forks": 62424,
+  "open_issues": 58,
+  "watchers": 15016,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1555
+  "_index": 1558
 }

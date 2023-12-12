@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/CarlGao4/Demucs-Gui",
-  "description": "A GUI and CUDA memory optimizing project based on demucs",
+  "description": "A GUI for music separation project demucs",
   "fork": false,
   "url": "https://api.github.com/repos/CarlGao4/Demucs-Gui",
   "forks_url": "https://api.github.com/repos/CarlGao4/Demucs-Gui/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/CarlGao4/Demucs-Gui/releases{/id}",
   "deployments_url": "https://api.github.com/repos/CarlGao4/Demucs-Gui/deployments",
   "created_at": "2021-12-03T07:31:59Z",
-  "updated_at": "2023-12-04T18:41:26Z",
-  "pushed_at": "2023-12-09T14:13:20Z",
+  "updated_at": "2023-12-11T06:58:21Z",
+  "pushed_at": "2023-12-11T04:25:31Z",
   "git_url": "git://github.com/CarlGao4/Demucs-Gui.git",
   "ssh_url": "git@github.com:CarlGao4/Demucs-Gui.git",
   "clone_url": "https://github.com/CarlGao4/Demucs-Gui.git",
   "svn_url": "https://github.com/CarlGao4/Demucs-Gui",
   "homepage": "",
-  "size": 2736,
-  "stargazers_count": 245,
-  "watchers_count": 245,
+  "size": 2739,
+  "stargazers_count": 247,
+  "watchers_count": 247,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 18,
   "open_issues": 4,
-  "watchers": 245,
+  "watchers": 247,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 99
+  "_index": 102
 }

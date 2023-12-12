@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/umami-software/umami/releases{/id}",
   "deployments_url": "https://api.github.com/repos/umami-software/umami/deployments",
   "created_at": "2020-07-17T07:59:00Z",
-  "updated_at": "2023-12-11T01:17:14Z",
-  "pushed_at": "2023-12-10T10:02:35Z",
+  "updated_at": "2023-12-11T22:41:56Z",
+  "pushed_at": "2023-12-11T04:12:24Z",
   "git_url": "git://github.com/umami-software/umami.git",
   "ssh_url": "git@github.com:umami-software/umami.git",
   "clone_url": "https://github.com/umami-software/umami.git",
   "svn_url": "https://github.com/umami-software/umami",
   "homepage": "https://umami.is",
-  "size": 11926,
-  "stargazers_count": 17747,
-  "watchers_count": 17747,
+  "size": 11923,
+  "stargazers_count": 17757,
+  "watchers_count": 17757,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 3286,
+  "forks_count": 3287,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "web-analytics"
   ],
   "visibility": "public",
-  "forks": 3286,
+  "forks": 3287,
   "open_issues": 64,
-  "watchers": 17747,
+  "watchers": 17757,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2058
+  "_index": 2061
 }

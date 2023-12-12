@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/vuejs/router/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vuejs/router/deployments",
   "created_at": "2019-02-07T18:09:43Z",
-  "updated_at": "2023-12-10T13:54:40Z",
-  "pushed_at": "2023-12-07T09:51:20Z",
+  "updated_at": "2023-12-11T07:03:43Z",
+  "pushed_at": "2023-12-11T15:47:53Z",
   "git_url": "git://github.com/vuejs/router.git",
   "ssh_url": "git@github.com:vuejs/router.git",
   "clone_url": "https://github.com/vuejs/router.git",
   "svn_url": "https://github.com/vuejs/router",
   "homepage": "https://router.vuejs.org/",
-  "size": 10282,
-  "stargazers_count": 3383,
-  "watchers_count": 3383,
+  "size": 10306,
+  "stargazers_count": 3382,
+  "watchers_count": 3382,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1060,
+  "forks_count": 1061,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 53,
+  "open_issues_count": 52,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -102,9 +102,9 @@
     "vue-router"
   ],
   "visibility": "public",
-  "forks": 1060,
-  "open_issues": 53,
-  "watchers": 3383,
+  "forks": 1061,
+  "open_issues": 52,
+  "watchers": 3382,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2307
+  "_index": 2310
 }
