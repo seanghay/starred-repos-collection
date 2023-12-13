@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Homebrew/homebrew-autoupdate/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Homebrew/homebrew-autoupdate/deployments",
   "created_at": "2015-04-22T15:36:13Z",
-  "updated_at": "2023-12-11T07:14:11Z",
+  "updated_at": "2023-12-12T09:32:24Z",
   "pushed_at": "2023-12-11T15:36:05Z",
   "git_url": "git://github.com/Homebrew/homebrew-autoupdate.git",
   "ssh_url": "git@github.com:Homebrew/homebrew-autoupdate.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Homebrew/homebrew-autoupdate",
   "homepage": "",
   "size": 316,
-  "stargazers_count": 834,
-  "watchers_count": 834,
+  "stargazers_count": 835,
+  "watchers_count": 835,
   "language": "Ruby",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 15,
+  "open_issues_count": 14,
   "license": {
     "key": "bsd-2-clause",
     "name": "BSD 2-Clause \"Simplified\" License",
@@ -104,8 +104,8 @@
   ],
   "visibility": "public",
   "forks": 54,
-  "open_issues": 15,
-  "watchers": 834,
+  "open_issues": 14,
+  "watchers": 835,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1643
+  "_index": 1644
 }

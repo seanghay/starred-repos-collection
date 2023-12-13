@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/youlookwhat/ByRecyclerView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/youlookwhat/ByRecyclerView/deployments",
   "created_at": "2019-08-20T13:34:28Z",
-  "updated_at": "2023-12-09T08:15:47Z",
+  "updated_at": "2023-12-12T07:15:13Z",
   "pushed_at": "2023-06-09T01:34:55Z",
   "git_url": "git://github.com/youlookwhat/ByRecyclerView.git",
   "ssh_url": "git@github.com:youlookwhat/ByRecyclerView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/youlookwhat/ByRecyclerView",
   "homepage": "https://youlookwhat.github.io/ByRecyclerView",
   "size": 7480,
-  "stargazers_count": 764,
-  "watchers_count": 764,
+  "stargazers_count": 765,
+  "watchers_count": 765,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 137,
   "open_issues": 8,
-  "watchers": 764,
+  "watchers": 765,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2396
+  "_index": 2397
 }

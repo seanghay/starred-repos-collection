@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nnsvs/nnsvs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nnsvs/nnsvs/deployments",
   "created_at": "2020-04-19T16:06:47Z",
-  "updated_at": "2023-12-11T04:38:51Z",
+  "updated_at": "2023-12-12T13:22:59Z",
   "pushed_at": "2023-10-09T15:59:00Z",
   "git_url": "git://github.com/nnsvs/nnsvs.git",
   "ssh_url": "git@github.com:nnsvs/nnsvs.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nnsvs/nnsvs",
   "homepage": "https://nnsvs.github.io",
   "size": 12605,
-  "stargazers_count": 629,
-  "watchers_count": 629,
+  "stargazers_count": 628,
+  "watchers_count": 628,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 80,
   "open_issues": 18,
-  "watchers": 629,
+  "watchers": 628,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 141
+  "_index": 142
 }

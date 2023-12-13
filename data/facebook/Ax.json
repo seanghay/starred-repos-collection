@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/facebook/Ax/deployments",
   "created_at": "2019-02-09T15:23:44Z",
   "updated_at": "2023-12-11T15:10:54Z",
-  "pushed_at": "2023-12-11T20:03:41Z",
+  "pushed_at": "2023-12-12T21:55:42Z",
   "git_url": "git://github.com/facebook/Ax.git",
   "ssh_url": "git@github.com:facebook/Ax.git",
   "clone_url": "https://github.com/facebook/Ax.git",
   "svn_url": "https://github.com/facebook/Ax",
   "homepage": "https://ax.dev",
-  "size": 556280,
+  "size": 546288,
   "stargazers_count": 2193,
   "watchers_count": 2193,
   "language": "Python",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 284,
+  "forks_count": 285,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 54,
+  "open_issues_count": 58,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -99,8 +99,8 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 284,
-  "open_issues": 54,
+  "forks": 285,
+  "open_issues": 58,
   "watchers": 2193,
   "default_branch": "main",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 475
+  "_index": 476
 }

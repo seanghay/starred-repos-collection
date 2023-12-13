@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/KoljaB/RealtimeSTT/releases{/id}",
   "deployments_url": "https://api.github.com/repos/KoljaB/RealtimeSTT/deployments",
   "created_at": "2023-08-29T17:58:28Z",
-  "updated_at": "2023-12-10T21:27:50Z",
+  "updated_at": "2023-12-12T12:00:43Z",
   "pushed_at": "2023-11-21T16:55:55Z",
   "git_url": "git://github.com/KoljaB/RealtimeSTT.git",
   "ssh_url": "git@github.com:KoljaB/RealtimeSTT.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/KoljaB/RealtimeSTT",
   "homepage": "",
   "size": 127,
-  "stargazers_count": 343,
-  "watchers_count": 343,
+  "stargazers_count": 344,
+  "watchers_count": 344,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 20,
   "open_issues": 5,
-  "watchers": 343,
+  "watchers": 344,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 36
+  "_index": 37
 }

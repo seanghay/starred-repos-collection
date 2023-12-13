@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/theonedev/onedev/releases{/id}",
   "deployments_url": "https://api.github.com/repos/theonedev/onedev/deployments",
   "created_at": "2018-11-06T02:57:01Z",
-  "updated_at": "2023-12-11T23:21:46Z",
-  "pushed_at": "2023-12-11T02:20:05Z",
+  "updated_at": "2023-12-13T01:00:48Z",
+  "pushed_at": "2023-12-13T00:27:09Z",
   "git_url": "git://github.com/theonedev/onedev.git",
   "ssh_url": "git@github.com:theonedev/onedev.git",
   "clone_url": "https://github.com/theonedev/onedev.git",
   "svn_url": "https://github.com/theonedev/onedev",
   "homepage": "https://onedev.io",
-  "size": 207711,
-  "stargazers_count": 12109,
-  "watchers_count": 12109,
+  "size": 207719,
+  "stargazers_count": 12111,
+  "watchers_count": 12111,
   "language": "Java",
   "has_issues": false,
   "has_projects": false,
@@ -88,11 +88,11 @@
   "disabled": false,
   "open_issues_count": 0,
   "license": {
-    "key": "other",
-    "name": "Other",
-    "spdx_id": "NOASSERTION",
-    "url": null,
-    "node_id": "MDc6TGljZW5zZTA="
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
   },
   "allow_forking": true,
   "is_template": false,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 806,
   "open_issues": 0,
-  "watchers": 12109,
+  "watchers": 12111,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2465
+  "_index": 2466
 }

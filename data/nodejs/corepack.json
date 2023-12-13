@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nodejs/corepack/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nodejs/corepack/deployments",
   "created_at": "2020-03-12T15:14:09Z",
-  "updated_at": "2023-12-11T08:07:51Z",
+  "updated_at": "2023-12-13T01:33:13Z",
   "pushed_at": "2023-12-11T14:07:14Z",
   "git_url": "git://github.com/nodejs/corepack.git",
   "ssh_url": "git@github.com:nodejs/corepack.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nodejs/corepack",
   "homepage": "",
   "size": 532257,
-  "stargazers_count": 1829,
-  "watchers_count": 1829,
+  "stargazers_count": 1830,
+  "watchers_count": 1830,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 117,
   "open_issues": 65,
-  "watchers": 1829,
+  "watchers": 1830,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1158
+  "_index": 1159
 }

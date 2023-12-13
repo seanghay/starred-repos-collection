@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 79,
+  "forks_count": 78,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -111,7 +111,7 @@
     "windows-uwp"
   ],
   "visibility": "public",
-  "forks": 79,
+  "forks": 78,
   "open_issues": 63,
   "watchers": 1190,
   "default_branch": "master",
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3270
+  "_index": 3271
 }

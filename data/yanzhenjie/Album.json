@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yanzhenjie/Album/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yanzhenjie/Album/deployments",
   "created_at": "2016-11-02T00:49:15Z",
-  "updated_at": "2023-11-25T04:32:55Z",
+  "updated_at": "2023-12-12T06:56:27Z",
   "pushed_at": "2022-08-25T21:09:56Z",
   "git_url": "git://github.com/yanzhenjie/Album.git",
   "ssh_url": "git@github.com:yanzhenjie/Album.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yanzhenjie/Album",
   "homepage": "https://github.com/yanzhenjie/Album",
   "size": 69554,
-  "stargazers_count": 2496,
-  "watchers_count": 2496,
+  "stargazers_count": 2497,
+  "watchers_count": 2497,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 509,
   "open_issues": 134,
-  "watchers": 2496,
+  "watchers": 2497,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3066
+  "_index": 3067
 }

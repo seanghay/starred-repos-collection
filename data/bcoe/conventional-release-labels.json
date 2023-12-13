@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bcoe/conventional-release-labels/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bcoe/conventional-release-labels/deployments",
   "created_at": "2021-10-08T16:43:43Z",
-  "updated_at": "2023-11-24T20:18:57Z",
+  "updated_at": "2023-12-12T17:25:16Z",
   "pushed_at": "2023-04-29T15:15:22Z",
   "git_url": "git://github.com/bcoe/conventional-release-labels.git",
   "ssh_url": "git@github.com:bcoe/conventional-release-labels.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1540
+  "_index": 1541
 }

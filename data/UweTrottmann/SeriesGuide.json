@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 403,
+  "forks_count": 404,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,7 +106,7 @@
     "tv"
   ],
   "visibility": "public",
-  "forks": 403,
+  "forks": 404,
   "open_issues": 52,
   "watchers": 1869,
   "default_branch": "dev",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2436
+  "_index": 2437
 }

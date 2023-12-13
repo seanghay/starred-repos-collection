@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sdras/awesome-actions/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sdras/awesome-actions/deployments",
   "created_at": "2018-10-17T17:53:45Z",
-  "updated_at": "2023-12-11T19:27:05Z",
+  "updated_at": "2023-12-13T00:51:29Z",
   "pushed_at": "2023-11-01T12:33:31Z",
   "git_url": "git://github.com/sdras/awesome-actions.git",
   "ssh_url": "git@github.com:sdras/awesome-actions.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sdras/awesome-actions",
   "homepage": "",
   "size": 1083,
-  "stargazers_count": 23099,
-  "watchers_count": 23099,
+  "stargazers_count": 23104,
+  "watchers_count": 23104,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1441,
+  "forks_count": 1442,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,9 +108,9 @@
     "github-actions"
   ],
   "visibility": "public",
-  "forks": 1441,
+  "forks": 1442,
   "open_issues": 108,
-  "watchers": 23099,
+  "watchers": 23104,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1556
+  "_index": 1557
 }

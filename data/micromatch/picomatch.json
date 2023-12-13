@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/micromatch/picomatch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/micromatch/picomatch/deployments",
   "created_at": "2018-11-05T12:06:49Z",
-  "updated_at": "2023-12-11T08:55:18Z",
-  "pushed_at": "2023-11-08T18:37:57Z",
+  "updated_at": "2023-12-12T04:19:00Z",
+  "pushed_at": "2023-12-12T20:11:39Z",
   "git_url": "git://github.com/micromatch/picomatch.git",
   "ssh_url": "git@github.com:micromatch/picomatch.git",
   "clone_url": "https://github.com/micromatch/picomatch.git",
   "svn_url": "https://github.com/micromatch/picomatch",
   "homepage": "https://github.com/micromatch",
   "size": 813,
-  "stargazers_count": 805,
-  "watchers_count": 805,
+  "stargazers_count": 806,
+  "watchers_count": 806,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 56,
+  "forks_count": 57,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 33,
+  "open_issues_count": 35,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -116,9 +116,9 @@
     "regular-expression"
   ],
   "visibility": "public",
-  "forks": 56,
-  "open_issues": 33,
-  "watchers": 805,
+  "forks": 57,
+  "open_issues": 35,
+  "watchers": 806,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1007
+  "_index": 1008
 }

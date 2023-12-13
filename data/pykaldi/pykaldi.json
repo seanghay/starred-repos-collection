@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pykaldi/pykaldi/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pykaldi/pykaldi/deployments",
   "created_at": "2017-06-19T18:05:19Z",
-  "updated_at": "2023-12-08T03:00:48Z",
+  "updated_at": "2023-12-13T00:36:16Z",
   "pushed_at": "2023-10-11T14:16:46Z",
   "git_url": "git://github.com/pykaldi/pykaldi.git",
   "ssh_url": "git@github.com:pykaldi/pykaldi.git",
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 248
+  "_index": 249
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lucide-icons/lucide/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lucide-icons/lucide/deployments",
   "created_at": "2020-06-08T15:36:21Z",
-  "updated_at": "2023-12-12T01:47:19Z",
+  "updated_at": "2023-12-12T23:35:46Z",
   "pushed_at": "2023-12-11T23:24:42Z",
   "git_url": "git://github.com/lucide-icons/lucide.git",
   "ssh_url": "git@github.com:lucide-icons/lucide.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lucide-icons/lucide",
   "homepage": "https://lucide.dev",
   "size": 11762,
-  "stargazers_count": 6765,
-  "watchers_count": 6765,
+  "stargazers_count": 6773,
+  "watchers_count": 6773,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 298,
   "open_issues": 167,
-  "watchers": 6765,
+  "watchers": 6773,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1343
+  "_index": 1344
 }

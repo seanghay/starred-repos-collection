@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lerna/lerna/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lerna/lerna/deployments",
   "created_at": "2015-12-04T09:36:55Z",
-  "updated_at": "2023-12-11T22:54:33Z",
+  "updated_at": "2023-12-13T01:07:21Z",
   "pushed_at": "2023-12-11T09:24:04Z",
   "git_url": "git://github.com/lerna/lerna.git",
   "ssh_url": "git@github.com:lerna/lerna.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lerna/lerna",
   "homepage": "https://lerna.js.org",
   "size": 36292,
-  "stargazers_count": 35096,
-  "watchers_count": 35096,
+  "stargazers_count": 35099,
+  "watchers_count": 35099,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 2342,
   "open_issues": 335,
-  "watchers": 35096,
+  "watchers": 35099,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3195
+  "_index": 3196
 }
