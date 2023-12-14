@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/espeak-ng/espeak-ng/releases{/id}",
   "deployments_url": "https://api.github.com/repos/espeak-ng/espeak-ng/deployments",
   "created_at": "2015-12-08T20:42:42Z",
-  "updated_at": "2023-12-13T01:33:55Z",
-  "pushed_at": "2023-12-12T20:02:57Z",
+  "updated_at": "2023-12-14T00:28:32Z",
+  "pushed_at": "2023-12-13T21:03:35Z",
   "git_url": "git://github.com/espeak-ng/espeak-ng.git",
   "ssh_url": "git@github.com:espeak-ng/espeak-ng.git",
   "clone_url": "https://github.com/espeak-ng/espeak-ng.git",
   "svn_url": "https://github.com/espeak-ng/espeak-ng",
   "homepage": "",
-  "size": 57841,
-  "stargazers_count": 2514,
-  "watchers_count": 2514,
+  "size": 57869,
+  "stargazers_count": 2520,
+  "watchers_count": 2520,
   "language": "C",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 725,
+  "forks_count": 726,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 466,
+  "open_issues_count": 465,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -105,9 +105,9 @@
     "text-to-speech"
   ],
   "visibility": "public",
-  "forks": 725,
-  "open_issues": 466,
-  "watchers": 2514,
+  "forks": 726,
+  "open_issues": 465,
+  "watchers": 2520,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 453
+  "_index": 458
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/DylanCaiCoding/LoadingStateView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/DylanCaiCoding/LoadingStateView/deployments",
   "created_at": "2019-06-21T08:16:50Z",
-  "updated_at": "2023-11-28T07:54:56Z",
+  "updated_at": "2023-12-13T13:10:57Z",
   "pushed_at": "2023-06-11T08:42:53Z",
   "git_url": "git://github.com/DylanCaiCoding/LoadingStateView.git",
   "ssh_url": "git@github.com:DylanCaiCoding/LoadingStateView.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1944
+  "_index": 1949
 }

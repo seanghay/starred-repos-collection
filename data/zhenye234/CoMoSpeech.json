@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/zhenye234/CoMoSpeech/deployments",
   "created_at": "2023-05-09T02:12:54Z",
   "updated_at": "2023-12-12T14:03:55Z",
-  "pushed_at": "2023-12-10T16:25:46Z",
+  "pushed_at": "2023-12-13T17:45:49Z",
   "git_url": "git://github.com/zhenye234/CoMoSpeech.git",
   "ssh_url": "git@github.com:zhenye234/CoMoSpeech.git",
   "clone_url": "https://github.com/zhenye234/CoMoSpeech.git",
   "svn_url": "https://github.com/zhenye234/CoMoSpeech",
   "homepage": "",
-  "size": 2466,
+  "size": 2470,
   "stargazers_count": 112,
   "watchers_count": 112,
   "language": "Python",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 128
+  "_index": 133
 }

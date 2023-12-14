@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/JetBrains/kotless/deployments",
   "created_at": "2019-06-17T14:08:52Z",
   "updated_at": "2023-12-08T16:34:27Z",
-  "pushed_at": "2022-10-15T17:50:31Z",
+  "pushed_at": "2023-12-13T11:48:18Z",
   "git_url": "git://github.com/JetBrains/kotless.git",
   "ssh_url": "git@github.com:JetBrains/kotless.git",
   "clone_url": "https://github.com/JetBrains/kotless.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 58,
+  "forks_count": 59,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 56,
+  "open_issues_count": 57,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -107,8 +107,8 @@
     "web"
   ],
   "visibility": "public",
-  "forks": 58,
-  "open_issues": 56,
+  "forks": 59,
+  "open_issues": 57,
   "watchers": 1118,
   "default_branch": "master",
   "permissions": {
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2371
+  "_index": 2376
 }

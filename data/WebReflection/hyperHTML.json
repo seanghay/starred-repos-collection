@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/WebReflection/hyperHTML/releases{/id}",
   "deployments_url": "https://api.github.com/repos/WebReflection/hyperHTML/deployments",
   "created_at": "2017-03-04T11:12:27Z",
-  "updated_at": "2023-12-12T21:19:17Z",
+  "updated_at": "2023-12-13T23:06:04Z",
   "pushed_at": "2023-08-04T08:50:37Z",
   "git_url": "git://github.com/WebReflection/hyperHTML.git",
   "ssh_url": "git@github.com:WebReflection/hyperHTML.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/WebReflection/hyperHTML",
   "homepage": "",
   "size": 4807,
-  "stargazers_count": 3037,
-  "watchers_count": 3037,
+  "stargazers_count": 3038,
+  "watchers_count": 3038,
   "language": "HTML",
   "has_issues": true,
   "has_projects": true,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 155,
   "open_issues": 12,
-  "watchers": 3037,
+  "watchers": 3038,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 667
+  "_index": 672
 }

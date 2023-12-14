@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/google/horologist/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/horologist/deployments",
   "created_at": "2022-01-24T17:27:16Z",
-  "updated_at": "2023-12-11T16:43:04Z",
-  "pushed_at": "2023-12-13T00:38:09Z",
+  "updated_at": "2023-12-13T19:27:36Z",
+  "pushed_at": "2023-12-13T19:57:15Z",
   "git_url": "git://github.com/google/horologist.git",
   "ssh_url": "git@github.com:google/horologist.git",
   "clone_url": "https://github.com/google/horologist.git",
   "svn_url": "https://github.com/google/horologist",
   "homepage": "https://google.github.io/horologist/",
-  "size": 65205,
-  "stargazers_count": 477,
-  "watchers_count": 477,
+  "size": 65607,
+  "stargazers_count": 478,
+  "watchers_count": 478,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 36,
+  "open_issues_count": 35,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -104,8 +104,8 @@
   ],
   "visibility": "public",
   "forks": 78,
-  "open_issues": 36,
-  "watchers": 477,
+  "open_issues": 35,
+  "watchers": 478,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1164
+  "_index": 1169
 }

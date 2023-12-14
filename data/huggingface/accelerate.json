@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/huggingface/accelerate/releases{/id}",
   "deployments_url": "https://api.github.com/repos/huggingface/accelerate/deployments",
   "created_at": "2020-10-30T13:27:12Z",
-  "updated_at": "2023-12-13T00:51:50Z",
-  "pushed_at": "2023-12-13T00:43:21Z",
+  "updated_at": "2023-12-14T00:40:45Z",
+  "pushed_at": "2023-12-13T17:31:51Z",
   "git_url": "git://github.com/huggingface/accelerate.git",
   "ssh_url": "git@github.com:huggingface/accelerate.git",
   "clone_url": "https://github.com/huggingface/accelerate.git",
   "svn_url": "https://github.com/huggingface/accelerate",
   "homepage": "https://huggingface.co/docs/accelerate",
-  "size": 3319,
-  "stargazers_count": 6153,
-  "watchers_count": 6153,
+  "size": 3341,
+  "stargazers_count": 6156,
+  "watchers_count": 6156,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 111,
+  "open_issues_count": 116,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 684,
-  "open_issues": 111,
-  "watchers": 6153,
+  "open_issues": 116,
+  "watchers": 6156,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 780
+  "_index": 785
 }

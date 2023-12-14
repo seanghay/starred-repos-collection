@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/axllent/mailpit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/axllent/mailpit/deployments",
   "created_at": "2022-07-29T11:22:27Z",
-  "updated_at": "2023-12-12T22:33:55Z",
+  "updated_at": "2023-12-13T20:59:22Z",
   "pushed_at": "2023-12-11T04:11:24Z",
   "git_url": "git://github.com/axllent/mailpit.git",
   "ssh_url": "git@github.com:axllent/mailpit.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/axllent/mailpit",
   "homepage": "https://mailpit.axllent.org",
   "size": 1670,
-  "stargazers_count": 3567,
-  "watchers_count": 3567,
+  "stargazers_count": 3577,
+  "watchers_count": 3577,
   "language": "Go",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 89,
+  "forks_count": 90,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "smtp-testing"
   ],
   "visibility": "public",
-  "forks": 89,
+  "forks": 90,
   "open_issues": 0,
-  "watchers": 3567,
+  "watchers": 3577,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 828
+  "_index": 833
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bishoph/sopare/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bishoph/sopare/deployments",
   "created_at": "2015-02-28T16:51:38Z",
-  "updated_at": "2023-11-24T19:16:39Z",
+  "updated_at": "2023-12-13T03:26:18Z",
   "pushed_at": "2021-01-01T16:28:46Z",
   "git_url": "git://github.com/bishoph/sopare.git",
   "ssh_url": "git@github.com:bishoph/sopare.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/bishoph/sopare",
   "homepage": "",
   "size": 359,
-  "stargazers_count": 315,
-  "watchers_count": 315,
+  "stargazers_count": 316,
+  "watchers_count": 316,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 85,
   "open_issues": 35,
-  "watchers": 315,
+  "watchers": 316,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 550
+  "_index": 555
 }

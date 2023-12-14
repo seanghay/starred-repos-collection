@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ExpressGateway/express-gateway/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ExpressGateway/express-gateway/deployments",
   "created_at": "2016-07-06T00:21:45Z",
-  "updated_at": "2023-12-12T12:57:25Z",
+  "updated_at": "2023-12-13T20:31:39Z",
   "pushed_at": "2023-10-08T14:29:30Z",
   "git_url": "git://github.com/ExpressGateway/express-gateway.git",
   "ssh_url": "git@github.com:ExpressGateway/express-gateway.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ExpressGateway/express-gateway",
   "homepage": "https://www.express-gateway.io",
   "size": 8634,
-  "stargazers_count": 2897,
-  "watchers_count": 2897,
+  "stargazers_count": 2898,
+  "watchers_count": 2898,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -114,7 +114,7 @@
   "visibility": "public",
   "forks": 351,
   "open_issues": 76,
-  "watchers": 2897,
+  "watchers": 2898,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1136
+  "_index": 1141
 }

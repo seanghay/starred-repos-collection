@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/alecthomas/participle/releases{/id}",
   "deployments_url": "https://api.github.com/repos/alecthomas/participle/deployments",
   "created_at": "2016-06-28T14:25:14Z",
-  "updated_at": "2023-12-10T02:53:35Z",
-  "pushed_at": "2023-12-01T20:28:15Z",
+  "updated_at": "2023-12-13T12:31:06Z",
+  "pushed_at": "2023-12-13T11:13:26Z",
   "git_url": "git://github.com/alecthomas/participle.git",
   "ssh_url": "git@github.com:alecthomas/participle.git",
   "clone_url": "https://github.com/alecthomas/participle.git",
   "svn_url": "https://github.com/alecthomas/participle",
   "homepage": "",
   "size": 939,
-  "stargazers_count": 3180,
-  "watchers_count": 3180,
+  "stargazers_count": 3182,
+  "watchers_count": 3182,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 221,
+  "forks_count": 222,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -111,9 +111,9 @@
     "participle"
   ],
   "visibility": "public",
-  "forks": 221,
+  "forks": 222,
   "open_issues": 30,
-  "watchers": 3180,
+  "watchers": 3182,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1362
+  "_index": 1367
 }

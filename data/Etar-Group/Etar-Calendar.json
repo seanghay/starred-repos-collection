@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Etar-Group/Etar-Calendar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Etar-Group/Etar-Calendar/deployments",
   "created_at": "2015-09-04T07:33:25Z",
-  "updated_at": "2023-12-12T07:24:34Z",
+  "updated_at": "2023-12-13T20:09:31Z",
   "pushed_at": "2023-12-08T14:49:40Z",
   "git_url": "git://github.com/Etar-Group/Etar-Calendar.git",
   "ssh_url": "git@github.com:Etar-Group/Etar-Calendar.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Etar-Group/Etar-Calendar",
   "homepage": "https://f-droid.org/packages/ws.xsoh.etar/",
   "size": 40345,
-  "stargazers_count": 1805,
-  "watchers_count": 1805,
+  "stargazers_count": 1807,
+  "watchers_count": 1807,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 377,
   "open_issues": 385,
-  "watchers": 1805,
+  "watchers": 1807,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2378
+  "_index": 2383
 }

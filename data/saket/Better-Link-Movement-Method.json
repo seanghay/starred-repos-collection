@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/saket/Better-Link-Movement-Method/releases{/id}",
   "deployments_url": "https://api.github.com/repos/saket/Better-Link-Movement-Method/deployments",
   "created_at": "2016-09-17T09:34:55Z",
-  "updated_at": "2023-12-06T14:36:50Z",
+  "updated_at": "2023-12-13T09:26:04Z",
   "pushed_at": "2021-05-29T03:10:29Z",
   "git_url": "git://github.com/saket/Better-Link-Movement-Method.git",
   "ssh_url": "git@github.com:saket/Better-Link-Movement-Method.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/saket/Better-Link-Movement-Method",
   "homepage": "",
   "size": 973,
-  "stargazers_count": 771,
-  "watchers_count": 771,
+  "stargazers_count": 772,
+  "watchers_count": 772,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 77,
+  "forks_count": 78,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "url"
   ],
   "visibility": "public",
-  "forks": 77,
+  "forks": 78,
   "open_issues": 9,
-  "watchers": 771,
+  "watchers": 772,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2828
+  "_index": 2833
 }

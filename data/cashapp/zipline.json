@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/cashapp/zipline/deployments",
   "created_at": "2015-08-26T19:17:25Z",
   "updated_at": "2023-12-09T11:44:48Z",
-  "pushed_at": "2023-12-13T01:40:02Z",
+  "pushed_at": "2023-12-13T23:34:51Z",
   "git_url": "git://github.com/cashapp/zipline.git",
   "ssh_url": "git@github.com:cashapp/zipline.git",
   "clone_url": "https://github.com/cashapp/zipline.git",
   "svn_url": "https://github.com/cashapp/zipline",
   "homepage": "",
-  "size": 15049,
+  "size": 15052,
   "stargazers_count": 1825,
   "watchers_count": 1825,
   "language": "C",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 871
+  "_index": 876
 }

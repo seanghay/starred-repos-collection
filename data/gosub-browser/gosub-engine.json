@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/gosub-browser/gosub-engine/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gosub-browser/gosub-engine/deployments",
   "created_at": "2023-08-08T17:20:38Z",
-  "updated_at": "2023-12-12T07:37:16Z",
-  "pushed_at": "2023-12-12T15:12:13Z",
+  "updated_at": "2023-12-13T16:43:55Z",
+  "pushed_at": "2023-12-13T14:19:31Z",
   "git_url": "git://github.com/gosub-browser/gosub-engine.git",
   "ssh_url": "git@github.com:gosub-browser/gosub-engine.git",
   "clone_url": "https://github.com/gosub-browser/gosub-engine.git",
   "svn_url": "https://github.com/gosub-browser/gosub-engine",
   "homepage": "https://gosub.io",
-  "size": 1805,
+  "size": 1884,
   "stargazers_count": 2064,
   "watchers_count": 2064,
   "language": "Rust",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 161
+  "_index": 166
 }
