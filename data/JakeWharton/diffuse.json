@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/JakeWharton/diffuse/deployments",
   "created_at": "2015-12-28T08:43:22Z",
   "updated_at": "2023-12-12T13:06:10Z",
-  "pushed_at": "2023-12-05T15:56:12Z",
+  "pushed_at": "2023-12-14T19:50:46Z",
   "git_url": "git://github.com/JakeWharton/diffuse.git",
   "ssh_url": "git@github.com:JakeWharton/diffuse.git",
   "clone_url": "https://github.com/JakeWharton/diffuse.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1877
+  "_index": 1881
 }

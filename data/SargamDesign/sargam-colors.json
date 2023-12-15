@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/SargamDesign/sargam-colors",
-  "description": "A simple scalable color system for designing warm welcoming, caring websites and apps.",
+  "description": "A simple scalable color system for designing warm welcoming, caring sites and apps.",
   "fork": false,
   "url": "https://api.github.com/repos/SargamDesign/sargam-colors",
   "forks_url": "https://api.github.com/repos/SargamDesign/sargam-colors/forks",
@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/SargamDesign/sargam-colors/releases{/id}",
   "deployments_url": "https://api.github.com/repos/SargamDesign/sargam-colors/deployments",
   "created_at": "2022-10-12T00:16:58Z",
-  "updated_at": "2023-11-13T22:03:23Z",
-  "pushed_at": "2023-12-10T14:16:05Z",
+  "updated_at": "2023-12-15T01:00:57Z",
+  "pushed_at": "2023-12-15T01:00:01Z",
   "git_url": "git://github.com/SargamDesign/sargam-colors.git",
   "ssh_url": "git@github.com:SargamDesign/sargam-colors.git",
   "clone_url": "https://github.com/SargamDesign/sargam-colors.git",
@@ -98,15 +98,12 @@
   "is_template": false,
   "web_commit_signoff_required": false,
   "topics": [
-    "color-palette",
     "color-system",
     "colors",
-    "css",
     "design-system",
     "design-tokens",
-    "theme",
     "themes",
-    "token"
+    "vscode"
   ],
   "visibility": "public",
   "forks": 2,
@@ -120,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 999
+  "_index": 1003
 }

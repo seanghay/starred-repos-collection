@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/shssoichiro/oxipng/releases{/id}",
   "deployments_url": "https://api.github.com/repos/shssoichiro/oxipng/deployments",
   "created_at": "2016-01-11T15:45:39Z",
-  "updated_at": "2023-12-13T10:03:58Z",
+  "updated_at": "2023-12-14T21:43:22Z",
   "pushed_at": "2023-12-13T09:47:29Z",
   "git_url": "git://github.com/shssoichiro/oxipng.git",
   "ssh_url": "git@github.com:shssoichiro/oxipng.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/shssoichiro/oxipng",
   "homepage": "",
   "size": 52713,
-  "stargazers_count": 2426,
-  "watchers_count": 2426,
+  "stargazers_count": 2428,
+  "watchers_count": 2428,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 110,
   "open_issues": 37,
-  "watchers": 2426,
+  "watchers": 2428,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 776
+  "_index": 780
 }

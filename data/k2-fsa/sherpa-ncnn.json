@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/k2-fsa/sherpa-ncnn/releases{/id}",
   "deployments_url": "https://api.github.com/repos/k2-fsa/sherpa-ncnn/deployments",
   "created_at": "2022-09-04T11:26:54Z",
-  "updated_at": "2023-12-13T14:59:30Z",
+  "updated_at": "2023-12-14T03:29:18Z",
   "pushed_at": "2023-12-07T09:21:31Z",
   "git_url": "git://github.com/k2-fsa/sherpa-ncnn.git",
   "ssh_url": "git@github.com:k2-fsa/sherpa-ncnn.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/k2-fsa/sherpa-ncnn",
   "homepage": "https://k2-fsa.github.io/sherpa/ncnn/index.html",
   "size": 2073,
-  "stargazers_count": 625,
-  "watchers_count": 625,
+  "stargazers_count": 628,
+  "watchers_count": 628,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 105,
+  "forks_count": 106,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,9 +103,9 @@
     "speech-recognition"
   ],
   "visibility": "public",
-  "forks": 105,
+  "forks": 106,
   "open_issues": 39,
-  "watchers": 625,
+  "watchers": 628,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 33
+  "_index": 37
 }

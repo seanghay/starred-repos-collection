@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/openvpi/audio-slicer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/openvpi/audio-slicer/deployments",
   "created_at": "2022-08-31T10:20:03Z",
-  "updated_at": "2023-12-13T21:02:00Z",
+  "updated_at": "2023-12-14T16:48:12Z",
   "pushed_at": "2023-05-24T10:21:22Z",
   "git_url": "git://github.com/openvpi/audio-slicer.git",
   "ssh_url": "git@github.com:openvpi/audio-slicer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/openvpi/audio-slicer",
   "homepage": "",
   "size": 24,
-  "stargazers_count": 599,
-  "watchers_count": 599,
+  "stargazers_count": 601,
+  "watchers_count": 601,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 215,
   "open_issues": 3,
-  "watchers": 599,
+  "watchers": 601,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 131
+  "_index": 135
 }

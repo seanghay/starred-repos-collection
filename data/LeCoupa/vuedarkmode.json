@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/LeCoupa/vuedarkmode/releases{/id}",
   "deployments_url": "https://api.github.com/repos/LeCoupa/vuedarkmode/deployments",
   "created_at": "2018-09-23T21:35:51Z",
-  "updated_at": "2023-11-25T07:25:51Z",
+  "updated_at": "2023-12-14T12:25:02Z",
   "pushed_at": "2022-12-30T19:31:48Z",
   "git_url": "git://github.com/LeCoupa/vuedarkmode.git",
   "ssh_url": "git@github.com:LeCoupa/vuedarkmode.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/LeCoupa/vuedarkmode",
   "homepage": "https://www.growthbunker.dev/vuedarkmode",
   "size": 4955,
-  "stargazers_count": 1091,
-  "watchers_count": 1091,
+  "stargazers_count": 1092,
+  "watchers_count": 1092,
   "language": "Vue",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 64,
   "open_issues": 8,
-  "watchers": 1091,
+  "watchers": 1092,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3109
+  "_index": 3113
 }

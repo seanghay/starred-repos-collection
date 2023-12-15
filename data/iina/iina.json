@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/iina/iina/releases{/id}",
   "deployments_url": "https://api.github.com/repos/iina/iina/deployments",
   "created_at": "2016-12-19T07:18:45Z",
-  "updated_at": "2023-12-14T01:24:33Z",
-  "pushed_at": "2023-12-13T23:35:57Z",
+  "updated_at": "2023-12-15T00:03:13Z",
+  "pushed_at": "2023-12-14T03:05:21Z",
   "git_url": "git://github.com/iina/iina.git",
   "ssh_url": "git@github.com:iina/iina.git",
   "clone_url": "https://github.com/iina/iina.git",
   "svn_url": "https://github.com/iina/iina",
   "homepage": "https://iina.io",
-  "size": 266992,
-  "stargazers_count": 35122,
-  "watchers_count": 35122,
+  "size": 266994,
+  "stargazers_count": 35127,
+  "watchers_count": 35127,
   "language": "Swift",
   "has_issues": true,
   "has_projects": false,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 2510,
   "open_issues": 1718,
-  "watchers": 35122,
+  "watchers": 35127,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1402
+  "_index": 1406
 }

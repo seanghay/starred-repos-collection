@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/transloadit/uppy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/transloadit/uppy/deployments",
   "created_at": "2015-11-16T12:32:33Z",
-  "updated_at": "2023-12-13T23:25:46Z",
-  "pushed_at": "2023-12-13T10:22:25Z",
+  "updated_at": "2023-12-15T00:42:29Z",
+  "pushed_at": "2023-12-14T19:00:04Z",
   "git_url": "git://github.com/transloadit/uppy.git",
   "ssh_url": "git@github.com:transloadit/uppy.git",
   "clone_url": "https://github.com/transloadit/uppy.git",
   "svn_url": "https://github.com/transloadit/uppy",
   "homepage": "https://uppy.io",
-  "size": 389561,
-  "stargazers_count": 27640,
-  "watchers_count": 27640,
+  "size": 389240,
+  "stargazers_count": 27644,
+  "watchers_count": 27644,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -120,7 +120,7 @@
   "visibility": "public",
   "forks": 1946,
   "open_issues": 164,
-  "watchers": 27640,
+  "watchers": 27644,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2512
+  "_index": 2516
 }

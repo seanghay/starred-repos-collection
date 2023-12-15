@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/execa/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/execa/deployments",
   "created_at": "2015-12-05T22:57:03Z",
-  "updated_at": "2023-12-13T09:18:39Z",
-  "pushed_at": "2023-12-13T20:51:07Z",
+  "updated_at": "2023-12-15T00:55:52Z",
+  "pushed_at": "2023-12-15T00:46:21Z",
   "git_url": "git://github.com/sindresorhus/execa.git",
   "ssh_url": "git@github.com:sindresorhus/execa.git",
   "clone_url": "https://github.com/sindresorhus/execa.git",
   "svn_url": "https://github.com/sindresorhus/execa",
   "homepage": "",
-  "size": 531,
-  "stargazers_count": 6068,
-  "watchers_count": 6068,
+  "size": 537,
+  "stargazers_count": 6070,
+  "watchers_count": 6070,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 26,
+  "open_issues_count": 28,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -111,8 +111,8 @@
   ],
   "visibility": "public",
   "forks": 217,
-  "open_issues": 26,
-  "watchers": 6068,
+  "open_issues": 28,
+  "watchers": 6070,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1400
+  "_index": 1404
 }

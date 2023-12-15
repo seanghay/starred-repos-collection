@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/balderdashy/sails/releases{/id}",
   "deployments_url": "https://api.github.com/repos/balderdashy/sails/deployments",
   "created_at": "2012-03-18T19:46:15Z",
-  "updated_at": "2023-12-13T06:29:56Z",
-  "pushed_at": "2023-11-22T18:20:13Z",
+  "updated_at": "2023-12-14T07:25:41Z",
+  "pushed_at": "2023-12-14T21:34:01Z",
   "git_url": "git://github.com/balderdashy/sails.git",
   "ssh_url": "git@github.com:balderdashy/sails.git",
   "clone_url": "https://github.com/balderdashy/sails.git",
   "svn_url": "https://github.com/balderdashy/sails",
   "homepage": "https://sailsjs.com",
-  "size": 13177,
-  "stargazers_count": 22710,
-  "watchers_count": 22710,
+  "size": 13178,
+  "stargazers_count": 22711,
+  "watchers_count": 22711,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 586,
+  "open_issues_count": 584,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 1999,
-  "open_issues": 586,
-  "watchers": 22710,
+  "open_issues": 584,
+  "watchers": 22711,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3216
+  "_index": 3220
 }

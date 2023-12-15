@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yl4579/HiFTNet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yl4579/HiFTNet/deployments",
   "created_at": "2023-09-19T04:12:34Z",
-  "updated_at": "2023-12-07T18:08:54Z",
+  "updated_at": "2023-12-14T19:14:43Z",
   "pushed_at": "2023-10-03T23:46:09Z",
   "git_url": "git://github.com/yl4579/HiFTNet.git",
   "ssh_url": "git@github.com:yl4579/HiFTNet.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yl4579/HiFTNet",
   "homepage": "",
   "size": 57819,
-  "stargazers_count": 94,
-  "watchers_count": 94,
+  "stargazers_count": 95,
+  "watchers_count": 95,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 10,
   "open_issues": 2,
-  "watchers": 94,
+  "watchers": 95,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 85
+  "_index": 89
 }

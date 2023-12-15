@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/googlemaps/android-maps-utils/releases{/id}",
   "deployments_url": "https://api.github.com/repos/googlemaps/android-maps-utils/deployments",
   "created_at": "2013-05-17T00:08:48Z",
-  "updated_at": "2023-12-10T03:50:12Z",
-  "pushed_at": "2023-12-11T23:18:51Z",
+  "updated_at": "2023-12-14T18:54:07Z",
+  "pushed_at": "2023-12-14T10:26:01Z",
   "git_url": "git://github.com/googlemaps/android-maps-utils.git",
   "ssh_url": "git@github.com:googlemaps/android-maps-utils.git",
   "clone_url": "https://github.com/googlemaps/android-maps-utils.git",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1663
+  "_index": 1667
 }

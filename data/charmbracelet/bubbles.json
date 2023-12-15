@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/charmbracelet/bubbles/releases{/id}",
   "deployments_url": "https://api.github.com/repos/charmbracelet/bubbles/deployments",
   "created_at": "2020-01-18T15:43:23Z",
-  "updated_at": "2023-12-13T21:57:30Z",
-  "pushed_at": "2023-12-13T18:41:55Z",
+  "updated_at": "2023-12-15T01:39:45Z",
+  "pushed_at": "2023-12-14T03:21:50Z",
   "git_url": "git://github.com/charmbracelet/bubbles.git",
   "ssh_url": "git@github.com:charmbracelet/bubbles.git",
   "clone_url": "https://github.com/charmbracelet/bubbles.git",
   "svn_url": "https://github.com/charmbracelet/bubbles",
   "homepage": "",
   "size": 466,
-  "stargazers_count": 4098,
-  "watchers_count": 4098,
+  "stargazers_count": 4106,
+  "watchers_count": 4106,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 122,
+  "open_issues_count": 123,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 176,
-  "open_issues": 122,
-  "watchers": 4098,
+  "open_issues": 123,
+  "watchers": 4106,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1117
+  "_index": 1121
 }

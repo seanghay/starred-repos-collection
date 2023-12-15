@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/mozilla/mozjpeg/deployments",
   "created_at": "2014-01-12T06:25:02Z",
   "updated_at": "2023-12-12T17:24:09Z",
-  "pushed_at": "2023-10-12T16:55:42Z",
+  "pushed_at": "2023-12-15T01:10:12Z",
   "git_url": "git://github.com/mozilla/mozjpeg.git",
   "ssh_url": "git@github.com:mozilla/mozjpeg.git",
   "clone_url": "https://github.com/mozilla/mozjpeg.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 94,
+  "open_issues_count": 95,
   "license": {
     "key": "other",
     "name": "Other",
@@ -106,7 +106,7 @@
   ],
   "visibility": "public",
   "forks": 429,
-  "open_issues": 94,
+  "open_issues": 95,
   "watchers": 5264,
   "default_branch": "master",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2065
+  "_index": 2069
 }
