@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/nhost/nhost/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nhost/nhost/deployments",
   "created_at": "2021-02-09T13:33:34Z",
-  "updated_at": "2023-12-14T17:59:45Z",
-  "pushed_at": "2023-12-13T11:28:17Z",
+  "updated_at": "2023-12-15T21:31:33Z",
+  "pushed_at": "2023-12-15T20:13:10Z",
   "git_url": "git://github.com/nhost/nhost.git",
   "ssh_url": "git@github.com:nhost/nhost.git",
   "clone_url": "https://github.com/nhost/nhost.git",
   "svn_url": "https://github.com/nhost/nhost",
   "homepage": "https://nhost.io",
-  "size": 187762,
+  "size": 187824,
   "stargazers_count": 7224,
   "watchers_count": 7224,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 96,
+  "open_issues_count": 97,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -120,7 +120,7 @@
   ],
   "visibility": "public",
   "forks": 434,
-  "open_issues": 96,
+  "open_issues": 97,
   "watchers": 7224,
   "default_branch": "main",
   "permissions": {
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1655
+  "_index": 1664
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/microsoft/inshellisense/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microsoft/inshellisense/deployments",
   "created_at": "2023-10-08T17:05:40Z",
-  "updated_at": "2023-12-14T23:47:56Z",
+  "updated_at": "2023-12-15T23:08:40Z",
   "pushed_at": "2023-12-14T23:44:21Z",
   "git_url": "git://github.com/microsoft/inshellisense.git",
   "ssh_url": "git@github.com:microsoft/inshellisense.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/microsoft/inshellisense",
   "homepage": "",
   "size": 5030,
-  "stargazers_count": 7610,
-  "watchers_count": 7610,
+  "stargazers_count": 7619,
+  "watchers_count": 7619,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 15,
+  "open_issues_count": 17,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,8 +112,8 @@
   ],
   "visibility": "public",
   "forks": 156,
-  "open_issues": 15,
-  "watchers": 7610,
+  "open_issues": 17,
+  "watchers": 7619,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 56
+  "_index": 65
 }

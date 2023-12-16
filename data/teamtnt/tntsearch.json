@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/teamtnt/tntsearch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/teamtnt/tntsearch/deployments",
   "created_at": "2016-02-26T10:23:57Z",
-  "updated_at": "2023-12-13T00:55:58Z",
+  "updated_at": "2023-12-15T23:49:06Z",
   "pushed_at": "2023-12-06T09:02:11Z",
   "git_url": "git://github.com/teamtnt/tntsearch.git",
   "ssh_url": "git@github.com:teamtnt/tntsearch.git",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1462
+  "_index": 1471
 }

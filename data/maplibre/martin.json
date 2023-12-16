@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/maplibre/martin/releases{/id}",
   "deployments_url": "https://api.github.com/repos/maplibre/martin/deployments",
   "created_at": "2017-09-30T10:53:46Z",
-  "updated_at": "2023-12-14T08:29:21Z",
-  "pushed_at": "2023-12-15T01:38:09Z",
+  "updated_at": "2023-12-15T16:01:11Z",
+  "pushed_at": "2023-12-15T23:43:06Z",
   "git_url": "git://github.com/maplibre/martin.git",
   "ssh_url": "git@github.com:maplibre/martin.git",
   "clone_url": "https://github.com/maplibre/martin.git",
   "svn_url": "https://github.com/maplibre/martin",
   "homepage": "https://martin.maplibre.org",
-  "size": 11756,
-  "stargazers_count": 1580,
-  "watchers_count": 1580,
+  "size": 11753,
+  "stargazers_count": 1579,
+  "watchers_count": 1579,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -117,7 +117,7 @@
   "visibility": "public",
   "forks": 150,
   "open_issues": 72,
-  "watchers": 1580,
+  "watchers": 1579,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 59
+  "_index": 68
 }

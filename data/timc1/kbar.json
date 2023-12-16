@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/timc1/kbar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/timc1/kbar/deployments",
   "created_at": "2021-09-01T21:19:20Z",
-  "updated_at": "2023-12-14T06:20:30Z",
-  "pushed_at": "2023-12-10T16:16:11Z",
+  "updated_at": "2023-12-16T00:29:29Z",
+  "pushed_at": "2023-12-15T16:02:44Z",
   "git_url": "git://github.com/timc1/kbar.git",
   "ssh_url": "git@github.com:timc1/kbar.git",
   "clone_url": "https://github.com/timc1/kbar.git",
   "svn_url": "https://github.com/timc1/kbar",
   "homepage": "https://kbar.vercel.app",
   "size": 906,
-  "stargazers_count": 4408,
-  "watchers_count": 4408,
+  "stargazers_count": 4410,
+  "watchers_count": 4410,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 167,
+  "forks_count": 168,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 18,
+  "open_issues_count": 19,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,9 +106,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 167,
-  "open_issues": 18,
-  "watchers": 4408,
+  "forks": 168,
+  "open_issues": 19,
+  "watchers": 4410,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1589
+  "_index": 1598
 }

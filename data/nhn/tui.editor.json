@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nhn/tui.editor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nhn/tui.editor/deployments",
   "created_at": "2015-07-27T06:57:23Z",
-  "updated_at": "2023-12-14T23:10:04Z",
+  "updated_at": "2023-12-15T14:25:56Z",
   "pushed_at": "2023-10-27T13:59:49Z",
   "git_url": "git://github.com/nhn/tui.editor.git",
   "ssh_url": "git@github.com:nhn/tui.editor.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nhn/tui.editor",
   "homepage": "http://ui.toast.com/tui-editor",
   "size": 82486,
-  "stargazers_count": 16515,
-  "watchers_count": 16515,
+  "stargazers_count": 16520,
+  "watchers_count": 16520,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -114,7 +114,7 @@
   "visibility": "public",
   "forks": 1702,
   "open_issues": 544,
-  "watchers": 16515,
+  "watchers": 16520,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1499
+  "_index": 1508
 }

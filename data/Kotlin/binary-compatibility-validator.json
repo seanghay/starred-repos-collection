@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Kotlin/binary-compatibility-validator/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Kotlin/binary-compatibility-validator/deployments",
   "created_at": "2020-02-06T14:36:53Z",
-  "updated_at": "2023-12-14T22:47:06Z",
-  "pushed_at": "2023-12-14T16:34:43Z",
+  "updated_at": "2023-12-15T10:50:05Z",
+  "pushed_at": "2023-12-15T12:38:53Z",
   "git_url": "git://github.com/Kotlin/binary-compatibility-validator.git",
   "ssh_url": "git@github.com:Kotlin/binary-compatibility-validator.git",
   "clone_url": "https://github.com/Kotlin/binary-compatibility-validator.git",
   "svn_url": "https://github.com/Kotlin/binary-compatibility-validator",
   "homepage": "",
-  "size": 532,
-  "stargazers_count": 639,
-  "watchers_count": 639,
+  "size": 534,
+  "stargazers_count": 641,
+  "watchers_count": 641,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 46,
   "open_issues": 44,
-  "watchers": 639,
+  "watchers": 641,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1659
+  "_index": 1668
 }

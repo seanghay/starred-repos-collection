@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/JetBrains/skiko/deployments",
   "created_at": "2020-07-27T10:27:13Z",
   "updated_at": "2023-12-14T10:03:44Z",
-  "pushed_at": "2023-12-14T19:30:52Z",
+  "pushed_at": "2023-12-15T15:56:09Z",
   "git_url": "git://github.com/JetBrains/skiko.git",
   "ssh_url": "git@github.com:JetBrains/skiko.git",
   "clone_url": "https://github.com/JetBrains/skiko.git",
   "svn_url": "https://github.com/JetBrains/skiko",
   "homepage": null,
-  "size": 20017,
+  "size": 20016,
   "stargazers_count": 1607,
   "watchers_count": 1607,
   "language": "Kotlin",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1988
+  "_index": 1997
 }

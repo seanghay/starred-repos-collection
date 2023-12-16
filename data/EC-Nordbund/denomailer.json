@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/EC-Nordbund/denomailer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/EC-Nordbund/denomailer/deployments",
   "created_at": "2022-01-28T07:04:55Z",
-  "updated_at": "2023-11-01T06:33:43Z",
+  "updated_at": "2023-12-15T03:30:24Z",
   "pushed_at": "2023-12-13T19:49:16Z",
   "git_url": "git://github.com/EC-Nordbund/denomailer.git",
   "ssh_url": "git@github.com:EC-Nordbund/denomailer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/EC-Nordbund/denomailer",
   "homepage": "https://deno.land/x/denomailer",
   "size": 127,
-  "stargazers_count": 44,
-  "watchers_count": 44,
+  "stargazers_count": 45,
+  "watchers_count": 45,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 14,
   "open_issues": 20,
-  "watchers": 44,
+  "watchers": 45,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 832
+  "_index": 841
 }

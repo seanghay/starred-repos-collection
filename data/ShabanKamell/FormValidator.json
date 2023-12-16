@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ShabanKamell/FormValidator/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ShabanKamell/FormValidator/deployments",
   "created_at": "2017-11-11T05:10:20Z",
-  "updated_at": "2023-08-13T07:09:41Z",
+  "updated_at": "2023-12-15T17:04:16Z",
   "pushed_at": "2022-10-06T22:30:02Z",
   "git_url": "git://github.com/ShabanKamell/FormValidator.git",
   "ssh_url": "git@github.com:ShabanKamell/FormValidator.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ShabanKamell/FormValidator",
   "homepage": "",
   "size": 76640,
-  "stargazers_count": 87,
-  "watchers_count": 87,
+  "stargazers_count": 88,
+  "watchers_count": 88,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 12,
   "open_issues": 2,
-  "watchers": 87,
+  "watchers": 88,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2429
+  "_index": 2438
 }

@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 408,
+  "forks_count": 409,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,7 +107,7 @@
     "kotlin-dsl-java"
   ],
   "visibility": "public",
-  "forks": 408,
+  "forks": 409,
   "open_issues": 73,
   "watchers": 3118,
   "default_branch": "master",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2643
+  "_index": 2652
 }

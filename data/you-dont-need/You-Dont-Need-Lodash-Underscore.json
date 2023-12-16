@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/you-dont-need/You-Dont-Need-Lodash-Underscore/releases{/id}",
   "deployments_url": "https://api.github.com/repos/you-dont-need/You-Dont-Need-Lodash-Underscore/deployments",
   "created_at": "2016-01-26T09:26:42Z",
-  "updated_at": "2023-12-14T14:30:26Z",
+  "updated_at": "2023-12-15T16:26:12Z",
   "pushed_at": "2023-12-02T13:44:39Z",
   "git_url": "git://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore.git",
   "ssh_url": "git@github.com:you-dont-need/You-Dont-Need-Lodash-Underscore.git",
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 943
+  "_index": 952
 }

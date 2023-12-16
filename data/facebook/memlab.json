@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/facebook/memlab/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebook/memlab/deployments",
   "created_at": "2022-05-26T20:53:35Z",
-  "updated_at": "2023-12-14T17:01:20Z",
+  "updated_at": "2023-12-15T01:54:28Z",
   "pushed_at": "2023-12-13T19:59:58Z",
   "git_url": "git://github.com/facebook/memlab.git",
   "ssh_url": "git@github.com:facebook/memlab.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/facebook/memlab",
   "homepage": "https://facebook.github.io/memlab/",
   "size": 20554,
-  "stargazers_count": 4041,
-  "watchers_count": 4041,
+  "stargazers_count": 4042,
+  "watchers_count": 4042,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -115,7 +115,7 @@
   "visibility": "public",
   "forks": 113,
   "open_issues": 12,
-  "watchers": 4041,
+  "watchers": 4042,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1000
+  "_index": 1009
 }

@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 18,
+  "open_issues_count": 17,
   "license": {
     "key": "ofl-1.1",
     "name": "SIL Open Font License 1.1",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 477,
-  "open_issues": 18,
+  "open_issues": 17,
   "watchers": 8786,
   "default_branch": "main",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 514
+  "_index": 523
 }

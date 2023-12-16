@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/OAID/Tengine/releases{/id}",
   "deployments_url": "https://api.github.com/repos/OAID/Tengine/deployments",
   "created_at": "2017-12-30T01:21:41Z",
-  "updated_at": "2023-12-14T09:14:23Z",
+  "updated_at": "2023-12-15T07:42:57Z",
   "pushed_at": "2023-10-30T13:51:09Z",
   "git_url": "git://github.com/OAID/Tengine.git",
   "ssh_url": "git@github.com:OAID/Tengine.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/OAID/Tengine",
   "homepage": "",
   "size": 18282,
-  "stargazers_count": 4481,
-  "watchers_count": 4481,
+  "stargazers_count": 4482,
+  "watchers_count": 4482,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1037,
+  "forks_count": 1038,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -117,9 +117,9 @@
     "x86-64"
   ],
   "visibility": "public",
-  "forks": 1037,
+  "forks": 1038,
   "open_issues": 245,
-  "watchers": 4481,
+  "watchers": 4482,
   "default_branch": "tengine-lite",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 32
+  "_index": 41
 }

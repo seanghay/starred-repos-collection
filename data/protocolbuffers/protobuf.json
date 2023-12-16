@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/protocolbuffers/protobuf/releases{/id}",
   "deployments_url": "https://api.github.com/repos/protocolbuffers/protobuf/deployments",
   "created_at": "2014-08-26T15:52:15Z",
-  "updated_at": "2023-12-15T01:34:38Z",
-  "pushed_at": "2023-12-15T01:07:05Z",
+  "updated_at": "2023-12-15T23:33:09Z",
+  "pushed_at": "2023-12-16T01:42:15Z",
   "git_url": "git://github.com/protocolbuffers/protobuf.git",
   "ssh_url": "git@github.com:protocolbuffers/protobuf.git",
   "clone_url": "https://github.com/protocolbuffers/protobuf.git",
   "svn_url": "https://github.com/protocolbuffers/protobuf",
   "homepage": "http://protobuf.dev",
-  "size": 145809,
-  "stargazers_count": 62271,
-  "watchers_count": 62271,
+  "size": 145736,
+  "stargazers_count": 62284,
+  "watchers_count": 62284,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 15370,
+  "forks_count": 15372,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 876,
+  "open_issues_count": 883,
   "license": {
     "key": "other",
     "name": "Other",
@@ -108,9 +108,9 @@
     "serialization"
   ],
   "visibility": "public",
-  "forks": 15370,
-  "open_issues": 876,
-  "watchers": 62271,
+  "forks": 15372,
+  "open_issues": 883,
+  "watchers": 62284,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2554
+  "_index": 2563
 }

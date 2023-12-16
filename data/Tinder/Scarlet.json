@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Tinder/Scarlet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Tinder/Scarlet/deployments",
   "created_at": "2018-05-29T17:23:18Z",
-  "updated_at": "2023-12-09T23:20:06Z",
+  "updated_at": "2023-12-16T00:40:58Z",
   "pushed_at": "2022-08-20T12:58:39Z",
   "git_url": "git://github.com/Tinder/Scarlet.git",
   "ssh_url": "git@github.com:Tinder/Scarlet.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1942
+  "_index": 1951
 }

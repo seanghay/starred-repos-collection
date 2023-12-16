@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tighten/ziggy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tighten/ziggy/deployments",
   "created_at": "2017-08-02T21:07:04Z",
-  "updated_at": "2023-12-14T17:52:49Z",
+  "updated_at": "2023-12-15T10:08:35Z",
   "pushed_at": "2023-12-11T15:52:44Z",
   "git_url": "git://github.com/tighten/ziggy.git",
   "ssh_url": "git@github.com:tighten/ziggy.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/tighten/ziggy",
   "homepage": "",
   "size": 2736,
-  "stargazers_count": 3495,
-  "watchers_count": 3495,
+  "stargazers_count": 3496,
+  "watchers_count": 3496,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 274,
+  "forks_count": 275,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "ziggy"
   ],
   "visibility": "public",
-  "forks": 274,
+  "forks": 275,
   "open_issues": 4,
-  "watchers": 3495,
+  "watchers": 3496,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1871
+  "_index": 1880
 }
