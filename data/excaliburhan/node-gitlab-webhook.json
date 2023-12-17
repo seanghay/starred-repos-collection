@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/excaliburhan/node-gitlab-webhook/releases{/id}",
   "deployments_url": "https://api.github.com/repos/excaliburhan/node-gitlab-webhook/deployments",
   "created_at": "2017-01-22T03:16:08Z",
-  "updated_at": "2022-11-04T07:07:51Z",
+  "updated_at": "2023-12-16T19:22:41Z",
   "pushed_at": "2019-04-01T03:34:18Z",
   "git_url": "git://github.com/excaliburhan/node-gitlab-webhook.git",
   "ssh_url": "git@github.com:excaliburhan/node-gitlab-webhook.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/excaliburhan/node-gitlab-webhook",
   "homepage": null,
   "size": 11,
-  "stargazers_count": 50,
-  "watchers_count": 50,
+  "stargazers_count": 51,
+  "watchers_count": 51,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 8,
   "open_issues": 0,
-  "watchers": 50,
+  "watchers": 51,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3288
+  "_index": 3292
 }

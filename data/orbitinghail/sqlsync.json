@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/orbitinghail/sqlsync/releases{/id}",
   "deployments_url": "https://api.github.com/repos/orbitinghail/sqlsync/deployments",
   "created_at": "2023-05-26T15:52:29Z",
-  "updated_at": "2023-12-15T19:20:19Z",
+  "updated_at": "2023-12-16T21:18:42Z",
   "pushed_at": "2023-12-04T22:01:21Z",
   "git_url": "git://github.com/orbitinghail/sqlsync.git",
   "ssh_url": "git@github.com:orbitinghail/sqlsync.git",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 37
+  "_index": 41
 }

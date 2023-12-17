@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yaochangliang159/Android-TabView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yaochangliang159/Android-TabView/deployments",
   "created_at": "2016-08-14T08:29:59Z",
-  "updated_at": "2023-12-12T09:09:34Z",
+  "updated_at": "2023-12-17T01:06:32Z",
   "pushed_at": "2016-08-15T00:49:05Z",
   "git_url": "git://github.com/yaochangliang159/Android-TabView.git",
   "ssh_url": "git@github.com:yaochangliang159/Android-TabView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yaochangliang159/Android-TabView",
   "homepage": null,
   "size": 240,
-  "stargazers_count": 232,
-  "watchers_count": 232,
+  "stargazers_count": 233,
+  "watchers_count": 233,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 53,
   "open_issues": 7,
-  "watchers": 232,
+  "watchers": 233,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2160
+  "_index": 2164
 }

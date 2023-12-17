@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/drizzle-team/drizzle-orm",
-  "description": "Headless TypeScript ORM with the head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅",
+  "description": "Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅",
   "fork": false,
   "url": "https://api.github.com/repos/drizzle-team/drizzle-orm",
   "forks_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/deployments",
   "created_at": "2021-06-24T09:03:05Z",
-  "updated_at": "2023-12-16T01:22:30Z",
-  "pushed_at": "2023-12-15T12:34:15Z",
+  "updated_at": "2023-12-16T23:33:30Z",
+  "pushed_at": "2023-12-17T01:30:50Z",
   "git_url": "git://github.com/drizzle-team/drizzle-orm.git",
   "ssh_url": "git@github.com:drizzle-team/drizzle-orm.git",
   "clone_url": "https://github.com/drizzle-team/drizzle-orm.git",
   "svn_url": "https://github.com/drizzle-team/drizzle-orm",
   "homepage": "https://orm.drizzle.team",
   "size": 23758,
-  "stargazers_count": 15570,
-  "watchers_count": 15570,
+  "stargazers_count": 15585,
+  "watchers_count": 15585,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 332,
+  "forks_count": 333,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 554,
+  "open_issues_count": 558,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -119,9 +119,9 @@
     "vercel-postgres"
   ],
   "visibility": "public",
-  "forks": 332,
-  "open_issues": 554,
-  "watchers": 15570,
+  "forks": 333,
+  "open_issues": 558,
+  "watchers": 15585,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 621
+  "_index": 625
 }

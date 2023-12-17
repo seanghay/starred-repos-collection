@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/RazrFalcon/resvg/releases{/id}",
   "deployments_url": "https://api.github.com/repos/RazrFalcon/resvg/deployments",
   "created_at": "2016-10-27T16:07:55Z",
-  "updated_at": "2023-12-15T21:54:02Z",
-  "pushed_at": "2023-12-10T12:58:44Z",
+  "updated_at": "2023-12-16T11:16:20Z",
+  "pushed_at": "2023-12-16T15:12:17Z",
   "git_url": "git://github.com/RazrFalcon/resvg.git",
   "ssh_url": "git@github.com:RazrFalcon/resvg.git",
   "clone_url": "https://github.com/RazrFalcon/resvg.git",
   "svn_url": "https://github.com/RazrFalcon/resvg",
   "homepage": "",
-  "size": 17270,
-  "stargazers_count": 2301,
-  "watchers_count": 2301,
+  "size": 17280,
+  "stargazers_count": 2303,
+  "watchers_count": 2303,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 195,
   "open_issues": 63,
-  "watchers": 2301,
+  "watchers": 2303,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1020
+  "_index": 1024
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/VRGsoftUA/VideoCrop/releases{/id}",
   "deployments_url": "https://api.github.com/repos/VRGsoftUA/VideoCrop/deployments",
   "created_at": "2018-08-21T11:48:14Z",
-  "updated_at": "2023-11-09T14:49:45Z",
+  "updated_at": "2023-12-16T10:10:56Z",
   "pushed_at": "2019-08-11T18:35:15Z",
   "git_url": "git://github.com/VRGsoftUA/VideoCrop.git",
   "ssh_url": "git@github.com:VRGsoftUA/VideoCrop.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3018
+  "_index": 3022
 }

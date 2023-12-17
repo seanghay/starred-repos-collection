@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/godotengine/godot/releases{/id}",
   "deployments_url": "https://api.github.com/repos/godotengine/godot/deployments",
   "created_at": "2014-01-04T16:05:36Z",
-  "updated_at": "2023-12-16T00:13:12Z",
-  "pushed_at": "2023-12-16T01:45:35Z",
+  "updated_at": "2023-12-17T01:43:39Z",
+  "pushed_at": "2023-12-17T00:51:15Z",
   "git_url": "git://github.com/godotengine/godot.git",
   "ssh_url": "git@github.com:godotengine/godot.git",
   "clone_url": "https://github.com/godotengine/godot.git",
   "svn_url": "https://github.com/godotengine/godot",
   "homepage": "https://godotengine.org",
-  "size": 1257554,
-  "stargazers_count": 78660,
-  "watchers_count": 78660,
+  "size": 1257860,
+  "stargazers_count": 78686,
+  "watchers_count": 78686,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 16375,
+  "forks_count": 16382,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 11564,
+  "open_issues_count": 11537,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,9 +108,9 @@
     "open-source"
   ],
   "visibility": "public",
-  "forks": 16375,
-  "open_issues": 11564,
-  "watchers": 78660,
+  "forks": 16382,
+  "open_issues": 11537,
+  "watchers": 78686,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 242
+  "_index": 246
 }

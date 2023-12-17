@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Garvys/rustfst/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Garvys/rustfst/deployments",
   "created_at": "2018-09-13T21:21:45Z",
-  "updated_at": "2023-11-24T19:43:14Z",
+  "updated_at": "2023-12-16T07:08:18Z",
   "pushed_at": "2023-09-18T14:00:38Z",
   "git_url": "git://github.com/Garvys/rustfst.git",
   "ssh_url": "git@github.com:Garvys/rustfst.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Garvys/rustfst",
   "homepage": "https://docs.rs/rustfst",
   "size": 6531,
-  "stargazers_count": 132,
-  "watchers_count": 132,
+  "stargazers_count": 133,
+  "watchers_count": 133,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -122,7 +122,7 @@
   "visibility": "public",
   "forks": 14,
   "open_issues": 23,
-  "watchers": 132,
+  "watchers": 133,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 124
+  "_index": 128
 }

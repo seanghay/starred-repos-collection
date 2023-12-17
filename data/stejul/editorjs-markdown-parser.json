@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/stejul/editorjs-markdown-parser/releases{/id}",
   "deployments_url": "https://api.github.com/repos/stejul/editorjs-markdown-parser/deployments",
   "created_at": "2020-08-25T06:26:12Z",
-  "updated_at": "2023-11-27T06:49:09Z",
+  "updated_at": "2023-12-16T06:11:19Z",
   "pushed_at": "2020-11-13T19:36:50Z",
   "git_url": "git://github.com/stejul/editorjs-markdown-parser.git",
   "ssh_url": "git@github.com:stejul/editorjs-markdown-parser.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/stejul/editorjs-markdown-parser",
   "homepage": "",
   "size": 555,
-  "stargazers_count": 48,
-  "watchers_count": 48,
+  "stargazers_count": 49,
+  "watchers_count": 49,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 15,
+  "forks_count": 16,
   "mirror_url": null,
   "archived": true,
   "disabled": false,
@@ -105,9 +105,9 @@
     "markdown"
   ],
   "visibility": "public",
-  "forks": 15,
+  "forks": 16,
   "open_issues": 0,
-  "watchers": 48,
+  "watchers": 49,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1501
+  "_index": 1505
 }

@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/robolectric/robolectric.git",
   "svn_url": "https://github.com/robolectric/robolectric",
   "homepage": "http://robolectric.org",
-  "size": 55502,
+  "size": 55510,
   "stargazers_count": 5739,
   "watchers_count": 5739,
   "language": "Java",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2621
+  "_index": 2625
 }

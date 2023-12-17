@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/outfoxx/swiftpoet/deployments",
   "created_at": "2018-06-14T00:09:54Z",
   "updated_at": "2023-11-30T12:48:58Z",
-  "pushed_at": "2023-12-15T20:29:18Z",
+  "pushed_at": "2023-12-16T11:09:21Z",
   "git_url": "git://github.com/outfoxx/swiftpoet.git",
   "ssh_url": "git@github.com:outfoxx/swiftpoet.git",
   "clone_url": "https://github.com/outfoxx/swiftpoet.git",
   "svn_url": "https://github.com/outfoxx/swiftpoet",
   "homepage": "",
-  "size": 5795,
+  "size": 5804,
   "stargazers_count": 264,
   "watchers_count": 264,
   "language": "Kotlin",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 4,
+  "open_issues_count": 2,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -104,7 +104,7 @@
   ],
   "visibility": "public",
   "forks": 26,
-  "open_issues": 4,
+  "open_issues": 2,
   "watchers": 264,
   "default_branch": "main",
   "permissions": {
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2132
+  "_index": 2136
 }

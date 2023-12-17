@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/sequelize/sequelize/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sequelize/sequelize/deployments",
   "created_at": "2010-07-22T07:11:11Z",
-  "updated_at": "2023-12-15T22:30:23Z",
-  "pushed_at": "2023-12-16T01:47:23Z",
+  "updated_at": "2023-12-16T21:52:42Z",
+  "pushed_at": "2023-12-16T07:28:05Z",
   "git_url": "git://github.com/sequelize/sequelize.git",
   "ssh_url": "git@github.com:sequelize/sequelize.git",
   "clone_url": "https://github.com/sequelize/sequelize.git",
   "svn_url": "https://github.com/sequelize/sequelize",
   "homepage": "https://sequelize.org/",
-  "size": 54281,
-  "stargazers_count": 28664,
-  "watchers_count": 28664,
+  "size": 54285,
+  "stargazers_count": 28666,
+  "watchers_count": 28666,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 4273,
+  "forks_count": 4274,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 896,
+  "open_issues_count": 895,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -118,9 +118,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 4273,
-  "open_issues": 896,
-  "watchers": 28664,
+  "forks": 4274,
+  "open_issues": 895,
+  "watchers": 28666,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1982
+  "_index": 1986
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/drethage/speech-denoising-wavenet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/drethage/speech-denoising-wavenet/deployments",
   "created_at": "2017-06-19T23:38:08Z",
-  "updated_at": "2023-12-11T11:52:22Z",
+  "updated_at": "2023-12-16T21:49:20Z",
   "pushed_at": "2023-07-06T21:12:03Z",
   "git_url": "git://github.com/drethage/speech-denoising-wavenet.git",
   "ssh_url": "git@github.com:drethage/speech-denoising-wavenet.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/drethage/speech-denoising-wavenet",
   "homepage": null,
   "size": 60122,
-  "stargazers_count": 645,
-  "watchers_count": 645,
+  "stargazers_count": 647,
+  "watchers_count": 647,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 164,
   "open_issues": 32,
-  "watchers": 645,
+  "watchers": 647,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 404
+  "_index": 408
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/apple/swift-package-manager/releases{/id}",
   "deployments_url": "https://api.github.com/repos/apple/swift-package-manager/deployments",
   "created_at": "2015-10-23T21:41:12Z",
-  "updated_at": "2023-12-15T14:20:37Z",
-  "pushed_at": "2023-12-16T00:21:05Z",
+  "updated_at": "2023-12-16T12:02:41Z",
+  "pushed_at": "2023-12-16T13:07:40Z",
   "git_url": "git://github.com/apple/swift-package-manager.git",
   "ssh_url": "git@github.com:apple/swift-package-manager.git",
   "clone_url": "https://github.com/apple/swift-package-manager.git",
   "svn_url": "https://github.com/apple/swift-package-manager",
   "homepage": "",
-  "size": 28692,
-  "stargazers_count": 9451,
-  "watchers_count": 9451,
+  "size": 28693,
+  "stargazers_count": 9452,
+  "watchers_count": 9452,
   "language": "Swift",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 1325,
   "open_issues": 716,
-  "watchers": 9451,
+  "watchers": 9452,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2123
+  "_index": 2127
 }

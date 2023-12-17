@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/metabrainz/picard/releases{/id}",
   "deployments_url": "https://api.github.com/repos/metabrainz/picard/deployments",
   "created_at": "2011-08-16T22:30:23Z",
-  "updated_at": "2023-12-16T00:33:39Z",
-  "pushed_at": "2023-12-15T17:38:38Z",
+  "updated_at": "2023-12-16T07:37:12Z",
+  "pushed_at": "2023-12-16T18:28:38Z",
   "git_url": "git://github.com/metabrainz/picard.git",
   "ssh_url": "git@github.com:metabrainz/picard.git",
   "clone_url": "https://github.com/metabrainz/picard.git",
   "svn_url": "https://github.com/metabrainz/picard",
   "homepage": "https://picard.musicbrainz.org",
-  "size": 74290,
-  "stargazers_count": 3406,
-  "watchers_count": 3406,
+  "size": 75283,
+  "stargazers_count": 3407,
+  "watchers_count": 3407,
   "language": "Python",
   "has_issues": false,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 6,
+  "open_issues_count": 5,
   "license": {
     "key": "gpl-2.0",
     "name": "GNU General Public License v2.0",
@@ -111,8 +111,8 @@
   ],
   "visibility": "public",
   "forks": 380,
-  "open_issues": 6,
-  "watchers": 3406,
+  "open_issues": 5,
+  "watchers": 3407,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 317
+  "_index": 321
 }

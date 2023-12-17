@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/svg/svgo/releases{/id}",
   "deployments_url": "https://api.github.com/repos/svg/svgo/deployments",
   "created_at": "2012-08-22T10:41:43Z",
-  "updated_at": "2023-12-15T15:21:23Z",
-  "pushed_at": "2023-12-15T15:44:23Z",
+  "updated_at": "2023-12-16T18:52:39Z",
+  "pushed_at": "2023-12-16T16:30:55Z",
   "git_url": "git://github.com/svg/svgo.git",
   "ssh_url": "git@github.com:svg/svgo.git",
   "clone_url": "https://github.com/svg/svgo.git",
   "svn_url": "https://github.com/svg/svgo",
   "homepage": "",
-  "size": 5142,
-  "stargazers_count": 19929,
-  "watchers_count": 19929,
+  "size": 5144,
+  "stargazers_count": 19933,
+  "watchers_count": 19933,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 1401,
   "open_issues": 231,
-  "watchers": 19929,
+  "watchers": 19933,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2316
+  "_index": 2320
 }

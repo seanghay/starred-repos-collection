@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/GraphiteEditor/Graphite/releases{/id}",
   "deployments_url": "https://api.github.com/repos/GraphiteEditor/Graphite/deployments",
   "created_at": "2020-04-26T07:29:29Z",
-  "updated_at": "2023-12-15T21:11:04Z",
-  "pushed_at": "2023-12-15T00:21:27Z",
+  "updated_at": "2023-12-17T00:08:21Z",
+  "pushed_at": "2023-12-16T23:09:52Z",
   "git_url": "git://github.com/GraphiteEditor/Graphite.git",
   "ssh_url": "git@github.com:GraphiteEditor/Graphite.git",
   "clone_url": "https://github.com/GraphiteEditor/Graphite.git",
   "svn_url": "https://github.com/GraphiteEditor/Graphite",
   "homepage": "https://graphite.rs",
-  "size": 26957,
-  "stargazers_count": 5001,
-  "watchers_count": 5001,
+  "size": 27017,
+  "stargazers_count": 5004,
+  "watchers_count": 5004,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 217,
+  "forks_count": 218,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 129,
+  "open_issues_count": 131,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -120,9 +120,9 @@
     "vector-editor"
   ],
   "visibility": "public",
-  "forks": 217,
-  "open_issues": 129,
-  "watchers": 5001,
+  "forks": 218,
+  "open_issues": 131,
+  "watchers": 5004,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 369
+  "_index": 373
 }
