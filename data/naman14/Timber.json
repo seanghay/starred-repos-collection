@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 2180,
+  "forks_count": 2179,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -97,7 +97,7 @@
     "music-player"
   ],
   "visibility": "public",
-  "forks": 2180,
+  "forks": 2179,
   "open_issues": 215,
   "watchers": 6923,
   "default_branch": "master",
@@ -108,5 +108,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 848
+  "_index": 857
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/guolindev/LitePal/releases{/id}",
   "deployments_url": "https://api.github.com/repos/guolindev/LitePal/deployments",
   "created_at": "2013-02-20T03:20:07Z",
-  "updated_at": "2023-12-14T08:57:58Z",
+  "updated_at": "2023-12-18T01:31:35Z",
   "pushed_at": "2022-08-19T08:29:56Z",
   "git_url": "git://github.com/guolindev/LitePal.git",
   "ssh_url": "git@github.com:guolindev/LitePal.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/guolindev/LitePal",
   "homepage": "",
   "size": 5433,
-  "stargazers_count": 8038,
-  "watchers_count": 8038,
+  "stargazers_count": 8039,
+  "watchers_count": 8039,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 1592,
   "open_issues": 89,
-  "watchers": 8038,
+  "watchers": 8039,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2266
+  "_index": 2275
 }

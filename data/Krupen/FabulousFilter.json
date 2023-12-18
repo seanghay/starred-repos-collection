@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Krupen/FabulousFilter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Krupen/FabulousFilter/deployments",
   "created_at": "2017-06-26T11:36:38Z",
-  "updated_at": "2023-12-14T21:19:31Z",
+  "updated_at": "2023-12-17T15:43:40Z",
   "pushed_at": "2023-09-07T10:31:41Z",
   "git_url": "git://github.com/Krupen/FabulousFilter.git",
   "ssh_url": "git@github.com:Krupen/FabulousFilter.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Krupen/FabulousFilter",
   "homepage": "",
   "size": 14037,
-  "stargazers_count": 2661,
-  "watchers_count": 2661,
+  "stargazers_count": 2662,
+  "watchers_count": 2662,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -116,7 +116,7 @@
   "visibility": "public",
   "forks": 328,
   "open_issues": 5,
-  "watchers": 2661,
+  "watchers": 2662,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2934
+  "_index": 2943
 }

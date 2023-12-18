@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/dotansimha/graphql-code-generator/releases{/id}",
   "deployments_url": "https://api.github.com/repos/dotansimha/graphql-code-generator/deployments",
   "created_at": "2016-12-05T19:15:11Z",
-  "updated_at": "2023-12-16T15:33:34Z",
-  "pushed_at": "2023-12-16T01:31:36Z",
+  "updated_at": "2023-12-17T19:46:09Z",
+  "pushed_at": "2023-12-17T09:11:10Z",
   "git_url": "git://github.com/dotansimha/graphql-code-generator.git",
   "ssh_url": "git@github.com:dotansimha/graphql-code-generator.git",
   "clone_url": "https://github.com/dotansimha/graphql-code-generator.git",
   "svn_url": "https://github.com/dotansimha/graphql-code-generator",
   "homepage": "https://the-guild.dev/graphql/codegen/",
-  "size": 88498,
-  "stargazers_count": 10439,
-  "watchers_count": 10439,
+  "size": 88224,
+  "stargazers_count": 10440,
+  "watchers_count": 10440,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -115,7 +115,7 @@
   "visibility": "public",
   "forks": 1308,
   "open_issues": 535,
-  "watchers": 10439,
+  "watchers": 10440,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2349
+  "_index": 2358
 }

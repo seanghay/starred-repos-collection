@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fastai/course-nlp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fastai/course-nlp/deployments",
   "created_at": "2019-05-14T20:39:05Z",
-  "updated_at": "2023-12-14T03:05:21Z",
+  "updated_at": "2023-12-17T14:44:06Z",
   "pushed_at": "2023-03-22T15:41:27Z",
   "git_url": "git://github.com/fastai/course-nlp.git",
   "ssh_url": "git@github.com:fastai/course-nlp.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/fastai/course-nlp",
   "homepage": "https://www.fast.ai/2019/07/08/fastai-nlp/",
   "size": 17096,
-  "stargazers_count": 3360,
-  "watchers_count": 3360,
+  "stargazers_count": 3361,
+  "watchers_count": 3361,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1477,
+  "forks_count": 1478,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -98,9 +98,9 @@
     "python"
   ],
   "visibility": "public",
-  "forks": 1477,
+  "forks": 1478,
   "open_issues": 55,
-  "watchers": 3360,
+  "watchers": 3361,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 824
+  "_index": 833
 }

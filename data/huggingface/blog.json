@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/huggingface/blog/releases{/id}",
   "deployments_url": "https://api.github.com/repos/huggingface/blog/deployments",
   "created_at": "2020-02-14T15:39:05Z",
-  "updated_at": "2023-12-16T14:46:01Z",
+  "updated_at": "2023-12-17T16:49:23Z",
   "pushed_at": "2023-12-16T20:51:33Z",
   "git_url": "git://github.com/huggingface/blog.git",
   "ssh_url": "git@github.com:huggingface/blog.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/huggingface/blog",
   "homepage": "https://hf.co/blog",
   "size": 456140,
-  "stargazers_count": 1584,
-  "watchers_count": 1584,
+  "stargazers_count": 1586,
+  "watchers_count": 1586,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -97,7 +97,7 @@
   "visibility": "public",
   "forks": 517,
   "open_issues": 185,
-  "watchers": 1584,
+  "watchers": 1586,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -106,5 +106,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 627
+  "_index": 636
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/TryGhost/Ghost/releases{/id}",
   "deployments_url": "https://api.github.com/repos/TryGhost/Ghost/deployments",
   "created_at": "2013-05-04T11:09:13Z",
-  "updated_at": "2023-12-16T21:27:26Z",
+  "updated_at": "2023-12-18T00:47:57Z",
   "pushed_at": "2023-12-15T15:28:15Z",
   "git_url": "git://github.com/TryGhost/Ghost.git",
   "ssh_url": "git@github.com:TryGhost/Ghost.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/TryGhost/Ghost",
   "homepage": "https://ghost.org",
   "size": 243895,
-  "stargazers_count": 44636,
-  "watchers_count": 44636,
+  "stargazers_count": 44643,
+  "watchers_count": 44643,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -114,7 +114,7 @@
   "visibility": "public",
   "forks": 9976,
   "open_issues": 109,
-  "watchers": 44636,
+  "watchers": 44643,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2610
+  "_index": 2619
 }

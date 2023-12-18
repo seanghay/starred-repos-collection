@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/openvpi/MakeDiffSinger/releases{/id}",
   "deployments_url": "https://api.github.com/repos/openvpi/MakeDiffSinger/deployments",
   "created_at": "2023-04-12T04:58:33Z",
-  "updated_at": "2023-12-09T10:03:42Z",
+  "updated_at": "2023-12-17T08:34:52Z",
   "pushed_at": "2023-12-09T16:32:24Z",
   "git_url": "git://github.com/openvpi/MakeDiffSinger.git",
   "ssh_url": "git@github.com:openvpi/MakeDiffSinger.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/openvpi/MakeDiffSinger",
   "homepage": null,
   "size": 376,
-  "stargazers_count": 52,
-  "watchers_count": 52,
+  "stargazers_count": 53,
+  "watchers_count": 53,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 10,
   "open_issues": 2,
-  "watchers": 52,
+  "watchers": 53,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 537
+  "_index": 546
 }

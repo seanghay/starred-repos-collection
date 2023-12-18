@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/PaddlePaddle/FastDeploy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/PaddlePaddle/FastDeploy/deployments",
   "created_at": "2022-06-27T10:22:10Z",
-  "updated_at": "2023-12-16T15:35:59Z",
+  "updated_at": "2023-12-17T12:57:09Z",
   "pushed_at": "2023-12-14T11:09:44Z",
   "git_url": "git://github.com/PaddlePaddle/FastDeploy.git",
   "ssh_url": "git@github.com:PaddlePaddle/FastDeploy.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/PaddlePaddle/FastDeploy",
   "homepage": "https://www.paddlepaddle.org.cn/fastdeploy",
   "size": 38692,
-  "stargazers_count": 2470,
-  "watchers_count": 2470,
+  "stargazers_count": 2473,
+  "watchers_count": 2473,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -119,7 +119,7 @@
   "visibility": "public",
   "forks": 412,
   "open_issues": 698,
-  "watchers": 2470,
+  "watchers": 2473,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1
+  "_index": 10
 }

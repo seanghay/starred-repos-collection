@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/leosuncin/nest-auth-example/releases{/id}",
   "deployments_url": "https://api.github.com/repos/leosuncin/nest-auth-example/deployments",
   "created_at": "2019-05-06T22:00:21Z",
-  "updated_at": "2023-12-06T12:58:33Z",
-  "pushed_at": "2023-12-10T05:15:46Z",
+  "updated_at": "2023-12-17T11:15:49Z",
+  "pushed_at": "2023-12-17T05:00:47Z",
   "git_url": "git://github.com/leosuncin/nest-auth-example.git",
   "ssh_url": "git@github.com:leosuncin/nest-auth-example.git",
   "clone_url": "https://github.com/leosuncin/nest-auth-example.git",
   "svn_url": "https://github.com/leosuncin/nest-auth-example",
   "homepage": "",
-  "size": 5803,
-  "stargazers_count": 315,
-  "watchers_count": 315,
+  "size": 6058,
+  "stargazers_count": 316,
+  "watchers_count": 316,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 4,
+  "open_issues_count": 2,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 53,
-  "open_issues": 4,
-  "watchers": 315,
+  "open_issues": 2,
+  "watchers": 316,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1584
+  "_index": 1593
 }
