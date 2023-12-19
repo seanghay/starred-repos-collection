@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/magic-research/magic-animate/releases{/id}",
   "deployments_url": "https://api.github.com/repos/magic-research/magic-animate/deployments",
   "created_at": "2023-11-21T08:33:54Z",
-  "updated_at": "2023-12-18T01:44:05Z",
+  "updated_at": "2023-12-19T01:39:56Z",
   "pushed_at": "2023-12-14T20:50:48Z",
   "git_url": "git://github.com/magic-research/magic-animate.git",
   "ssh_url": "git@github.com:magic-research/magic-animate.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/magic-research/magic-animate",
   "homepage": "https://showlab.github.io/magicanimate/",
   "size": 25460,
-  "stargazers_count": 7884,
-  "watchers_count": 7884,
+  "stargazers_count": 7938,
+  "watchers_count": 7938,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 828,
+  "forks_count": 840,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 84,
+  "open_issues_count": 87,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 828,
-  "open_issues": 84,
-  "watchers": 7884,
+  "forks": 840,
+  "open_issues": 87,
+  "watchers": 7938,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 51
+  "_index": 53
 }

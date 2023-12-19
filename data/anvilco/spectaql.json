@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/anvilco/spectaql/releases{/id}",
   "deployments_url": "https://api.github.com/repos/anvilco/spectaql/deployments",
   "created_at": "2021-03-16T21:57:13Z",
-  "updated_at": "2023-12-17T23:42:27Z",
-  "pushed_at": "2023-12-11T18:42:31Z",
+  "updated_at": "2023-12-19T00:43:12Z",
+  "pushed_at": "2023-12-18T18:12:49Z",
   "git_url": "git://github.com/anvilco/spectaql.git",
   "ssh_url": "git@github.com:anvilco/spectaql.git",
   "clone_url": "https://github.com/anvilco/spectaql.git",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1014
+  "_index": 1016
 }

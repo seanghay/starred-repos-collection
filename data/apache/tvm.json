@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/apache/tvm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/apache/tvm/deployments",
   "created_at": "2016-10-12T22:20:28Z",
-  "updated_at": "2023-12-17T22:42:28Z",
-  "pushed_at": "2023-12-17T22:20:04Z",
+  "updated_at": "2023-12-18T15:46:10Z",
+  "pushed_at": "2023-12-18T21:49:19Z",
   "git_url": "git://github.com/apache/tvm.git",
   "ssh_url": "git@github.com:apache/tvm.git",
   "clone_url": "https://github.com/apache/tvm.git",
   "svn_url": "https://github.com/apache/tvm",
   "homepage": "https://tvm.apache.org/",
-  "size": 98612,
-  "stargazers_count": 10637,
-  "watchers_count": 10637,
+  "size": 98498,
+  "stargazers_count": 10643,
+  "watchers_count": 10643,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3284,
+  "forks_count": 3286,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 801,
+  "open_issues_count": 800,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -113,9 +113,9 @@
     "vulkan"
   ],
   "visibility": "public",
-  "forks": 3284,
-  "open_issues": 801,
-  "watchers": 10637,
+  "forks": 3286,
+  "open_issues": 800,
+  "watchers": 10643,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 621
+  "_index": 623
 }

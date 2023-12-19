@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Snowdar/asv-subtools/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Snowdar/asv-subtools/deployments",
   "created_at": "2020-03-02T11:12:06Z",
-  "updated_at": "2023-12-15T03:03:04Z",
+  "updated_at": "2023-12-19T00:10:58Z",
   "pushed_at": "2023-07-09T04:59:54Z",
   "git_url": "git://github.com/Snowdar/asv-subtools.git",
   "ssh_url": "git@github.com:Snowdar/asv-subtools.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Snowdar/asv-subtools",
   "homepage": "",
   "size": 14339,
-  "stargazers_count": 554,
-  "watchers_count": 554,
+  "stargazers_count": 555,
+  "watchers_count": 555,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 135,
   "open_issues": 19,
-  "watchers": 554,
+  "watchers": 555,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 124
+  "_index": 126
 }

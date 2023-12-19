@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/JakeWharton/mosaic/deployments",
   "created_at": "2020-09-03T17:34:46Z",
   "updated_at": "2023-12-18T01:36:20Z",
-  "pushed_at": "2023-12-17T20:00:52Z",
+  "pushed_at": "2023-12-19T00:25:51Z",
   "git_url": "git://github.com/JakeWharton/mosaic.git",
   "ssh_url": "git@github.com:JakeWharton/mosaic.git",
   "clone_url": "https://github.com/JakeWharton/mosaic.git",
   "svn_url": "https://github.com/JakeWharton/mosaic",
   "homepage": "",
-  "size": 2970,
+  "size": 2973,
   "stargazers_count": 1702,
   "watchers_count": 1702,
   "language": "Kotlin",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1724
+  "_index": 1726
 }

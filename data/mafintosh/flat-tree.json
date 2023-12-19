@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mafintosh/flat-tree/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mafintosh/flat-tree/deployments",
   "created_at": "2015-06-15T23:32:39Z",
-  "updated_at": "2023-09-11T10:21:46Z",
+  "updated_at": "2023-12-18T10:27:28Z",
   "pushed_at": "2023-11-04T11:31:03Z",
   "git_url": "git://github.com/mafintosh/flat-tree.git",
   "ssh_url": "git@github.com:mafintosh/flat-tree.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mafintosh/flat-tree",
   "homepage": null,
   "size": 37,
-  "stargazers_count": 141,
-  "watchers_count": 141,
+  "stargazers_count": 142,
+  "watchers_count": 142,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 16,
   "open_issues": 7,
-  "watchers": 141,
+  "watchers": 142,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 907
+  "_index": 909
 }

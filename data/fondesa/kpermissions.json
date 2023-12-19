@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fondesa/kpermissions/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fondesa/kpermissions/deployments",
   "created_at": "2018-01-05T18:07:15Z",
-  "updated_at": "2023-12-17T06:22:55Z",
+  "updated_at": "2023-12-18T14:02:14Z",
   "pushed_at": "2023-12-11T16:07:51Z",
   "git_url": "git://github.com/fondesa/kpermissions.git",
   "ssh_url": "git@github.com:fondesa/kpermissions.git",
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2061
+  "_index": 2063
 }

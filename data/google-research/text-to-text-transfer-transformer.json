@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/google-research/text-to-text-transfer-transformer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google-research/text-to-text-transfer-transformer/deployments",
   "created_at": "2019-10-17T21:45:14Z",
-  "updated_at": "2023-12-17T12:48:01Z",
-  "pushed_at": "2023-12-06T17:30:35Z",
+  "updated_at": "2023-12-18T23:24:14Z",
+  "pushed_at": "2023-12-18T19:53:02Z",
   "git_url": "git://github.com/google-research/text-to-text-transfer-transformer.git",
   "ssh_url": "git@github.com:google-research/text-to-text-transfer-transformer.git",
   "clone_url": "https://github.com/google-research/text-to-text-transfer-transformer.git",
   "svn_url": "https://github.com/google-research/text-to-text-transfer-transformer",
   "homepage": "https://arxiv.org/abs/1910.10683",
   "size": 5543,
-  "stargazers_count": 5642,
-  "watchers_count": 5642,
+  "stargazers_count": 5645,
+  "watchers_count": 5645,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 107,
+  "open_issues_count": 106,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 744,
-  "open_issues": 107,
-  "watchers": 5642,
+  "open_issues": 106,
+  "watchers": 5645,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 982
+  "_index": 984
 }

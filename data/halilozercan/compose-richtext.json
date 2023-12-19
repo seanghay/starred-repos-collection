@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/halilozercan/compose-richtext/releases{/id}",
   "deployments_url": "https://api.github.com/repos/halilozercan/compose-richtext/deployments",
   "created_at": "2020-03-08T02:22:55Z",
-  "updated_at": "2023-12-15T14:46:05Z",
+  "updated_at": "2023-12-19T01:37:28Z",
   "pushed_at": "2023-09-07T22:15:09Z",
   "git_url": "git://github.com/halilozercan/compose-richtext.git",
   "ssh_url": "git@github.com:halilozercan/compose-richtext.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/halilozercan/compose-richtext",
   "homepage": "https://halilibo.com/compose-richtext",
   "size": 6896,
-  "stargazers_count": 679,
-  "watchers_count": 679,
+  "stargazers_count": 680,
+  "watchers_count": 680,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 47,
+  "forks_count": 48,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "kotlin"
   ],
   "visibility": "public",
-  "forks": 47,
+  "forks": 48,
   "open_issues": 29,
-  "watchers": 679,
+  "watchers": 680,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2327
+  "_index": 2329
 }

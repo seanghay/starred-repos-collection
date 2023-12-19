@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/httpie/cli/releases{/id}",
   "deployments_url": "https://api.github.com/repos/httpie/cli/deployments",
   "created_at": "2012-02-25T12:39:13Z",
-  "updated_at": "2023-12-18T01:30:47Z",
+  "updated_at": "2023-12-19T01:00:43Z",
   "pushed_at": "2023-12-09T12:17:09Z",
   "git_url": "git://github.com/httpie/cli.git",
   "ssh_url": "git@github.com:httpie/cli.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/httpie/cli",
   "homepage": "https://httpie.io",
   "size": 6906,
-  "stargazers_count": 30455,
-  "watchers_count": 30455,
+  "stargazers_count": 30471,
+  "watchers_count": 30471,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -122,7 +122,7 @@
   "visibility": "public",
   "forks": 3839,
   "open_issues": 171,
-  "watchers": 30455,
+  "watchers": 30471,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1329
+  "_index": 1331
 }

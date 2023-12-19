@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/microsoft/SpeechT5/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microsoft/SpeechT5/deployments",
   "created_at": "2022-02-08T03:29:02Z",
-  "updated_at": "2023-12-16T21:16:46Z",
+  "updated_at": "2023-12-18T20:17:07Z",
   "pushed_at": "2023-07-06T22:27:39Z",
   "git_url": "git://github.com/microsoft/SpeechT5.git",
   "ssh_url": "git@github.com:microsoft/SpeechT5.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/microsoft/SpeechT5",
   "homepage": "",
   "size": 13491,
-  "stargazers_count": 876,
-  "watchers_count": 876,
+  "stargazers_count": 879,
+  "watchers_count": 879,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 98,
   "open_issues": 24,
-  "watchers": 876,
+  "watchers": 879,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 433
+  "_index": 435
 }

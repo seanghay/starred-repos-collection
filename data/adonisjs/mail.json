@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/adonisjs/mail.git",
   "svn_url": "https://github.com/adonisjs/mail",
   "homepage": "",
-  "size": 1282,
+  "size": 1284,
   "stargazers_count": 90,
   "watchers_count": 90,
   "language": "TypeScript",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1311
+  "_index": 1313
 }

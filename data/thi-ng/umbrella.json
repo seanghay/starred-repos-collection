@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/thi-ng/umbrella",
-  "description": "⛱  Broadly scoped ecosystem & mono-repository of 186 TypeScript projects (and 148 examples) for general purpose, functional, data driven development",
+  "description": "⛱  Broadly scoped ecosystem & mono-repository of 187 TypeScript projects (and 149 examples) for general purpose, functional, data driven development",
   "fork": false,
   "url": "https://api.github.com/repos/thi-ng/umbrella",
   "forks_url": "https://api.github.com/repos/thi-ng/umbrella/forks",
@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/thi-ng/umbrella/releases{/id}",
   "deployments_url": "https://api.github.com/repos/thi-ng/umbrella/deployments",
   "created_at": "2018-01-24T02:31:44Z",
-  "updated_at": "2023-12-18T01:44:34Z",
-  "pushed_at": "2023-12-17T23:02:08Z",
+  "updated_at": "2023-12-18T22:13:31Z",
+  "pushed_at": "2023-12-18T23:13:34Z",
   "git_url": "git://github.com/thi-ng/umbrella.git",
   "ssh_url": "git@github.com:thi-ng/umbrella.git",
   "clone_url": "https://github.com/thi-ng/umbrella.git",
   "svn_url": "https://github.com/thi-ng/umbrella",
   "homepage": "https://thi.ng",
-  "size": 193968,
+  "size": 194591,
   "stargazers_count": 3099,
   "watchers_count": 3099,
   "language": "TypeScript",
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2001
+  "_index": 2003
 }

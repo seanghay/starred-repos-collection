@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wenet-e2e/wespeaker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wenet-e2e/wespeaker/deployments",
   "created_at": "2021-09-28T15:25:44Z",
-  "updated_at": "2023-12-15T07:24:32Z",
+  "updated_at": "2023-12-18T06:23:10Z",
   "pushed_at": "2023-12-07T02:54:43Z",
   "git_url": "git://github.com/wenet-e2e/wespeaker.git",
   "ssh_url": "git@github.com:wenet-e2e/wespeaker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wenet-e2e/wespeaker",
   "homepage": "",
   "size": 622,
-  "stargazers_count": 421,
-  "watchers_count": 421,
+  "stargazers_count": 422,
+  "watchers_count": 422,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -116,7 +116,7 @@
   "visibility": "public",
   "forks": 80,
   "open_issues": 4,
-  "watchers": 421,
+  "watchers": 422,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 90
+  "_index": 92
 }

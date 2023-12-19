@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/salesforce/Merlion/releases{/id}",
   "deployments_url": "https://api.github.com/repos/salesforce/Merlion/deployments",
   "created_at": "2021-07-28T15:30:56Z",
-  "updated_at": "2023-12-17T02:26:48Z",
+  "updated_at": "2023-12-18T09:00:33Z",
   "pushed_at": "2023-09-15T08:41:38Z",
   "git_url": "git://github.com/salesforce/Merlion.git",
   "ssh_url": "git@github.com:salesforce/Merlion.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/salesforce/Merlion",
   "homepage": "",
   "size": 105802,
-  "stargazers_count": 3162,
-  "watchers_count": 3162,
+  "stargazers_count": 3163,
+  "watchers_count": 3163,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 276,
   "open_issues": 25,
-  "watchers": 3162,
+  "watchers": 3163,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 771
+  "_index": 773
 }

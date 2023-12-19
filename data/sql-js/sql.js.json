@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sql-js/sql.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sql-js/sql.js/deployments",
   "created_at": "2012-02-27T03:05:49Z",
-  "updated_at": "2023-12-18T01:12:26Z",
+  "updated_at": "2023-12-18T20:06:32Z",
   "pushed_at": "2023-11-28T20:22:15Z",
   "git_url": "git://github.com/sql-js/sql.js.git",
   "ssh_url": "git@github.com:sql-js/sql.js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sql-js/sql.js",
   "homepage": "http://sql.js.org",
   "size": 137326,
-  "stargazers_count": 11906,
-  "watchers_count": 11906,
+  "stargazers_count": 11905,
+  "watchers_count": 11905,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 1115,
   "open_issues": 125,
-  "watchers": 11906,
+  "watchers": 11905,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1177
+  "_index": 1179
 }
