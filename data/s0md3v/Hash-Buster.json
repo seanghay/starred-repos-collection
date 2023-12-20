@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 399,
+  "forks_count": 400,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,7 +110,7 @@
     "sha512"
   ],
   "visibility": "public",
-  "forks": 399,
+  "forks": 400,
   "open_issues": 22,
   "watchers": 1595,
   "default_branch": "master",

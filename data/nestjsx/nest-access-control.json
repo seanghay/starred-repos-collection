@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nestjsx/nest-access-control/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nestjsx/nest-access-control/deployments",
   "created_at": "2018-05-22T00:51:39Z",
-  "updated_at": "2023-12-18T22:37:38Z",
+  "updated_at": "2023-12-19T07:50:04Z",
   "pushed_at": "2023-10-11T15:37:27Z",
   "git_url": "git://github.com/nestjsx/nest-access-control.git",
   "ssh_url": "git@github.com:nestjsx/nest-access-control.git",
