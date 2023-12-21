@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/NATSpeech/NATSpeech/releases{/id}",
   "deployments_url": "https://api.github.com/repos/NATSpeech/NATSpeech/deployments",
   "created_at": "2022-02-13T03:44:45Z",
-  "updated_at": "2023-12-13T00:52:02Z",
+  "updated_at": "2023-12-20T07:59:50Z",
   "pushed_at": "2023-04-02T00:55:24Z",
   "git_url": "git://github.com/NATSpeech/NATSpeech.git",
   "ssh_url": "git@github.com:NATSpeech/NATSpeech.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/NATSpeech/NATSpeech",
   "homepage": "",
   "size": 177,
-  "stargazers_count": 928,
-  "watchers_count": 928,
+  "stargazers_count": 930,
+  "watchers_count": 930,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 100,
   "open_issues": 19,
-  "watchers": 928,
+  "watchers": 930,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 141
+  "_index": 149
 }

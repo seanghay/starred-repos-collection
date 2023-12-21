@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/marian-nmt/marian-examples/releases{/id}",
   "deployments_url": "https://api.github.com/repos/marian-nmt/marian-examples/deployments",
   "created_at": "2017-11-11T16:39:29Z",
-  "updated_at": "2023-11-24T19:35:21Z",
+  "updated_at": "2023-12-20T03:27:26Z",
   "pushed_at": "2023-04-08T18:17:02Z",
   "git_url": "git://github.com/marian-nmt/marian-examples.git",
   "ssh_url": "git@github.com:marian-nmt/marian-examples.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/marian-nmt/marian-examples",
   "homepage": "",
   "size": 544,
-  "stargazers_count": 73,
-  "watchers_count": 73,
+  "stargazers_count": 74,
+  "watchers_count": 74,
   "language": "Shell",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 33,
   "open_issues": 2,
-  "watchers": 73,
+  "watchers": 74,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 186
+  "_index": 194
 }

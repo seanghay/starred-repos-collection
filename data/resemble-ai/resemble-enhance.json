@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/resemble-ai/resemble-enhance/releases{/id}",
   "deployments_url": "https://api.github.com/repos/resemble-ai/resemble-enhance/deployments",
   "created_at": "2023-11-15T08:15:51Z",
-  "updated_at": "2023-12-19T20:57:22Z",
-  "pushed_at": "2023-12-15T10:49:48Z",
+  "updated_at": "2023-12-21T00:05:51Z",
+  "pushed_at": "2023-12-20T02:58:19Z",
   "git_url": "git://github.com/resemble-ai/resemble-enhance.git",
   "ssh_url": "git@github.com:resemble-ai/resemble-enhance.git",
   "clone_url": "https://github.com/resemble-ai/resemble-enhance.git",
   "svn_url": "https://github.com/resemble-ai/resemble-enhance",
-  "homepage": "",
-  "size": 37,
-  "stargazers_count": 304,
-  "watchers_count": 304,
+  "homepage": "https://huggingface.co/spaces/ResembleAI/resemble-enhance",
+  "size": 38,
+  "stargazers_count": 313,
+  "watchers_count": 313,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 24,
+  "forks_count": 25,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "speech-processing"
   ],
   "visibility": "public",
-  "forks": 24,
+  "forks": 25,
   "open_issues": 6,
-  "watchers": 304,
+  "watchers": 313,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 24
+  "_index": 32
 }

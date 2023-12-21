@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/JedWatson/classnames/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JedWatson/classnames/deployments",
   "created_at": "2014-11-05T00:44:31Z",
-  "updated_at": "2023-12-19T18:32:36Z",
+  "updated_at": "2023-12-20T02:15:29Z",
   "pushed_at": "2023-12-14T11:35:40Z",
   "git_url": "git://github.com/JedWatson/classnames.git",
   "ssh_url": "git@github.com:JedWatson/classnames.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/JedWatson/classnames",
   "homepage": null,
   "size": 460,
-  "stargazers_count": 17108,
-  "watchers_count": 17108,
+  "stargazers_count": 17109,
+  "watchers_count": 17109,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 617,
   "open_issues": 8,
-  "watchers": 17108,
+  "watchers": 17109,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3273
+  "_index": 3281
 }

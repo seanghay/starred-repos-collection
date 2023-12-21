@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nytimes/react-prosemirror/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nytimes/react-prosemirror/deployments",
   "created_at": "2023-02-06T21:54:16Z",
-  "updated_at": "2023-12-17T20:35:25Z",
+  "updated_at": "2023-12-20T04:18:43Z",
   "pushed_at": "2023-12-13T15:34:06Z",
   "git_url": "git://github.com/nytimes/react-prosemirror.git",
   "ssh_url": "git@github.com:nytimes/react-prosemirror.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nytimes/react-prosemirror",
   "homepage": "",
   "size": 1894,
-  "stargazers_count": 322,
-  "watchers_count": 322,
+  "stargazers_count": 323,
+  "watchers_count": 323,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 5,
   "open_issues": 6,
-  "watchers": 322,
+  "watchers": 323,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 137
+  "_index": 145
 }

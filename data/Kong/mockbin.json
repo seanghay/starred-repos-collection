@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Kong/mockbin/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Kong/mockbin/deployments",
   "created_at": "2014-03-10T18:34:36Z",
-  "updated_at": "2023-12-11T20:14:58Z",
-  "pushed_at": "2023-12-19T08:20:00Z",
+  "updated_at": "2023-12-20T16:11:36Z",
+  "pushed_at": "2023-12-20T16:09:33Z",
   "git_url": "git://github.com/Kong/mockbin.git",
   "ssh_url": "git@github.com:Kong/mockbin.git",
   "clone_url": "https://github.com/Kong/mockbin.git",
   "svn_url": "https://github.com/Kong/mockbin",
   "homepage": "http://mockbin.com",
-  "size": 711,
-  "stargazers_count": 2011,
-  "watchers_count": 2011,
+  "size": 840,
+  "stargazers_count": 2012,
+  "watchers_count": 2012,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 79,
+  "open_issues_count": 77,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,8 +109,8 @@
   ],
   "visibility": "public",
   "forks": 230,
-  "open_issues": 79,
-  "watchers": 2011,
+  "open_issues": 77,
+  "watchers": 2012,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2108
+  "_index": 2116
 }

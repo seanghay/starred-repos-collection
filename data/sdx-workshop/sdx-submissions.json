@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sdx-workshop/sdx-submissions/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sdx-workshop/sdx-submissions/deployments",
   "created_at": "2023-09-08T08:33:37Z",
-  "updated_at": "2023-11-24T20:37:55Z",
+  "updated_at": "2023-12-20T04:24:45Z",
   "pushed_at": "2023-11-12T22:58:06Z",
   "git_url": "git://github.com/sdx-workshop/sdx-submissions.git",
   "ssh_url": "git@github.com:sdx-workshop/sdx-submissions.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sdx-workshop/sdx-submissions",
   "homepage": "https://sdx-workshop.github.io/",
   "size": 39,
-  "stargazers_count": 8,
-  "watchers_count": 8,
+  "stargazers_count": 9,
+  "watchers_count": 9,
   "language": "TeX",
   "has_issues": false,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 9,
   "open_issues": 9,
-  "watchers": 8,
+  "watchers": 9,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 179
+  "_index": 187
 }

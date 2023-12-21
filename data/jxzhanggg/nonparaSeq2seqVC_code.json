@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jxzhanggg/nonparaSeq2seqVC_code/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jxzhanggg/nonparaSeq2seqVC_code/deployments",
   "created_at": "2019-12-10T07:51:20Z",
-  "updated_at": "2023-11-24T19:57:06Z",
+  "updated_at": "2023-12-20T03:47:15Z",
   "pushed_at": "2023-03-24T23:22:31Z",
   "git_url": "git://github.com/jxzhanggg/nonparaSeq2seqVC_code.git",
   "ssh_url": "git@github.com:jxzhanggg/nonparaSeq2seqVC_code.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jxzhanggg/nonparaSeq2seqVC_code",
   "homepage": null,
   "size": 220,
-  "stargazers_count": 245,
-  "watchers_count": 245,
+  "stargazers_count": 246,
+  "watchers_count": 246,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 58,
   "open_issues": 11,
-  "watchers": 245,
+  "watchers": 246,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 518
+  "_index": 526
 }

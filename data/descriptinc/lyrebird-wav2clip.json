@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/descriptinc/lyrebird-wav2clip/releases{/id}",
   "deployments_url": "https://api.github.com/repos/descriptinc/lyrebird-wav2clip/deployments",
   "created_at": "2021-09-09T20:00:54Z",
-  "updated_at": "2023-12-18T08:22:38Z",
+  "updated_at": "2023-12-20T04:06:00Z",
   "pushed_at": "2022-02-15T19:36:57Z",
   "git_url": "git://github.com/descriptinc/lyrebird-wav2clip.git",
   "ssh_url": "git@github.com:descriptinc/lyrebird-wav2clip.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/descriptinc/lyrebird-wav2clip",
   "homepage": "",
   "size": 20569,
-  "stargazers_count": 294,
-  "watchers_count": 294,
+  "stargazers_count": 295,
+  "watchers_count": 295,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 24,
   "open_issues": 12,
-  "watchers": 294,
+  "watchers": 295,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 223
+  "_index": 231
 }

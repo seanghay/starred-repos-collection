@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/xanguera/BeamformIt/releases{/id}",
   "deployments_url": "https://api.github.com/repos/xanguera/BeamformIt/deployments",
   "created_at": "2015-10-19T19:48:44Z",
-  "updated_at": "2023-12-15T10:48:04Z",
+  "updated_at": "2023-12-20T03:12:13Z",
   "pushed_at": "2020-05-19T10:38:23Z",
   "git_url": "git://github.com/xanguera/BeamformIt.git",
   "ssh_url": "git@github.com:xanguera/BeamformIt.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/xanguera/BeamformIt",
   "homepage": null,
   "size": 142,
-  "stargazers_count": 314,
-  "watchers_count": 314,
+  "stargazers_count": 315,
+  "watchers_count": 315,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 113,
   "open_issues": 6,
-  "watchers": 314,
+  "watchers": 315,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 29
+  "_index": 37
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/lukeed/mrmime/deployments",
   "created_at": "2021-10-12T06:47:41Z",
   "updated_at": "2023-11-27T12:10:02Z",
-  "pushed_at": "2022-06-08T16:08:29Z",
+  "pushed_at": "2023-12-20T15:24:41Z",
   "git_url": "git://github.com/lukeed/mrmime.git",
   "ssh_url": "git@github.com:lukeed/mrmime.git",
   "clone_url": "https://github.com/lukeed/mrmime.git",
   "svn_url": "https://github.com/lukeed/mrmime",
   "homepage": "",
-  "size": 107,
+  "size": 118,
   "stargazers_count": 274,
   "watchers_count": 274,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 3,
+  "open_issues_count": 1,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,9 +100,9 @@
   "topics": [],
   "visibility": "public",
   "forks": 5,
-  "open_issues": 3,
+  "open_issues": 1,
   "watchers": 274,
-  "default_branch": "master",
+  "default_branch": "main",
   "permissions": {
     "admin": false,
     "maintain": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1028
+  "_index": 1036
 }

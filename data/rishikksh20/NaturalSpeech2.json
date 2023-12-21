@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/rishikksh20/NaturalSpeech2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rishikksh20/NaturalSpeech2/deployments",
   "created_at": "2023-05-16T05:22:08Z",
-  "updated_at": "2023-12-19T09:27:41Z",
+  "updated_at": "2023-12-20T04:21:47Z",
   "pushed_at": "2023-05-19T20:17:58Z",
   "git_url": "git://github.com/rishikksh20/NaturalSpeech2.git",
   "ssh_url": "git@github.com:rishikksh20/NaturalSpeech2.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/rishikksh20/NaturalSpeech2",
   "homepage": null,
   "size": 35,
-  "stargazers_count": 60,
-  "watchers_count": 60,
+  "stargazers_count": 62,
+  "watchers_count": 62,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 3,
   "open_issues": 0,
-  "watchers": 60,
+  "watchers": 62,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 202
+  "_index": 210
 }

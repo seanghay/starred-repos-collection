@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Tomiinek/Multilingual_Text_to_Speech/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Tomiinek/Multilingual_Text_to_Speech/deployments",
   "created_at": "2019-08-06T17:01:29Z",
-  "updated_at": "2023-12-19T12:39:19Z",
+  "updated_at": "2023-12-20T11:05:11Z",
   "pushed_at": "2023-10-10T12:35:40Z",
   "git_url": "git://github.com/Tomiinek/Multilingual_Text_to_Speech.git",
   "ssh_url": "git@github.com:Tomiinek/Multilingual_Text_to_Speech.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Tomiinek/Multilingual_Text_to_Speech",
   "homepage": "",
   "size": 44598,
-  "stargazers_count": 772,
-  "watchers_count": 772,
+  "stargazers_count": 775,
+  "watchers_count": 775,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 152,
   "open_issues": 0,
-  "watchers": 772,
+  "watchers": 775,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 158
+  "_index": 166
 }

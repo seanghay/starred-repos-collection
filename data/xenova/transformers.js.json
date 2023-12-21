@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/xenova/transformers.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/xenova/transformers.js/deployments",
   "created_at": "2023-02-13T13:51:45Z",
-  "updated_at": "2023-12-20T01:26:35Z",
-  "pushed_at": "2023-12-20T01:29:26Z",
+  "updated_at": "2023-12-20T19:53:24Z",
+  "pushed_at": "2023-12-20T02:51:59Z",
   "git_url": "git://github.com/xenova/transformers.js.git",
   "ssh_url": "git@github.com:xenova/transformers.js.git",
   "clone_url": "https://github.com/xenova/transformers.js.git",
   "svn_url": "https://github.com/xenova/transformers.js",
   "homepage": "https://huggingface.co/docs/transformers.js",
-  "size": 98421,
-  "stargazers_count": 5242,
-  "watchers_count": 5242,
+  "size": 98427,
+  "stargazers_count": 5252,
+  "watchers_count": 5252,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 288,
+  "forks_count": 289,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 85,
+  "open_issues_count": 86,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -104,9 +104,9 @@
     "webml"
   ],
   "visibility": "public",
-  "forks": 288,
-  "open_issues": 85,
-  "watchers": 5242,
+  "forks": 289,
+  "open_issues": 86,
+  "watchers": 5252,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 780
+  "_index": 788
 }

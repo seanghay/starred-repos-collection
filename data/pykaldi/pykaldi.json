@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pykaldi/pykaldi/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pykaldi/pykaldi/deployments",
   "created_at": "2017-06-19T18:05:19Z",
-  "updated_at": "2023-12-13T00:36:16Z",
+  "updated_at": "2023-12-20T03:24:12Z",
   "pushed_at": "2023-10-11T14:16:46Z",
   "git_url": "git://github.com/pykaldi/pykaldi.git",
   "ssh_url": "git@github.com:pykaldi/pykaldi.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/pykaldi/pykaldi",
   "homepage": "https://pykaldi.github.io",
   "size": 2780,
-  "stargazers_count": 968,
-  "watchers_count": 968,
+  "stargazers_count": 969,
+  "watchers_count": 969,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 244,
   "open_issues": 64,
-  "watchers": 968,
+  "watchers": 969,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 282
+  "_index": 290
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Tencent/tencent-ml-images/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Tencent/tencent-ml-images/deployments",
   "created_at": "2018-10-15T02:29:22Z",
-  "updated_at": "2023-12-18T02:55:43Z",
+  "updated_at": "2023-12-20T03:03:35Z",
   "pushed_at": "2022-04-20T07:00:12Z",
   "git_url": "git://github.com/Tencent/tencent-ml-images.git",
   "ssh_url": "git@github.com:Tencent/tencent-ml-images.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Tencent/tencent-ml-images",
   "homepage": "",
   "size": 3683,
-  "stargazers_count": 3037,
-  "watchers_count": 3037,
+  "stargazers_count": 3038,
+  "watchers_count": 3038,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 522,
   "open_issues": 47,
-  "watchers": 3037,
+  "watchers": 3038,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 853
+  "_index": 861
 }

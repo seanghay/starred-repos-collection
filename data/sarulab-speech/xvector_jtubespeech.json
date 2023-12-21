@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sarulab-speech/xvector_jtubespeech/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sarulab-speech/xvector_jtubespeech/deployments",
   "created_at": "2022-03-07T11:19:09Z",
-  "updated_at": "2023-11-24T20:23:04Z",
+  "updated_at": "2023-12-20T04:10:29Z",
   "pushed_at": "2023-11-05T05:48:26Z",
   "git_url": "git://github.com/sarulab-speech/xvector_jtubespeech.git",
   "ssh_url": "git@github.com:sarulab-speech/xvector_jtubespeech.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sarulab-speech/xvector_jtubespeech",
   "homepage": null,
   "size": 15413,
-  "stargazers_count": 32,
-  "watchers_count": 32,
+  "stargazers_count": 33,
+  "watchers_count": 33,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 5,
   "open_issues": 0,
-  "watchers": 32,
+  "watchers": 33,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 76
+  "_index": 84
 }

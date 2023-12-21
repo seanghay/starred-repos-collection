@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/napi-rs/node-rs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/napi-rs/node-rs/deployments",
   "created_at": "2020-03-17T16:04:58Z",
-  "updated_at": "2023-12-19T16:55:56Z",
-  "pushed_at": "2023-12-19T12:22:50Z",
+  "updated_at": "2023-12-20T21:10:55Z",
+  "pushed_at": "2023-12-20T19:55:49Z",
   "git_url": "git://github.com/napi-rs/node-rs.git",
   "ssh_url": "git@github.com:napi-rs/node-rs.git",
   "clone_url": "https://github.com/napi-rs/node-rs.git",
   "svn_url": "https://github.com/napi-rs/node-rs",
   "homepage": "",
-  "size": 11593,
-  "stargazers_count": 872,
-  "watchers_count": 872,
+  "size": 11596,
+  "stargazers_count": 874,
+  "watchers_count": 874,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 31,
   "open_issues": 30,
-  "watchers": 872,
+  "watchers": 874,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1611
+  "_index": 1619
 }
