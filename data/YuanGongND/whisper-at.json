@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/YuanGongND/whisper-at/releases{/id}",
   "deployments_url": "https://api.github.com/repos/YuanGongND/whisper-at/deployments",
   "created_at": "2023-07-06T19:29:42Z",
-  "updated_at": "2023-12-20T21:01:34Z",
+  "updated_at": "2023-12-21T22:04:51Z",
   "pushed_at": "2023-12-15T21:44:28Z",
   "git_url": "git://github.com/YuanGongND/whisper-at.git",
   "ssh_url": "git@github.com:YuanGongND/whisper-at.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/YuanGongND/whisper-at",
   "homepage": "",
   "size": 21461,
-  "stargazers_count": 210,
-  "watchers_count": 210,
+  "stargazers_count": 212,
+  "watchers_count": 212,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 11,
+  "open_issues_count": 10,
   "license": {
     "key": "bsd-2-clause",
     "name": "BSD 2-Clause \"Simplified\" License",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 23,
-  "open_issues": 11,
-  "watchers": 210,
+  "open_issues": 10,
+  "watchers": 212,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 230
+  "_index": 233
 }

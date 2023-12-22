@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ParkSangGwon/TedImagePicker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ParkSangGwon/TedImagePicker/deployments",
   "created_at": "2019-06-04T13:35:27Z",
-  "updated_at": "2023-12-19T12:00:40Z",
+  "updated_at": "2023-12-21T10:55:19Z",
   "pushed_at": "2023-12-18T15:35:43Z",
   "git_url": "git://github.com/ParkSangGwon/TedImagePicker.git",
   "ssh_url": "git@github.com:ParkSangGwon/TedImagePicker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ParkSangGwon/TedImagePicker",
   "homepage": "",
   "size": 27532,
-  "stargazers_count": 506,
-  "watchers_count": 506,
+  "stargazers_count": 507,
+  "watchers_count": 507,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 46,
+  "open_issues_count": 47,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -94,8 +94,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 94,
-  "open_issues": 46,
-  "watchers": 506,
+  "open_issues": 47,
+  "watchers": 507,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2852
+  "_index": 2855
 }

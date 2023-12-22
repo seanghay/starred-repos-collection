@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pre-commit/pre-commit-hooks/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pre-commit/pre-commit-hooks/deployments",
   "created_at": "2014-03-13T15:21:46Z",
-  "updated_at": "2023-12-21T00:19:48Z",
+  "updated_at": "2023-12-21T15:15:23Z",
   "pushed_at": "2023-11-30T23:26:31Z",
   "git_url": "git://github.com/pre-commit/pre-commit-hooks.git",
   "ssh_url": "git@github.com:pre-commit/pre-commit-hooks.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/pre-commit/pre-commit-hooks",
   "homepage": "",
   "size": 873,
-  "stargazers_count": 4560,
-  "watchers_count": 4560,
+  "stargazers_count": 4564,
+  "watchers_count": 4564,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 653,
+  "forks_count": 654,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "refactoring"
   ],
   "visibility": "public",
-  "forks": 653,
+  "forks": 654,
   "open_issues": 14,
-  "watchers": 4560,
+  "watchers": 4564,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1198
+  "_index": 1201
 }

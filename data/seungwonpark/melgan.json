@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/seungwonpark/melgan/releases{/id}",
   "deployments_url": "https://api.github.com/repos/seungwonpark/melgan/deployments",
   "created_at": "2019-10-17T11:32:20Z",
-  "updated_at": "2023-12-20T03:45:46Z",
+  "updated_at": "2023-12-21T11:08:27Z",
   "pushed_at": "2020-10-03T15:08:45Z",
   "git_url": "git://github.com/seungwonpark/melgan.git",
   "ssh_url": "git@github.com:seungwonpark/melgan.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/seungwonpark/melgan",
   "homepage": "http://swpark.me/melgan/",
   "size": 18465,
-  "stargazers_count": 606,
-  "watchers_count": 606,
+  "stargazers_count": 607,
+  "watchers_count": 607,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 120,
   "open_issues": 32,
-  "watchers": 606,
+  "watchers": 607,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 206
+  "_index": 209
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/moonsikpark/monotonic_align/releases{/id}",
   "deployments_url": "https://api.github.com/repos/moonsikpark/monotonic_align/deployments",
   "created_at": "2023-03-02T02:58:54Z",
-  "updated_at": "2023-10-05T12:35:02Z",
+  "updated_at": "2023-12-21T16:38:34Z",
   "pushed_at": "2023-03-05T04:33:42Z",
   "git_url": "git://github.com/moonsikpark/monotonic_align.git",
   "ssh_url": "git@github.com:moonsikpark/monotonic_align.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/moonsikpark/monotonic_align",
   "homepage": null,
   "size": 4,
-  "stargazers_count": 1,
-  "watchers_count": 1,
+  "stargazers_count": 2,
+  "watchers_count": 2,
   "language": "Cython",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 3,
   "open_issues": 0,
-  "watchers": 1,
+  "watchers": 2,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 165
+  "_index": 168
 }

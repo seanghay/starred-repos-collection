@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/gorse-io/gorse/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gorse-io/gorse/deployments",
   "created_at": "2018-08-14T11:01:09Z",
-  "updated_at": "2023-12-21T01:36:43Z",
+  "updated_at": "2023-12-21T10:12:12Z",
   "pushed_at": "2023-10-28T18:59:48Z",
   "git_url": "git://github.com/gorse-io/gorse.git",
   "ssh_url": "git@github.com:gorse-io/gorse.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/gorse-io/gorse",
   "homepage": "https://gorse.io",
   "size": 11360,
-  "stargazers_count": 7780,
-  "watchers_count": 7780,
+  "stargazers_count": 7781,
+  "watchers_count": 7781,
   "language": "Go",
   "has_issues": true,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 728,
   "open_issues": 70,
-  "watchers": 7780,
+  "watchers": 7781,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1460
+  "_index": 1463
 }

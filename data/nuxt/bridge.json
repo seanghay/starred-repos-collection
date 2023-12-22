@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/nuxt/bridge/deployments",
   "created_at": "2022-04-11T13:01:55Z",
   "updated_at": "2023-12-20T04:11:46Z",
-  "pushed_at": "2023-12-19T20:25:41Z",
+  "pushed_at": "2023-12-21T20:18:02Z",
   "git_url": "git://github.com/nuxt/bridge.git",
   "ssh_url": "git@github.com:nuxt/bridge.git",
   "clone_url": "https://github.com/nuxt/bridge.git",
   "svn_url": "https://github.com/nuxt/bridge",
   "homepage": "",
-  "size": 3354,
+  "size": 3356,
   "stargazers_count": 246,
   "watchers_count": 246,
   "language": "TypeScript",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1065
+  "_index": 1068
 }

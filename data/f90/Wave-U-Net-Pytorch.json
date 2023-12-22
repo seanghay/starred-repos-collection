@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/f90/Wave-U-Net-Pytorch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/f90/Wave-U-Net-Pytorch/deployments",
   "created_at": "2019-08-26T17:08:49Z",
-  "updated_at": "2023-12-20T12:31:09Z",
+  "updated_at": "2023-12-21T18:09:28Z",
   "pushed_at": "2023-09-02T19:24:25Z",
   "git_url": "git://github.com/f90/Wave-U-Net-Pytorch.git",
   "ssh_url": "git@github.com:f90/Wave-U-Net-Pytorch.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 269
+  "_index": 272
 }

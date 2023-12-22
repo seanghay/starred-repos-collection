@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/khmerlang/Khmerlang-Keyboard/deployments",
   "created_at": "2020-03-01T03:17:26Z",
   "updated_at": "2023-03-03T14:30:10Z",
-  "pushed_at": "2023-12-20T13:05:49Z",
+  "pushed_at": "2023-12-21T13:17:47Z",
   "git_url": "git://github.com/khmerlang/Khmerlang-Keyboard.git",
   "ssh_url": "git@github.com:khmerlang/Khmerlang-Keyboard.git",
   "clone_url": "https://github.com/khmerlang/Khmerlang-Keyboard.git",
   "svn_url": "https://github.com/khmerlang/Khmerlang-Keyboard",
   "homepage": "https://play.google.com/store/apps/details?id=com.rathanak.khmerroman",
-  "size": 53843,
+  "size": 53871,
   "stargazers_count": 19,
   "watchers_count": 19,
   "language": "Kotlin",
@@ -88,11 +88,11 @@
   "disabled": false,
   "open_issues_count": 0,
   "license": {
-    "key": "mit",
-    "name": "MIT License",
-    "spdx_id": "MIT",
-    "url": "https://api.github.com/licenses/mit",
-    "node_id": "MDc6TGljZW5zZTEz"
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
   },
   "allow_forking": true,
   "is_template": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1240
+  "_index": 1243
 }

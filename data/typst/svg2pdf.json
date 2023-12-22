@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/typst/svg2pdf/releases{/id}",
   "deployments_url": "https://api.github.com/repos/typst/svg2pdf/deployments",
   "created_at": "2021-09-09T10:07:49Z",
-  "updated_at": "2023-12-15T21:14:51Z",
+  "updated_at": "2023-12-21T09:27:10Z",
   "pushed_at": "2023-12-19T00:08:54Z",
   "git_url": "git://github.com/typst/svg2pdf.git",
   "ssh_url": "git@github.com:typst/svg2pdf.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/typst/svg2pdf",
   "homepage": "",
   "size": 10963,
-  "stargazers_count": 196,
-  "watchers_count": 196,
+  "stargazers_count": 197,
+  "watchers_count": 197,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 28,
   "open_issues": 8,
-  "watchers": 196,
+  "watchers": 197,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1097
+  "_index": 1100
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/samlss/Broccoli/releases{/id}",
   "deployments_url": "https://api.github.com/repos/samlss/Broccoli/deployments",
   "created_at": "2018-12-14T15:28:05Z",
-  "updated_at": "2023-12-15T17:33:20Z",
+  "updated_at": "2023-12-21T09:44:23Z",
   "pushed_at": "2023-03-22T01:34:10Z",
   "git_url": "git://github.com/samlss/Broccoli.git",
   "ssh_url": "git@github.com:samlss/Broccoli.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/samlss/Broccoli",
   "homepage": "",
   "size": 4647,
-  "stargazers_count": 1751,
-  "watchers_count": 1751,
+  "stargazers_count": 1750,
+  "watchers_count": 1750,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 195,
   "open_issues": 4,
-  "watchers": 1751,
+  "watchers": 1750,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1342
+  "_index": 1345
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/lhotse-speech/lhotse/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lhotse-speech/lhotse/deployments",
   "created_at": "2020-04-24T14:08:10Z",
-  "updated_at": "2023-12-20T09:36:13Z",
-  "pushed_at": "2023-12-19T10:18:01Z",
+  "updated_at": "2023-12-21T07:47:36Z",
+  "pushed_at": "2023-12-21T16:09:48Z",
   "git_url": "git://github.com/lhotse-speech/lhotse.git",
   "ssh_url": "git@github.com:lhotse-speech/lhotse.git",
   "clone_url": "https://github.com/lhotse-speech/lhotse.git",
   "svn_url": "https://github.com/lhotse-speech/lhotse",
   "homepage": "https://lhotse.readthedocs.io/en/latest/",
   "size": 31877,
-  "stargazers_count": 779,
-  "watchers_count": 779,
+  "stargazers_count": 780,
+  "watchers_count": 780,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 187,
+  "forks_count": 188,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 103,
+  "open_issues_count": 105,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -110,9 +110,9 @@
     "speech-recognition"
   ],
   "visibility": "public",
-  "forks": 187,
-  "open_issues": 103,
-  "watchers": 779,
+  "forks": 188,
+  "open_issues": 105,
+  "watchers": 780,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 42
+  "_index": 45
 }
