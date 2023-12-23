@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 357,
+  "forks_count": 358,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,7 +107,7 @@
     "vision-transformer"
   ],
   "visibility": "public",
-  "forks": 357,
+  "forks": 358,
   "open_issues": 201,
   "watchers": 2673,
   "default_branch": "main",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 750
+  "_index": 753
 }

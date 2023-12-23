@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/containrrr/watchtower/releases{/id}",
   "deployments_url": "https://api.github.com/repos/containrrr/watchtower/deployments",
   "created_at": "2015-07-13T21:21:53Z",
-  "updated_at": "2023-12-22T00:57:19Z",
+  "updated_at": "2023-12-23T01:07:59Z",
   "pushed_at": "2023-12-22T00:36:26Z",
   "git_url": "git://github.com/containrrr/watchtower.git",
   "ssh_url": "git@github.com:containrrr/watchtower.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/containrrr/watchtower",
   "homepage": "https://containrrr.dev/watchtower/",
   "size": 17239,
-  "stargazers_count": 15648,
-  "watchers_count": 15648,
+  "stargazers_count": 15659,
+  "watchers_count": 15659,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 780,
   "open_issues": 99,
-  "watchers": 15648,
+  "watchers": 15659,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1361
+  "_index": 1364
 }

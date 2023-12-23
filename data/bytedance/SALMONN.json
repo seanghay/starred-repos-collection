@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bytedance/SALMONN/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bytedance/SALMONN/deployments",
   "created_at": "2023-08-11T07:28:25Z",
-  "updated_at": "2023-12-21T09:46:04Z",
+  "updated_at": "2023-12-22T09:57:16Z",
   "pushed_at": "2023-12-20T20:40:52Z",
   "git_url": "git://github.com/bytedance/SALMONN.git",
   "ssh_url": "git@github.com:bytedance/SALMONN.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/bytedance/SALMONN",
   "homepage": "https://bytedance.github.io/SALMONN/",
   "size": 7039,
-  "stargazers_count": 678,
-  "watchers_count": 678,
+  "stargazers_count": 680,
+  "watchers_count": 680,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 45,
+  "forks_count": 44,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,9 +109,9 @@
     "tsinghua-university"
   ],
   "visibility": "public",
-  "forks": 45,
+  "forks": 44,
   "open_issues": 5,
-  "watchers": 678,
+  "watchers": 680,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 125
+  "_index": 128
 }

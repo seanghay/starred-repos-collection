@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jakehilborn/displayplacer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jakehilborn/displayplacer/deployments",
   "created_at": "2015-06-01T07:45:38Z",
-  "updated_at": "2023-12-20T03:10:56Z",
+  "updated_at": "2023-12-22T20:22:56Z",
   "pushed_at": "2023-11-25T17:09:18Z",
   "git_url": "git://github.com/jakehilborn/displayplacer.git",
   "ssh_url": "git@github.com:jakehilborn/displayplacer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jakehilborn/displayplacer",
   "homepage": "",
   "size": 189,
-  "stargazers_count": 3356,
-  "watchers_count": 3356,
+  "stargazers_count": 3358,
+  "watchers_count": 3358,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 77,
+  "open_issues_count": 78,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 124,
-  "open_issues": 77,
-  "watchers": 3356,
+  "open_issues": 78,
+  "watchers": 3358,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2035
+  "_index": 2038
 }

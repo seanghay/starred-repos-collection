@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/canvg/canvg.git",
   "svn_url": "https://github.com/canvg/canvg",
   "homepage": "https://canvg.js.org",
-  "size": 30544,
+  "size": 30545,
   "stargazers_count": 3485,
   "watchers_count": 3485,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 125,
+  "open_issues_count": 126,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,7 +105,7 @@
   ],
   "visibility": "public",
   "forks": 656,
-  "open_issues": 125,
+  "open_issues": 126,
   "watchers": 3485,
   "default_branch": "master",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 700
+  "_index": 703
 }

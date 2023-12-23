@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/CASIA-IVA-Lab/FastSAM/releases{/id}",
   "deployments_url": "https://api.github.com/repos/CASIA-IVA-Lab/FastSAM/deployments",
   "created_at": "2023-06-21T02:05:15Z",
-  "updated_at": "2023-12-21T13:17:08Z",
+  "updated_at": "2023-12-22T18:31:20Z",
   "pushed_at": "2023-12-14T08:51:57Z",
   "git_url": "git://github.com/CASIA-IVA-Lab/FastSAM.git",
   "ssh_url": "git@github.com:CASIA-IVA-Lab/FastSAM.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 519
+  "_index": 522
 }

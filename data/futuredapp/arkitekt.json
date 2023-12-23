@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/futuredapp/arkitekt/releases{/id}",
   "deployments_url": "https://api.github.com/repos/futuredapp/arkitekt/deployments",
   "created_at": "2018-03-09T08:05:39Z",
-  "updated_at": "2023-10-12T15:37:47Z",
+  "updated_at": "2023-12-22T10:44:56Z",
   "pushed_at": "2023-10-12T14:57:14Z",
   "git_url": "git://github.com/futuredapp/arkitekt.git",
   "ssh_url": "git@github.com:futuredapp/arkitekt.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/futuredapp/arkitekt",
   "homepage": "",
   "size": 1602,
-  "stargazers_count": 119,
-  "watchers_count": 119,
+  "stargazers_count": 120,
+  "watchers_count": 120,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 9,
   "open_issues": 10,
-  "watchers": 119,
+  "watchers": 120,
   "default_branch": "5.x",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2665
+  "_index": 2668
 }

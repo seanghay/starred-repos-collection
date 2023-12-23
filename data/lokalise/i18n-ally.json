@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lokalise/i18n-ally/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lokalise/i18n-ally/deployments",
   "created_at": "2019-05-05T16:54:17Z",
-  "updated_at": "2023-12-21T16:24:27Z",
+  "updated_at": "2023-12-22T16:55:50Z",
   "pushed_at": "2023-12-09T06:08:23Z",
   "git_url": "git://github.com/lokalise/i18n-ally.git",
   "ssh_url": "git@github.com:lokalise/i18n-ally.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lokalise/i18n-ally",
   "homepage": "https://marketplace.visualstudio.com/items?itemName=lokalise.i18n-ally",
   "size": 23907,
-  "stargazers_count": 3277,
-  "watchers_count": 3277,
+  "stargazers_count": 3281,
+  "watchers_count": 3281,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 230,
+  "open_issues_count": 231,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,8 +112,8 @@
   ],
   "visibility": "public",
   "forks": 251,
-  "open_issues": 230,
-  "watchers": 3277,
+  "open_issues": 231,
+  "watchers": 3281,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2068
+  "_index": 2071
 }

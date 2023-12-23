@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/MasayaKawamura/MB-iSTFT-VITS/releases{/id}",
   "deployments_url": "https://api.github.com/repos/MasayaKawamura/MB-iSTFT-VITS/deployments",
   "created_at": "2022-10-25T02:08:51Z",
-  "updated_at": "2023-12-20T04:16:39Z",
+  "updated_at": "2023-12-22T08:09:01Z",
   "pushed_at": "2022-11-17T11:21:39Z",
   "git_url": "git://github.com/MasayaKawamura/MB-iSTFT-VITS.git",
   "ssh_url": "git@github.com:MasayaKawamura/MB-iSTFT-VITS.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/MasayaKawamura/MB-iSTFT-VITS",
   "homepage": "",
   "size": 9626,
-  "stargazers_count": 354,
-  "watchers_count": 354,
+  "stargazers_count": 355,
+  "watchers_count": 355,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 60,
+  "forks_count": 59,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 60,
+  "forks": 59,
   "open_issues": 11,
-  "watchers": 354,
+  "watchers": 355,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 165
+  "_index": 168
 }
