@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/canvg/canvg/releases{/id}",
   "deployments_url": "https://api.github.com/repos/canvg/canvg/deployments",
   "created_at": "2014-12-07T19:18:53Z",
-  "updated_at": "2023-12-21T14:32:11Z",
+  "updated_at": "2023-12-23T10:58:04Z",
   "pushed_at": "2023-12-22T01:32:32Z",
   "git_url": "git://github.com/canvg/canvg.git",
   "ssh_url": "git@github.com:canvg/canvg.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/canvg/canvg",
   "homepage": "https://canvg.js.org",
   "size": 30545,
-  "stargazers_count": 3485,
-  "watchers_count": 3485,
+  "stargazers_count": 3486,
+  "watchers_count": 3486,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 656,
+  "forks_count": 657,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "svg"
   ],
   "visibility": "public",
-  "forks": 656,
+  "forks": 657,
   "open_issues": 126,
-  "watchers": 3485,
+  "watchers": 3486,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 703
+  "_index": 706
 }

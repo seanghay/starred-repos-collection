@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/clasp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/clasp/deployments",
   "created_at": "2017-12-05T00:34:56Z",
-  "updated_at": "2023-12-22T14:08:19Z",
+  "updated_at": "2023-12-23T23:28:28Z",
   "pushed_at": "2023-11-06T04:49:31Z",
   "git_url": "git://github.com/google/clasp.git",
   "ssh_url": "git@github.com:google/clasp.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/clasp",
   "homepage": "https://developers.google.com/apps-script/guides/clasp",
   "size": 3878,
-  "stargazers_count": 4187,
-  "watchers_count": 4187,
+  "stargazers_count": 4188,
+  "watchers_count": 4188,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 434,
   "open_issues": 158,
-  "watchers": 4187,
+  "watchers": 4188,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1247
+  "_index": 1250
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kaldi-asr/kaldi/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kaldi-asr/kaldi/deployments",
   "created_at": "2015-04-20T17:23:16Z",
-  "updated_at": "2023-12-22T17:34:22Z",
+  "updated_at": "2023-12-23T15:46:18Z",
   "pushed_at": "2023-12-19T07:59:14Z",
   "git_url": "git://github.com/kaldi-asr/kaldi.git",
   "ssh_url": "git@github.com:kaldi-asr/kaldi.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/kaldi-asr/kaldi",
   "homepage": "http://kaldi-asr.org",
   "size": 125044,
-  "stargazers_count": 13382,
-  "watchers_count": 13382,
+  "stargazers_count": 13384,
+  "watchers_count": 13384,
   "language": "Shell",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 5272,
+  "forks_count": 5273,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,9 +109,9 @@
     "speech-to-text"
   ],
   "visibility": "public",
-  "forks": 5272,
+  "forks": 5273,
   "open_issues": 231,
-  "watchers": 13382,
+  "watchers": 13384,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 486
+  "_index": 489
 }

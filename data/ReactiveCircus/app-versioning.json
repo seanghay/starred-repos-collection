@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ReactiveCircus/app-versioning/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ReactiveCircus/app-versioning/deployments",
   "created_at": "2020-04-16T12:46:29Z",
-  "updated_at": "2023-12-10T17:46:36Z",
+  "updated_at": "2023-12-23T09:39:48Z",
   "pushed_at": "2023-12-14T00:20:19Z",
   "git_url": "git://github.com/ReactiveCircus/app-versioning.git",
   "ssh_url": "git@github.com:ReactiveCircus/app-versioning.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1690
+  "_index": 1693
 }

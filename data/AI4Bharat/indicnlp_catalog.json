@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/AI4Bharat/indicnlp_catalog/releases{/id}",
   "deployments_url": "https://api.github.com/repos/AI4Bharat/indicnlp_catalog/deployments",
   "created_at": "2019-08-29T09:14:43Z",
-  "updated_at": "2023-12-20T03:44:22Z",
+  "updated_at": "2023-12-23T06:29:20Z",
   "pushed_at": "2023-09-27T08:03:57Z",
   "git_url": "git://github.com/AI4Bharat/indicnlp_catalog.git",
   "ssh_url": "git@github.com:AI4Bharat/indicnlp_catalog.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/AI4Bharat/indicnlp_catalog",
   "homepage": "https://ai4bharat.github.io/indicnlp_catalog",
   "size": 236,
-  "stargazers_count": 477,
-  "watchers_count": 477,
+  "stargazers_count": 478,
+  "watchers_count": 478,
   "language": null,
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 136,
+  "open_issues_count": 137,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -100,8 +100,8 @@
   ],
   "visibility": "public",
   "forks": 72,
-  "open_issues": 136,
-  "watchers": 477,
+  "open_issues": 137,
+  "watchers": 478,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 419
+  "_index": 422
 }

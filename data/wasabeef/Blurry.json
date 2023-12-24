@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wasabeef/Blurry/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wasabeef/Blurry/deployments",
   "created_at": "2015-07-23T14:12:08Z",
-  "updated_at": "2023-12-21T07:39:39Z",
+  "updated_at": "2023-12-23T08:02:52Z",
   "pushed_at": "2023-04-27T15:54:45Z",
   "git_url": "git://github.com/wasabeef/Blurry.git",
   "ssh_url": "git@github.com:wasabeef/Blurry.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wasabeef/Blurry",
   "homepage": "",
   "size": 2286,
-  "stargazers_count": 5491,
-  "watchers_count": 5491,
+  "stargazers_count": 5492,
+  "watchers_count": 5492,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 608,
   "open_issues": 86,
-  "watchers": 5491,
+  "watchers": 5492,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3131
+  "_index": 3134
 }

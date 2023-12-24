@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/danmic/av-se/releases{/id}",
   "deployments_url": "https://api.github.com/repos/danmic/av-se/deployments",
   "created_at": "2020-08-11T17:31:03Z",
-  "updated_at": "2023-12-20T03:55:09Z",
+  "updated_at": "2023-12-23T16:10:38Z",
   "pushed_at": "2023-04-16T07:49:40Z",
   "git_url": "git://github.com/danmic/av-se.git",
   "ssh_url": "git@github.com:danmic/av-se.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/danmic/av-se",
   "homepage": null,
   "size": 7722,
-  "stargazers_count": 189,
-  "watchers_count": 189,
+  "stargazers_count": 188,
+  "watchers_count": 188,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 22,
   "open_issues": 0,
-  "watchers": 189,
+  "watchers": 188,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 550
+  "_index": 553
 }

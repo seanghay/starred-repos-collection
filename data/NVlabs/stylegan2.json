@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/NVlabs/stylegan2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/NVlabs/stylegan2/deployments",
   "created_at": "2019-11-26T20:52:23Z",
-  "updated_at": "2023-12-22T21:34:30Z",
+  "updated_at": "2023-12-23T08:36:03Z",
   "pushed_at": "2023-04-03T22:07:58Z",
   "git_url": "git://github.com/NVlabs/stylegan2.git",
   "ssh_url": "git@github.com:NVlabs/stylegan2.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/NVlabs/stylegan2",
   "homepage": "http://arxiv.org/abs/1912.04958",
   "size": 594,
-  "stargazers_count": 10672,
-  "watchers_count": 10672,
+  "stargazers_count": 10673,
+  "watchers_count": 10673,
   "language": "Python",
   "has_issues": false,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 2515,
   "open_issues": 25,
-  "watchers": 10672,
+  "watchers": 10673,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1529
+  "_index": 1532
 }

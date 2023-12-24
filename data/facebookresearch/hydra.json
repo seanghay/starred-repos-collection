@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/facebookresearch/hydra/deployments",
   "created_at": "2019-06-12T19:33:15Z",
   "updated_at": "2023-12-22T10:06:40Z",
-  "pushed_at": "2023-12-23T01:29:29Z",
+  "pushed_at": "2023-12-23T04:32:16Z",
   "git_url": "git://github.com/facebookresearch/hydra.git",
   "ssh_url": "git@github.com:facebookresearch/hydra.git",
   "clone_url": "https://github.com/facebookresearch/hydra.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 595
+  "_index": 598
 }
