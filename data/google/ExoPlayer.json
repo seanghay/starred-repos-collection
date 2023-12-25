@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/ExoPlayer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/ExoPlayer/deployments",
   "created_at": "2014-06-13T21:19:18Z",
-  "updated_at": "2023-12-23T18:12:55Z",
+  "updated_at": "2023-12-24T22:22:43Z",
   "pushed_at": "2023-12-22T22:28:44Z",
   "git_url": "git://github.com/google/ExoPlayer.git",
   "ssh_url": "git@github.com:google/ExoPlayer.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 6087,
+  "forks_count": 6086,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,7 +104,7 @@
     "mediaplayer"
   ],
   "visibility": "public",
-  "forks": 6087,
+  "forks": 6086,
   "open_issues": 736,
   "watchers": 21222,
   "default_branch": "release-v2",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3240
+  "_index": 3245
 }

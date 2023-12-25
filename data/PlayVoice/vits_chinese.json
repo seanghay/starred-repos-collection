@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 148,
+  "forks_count": 149,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,7 +107,7 @@
     "vits"
   ],
   "visibility": "public",
-  "forks": 148,
+  "forks": 149,
   "open_issues": 50,
   "watchers": 938,
   "default_branch": "bert_vits",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 393
+  "_index": 398
 }

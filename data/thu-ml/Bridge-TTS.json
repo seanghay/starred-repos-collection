@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/thu-ml/Bridge-TTS/releases{/id}",
   "deployments_url": "https://api.github.com/repos/thu-ml/Bridge-TTS/deployments",
   "created_at": "2023-12-05T04:32:09Z",
-  "updated_at": "2023-12-24T01:02:38Z",
+  "updated_at": "2023-12-25T01:34:28Z",
   "pushed_at": "2023-12-13T13:53:18Z",
   "git_url": "git://github.com/thu-ml/Bridge-TTS.git",
   "ssh_url": "git@github.com:thu-ml/Bridge-TTS.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/thu-ml/Bridge-TTS",
   "homepage": "",
   "size": 4,
-  "stargazers_count": 33,
-  "watchers_count": 33,
+  "stargazers_count": 38,
+  "watchers_count": 38,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 0,
   "open_issues": 2,
-  "watchers": 33,
+  "watchers": 38,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 45
+  "_index": 50
 }

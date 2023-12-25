@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mohak1712/UberUX/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mohak1712/UberUX/deployments",
   "created_at": "2017-07-25T17:27:08Z",
-  "updated_at": "2023-12-21T09:10:35Z",
+  "updated_at": "2023-12-24T16:18:34Z",
   "pushed_at": "2019-09-01T06:08:58Z",
   "git_url": "git://github.com/mohak1712/UberUX.git",
   "ssh_url": "git@github.com:mohak1712/UberUX.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mohak1712/UberUX",
   "homepage": "",
   "size": 888,
-  "stargazers_count": 1223,
-  "watchers_count": 1223,
+  "stargazers_count": 1222,
+  "watchers_count": 1222,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 296,
   "open_issues": 6,
-  "watchers": 1223,
+  "watchers": 1222,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2434
+  "_index": 2439
 }

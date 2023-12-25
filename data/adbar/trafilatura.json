@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/adbar/trafilatura/releases{/id}",
   "deployments_url": "https://api.github.com/repos/adbar/trafilatura/deployments",
   "created_at": "2019-04-08T11:38:48Z",
-  "updated_at": "2023-12-23T11:57:18Z",
+  "updated_at": "2023-12-25T01:15:48Z",
   "pushed_at": "2023-12-21T14:44:43Z",
   "git_url": "git://github.com/adbar/trafilatura.git",
   "ssh_url": "git@github.com:adbar/trafilatura.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/adbar/trafilatura",
   "homepage": "https://trafilatura.readthedocs.io",
   "size": 23801,
-  "stargazers_count": 2335,
-  "watchers_count": 2335,
+  "stargazers_count": 2340,
+  "watchers_count": 2340,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -122,7 +122,7 @@
   "visibility": "public",
   "forks": 185,
   "open_issues": 62,
-  "watchers": 2335,
+  "watchers": 2340,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 14
+  "_index": 19
 }

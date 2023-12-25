@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/adonisjs/mail/releases{/id}",
   "deployments_url": "https://api.github.com/repos/adonisjs/mail/deployments",
   "created_at": "2016-02-08T08:33:25Z",
-  "updated_at": "2023-12-12T08:20:48Z",
+  "updated_at": "2023-12-24T05:41:10Z",
   "pushed_at": "2023-12-18T01:36:48Z",
   "git_url": "git://github.com/adonisjs/mail.git",
   "ssh_url": "git@github.com:adonisjs/mail.git",
@@ -98,10 +98,7 @@
   "is_template": false,
   "web_commit_signoff_required": false,
   "topics": [
-    "email",
     "first-party-package",
-    "mail",
-    "mailer",
     "nodemailer"
   ],
   "visibility": "public",
@@ -116,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1330
+  "_index": 1335
 }

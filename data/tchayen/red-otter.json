@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/tchayen/red-otter.git",
   "svn_url": "https://github.com/tchayen/red-otter",
   "homepage": "https://red-otter.dev",
-  "size": 5556,
+  "size": 5560,
   "stargazers_count": 237,
   "watchers_count": 237,
   "language": "TypeScript",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 362
+  "_index": 367
 }

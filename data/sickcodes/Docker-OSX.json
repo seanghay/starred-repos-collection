@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sickcodes/Docker-OSX/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sickcodes/Docker-OSX/deployments",
   "created_at": "2020-06-04T11:01:37Z",
-  "updated_at": "2023-12-23T22:42:48Z",
+  "updated_at": "2023-12-25T00:54:00Z",
   "pushed_at": "2023-11-16T18:05:41Z",
   "git_url": "git://github.com/sickcodes/Docker-OSX.git",
   "ssh_url": "git@github.com:sickcodes/Docker-OSX.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sickcodes/Docker-OSX",
   "homepage": "https://hub.docker.com/r/sickcodes/docker-osx",
   "size": 13635,
-  "stargazers_count": 33811,
-  "watchers_count": 33811,
+  "stargazers_count": 33821,
+  "watchers_count": 33821,
   "language": "Shell",
   "has_issues": true,
   "has_projects": true,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 1678,
   "open_issues": 317,
-  "watchers": 33811,
+  "watchers": 33821,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 903
+  "_index": 908
 }

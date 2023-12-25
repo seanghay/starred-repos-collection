@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/cloudflare/workerd/releases{/id}",
   "deployments_url": "https://api.github.com/repos/cloudflare/workerd/deployments",
   "created_at": "2022-09-15T15:15:16Z",
-  "updated_at": "2023-12-23T23:16:46Z",
+  "updated_at": "2023-12-24T20:57:12Z",
   "pushed_at": "2023-12-23T14:56:22Z",
   "git_url": "git://github.com/cloudflare/workerd.git",
   "ssh_url": "git@github.com:cloudflare/workerd.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/cloudflare/workerd",
   "homepage": "https://blog.cloudflare.com/workerd-open-source-workers-runtime/",
   "size": 8014,
-  "stargazers_count": 5186,
-  "watchers_count": 5186,
+  "stargazers_count": 5187,
+  "watchers_count": 5187,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 136,
+  "open_issues_count": 137,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 220,
-  "open_issues": 136,
-  "watchers": 5186,
+  "open_issues": 137,
+  "watchers": 5187,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1081
+  "_index": 1086
 }

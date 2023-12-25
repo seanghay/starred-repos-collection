@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/amplication/amplication",
-  "description": "🇮🇱 Stand with Israel 🇮🇱   Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.",
+  "description": "🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.",
   "fork": false,
   "url": "https://api.github.com/repos/amplication/amplication",
   "forks_url": "https://api.github.com/repos/amplication/amplication/forks",
@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/amplication/amplication/releases{/id}",
   "deployments_url": "https://api.github.com/repos/amplication/amplication/deployments",
   "created_at": "2020-05-10T19:41:49Z",
-  "updated_at": "2023-12-23T23:27:55Z",
-  "pushed_at": "2023-12-23T19:59:26Z",
+  "updated_at": "2023-12-24T13:36:56Z",
+  "pushed_at": "2023-12-24T13:14:21Z",
   "git_url": "git://github.com/amplication/amplication.git",
   "ssh_url": "git@github.com:amplication/amplication.git",
   "clone_url": "https://github.com/amplication/amplication.git",
   "svn_url": "https://github.com/amplication/amplication",
   "homepage": "https://amplication.com",
-  "size": 355653,
+  "size": 355672,
   "stargazers_count": 12908,
   "watchers_count": 12908,
   "language": "TypeScript",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 1318,
+  "forks_count": 1321,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 603,
+  "open_issues_count": 602,
   "license": {
     "key": "other",
     "name": "Other",
@@ -111,8 +111,8 @@
     "web"
   ],
   "visibility": "public",
-  "forks": 1318,
-  "open_issues": 603,
+  "forks": 1321,
+  "open_issues": 602,
   "watchers": 12908,
   "default_branch": "master",
   "permissions": {
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1152
+  "_index": 1157
 }

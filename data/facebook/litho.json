@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/facebook/litho/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebook/litho/deployments",
   "created_at": "2017-01-27T03:59:11Z",
-  "updated_at": "2023-12-21T15:58:44Z",
-  "pushed_at": "2023-12-21T21:52:23Z",
+  "updated_at": "2023-12-24T10:45:14Z",
+  "pushed_at": "2023-12-25T00:02:18Z",
   "git_url": "git://github.com/facebook/litho.git",
   "ssh_url": "git@github.com:facebook/litho.git",
   "clone_url": "https://github.com/facebook/litho.git",
   "svn_url": "https://github.com/facebook/litho",
   "homepage": "https://fblitho.com",
-  "size": 725006,
+  "size": 725009,
   "stargazers_count": 7623,
   "watchers_count": 7623,
   "language": "Java",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3253
+  "_index": 3258
 }

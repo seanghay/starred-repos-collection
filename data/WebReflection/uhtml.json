@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/WebReflection/uhtml/deployments",
   "created_at": "2020-02-15T17:45:33Z",
   "updated_at": "2023-12-19T23:24:47Z",
-  "pushed_at": "2023-12-22T22:21:37Z",
+  "pushed_at": "2023-12-24T11:08:11Z",
   "git_url": "git://github.com/WebReflection/uhtml.git",
   "ssh_url": "git@github.com:WebReflection/uhtml.git",
   "clone_url": "https://github.com/WebReflection/uhtml.git",
   "svn_url": "https://github.com/WebReflection/uhtml",
   "homepage": null,
-  "size": 1000,
+  "size": 1001,
   "stargazers_count": 780,
   "watchers_count": 780,
   "language": "JavaScript",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1215
+  "_index": 1220
 }

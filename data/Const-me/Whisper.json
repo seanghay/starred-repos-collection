@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Const-me/Whisper/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Const-me/Whisper/deployments",
   "created_at": "2023-01-07T17:25:57Z",
-  "updated_at": "2023-12-24T00:08:14Z",
+  "updated_at": "2023-12-24T16:37:51Z",
   "pushed_at": "2023-10-17T17:34:11Z",
   "git_url": "git://github.com/Const-me/Whisper.git",
   "ssh_url": "git@github.com:Const-me/Whisper.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Const-me/Whisper",
   "homepage": null,
   "size": 4520,
-  "stargazers_count": 6034,
-  "watchers_count": 6034,
+  "stargazers_count": 6036,
+  "watchers_count": 6036,
   "language": "C++",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 559,
+  "forks_count": 560,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 122,
+  "open_issues_count": 121,
   "license": {
     "key": "mpl-2.0",
     "name": "Mozilla Public License 2.0",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 559,
-  "open_issues": 122,
-  "watchers": 6034,
+  "forks": 560,
+  "open_issues": 121,
+  "watchers": 6036,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 127
+  "_index": 132
 }

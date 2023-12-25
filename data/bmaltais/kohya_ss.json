@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/bmaltais/kohya_ss/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bmaltais/kohya_ss/deployments",
   "created_at": "2022-10-30T15:15:32Z",
-  "updated_at": "2023-12-24T00:40:07Z",
-  "pushed_at": "2023-12-23T23:21:11Z",
+  "updated_at": "2023-12-24T21:26:03Z",
+  "pushed_at": "2023-12-24T16:47:37Z",
   "git_url": "git://github.com/bmaltais/kohya_ss.git",
   "ssh_url": "git@github.com:bmaltais/kohya_ss.git",
   "clone_url": "https://github.com/bmaltais/kohya_ss.git",
   "svn_url": "https://github.com/bmaltais/kohya_ss",
   "homepage": null,
-  "size": 11502,
-  "stargazers_count": 6863,
-  "watchers_count": 6863,
+  "size": 11526,
+  "stargazers_count": 6872,
+  "watchers_count": 6872,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 668,
+  "open_issues_count": 672,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 910,
-  "open_issues": 668,
-  "watchers": 6863,
+  "open_issues": 672,
+  "watchers": 6872,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 766
+  "_index": 771
 }

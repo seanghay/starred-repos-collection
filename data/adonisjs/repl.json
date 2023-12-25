@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/adonisjs/repl/releases{/id}",
   "deployments_url": "https://api.github.com/repos/adonisjs/repl/deployments",
   "created_at": "2020-10-08T16:51:36Z",
-  "updated_at": "2023-12-19T06:19:16Z",
+  "updated_at": "2023-12-24T05:41:59Z",
   "pushed_at": "2023-12-19T06:13:16Z",
   "git_url": "git://github.com/adonisjs/repl.git",
   "ssh_url": "git@github.com:adonisjs/repl.git",
@@ -98,11 +98,7 @@
   "is_template": false,
   "web_commit_signoff_required": false,
   "topics": [
-    "cli",
-    "first-party-package",
-    "framework-agnostic",
-    "repl",
-    "tinker"
+    "bundled-with-core"
   ],
   "visibility": "public",
   "forks": 4,
@@ -116,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1992
+  "_index": 1997
 }

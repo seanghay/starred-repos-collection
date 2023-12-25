@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/WeblateOrg/weblate/releases{/id}",
   "deployments_url": "https://api.github.com/repos/WeblateOrg/weblate/deployments",
   "created_at": "2012-02-27T09:33:29Z",
-  "updated_at": "2023-12-23T01:53:46Z",
-  "pushed_at": "2023-12-23T20:08:13Z",
+  "updated_at": "2023-12-24T05:34:24Z",
+  "pushed_at": "2023-12-24T16:23:32Z",
   "git_url": "git://github.com/WeblateOrg/weblate.git",
   "ssh_url": "git@github.com:WeblateOrg/weblate.git",
   "clone_url": "https://github.com/WeblateOrg/weblate.git",
   "svn_url": "https://github.com/WeblateOrg/weblate",
   "homepage": "https://weblate.org/",
-  "size": 2575531,
-  "stargazers_count": 3970,
-  "watchers_count": 3970,
+  "size": 2576160,
+  "stargazers_count": 3971,
+  "watchers_count": 3971,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 939,
   "open_issues": 435,
-  "watchers": 3970,
+  "watchers": 3971,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 307
+  "_index": 312
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/remarkjs/remark/releases{/id}",
   "deployments_url": "https://api.github.com/repos/remarkjs/remark/deployments",
   "created_at": "2014-07-28T19:35:14Z",
-  "updated_at": "2023-12-23T15:22:38Z",
+  "updated_at": "2023-12-25T01:43:10Z",
   "pushed_at": "2023-10-25T09:26:32Z",
   "git_url": "git://github.com/remarkjs/remark.git",
   "ssh_url": "git@github.com:remarkjs/remark.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/remarkjs/remark",
   "homepage": "https://remark.js.org",
   "size": 13147,
-  "stargazers_count": 6933,
-  "watchers_count": 6933,
+  "stargazers_count": 6937,
+  "watchers_count": 6937,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 382,
   "open_issues": 5,
-  "watchers": 6933,
+  "watchers": 6937,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1888
+  "_index": 1893
 }

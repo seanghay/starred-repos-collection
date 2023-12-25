@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pybind/pybind11/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pybind/pybind11/deployments",
   "created_at": "2015-07-05T19:46:48Z",
-  "updated_at": "2023-12-23T20:36:28Z",
+  "updated_at": "2023-12-24T17:13:54Z",
   "pushed_at": "2023-12-21T23:38:46Z",
   "git_url": "git://github.com/pybind/pybind11.git",
   "ssh_url": "git@github.com:pybind/pybind11.git",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 50
+  "_index": 55
 }
