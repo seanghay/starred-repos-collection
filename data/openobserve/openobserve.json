@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/openobserve/openobserve/releases{/id}",
   "deployments_url": "https://api.github.com/repos/openobserve/openobserve/deployments",
   "created_at": "2023-02-02T03:29:51Z",
-  "updated_at": "2023-12-24T18:45:10Z",
-  "pushed_at": "2023-12-24T15:10:27Z",
+  "updated_at": "2023-12-26T01:33:06Z",
+  "pushed_at": "2023-12-26T01:09:39Z",
   "git_url": "git://github.com/openobserve/openobserve.git",
   "ssh_url": "git@github.com:openobserve/openobserve.git",
   "clone_url": "https://github.com/openobserve/openobserve.git",
   "svn_url": "https://github.com/openobserve/openobserve",
   "homepage": "https://openobserve.ai",
-  "size": 27591,
-  "stargazers_count": 7471,
-  "watchers_count": 7471,
+  "size": 27886,
+  "stargazers_count": 7485,
+  "watchers_count": 7485,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 258,
+  "open_issues_count": 259,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -120,8 +120,8 @@
   ],
   "visibility": "public",
   "forks": 299,
-  "open_issues": 258,
-  "watchers": 7471,
+  "open_issues": 259,
+  "watchers": 7485,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 561
+  "_index": 563
 }

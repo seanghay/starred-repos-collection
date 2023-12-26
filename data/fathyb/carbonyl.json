@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fathyb/carbonyl/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fathyb/carbonyl/deployments",
   "created_at": "2023-01-20T10:58:22Z",
-  "updated_at": "2023-12-24T18:23:24Z",
+  "updated_at": "2023-12-25T20:21:57Z",
   "pushed_at": "2023-08-24T20:04:42Z",
   "git_url": "git://github.com/fathyb/carbonyl.git",
   "ssh_url": "git@github.com:fathyb/carbonyl.git",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 889
+  "_index": 891
 }

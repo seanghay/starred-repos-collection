@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/veltman/flubber/releases{/id}",
   "deployments_url": "https://api.github.com/repos/veltman/flubber/deployments",
   "created_at": "2017-06-09T08:16:56Z",
-  "updated_at": "2023-12-24T06:06:55Z",
+  "updated_at": "2023-12-25T19:51:23Z",
   "pushed_at": "2022-11-08T03:34:37Z",
   "git_url": "git://github.com/veltman/flubber.git",
   "ssh_url": "git@github.com:veltman/flubber.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/veltman/flubber",
   "homepage": null,
   "size": 241,
-  "stargazers_count": 6292,
-  "watchers_count": 6292,
+  "stargazers_count": 6293,
+  "watchers_count": 6293,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 194,
+  "forks_count": 195,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 194,
+  "forks": 195,
   "open_issues": 19,
-  "watchers": 6292,
+  "watchers": 6293,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1819
+  "_index": 1821
 }

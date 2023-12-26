@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fondesa/recycler-view-divider/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fondesa/recycler-view-divider/deployments",
   "created_at": "2016-04-12T19:18:21Z",
-  "updated_at": "2023-12-18T06:22:36Z",
+  "updated_at": "2023-12-25T15:33:41Z",
   "pushed_at": "2023-12-21T15:23:41Z",
   "git_url": "git://github.com/fondesa/recycler-view-divider.git",
   "ssh_url": "git@github.com:fondesa/recycler-view-divider.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/fondesa/recycler-view-divider",
   "homepage": "",
   "size": 1649,
-  "stargazers_count": 503,
-  "watchers_count": 503,
+  "stargazers_count": 504,
+  "watchers_count": 504,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -115,7 +115,7 @@
   "visibility": "public",
   "forks": 44,
   "open_issues": 15,
-  "watchers": 503,
+  "watchers": 504,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2445
+  "_index": 2447
 }

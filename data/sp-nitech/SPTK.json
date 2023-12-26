@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/sp-nitech/SPTK.git",
   "svn_url": "https://github.com/sp-nitech/SPTK",
   "homepage": "http://sp-tk.sourceforge.net",
-  "size": 5474,
+  "size": 5475,
   "stargazers_count": 196,
   "watchers_count": 196,
   "language": "C++",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 335
+  "_index": 337
 }

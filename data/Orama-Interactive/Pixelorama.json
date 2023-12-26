@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Orama-Interactive/Pixelorama/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Orama-Interactive/Pixelorama/deployments",
   "created_at": "2019-08-18T09:28:54Z",
-  "updated_at": "2023-12-24T07:42:38Z",
-  "pushed_at": "2023-12-25T00:51:35Z",
+  "updated_at": "2023-12-25T18:36:24Z",
+  "pushed_at": "2023-12-25T13:03:22Z",
   "git_url": "git://github.com/Orama-Interactive/Pixelorama.git",
   "ssh_url": "git@github.com:Orama-Interactive/Pixelorama.git",
   "clone_url": "https://github.com/Orama-Interactive/Pixelorama.git",
   "svn_url": "https://github.com/Orama-Interactive/Pixelorama",
   "homepage": "https://orama-interactive.itch.io/pixelorama",
-  "size": 60296,
-  "stargazers_count": 5620,
-  "watchers_count": 5620,
+  "size": 59718,
+  "stargazers_count": 5623,
+  "watchers_count": 5623,
   "language": "GDScript",
   "has_issues": true,
   "has_projects": true,
@@ -122,7 +122,7 @@
   "visibility": "public",
   "forks": 321,
   "open_issues": 39,
-  "watchers": 5620,
+  "watchers": 5623,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 113
+  "_index": 115
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/cockroachdb/cockroach/releases{/id}",
   "deployments_url": "https://api.github.com/repos/cockroachdb/cockroach/deployments",
   "created_at": "2014-02-06T00:18:47Z",
-  "updated_at": "2023-12-24T15:32:39Z",
-  "pushed_at": "2023-12-23T22:42:40Z",
+  "updated_at": "2023-12-25T18:30:55Z",
+  "pushed_at": "2023-12-25T05:28:30Z",
   "git_url": "git://github.com/cockroachdb/cockroach.git",
   "ssh_url": "git@github.com:cockroachdb/cockroach.git",
   "clone_url": "https://github.com/cockroachdb/cockroach.git",
   "svn_url": "https://github.com/cockroachdb/cockroach",
   "homepage": "https://www.cockroachlabs.com",
-  "size": 2564164,
-  "stargazers_count": 28325,
-  "watchers_count": 28325,
+  "size": 2563163,
+  "stargazers_count": 28327,
+  "watchers_count": 28327,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 5676,
+  "open_issues_count": 5684,
   "license": {
     "key": "other",
     "name": "Other",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 3627,
-  "open_issues": 5676,
-  "watchers": 28325,
+  "open_issues": 5684,
+  "watchers": 28327,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1440
+  "_index": 1442
 }

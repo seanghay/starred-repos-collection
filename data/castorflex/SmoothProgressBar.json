@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/castorflex/SmoothProgressBar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/castorflex/SmoothProgressBar/deployments",
   "created_at": "2013-11-27T20:32:16Z",
-  "updated_at": "2023-12-14T17:58:28Z",
+  "updated_at": "2023-12-25T06:05:33Z",
   "pushed_at": "2021-05-21T18:02:35Z",
   "git_url": "git://github.com/castorflex/SmoothProgressBar.git",
   "ssh_url": "git@github.com:castorflex/SmoothProgressBar.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/castorflex/SmoothProgressBar",
   "homepage": "",
   "size": 15681,
-  "stargazers_count": 4492,
-  "watchers_count": 4492,
+  "stargazers_count": 4493,
+  "watchers_count": 4493,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1017,
+  "forks_count": 1018,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 1017,
+  "forks": 1018,
   "open_issues": 13,
-  "watchers": 4492,
+  "watchers": 4493,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1954
+  "_index": 1956
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/visioncortex/vtracer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/visioncortex/vtracer/deployments",
   "created_at": "2020-10-23T03:58:35Z",
-  "updated_at": "2023-12-24T19:28:27Z",
+  "updated_at": "2023-12-25T23:07:06Z",
   "pushed_at": "2023-11-21T09:53:33Z",
   "git_url": "git://github.com/visioncortex/vtracer.git",
   "ssh_url": "git@github.com:visioncortex/vtracer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/visioncortex/vtracer",
   "homepage": "https://www.visioncortex.org/vtracer/",
   "size": 35164,
-  "stargazers_count": 2389,
-  "watchers_count": 2389,
+  "stargazers_count": 2393,
+  "watchers_count": 2393,
   "language": "Rust",
   "has_issues": false,
   "has_projects": false,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 140,
   "open_issues": 8,
-  "watchers": 2389,
+  "watchers": 2393,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 35
+  "_index": 37
 }

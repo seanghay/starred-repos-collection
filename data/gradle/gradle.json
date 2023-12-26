@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/gradle/gradle/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gradle/gradle/deployments",
   "created_at": "2009-09-09T18:27:19Z",
-  "updated_at": "2023-12-24T18:23:51Z",
-  "pushed_at": "2023-12-25T01:50:44Z",
+  "updated_at": "2023-12-25T19:08:01Z",
+  "pushed_at": "2023-12-26T00:42:09Z",
   "git_url": "git://github.com/gradle/gradle.git",
   "ssh_url": "git@github.com:gradle/gradle.git",
   "clone_url": "https://github.com/gradle/gradle.git",
   "svn_url": "https://github.com/gradle/gradle",
   "homepage": "https://gradle.org",
-  "size": 507131,
-  "stargazers_count": 15615,
-  "watchers_count": 15615,
+  "size": 506992,
+  "stargazers_count": 15617,
+  "watchers_count": 15617,
   "language": "Groovy",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 4542,
+  "forks_count": 4544,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,9 +108,9 @@
     "kotlin"
   ],
   "visibility": "public",
-  "forks": 4542,
+  "forks": 4544,
   "open_issues": 2649,
-  "watchers": 15615,
+  "watchers": 15617,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2739
+  "_index": 2741
 }

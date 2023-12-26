@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jitsi/jitsi-meet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jitsi/jitsi-meet/deployments",
   "created_at": "2013-12-16T12:51:09Z",
-  "updated_at": "2023-12-25T00:20:05Z",
+  "updated_at": "2023-12-25T15:48:02Z",
   "pushed_at": "2023-12-22T14:36:41Z",
   "git_url": "git://github.com/jitsi/jitsi-meet.git",
   "ssh_url": "git@github.com:jitsi/jitsi-meet.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jitsi/jitsi-meet",
   "homepage": "https://jitsi.org/meet",
   "size": 262005,
-  "stargazers_count": 20787,
-  "watchers_count": 20787,
+  "stargazers_count": 20790,
+  "watchers_count": 20790,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 6386,
   "open_issues": 200,
-  "watchers": 20787,
+  "watchers": 20790,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1222
+  "_index": 1224
 }

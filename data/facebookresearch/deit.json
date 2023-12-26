@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/facebookresearch/deit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookresearch/deit/deployments",
   "created_at": "2020-12-23T17:44:43Z",
-  "updated_at": "2023-12-21T20:19:33Z",
+  "updated_at": "2023-12-25T06:16:02Z",
   "pushed_at": "2023-09-25T15:51:06Z",
   "git_url": "git://github.com/facebookresearch/deit.git",
   "ssh_url": "git@github.com:facebookresearch/deit.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/facebookresearch/deit",
   "homepage": null,
   "size": 5863,
-  "stargazers_count": 3708,
-  "watchers_count": 3708,
+  "stargazers_count": 3710,
+  "watchers_count": 3710,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 534,
   "open_issues": 18,
-  "watchers": 3708,
+  "watchers": 3710,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1305
+  "_index": 1307
 }

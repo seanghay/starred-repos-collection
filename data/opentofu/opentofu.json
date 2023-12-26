@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/opentofu/opentofu/releases{/id}",
   "deployments_url": "https://api.github.com/repos/opentofu/opentofu/deployments",
   "created_at": "2023-08-16T20:01:36Z",
-  "updated_at": "2023-12-24T22:16:58Z",
+  "updated_at": "2023-12-26T00:13:08Z",
   "pushed_at": "2023-12-24T08:19:03Z",
   "git_url": "git://github.com/opentofu/opentofu.git",
   "ssh_url": "git@github.com:opentofu/opentofu.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/opentofu/opentofu",
   "homepage": "https://opentofu.org",
   "size": 271833,
-  "stargazers_count": 16686,
-  "watchers_count": 16686,
+  "stargazers_count": 16693,
+  "watchers_count": 16693,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 577,
+  "forks_count": 578,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 173,
+  "open_issues_count": 174,
   "license": {
     "key": "mpl-2.0",
     "name": "Mozilla Public License 2.0",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 577,
-  "open_issues": 173,
-  "watchers": 16686,
+  "forks": 578,
+  "open_issues": 174,
+  "watchers": 16693,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 221
+  "_index": 223
 }

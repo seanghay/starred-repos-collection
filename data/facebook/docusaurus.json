@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/facebook/docusaurus/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebook/docusaurus/deployments",
   "created_at": "2017-06-20T16:13:53Z",
-  "updated_at": "2023-12-25T01:12:02Z",
-  "pushed_at": "2023-12-23T16:58:26Z",
+  "updated_at": "2023-12-25T21:08:54Z",
+  "pushed_at": "2023-12-25T20:02:13Z",
   "git_url": "git://github.com/facebook/docusaurus.git",
   "ssh_url": "git@github.com:facebook/docusaurus.git",
   "clone_url": "https://github.com/facebook/docusaurus.git",
   "svn_url": "https://github.com/facebook/docusaurus",
   "homepage": "https://docusaurus.io",
   "size": 251443,
-  "stargazers_count": 50236,
-  "watchers_count": 50236,
+  "stargazers_count": 50251,
+  "watchers_count": 50251,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 7708,
+  "forks_count": 7706,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 311,
+  "open_issues_count": 312,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,9 +106,9 @@
     "website"
   ],
   "visibility": "public",
-  "forks": 7708,
-  "open_issues": 311,
-  "watchers": 50236,
+  "forks": 7706,
+  "open_issues": 312,
+  "watchers": 50251,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1096
+  "_index": 1098
 }

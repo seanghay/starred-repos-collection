@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/acoustid/chromaprint/releases{/id}",
   "deployments_url": "https://api.github.com/repos/acoustid/chromaprint/deployments",
   "created_at": "2011-04-17T09:23:10Z",
-  "updated_at": "2023-12-21T14:35:57Z",
+  "updated_at": "2023-12-25T11:42:50Z",
   "pushed_at": "2023-11-20T21:43:44Z",
   "git_url": "git://github.com/acoustid/chromaprint.git",
   "ssh_url": "git@github.com:acoustid/chromaprint.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/acoustid/chromaprint",
   "homepage": "",
   "size": 2861,
-  "stargazers_count": 852,
-  "watchers_count": 852,
+  "stargazers_count": 853,
+  "watchers_count": 853,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 123,
   "open_issues": 26,
-  "watchers": 852,
+  "watchers": 853,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 519
+  "_index": 521
 }
