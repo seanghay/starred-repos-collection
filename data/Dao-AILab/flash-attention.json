@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Dao-AILab/flash-attention/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Dao-AILab/flash-attention/deployments",
   "created_at": "2022-05-19T21:22:06Z",
-  "updated_at": "2023-12-26T01:33:54Z",
+  "updated_at": "2023-12-26T21:21:14Z",
   "pushed_at": "2023-12-26T00:29:42Z",
   "git_url": "git://github.com/Dao-AILab/flash-attention.git",
   "ssh_url": "git@github.com:Dao-AILab/flash-attention.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Dao-AILab/flash-attention",
   "homepage": "",
   "size": 6988,
-  "stargazers_count": 8729,
-  "watchers_count": 8729,
+  "stargazers_count": 8748,
+  "watchers_count": 8748,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 741,
+  "forks_count": 742,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 315,
+  "open_issues_count": 316,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 741,
-  "open_issues": 315,
-  "watchers": 8729,
+  "forks": 742,
+  "open_issues": 316,
+  "watchers": 8748,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 188
+  "_index": 196
 }

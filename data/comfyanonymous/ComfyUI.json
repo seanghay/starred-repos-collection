@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/comfyanonymous/ComfyUI",
-  "description": "The most powerful and modular stable diffusion GUI with a graph/nodes interface.",
+  "description": "The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.",
   "fork": false,
   "url": "https://api.github.com/repos/comfyanonymous/ComfyUI",
   "forks_url": "https://api.github.com/repos/comfyanonymous/ComfyUI/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/comfyanonymous/ComfyUI/releases{/id}",
   "deployments_url": "https://api.github.com/repos/comfyanonymous/ComfyUI/deployments",
   "created_at": "2023-01-17T03:15:56Z",
-  "updated_at": "2023-12-26T00:54:27Z",
-  "pushed_at": "2023-12-25T17:28:11Z",
+  "updated_at": "2023-12-27T01:42:54Z",
+  "pushed_at": "2023-12-26T19:33:27Z",
   "git_url": "git://github.com/comfyanonymous/ComfyUI.git",
   "ssh_url": "git@github.com:comfyanonymous/ComfyUI.git",
   "clone_url": "https://github.com/comfyanonymous/ComfyUI.git",
   "svn_url": "https://github.com/comfyanonymous/ComfyUI",
   "homepage": "",
-  "size": 3392,
-  "stargazers_count": 20354,
-  "watchers_count": 20354,
+  "size": 3396,
+  "stargazers_count": 20500,
+  "watchers_count": 20500,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2096,
+  "forks_count": 2113,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1009,
+  "open_issues_count": 1017,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -101,9 +101,9 @@
     "stable-diffusion"
   ],
   "visibility": "public",
-  "forks": 2096,
-  "open_issues": 1009,
-  "watchers": 20354,
+  "forks": 2113,
+  "open_issues": 1017,
+  "watchers": 20500,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 831
+  "_index": 839
 }

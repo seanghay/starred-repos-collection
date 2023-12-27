@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/airbnb/epoxy-ios/releases{/id}",
   "deployments_url": "https://api.github.com/repos/airbnb/epoxy-ios/deployments",
   "created_at": "2018-10-10T00:54:13Z",
-  "updated_at": "2023-12-22T10:40:00Z",
+  "updated_at": "2023-12-26T08:17:55Z",
   "pushed_at": "2023-11-21T23:14:33Z",
   "git_url": "git://github.com/airbnb/epoxy-ios.git",
   "ssh_url": "git@github.com:airbnb/epoxy-ios.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/airbnb/epoxy-ios",
   "homepage": "",
   "size": 6644,
-  "stargazers_count": 1120,
-  "watchers_count": 1120,
+  "stargazers_count": 1121,
+  "watchers_count": 1121,
   "language": "Swift",
   "has_issues": true,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 74,
   "open_issues": 4,
-  "watchers": 1120,
+  "watchers": 1121,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1984
+  "_index": 1992
 }

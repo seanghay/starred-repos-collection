@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ximsfei/Android-skin-support/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ximsfei/Android-skin-support/deployments",
   "created_at": "2017-01-12T15:03:54Z",
-  "updated_at": "2023-12-25T06:23:33Z",
+  "updated_at": "2023-12-26T02:55:59Z",
   "pushed_at": "2020-09-03T06:06:18Z",
   "git_url": "git://github.com/ximsfei/Android-skin-support.git",
   "ssh_url": "git@github.com:ximsfei/Android-skin-support.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ximsfei/Android-skin-support",
   "homepage": "",
   "size": 54130,
-  "stargazers_count": 6246,
-  "watchers_count": 6246,
+  "stargazers_count": 6248,
+  "watchers_count": 6248,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 1073,
   "open_issues": 99,
-  "watchers": 6246,
+  "watchers": 6248,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2725
+  "_index": 2733
 }

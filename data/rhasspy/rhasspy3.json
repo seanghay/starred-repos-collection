@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/rhasspy/rhasspy3/deployments",
   "created_at": "2023-03-02T22:32:39Z",
   "updated_at": "2023-12-25T07:18:38Z",
-  "pushed_at": "2023-12-25T17:16:42Z",
+  "pushed_at": "2023-12-26T10:47:32Z",
   "git_url": "git://github.com/rhasspy/rhasspy3.git",
   "ssh_url": "git@github.com:rhasspy/rhasspy3.git",
   "clone_url": "https://github.com/rhasspy/rhasspy3.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 200
+  "_index": 208
 }

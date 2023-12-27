@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/thompsonb/vecalign/releases{/id}",
   "deployments_url": "https://api.github.com/repos/thompsonb/vecalign/deployments",
   "created_at": "2019-10-25T20:14:12Z",
-  "updated_at": "2023-12-20T03:46:02Z",
+  "updated_at": "2023-12-26T12:00:42Z",
   "pushed_at": "2023-03-06T20:47:47Z",
   "git_url": "git://github.com/thompsonb/vecalign.git",
   "ssh_url": "git@github.com:thompsonb/vecalign.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/thompsonb/vecalign",
   "homepage": "",
   "size": 111658,
-  "stargazers_count": 141,
-  "watchers_count": 141,
+  "stargazers_count": 142,
+  "watchers_count": 142,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 26,
   "open_issues": 6,
-  "watchers": 141,
+  "watchers": 142,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 427
+  "_index": 435
 }

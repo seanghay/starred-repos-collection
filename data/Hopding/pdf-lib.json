@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Hopding/pdf-lib/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Hopding/pdf-lib/deployments",
   "created_at": "2017-09-04T14:22:30Z",
-  "updated_at": "2023-12-25T17:24:49Z",
+  "updated_at": "2023-12-27T00:01:26Z",
   "pushed_at": "2023-12-20T05:47:54Z",
   "git_url": "git://github.com/Hopding/pdf-lib.git",
   "ssh_url": "git@github.com:Hopding/pdf-lib.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Hopding/pdf-lib",
   "homepage": "https://pdf-lib.js.org",
   "size": 135765,
-  "stargazers_count": 5846,
-  "watchers_count": 5846,
+  "stargazers_count": 5853,
+  "watchers_count": 5853,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -119,7 +119,7 @@
   "visibility": "public",
   "forks": 548,
   "open_issues": 236,
-  "watchers": 5846,
+  "watchers": 5853,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1814
+  "_index": 1822
 }

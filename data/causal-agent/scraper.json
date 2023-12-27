@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/causal-agent/scraper/releases{/id}",
   "deployments_url": "https://api.github.com/repos/causal-agent/scraper/deployments",
   "created_at": "2016-01-01T21:45:09Z",
-  "updated_at": "2023-12-25T22:18:11Z",
-  "pushed_at": "2023-12-22T10:33:12Z",
+  "updated_at": "2023-12-26T10:13:05Z",
+  "pushed_at": "2023-12-26T18:19:57Z",
   "git_url": "git://github.com/causal-agent/scraper.git",
   "ssh_url": "git@github.com:causal-agent/scraper.git",
   "clone_url": "https://github.com/causal-agent/scraper.git",
   "svn_url": "https://github.com/causal-agent/scraper",
   "homepage": "https://docs.rs/scraper",
-  "size": 4406,
-  "stargazers_count": 1624,
-  "watchers_count": 1624,
+  "size": 4409,
+  "stargazers_count": 1626,
+  "watchers_count": 1626,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 131,
+  "forks_count": 130,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 11,
+  "open_issues_count": 9,
   "license": {
     "key": "isc",
     "name": "ISC License",
@@ -102,9 +102,9 @@
     "rust"
   ],
   "visibility": "public",
-  "forks": 131,
-  "open_issues": 11,
-  "watchers": 1624,
+  "forks": 130,
+  "open_issues": 9,
+  "watchers": 1626,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 945
+  "_index": 953
 }

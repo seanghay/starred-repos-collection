@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/garden-io/garden/releases{/id}",
   "deployments_url": "https://api.github.com/repos/garden-io/garden/deployments",
   "created_at": "2017-12-03T02:10:59Z",
-  "updated_at": "2023-12-25T22:21:24Z",
+  "updated_at": "2023-12-26T18:20:51Z",
   "pushed_at": "2023-12-25T23:46:54Z",
   "git_url": "git://github.com/garden-io/garden.git",
   "ssh_url": "git@github.com:garden-io/garden.git",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1288
+  "_index": 1296
 }

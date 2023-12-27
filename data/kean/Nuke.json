@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kean/Nuke/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kean/Nuke/deployments",
   "created_at": "2015-03-11T10:53:26Z",
-  "updated_at": "2023-12-25T08:49:20Z",
+  "updated_at": "2023-12-26T08:50:56Z",
   "pushed_at": "2023-12-25T23:59:51Z",
   "git_url": "git://github.com/kean/Nuke.git",
   "ssh_url": "git@github.com:kean/Nuke.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/kean/Nuke",
   "homepage": "https://kean.blog/nuke",
   "size": 12279,
-  "stargazers_count": 7651,
-  "watchers_count": 7651,
+  "stargazers_count": 7653,
+  "watchers_count": 7653,
   "language": "Swift",
   "has_issues": true,
   "has_projects": false,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 500,
   "open_issues": 14,
-  "watchers": 7651,
+  "watchers": 7653,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2269
+  "_index": 2277
 }

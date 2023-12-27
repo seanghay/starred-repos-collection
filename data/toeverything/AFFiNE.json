@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/toeverything/AFFiNE/releases{/id}",
   "deployments_url": "https://api.github.com/repos/toeverything/AFFiNE/deployments",
   "created_at": "2022-07-31T18:45:21Z",
-  "updated_at": "2023-12-25T23:38:57Z",
-  "pushed_at": "2023-12-26T00:46:10Z",
+  "updated_at": "2023-12-27T00:28:27Z",
+  "pushed_at": "2023-12-26T21:21:06Z",
   "git_url": "git://github.com/toeverything/AFFiNE.git",
   "ssh_url": "git@github.com:toeverything/AFFiNE.git",
   "clone_url": "https://github.com/toeverything/AFFiNE.git",
   "svn_url": "https://github.com/toeverything/AFFiNE",
   "homepage": "https://affine.pro",
-  "size": 260112,
-  "stargazers_count": 24267,
-  "watchers_count": 24267,
+  "size": 260882,
+  "stargazers_count": 24284,
+  "watchers_count": 24284,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1759,
+  "forks_count": 1764,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 289,
+  "open_issues_count": 290,
   "license": {
     "key": "other",
     "name": "Other",
@@ -118,9 +118,9 @@
     "workspace"
   ],
   "visibility": "public",
-  "forks": 1759,
-  "open_issues": 289,
-  "watchers": 24267,
+  "forks": 1764,
+  "open_issues": 290,
+  "watchers": 24284,
   "default_branch": "canary",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 827
+  "_index": 835
 }

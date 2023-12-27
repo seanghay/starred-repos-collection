@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/amrro/akane/releases{/id}",
   "deployments_url": "https://api.github.com/repos/amrro/akane/deployments",
   "created_at": "2019-01-27T07:13:28Z",
-  "updated_at": "2022-07-02T20:55:19Z",
+  "updated_at": "2023-12-26T23:43:13Z",
   "pushed_at": "2019-05-29T22:24:58Z",
   "git_url": "git://github.com/amrro/akane.git",
   "ssh_url": "git@github.com:amrro/akane.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/amrro/akane",
   "homepage": "",
   "size": 5096,
-  "stargazers_count": 61,
-  "watchers_count": 61,
+  "stargazers_count": 62,
+  "watchers_count": 62,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -102,7 +102,7 @@
   "visibility": "public",
   "forks": 4,
   "open_issues": 2,
-  "watchers": 61,
+  "watchers": 62,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -111,5 +111,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2909
+  "_index": 2917
 }

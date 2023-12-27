@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/fishaudio/Bert-VITS2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fishaudio/Bert-VITS2/deployments",
   "created_at": "2023-07-29T10:45:35Z",
-  "updated_at": "2023-12-26T01:34:21Z",
-  "pushed_at": "2023-12-25T18:46:53Z",
+  "updated_at": "2023-12-26T20:54:34Z",
+  "pushed_at": "2023-12-26T14:57:56Z",
   "git_url": "git://github.com/fishaudio/Bert-VITS2.git",
   "ssh_url": "git@github.com:fishaudio/Bert-VITS2.git",
   "clone_url": "https://github.com/fishaudio/Bert-VITS2.git",
   "svn_url": "https://github.com/fishaudio/Bert-VITS2",
   "homepage": "",
-  "size": 9858,
-  "stargazers_count": 3853,
-  "watchers_count": 3853,
+  "size": 9907,
+  "stargazers_count": 3885,
+  "watchers_count": 3885,
   "language": "Python",
   "has_issues": false,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 571,
+  "forks_count": 573,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,9 +106,9 @@
     "vits2"
   ],
   "visibility": "public",
-  "forks": 571,
+  "forks": 573,
   "open_issues": 4,
-  "watchers": 3853,
+  "watchers": 3885,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1
+  "_index": 9
 }

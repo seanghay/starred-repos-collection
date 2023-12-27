@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/releases{/id}",
   "deployments_url": "https://api.github.com/repos/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/deployments",
   "created_at": "2023-03-27T09:59:10Z",
-  "updated_at": "2023-12-26T01:16:33Z",
-  "pushed_at": "2023-12-25T17:05:55Z",
+  "updated_at": "2023-12-26T18:30:41Z",
+  "pushed_at": "2023-12-26T15:20:30Z",
   "git_url": "git://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI.git",
   "ssh_url": "git@github.com:RVC-Project/Retrieval-based-Voice-Conversion-WebUI.git",
   "clone_url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI.git",
   "svn_url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
   "homepage": "",
-  "size": 14434,
-  "stargazers_count": 14765,
-  "watchers_count": 14765,
+  "size": 14531,
+  "stargazers_count": 14797,
+  "watchers_count": 14797,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2448,
+  "forks_count": 2463,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 647,
+  "open_issues_count": 646,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -116,9 +116,9 @@
     "voiceconversion"
   ],
   "visibility": "public",
-  "forks": 2448,
-  "open_issues": 647,
-  "watchers": 14765,
+  "forks": 2463,
+  "open_issues": 646,
+  "watchers": 14797,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 595
+  "_index": 603
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/style-aligned/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/style-aligned/deployments",
   "created_at": "2023-11-20T13:58:14Z",
-  "updated_at": "2023-12-25T13:01:18Z",
+  "updated_at": "2023-12-27T00:59:03Z",
   "pushed_at": "2023-12-22T11:34:19Z",
   "git_url": "git://github.com/google/style-aligned.git",
   "ssh_url": "git@github.com:google/style-aligned.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/style-aligned",
   "homepage": "",
   "size": 16271,
-  "stargazers_count": 910,
-  "watchers_count": 910,
+  "stargazers_count": 915,
+  "watchers_count": 915,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 103,
+  "forks_count": 104,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 8,
+  "open_issues_count": 9,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 103,
-  "open_issues": 8,
-  "watchers": 910,
+  "forks": 104,
+  "open_issues": 9,
+  "watchers": 915,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 65
+  "_index": 73
 }

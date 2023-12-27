@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Nuitka/Nuitka/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Nuitka/Nuitka/deployments",
   "created_at": "2013-04-23T15:40:33Z",
-  "updated_at": "2023-12-26T00:51:57Z",
+  "updated_at": "2023-12-27T01:33:22Z",
   "pushed_at": "2023-12-25T13:07:19Z",
   "git_url": "git://github.com/Nuitka/Nuitka.git",
   "ssh_url": "git@github.com:Nuitka/Nuitka.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 558,
+  "forks_count": 557,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 162,
+  "open_issues_count": 164,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -107,8 +107,8 @@
     "python-compiler"
   ],
   "visibility": "public",
-  "forks": 558,
-  "open_issues": 162,
+  "forks": 557,
+  "open_issues": 164,
   "watchers": 10187,
   "default_branch": "develop",
   "permissions": {
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 47
+  "_index": 55
 }
