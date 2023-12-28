@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/vercel/turbo/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vercel/turbo/deployments",
   "created_at": "2021-10-05T17:37:11Z",
-  "updated_at": "2023-12-26T18:36:11Z",
-  "pushed_at": "2023-12-26T12:52:42Z",
+  "updated_at": "2023-12-27T22:56:30Z",
+  "pushed_at": "2023-12-27T18:19:52Z",
   "git_url": "git://github.com/vercel/turbo.git",
   "ssh_url": "git@github.com:vercel/turbo.git",
   "clone_url": "https://github.com/vercel/turbo.git",
   "svn_url": "https://github.com/vercel/turbo",
   "homepage": "https://turbo.build",
-  "size": 704559,
-  "stargazers_count": 23783,
-  "watchers_count": 23783,
+  "size": 704566,
+  "stargazers_count": 23792,
+  "watchers_count": 23792,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 1612,
+  "forks_count": 1613,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,9 +108,9 @@
     "webpack"
   ],
   "visibility": "public",
-  "forks": 1612,
+  "forks": 1613,
   "open_issues": 418,
-  "watchers": 23783,
+  "watchers": 23792,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1389
+  "_index": 1391
 }

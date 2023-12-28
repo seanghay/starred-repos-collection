@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 67,
+  "forks_count": 68,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "jetpack-compose"
   ],
   "visibility": "public",
-  "forks": 67,
+  "forks": 68,
   "open_issues": 40,
   "watchers": 684,
   "default_branch": "main",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1510
+  "_index": 1512
 }

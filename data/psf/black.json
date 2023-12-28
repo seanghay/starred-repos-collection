@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/psf/black/releases{/id}",
   "deployments_url": "https://api.github.com/repos/psf/black/deployments",
   "created_at": "2018-03-14T19:54:45Z",
-  "updated_at": "2023-12-26T20:11:17Z",
+  "updated_at": "2023-12-27T21:37:40Z",
   "pushed_at": "2023-12-25T06:39:25Z",
   "git_url": "git://github.com/psf/black.git",
   "ssh_url": "git@github.com:psf/black.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/psf/black",
   "homepage": "https://black.readthedocs.io/en/stable/",
   "size": 6108,
-  "stargazers_count": 35713,
-  "watchers_count": 35713,
+  "stargazers_count": 35719,
+  "watchers_count": 35719,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2357,
+  "forks_count": 2358,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,9 +109,9 @@
     "yapf"
   ],
   "visibility": "public",
-  "forks": 2357,
+  "forks": 2358,
   "open_issues": 386,
-  "watchers": 35713,
+  "watchers": 35719,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 141
+  "_index": 143
 }

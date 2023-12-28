@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/GraphiteEditor/Graphite/releases{/id}",
   "deployments_url": "https://api.github.com/repos/GraphiteEditor/Graphite/deployments",
   "created_at": "2020-04-26T07:29:29Z",
-  "updated_at": "2023-12-26T16:30:10Z",
+  "updated_at": "2023-12-27T23:44:19Z",
   "pushed_at": "2023-12-25T21:18:53Z",
   "git_url": "git://github.com/GraphiteEditor/Graphite.git",
   "ssh_url": "git@github.com:GraphiteEditor/Graphite.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/GraphiteEditor/Graphite",
   "homepage": "https://graphite.rs",
   "size": 27165,
-  "stargazers_count": 5029,
-  "watchers_count": 5029,
+  "stargazers_count": 5032,
+  "watchers_count": 5032,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -122,7 +122,7 @@
   "visibility": "public",
   "forks": 217,
   "open_issues": 132,
-  "watchers": 5029,
+  "watchers": 5032,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 416
+  "_index": 418
 }

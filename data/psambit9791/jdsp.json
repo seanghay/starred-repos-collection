@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/psambit9791/jdsp.git",
   "svn_url": "https://github.com/psambit9791/jdsp",
   "homepage": "https://jdsp.dev",
-  "size": 32883,
+  "size": 32888,
   "stargazers_count": 207,
   "watchers_count": 207,
   "language": "Java",
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 508
+  "_index": 510
 }

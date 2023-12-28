@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 845,
+  "forks_count": 844,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,7 +104,7 @@
     "rabbitmq"
   ],
   "visibility": "public",
-  "forks": 845,
+  "forks": 844,
   "open_issues": 32,
   "watchers": 3381,
   "default_branch": "main",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 114
+  "_index": 116
 }

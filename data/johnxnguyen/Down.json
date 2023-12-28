@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 314,
+  "forks_count": 312,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -111,7 +111,7 @@
     "tvos"
   ],
   "visibility": "public",
-  "forks": 314,
+  "forks": 312,
   "open_issues": 31,
   "watchers": 2147,
   "default_branch": "master",
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2070
+  "_index": 2072
 }

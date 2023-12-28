@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nemtrif/utfcpp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nemtrif/utfcpp/deployments",
   "created_at": "2015-08-15T16:11:54Z",
-  "updated_at": "2023-12-27T00:55:17Z",
+  "updated_at": "2023-12-27T18:24:01Z",
   "pushed_at": "2023-12-12T01:27:00Z",
   "git_url": "git://github.com/nemtrif/utfcpp.git",
   "ssh_url": "git@github.com:nemtrif/utfcpp.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 181,
+  "forks_count": 182,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,7 +109,7 @@
     "utf-8"
   ],
   "visibility": "public",
-  "forks": 181,
+  "forks": 182,
   "open_issues": 0,
   "watchers": 1321,
   "default_branch": "master",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 344
+  "_index": 346
 }

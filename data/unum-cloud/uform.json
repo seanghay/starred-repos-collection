@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/unum-cloud/uform",
-  "description": "Multi-Modal AI library for Multi-Lingual Text, Image, and Video Search, Recommendations, and other Vision-Language tasks, up to 5x faster than OpenAI CLIP 🖼️ & 🖋️",
+  "description": "Pocket-Sized Multimodal AI for content understanding and generation across multilingual texts, images, and 🔜 video, up to 5x faster than OpenAI CLIP and LLAVA 🖼️ & 🖋️",
   "fork": false,
   "url": "https://api.github.com/repos/unum-cloud/uform",
   "forks_url": "https://api.github.com/repos/unum-cloud/uform/forks",
@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/unum-cloud/uform/releases{/id}",
   "deployments_url": "https://api.github.com/repos/unum-cloud/uform/deployments",
   "created_at": "2023-02-21T10:04:40Z",
-  "updated_at": "2023-12-25T07:17:42Z",
-  "pushed_at": "2023-12-26T20:59:27Z",
+  "updated_at": "2023-12-27T20:47:29Z",
+  "pushed_at": "2023-12-27T18:35:08Z",
   "git_url": "git://github.com/unum-cloud/uform.git",
   "ssh_url": "git@github.com:unum-cloud/uform.git",
   "clone_url": "https://github.com/unum-cloud/uform.git",
   "svn_url": "https://github.com/unum-cloud/uform",
   "homepage": "https://unum-cloud.github.io/uform/",
-  "size": 420,
+  "size": 439,
   "stargazers_count": 486,
   "watchers_count": 486,
   "language": "Python",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1,
+  "open_issues_count": 2,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -106,6 +106,7 @@
     "huggingface-transformers",
     "image-search",
     "language-vision",
+    "llava",
     "multi-lingual",
     "multimodal",
     "neural-network",
@@ -120,7 +121,7 @@
   ],
   "visibility": "public",
   "forks": 22,
-  "open_issues": 1,
+  "open_issues": 2,
   "watchers": 486,
   "default_branch": "main",
   "permissions": {
@@ -130,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 806
+  "_index": 808
 }
