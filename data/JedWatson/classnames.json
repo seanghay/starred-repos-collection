@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/JedWatson/classnames/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JedWatson/classnames/deployments",
   "created_at": "2014-11-05T00:44:31Z",
-  "updated_at": "2023-12-28T00:54:29Z",
-  "pushed_at": "2023-12-28T00:29:38Z",
+  "updated_at": "2023-12-28T16:17:48Z",
+  "pushed_at": "2023-12-28T18:17:52Z",
   "git_url": "git://github.com/JedWatson/classnames.git",
   "ssh_url": "git@github.com:JedWatson/classnames.git",
   "clone_url": "https://github.com/JedWatson/classnames.git",
   "svn_url": "https://github.com/JedWatson/classnames",
   "homepage": null,
-  "size": 585,
-  "stargazers_count": 17122,
-  "watchers_count": 17122,
+  "size": 605,
+  "stargazers_count": 17119,
+  "watchers_count": 17119,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 3,
+  "open_issues_count": 5,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 618,
-  "open_issues": 3,
-  "watchers": 17122,
+  "open_issues": 5,
+  "watchers": 17119,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3307
+  "_index": 3308
 }

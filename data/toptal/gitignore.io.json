@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/toptal/gitignore.io/releases{/id}",
   "deployments_url": "https://api.github.com/repos/toptal/gitignore.io/deployments",
   "created_at": "2013-02-14T14:25:36Z",
-  "updated_at": "2023-12-27T14:50:28Z",
+  "updated_at": "2023-12-28T23:07:08Z",
   "pushed_at": "2023-10-17T23:23:57Z",
   "git_url": "git://github.com/toptal/gitignore.io.git",
   "ssh_url": "git@github.com:toptal/gitignore.io.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/toptal/gitignore.io",
   "homepage": "https://www.toptal.com/developers/gitignore",
   "size": 14065,
-  "stargazers_count": 7897,
-  "watchers_count": 7897,
+  "stargazers_count": 7899,
+  "watchers_count": 7899,
   "language": "Swift",
   "has_issues": true,
   "has_projects": false,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 630,
   "open_issues": 14,
-  "watchers": 7897,
+  "watchers": 7899,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1819
+  "_index": 1820
 }

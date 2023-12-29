@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/google/clasp/deployments",
   "created_at": "2017-12-05T00:34:56Z",
   "updated_at": "2023-12-27T21:47:47Z",
-  "pushed_at": "2023-12-28T00:04:03Z",
+  "pushed_at": "2023-12-28T02:56:46Z",
   "git_url": "git://github.com/google/clasp.git",
   "ssh_url": "git@github.com:google/clasp.git",
   "clone_url": "https://github.com/google/clasp.git",
   "svn_url": "https://github.com/google/clasp",
   "homepage": "https://developers.google.com/apps-script/guides/clasp",
-  "size": 4852,
+  "size": 4727,
   "stargazers_count": 4193,
   "watchers_count": 4193,
   "language": "TypeScript",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1267
+  "_index": 1268
 }

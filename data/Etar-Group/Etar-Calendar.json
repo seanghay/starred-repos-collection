@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Etar-Group/Etar-Calendar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Etar-Group/Etar-Calendar/deployments",
   "created_at": "2015-09-04T07:33:25Z",
-  "updated_at": "2023-12-25T16:49:15Z",
+  "updated_at": "2023-12-29T00:29:27Z",
   "pushed_at": "2023-12-24T02:51:59Z",
   "git_url": "git://github.com/Etar-Group/Etar-Calendar.git",
   "ssh_url": "git@github.com:Etar-Group/Etar-Calendar.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 391,
+  "open_issues_count": 390,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -104,7 +104,7 @@
   ],
   "visibility": "public",
   "forks": 378,
-  "open_issues": 391,
+  "open_issues": 390,
   "watchers": 1814,
   "default_branch": "master",
   "permissions": {
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2445
+  "_index": 2446
 }

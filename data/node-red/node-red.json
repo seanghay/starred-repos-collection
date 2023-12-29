@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/node-red/node-red/releases{/id}",
   "deployments_url": "https://api.github.com/repos/node-red/node-red/deployments",
   "created_at": "2013-09-05T13:30:47Z",
-  "updated_at": "2023-12-28T00:55:43Z",
+  "updated_at": "2023-12-28T18:06:14Z",
   "pushed_at": "2023-12-27T17:29:08Z",
   "git_url": "git://github.com/node-red/node-red.git",
   "ssh_url": "git@github.com:node-red/node-red.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/node-red/node-red",
   "homepage": "http://nodered.org",
   "size": 48688,
-  "stargazers_count": 17864,
-  "watchers_count": 17864,
+  "stargazers_count": 17871,
+  "watchers_count": 17871,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 367,
+  "open_issues_count": 368,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 3251,
-  "open_issues": 367,
-  "watchers": 17864,
+  "open_issues": 368,
+  "watchers": 17871,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 766
+  "_index": 767
 }

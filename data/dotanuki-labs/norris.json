@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/dotanuki-labs/norris/deployments",
   "created_at": "2019-06-15T15:53:15Z",
   "updated_at": "2023-12-09T16:24:45Z",
-  "pushed_at": "2023-12-27T20:08:27Z",
+  "pushed_at": "2023-12-28T22:22:05Z",
   "git_url": "git://github.com/dotanuki-labs/norris.git",
   "ssh_url": "git@github.com:dotanuki-labs/norris.git",
   "clone_url": "https://github.com/dotanuki-labs/norris.git",
   "svn_url": "https://github.com/dotanuki-labs/norris",
   "homepage": "",
-  "size": 4688,
+  "size": 4689,
   "stargazers_count": 469,
   "watchers_count": 469,
   "language": "Kotlin",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 7,
+  "open_issues_count": 8,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,7 +109,7 @@
   ],
   "visibility": "public",
   "forks": 38,
-  "open_issues": 7,
+  "open_issues": 8,
   "watchers": 469,
   "default_branch": "master",
   "permissions": {
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1752
+  "_index": 1753
 }

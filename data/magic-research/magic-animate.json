@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/magic-research/magic-animate/releases{/id}",
   "deployments_url": "https://api.github.com/repos/magic-research/magic-animate/deployments",
   "created_at": "2023-11-21T08:33:54Z",
-  "updated_at": "2023-12-28T01:12:03Z",
+  "updated_at": "2023-12-29T01:36:28Z",
   "pushed_at": "2023-12-19T06:32:09Z",
   "git_url": "git://github.com/magic-research/magic-animate.git",
   "ssh_url": "git@github.com:magic-research/magic-animate.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/magic-research/magic-animate",
   "homepage": "https://showlab.github.io/magicanimate/",
   "size": 25460,
-  "stargazers_count": 8233,
-  "watchers_count": 8233,
+  "stargazers_count": 8275,
+  "watchers_count": 8275,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 887,
+  "forks_count": 894,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 887,
+  "forks": 894,
   "open_issues": 83,
-  "watchers": 8233,
+  "watchers": 8275,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 87
+  "_index": 88
 }

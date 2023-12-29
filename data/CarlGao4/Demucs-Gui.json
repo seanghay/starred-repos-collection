@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/CarlGao4/Demucs-Gui/releases{/id}",
   "deployments_url": "https://api.github.com/repos/CarlGao4/Demucs-Gui/deployments",
   "created_at": "2021-12-03T07:31:59Z",
-  "updated_at": "2023-12-26T14:03:50Z",
+  "updated_at": "2023-12-28T04:01:47Z",
   "pushed_at": "2023-12-27T02:52:34Z",
   "git_url": "git://github.com/CarlGao4/Demucs-Gui.git",
   "ssh_url": "git@github.com:CarlGao4/Demucs-Gui.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/CarlGao4/Demucs-Gui",
   "homepage": "",
   "size": 2955,
-  "stargazers_count": 264,
-  "watchers_count": 264,
+  "stargazers_count": 265,
+  "watchers_count": 265,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 19,
   "open_issues": 4,
-  "watchers": 264,
+  "watchers": 265,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 170
+  "_index": 171
 }

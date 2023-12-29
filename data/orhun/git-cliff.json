@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/orhun/git-cliff/releases{/id}",
   "deployments_url": "https://api.github.com/repos/orhun/git-cliff/deployments",
   "created_at": "2021-05-30T11:11:58Z",
-  "updated_at": "2023-12-27T18:36:53Z",
-  "pushed_at": "2023-12-27T22:16:35Z",
+  "updated_at": "2023-12-29T00:33:19Z",
+  "pushed_at": "2023-12-28T22:49:37Z",
   "git_url": "git://github.com/orhun/git-cliff.git",
   "ssh_url": "git@github.com:orhun/git-cliff.git",
   "clone_url": "https://github.com/orhun/git-cliff.git",
   "svn_url": "https://github.com/orhun/git-cliff",
   "homepage": "https://git-cliff.org",
-  "size": 11750,
-  "stargazers_count": 6593,
-  "watchers_count": 6593,
+  "size": 11725,
+  "stargazers_count": 6602,
+  "watchers_count": 6602,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 127,
+  "forks_count": 128,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 27,
+  "open_issues_count": 28,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -113,9 +113,9 @@
     "semver"
   ],
   "visibility": "public",
-  "forks": 127,
-  "open_issues": 27,
-  "watchers": 6593,
+  "forks": 128,
+  "open_issues": 28,
+  "watchers": 6602,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1719
+  "_index": 1720
 }

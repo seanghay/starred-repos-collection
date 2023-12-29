@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/zhenghuatan/rVAD/deployments",
   "created_at": "2020-07-30T14:24:57Z",
   "updated_at": "2023-12-25T06:55:17Z",
-  "pushed_at": "2023-11-29T21:53:09Z",
+  "pushed_at": "2023-12-28T22:39:37Z",
   "git_url": "git://github.com/zhenghuatan/rVAD.git",
   "ssh_url": "git@github.com:zhenghuatan/rVAD.git",
   "clone_url": "https://github.com/zhenghuatan/rVAD.git",
   "svn_url": "https://github.com/zhenghuatan/rVAD",
   "homepage": "https://www.sciencedirect.com/science/article/pii/S0885230819300920",
-  "size": 1089,
+  "size": 1090,
   "stargazers_count": 111,
   "watchers_count": 111,
   "language": "MATLAB",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 289
+  "_index": 290
 }

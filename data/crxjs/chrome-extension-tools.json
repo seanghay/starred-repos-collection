@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/crxjs/chrome-extension-tools/deployments",
   "created_at": "2019-03-15T14:11:45Z",
   "updated_at": "2023-12-27T13:24:08Z",
-  "pushed_at": "2023-12-19T11:10:05Z",
+  "pushed_at": "2023-12-28T16:11:03Z",
   "git_url": "git://github.com/crxjs/chrome-extension-tools.git",
   "ssh_url": "git@github.com:crxjs/chrome-extension-tools.git",
   "clone_url": "https://github.com/crxjs/chrome-extension-tools.git",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1407
+  "_index": 1408
 }

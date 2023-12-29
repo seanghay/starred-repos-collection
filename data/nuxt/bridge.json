@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/nuxt/bridge.git",
   "svn_url": "https://github.com/nuxt/bridge",
   "homepage": "",
-  "size": 2828,
+  "size": 2831,
   "stargazers_count": 248,
   "watchers_count": 248,
   "language": "TypeScript",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1091
+  "_index": 1092
 }

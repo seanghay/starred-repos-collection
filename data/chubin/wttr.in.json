@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/chubin/wttr.in/releases{/id}",
   "deployments_url": "https://api.github.com/repos/chubin/wttr.in/deployments",
   "created_at": "2015-12-26T21:03:43Z",
-  "updated_at": "2023-12-28T01:14:17Z",
+  "updated_at": "2023-12-28T22:29:41Z",
   "pushed_at": "2023-12-18T17:16:16Z",
   "git_url": "git://github.com/chubin/wttr.in.git",
   "ssh_url": "git@github.com:chubin/wttr.in.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/chubin/wttr.in",
   "homepage": "https://wttr.in",
   "size": 1739,
-  "stargazers_count": 22885,
-  "watchers_count": 22885,
+  "stargazers_count": 22896,
+  "watchers_count": 22896,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 285,
+  "open_issues_count": 286,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -112,8 +112,8 @@
   ],
   "visibility": "public",
   "forks": 1056,
-  "open_issues": 285,
-  "watchers": 22885,
+  "open_issues": 286,
+  "watchers": 22896,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1881
+  "_index": 1882
 }

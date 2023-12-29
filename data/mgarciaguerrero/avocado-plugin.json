@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mgarciaguerrero/avocado-plugin/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mgarciaguerrero/avocado-plugin/deployments",
   "created_at": "2019-03-12T18:12:33Z",
-  "updated_at": "2023-07-11T20:37:58Z",
+  "updated_at": "2023-12-28T12:27:13Z",
   "pushed_at": "2019-04-07T16:59:16Z",
   "git_url": "git://github.com/mgarciaguerrero/avocado-plugin.git",
   "ssh_url": "git@github.com:mgarciaguerrero/avocado-plugin.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1952
+  "_index": 1953
 }
