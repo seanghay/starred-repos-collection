@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/AutSoft/Krate/releases{/id}",
   "deployments_url": "https://api.github.com/repos/AutSoft/Krate/deployments",
   "created_at": "2018-08-06T10:02:07Z",
-  "updated_at": "2023-10-19T12:26:16Z",
+  "updated_at": "2023-12-30T01:31:21Z",
   "pushed_at": "2021-11-24T16:49:24Z",
   "git_url": "git://github.com/AutSoft/Krate.git",
   "ssh_url": "git@github.com:AutSoft/Krate.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/AutSoft/Krate",
   "homepage": "",
   "size": 719,
-  "stargazers_count": 279,
-  "watchers_count": 279,
+  "stargazers_count": 280,
+  "watchers_count": 280,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 11,
   "open_issues": 2,
-  "watchers": 279,
+  "watchers": 280,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2242
+  "_index": 2244
 }

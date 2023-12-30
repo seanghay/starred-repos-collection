@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/napi-rs/node-rs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/napi-rs/node-rs/deployments",
   "created_at": "2020-03-17T16:04:58Z",
-  "updated_at": "2023-12-28T16:56:10Z",
-  "pushed_at": "2023-12-28T08:25:53Z",
+  "updated_at": "2023-12-29T18:13:59Z",
+  "pushed_at": "2023-12-29T10:42:23Z",
   "git_url": "git://github.com/napi-rs/node-rs.git",
   "ssh_url": "git@github.com:napi-rs/node-rs.git",
   "clone_url": "https://github.com/napi-rs/node-rs.git",
   "svn_url": "https://github.com/napi-rs/node-rs",
   "homepage": "",
-  "size": 11615,
-  "stargazers_count": 879,
-  "watchers_count": 879,
+  "size": 11647,
+  "stargazers_count": 880,
+  "watchers_count": 880,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 30,
+  "open_issues_count": 31,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,8 +109,8 @@
   ],
   "visibility": "public",
   "forks": 31,
-  "open_issues": 30,
-  "watchers": 879,
+  "open_issues": 31,
+  "watchers": 880,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1646
+  "_index": 1648
 }

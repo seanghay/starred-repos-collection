@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/m-bain/whisperX/releases{/id}",
   "deployments_url": "https://api.github.com/repos/m-bain/whisperX/deployments",
   "created_at": "2022-12-09T02:34:23Z",
-  "updated_at": "2023-12-29T00:53:45Z",
+  "updated_at": "2023-12-29T21:46:38Z",
   "pushed_at": "2023-12-28T21:23:42Z",
   "git_url": "git://github.com/m-bain/whisperX.git",
   "ssh_url": "git@github.com:m-bain/whisperX.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/m-bain/whisperX",
   "homepage": "",
   "size": 23774,
-  "stargazers_count": 7175,
-  "watchers_count": 7175,
+  "stargazers_count": 7191,
+  "watchers_count": 7191,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 680,
+  "forks_count": 682,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 330,
+  "open_issues_count": 331,
   "license": {
     "key": "bsd-4-clause",
     "name": "BSD 4-Clause \"Original\" or \"Old\" License",
@@ -105,9 +105,9 @@
     "whisper"
   ],
   "visibility": "public",
-  "forks": 680,
-  "open_issues": 330,
-  "watchers": 7175,
+  "forks": 682,
+  "open_issues": 331,
+  "watchers": 7191,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 86
+  "_index": 88
 }

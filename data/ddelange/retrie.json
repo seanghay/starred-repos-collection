@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ddelange/retrie/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ddelange/retrie/deployments",
   "created_at": "2020-04-08T23:48:16Z",
-  "updated_at": "2023-12-20T16:51:08Z",
+  "updated_at": "2023-12-29T08:18:47Z",
   "pushed_at": "2023-12-01T18:47:02Z",
   "git_url": "git://github.com/ddelange/retrie.git",
   "ssh_url": "git@github.com:ddelange/retrie.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ddelange/retrie",
   "homepage": "",
   "size": 44,
-  "stargazers_count": 56,
-  "watchers_count": 56,
+  "stargazers_count": 57,
+  "watchers_count": 57,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 4,
   "open_issues": 0,
-  "watchers": 56,
+  "watchers": 57,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 29
+  "_index": 31
 }

@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/nocobase/nocobase",
-  "description": "NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools. 极易扩展的无代码/低代码开发平台。",
+  "description": "NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools. ",
   "fork": false,
   "url": "https://api.github.com/repos/nocobase/nocobase",
   "forks_url": "https://api.github.com/repos/nocobase/nocobase/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/nocobase/nocobase/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nocobase/nocobase/deployments",
   "created_at": "2020-10-24T07:27:48Z",
-  "updated_at": "2023-12-28T09:38:14Z",
-  "pushed_at": "2023-12-29T01:29:53Z",
+  "updated_at": "2023-12-30T00:11:44Z",
+  "pushed_at": "2023-12-29T23:38:54Z",
   "git_url": "git://github.com/nocobase/nocobase.git",
   "ssh_url": "git@github.com:nocobase/nocobase.git",
   "clone_url": "https://github.com/nocobase/nocobase.git",
   "svn_url": "https://github.com/nocobase/nocobase",
   "homepage": "https://www.nocobase.com",
-  "size": 132225,
-  "stargazers_count": 5035,
-  "watchers_count": 5035,
+  "size": 130501,
+  "stargazers_count": 5036,
+  "watchers_count": 5036,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -121,7 +121,7 @@
   "visibility": "public",
   "forks": 697,
   "open_issues": 127,
-  "watchers": 5035,
+  "watchers": 5036,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1307
+  "_index": 1309
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/NationalSecurityAgency/ghidra/releases{/id}",
   "deployments_url": "https://api.github.com/repos/NationalSecurityAgency/ghidra/deployments",
   "created_at": "2019-03-01T03:27:48Z",
-  "updated_at": "2023-12-29T01:07:19Z",
-  "pushed_at": "2023-12-28T04:32:17Z",
+  "updated_at": "2023-12-29T23:54:12Z",
+  "pushed_at": "2023-12-29T14:55:26Z",
   "git_url": "git://github.com/NationalSecurityAgency/ghidra.git",
   "ssh_url": "git@github.com:NationalSecurityAgency/ghidra.git",
   "clone_url": "https://github.com/NationalSecurityAgency/ghidra.git",
   "svn_url": "https://github.com/NationalSecurityAgency/ghidra",
   "homepage": "https://www.nsa.gov/ghidra",
   "size": 337813,
-  "stargazers_count": 45038,
-  "watchers_count": 45038,
+  "stargazers_count": 45072,
+  "watchers_count": 45072,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 5398,
+  "forks_count": 5404,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1484,
+  "open_issues_count": 1492,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -103,9 +103,9 @@
     "software-analysis"
   ],
   "visibility": "public",
-  "forks": 5398,
-  "open_issues": 1484,
-  "watchers": 45038,
+  "forks": 5404,
+  "open_issues": 1492,
+  "watchers": 45072,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1085
+  "_index": 1087
 }

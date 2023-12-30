@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kaituoxu/Speech-Transformer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kaituoxu/Speech-Transformer/deployments",
   "created_at": "2018-11-22T10:53:01Z",
-  "updated_at": "2023-12-26T01:31:40Z",
+  "updated_at": "2023-12-29T07:00:15Z",
   "pushed_at": "2023-04-06T08:00:38Z",
   "git_url": "git://github.com/kaituoxu/Speech-Transformer.git",
   "ssh_url": "git@github.com:kaituoxu/Speech-Transformer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/kaituoxu/Speech-Transformer",
   "homepage": "",
   "size": 694,
-  "stargazers_count": 749,
-  "watchers_count": 749,
+  "stargazers_count": 748,
+  "watchers_count": 748,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -103,7 +103,7 @@
   "visibility": "public",
   "forks": 193,
   "open_issues": 6,
-  "watchers": 749,
+  "watchers": 748,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 457
+  "_index": 459
 }

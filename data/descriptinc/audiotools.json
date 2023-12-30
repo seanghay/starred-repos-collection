@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/descriptinc/audiotools/releases{/id}",
   "deployments_url": "https://api.github.com/repos/descriptinc/audiotools/deployments",
   "created_at": "2021-03-08T23:52:57Z",
-  "updated_at": "2023-12-28T06:53:11Z",
+  "updated_at": "2023-12-29T12:52:58Z",
   "pushed_at": "2023-12-26T02:36:23Z",
   "git_url": "git://github.com/descriptinc/audiotools.git",
   "ssh_url": "git@github.com:descriptinc/audiotools.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/descriptinc/audiotools",
   "homepage": "https://descriptinc.github.io/audiotools/",
   "size": 15563,
-  "stargazers_count": 150,
-  "watchers_count": 150,
+  "stargazers_count": 151,
+  "watchers_count": 151,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 27,
   "open_issues": 13,
-  "watchers": 150,
+  "watchers": 151,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 135
+  "_index": 137
 }

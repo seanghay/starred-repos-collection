@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 428,
+  "forks_count": 427,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -118,7 +118,7 @@
     "typed-lambda-calculus"
   ],
   "visibility": "public",
-  "forks": 428,
+  "forks": 427,
   "open_issues": 42,
   "watchers": 5862,
   "default_branch": "main",
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3083
+  "_index": 3085
 }

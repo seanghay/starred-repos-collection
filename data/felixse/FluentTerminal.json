@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/felixse/FluentTerminal/releases{/id}",
   "deployments_url": "https://api.github.com/repos/felixse/FluentTerminal/deployments",
   "created_at": "2018-01-21T09:45:11Z",
-  "updated_at": "2023-12-28T12:15:05Z",
+  "updated_at": "2023-12-29T08:59:08Z",
   "pushed_at": "2023-03-22T20:02:30Z",
   "git_url": "git://github.com/felixse/FluentTerminal.git",
   "ssh_url": "git@github.com:felixse/FluentTerminal.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/felixse/FluentTerminal",
   "homepage": "",
   "size": 18812,
-  "stargazers_count": 9061,
-  "watchers_count": 9061,
+  "stargazers_count": 9060,
+  "watchers_count": 9060,
   "language": "C#",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 456,
   "open_issues": 248,
-  "watchers": 9061,
+  "watchers": 9060,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3191
+  "_index": 3193
 }

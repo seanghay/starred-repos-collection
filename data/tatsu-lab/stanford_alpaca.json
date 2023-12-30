@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tatsu-lab/stanford_alpaca/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tatsu-lab/stanford_alpaca/deployments",
   "created_at": "2023-03-10T23:33:09Z",
-  "updated_at": "2023-12-29T01:27:37Z",
+  "updated_at": "2023-12-29T23:43:12Z",
   "pushed_at": "2023-06-07T06:54:43Z",
   "git_url": "git://github.com/tatsu-lab/stanford_alpaca.git",
   "ssh_url": "git@github.com:tatsu-lab/stanford_alpaca.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/tatsu-lab/stanford_alpaca",
   "homepage": "https://crfm.stanford.edu/2023/03/13/alpaca.html",
   "size": 8654,
-  "stargazers_count": 27934,
-  "watchers_count": 27934,
+  "stargazers_count": 27942,
+  "watchers_count": 27942,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3964,
+  "forks_count": 3966,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,9 +103,9 @@
     "language-model"
   ],
   "visibility": "public",
-  "forks": 3964,
+  "forks": 3966,
   "open_issues": 181,
-  "watchers": 27934,
+  "watchers": 27942,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 78
+  "_index": 80
 }

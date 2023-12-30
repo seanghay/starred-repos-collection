@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/VikParuchuri/marker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/VikParuchuri/marker/deployments",
   "created_at": "2023-10-30T20:14:08Z",
-  "updated_at": "2023-12-29T01:27:01Z",
+  "updated_at": "2023-12-30T00:18:34Z",
   "pushed_at": "2023-12-28T04:53:24Z",
   "git_url": "git://github.com/VikParuchuri/marker.git",
   "ssh_url": "git@github.com:VikParuchuri/marker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/VikParuchuri/marker",
   "homepage": "",
   "size": 788,
-  "stargazers_count": 5176,
-  "watchers_count": 5176,
+  "stargazers_count": 5184,
+  "watchers_count": 5184,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 14,
+  "open_issues_count": 13,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 155,
-  "open_issues": 14,
-  "watchers": 5176,
+  "open_issues": 13,
+  "watchers": 5184,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 83
+  "_index": 85
 }

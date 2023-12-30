@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bshall/ZeroSpeech/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bshall/ZeroSpeech/deployments",
   "created_at": "2019-06-25T17:44:16Z",
-  "updated_at": "2023-12-20T03:42:35Z",
+  "updated_at": "2023-12-29T06:22:02Z",
   "pushed_at": "2023-07-06T21:56:08Z",
   "git_url": "git://github.com/bshall/ZeroSpeech.git",
   "ssh_url": "git@github.com:bshall/ZeroSpeech.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/bshall/ZeroSpeech",
   "homepage": "https://bshall.github.io/ZeroSpeech/",
   "size": 18131,
-  "stargazers_count": 292,
-  "watchers_count": 292,
+  "stargazers_count": 293,
+  "watchers_count": 293,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -102,7 +102,7 @@
   "visibility": "public",
   "forks": 45,
   "open_issues": 10,
-  "watchers": 292,
+  "watchers": 293,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -111,5 +111,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 152
+  "_index": 154
 }
