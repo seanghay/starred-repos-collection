@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/PRQL/prql/releases{/id}",
   "deployments_url": "https://api.github.com/repos/PRQL/prql/deployments",
   "created_at": "2022-01-18T00:37:55Z",
-  "updated_at": "2023-12-29T16:36:30Z",
-  "pushed_at": "2023-12-29T18:53:08Z",
+  "updated_at": "2023-12-30T10:52:24Z",
+  "pushed_at": "2023-12-30T04:22:59Z",
   "git_url": "git://github.com/PRQL/prql.git",
   "ssh_url": "git@github.com:PRQL/prql.git",
   "clone_url": "https://github.com/PRQL/prql.git",
   "svn_url": "https://github.com/PRQL/prql",
   "homepage": "https://prql-lang.org",
-  "size": 18695,
-  "stargazers_count": 8762,
-  "watchers_count": 8762,
+  "size": 18696,
+  "stargazers_count": 8763,
+  "watchers_count": 8763,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 194,
+  "open_issues_count": 193,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -104,8 +104,8 @@
   ],
   "visibility": "public",
   "forks": 186,
-  "open_issues": 194,
-  "watchers": 8762,
+  "open_issues": 193,
+  "watchers": 8763,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1261
+  "_index": 1264
 }

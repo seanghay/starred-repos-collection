@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/platformatic/platformatic/deployments",
   "created_at": "2022-09-22T07:32:19Z",
   "updated_at": "2023-12-28T18:15:10Z",
-  "pushed_at": "2023-12-29T20:19:51Z",
+  "pushed_at": "2023-12-30T08:54:48Z",
   "git_url": "git://github.com/platformatic/platformatic.git",
   "ssh_url": "git@github.com:platformatic/platformatic.git",
   "clone_url": "https://github.com/platformatic/platformatic.git",
   "svn_url": "https://github.com/platformatic/platformatic",
   "homepage": "https://docs.platformatic.dev/",
-  "size": 14931,
+  "size": 14932,
   "stargazers_count": 1297,
   "watchers_count": 1297,
   "language": "JavaScript",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1110
+  "_index": 1113
 }

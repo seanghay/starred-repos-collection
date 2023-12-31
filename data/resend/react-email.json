@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/resend/react-email/releases{/id}",
   "deployments_url": "https://api.github.com/repos/resend/react-email/deployments",
   "created_at": "2022-09-19T19:24:54Z",
-  "updated_at": "2023-12-29T22:41:43Z",
-  "pushed_at": "2023-12-29T11:07:59Z",
+  "updated_at": "2023-12-30T20:52:52Z",
+  "pushed_at": "2023-12-30T01:50:07Z",
   "git_url": "git://github.com/resend/react-email.git",
   "ssh_url": "git@github.com:resend/react-email.git",
   "clone_url": "https://github.com/resend/react-email.git",
   "svn_url": "https://github.com/resend/react-email",
   "homepage": "https://react.email",
   "size": 55546,
-  "stargazers_count": 10721,
-  "watchers_count": 10721,
+  "stargazers_count": 10735,
+  "watchers_count": 10735,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 477,
+  "forks_count": 478,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 477,
+  "forks": 478,
   "open_issues": 111,
-  "watchers": 10721,
+  "watchers": 10735,
   "default_branch": "canary",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 976
+  "_index": 979
 }

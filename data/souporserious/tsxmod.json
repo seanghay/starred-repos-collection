@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/souporserious/tsxmod/releases{/id}",
   "deployments_url": "https://api.github.com/repos/souporserious/tsxmod/deployments",
   "created_at": "2022-12-24T08:41:29Z",
-  "updated_at": "2023-12-26T22:52:15Z",
+  "updated_at": "2023-12-30T15:00:05Z",
   "pushed_at": "2023-12-20T03:05:21Z",
   "git_url": "git://github.com/souporserious/tsxmod.git",
   "ssh_url": "git@github.com:souporserious/tsxmod.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/souporserious/tsxmod",
   "homepage": "https://tsxmod.com",
   "size": 497,
-  "stargazers_count": 88,
-  "watchers_count": 88,
+  "stargazers_count": 90,
+  "watchers_count": 90,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 1,
   "open_issues": 6,
-  "watchers": 88,
+  "watchers": 90,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 490
+  "_index": 493
 }

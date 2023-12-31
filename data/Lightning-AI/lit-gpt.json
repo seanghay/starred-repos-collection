@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Lightning-AI/lit-gpt/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Lightning-AI/lit-gpt/deployments",
   "created_at": "2023-05-04T17:46:11Z",
-  "updated_at": "2023-12-30T00:27:24Z",
+  "updated_at": "2023-12-31T01:51:09Z",
   "pushed_at": "2023-12-29T22:05:01Z",
   "git_url": "git://github.com/Lightning-AI/lit-gpt.git",
   "ssh_url": "git@github.com:Lightning-AI/lit-gpt.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Lightning-AI/lit-gpt",
   "homepage": "",
   "size": 1751,
-  "stargazers_count": 4516,
-  "watchers_count": 4516,
+  "stargazers_count": 4521,
+  "watchers_count": 4521,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 441,
   "open_issues": 128,
-  "watchers": 4516,
+  "watchers": 4521,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 593
+  "_index": 596
 }

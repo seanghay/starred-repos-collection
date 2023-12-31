@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/zolad/VideoSlimmer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/zolad/VideoSlimmer/deployments",
   "created_at": "2018-08-08T22:09:26Z",
-  "updated_at": "2023-10-23T10:01:40Z",
+  "updated_at": "2023-12-30T09:46:38Z",
   "pushed_at": "2021-12-14T13:49:07Z",
   "git_url": "git://github.com/zolad/VideoSlimmer.git",
   "ssh_url": "git@github.com:zolad/VideoSlimmer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/zolad/VideoSlimmer",
   "homepage": "",
   "size": 581,
-  "stargazers_count": 200,
-  "watchers_count": 200,
+  "stargazers_count": 201,
+  "watchers_count": 201,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -98,7 +98,7 @@
   "visibility": "public",
   "forks": 36,
   "open_issues": 9,
-  "watchers": 200,
+  "watchers": 201,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -107,5 +107,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3076
+  "_index": 3079
 }

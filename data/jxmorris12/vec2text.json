@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jxmorris12/vec2text/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jxmorris12/vec2text/deployments",
   "created_at": "2023-02-25T18:07:28Z",
-  "updated_at": "2023-12-29T22:56:41Z",
+  "updated_at": "2023-12-30T15:28:29Z",
   "pushed_at": "2023-12-28T04:00:32Z",
   "git_url": "git://github.com/jxmorris12/vec2text.git",
   "ssh_url": "git@github.com:jxmorris12/vec2text.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jxmorris12/vec2text",
   "homepage": "",
   "size": 7193,
-  "stargazers_count": 387,
-  "watchers_count": 387,
+  "stargazers_count": 389,
+  "watchers_count": 389,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 36,
+  "forks_count": 38,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 36,
+  "forks": 38,
   "open_issues": 4,
-  "watchers": 387,
+  "watchers": 389,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 166
+  "_index": 169
 }

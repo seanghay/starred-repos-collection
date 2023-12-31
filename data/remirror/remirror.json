@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/remirror/remirror.git",
   "svn_url": "https://github.com/remirror/remirror",
   "homepage": "https://remirror.io",
-  "size": 74294,
+  "size": 74295,
   "stargazers_count": 2517,
   "watchers_count": 2517,
   "language": "TypeScript",
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2256
+  "_index": 2259
 }

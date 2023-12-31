@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/wireit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/wireit/deployments",
   "created_at": "2021-12-22T15:52:53Z",
-  "updated_at": "2023-12-28T10:18:55Z",
+  "updated_at": "2023-12-30T19:47:13Z",
   "pushed_at": "2023-12-27T11:27:04Z",
   "git_url": "git://github.com/google/wireit.git",
   "ssh_url": "git@github.com:google/wireit.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/wireit",
   "homepage": "",
   "size": 5035,
-  "stargazers_count": 4896,
-  "watchers_count": 4896,
+  "stargazers_count": 4895,
+  "watchers_count": 4895,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 96,
+  "forks_count": 95,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 96,
+  "forks": 95,
   "open_issues": 93,
-  "watchers": 4896,
+  "watchers": 4895,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1347
+  "_index": 1350
 }

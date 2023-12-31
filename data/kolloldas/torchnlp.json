@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kolloldas/torchnlp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kolloldas/torchnlp/deployments",
   "created_at": "2018-02-18T15:48:28Z",
-  "updated_at": "2023-12-29T14:56:52Z",
+  "updated_at": "2023-12-30T06:44:46Z",
   "pushed_at": "2019-12-07T17:29:08Z",
   "git_url": "git://github.com/kolloldas/torchnlp.git",
   "ssh_url": "git@github.com:kolloldas/torchnlp.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/kolloldas/torchnlp",
   "homepage": null,
   "size": 2185,
-  "stargazers_count": 251,
-  "watchers_count": 251,
+  "stargazers_count": 252,
+  "watchers_count": 252,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 45,
   "open_issues": 8,
-  "watchers": 251,
+  "watchers": 252,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 0
+  "_index": 3
 }

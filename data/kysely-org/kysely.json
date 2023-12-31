@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/kysely-org/kysely/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kysely-org/kysely/deployments",
   "created_at": "2021-02-22T09:06:55Z",
-  "updated_at": "2023-12-29T22:18:59Z",
-  "pushed_at": "2023-12-30T00:05:07Z",
+  "updated_at": "2023-12-31T00:52:57Z",
+  "pushed_at": "2023-12-31T00:54:40Z",
   "git_url": "git://github.com/kysely-org/kysely.git",
   "ssh_url": "git@github.com:kysely-org/kysely.git",
   "clone_url": "https://github.com/kysely-org/kysely.git",
   "svn_url": "https://github.com/kysely-org/kysely",
   "homepage": "https://kysely.dev",
-  "size": 50846,
-  "stargazers_count": 8205,
-  "watchers_count": 8205,
+  "size": 51236,
+  "stargazers_count": 8212,
+  "watchers_count": 8212,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 80,
+  "open_issues_count": 65,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -99,8 +99,11 @@
   "web_commit_signoff_required": false,
   "topics": [
     "browser",
+    "bun",
     "database",
     "deno",
+    "microsoft-sql-server",
+    "mssql",
     "mysql",
     "nodejs",
     "postgresql",
@@ -112,8 +115,8 @@
   ],
   "visibility": "public",
   "forks": 192,
-  "open_issues": 80,
-  "watchers": 8205,
+  "open_issues": 65,
+  "watchers": 8212,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1086
+  "_index": 1089
 }

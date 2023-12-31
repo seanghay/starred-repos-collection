@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/imbrn/v8n/releases{/id}",
   "deployments_url": "https://api.github.com/repos/imbrn/v8n/deployments",
   "created_at": "2018-06-25T20:06:33Z",
-  "updated_at": "2023-12-21T02:57:57Z",
+  "updated_at": "2023-12-31T01:42:29Z",
   "pushed_at": "2023-01-15T01:44:51Z",
   "git_url": "git://github.com/imbrn/v8n.git",
   "ssh_url": "git@github.com:imbrn/v8n.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/imbrn/v8n",
   "homepage": "https://imbrn.github.io/v8n",
   "size": 1248,
-  "stargazers_count": 4166,
-  "watchers_count": 4166,
+  "stargazers_count": 4165,
+  "watchers_count": 4165,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 145,
   "open_issues": 3,
-  "watchers": 4166,
+  "watchers": 4165,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3249
+  "_index": 3252
 }
