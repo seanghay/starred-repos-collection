@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 254,
+  "forks_count": 255,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,7 +104,7 @@
     "mapbox"
   ],
   "visibility": "public",
-  "forks": 254,
+  "forks": 255,
   "open_issues": 19,
   "watchers": 745,
   "default_branch": "gh-pages",

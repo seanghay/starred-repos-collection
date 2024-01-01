@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/spotify/pedalboard.git",
   "svn_url": "https://github.com/spotify/pedalboard",
   "homepage": "https://spotify.github.io/pedalboard/",
-  "size": 19460,
+  "size": 19466,
   "stargazers_count": 4649,
   "watchers_count": 4649,
   "language": "C++",

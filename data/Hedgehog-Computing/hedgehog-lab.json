@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 142,
+  "forks_count": 143,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -112,7 +112,7 @@
     "webgl2"
   ],
   "visibility": "public",
-  "forks": 142,
+  "forks": 143,
   "open_issues": 34,
   "watchers": 2356,
   "default_branch": "dev",
