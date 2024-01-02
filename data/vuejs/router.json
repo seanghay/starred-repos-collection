@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1069,
+  "forks_count": 1072,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,7 +102,7 @@
     "vue-router"
   ],
   "visibility": "public",
-  "forks": 1069,
+  "forks": 1072,
   "open_issues": 49,
   "watchers": 3406,
   "default_branch": "main",

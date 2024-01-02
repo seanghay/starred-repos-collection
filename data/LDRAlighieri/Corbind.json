@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/LDRAlighieri/Corbind/releases{/id}",
   "deployments_url": "https://api.github.com/repos/LDRAlighieri/Corbind/deployments",
   "created_at": "2019-08-11T08:36:11Z",
-  "updated_at": "2023-12-24T03:27:57Z",
+  "updated_at": "2024-01-01T02:34:03Z",
   "pushed_at": "2023-12-21T08:58:27Z",
   "git_url": "git://github.com/LDRAlighieri/Corbind.git",
   "ssh_url": "git@github.com:LDRAlighieri/Corbind.git",

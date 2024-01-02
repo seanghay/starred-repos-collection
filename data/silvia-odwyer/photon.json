@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 125,
+  "forks_count": 124,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,7 +107,7 @@
     "webassembly"
   ],
   "visibility": "public",
-  "forks": 125,
+  "forks": 124,
   "open_issues": 38,
   "watchers": 2346,
   "default_branch": "master",

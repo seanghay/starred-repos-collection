@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1842,
+  "forks_count": 1843,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -120,7 +120,7 @@
     "tessel"
   ],
   "visibility": "public",
-  "forks": 1842,
+  "forks": 1843,
   "open_issues": 58,
   "watchers": 13139,
   "default_branch": "main",

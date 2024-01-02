@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tinyhttp/tinyhttp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tinyhttp/tinyhttp/deployments",
   "created_at": "2020-06-13T01:19:08Z",
-  "updated_at": "2023-12-31T09:30:57Z",
+  "updated_at": "2024-01-01T21:29:34Z",
   "pushed_at": "2023-12-07T08:30:20Z",
   "git_url": "git://github.com/tinyhttp/tinyhttp.git",
   "ssh_url": "git@github.com:tinyhttp/tinyhttp.git",
