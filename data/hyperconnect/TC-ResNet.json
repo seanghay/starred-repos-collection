@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/hyperconnect/TC-ResNet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hyperconnect/TC-ResNet/deployments",
   "created_at": "2019-03-29T06:17:50Z",
-  "updated_at": "2023-12-26T01:38:25Z",
+  "updated_at": "2024-01-02T16:52:54Z",
   "pushed_at": "2023-03-24T22:51:36Z",
   "git_url": "git://github.com/hyperconnect/TC-ResNet.git",
   "ssh_url": "git@github.com:hyperconnect/TC-ResNet.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/hyperconnect/TC-ResNet",
   "homepage": "https://arxiv.org/abs/1904.03814",
   "size": 967,
-  "stargazers_count": 204,
-  "watchers_count": 204,
+  "stargazers_count": 203,
+  "watchers_count": 203,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -103,7 +103,7 @@
   "visibility": "public",
   "forks": 51,
   "open_issues": 14,
-  "watchers": 204,
+  "watchers": 203,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 518
+  "_index": 520
 }

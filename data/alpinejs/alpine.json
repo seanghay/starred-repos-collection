@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/alpinejs/alpine/releases{/id}",
   "deployments_url": "https://api.github.com/repos/alpinejs/alpine/deployments",
   "created_at": "2019-11-28T13:51:55Z",
-  "updated_at": "2024-01-01T20:16:40Z",
-  "pushed_at": "2023-12-28T14:16:37Z",
+  "updated_at": "2024-01-02T20:53:29Z",
+  "pushed_at": "2024-01-02T14:14:10Z",
   "git_url": "git://github.com/alpinejs/alpine.git",
   "ssh_url": "git@github.com:alpinejs/alpine.git",
   "clone_url": "https://github.com/alpinejs/alpine.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2392
+  "_index": 2394
 }

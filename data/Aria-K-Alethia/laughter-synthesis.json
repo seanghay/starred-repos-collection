@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Aria-K-Alethia/laughter-synthesis/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Aria-K-Alethia/laughter-synthesis/deployments",
   "created_at": "2023-05-20T21:56:14Z",
-  "updated_at": "2023-12-20T04:21:57Z",
+  "updated_at": "2024-01-02T17:41:08Z",
   "pushed_at": "2023-07-16T16:51:08Z",
   "git_url": "git://github.com/Aria-K-Alethia/laughter-synthesis.git",
   "ssh_url": "git@github.com:Aria-K-Alethia/laughter-synthesis.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Aria-K-Alethia/laughter-synthesis",
   "homepage": null,
   "size": 127,
-  "stargazers_count": 54,
-  "watchers_count": 54,
+  "stargazers_count": 53,
+  "watchers_count": 53,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 0,
+  "open_issues_count": 1,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 4,
-  "open_issues": 0,
-  "watchers": 54,
+  "open_issues": 1,
+  "watchers": 53,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 271
+  "_index": 273
 }

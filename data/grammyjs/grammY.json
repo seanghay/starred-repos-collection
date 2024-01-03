@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/grammyjs/grammY/releases{/id}",
   "deployments_url": "https://api.github.com/repos/grammyjs/grammY/deployments",
   "created_at": "2021-03-26T22:33:57Z",
-  "updated_at": "2024-01-01T15:32:08Z",
+  "updated_at": "2024-01-02T17:18:00Z",
   "pushed_at": "2024-01-01T22:10:44Z",
   "git_url": "git://github.com/grammyjs/grammY.git",
   "ssh_url": "git@github.com:grammyjs/grammY.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/grammyjs/grammY",
   "homepage": "https://grammy.dev",
   "size": 1033,
-  "stargazers_count": 1529,
-  "watchers_count": 1529,
+  "stargazers_count": 1530,
+  "watchers_count": 1530,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 84,
   "open_issues": 15,
-  "watchers": 1529,
+  "watchers": 1530,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1490
+  "_index": 1492
 }

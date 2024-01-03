@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yluo42/TAC/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yluo42/TAC/deployments",
   "created_at": "2019-10-20T02:09:37Z",
-  "updated_at": "2023-12-20T03:45:50Z",
+  "updated_at": "2024-01-02T16:59:36Z",
   "pushed_at": "2021-06-15T04:09:51Z",
   "git_url": "git://github.com/yluo42/TAC.git",
   "ssh_url": "git@github.com:yluo42/TAC.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yluo42/TAC",
   "homepage": "",
   "size": 53915,
-  "stargazers_count": 217,
-  "watchers_count": 217,
+  "stargazers_count": 216,
+  "watchers_count": 216,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 52,
   "open_issues": 5,
-  "watchers": 217,
+  "watchers": 216,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 448
+  "_index": 450
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/civitai/sd_civitai_extension/releases{/id}",
   "deployments_url": "https://api.github.com/repos/civitai/sd_civitai_extension/deployments",
   "created_at": "2022-12-06T05:16:24Z",
-  "updated_at": "2024-01-01T22:57:17Z",
+  "updated_at": "2024-01-02T17:36:05Z",
   "pushed_at": "2023-12-31T14:24:42Z",
   "git_url": "git://github.com/civitai/sd_civitai_extension.git",
   "ssh_url": "git@github.com:civitai/sd_civitai_extension.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/civitai/sd_civitai_extension",
   "homepage": null,
   "size": 74,
-  "stargazers_count": 2106,
-  "watchers_count": 2106,
+  "stargazers_count": 2109,
+  "watchers_count": 2109,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 85,
+  "open_issues_count": 86,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 395,
-  "open_issues": 85,
-  "watchers": 2106,
+  "open_issues": 86,
+  "watchers": 2109,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 832
+  "_index": 834
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/KilledByAPixel/LittleJS/releases{/id}",
   "deployments_url": "https://api.github.com/repos/KilledByAPixel/LittleJS/deployments",
   "created_at": "2021-09-23T21:34:48Z",
-  "updated_at": "2024-01-01T15:55:08Z",
-  "pushed_at": "2023-12-30T03:23:45Z",
+  "updated_at": "2024-01-02T21:13:00Z",
+  "pushed_at": "2024-01-02T03:39:02Z",
   "git_url": "git://github.com/KilledByAPixel/LittleJS.git",
   "ssh_url": "git@github.com:KilledByAPixel/LittleJS.git",
   "clone_url": "https://github.com/KilledByAPixel/LittleJS.git",
   "svn_url": "https://github.com/KilledByAPixel/LittleJS",
   "homepage": "",
   "size": 5045,
-  "stargazers_count": 2658,
-  "watchers_count": 2658,
+  "stargazers_count": 2657,
+  "watchers_count": 2657,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 133,
+  "forks_count": 134,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 6,
+  "open_issues_count": 7,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,9 +105,9 @@
     "webgl"
   ],
   "visibility": "public",
-  "forks": 133,
-  "open_issues": 6,
-  "watchers": 2658,
+  "forks": 134,
+  "open_issues": 7,
+  "watchers": 2657,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1573
+  "_index": 1575
 }

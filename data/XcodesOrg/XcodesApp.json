@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/XcodesOrg/XcodesApp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/XcodesOrg/XcodesApp/deployments",
   "created_at": "2020-11-25T03:51:02Z",
-  "updated_at": "2024-01-01T20:57:56Z",
-  "pushed_at": "2024-01-02T01:46:33Z",
+  "updated_at": "2024-01-02T17:14:10Z",
+  "pushed_at": "2024-01-02T02:01:34Z",
   "git_url": "git://github.com/XcodesOrg/XcodesApp.git",
   "ssh_url": "git@github.com:XcodesOrg/XcodesApp.git",
   "clone_url": "https://github.com/XcodesOrg/XcodesApp.git",
   "svn_url": "https://github.com/XcodesOrg/XcodesApp",
   "homepage": "",
-  "size": 14411,
-  "stargazers_count": 6067,
-  "watchers_count": 6067,
+  "size": 14452,
+  "stargazers_count": 6069,
+  "watchers_count": 6069,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 248,
+  "forks_count": 249,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 88,
+  "open_issues_count": 86,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,9 +107,9 @@
     "xcode-releases"
   ],
   "visibility": "public",
-  "forks": 248,
-  "open_issues": 88,
-  "watchers": 6067,
+  "forks": 249,
+  "open_issues": 86,
+  "watchers": 6069,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1942
+  "_index": 1944
 }

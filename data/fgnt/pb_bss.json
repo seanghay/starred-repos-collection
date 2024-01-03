@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fgnt/pb_bss/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fgnt/pb_bss/deployments",
   "created_at": "2017-06-05T07:11:09Z",
-  "updated_at": "2023-12-20T03:23:49Z",
+  "updated_at": "2024-01-02T16:34:34Z",
   "pushed_at": "2023-10-17T08:08:06Z",
   "git_url": "git://github.com/fgnt/pb_bss.git",
   "ssh_url": "git@github.com:fgnt/pb_bss.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/fgnt/pb_bss",
   "homepage": "",
   "size": 627,
-  "stargazers_count": 240,
-  "watchers_count": 240,
+  "stargazers_count": 239,
+  "watchers_count": 239,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 57,
   "open_issues": 4,
-  "watchers": 240,
+  "watchers": 239,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 453
+  "_index": 455
 }

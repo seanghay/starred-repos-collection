@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/PyThaiNLP/pythainlp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/PyThaiNLP/pythainlp/deployments",
   "created_at": "2016-06-23T14:57:26Z",
-  "updated_at": "2023-12-26T03:54:10Z",
+  "updated_at": "2024-01-02T18:30:09Z",
   "pushed_at": "2024-01-01T10:49:03Z",
   "git_url": "git://github.com/PyThaiNLP/pythainlp.git",
   "ssh_url": "git@github.com:PyThaiNLP/pythainlp.git",
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 213
+  "_index": 215
 }

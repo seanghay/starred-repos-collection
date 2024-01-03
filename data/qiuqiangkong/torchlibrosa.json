@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/qiuqiangkong/torchlibrosa/releases{/id}",
   "deployments_url": "https://api.github.com/repos/qiuqiangkong/torchlibrosa/deployments",
   "created_at": "2019-07-07T05:07:49Z",
-  "updated_at": "2023-12-28T23:50:54Z",
+  "updated_at": "2024-01-02T16:56:17Z",
   "pushed_at": "2023-12-18T17:39:17Z",
   "git_url": "git://github.com/qiuqiangkong/torchlibrosa.git",
   "ssh_url": "git@github.com:qiuqiangkong/torchlibrosa.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/qiuqiangkong/torchlibrosa",
   "homepage": null,
   "size": 75,
-  "stargazers_count": 418,
-  "watchers_count": 418,
+  "stargazers_count": 417,
+  "watchers_count": 417,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 42,
   "open_issues": 10,
-  "watchers": 418,
+  "watchers": 417,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 60
+  "_index": 62
 }

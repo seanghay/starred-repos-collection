@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/philipperemy/deep-speaker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/philipperemy/deep-speaker/deployments",
   "created_at": "2017-05-19T05:06:32Z",
-  "updated_at": "2023-12-29T22:00:24Z",
+  "updated_at": "2024-01-02T16:34:06Z",
   "pushed_at": "2023-09-30T05:10:00Z",
   "git_url": "git://github.com/philipperemy/deep-speaker.git",
   "ssh_url": "git@github.com:philipperemy/deep-speaker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/philipperemy/deep-speaker",
   "homepage": "",
   "size": 83477,
-  "stargazers_count": 852,
-  "watchers_count": 852,
+  "stargazers_count": 851,
+  "watchers_count": 851,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 7,
+  "open_issues_count": 6,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 231,
-  "open_issues": 7,
-  "watchers": 852,
+  "open_issues": 6,
+  "watchers": 851,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 393
+  "_index": 395
 }

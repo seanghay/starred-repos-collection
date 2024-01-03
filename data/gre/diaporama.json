@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/gre/diaporama/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gre/diaporama/deployments",
   "created_at": "2011-07-18T18:45:19Z",
-  "updated_at": "2023-12-20T03:04:42Z",
+  "updated_at": "2024-01-02T16:11:56Z",
   "pushed_at": "2018-02-08T23:16:18Z",
   "git_url": "git://github.com/gre/diaporama.git",
   "ssh_url": "git@github.com:gre/diaporama.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/gre/diaporama",
   "homepage": "http://greweb.me/diaporama/",
   "size": 110430,
-  "stargazers_count": 798,
-  "watchers_count": 798,
+  "stargazers_count": 797,
+  "watchers_count": 797,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 109,
   "open_issues": 18,
-  "watchers": 798,
+  "watchers": 797,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2914
+  "_index": 2916
 }

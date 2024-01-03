@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 50,
+  "forks_count": 51,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -114,7 +114,7 @@
     "yolov8"
   ],
   "visibility": "public",
-  "forks": 50,
+  "forks": 51,
   "open_issues": 5,
   "watchers": 163,
   "default_branch": "master",
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1280
+  "_index": 1282
 }

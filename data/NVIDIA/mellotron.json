@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/NVIDIA/mellotron/releases{/id}",
   "deployments_url": "https://api.github.com/repos/NVIDIA/mellotron/deployments",
   "created_at": "2019-11-21T20:16:02Z",
-  "updated_at": "2023-12-30T20:01:44Z",
+  "updated_at": "2024-01-02T17:00:41Z",
   "pushed_at": "2023-07-22T22:18:33Z",
   "git_url": "git://github.com/NVIDIA/mellotron.git",
   "ssh_url": "git@github.com:NVIDIA/mellotron.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/NVIDIA/mellotron",
   "homepage": null,
   "size": 3457,
-  "stargazers_count": 831,
-  "watchers_count": 831,
+  "stargazers_count": 830,
+  "watchers_count": 830,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 184,
   "open_issues": 60,
-  "watchers": 831,
+  "watchers": 830,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 303
+  "_index": 305
 }

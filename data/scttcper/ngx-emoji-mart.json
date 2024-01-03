@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/scttcper/ngx-emoji-mart/deployments",
   "created_at": "2018-01-02T18:35:34Z",
   "updated_at": "2023-12-21T07:12:31Z",
-  "pushed_at": "2023-07-27T19:19:56Z",
+  "pushed_at": "2024-01-02T11:08:21Z",
   "git_url": "git://github.com/scttcper/ngx-emoji-mart.git",
   "ssh_url": "git@github.com:scttcper/ngx-emoji-mart.git",
   "clone_url": "https://github.com/scttcper/ngx-emoji-mart.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 39,
+  "open_issues_count": 40,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,7 +104,7 @@
   ],
   "visibility": "public",
   "forks": 88,
-  "open_issues": 39,
+  "open_issues": 40,
   "watchers": 426,
   "default_branch": "master",
   "permissions": {
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3257
+  "_index": 3259
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/trevorwang/retrofit.dart/releases{/id}",
   "deployments_url": "https://api.github.com/repos/trevorwang/retrofit.dart/deployments",
   "created_at": "2019-04-05T07:42:33Z",
-  "updated_at": "2023-12-28T02:01:10Z",
+  "updated_at": "2024-01-02T18:27:02Z",
   "pushed_at": "2023-12-31T11:49:50Z",
   "git_url": "git://github.com/trevorwang/retrofit.dart.git",
   "ssh_url": "git@github.com:trevorwang/retrofit.dart.git",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1751
+  "_index": 1753
 }

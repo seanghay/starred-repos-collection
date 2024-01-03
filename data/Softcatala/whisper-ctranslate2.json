@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Softcatala/whisper-ctranslate2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Softcatala/whisper-ctranslate2/deployments",
   "created_at": "2023-03-17T10:19:45Z",
-  "updated_at": "2024-01-01T16:43:12Z",
-  "pushed_at": "2024-01-01T21:37:32Z",
+  "updated_at": "2024-01-02T17:38:45Z",
+  "pushed_at": "2024-01-02T17:42:14Z",
   "git_url": "git://github.com/Softcatala/whisper-ctranslate2.git",
   "ssh_url": "git@github.com:Softcatala/whisper-ctranslate2.git",
   "clone_url": "https://github.com/Softcatala/whisper-ctranslate2.git",
   "svn_url": "https://github.com/Softcatala/whisper-ctranslate2",
   "homepage": "",
-  "size": 645,
-  "stargazers_count": 600,
-  "watchers_count": 600,
+  "size": 650,
+  "stargazers_count": 601,
+  "watchers_count": 601,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 54,
   "open_issues": 14,
-  "watchers": 600,
+  "watchers": 601,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 152
+  "_index": 154
 }

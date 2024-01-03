@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/axios/axios/releases{/id}",
   "deployments_url": "https://api.github.com/repos/axios/axios/deployments",
   "created_at": "2014-08-18T22:30:27Z",
-  "updated_at": "2024-01-02T00:37:00Z",
-  "pushed_at": "2024-01-01T21:23:24Z",
+  "updated_at": "2024-01-03T01:23:39Z",
+  "pushed_at": "2024-01-03T00:16:27Z",
   "git_url": "git://github.com/axios/axios.git",
   "ssh_url": "git@github.com:axios/axios.git",
   "clone_url": "https://github.com/axios/axios.git",
   "svn_url": "https://github.com/axios/axios",
   "homepage": "https://axios-http.com",
-  "size": 10379,
-  "stargazers_count": 102945,
-  "watchers_count": 102945,
+  "size": 10969,
+  "stargazers_count": 102957,
+  "watchers_count": 102957,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 10854,
+  "forks_count": 10859,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 601,
+  "open_issues_count": 606,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,9 +105,9 @@
     "promise"
   ],
   "visibility": "public",
-  "forks": 10854,
-  "open_issues": 601,
-  "watchers": 102945,
+  "forks": 10859,
+  "open_issues": 606,
+  "watchers": 102957,
   "default_branch": "v1.x",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3227
+  "_index": 3229
 }

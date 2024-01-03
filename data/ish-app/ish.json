@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ish-app/ish/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ish-app/ish/deployments",
   "created_at": "2017-05-05T00:10:35Z",
-  "updated_at": "2024-01-01T21:50:44Z",
-  "pushed_at": "2024-01-01T20:34:12Z",
+  "updated_at": "2024-01-02T19:40:35Z",
+  "pushed_at": "2024-01-03T00:44:38Z",
   "git_url": "git://github.com/ish-app/ish.git",
   "ssh_url": "git@github.com:ish-app/ish.git",
   "clone_url": "https://github.com/ish-app/ish.git",
   "svn_url": "https://github.com/ish-app/ish",
   "homepage": "https://ish.app",
-  "size": 4706,
-  "stargazers_count": 15358,
-  "watchers_count": 15358,
+  "size": 4708,
+  "stargazers_count": 15357,
+  "watchers_count": 15357,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 552,
+  "open_issues_count": 554,
   "license": {
     "key": "other",
     "name": "Other",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 834,
-  "open_issues": 552,
-  "watchers": 15358,
+  "open_issues": 554,
+  "watchers": 15357,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1648
+  "_index": 1650
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/typestack/class-validator/releases{/id}",
   "deployments_url": "https://api.github.com/repos/typestack/class-validator/deployments",
   "created_at": "2015-10-03T13:27:09Z",
-  "updated_at": "2024-01-01T13:02:21Z",
-  "pushed_at": "2024-01-01T09:13:27Z",
+  "updated_at": "2024-01-02T19:22:21Z",
+  "pushed_at": "2024-01-02T14:47:47Z",
   "git_url": "git://github.com/typestack/class-validator.git",
   "ssh_url": "git@github.com:typestack/class-validator.git",
   "clone_url": "https://github.com/typestack/class-validator.git",
   "svn_url": "https://github.com/typestack/class-validator",
   "homepage": "",
-  "size": 5358,
-  "stargazers_count": 10104,
-  "watchers_count": 10104,
+  "size": 5618,
+  "stargazers_count": 10107,
+  "watchers_count": 10107,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 742,
   "open_issues": 247,
-  "watchers": 10104,
+  "watchers": 10107,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3255
+  "_index": 3257
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pdf2htmlEX/pdf2htmlEX/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pdf2htmlEX/pdf2htmlEX/deployments",
   "created_at": "2018-01-22T15:26:50Z",
-  "updated_at": "2024-01-01T21:57:12Z",
+  "updated_at": "2024-01-02T16:40:21Z",
   "pushed_at": "2023-12-29T20:44:03Z",
   "git_url": "git://github.com/pdf2htmlEX/pdf2htmlEX.git",
   "ssh_url": "git@github.com:pdf2htmlEX/pdf2htmlEX.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 188
+  "_index": 190
 }

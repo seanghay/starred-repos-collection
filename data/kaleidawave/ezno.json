@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kaleidawave/ezno/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kaleidawave/ezno/deployments",
   "created_at": "2023-02-03T19:27:20Z",
-  "updated_at": "2023-12-30T17:59:48Z",
+  "updated_at": "2024-01-02T17:37:18Z",
   "pushed_at": "2024-01-01T17:38:54Z",
   "git_url": "git://github.com/kaleidawave/ezno.git",
   "ssh_url": "git@github.com:kaleidawave/ezno.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/kaleidawave/ezno",
   "homepage": "https://kaleidawave.github.io/posts/introducing-ezno/",
   "size": 2775,
-  "stargazers_count": 1930,
-  "watchers_count": 1930,
+  "stargazers_count": 1929,
+  "watchers_count": 1929,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 28,
   "open_issues": 29,
-  "watchers": 1930,
+  "watchers": 1929,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 860
+  "_index": 862
 }

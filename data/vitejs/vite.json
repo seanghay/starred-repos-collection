@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/vitejs/vite/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vitejs/vite/deployments",
   "created_at": "2020-04-21T05:03:57Z",
-  "updated_at": "2024-01-02T01:43:44Z",
-  "pushed_at": "2024-01-01T22:34:38Z",
+  "updated_at": "2024-01-03T01:11:15Z",
+  "pushed_at": "2024-01-03T00:44:02Z",
   "git_url": "git://github.com/vitejs/vite.git",
   "ssh_url": "git@github.com:vitejs/vite.git",
   "clone_url": "https://github.com/vitejs/vite.git",
   "svn_url": "https://github.com/vitejs/vite",
   "homepage": "http://vitejs.dev",
-  "size": 32927,
-  "stargazers_count": 62157,
-  "watchers_count": 62157,
+  "size": 32934,
+  "stargazers_count": 62172,
+  "watchers_count": 62172,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 520,
+  "open_issues_count": 519,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 5576,
-  "open_issues": 520,
-  "watchers": 62157,
+  "open_issues": 519,
+  "watchers": 62172,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2009
+  "_index": 2011
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Kotlin/kotlinx.coroutines/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Kotlin/kotlinx.coroutines/deployments",
   "created_at": "2016-06-22T13:49:21Z",
-  "updated_at": "2023-12-31T18:04:57Z",
-  "pushed_at": "2023-12-29T17:12:54Z",
+  "updated_at": "2024-01-02T18:26:54Z",
+  "pushed_at": "2024-01-02T18:08:55Z",
   "git_url": "git://github.com/Kotlin/kotlinx.coroutines.git",
   "ssh_url": "git@github.com:Kotlin/kotlinx.coroutines.git",
   "clone_url": "https://github.com/Kotlin/kotlinx.coroutines.git",
   "svn_url": "https://github.com/Kotlin/kotlinx.coroutines",
   "homepage": "",
-  "size": 34675,
-  "stargazers_count": 12504,
-  "watchers_count": 12504,
+  "size": 34674,
+  "stargazers_count": 12502,
+  "watchers_count": 12502,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 1822,
+  "forks_count": 1823,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,9 +103,9 @@
     "kotlin"
   ],
   "visibility": "public",
-  "forks": 1822,
+  "forks": 1823,
   "open_issues": 291,
-  "watchers": 12504,
+  "watchers": 12502,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2923
+  "_index": 2925
 }

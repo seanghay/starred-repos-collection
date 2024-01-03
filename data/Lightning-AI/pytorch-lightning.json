@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/deployments",
   "created_at": "2019-03-31T00:45:57Z",
-  "updated_at": "2024-01-01T23:13:06Z",
-  "pushed_at": "2024-01-01T23:59:00Z",
+  "updated_at": "2024-01-03T00:39:18Z",
+  "pushed_at": "2024-01-03T00:37:42Z",
   "git_url": "git://github.com/Lightning-AI/pytorch-lightning.git",
   "ssh_url": "git@github.com:Lightning-AI/pytorch-lightning.git",
   "clone_url": "https://github.com/Lightning-AI/pytorch-lightning.git",
   "svn_url": "https://github.com/Lightning-AI/pytorch-lightning",
   "homepage": "https://lightning.ai",
-  "size": 129916,
-  "stargazers_count": 25560,
-  "watchers_count": 25560,
+  "size": 130097,
+  "stargazers_count": 25569,
+  "watchers_count": 25569,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 3117,
+  "forks_count": 3120,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 694,
+  "open_issues_count": 697,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -107,9 +107,9 @@
     "pytorch"
   ],
   "visibility": "public",
-  "forks": 3117,
-  "open_issues": 694,
-  "watchers": 25560,
+  "forks": 3120,
+  "open_issues": 697,
+  "watchers": 25569,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 144
+  "_index": 146
 }
