@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/hnvn/flutter_image_cropper/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hnvn/flutter_image_cropper/deployments",
   "created_at": "2018-06-27T09:22:55Z",
-  "updated_at": "2023-12-28T03:21:01Z",
+  "updated_at": "2024-01-03T10:13:44Z",
   "pushed_at": "2023-11-26T03:48:00Z",
   "git_url": "git://github.com/hnvn/flutter_image_cropper.git",
   "ssh_url": "git@github.com:hnvn/flutter_image_cropper.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/hnvn/flutter_image_cropper",
   "homepage": "",
   "size": 18050,
-  "stargazers_count": 961,
-  "watchers_count": 961,
+  "stargazers_count": 960,
+  "watchers_count": 960,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 349,
   "open_issues": 253,
-  "watchers": 961,
+  "watchers": 960,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3024
+  "_index": 3027
 }

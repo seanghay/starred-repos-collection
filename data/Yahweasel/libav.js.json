@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/Yahweasel/libav.js.git",
   "svn_url": "https://github.com/Yahweasel/libav.js",
   "homepage": "",
-  "size": 7863,
+  "size": 7682,
   "stargazers_count": 222,
   "watchers_count": 222,
   "language": "JavaScript",
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 114
+  "_index": 117
 }

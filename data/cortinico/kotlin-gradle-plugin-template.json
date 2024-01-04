@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/cortinico/kotlin-gradle-plugin-template/deployments",
   "created_at": "2020-04-12T16:00:25Z",
   "updated_at": "2023-12-28T22:18:18Z",
-  "pushed_at": "2023-12-29T13:37:40Z",
+  "pushed_at": "2024-01-03T17:44:35Z",
   "git_url": "git://github.com/cortinico/kotlin-gradle-plugin-template.git",
   "ssh_url": "git@github.com:cortinico/kotlin-gradle-plugin-template.git",
   "clone_url": "https://github.com/cortinico/kotlin-gradle-plugin-template.git",
   "svn_url": "https://github.com/cortinico/kotlin-gradle-plugin-template",
   "homepage": "",
-  "size": 418,
+  "size": 419,
   "stargazers_count": 428,
   "watchers_count": 428,
   "language": "Kotlin",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 33,
+  "forks_count": 34,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -118,7 +118,7 @@
     "templates"
   ],
   "visibility": "public",
-  "forks": 33,
+  "forks": 34,
   "open_issues": 2,
   "watchers": 428,
   "default_branch": "main",
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1754
+  "_index": 1757
 }

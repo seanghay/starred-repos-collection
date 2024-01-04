@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/unjs/cookie-es.git",
   "svn_url": "https://github.com/unjs/cookie-es",
   "homepage": "",
-  "size": 181,
+  "size": 225,
   "stargazers_count": 85,
   "watchers_count": 85,
   "language": "TypeScript",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1518
+  "_index": 1521
 }

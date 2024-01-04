@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/laurent22/joplin/releases{/id}",
   "deployments_url": "https://api.github.com/repos/laurent22/joplin/deployments",
   "created_at": "2017-01-16T21:49:41Z",
-  "updated_at": "2024-01-03T01:34:38Z",
-  "pushed_at": "2024-01-02T16:38:49Z",
+  "updated_at": "2024-01-03T17:32:55Z",
+  "pushed_at": "2024-01-04T01:24:39Z",
   "git_url": "git://github.com/laurent22/joplin.git",
   "ssh_url": "git@github.com:laurent22/joplin.git",
   "clone_url": "https://github.com/laurent22/joplin.git",
   "svn_url": "https://github.com/laurent22/joplin",
   "homepage": "https://joplinapp.org",
-  "size": 431967,
-  "stargazers_count": 40143,
-  "watchers_count": 40143,
+  "size": 431564,
+  "stargazers_count": 40164,
+  "watchers_count": 40164,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 4310,
+  "forks_count": 4314,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 338,
+  "open_issues_count": 341,
   "license": {
     "key": "other",
     "name": "Other",
@@ -115,9 +115,9 @@
     "webdav"
   ],
   "visibility": "public",
-  "forks": 4310,
-  "open_issues": 338,
-  "watchers": 40143,
+  "forks": 4314,
+  "open_issues": 341,
+  "watchers": 40164,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 14
+  "_index": 17
 }

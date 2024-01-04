@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/myshell-ai/OpenVoice",
-  "description": "Instant voice cloning by MyShell. Join our Discord community https://discord.gg/myshell and select the Developer role upon joining to gain exclusive access to our developer-only channel! Don't miss out on valuable discussions and collaboration opportunities.",
+  "description": "Instant voice cloning by MyShell.",
   "fork": false,
   "url": "https://api.github.com/repos/myshell-ai/OpenVoice",
   "forks_url": "https://api.github.com/repos/myshell-ai/OpenVoice/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/myshell-ai/OpenVoice/releases{/id}",
   "deployments_url": "https://api.github.com/repos/myshell-ai/OpenVoice/deployments",
   "created_at": "2023-11-29T12:17:01Z",
-  "updated_at": "2024-01-03T01:48:46Z",
-  "pushed_at": "2024-01-02T17:47:42Z",
+  "updated_at": "2024-01-04T01:49:08Z",
+  "pushed_at": "2024-01-03T16:31:40Z",
   "git_url": "git://github.com/myshell-ai/OpenVoice.git",
   "ssh_url": "git@github.com:myshell-ai/OpenVoice.git",
   "clone_url": "https://github.com/myshell-ai/OpenVoice.git",
   "svn_url": "https://github.com/myshell-ai/OpenVoice",
   "homepage": "https://research.myshell.ai/open-voice",
-  "size": 994,
-  "stargazers_count": 1804,
-  "watchers_count": 1804,
+  "size": 2337,
+  "stargazers_count": 4169,
+  "watchers_count": 4169,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 149,
+  "forks_count": 299,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 11,
+  "open_issues_count": 22,
   "license": {
     "key": "other",
     "name": "Other",
@@ -104,9 +104,9 @@
     "zero-shot-tts"
   ],
   "visibility": "public",
-  "forks": 149,
-  "open_issues": 11,
-  "watchers": 1804,
+  "forks": 299,
+  "open_issues": 22,
+  "watchers": 4169,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1
+  "_index": 4
 }

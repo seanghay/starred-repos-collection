@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yl4579/StyleTTS2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yl4579/StyleTTS2/deployments",
   "created_at": "2023-06-14T00:48:11Z",
-  "updated_at": "2024-01-02T22:27:00Z",
+  "updated_at": "2024-01-04T01:17:31Z",
   "pushed_at": "2023-12-19T10:35:11Z",
   "git_url": "git://github.com/yl4579/StyleTTS2.git",
   "ssh_url": "git@github.com:yl4579/StyleTTS2.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yl4579/StyleTTS2",
   "homepage": "",
   "size": 137176,
-  "stargazers_count": 3320,
-  "watchers_count": 3320,
+  "stargazers_count": 3327,
+  "watchers_count": 3327,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 196,
+  "forks_count": 198,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -112,9 +112,9 @@
     "wavlm"
   ],
   "visibility": "public",
-  "forks": 196,
+  "forks": 198,
   "open_issues": 27,
-  "watchers": 3320,
+  "watchers": 3327,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 187
+  "_index": 190
 }

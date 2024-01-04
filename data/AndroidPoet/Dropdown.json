@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/AndroidPoet/Dropdown/releases{/id}",
   "deployments_url": "https://api.github.com/repos/AndroidPoet/Dropdown/deployments",
   "created_at": "2022-04-25T01:28:25Z",
-  "updated_at": "2024-01-02T19:42:45Z",
+  "updated_at": "2024-01-03T15:50:07Z",
   "pushed_at": "2024-01-01T08:25:01Z",
   "git_url": "git://github.com/AndroidPoet/Dropdown.git",
   "ssh_url": "git@github.com:AndroidPoet/Dropdown.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/AndroidPoet/Dropdown",
   "homepage": "https://androidpoet.github.io/Dropdown/",
   "size": 61904,
-  "stargazers_count": 271,
-  "watchers_count": 271,
+  "stargazers_count": 274,
+  "watchers_count": 274,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 7,
   "open_issues": 0,
-  "watchers": 271,
+  "watchers": 274,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1348
+  "_index": 1351
 }

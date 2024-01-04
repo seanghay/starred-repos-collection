@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Chanzhaoyu/chatgpt-web/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Chanzhaoyu/chatgpt-web/deployments",
   "created_at": "2023-02-09T03:21:37Z",
-  "updated_at": "2024-01-02T19:32:48Z",
+  "updated_at": "2024-01-03T18:50:11Z",
   "pushed_at": "2023-12-11T02:59:09Z",
   "git_url": "git://github.com/Chanzhaoyu/chatgpt-web.git",
   "ssh_url": "git@github.com:Chanzhaoyu/chatgpt-web.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Chanzhaoyu/chatgpt-web",
   "homepage": "",
   "size": 5855,
-  "stargazers_count": 28915,
-  "watchers_count": 28915,
+  "stargazers_count": 28939,
+  "watchers_count": 28939,
   "language": "Vue",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 9,
+  "open_issues_count": 8,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 11275,
-  "open_issues": 9,
-  "watchers": 28915,
+  "open_issues": 8,
+  "watchers": 28939,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 825
+  "_index": 828
 }

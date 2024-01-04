@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/microsoft/table-transformer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microsoft/table-transformer/deployments",
   "created_at": "2021-05-17T19:01:34Z",
-  "updated_at": "2024-01-02T23:12:35Z",
-  "pushed_at": "2023-12-27T12:19:13Z",
+  "updated_at": "2024-01-03T21:45:07Z",
+  "pushed_at": "2024-01-03T07:44:14Z",
   "git_url": "git://github.com/microsoft/table-transformer.git",
   "ssh_url": "git@github.com:microsoft/table-transformer.git",
   "clone_url": "https://github.com/microsoft/table-transformer.git",
   "svn_url": "https://github.com/microsoft/table-transformer",
   "homepage": "",
   "size": 333,
-  "stargazers_count": 1436,
-  "watchers_count": 1436,
+  "stargazers_count": 1440,
+  "watchers_count": 1440,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 175,
   "open_issues": 76,
-  "watchers": 1436,
+  "watchers": 1440,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 677
+  "_index": 680
 }

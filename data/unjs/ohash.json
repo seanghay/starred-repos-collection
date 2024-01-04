@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/unjs/ohash/releases{/id}",
   "deployments_url": "https://api.github.com/repos/unjs/ohash/deployments",
   "created_at": "2021-10-18T17:57:47Z",
-  "updated_at": "2024-01-01T16:41:49Z",
-  "pushed_at": "2023-12-31T16:09:36Z",
+  "updated_at": "2024-01-03T17:09:15Z",
+  "pushed_at": "2024-01-03T02:00:47Z",
   "git_url": "git://github.com/unjs/ohash.git",
   "ssh_url": "git@github.com:unjs/ohash.git",
   "clone_url": "https://github.com/unjs/ohash.git",
   "svn_url": "https://github.com/unjs/ohash",
   "homepage": "",
-  "size": 1555,
-  "stargazers_count": 431,
-  "watchers_count": 431,
+  "size": 1558,
+  "stargazers_count": 432,
+  "watchers_count": 432,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 6,
+  "open_issues_count": 8,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 8,
-  "open_issues": 6,
-  "watchers": 431,
+  "open_issues": 8,
+  "watchers": 432,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1605
+  "_index": 1608
 }

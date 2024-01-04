@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/swimmingkiim/react-image-editor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/swimmingkiim/react-image-editor/deployments",
   "created_at": "2022-07-09T07:55:14Z",
-  "updated_at": "2023-12-31T22:50:09Z",
+  "updated_at": "2024-01-03T21:29:45Z",
   "pushed_at": "2023-12-07T11:16:01Z",
   "git_url": "git://github.com/swimmingkiim/react-image-editor.git",
   "ssh_url": "git@github.com:swimmingkiim/react-image-editor.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/swimmingkiim/react-image-editor",
   "homepage": "https://swimmingkiim.github.io/react-image-editor",
   "size": 7390,
-  "stargazers_count": 200,
-  "watchers_count": 200,
+  "stargazers_count": 203,
+  "watchers_count": 203,
   "language": "HTML",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 42,
+  "forks_count": 41,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,9 +108,9 @@
     "tool"
   ],
   "visibility": "public",
-  "forks": 42,
+  "forks": 41,
   "open_issues": 2,
-  "watchers": 200,
+  "watchers": 203,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 979
+  "_index": 982
 }

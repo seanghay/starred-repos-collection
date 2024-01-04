@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jamsinclair/jSquash/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jamsinclair/jSquash/deployments",
   "created_at": "2021-11-09T15:29:57Z",
-  "updated_at": "2023-12-30T09:51:21Z",
+  "updated_at": "2024-01-03T14:03:02Z",
   "pushed_at": "2023-11-21T06:50:47Z",
   "git_url": "git://github.com/jamsinclair/jSquash.git",
   "ssh_url": "git@github.com:jamsinclair/jSquash.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jamsinclair/jSquash",
   "homepage": "",
   "size": 4548,
-  "stargazers_count": 99,
-  "watchers_count": 99,
+  "stargazers_count": 101,
+  "watchers_count": 101,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 9,
   "open_issues": 9,
-  "watchers": 99,
+  "watchers": 101,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 86
+  "_index": 89
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/square/okio/releases{/id}",
   "deployments_url": "https://api.github.com/repos/square/okio/deployments",
   "created_at": "2014-03-17T00:02:59Z",
-  "updated_at": "2024-01-02T18:26:48Z",
-  "pushed_at": "2024-01-03T01:34:57Z",
+  "updated_at": "2024-01-03T10:52:22Z",
+  "pushed_at": "2024-01-03T19:54:29Z",
   "git_url": "git://github.com/square/okio.git",
   "ssh_url": "git@github.com:square/okio.git",
   "clone_url": "https://github.com/square/okio.git",
   "svn_url": "https://github.com/square/okio",
   "homepage": "https://square.github.io/okio/",
-  "size": 8302,
-  "stargazers_count": 8573,
-  "watchers_count": 8573,
+  "size": 8328,
+  "stargazers_count": 8572,
+  "watchers_count": 8572,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 77,
+  "open_issues_count": 76,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -103,8 +103,8 @@
   ],
   "visibility": "public",
   "forks": 1206,
-  "open_issues": 77,
-  "watchers": 8573,
+  "open_issues": 76,
+  "watchers": 8572,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2972
+  "_index": 2975
 }

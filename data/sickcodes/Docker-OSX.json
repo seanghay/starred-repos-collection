@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/sickcodes/Docker-OSX/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sickcodes/Docker-OSX/deployments",
   "created_at": "2020-06-04T11:01:37Z",
-  "updated_at": "2024-01-02T23:48:51Z",
-  "pushed_at": "2023-12-31T21:55:42Z",
+  "updated_at": "2024-01-03T18:17:28Z",
+  "pushed_at": "2024-01-03T14:45:50Z",
   "git_url": "git://github.com/sickcodes/Docker-OSX.git",
   "ssh_url": "git@github.com:sickcodes/Docker-OSX.git",
   "clone_url": "https://github.com/sickcodes/Docker-OSX.git",
   "svn_url": "https://github.com/sickcodes/Docker-OSX",
   "homepage": "https://hub.docker.com/r/sickcodes/docker-osx",
   "size": 13635,
-  "stargazers_count": 33923,
-  "watchers_count": 33923,
+  "stargazers_count": 33935,
+  "watchers_count": 33935,
   "language": "Shell",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 1688,
+  "forks_count": 1689,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 320,
+  "open_issues_count": 321,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -110,9 +110,9 @@
     "x11"
   ],
   "visibility": "public",
-  "forks": 1688,
-  "open_issues": 320,
-  "watchers": 33923,
+  "forks": 1689,
+  "open_issues": 321,
+  "watchers": 33935,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 928
+  "_index": 931
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/googleapis/google-api-nodejs-client/releases{/id}",
   "deployments_url": "https://api.github.com/repos/googleapis/google-api-nodejs-client/deployments",
   "created_at": "2013-03-06T17:02:23Z",
-  "updated_at": "2024-01-02T18:19:12Z",
-  "pushed_at": "2024-01-03T01:32:19Z",
+  "updated_at": "2024-01-03T06:18:53Z",
+  "pushed_at": "2024-01-04T01:34:03Z",
   "git_url": "git://github.com/googleapis/google-api-nodejs-client.git",
   "ssh_url": "git@github.com:googleapis/google-api-nodejs-client.git",
   "clone_url": "https://github.com/googleapis/google-api-nodejs-client.git",
   "svn_url": "https://github.com/googleapis/google-api-nodejs-client",
   "homepage": "https://googleapis.dev/nodejs/googleapis/latest/",
   "size": 340406,
-  "stargazers_count": 10990,
-  "watchers_count": 10990,
+  "stargazers_count": 10991,
+  "watchers_count": 10991,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 2003,
   "open_issues": 192,
-  "watchers": 10990,
+  "watchers": 10991,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2388
+  "_index": 2391
 }
