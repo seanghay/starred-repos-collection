@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/theonedev/onedev/releases{/id}",
   "deployments_url": "https://api.github.com/repos/theonedev/onedev/deployments",
   "created_at": "2018-11-06T02:57:01Z",
-  "updated_at": "2024-01-04T15:50:44Z",
+  "updated_at": "2024-01-05T12:57:31Z",
   "pushed_at": "2024-01-01T07:30:07Z",
   "git_url": "git://github.com/theonedev/onedev.git",
   "ssh_url": "git@github.com:theonedev/onedev.git",

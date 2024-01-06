@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/Strumenta/antlr-kotlin/deployments",
   "created_at": "2018-08-20T17:40:29Z",
   "updated_at": "2024-01-04T07:03:22Z",
-  "pushed_at": "2024-01-04T06:55:17Z",
+  "pushed_at": "2024-01-05T08:54:45Z",
   "git_url": "git://github.com/Strumenta/antlr-kotlin.git",
   "ssh_url": "git@github.com:Strumenta/antlr-kotlin.git",
   "clone_url": "https://github.com/Strumenta/antlr-kotlin.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 21,
+  "open_issues_count": 22,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 46,
-  "open_issues": 21,
+  "open_issues": 22,
   "watchers": 183,
   "default_branch": "master",
   "permissions": {

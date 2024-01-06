@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/openai/consistencydecoder/releases{/id}",
   "deployments_url": "https://api.github.com/repos/openai/consistencydecoder/deployments",
   "created_at": "2023-11-02T13:06:36Z",
-  "updated_at": "2024-01-04T15:57:13Z",
+  "updated_at": "2024-01-05T09:54:09Z",
   "pushed_at": "2023-11-07T11:21:38Z",
   "git_url": "git://github.com/openai/consistencydecoder.git",
   "ssh_url": "git@github.com:openai/consistencydecoder.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 17,
+  "open_issues_count": 18,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 70,
-  "open_issues": 17,
+  "open_issues": 18,
   "watchers": 1952,
   "default_branch": "main",
   "permissions": {
