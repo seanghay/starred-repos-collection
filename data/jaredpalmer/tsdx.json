@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jaredpalmer/tsdx/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jaredpalmer/tsdx/deployments",
   "created_at": "2019-01-24T13:04:18Z",
-  "updated_at": "2024-01-04T17:13:12Z",
+  "updated_at": "2024-01-06T20:22:41Z",
   "pushed_at": "2023-06-15T07:37:27Z",
   "git_url": "git://github.com/jaredpalmer/tsdx.git",
   "ssh_url": "git@github.com:jaredpalmer/tsdx.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jaredpalmer/tsdx",
   "homepage": "https://tsdx.io",
   "size": 3803,
-  "stargazers_count": 11081,
-  "watchers_count": 11081,
+  "stargazers_count": 11082,
+  "watchers_count": 11082,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 510,
   "open_issues": 237,
-  "watchers": 11081,
+  "watchers": 11082,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1230
+  "_index": 1233
 }

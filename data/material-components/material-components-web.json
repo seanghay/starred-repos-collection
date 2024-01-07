@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/material-components/material-components-web/releases{/id}",
   "deployments_url": "https://api.github.com/repos/material-components/material-components-web/deployments",
   "created_at": "2016-12-05T16:04:09Z",
-  "updated_at": "2024-01-05T09:05:02Z",
+  "updated_at": "2024-01-06T22:20:40Z",
   "pushed_at": "2023-12-28T06:05:18Z",
   "git_url": "git://github.com/material-components/material-components-web.git",
   "ssh_url": "git@github.com:material-components/material-components-web.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/material-components/material-components-web",
   "homepage": "https://material.io/develop/web",
   "size": 90063,
-  "stargazers_count": 17012,
-  "watchers_count": 17012,
+  "stargazers_count": 17013,
+  "watchers_count": 17013,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 2237,
   "open_issues": 491,
-  "watchers": 17012,
+  "watchers": 17013,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3306
+  "_index": 3309
 }

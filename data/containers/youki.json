@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/containers/youki/releases{/id}",
   "deployments_url": "https://api.github.com/repos/containers/youki/deployments",
   "created_at": "2021-03-27T11:06:58Z",
-  "updated_at": "2024-01-05T13:16:59Z",
+  "updated_at": "2024-01-06T11:08:06Z",
   "pushed_at": "2024-01-05T04:40:38Z",
   "git_url": "git://github.com/containers/youki.git",
   "ssh_url": "git@github.com:containers/youki.git",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1789
+  "_index": 1792
 }

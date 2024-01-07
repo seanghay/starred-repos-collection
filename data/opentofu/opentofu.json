@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/opentofu/opentofu/releases{/id}",
   "deployments_url": "https://api.github.com/repos/opentofu/opentofu/deployments",
   "created_at": "2023-08-16T20:01:36Z",
-  "updated_at": "2024-01-05T23:51:59Z",
+  "updated_at": "2024-01-06T23:19:05Z",
   "pushed_at": "2024-01-05T17:30:52Z",
   "git_url": "git://github.com/opentofu/opentofu.git",
   "ssh_url": "git@github.com:opentofu/opentofu.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/opentofu/opentofu",
   "homepage": "https://opentofu.org",
   "size": 272612,
-  "stargazers_count": 16850,
-  "watchers_count": 16850,
+  "stargazers_count": 16862,
+  "watchers_count": 16862,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 590,
+  "forks_count": 591,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 590,
+  "forks": 591,
   "open_issues": 163,
-  "watchers": 16850,
+  "watchers": 16862,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 244
+  "_index": 247
 }

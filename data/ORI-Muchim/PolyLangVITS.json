@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ORI-Muchim/PolyLangVITS/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ORI-Muchim/PolyLangVITS/deployments",
   "created_at": "2023-06-20T16:47:46Z",
-  "updated_at": "2024-01-04T17:19:45Z",
+  "updated_at": "2024-01-06T14:03:17Z",
   "pushed_at": "2023-12-16T08:48:44Z",
   "git_url": "git://github.com/ORI-Muchim/PolyLangVITS.git",
   "ssh_url": "git@github.com:ORI-Muchim/PolyLangVITS.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ORI-Muchim/PolyLangVITS",
   "homepage": "",
   "size": 32373,
-  "stargazers_count": 62,
-  "watchers_count": 62,
+  "stargazers_count": 63,
+  "watchers_count": 63,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 7,
   "open_issues": 0,
-  "watchers": 62,
+  "watchers": 63,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 370
+  "_index": 373
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/BurntSushi/ripgrep/releases{/id}",
   "deployments_url": "https://api.github.com/repos/BurntSushi/ripgrep/deployments",
   "created_at": "2016-03-11T02:02:33Z",
-  "updated_at": "2024-01-06T00:19:39Z",
-  "pushed_at": "2024-01-05T06:17:32Z",
+  "updated_at": "2024-01-07T01:08:19Z",
+  "pushed_at": "2024-01-06T22:49:18Z",
   "git_url": "git://github.com/BurntSushi/ripgrep.git",
   "ssh_url": "git@github.com:BurntSushi/ripgrep.git",
   "clone_url": "https://github.com/BurntSushi/ripgrep.git",
   "svn_url": "https://github.com/BurntSushi/ripgrep",
   "homepage": "",
-  "size": 4465,
-  "stargazers_count": 42430,
-  "watchers_count": 42430,
+  "size": 4613,
+  "stargazers_count": 42453,
+  "watchers_count": 42453,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 82,
+  "open_issues_count": 74,
   "license": {
     "key": "unlicense",
     "name": "The Unlicense",
@@ -111,8 +111,8 @@
   ],
   "visibility": "public",
   "forks": 1885,
-  "open_issues": 82,
-  "watchers": 42430,
+  "open_issues": 74,
+  "watchers": 42453,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 139
+  "_index": 142
 }

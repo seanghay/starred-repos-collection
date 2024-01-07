@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/cashapp/molecule/releases{/id}",
   "deployments_url": "https://api.github.com/repos/cashapp/molecule/deployments",
   "created_at": "2021-06-09T18:26:28Z",
-  "updated_at": "2024-01-05T13:51:07Z",
-  "pushed_at": "2024-01-03T19:45:31Z",
+  "updated_at": "2024-01-06T22:43:53Z",
+  "pushed_at": "2024-01-06T20:16:31Z",
   "git_url": "git://github.com/cashapp/molecule.git",
   "ssh_url": "git@github.com:cashapp/molecule.git",
   "clone_url": "https://github.com/cashapp/molecule.git",
   "svn_url": "https://github.com/cashapp/molecule",
   "homepage": "https://cashapp.github.io/molecule/docs/1.x/",
-  "size": 1690,
-  "stargazers_count": 1635,
-  "watchers_count": 1635,
+  "size": 1692,
+  "stargazers_count": 1637,
+  "watchers_count": 1637,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 73,
   "open_issues": 23,
-  "watchers": 1635,
+  "watchers": 1637,
   "default_branch": "trunk",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1540
+  "_index": 1543
 }

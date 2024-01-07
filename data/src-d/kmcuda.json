@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/src-d/kmcuda/releases{/id}",
   "deployments_url": "https://api.github.com/repos/src-d/kmcuda/deployments",
   "created_at": "2016-06-23T13:35:55Z",
-  "updated_at": "2024-01-04T16:05:44Z",
+  "updated_at": "2024-01-06T09:26:18Z",
   "pushed_at": "2022-10-11T16:58:55Z",
   "git_url": "git://github.com/src-d/kmcuda.git",
   "ssh_url": "git@github.com:src-d/kmcuda.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/src-d/kmcuda",
   "homepage": "",
   "size": 718,
-  "stargazers_count": 761,
-  "watchers_count": 761,
+  "stargazers_count": 762,
+  "watchers_count": 762,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 144,
   "open_issues": 46,
-  "watchers": 761,
+  "watchers": 762,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 46
+  "_index": 49
 }

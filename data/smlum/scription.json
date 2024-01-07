@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/smlum/scription/releases{/id}",
   "deployments_url": "https://api.github.com/repos/smlum/scription/deployments",
   "created_at": "2020-01-23T04:34:00Z",
-  "updated_at": "2023-11-13T09:17:29Z",
+  "updated_at": "2024-01-06T20:46:25Z",
   "pushed_at": "2023-06-29T00:47:09Z",
   "git_url": "git://github.com/smlum/scription.git",
   "ssh_url": "git@github.com:smlum/scription.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/smlum/scription",
   "homepage": "https://scription.app/",
   "size": 3222,
-  "stargazers_count": 75,
-  "watchers_count": 75,
+  "stargazers_count": 76,
+  "watchers_count": 76,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 21,
   "open_issues": 25,
-  "watchers": 75,
+  "watchers": 76,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 325
+  "_index": 328
 }

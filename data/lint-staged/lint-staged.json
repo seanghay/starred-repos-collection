@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lint-staged/lint-staged/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lint-staged/lint-staged/deployments",
   "created_at": "2016-01-15T07:51:21Z",
-  "updated_at": "2024-01-05T16:33:53Z",
+  "updated_at": "2024-01-06T20:05:14Z",
   "pushed_at": "2023-12-29T05:56:37Z",
   "git_url": "git://github.com/lint-staged/lint-staged.git",
   "ssh_url": "git@github.com:lint-staged/lint-staged.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lint-staged/lint-staged",
   "homepage": "https://www.npmjs.com/package/lint-staged",
   "size": 5804,
-  "stargazers_count": 12525,
-  "watchers_count": 12525,
+  "stargazers_count": 12528,
+  "watchers_count": 12528,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 442,
+  "forks_count": 443,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 106,
+  "open_issues_count": 105,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,9 +107,9 @@
     "workflow"
   ],
   "visibility": "public",
-  "forks": 442,
-  "open_issues": 106,
-  "watchers": 12525,
+  "forks": 443,
+  "open_issues": 105,
+  "watchers": 12528,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1354
+  "_index": 1357
 }

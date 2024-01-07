@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Unstructured-IO/unstructured/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Unstructured-IO/unstructured/deployments",
   "created_at": "2022-09-26T21:53:41Z",
-  "updated_at": "2024-01-06T00:04:10Z",
-  "pushed_at": "2024-01-06T01:05:42Z",
+  "updated_at": "2024-01-07T00:31:28Z",
+  "pushed_at": "2024-01-07T01:17:33Z",
   "git_url": "git://github.com/Unstructured-IO/unstructured.git",
   "ssh_url": "git@github.com:Unstructured-IO/unstructured.git",
   "clone_url": "https://github.com/Unstructured-IO/unstructured.git",
   "svn_url": "https://github.com/Unstructured-IO/unstructured",
   "homepage": "https://www.unstructured.io/",
   "size": 114633,
-  "stargazers_count": 4059,
-  "watchers_count": 4059,
+  "stargazers_count": 4068,
+  "watchers_count": 4068,
   "language": "HTML",
   "has_issues": true,
   "has_projects": true,
@@ -122,7 +122,7 @@
   "visibility": "public",
   "forks": 291,
   "open_issues": 195,
-  "watchers": 4059,
+  "watchers": 4068,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 695
+  "_index": 698
 }

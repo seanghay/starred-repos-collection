@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/PipedreamHQ/pipedream/releases{/id}",
   "deployments_url": "https://api.github.com/repos/PipedreamHQ/pipedream/deployments",
   "created_at": "2020-01-22T00:28:31Z",
-  "updated_at": "2024-01-05T19:45:25Z",
-  "pushed_at": "2024-01-06T01:05:59Z",
+  "updated_at": "2024-01-07T01:31:42Z",
+  "pushed_at": "2024-01-06T18:18:07Z",
   "git_url": "git://github.com/PipedreamHQ/pipedream.git",
   "ssh_url": "git@github.com:PipedreamHQ/pipedream.git",
   "clone_url": "https://github.com/PipedreamHQ/pipedream.git",
   "svn_url": "https://github.com/PipedreamHQ/pipedream",
   "homepage": "https://pipedream.com",
-  "size": 227285,
-  "stargazers_count": 7704,
-  "watchers_count": 7704,
+  "size": 227287,
+  "stargazers_count": 7709,
+  "watchers_count": 7709,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 5340,
+  "forks_count": 5341,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1959,
+  "open_issues_count": 1961,
   "license": {
     "key": "other",
     "name": "Other",
@@ -119,9 +119,9 @@
     "workflows"
   ],
   "visibility": "public",
-  "forks": 5340,
-  "open_issues": 1959,
-  "watchers": 7704,
+  "forks": 5341,
+  "open_issues": 1961,
+  "watchers": 7709,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1148
+  "_index": 1151
 }

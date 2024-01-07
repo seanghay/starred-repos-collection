@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1967,
+  "forks_count": 1966,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,7 +106,7 @@
     "swift"
   ],
   "visibility": "public",
-  "forks": 1967,
+  "forks": 1966,
   "open_issues": 171,
   "watchers": 14844,
   "default_branch": "master",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2935
+  "_index": 2938
 }

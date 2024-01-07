@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/phan/phan/deployments",
   "created_at": "2015-10-22T14:34:09Z",
   "updated_at": "2024-01-05T11:01:24Z",
-  "pushed_at": "2023-12-26T19:52:53Z",
+  "pushed_at": "2024-01-06T16:51:36Z",
   "git_url": "git://github.com/phan/phan.git",
   "ssh_url": "git@github.com:phan/phan.git",
   "clone_url": "https://github.com/phan/phan.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 374,
+  "forks_count": 375,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 918,
+  "open_issues_count": 919,
   "license": {
     "key": "other",
     "name": "Other",
@@ -106,8 +106,8 @@
     "static-code-analysis"
   ],
   "visibility": "public",
-  "forks": 374,
-  "open_issues": 918,
+  "forks": 375,
+  "open_issues": 919,
   "watchers": 5475,
   "default_branch": "v5",
   "permissions": {
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3307
+  "_index": 3310
 }

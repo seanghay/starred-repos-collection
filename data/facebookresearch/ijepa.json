@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/facebookresearch/ijepa/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookresearch/ijepa/deployments",
   "created_at": "2023-06-12T14:48:10Z",
-  "updated_at": "2024-01-05T10:02:51Z",
+  "updated_at": "2024-01-06T06:23:18Z",
   "pushed_at": "2023-11-28T15:20:50Z",
   "git_url": "git://github.com/facebookresearch/ijepa.git",
   "ssh_url": "git@github.com:facebookresearch/ijepa.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/facebookresearch/ijepa",
   "homepage": "",
   "size": 33,
-  "stargazers_count": 2339,
-  "watchers_count": 2339,
+  "stargazers_count": 2340,
+  "watchers_count": 2340,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 387,
   "open_issues": 26,
-  "watchers": 2339,
+  "watchers": 2340,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 576
+  "_index": 579
 }
