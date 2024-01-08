@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/open-mmlab/mmocr/releases{/id}",
   "deployments_url": "https://api.github.com/repos/open-mmlab/mmocr/deployments",
   "created_at": "2021-04-07T13:40:21Z",
-  "updated_at": "2024-01-06T01:41:27Z",
+  "updated_at": "2024-01-07T10:55:01Z",
   "pushed_at": "2023-10-28T04:01:29Z",
   "git_url": "git://github.com/open-mmlab/mmocr.git",
   "ssh_url": "git@github.com:open-mmlab/mmocr.git",

@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 222,
+  "open_issues_count": 223,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 441,
-  "open_issues": 222,
+  "open_issues": 223,
   "watchers": 1258,
   "default_branch": "master",
   "permissions": {
