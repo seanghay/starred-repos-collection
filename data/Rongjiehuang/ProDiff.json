@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Rongjiehuang/ProDiff/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Rongjiehuang/ProDiff/deployments",
   "created_at": "2022-08-12T13:10:44Z",
-  "updated_at": "2024-01-07T06:05:20Z",
+  "updated_at": "2024-01-08T04:31:39Z",
   "pushed_at": "2023-04-19T10:08:22Z",
   "git_url": "git://github.com/Rongjiehuang/ProDiff.git",
   "ssh_url": "git@github.com:Rongjiehuang/ProDiff.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Rongjiehuang/ProDiff",
   "homepage": "",
   "size": 186,
-  "stargazers_count": 417,
-  "watchers_count": 417,
+  "stargazers_count": 418,
+  "watchers_count": 418,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 53,
   "open_issues": 18,
-  "watchers": 417,
+  "watchers": 418,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 321
+  "_index": 327
 }

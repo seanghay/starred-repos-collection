@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/hustcc/timeago.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hustcc/timeago.js/deployments",
   "created_at": "2016-06-23T02:06:23Z",
-  "updated_at": "2024-01-07T15:01:19Z",
-  "pushed_at": "2023-12-04T02:54:54Z",
+  "updated_at": "2024-01-08T05:00:02Z",
+  "pushed_at": "2024-01-08T04:59:57Z",
   "git_url": "git://github.com/hustcc/timeago.js.git",
   "ssh_url": "git@github.com:hustcc/timeago.js.git",
   "clone_url": "https://github.com/hustcc/timeago.js.git",
   "svn_url": "https://github.com/hustcc/timeago.js",
   "homepage": "https://timeago.org",
-  "size": 481,
+  "size": 482,
   "stargazers_count": 5059,
   "watchers_count": 5059,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 48,
+  "open_issues_count": 46,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,7 +108,7 @@
   ],
   "visibility": "public",
   "forks": 420,
-  "open_issues": 48,
+  "open_issues": 46,
   "watchers": 5059,
   "default_branch": "master",
   "permissions": {
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1796
+  "_index": 1802
 }

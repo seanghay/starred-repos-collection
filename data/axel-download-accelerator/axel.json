@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/axel-download-accelerator/axel/releases{/id}",
   "deployments_url": "https://api.github.com/repos/axel-download-accelerator/axel/deployments",
   "created_at": "2015-08-13T14:23:45Z",
-  "updated_at": "2024-01-07T13:28:04Z",
+  "updated_at": "2024-01-08T09:41:29Z",
   "pushed_at": "2023-12-23T19:40:26Z",
   "git_url": "git://github.com/axel-download-accelerator/axel.git",
   "ssh_url": "git@github.com:axel-download-accelerator/axel.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/axel-download-accelerator/axel",
   "homepage": "",
   "size": 1464,
-  "stargazers_count": 2702,
-  "watchers_count": 2702,
+  "stargazers_count": 2703,
+  "watchers_count": 2703,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 80,
+  "open_issues_count": 81,
   "license": {
     "key": "gpl-2.0",
     "name": "GNU General Public License v2.0",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 260,
-  "open_issues": 80,
-  "watchers": 2702,
+  "open_issues": 81,
+  "watchers": 2703,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 400
+  "_index": 406
 }

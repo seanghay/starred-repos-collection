@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/SaschaWillems/Vulkan/releases{/id}",
   "deployments_url": "https://api.github.com/repos/SaschaWillems/Vulkan/deployments",
   "created_at": "2015-06-21T18:48:22Z",
-  "updated_at": "2024-01-07T19:15:12Z",
-  "pushed_at": "2024-01-07T19:46:35Z",
+  "updated_at": "2024-01-08T17:13:50Z",
+  "pushed_at": "2024-01-08T20:00:43Z",
   "git_url": "git://github.com/SaschaWillems/Vulkan.git",
   "ssh_url": "git@github.com:SaschaWillems/Vulkan.git",
   "clone_url": "https://github.com/SaschaWillems/Vulkan.git",
   "svn_url": "https://github.com/SaschaWillems/Vulkan",
   "homepage": null,
-  "size": 219539,
+  "size": 219563,
   "stargazers_count": 9352,
   "watchers_count": 9352,
   "language": "GLSL",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1918,
+  "forks_count": 1919,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,7 +102,7 @@
     "vulkan-api"
   ],
   "visibility": "public",
-  "forks": 1918,
+  "forks": 1919,
   "open_issues": 8,
   "watchers": 9352,
   "default_branch": "master",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1742
+  "_index": 1748
 }

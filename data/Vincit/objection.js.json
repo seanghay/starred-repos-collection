@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/Vincit/objection.js/deployments",
   "created_at": "2015-04-14T10:36:51Z",
   "updated_at": "2024-01-07T14:22:46Z",
-  "pushed_at": "2024-01-01T17:15:35Z",
+  "pushed_at": "2024-01-08T17:40:45Z",
   "git_url": "git://github.com/Vincit/objection.js.git",
   "ssh_url": "git@github.com:Vincit/objection.js.git",
   "clone_url": "https://github.com/Vincit/objection.js.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1096
+  "_index": 1102
 }

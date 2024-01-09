@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/asottile/babi/deployments",
   "created_at": "2019-07-13T02:57:23Z",
   "updated_at": "2023-12-25T00:46:46Z",
-  "pushed_at": "2023-12-26T18:50:22Z",
+  "pushed_at": "2024-01-08T22:40:48Z",
   "git_url": "git://github.com/asottile/babi.git",
   "ssh_url": "git@github.com:asottile/babi.git",
   "clone_url": "https://github.com/asottile/babi.git",
   "svn_url": "https://github.com/asottile/babi",
   "homepage": "",
-  "size": 670,
+  "size": 672,
   "stargazers_count": 353,
   "watchers_count": 353,
   "language": "Python",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 351
+  "_index": 357
 }

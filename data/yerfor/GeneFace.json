@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yerfor/GeneFace/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yerfor/GeneFace/deployments",
   "created_at": "2023-02-03T13:52:50Z",
-  "updated_at": "2024-01-07T23:36:51Z",
+  "updated_at": "2024-01-08T20:52:16Z",
   "pushed_at": "2023-12-16T13:56:31Z",
   "git_url": "git://github.com/yerfor/GeneFace.git",
   "ssh_url": "git@github.com:yerfor/GeneFace.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yerfor/GeneFace",
   "homepage": "",
   "size": 181315,
-  "stargazers_count": 1974,
-  "watchers_count": 1974,
+  "stargazers_count": 1980,
+  "watchers_count": 1980,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 248,
+  "forks_count": 249,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 93,
+  "open_issues_count": 94,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,9 +103,9 @@
     "talking-face-generation"
   ],
   "visibility": "public",
-  "forks": 248,
-  "open_issues": 93,
-  "watchers": 1974,
+  "forks": 249,
+  "open_issues": 94,
+  "watchers": 1980,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 573
+  "_index": 579
 }

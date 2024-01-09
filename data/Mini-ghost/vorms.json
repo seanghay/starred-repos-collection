@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Mini-ghost/vorms/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Mini-ghost/vorms/deployments",
   "created_at": "2022-04-27T16:26:30Z",
-  "updated_at": "2024-01-04T15:55:43Z",
+  "updated_at": "2024-01-08T04:23:29Z",
   "pushed_at": "2024-01-06T09:30:47Z",
   "git_url": "git://github.com/Mini-ghost/vorms.git",
   "ssh_url": "git@github.com:Mini-ghost/vorms.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Mini-ghost/vorms",
   "homepage": "https://vorms.mini-ghost.dev",
   "size": 735,
-  "stargazers_count": 477,
-  "watchers_count": 477,
+  "stargazers_count": 478,
+  "watchers_count": 478,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 18,
   "open_issues": 11,
-  "watchers": 477,
+  "watchers": 478,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 388
+  "_index": 394
 }

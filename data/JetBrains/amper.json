@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/JetBrains/amper/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JetBrains/amper/deployments",
   "created_at": "2023-10-24T15:45:20Z",
-  "updated_at": "2024-01-07T04:46:28Z",
+  "updated_at": "2024-01-08T18:58:36Z",
   "pushed_at": "2024-01-03T10:55:30Z",
   "git_url": "git://github.com/JetBrains/amper.git",
   "ssh_url": "git@github.com:JetBrains/amper.git",
@@ -73,10 +73,10 @@
   "svn_url": "https://github.com/JetBrains/amper",
   "homepage": "",
   "size": 19184,
-  "stargazers_count": 436,
-  "watchers_count": 436,
+  "stargazers_count": 453,
+  "watchers_count": 453,
   "language": "Kotlin",
-  "has_issues": false,
+  "has_issues": true,
   "has_projects": false,
   "has_downloads": true,
   "has_wiki": false,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 16,
   "open_issues": 0,
-  "watchers": 436,
+  "watchers": 453,
   "default_branch": "0.1",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 129
+  "_index": 135
 }

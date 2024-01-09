@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/upscayl/upscayl/releases{/id}",
   "deployments_url": "https://api.github.com/repos/upscayl/upscayl/deployments",
   "created_at": "2022-07-30T17:19:20Z",
-  "updated_at": "2024-01-08T00:52:48Z",
+  "updated_at": "2024-01-09T01:46:22Z",
   "pushed_at": "2023-12-23T16:26:02Z",
   "git_url": "git://github.com/upscayl/upscayl.git",
   "ssh_url": "git@github.com:upscayl/upscayl.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/upscayl/upscayl",
   "homepage": "https://upscayl.org",
   "size": 479024,
-  "stargazers_count": 21277,
-  "watchers_count": 21277,
+  "stargazers_count": 21319,
+  "watchers_count": 21319,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 912,
+  "forks_count": 914,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -111,9 +111,9 @@
     "upscayl"
   ],
   "visibility": "public",
-  "forks": 912,
+  "forks": 914,
   "open_issues": 31,
-  "watchers": 21277,
+  "watchers": 21319,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1146
+  "_index": 1152
 }

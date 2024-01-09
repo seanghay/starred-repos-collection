@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/cefsharp/CefSharp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/cefsharp/CefSharp/deployments",
   "created_at": "2010-12-03T15:23:23Z",
-  "updated_at": "2024-01-07T17:56:57Z",
+  "updated_at": "2024-01-08T15:29:07Z",
   "pushed_at": "2024-01-02T09:02:13Z",
   "git_url": "git://github.com/cefsharp/CefSharp.git",
   "ssh_url": "git@github.com:cefsharp/CefSharp.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2926,
+  "forks_count": 2924,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,7 +107,7 @@
     "wpf"
   ],
   "visibility": "public",
-  "forks": 2926,
+  "forks": 2924,
   "open_issues": 52,
   "watchers": 9527,
   "default_branch": "master",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3365
+  "_index": 3371
 }

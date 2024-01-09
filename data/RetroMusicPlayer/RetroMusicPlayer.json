@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/RetroMusicPlayer/RetroMusicPlayer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/RetroMusicPlayer/RetroMusicPlayer/deployments",
   "created_at": "2018-07-27T12:21:51Z",
-  "updated_at": "2024-01-07T16:39:49Z",
+  "updated_at": "2024-01-08T21:55:17Z",
   "pushed_at": "2024-01-04T20:21:40Z",
   "git_url": "git://github.com/RetroMusicPlayer/RetroMusicPlayer.git",
   "ssh_url": "git@github.com:RetroMusicPlayer/RetroMusicPlayer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/RetroMusicPlayer/RetroMusicPlayer",
   "homepage": "https://retromusic.app",
   "size": 260100,
-  "stargazers_count": 3564,
-  "watchers_count": 3564,
+  "stargazers_count": 3569,
+  "watchers_count": 3569,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 695,
+  "forks_count": 697,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 254,
+  "open_issues_count": 255,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -110,9 +110,9 @@
     "mvvm-architecture"
   ],
   "visibility": "public",
-  "forks": 695,
-  "open_issues": 254,
-  "watchers": 3564,
+  "forks": 697,
+  "open_issues": 255,
+  "watchers": 3569,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2937
+  "_index": 2943
 }

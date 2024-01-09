@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/requarks/wiki/releases{/id}",
   "deployments_url": "https://api.github.com/repos/requarks/wiki/deployments",
   "created_at": "2016-08-16T19:35:26Z",
-  "updated_at": "2024-01-07T21:14:02Z",
+  "updated_at": "2024-01-08T23:04:43Z",
   "pushed_at": "2024-01-03T10:03:31Z",
   "git_url": "git://github.com/requarks/wiki.git",
   "ssh_url": "git@github.com:requarks/wiki.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/requarks/wiki",
   "homepage": "https://js.wiki",
   "size": 38596,
-  "stargazers_count": 22659,
-  "watchers_count": 22659,
+  "stargazers_count": 22662,
+  "watchers_count": 22662,
   "language": "Vue",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2533,
+  "forks_count": 2534,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 149,
+  "open_issues_count": 148,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -108,9 +108,9 @@
     "wiki"
   ],
   "visibility": "public",
-  "forks": 2533,
-  "open_issues": 149,
-  "watchers": 22659,
+  "forks": 2534,
+  "open_issues": 148,
+  "watchers": 22662,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3170
+  "_index": 3176
 }

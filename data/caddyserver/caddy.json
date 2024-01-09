@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/caddyserver/caddy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/caddyserver/caddy/deployments",
   "created_at": "2015-01-13T19:45:03Z",
-  "updated_at": "2024-01-08T01:46:05Z",
-  "pushed_at": "2024-01-07T17:17:46Z",
+  "updated_at": "2024-01-08T20:34:57Z",
+  "pushed_at": "2024-01-08T05:53:05Z",
   "git_url": "git://github.com/caddyserver/caddy.git",
   "ssh_url": "git@github.com:caddyserver/caddy.git",
   "clone_url": "https://github.com/caddyserver/caddy.git",
   "svn_url": "https://github.com/caddyserver/caddy",
   "homepage": "https://caddyserver.com",
   "size": 17342,
-  "stargazers_count": 51490,
-  "watchers_count": 51490,
+  "stargazers_count": 51511,
+  "watchers_count": 51511,
   "language": "Go",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3924,
+  "forks_count": 3925,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 150,
+  "open_issues_count": 148,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -116,9 +116,9 @@
     "web-server"
   ],
   "visibility": "public",
-  "forks": 3924,
-  "open_issues": 150,
-  "watchers": 51490,
+  "forks": 3925,
+  "open_issues": 148,
+  "watchers": 51511,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1040
+  "_index": 1046
 }

@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/yistLin/dvector/deployments",
   "created_at": "2020-03-27T14:01:38Z",
   "updated_at": "2024-01-06T03:03:33Z",
-  "pushed_at": "2023-06-29T11:10:57Z",
+  "pushed_at": "2024-01-08T10:54:13Z",
   "git_url": "git://github.com/yistLin/dvector.git",
   "ssh_url": "git@github.com:yistLin/dvector.git",
   "clone_url": "https://github.com/yistLin/dvector.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 45,
+  "forks_count": 46,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 6,
+  "open_issues_count": 7,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -101,8 +101,8 @@
     "torchscript"
   ],
   "visibility": "public",
-  "forks": 45,
-  "open_issues": 6,
+  "forks": 46,
+  "open_issues": 7,
   "watchers": 253,
   "default_branch": "master",
   "permissions": {
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 551
+  "_index": 557
 }

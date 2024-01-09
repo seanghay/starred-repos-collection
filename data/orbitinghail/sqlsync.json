@@ -65,19 +65,19 @@
   "releases_url": "https://api.github.com/repos/orbitinghail/sqlsync/releases{/id}",
   "deployments_url": "https://api.github.com/repos/orbitinghail/sqlsync/deployments",
   "created_at": "2023-05-26T15:52:29Z",
-  "updated_at": "2024-01-07T23:57:22Z",
-  "pushed_at": "2024-01-08T00:28:21Z",
+  "updated_at": "2024-01-08T22:12:46Z",
+  "pushed_at": "2024-01-08T21:57:00Z",
   "git_url": "git://github.com/orbitinghail/sqlsync.git",
   "ssh_url": "git@github.com:orbitinghail/sqlsync.git",
   "clone_url": "https://github.com/orbitinghail/sqlsync.git",
   "svn_url": "https://github.com/orbitinghail/sqlsync",
   "homepage": "https://sqlsync.dev",
-  "size": 792,
-  "stargazers_count": 1553,
-  "watchers_count": 1553,
+  "size": 868,
+  "stargazers_count": 1558,
+  "watchers_count": 1558,
   "language": "Rust",
   "has_issues": true,
-  "has_projects": true,
+  "has_projects": false,
   "has_downloads": true,
   "has_wiki": false,
   "has_pages": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 23,
+  "open_issues_count": 22,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -109,8 +109,8 @@
   ],
   "visibility": "public",
   "forks": 17,
-  "open_issues": 23,
-  "watchers": 1553,
+  "open_issues": 22,
+  "watchers": 1558,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 100
+  "_index": 106
 }

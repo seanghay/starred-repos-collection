@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/KilledByAPixel/LittleJS",
-  "description": "The Tiny JavaScript Game Engine That Can! 🚂",
+  "description": "LittleJS is a lightweight HTML5 game engine with many features and no depenencies. 🚂 Choo-Choo!",
   "fork": false,
   "url": "https://api.github.com/repos/KilledByAPixel/LittleJS",
   "forks_url": "https://api.github.com/repos/KilledByAPixel/LittleJS/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/KilledByAPixel/LittleJS/releases{/id}",
   "deployments_url": "https://api.github.com/repos/KilledByAPixel/LittleJS/deployments",
   "created_at": "2021-09-23T21:34:48Z",
-  "updated_at": "2024-01-07T22:27:54Z",
-  "pushed_at": "2024-01-07T03:28:34Z",
+  "updated_at": "2024-01-08T19:03:47Z",
+  "pushed_at": "2024-01-08T19:11:57Z",
   "git_url": "git://github.com/KilledByAPixel/LittleJS.git",
   "ssh_url": "git@github.com:KilledByAPixel/LittleJS.git",
   "clone_url": "https://github.com/KilledByAPixel/LittleJS.git",
   "svn_url": "https://github.com/KilledByAPixel/LittleJS",
   "homepage": "",
-  "size": 5136,
-  "stargazers_count": 2664,
-  "watchers_count": 2664,
+  "size": 5170,
+  "stargazers_count": 2665,
+  "watchers_count": 2665,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -115,7 +115,7 @@
   "visibility": "public",
   "forks": 134,
   "open_issues": 2,
-  "watchers": 2664,
+  "watchers": 2665,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1581
+  "_index": 1587
 }

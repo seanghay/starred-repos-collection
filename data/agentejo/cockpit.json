@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 536,
+  "forks_count": 537,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -111,7 +111,7 @@
     "riotjs"
   ],
   "visibility": "public",
-  "forks": 536,
+  "forks": 537,
   "open_issues": 296,
   "watchers": 5383,
   "default_branch": "next",
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1785
+  "_index": 1791
 }

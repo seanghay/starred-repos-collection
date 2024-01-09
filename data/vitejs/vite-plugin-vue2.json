@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/vitejs/vite-plugin-vue2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vitejs/vite-plugin-vue2/deployments",
   "created_at": "2022-06-17T03:01:04Z",
-  "updated_at": "2024-01-05T01:39:36Z",
+  "updated_at": "2024-01-08T05:22:32Z",
   "pushed_at": "2023-11-16T21:51:12Z",
   "git_url": "git://github.com/vitejs/vite-plugin-vue2.git",
   "ssh_url": "git@github.com:vitejs/vite-plugin-vue2.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/vitejs/vite-plugin-vue2",
   "homepage": null,
   "size": 151,
-  "stargazers_count": 507,
-  "watchers_count": 507,
+  "stargazers_count": 508,
+  "watchers_count": 508,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 45,
+  "forks_count": 46,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 45,
+  "forks": 46,
   "open_issues": 40,
-  "watchers": 507,
+  "watchers": 508,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1284
+  "_index": 1290
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/swimlane/ngx-graph/releases{/id}",
   "deployments_url": "https://api.github.com/repos/swimlane/ngx-graph/deployments",
   "created_at": "2017-02-23T17:18:33Z",
-  "updated_at": "2024-01-03T14:14:35Z",
+  "updated_at": "2024-01-08T14:52:21Z",
   "pushed_at": "2024-01-04T19:01:48Z",
   "git_url": "git://github.com/swimlane/ngx-graph.git",
   "ssh_url": "git@github.com:swimlane/ngx-graph.git",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3306
+  "_index": 3312
 }

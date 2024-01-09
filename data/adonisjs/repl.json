@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/adonisjs/repl.git",
   "svn_url": "https://github.com/adonisjs/repl",
   "homepage": "",
-  "size": 3155,
+  "size": 3156,
   "stargazers_count": 91,
   "watchers_count": 91,
   "language": "TypeScript",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 5,
+  "forks_count": 4,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -101,7 +101,7 @@
     "bundled-with-core"
   ],
   "visibility": "public",
-  "forks": 5,
+  "forks": 4,
   "open_issues": 0,
   "watchers": 91,
   "default_branch": "develop",
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2023
+  "_index": 2029
 }
