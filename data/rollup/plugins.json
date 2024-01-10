@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/rollup/plugins/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rollup/plugins/deployments",
   "created_at": "2019-08-21T15:02:50Z",
-  "updated_at": "2024-01-08T18:07:16Z",
-  "pushed_at": "2023-12-30T12:31:59Z",
+  "updated_at": "2024-01-09T10:24:20Z",
+  "pushed_at": "2024-01-09T17:08:45Z",
   "git_url": "git://github.com/rollup/plugins.git",
   "ssh_url": "git@github.com:rollup/plugins.git",
   "clone_url": "https://github.com/rollup/plugins.git",
   "svn_url": "https://github.com/rollup/plugins",
   "homepage": null,
-  "size": 6905,
-  "stargazers_count": 3421,
-  "watchers_count": 3421,
+  "size": 6904,
+  "stargazers_count": 3420,
+  "watchers_count": 3420,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 44,
+  "open_issues_count": 43,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,8 +104,8 @@
   ],
   "visibility": "public",
   "forks": 544,
-  "open_issues": 44,
-  "watchers": 3421,
+  "open_issues": 43,
+  "watchers": 3420,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1693
+  "_index": 1696
 }

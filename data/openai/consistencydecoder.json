@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/openai/consistencydecoder/releases{/id}",
   "deployments_url": "https://api.github.com/repos/openai/consistencydecoder/deployments",
   "created_at": "2023-11-02T13:06:36Z",
-  "updated_at": "2024-01-08T11:41:24Z",
+  "updated_at": "2024-01-09T19:59:23Z",
   "pushed_at": "2023-11-07T11:21:38Z",
   "git_url": "git://github.com/openai/consistencydecoder.git",
   "ssh_url": "git@github.com:openai/consistencydecoder.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/openai/consistencydecoder",
   "homepage": null,
   "size": 791,
-  "stargazers_count": 1956,
-  "watchers_count": 1956,
+  "stargazers_count": 1957,
+  "watchers_count": 1957,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 70,
   "open_issues": 17,
-  "watchers": 1956,
+  "watchers": 1957,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 139
+  "_index": 142
 }

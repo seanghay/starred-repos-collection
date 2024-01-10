@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/quilljs/delta/deployments",
   "created_at": "2016-10-08T02:37:13Z",
   "updated_at": "2024-01-03T10:13:41Z",
-  "pushed_at": "2023-07-03T23:33:21Z",
+  "pushed_at": "2024-01-09T04:08:55Z",
   "git_url": "git://github.com/quilljs/delta.git",
   "ssh_url": "git@github.com:quilljs/delta.git",
   "clone_url": "https://github.com/quilljs/delta.git",
   "svn_url": "https://github.com/quilljs/delta",
   "homepage": null,
-  "size": 480,
+  "size": 424,
   "stargazers_count": 798,
   "watchers_count": 798,
   "language": "TypeScript",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2418
+  "_index": 2421
 }

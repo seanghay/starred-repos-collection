@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/traefik/traefik/releases{/id}",
   "deployments_url": "https://api.github.com/repos/traefik/traefik/deployments",
   "created_at": "2015-09-13T19:04:02Z",
-  "updated_at": "2024-01-08T21:06:57Z",
-  "pushed_at": "2024-01-08T08:53:54Z",
+  "updated_at": "2024-01-10T01:06:45Z",
+  "pushed_at": "2024-01-09T19:26:06Z",
   "git_url": "git://github.com/traefik/traefik.git",
   "ssh_url": "git@github.com:traefik/traefik.git",
   "clone_url": "https://github.com/traefik/traefik.git",
   "svn_url": "https://github.com/traefik/traefik",
   "homepage": "https://traefik.io",
-  "size": 120452,
-  "stargazers_count": 46120,
-  "watchers_count": 46120,
+  "size": 120531,
+  "stargazers_count": 46134,
+  "watchers_count": 46134,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 696,
+  "open_issues_count": 693,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -115,8 +115,8 @@
   ],
   "visibility": "public",
   "forks": 4819,
-  "open_issues": 696,
-  "watchers": 46120,
+  "open_issues": 693,
+  "watchers": 46134,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1947
+  "_index": 1950
 }

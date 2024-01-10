@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/huggingface/speechbox/releases{/id}",
   "deployments_url": "https://api.github.com/repos/huggingface/speechbox/deployments",
   "created_at": "2022-12-26T16:32:01Z",
-  "updated_at": "2024-01-04T17:14:25Z",
+  "updated_at": "2024-01-09T17:11:03Z",
   "pushed_at": "2023-12-26T16:27:56Z",
   "git_url": "git://github.com/huggingface/speechbox.git",
   "ssh_url": "git@github.com:huggingface/speechbox.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 707
+  "_index": 710
 }

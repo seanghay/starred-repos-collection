@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/htop-dev/htop/releases{/id}",
   "deployments_url": "https://api.github.com/repos/htop-dev/htop/deployments",
   "created_at": "2020-08-17T04:26:40Z",
-  "updated_at": "2024-01-08T23:22:02Z",
-  "pushed_at": "2024-01-08T20:36:00Z",
+  "updated_at": "2024-01-10T01:35:17Z",
+  "pushed_at": "2024-01-09T22:59:32Z",
   "git_url": "git://github.com/htop-dev/htop.git",
   "ssh_url": "git@github.com:htop-dev/htop.git",
   "clone_url": "https://github.com/htop-dev/htop.git",
   "svn_url": "https://github.com/htop-dev/htop",
   "homepage": "https://htop.dev/",
-  "size": 5939,
-  "stargazers_count": 5584,
-  "watchers_count": 5584,
+  "size": 5907,
+  "stargazers_count": 5595,
+  "watchers_count": 5595,
   "language": "C",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 235,
+  "open_issues_count": 236,
   "license": {
     "key": "gpl-2.0",
     "name": "GNU General Public License v2.0",
@@ -110,8 +110,8 @@
   ],
   "visibility": "public",
   "forks": 367,
-  "open_issues": 235,
-  "watchers": 5584,
+  "open_issues": 236,
+  "watchers": 5595,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 675
+  "_index": 678
 }

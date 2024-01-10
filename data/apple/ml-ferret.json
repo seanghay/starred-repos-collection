@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/apple/ml-ferret/releases{/id}",
   "deployments_url": "https://api.github.com/repos/apple/ml-ferret/deployments",
   "created_at": "2023-10-06T21:39:03Z",
-  "updated_at": "2024-01-09T01:38:57Z",
+  "updated_at": "2024-01-10T01:41:08Z",
   "pushed_at": "2024-01-08T14:53:08Z",
   "git_url": "git://github.com/apple/ml-ferret.git",
   "ssh_url": "git@github.com:apple/ml-ferret.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/apple/ml-ferret",
   "homepage": null,
   "size": 5016,
-  "stargazers_count": 6187,
-  "watchers_count": 6187,
+  "stargazers_count": 6266,
+  "watchers_count": 6266,
   "language": "Python",
   "has_issues": false,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 309,
+  "forks_count": 313,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 309,
+  "forks": 313,
   "open_issues": 7,
-  "watchers": 6187,
+  "watchers": 6266,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 35
+  "_index": 38
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/sp-nitech/SPTK/deployments",
   "created_at": "2017-09-13T01:15:34Z",
   "updated_at": "2024-01-04T16:17:11Z",
-  "pushed_at": "2023-12-25T01:15:00Z",
+  "pushed_at": "2024-01-09T09:06:44Z",
   "git_url": "git://github.com/sp-nitech/SPTK.git",
   "ssh_url": "git@github.com:sp-nitech/SPTK.git",
   "clone_url": "https://github.com/sp-nitech/SPTK.git",
   "svn_url": "https://github.com/sp-nitech/SPTK",
   "homepage": "http://sp-tk.sourceforge.net",
-  "size": 5475,
+  "size": 5499,
   "stargazers_count": 197,
   "watchers_count": 197,
   "language": "C++",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 367
+  "_index": 370
 }

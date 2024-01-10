@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/google/speaker-id/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/speaker-id/deployments",
   "created_at": "2018-10-05T15:16:17Z",
-  "updated_at": "2024-01-06T07:05:02Z",
-  "pushed_at": "2024-01-09T01:51:12Z",
+  "updated_at": "2024-01-10T01:38:18Z",
+  "pushed_at": "2024-01-09T17:32:19Z",
   "git_url": "git://github.com/google/speaker-id.git",
   "ssh_url": "git@github.com:google/speaker-id.git",
   "clone_url": "https://github.com/google/speaker-id.git",
   "svn_url": "https://github.com/google/speaker-id",
   "homepage": "",
-  "size": 173634,
-  "stargazers_count": 265,
-  "watchers_count": 265,
+  "size": 178997,
+  "stargazers_count": 268,
+  "watchers_count": 268,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 37,
+  "forks_count": 38,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "speaker-verification"
   ],
   "visibility": "public",
-  "forks": 37,
+  "forks": 38,
   "open_issues": 0,
-  "watchers": 265,
+  "watchers": 268,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 698
+  "_index": 701
 }

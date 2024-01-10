@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Kyubyong/g2p/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Kyubyong/g2p/deployments",
   "created_at": "2018-05-10T01:07:16Z",
-  "updated_at": "2024-01-08T02:58:52Z",
+  "updated_at": "2024-01-09T18:59:38Z",
   "pushed_at": "2023-01-05T01:52:10Z",
   "git_url": "git://github.com/Kyubyong/g2p.git",
   "ssh_url": "git@github.com:Kyubyong/g2p.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Kyubyong/g2p",
   "homepage": "",
   "size": 7471,
-  "stargazers_count": 721,
-  "watchers_count": 721,
+  "stargazers_count": 724,
+  "watchers_count": 724,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 121,
   "open_issues": 26,
-  "watchers": 721,
+  "watchers": 724,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 513
+  "_index": 516
 }

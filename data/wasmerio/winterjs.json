@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/wasmerio/winterjs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wasmerio/winterjs/deployments",
   "created_at": "2023-09-21T17:46:09Z",
-  "updated_at": "2024-01-07T20:00:02Z",
-  "pushed_at": "2024-01-08T21:22:01Z",
+  "updated_at": "2024-01-09T11:13:24Z",
+  "pushed_at": "2024-01-09T11:51:37Z",
   "git_url": "git://github.com/wasmerio/winterjs.git",
   "ssh_url": "git@github.com:wasmerio/winterjs.git",
   "clone_url": "https://github.com/wasmerio/winterjs.git",
   "svn_url": "https://github.com/wasmerio/winterjs",
   "homepage": "",
-  "size": 225658,
-  "stargazers_count": 841,
-  "watchers_count": 841,
+  "size": 225694,
+  "stargazers_count": 842,
+  "watchers_count": 842,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 14,
+  "open_issues_count": 12,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -94,8 +94,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 10,
-  "open_issues": 14,
-  "watchers": 841,
+  "open_issues": 12,
+  "watchers": 842,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 160
+  "_index": 163
 }

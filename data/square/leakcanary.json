@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/square/leakcanary/releases{/id}",
   "deployments_url": "https://api.github.com/repos/square/leakcanary/deployments",
   "created_at": "2015-04-29T23:54:16Z",
-  "updated_at": "2024-01-08T21:47:59Z",
-  "pushed_at": "2024-01-09T01:52:02Z",
+  "updated_at": "2024-01-10T00:21:40Z",
+  "pushed_at": "2024-01-09T16:07:34Z",
   "git_url": "git://github.com/square/leakcanary.git",
   "ssh_url": "git@github.com:square/leakcanary.git",
   "clone_url": "https://github.com/square/leakcanary.git",
   "svn_url": "https://github.com/square/leakcanary",
   "homepage": "https://square.github.io/leakcanary",
-  "size": 141752,
-  "stargazers_count": 28915,
-  "watchers_count": 28915,
+  "size": 142938,
+  "stargazers_count": 28916,
+  "watchers_count": 28916,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 3990,
+  "forks_count": 3992,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 79,
+  "open_issues_count": 78,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -110,9 +110,9 @@
     "outofmemoryerror"
   ],
   "visibility": "public",
-  "forks": 3990,
-  "open_issues": 79,
-  "watchers": 28915,
+  "forks": 3992,
+  "open_issues": 78,
+  "watchers": 28916,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2337
+  "_index": 2340
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/PaddlePaddle/FastDeploy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/PaddlePaddle/FastDeploy/deployments",
   "created_at": "2022-06-27T10:22:10Z",
-  "updated_at": "2024-01-08T08:57:34Z",
+  "updated_at": "2024-01-09T14:42:20Z",
   "pushed_at": "2023-12-28T07:04:07Z",
   "git_url": "git://github.com/PaddlePaddle/FastDeploy.git",
   "ssh_url": "git@github.com:PaddlePaddle/FastDeploy.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/PaddlePaddle/FastDeploy",
   "homepage": "https://www.paddlepaddle.org.cn/fastdeploy",
   "size": 38709,
-  "stargazers_count": 2534,
-  "watchers_count": 2534,
+  "stargazers_count": 2536,
+  "watchers_count": 2536,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 414,
+  "forks_count": 415,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 708,
+  "open_issues_count": 711,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -117,9 +117,9 @@
     "yolov8"
   ],
   "visibility": "public",
-  "forks": 414,
-  "open_issues": 708,
-  "watchers": 2534,
+  "forks": 415,
+  "open_issues": 711,
+  "watchers": 2536,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 66
+  "_index": 69
 }

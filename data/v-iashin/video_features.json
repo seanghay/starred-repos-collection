@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/v-iashin/video_features/releases{/id}",
   "deployments_url": "https://api.github.com/repos/v-iashin/video_features/deployments",
   "created_at": "2020-06-01T17:57:03Z",
-  "updated_at": "2024-01-07T08:18:10Z",
+  "updated_at": "2024-01-09T20:00:05Z",
   "pushed_at": "2023-12-22T14:02:12Z",
   "git_url": "git://github.com/v-iashin/video_features.git",
   "ssh_url": "git@github.com:v-iashin/video_features.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/v-iashin/video_features",
   "homepage": "https://v-iashin.github.io/video_features",
   "size": 295419,
-  "stargazers_count": 393,
-  "watchers_count": 393,
+  "stargazers_count": 392,
+  "watchers_count": 392,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 78,
+  "forks_count": 79,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -118,9 +118,9 @@
     "windows"
   ],
   "visibility": "public",
-  "forks": 78,
+  "forks": 79,
   "open_issues": 19,
-  "watchers": 393,
+  "watchers": 392,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 16
+  "_index": 19
 }

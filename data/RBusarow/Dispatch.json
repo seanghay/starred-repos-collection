@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/RBusarow/Dispatch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/RBusarow/Dispatch/deployments",
   "created_at": "2019-09-04T03:33:06Z",
-  "updated_at": "2023-07-18T11:25:54Z",
+  "updated_at": "2024-01-10T00:07:57Z",
   "pushed_at": "2023-10-07T03:38:08Z",
   "git_url": "git://github.com/RBusarow/Dispatch.git",
   "ssh_url": "git@github.com:RBusarow/Dispatch.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/RBusarow/Dispatch",
   "homepage": "https://rbusarow.github.io/Dispatch/",
   "size": 9046,
-  "stargazers_count": 133,
-  "watchers_count": 133,
+  "stargazers_count": 132,
+  "watchers_count": 132,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 6,
   "open_issues": 21,
-  "watchers": 133,
+  "watchers": 132,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1878
+  "_index": 1881
 }

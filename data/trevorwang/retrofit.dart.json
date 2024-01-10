@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/trevorwang/retrofit.dart/releases{/id}",
   "deployments_url": "https://api.github.com/repos/trevorwang/retrofit.dart/deployments",
   "created_at": "2019-04-05T07:42:33Z",
-  "updated_at": "2024-01-02T18:27:02Z",
+  "updated_at": "2024-01-09T09:35:37Z",
   "pushed_at": "2023-12-31T11:49:50Z",
   "git_url": "git://github.com/trevorwang/retrofit.dart.git",
   "ssh_url": "git@github.com:trevorwang/retrofit.dart.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/trevorwang/retrofit.dart",
   "homepage": "https://mings.in/retrofit.dart/",
   "size": 1388,
-  "stargazers_count": 992,
-  "watchers_count": 992,
+  "stargazers_count": 993,
+  "watchers_count": 993,
   "language": "Dart",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 68,
+  "open_issues_count": 69,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,8 +108,8 @@
   ],
   "visibility": "public",
   "forks": 229,
-  "open_issues": 68,
-  "watchers": 992,
+  "open_issues": 69,
+  "watchers": 993,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1765
+  "_index": 1768
 }

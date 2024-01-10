@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/orbitinghail/sqlsync/releases{/id}",
   "deployments_url": "https://api.github.com/repos/orbitinghail/sqlsync/deployments",
   "created_at": "2023-05-26T15:52:29Z",
-  "updated_at": "2024-01-08T22:12:46Z",
-  "pushed_at": "2024-01-08T21:57:00Z",
+  "updated_at": "2024-01-09T22:08:17Z",
+  "pushed_at": "2024-01-09T22:39:17Z",
   "git_url": "git://github.com/orbitinghail/sqlsync.git",
   "ssh_url": "git@github.com:orbitinghail/sqlsync.git",
   "clone_url": "https://github.com/orbitinghail/sqlsync.git",
   "svn_url": "https://github.com/orbitinghail/sqlsync",
   "homepage": "https://sqlsync.dev",
-  "size": 868,
+  "size": 942,
   "stargazers_count": 1558,
   "watchers_count": 1558,
   "language": "Rust",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 106
+  "_index": 109
 }

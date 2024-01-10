@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/marmelab/react-admin/releases{/id}",
   "deployments_url": "https://api.github.com/repos/marmelab/react-admin/deployments",
   "created_at": "2016-07-13T07:58:54Z",
-  "updated_at": "2024-01-08T19:46:22Z",
-  "pushed_at": "2024-01-08T17:49:41Z",
+  "updated_at": "2024-01-09T21:39:51Z",
+  "pushed_at": "2024-01-09T22:05:02Z",
   "git_url": "git://github.com/marmelab/react-admin.git",
   "ssh_url": "git@github.com:marmelab/react-admin.git",
   "clone_url": "https://github.com/marmelab/react-admin.git",
   "svn_url": "https://github.com/marmelab/react-admin",
   "homepage": "http://marmelab.com/react-admin",
-  "size": 374969,
-  "stargazers_count": 23378,
-  "watchers_count": 23378,
+  "size": 374995,
+  "stargazers_count": 23382,
+  "watchers_count": 23382,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 5132,
+  "forks_count": 5133,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 109,
+  "open_issues_count": 108,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,9 +112,9 @@
     "single-page-app"
   ],
   "visibility": "public",
-  "forks": 5132,
-  "open_issues": 109,
-  "watchers": 23378,
+  "forks": 5133,
+  "open_issues": 108,
+  "watchers": 23382,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2015
+  "_index": 2018
 }
