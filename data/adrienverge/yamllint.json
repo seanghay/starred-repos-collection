@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/adrienverge/yamllint/deployments",
   "created_at": "2016-01-11T08:26:36Z",
   "updated_at": "2024-01-09T23:25:51Z",
-  "pushed_at": "2024-01-09T23:35:49Z",
+  "pushed_at": "2024-01-10T14:17:22Z",
   "git_url": "git://github.com/adrienverge/yamllint.git",
   "ssh_url": "git@github.com:adrienverge/yamllint.git",
   "clone_url": "https://github.com/adrienverge/yamllint.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 107,
+  "open_issues_count": 108,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -105,7 +105,7 @@
   ],
   "visibility": "public",
   "forks": 261,
-  "open_issues": 107,
+  "open_issues": 108,
   "watchers": 2590,
   "default_branch": "master",
   "permissions": {
