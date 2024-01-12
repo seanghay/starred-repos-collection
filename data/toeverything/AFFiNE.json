@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/toeverything/AFFiNE",
-  "description": "There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
+  "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
   "fork": false,
   "url": "https://api.github.com/repos/toeverything/AFFiNE",
   "forks_url": "https://api.github.com/repos/toeverything/AFFiNE/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/toeverything/AFFiNE/releases{/id}",
   "deployments_url": "https://api.github.com/repos/toeverything/AFFiNE/deployments",
   "created_at": "2022-07-31T18:45:21Z",
-  "updated_at": "2024-01-11T00:50:12Z",
-  "pushed_at": "2024-01-10T22:10:45Z",
+  "updated_at": "2024-01-12T01:35:07Z",
+  "pushed_at": "2024-01-12T01:36:09Z",
   "git_url": "git://github.com/toeverything/AFFiNE.git",
   "ssh_url": "git@github.com:toeverything/AFFiNE.git",
   "clone_url": "https://github.com/toeverything/AFFiNE.git",
   "svn_url": "https://github.com/toeverything/AFFiNE",
   "homepage": "https://affine.pro",
-  "size": 264758,
-  "stargazers_count": 24801,
-  "watchers_count": 24801,
+  "size": 264817,
+  "stargazers_count": 24830,
+  "watchers_count": 24830,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1802,
+  "forks_count": 1804,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 315,
+  "open_issues_count": 314,
   "license": {
     "key": "other",
     "name": "Other",
@@ -118,9 +118,9 @@
     "workspace"
   ],
   "visibility": "public",
-  "forks": 1802,
-  "open_issues": 315,
-  "watchers": 24801,
+  "forks": 1804,
+  "open_issues": 314,
+  "watchers": 24830,
   "default_branch": "canary",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 860
+  "_index": 866
 }

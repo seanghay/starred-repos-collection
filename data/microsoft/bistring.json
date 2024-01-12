@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/microsoft/bistring/deployments",
   "created_at": "2019-06-07T17:04:27Z",
   "updated_at": "2024-01-04T16:34:39Z",
-  "pushed_at": "2023-10-18T11:52:12Z",
+  "pushed_at": "2024-01-11T21:12:10Z",
   "git_url": "git://github.com/microsoft/bistring.git",
   "ssh_url": "git@github.com:microsoft/bistring.git",
   "clone_url": "https://github.com/microsoft/bistring.git",
   "svn_url": "https://github.com/microsoft/bistring",
   "homepage": null,
-  "size": 999,
+  "size": 1001,
   "stargazers_count": 367,
   "watchers_count": 367,
   "language": "Python",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 5,
+  "open_issues_count": 6,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,7 +103,7 @@
   ],
   "visibility": "public",
   "forks": 19,
-  "open_issues": 5,
+  "open_issues": 6,
   "watchers": 367,
   "default_branch": "master",
   "permissions": {
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 13
+  "_index": 19
 }

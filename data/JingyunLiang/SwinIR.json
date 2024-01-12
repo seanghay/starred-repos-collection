@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/JingyunLiang/SwinIR/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JingyunLiang/SwinIR/deployments",
   "created_at": "2021-08-16T11:50:30Z",
-  "updated_at": "2024-01-10T17:58:47Z",
+  "updated_at": "2024-01-11T14:10:24Z",
   "pushed_at": "2023-04-27T20:52:27Z",
   "git_url": "git://github.com/JingyunLiang/SwinIR.git",
   "ssh_url": "git@github.com:JingyunLiang/SwinIR.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/JingyunLiang/SwinIR",
   "homepage": "https://arxiv.org/abs/2108.10257",
   "size": 30550,
-  "stargazers_count": 3860,
-  "watchers_count": 3860,
+  "stargazers_count": 3864,
+  "watchers_count": 3864,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -118,7 +118,7 @@
   "visibility": "public",
   "forks": 478,
   "open_issues": 54,
-  "watchers": 3860,
+  "watchers": 3864,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 808
+  "_index": 814
 }

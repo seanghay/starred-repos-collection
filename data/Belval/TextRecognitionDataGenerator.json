@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Belval/TextRecognitionDataGenerator/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Belval/TextRecognitionDataGenerator/deployments",
   "created_at": "2017-07-01T20:11:40Z",
-  "updated_at": "2024-01-10T23:57:27Z",
+  "updated_at": "2024-01-11T06:10:56Z",
   "pushed_at": "2023-12-25T14:12:16Z",
   "git_url": "git://github.com/Belval/TextRecognitionDataGenerator.git",
   "ssh_url": "git@github.com:Belval/TextRecognitionDataGenerator.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Belval/TextRecognitionDataGenerator",
   "homepage": null,
   "size": 156288,
-  "stargazers_count": 2918,
-  "watchers_count": 2918,
+  "stargazers_count": 2920,
+  "watchers_count": 2920,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 902,
+  "forks_count": 903,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 136,
+  "open_issues_count": 137,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,9 +108,9 @@
     "training-set-generator"
   ],
   "visibility": "public",
-  "forks": 902,
-  "open_issues": 136,
-  "watchers": 2918,
+  "forks": 903,
+  "open_issues": 137,
+  "watchers": 2920,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 111
+  "_index": 117
 }

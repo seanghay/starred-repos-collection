@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/georust/geo/releases{/id}",
   "deployments_url": "https://api.github.com/repos/georust/geo/deployments",
   "created_at": "2015-01-16T01:00:41Z",
-  "updated_at": "2024-01-10T17:13:14Z",
-  "pushed_at": "2024-01-11T01:36:43Z",
+  "updated_at": "2024-01-11T09:38:56Z",
+  "pushed_at": "2024-01-11T13:53:23Z",
   "git_url": "git://github.com/georust/geo.git",
   "ssh_url": "git@github.com:georust/geo.git",
   "clone_url": "https://github.com/georust/geo.git",
   "svn_url": "https://github.com/georust/geo",
   "homepage": "https://crates.io/crates/geo",
   "size": 10538,
-  "stargazers_count": 1326,
-  "watchers_count": 1326,
+  "stargazers_count": 1327,
+  "watchers_count": 1327,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 224,
   "open_issues": 118,
-  "watchers": 1326,
+  "watchers": 1327,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 152
+  "_index": 158
 }

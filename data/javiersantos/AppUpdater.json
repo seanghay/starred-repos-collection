@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/javiersantos/AppUpdater/releases{/id}",
   "deployments_url": "https://api.github.com/repos/javiersantos/AppUpdater/deployments",
   "created_at": "2016-02-02T18:10:59Z",
-  "updated_at": "2024-01-02T20:20:03Z",
+  "updated_at": "2024-01-11T18:41:26Z",
   "pushed_at": "2023-12-23T22:57:36Z",
   "git_url": "git://github.com/javiersantos/AppUpdater.git",
   "ssh_url": "git@github.com:javiersantos/AppUpdater.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/javiersantos/AppUpdater",
   "homepage": "",
   "size": 3692,
-  "stargazers_count": 1942,
-  "watchers_count": 1942,
+  "stargazers_count": 1940,
+  "watchers_count": 1940,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 422,
   "open_issues": 58,
-  "watchers": 1942,
+  "watchers": 1940,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2554
+  "_index": 2560
 }

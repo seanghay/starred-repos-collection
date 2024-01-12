@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ikatyang/emoji-cheat-sheet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ikatyang/emoji-cheat-sheet/deployments",
   "created_at": "2017-03-17T15:18:39Z",
-  "updated_at": "2024-01-11T01:42:37Z",
+  "updated_at": "2024-01-11T23:07:01Z",
   "pushed_at": "2024-01-09T07:40:43Z",
   "git_url": "git://github.com/ikatyang/emoji-cheat-sheet.git",
   "ssh_url": "git@github.com:ikatyang/emoji-cheat-sheet.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ikatyang/emoji-cheat-sheet",
   "homepage": "",
   "size": 31996,
-  "stargazers_count": 11387,
-  "watchers_count": 11387,
+  "stargazers_count": 11391,
+  "watchers_count": 11391,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 4507,
   "open_issues": 52,
-  "watchers": 11387,
+  "watchers": 11391,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2691
+  "_index": 2697
 }

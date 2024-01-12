@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/MZCretin/ExpandableTextView.git",
   "svn_url": "https://github.com/MZCretin/ExpandableTextView",
   "homepage": "",
-  "size": 38125,
+  "size": 38096,
   "stargazers_count": 1376,
   "watchers_count": 1376,
   "language": "Java",
@@ -107,5 +107,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2317
+  "_index": 2323
 }

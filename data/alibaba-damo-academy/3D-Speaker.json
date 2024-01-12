@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/alibaba-damo-academy/3D-Speaker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/alibaba-damo-academy/3D-Speaker/deployments",
   "created_at": "2023-03-06T04:05:27Z",
-  "updated_at": "2024-01-11T00:47:24Z",
-  "pushed_at": "2024-01-08T10:53:00Z",
+  "updated_at": "2024-01-12T01:41:15Z",
+  "pushed_at": "2024-01-11T04:49:18Z",
   "git_url": "git://github.com/alibaba-damo-academy/3D-Speaker.git",
   "ssh_url": "git@github.com:alibaba-damo-academy/3D-Speaker.git",
   "clone_url": "https://github.com/alibaba-damo-academy/3D-Speaker.git",
   "svn_url": "https://github.com/alibaba-damo-academy/3D-Speaker",
   "homepage": "",
-  "size": 2873,
-  "stargazers_count": 425,
-  "watchers_count": 425,
+  "size": 2877,
+  "stargazers_count": 430,
+  "watchers_count": 430,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 31,
+  "forks_count": 32,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 0,
+  "open_issues_count": 2,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -110,9 +110,9 @@
     "voxceleb"
   ],
   "visibility": "public",
-  "forks": 31,
-  "open_issues": 0,
-  "watchers": 425,
+  "forks": 32,
+  "open_issues": 2,
+  "watchers": 430,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 275
+  "_index": 281
 }

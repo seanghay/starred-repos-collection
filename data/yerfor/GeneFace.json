@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yerfor/GeneFace/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yerfor/GeneFace/deployments",
   "created_at": "2023-02-03T13:52:50Z",
-  "updated_at": "2024-01-11T00:40:05Z",
+  "updated_at": "2024-01-11T11:09:36Z",
   "pushed_at": "2023-12-16T13:56:31Z",
   "git_url": "git://github.com/yerfor/GeneFace.git",
   "ssh_url": "git@github.com:yerfor/GeneFace.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yerfor/GeneFace",
   "homepage": "",
   "size": 181315,
-  "stargazers_count": 1986,
-  "watchers_count": 1986,
+  "stargazers_count": 1992,
+  "watchers_count": 1992,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 251,
   "open_issues": 95,
-  "watchers": 1986,
+  "watchers": 1992,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 582
+  "_index": 588
 }

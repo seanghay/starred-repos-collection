@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/docker/awesome-compose/releases{/id}",
   "deployments_url": "https://api.github.com/repos/docker/awesome-compose/deployments",
   "created_at": "2020-02-13T08:51:42Z",
-  "updated_at": "2024-01-11T01:09:19Z",
+  "updated_at": "2024-01-12T01:47:09Z",
   "pushed_at": "2024-01-10T13:38:28Z",
   "git_url": "git://github.com/docker/awesome-compose.git",
   "ssh_url": "git@github.com:docker/awesome-compose.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/docker/awesome-compose",
   "homepage": "https://docs.docker.com/compose/",
   "size": 6066,
-  "stargazers_count": 28007,
-  "watchers_count": 28007,
+  "stargazers_count": 28028,
+  "watchers_count": 28028,
   "language": "HTML",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 5440,
+  "forks_count": 5442,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 141,
+  "open_issues_count": 142,
   "license": {
     "key": "cc0-1.0",
     "name": "Creative Commons Zero v1.0 Universal",
@@ -103,9 +103,9 @@
     "docker-compose"
   ],
   "visibility": "public",
-  "forks": 5440,
-  "open_issues": 141,
-  "watchers": 28007,
+  "forks": 5442,
+  "open_issues": 142,
+  "watchers": 28028,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1504
+  "_index": 1510
 }

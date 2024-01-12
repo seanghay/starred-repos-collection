@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/charmbracelet/glow/releases{/id}",
   "deployments_url": "https://api.github.com/repos/charmbracelet/glow/deployments",
   "created_at": "2019-11-04T23:34:55Z",
-  "updated_at": "2024-01-10T22:21:56Z",
+  "updated_at": "2024-01-12T01:05:59Z",
   "pushed_at": "2023-12-11T13:28:39Z",
   "git_url": "git://github.com/charmbracelet/glow.git",
   "ssh_url": "git@github.com:charmbracelet/glow.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/charmbracelet/glow",
   "homepage": "",
   "size": 2889,
-  "stargazers_count": 14007,
-  "watchers_count": 14007,
+  "stargazers_count": 14016,
+  "watchers_count": 14016,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 313,
+  "forks_count": 314,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 136,
+  "open_issues_count": 137,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,9 +104,9 @@
     "markdown"
   ],
   "visibility": "public",
-  "forks": 313,
-  "open_issues": 136,
-  "watchers": 14007,
+  "forks": 314,
+  "open_issues": 137,
+  "watchers": 14016,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2104
+  "_index": 2110
 }

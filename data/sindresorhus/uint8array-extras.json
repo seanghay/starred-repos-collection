@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/uint8array-extras/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/uint8array-extras/deployments",
   "created_at": "2023-10-24T05:55:45Z",
-  "updated_at": "2024-01-10T13:05:03Z",
+  "updated_at": "2024-01-11T06:59:45Z",
   "pushed_at": "2024-01-06T22:11:34Z",
   "git_url": "git://github.com/sindresorhus/uint8array-extras.git",
   "ssh_url": "git@github.com:sindresorhus/uint8array-extras.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sindresorhus/uint8array-extras",
   "homepage": null,
   "size": 45,
-  "stargazers_count": 172,
-  "watchers_count": 172,
+  "stargazers_count": 173,
+  "watchers_count": 173,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 3,
   "open_issues": 0,
-  "watchers": 172,
+  "watchers": 173,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 172
+  "_index": 178
 }

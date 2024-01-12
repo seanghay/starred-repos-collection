@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ddlBoJack/MT4SSL/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ddlBoJack/MT4SSL/deployments",
   "created_at": "2022-10-24T08:27:18Z",
-  "updated_at": "2024-01-04T17:12:53Z",
+  "updated_at": "2024-01-11T05:17:11Z",
   "pushed_at": "2023-02-22T05:31:20Z",
   "git_url": "git://github.com/ddlBoJack/MT4SSL.git",
   "ssh_url": "git@github.com:ddlBoJack/MT4SSL.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ddlBoJack/MT4SSL",
   "homepage": "",
   "size": 353,
-  "stargazers_count": 34,
-  "watchers_count": 34,
+  "stargazers_count": 35,
+  "watchers_count": 35,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 3,
   "open_issues": 0,
-  "watchers": 34,
+  "watchers": 35,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 297
+  "_index": 303
 }

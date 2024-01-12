@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lllyasviel/ControlNet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lllyasviel/ControlNet/deployments",
   "created_at": "2023-02-01T02:43:30Z",
-  "updated_at": "2024-01-11T01:50:38Z",
+  "updated_at": "2024-01-12T01:48:16Z",
   "pushed_at": "2023-11-26T09:28:46Z",
   "git_url": "git://github.com/lllyasviel/ControlNet.git",
   "ssh_url": "git@github.com:lllyasviel/ControlNet.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lllyasviel/ControlNet",
   "homepage": "",
   "size": 125281,
-  "stargazers_count": 26040,
-  "watchers_count": 26040,
+  "stargazers_count": 26060,
+  "watchers_count": 26060,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2425,
+  "forks_count": 2426,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 378,
+  "open_issues_count": 379,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 2425,
-  "open_issues": 378,
-  "watchers": 26040,
+  "forks": 2426,
+  "open_issues": 379,
+  "watchers": 26060,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 880
+  "_index": 886
 }

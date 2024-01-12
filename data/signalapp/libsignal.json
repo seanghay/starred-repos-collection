@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/signalapp/libsignal.git",
   "svn_url": "https://github.com/signalapp/libsignal",
   "homepage": "",
-  "size": 5551,
+  "size": 5759,
   "stargazers_count": 2632,
   "watchers_count": 2632,
   "language": "Rust",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1253
+  "_index": 1259
 }
