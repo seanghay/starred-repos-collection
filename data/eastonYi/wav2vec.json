@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/eastonYi/wav2vec/releases{/id}",
   "deployments_url": "https://api.github.com/repos/eastonYi/wav2vec/deployments",
   "created_at": "2020-08-31T02:18:59Z",
-  "updated_at": "2024-01-08T10:51:35Z",
+  "updated_at": "2024-01-12T07:16:13Z",
   "pushed_at": "2020-09-21T00:54:55Z",
   "git_url": "git://github.com/eastonYi/wav2vec.git",
   "ssh_url": "git@github.com:eastonYi/wav2vec.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/eastonYi/wav2vec",
   "homepage": "",
   "size": 2845,
-  "stargazers_count": 108,
-  "watchers_count": 108,
+  "stargazers_count": 109,
+  "watchers_count": 109,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 18,
   "open_issues": 1,
-  "watchers": 108,
+  "watchers": 109,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 325
+  "_index": 327
 }

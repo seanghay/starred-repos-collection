@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/Nuitka/Nuitka/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Nuitka/Nuitka/deployments",
   "created_at": "2013-04-23T15:40:33Z",
-  "updated_at": "2024-01-11T20:29:07Z",
-  "pushed_at": "2024-01-11T10:34:12Z",
+  "updated_at": "2024-01-13T01:03:52Z",
+  "pushed_at": "2024-01-12T13:50:54Z",
   "git_url": "git://github.com/Nuitka/Nuitka.git",
   "ssh_url": "git@github.com:Nuitka/Nuitka.git",
   "clone_url": "https://github.com/Nuitka/Nuitka.git",
   "svn_url": "https://github.com/Nuitka/Nuitka",
   "homepage": "http://nuitka.net",
-  "size": 54057,
+  "size": 53949,
   "stargazers_count": 10301,
   "watchers_count": 10301,
   "language": "Python",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 86
+  "_index": 88
 }

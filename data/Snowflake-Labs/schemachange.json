@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Snowflake-Labs/schemachange/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Snowflake-Labs/schemachange/deployments",
   "created_at": "2018-08-27T06:24:28Z",
-  "updated_at": "2024-01-11T20:18:04Z",
+  "updated_at": "2024-01-12T11:04:59Z",
   "pushed_at": "2024-01-10T22:47:05Z",
   "git_url": "git://github.com/Snowflake-Labs/schemachange.git",
   "ssh_url": "git@github.com:Snowflake-Labs/schemachange.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 33
+  "_index": 35
 }

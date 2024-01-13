@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/dotanuki-labs/norris/deployments",
   "created_at": "2019-06-15T15:53:15Z",
   "updated_at": "2024-01-11T01:51:57Z",
-  "pushed_at": "2024-01-10T22:21:12Z",
+  "pushed_at": "2024-01-13T00:13:19Z",
   "git_url": "git://github.com/dotanuki-labs/norris.git",
   "ssh_url": "git@github.com:dotanuki-labs/norris.git",
   "clone_url": "https://github.com/dotanuki-labs/norris.git",
   "svn_url": "https://github.com/dotanuki-labs/norris",
   "homepage": "",
-  "size": 4705,
+  "size": 4698,
   "stargazers_count": 471,
   "watchers_count": 471,
   "language": "Kotlin",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1781
+  "_index": 1783
 }

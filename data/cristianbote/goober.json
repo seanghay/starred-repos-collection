@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/cristianbote/goober/releases{/id}",
   "deployments_url": "https://api.github.com/repos/cristianbote/goober/deployments",
   "created_at": "2019-01-31T11:14:38Z",
-  "updated_at": "2024-01-11T22:09:49Z",
-  "pushed_at": "2024-01-10T19:50:29Z",
+  "updated_at": "2024-01-12T14:46:21Z",
+  "pushed_at": "2024-01-12T19:25:57Z",
   "git_url": "git://github.com/cristianbote/goober.git",
   "ssh_url": "git@github.com:cristianbote/goober.git",
   "clone_url": "https://github.com/cristianbote/goober.git",
   "svn_url": "https://github.com/cristianbote/goober",
   "homepage": "https://goober.rocks",
   "size": 3883,
-  "stargazers_count": 3010,
-  "watchers_count": 3010,
+  "stargazers_count": 3009,
+  "watchers_count": 3009,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -115,7 +115,7 @@
   "visibility": "public",
   "forks": 154,
   "open_issues": 68,
-  "watchers": 3010,
+  "watchers": 3009,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1196
+  "_index": 1198
 }

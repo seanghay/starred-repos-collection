@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/denoland/eszip/deployments",
   "created_at": "2021-02-14T22:40:09Z",
   "updated_at": "2023-12-17T05:02:58Z",
-  "pushed_at": "2024-01-09T14:52:35Z",
+  "pushed_at": "2024-01-13T00:29:15Z",
   "git_url": "git://github.com/denoland/eszip.git",
   "ssh_url": "git@github.com:denoland/eszip.git",
   "clone_url": "https://github.com/denoland/eszip.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 23,
+  "forks_count": 24,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 8,
+  "open_issues_count": 9,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,8 +105,8 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 23,
-  "open_issues": 8,
+  "forks": 24,
+  "open_issues": 9,
   "watchers": 201,
   "default_branch": "main",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1172
+  "_index": 1174
 }

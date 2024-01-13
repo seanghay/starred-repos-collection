@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yangdongchao/InstructTTS/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yangdongchao/InstructTTS/deployments",
   "created_at": "2023-01-30T13:17:39Z",
-  "updated_at": "2024-01-04T17:15:01Z",
+  "updated_at": "2024-01-12T16:09:01Z",
   "pushed_at": "2023-06-19T08:45:11Z",
   "git_url": "git://github.com/yangdongchao/InstructTTS.git",
   "ssh_url": "git@github.com:yangdongchao/InstructTTS.git",
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 309
+  "_index": 311
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Rich-Harris/degit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Rich-Harris/degit/deployments",
   "created_at": "2017-07-31T17:44:38Z",
-  "updated_at": "2024-01-11T19:21:30Z",
-  "pushed_at": "2024-01-09T09:31:39Z",
+  "updated_at": "2024-01-12T23:53:03Z",
+  "pushed_at": "2024-01-12T02:06:07Z",
   "git_url": "git://github.com/Rich-Harris/degit.git",
   "ssh_url": "git@github.com:Rich-Harris/degit.git",
   "clone_url": "https://github.com/Rich-Harris/degit.git",
   "svn_url": "https://github.com/Rich-Harris/degit",
   "homepage": null,
   "size": 697,
-  "stargazers_count": 6418,
-  "watchers_count": 6418,
+  "stargazers_count": 6417,
+  "watchers_count": 6417,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 84,
+  "open_issues_count": 85,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 228,
-  "open_issues": 84,
-  "watchers": 6418,
+  "open_issues": 85,
+  "watchers": 6417,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1249
+  "_index": 1251
 }

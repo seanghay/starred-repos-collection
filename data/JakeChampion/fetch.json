@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/JakeChampion/fetch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JakeChampion/fetch/deployments",
   "created_at": "2014-10-13T00:26:19Z",
-  "updated_at": "2024-01-11T23:14:39Z",
+  "updated_at": "2024-01-12T21:45:30Z",
   "pushed_at": "2024-01-11T13:16:20Z",
   "git_url": "git://github.com/JakeChampion/fetch.git",
   "ssh_url": "git@github.com:JakeChampion/fetch.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/JakeChampion/fetch",
   "homepage": "",
   "size": 533,
-  "stargazers_count": 25794,
-  "watchers_count": 25794,
+  "stargazers_count": 25793,
+  "watchers_count": 25793,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 3242,
   "open_issues": 3,
-  "watchers": 25794,
+  "watchers": 25793,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2266
+  "_index": 2268
 }

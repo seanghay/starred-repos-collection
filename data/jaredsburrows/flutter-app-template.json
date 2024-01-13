@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/jaredsburrows/flutter-app-template/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jaredsburrows/flutter-app-template/deployments",
   "created_at": "2021-07-03T13:19:06Z",
-  "updated_at": "2023-12-24T10:39:19Z",
-  "pushed_at": "2023-12-22T16:03:40Z",
+  "updated_at": "2024-01-12T18:21:04Z",
+  "pushed_at": "2024-01-12T17:39:54Z",
   "git_url": "git://github.com/jaredsburrows/flutter-app-template.git",
   "ssh_url": "git@github.com:jaredsburrows/flutter-app-template.git",
   "clone_url": "https://github.com/jaredsburrows/flutter-app-template.git",
   "svn_url": "https://github.com/jaredsburrows/flutter-app-template",
   "homepage": "https://jaredsburrows.github.io/flutter-app-template/",
-  "size": 38908,
-  "stargazers_count": 4,
-  "watchers_count": 4,
+  "size": 38920,
+  "stargazers_count": 3,
+  "watchers_count": 3,
   "language": "Dart",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2,
+  "open_issues_count": 1,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 1,
-  "open_issues": 2,
-  "watchers": 4,
+  "open_issues": 1,
+  "watchers": 3,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1843
+  "_index": 1845
 }

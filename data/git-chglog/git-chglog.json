@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/git-chglog/git-chglog/releases{/id}",
   "deployments_url": "https://api.github.com/repos/git-chglog/git-chglog/deployments",
   "created_at": "2018-02-02T13:57:20Z",
-  "updated_at": "2024-01-10T06:19:51Z",
+  "updated_at": "2024-01-12T17:57:25Z",
   "pushed_at": "2023-12-30T16:47:14Z",
   "git_url": "git://github.com/git-chglog/git-chglog.git",
   "ssh_url": "git@github.com:git-chglog/git-chglog.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 280,
+  "forks_count": 279,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -112,7 +112,7 @@
     "keep-a-changelog"
   ],
   "visibility": "public",
-  "forks": 280,
+  "forks": 279,
   "open_issues": 106,
   "watchers": 2562,
   "default_branch": "master",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2044
+  "_index": 2046
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/k2-fsa/sherpa-ncnn/releases{/id}",
   "deployments_url": "https://api.github.com/repos/k2-fsa/sherpa-ncnn/deployments",
   "created_at": "2022-09-04T11:26:54Z",
-  "updated_at": "2024-01-11T11:16:02Z",
-  "pushed_at": "2024-01-04T05:56:58Z",
+  "updated_at": "2024-01-12T14:30:43Z",
+  "pushed_at": "2024-01-12T11:24:29Z",
   "git_url": "git://github.com/k2-fsa/sherpa-ncnn.git",
   "ssh_url": "git@github.com:k2-fsa/sherpa-ncnn.git",
   "clone_url": "https://github.com/k2-fsa/sherpa-ncnn.git",
   "svn_url": "https://github.com/k2-fsa/sherpa-ncnn",
   "homepage": "https://k2-fsa.github.io/sherpa/ncnn/index.html",
-  "size": 2074,
-  "stargazers_count": 663,
-  "watchers_count": 663,
+  "size": 2075,
+  "stargazers_count": 665,
+  "watchers_count": 665,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 108,
+  "forks_count": 109,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 42,
+  "open_issues_count": 43,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -103,9 +103,9 @@
     "speech-recognition"
   ],
   "visibility": "public",
-  "forks": 108,
-  "open_issues": 42,
-  "watchers": 663,
+  "forks": 109,
+  "open_issues": 43,
+  "watchers": 665,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 124
+  "_index": 126
 }

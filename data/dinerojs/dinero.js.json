@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/dinerojs/dinero.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/dinerojs/dinero.js/deployments",
   "created_at": "2018-03-10T23:56:04Z",
-  "updated_at": "2024-01-10T20:27:26Z",
+  "updated_at": "2024-01-12T16:53:19Z",
   "pushed_at": "2024-01-08T19:47:15Z",
   "git_url": "git://github.com/dinerojs/dinero.js.git",
   "ssh_url": "git@github.com:dinerojs/dinero.js.git",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1328
+  "_index": 1330
 }

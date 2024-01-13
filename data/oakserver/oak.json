@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/oakserver/oak/releases{/id}",
   "deployments_url": "https://api.github.com/repos/oakserver/oak/deployments",
   "created_at": "2018-12-12T10:20:46Z",
-  "updated_at": "2024-01-10T20:52:27Z",
-  "pushed_at": "2024-01-11T22:10:14Z",
+  "updated_at": "2024-01-12T14:46:35Z",
+  "pushed_at": "2024-01-12T09:33:52Z",
   "git_url": "git://github.com/oakserver/oak.git",
   "ssh_url": "git@github.com:oakserver/oak.git",
   "clone_url": "https://github.com/oakserver/oak.git",
   "svn_url": "https://github.com/oakserver/oak",
   "homepage": "https://oakserver.github.io/oak/",
   "size": 53832,
-  "stargazers_count": 4934,
-  "watchers_count": 4934,
+  "stargazers_count": 4933,
+  "watchers_count": 4933,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 54,
+  "open_issues_count": 53,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 240,
-  "open_issues": 54,
-  "watchers": 4934,
+  "open_issues": 53,
+  "watchers": 4933,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2271
+  "_index": 2273
 }

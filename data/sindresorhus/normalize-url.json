@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/normalize-url/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/normalize-url/deployments",
   "created_at": "2015-01-11T14:19:55Z",
-  "updated_at": "2024-01-09T10:26:25Z",
+  "updated_at": "2024-01-12T15:09:05Z",
   "pushed_at": "2024-01-04T21:29:14Z",
   "git_url": "git://github.com/sindresorhus/normalize-url.git",
   "ssh_url": "git@github.com:sindresorhus/normalize-url.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1433
+  "_index": 1435
 }

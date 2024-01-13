@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fundamentalvision/BEVFormer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fundamentalvision/BEVFormer/deployments",
   "created_at": "2022-03-30T12:32:32Z",
-  "updated_at": "2024-01-12T01:36:03Z",
+  "updated_at": "2024-01-12T07:46:21Z",
   "pushed_at": "2024-01-08T14:09:48Z",
   "git_url": "git://github.com/fundamentalvision/BEVFormer.git",
   "ssh_url": "git@github.com:fundamentalvision/BEVFormer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/fundamentalvision/BEVFormer",
   "homepage": "https://arxiv.org/abs/2203.17270",
   "size": 721,
-  "stargazers_count": 2609,
-  "watchers_count": 2609,
+  "stargazers_count": 2612,
+  "watchers_count": 2612,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 416,
   "open_issues": 111,
-  "watchers": 2609,
+  "watchers": 2612,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 128
+  "_index": 130
 }

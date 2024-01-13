@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/copybara/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/copybara/deployments",
   "created_at": "2016-09-08T16:44:40Z",
-  "updated_at": "2024-01-05T08:51:50Z",
+  "updated_at": "2024-01-12T14:49:04Z",
   "pushed_at": "2024-01-11T17:28:28Z",
   "git_url": "git://github.com/google/copybara.git",
   "ssh_url": "git@github.com:google/copybara.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/copybara",
   "homepage": "",
   "size": 11530,
-  "stargazers_count": 1901,
-  "watchers_count": 1901,
+  "stargazers_count": 1899,
+  "watchers_count": 1899,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 74,
+  "open_issues_count": 75,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 262,
-  "open_issues": 74,
-  "watchers": 1901,
+  "open_issues": 75,
+  "watchers": 1899,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2622
+  "_index": 2624
 }

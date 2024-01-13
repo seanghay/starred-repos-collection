@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/json-path/JsonPath/releases{/id}",
   "deployments_url": "https://api.github.com/repos/json-path/JsonPath/deployments",
   "created_at": "2011-01-24T13:19:19Z",
-  "updated_at": "2024-01-11T18:41:13Z",
+  "updated_at": "2024-01-13T00:27:35Z",
   "pushed_at": "2024-01-04T07:47:32Z",
   "git_url": "git://github.com/json-path/JsonPath.git",
   "ssh_url": "git@github.com:json-path/JsonPath.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1660,
+  "forks_count": 1662,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 383,
+  "open_issues_count": 384,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,8 +99,8 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 1660,
-  "open_issues": 383,
+  "forks": 1662,
+  "open_issues": 384,
   "watchers": 8429,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2206
+  "_index": 2208
 }

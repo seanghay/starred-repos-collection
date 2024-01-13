@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yeoman/stringify-object/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yeoman/stringify-object/deployments",
   "created_at": "2012-12-11T20:16:53Z",
-  "updated_at": "2023-12-16T06:37:55Z",
+  "updated_at": "2024-01-12T19:36:13Z",
   "pushed_at": "2023-08-13T05:36:24Z",
   "git_url": "git://github.com/yeoman/stringify-object.git",
   "ssh_url": "git@github.com:yeoman/stringify-object.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yeoman/stringify-object",
   "homepage": "",
   "size": 89,
-  "stargazers_count": 301,
-  "watchers_count": 301,
+  "stargazers_count": 302,
+  "watchers_count": 302,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 46,
+  "forks_count": 47,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 46,
+  "forks": 47,
   "open_issues": 5,
-  "watchers": 301,
+  "watchers": 302,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 944
+  "_index": 946
 }

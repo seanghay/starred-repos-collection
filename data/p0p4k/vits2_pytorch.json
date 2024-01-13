@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/p0p4k/vits2_pytorch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/p0p4k/vits2_pytorch/deployments",
   "created_at": "2023-08-03T22:31:52Z",
-  "updated_at": "2024-01-11T08:41:50Z",
+  "updated_at": "2024-01-12T13:09:34Z",
   "pushed_at": "2023-10-13T07:14:02Z",
   "git_url": "git://github.com/p0p4k/vits2_pytorch.git",
   "ssh_url": "git@github.com:p0p4k/vits2_pytorch.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/p0p4k/vits2_pytorch",
   "homepage": "https://arxiv.org/abs/2307.16430",
   "size": 8504,
-  "stargazers_count": 378,
-  "watchers_count": 378,
+  "stargazers_count": 377,
+  "watchers_count": 377,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 62,
+  "forks_count": 63,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "vits2"
   ],
   "visibility": "public",
-  "forks": 62,
+  "forks": 63,
   "open_issues": 4,
-  "watchers": 378,
+  "watchers": 377,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 10
+  "_index": 12
 }

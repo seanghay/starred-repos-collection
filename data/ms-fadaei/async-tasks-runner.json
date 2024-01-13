@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/ms-fadaei/async-tasks-runner/deployments",
   "created_at": "2021-11-05T15:23:16Z",
   "updated_at": "2023-11-10T08:43:39Z",
-  "pushed_at": "2024-01-05T14:06:40Z",
+  "pushed_at": "2024-01-12T17:28:56Z",
   "git_url": "git://github.com/ms-fadaei/async-tasks-runner.git",
   "ssh_url": "git@github.com:ms-fadaei/async-tasks-runner.git",
   "clone_url": "https://github.com/ms-fadaei/async-tasks-runner.git",
   "svn_url": "https://github.com/ms-fadaei/async-tasks-runner",
   "homepage": "",
-  "size": 277,
+  "size": 347,
   "stargazers_count": 62,
   "watchers_count": 62,
   "language": "TypeScript",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1562
+  "_index": 1564
 }

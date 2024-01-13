@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/svaarala/duktape/releases{/id}",
   "deployments_url": "https://api.github.com/repos/svaarala/duktape/deployments",
   "created_at": "2014-01-12T22:16:14Z",
-  "updated_at": "2024-01-11T21:49:33Z",
+  "updated_at": "2024-01-12T14:48:01Z",
   "pushed_at": "2023-10-12T18:26:17Z",
   "git_url": "git://github.com/svaarala/duktape.git",
   "ssh_url": "git@github.com:svaarala/duktape.git",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 103
+  "_index": 105
 }

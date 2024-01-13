@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fb55/htmlparser2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fb55/htmlparser2/deployments",
   "created_at": "2011-08-27T12:25:15Z",
-  "updated_at": "2024-01-11T23:57:03Z",
+  "updated_at": "2024-01-12T18:04:54Z",
   "pushed_at": "2024-01-11T12:14:49Z",
   "git_url": "git://github.com/fb55/htmlparser2.git",
   "ssh_url": "git@github.com:fb55/htmlparser2.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/fb55/htmlparser2",
   "homepage": "https://feedic.com/htmlparser2",
   "size": 5574,
-  "stargazers_count": 4147,
-  "watchers_count": 4147,
+  "stargazers_count": 4151,
+  "watchers_count": 4151,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 423,
+  "forks_count": 422,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "xml"
   ],
   "visibility": "public",
-  "forks": 423,
+  "forks": 422,
   "open_issues": 3,
-  "watchers": 4147,
+  "watchers": 4151,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1179
+  "_index": 1181
 }

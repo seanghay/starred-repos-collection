@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/MontrealCorpusTools/Montreal-Forced-Aligner/releases{/id}",
   "deployments_url": "https://api.github.com/repos/MontrealCorpusTools/Montreal-Forced-Aligner/deployments",
   "created_at": "2015-10-26T17:02:06Z",
-  "updated_at": "2024-01-11T10:23:20Z",
+  "updated_at": "2024-01-12T06:16:10Z",
   "pushed_at": "2024-01-04T04:44:38Z",
   "git_url": "git://github.com/MontrealCorpusTools/Montreal-Forced-Aligner.git",
   "ssh_url": "git@github.com:MontrealCorpusTools/Montreal-Forced-Aligner.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner",
   "homepage": "https://montrealcorpustools.github.io/Montreal-Forced-Aligner/",
   "size": 81347,
-  "stargazers_count": 1130,
-  "watchers_count": 1130,
+  "stargazers_count": 1131,
+  "watchers_count": 1131,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 214,
+  "open_issues_count": 215,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 229,
-  "open_issues": 214,
-  "watchers": 1130,
+  "open_issues": 215,
+  "watchers": 1131,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 301
+  "_index": 303
 }

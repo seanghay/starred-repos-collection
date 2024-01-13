@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/activeloopai/deeplake/releases{/id}",
   "deployments_url": "https://api.github.com/repos/activeloopai/deeplake/deployments",
   "created_at": "2019-08-09T06:17:59Z",
-  "updated_at": "2024-01-11T18:39:56Z",
+  "updated_at": "2024-01-12T16:34:56Z",
   "pushed_at": "2024-01-10T18:29:16Z",
   "git_url": "git://github.com/activeloopai/deeplake.git",
   "ssh_url": "git@github.com:activeloopai/deeplake.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/activeloopai/deeplake",
   "homepage": "https://activeloop.ai",
   "size": 67434,
-  "stargazers_count": 7373,
-  "watchers_count": 7373,
+  "stargazers_count": 7377,
+  "watchers_count": 7377,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 569,
+  "forks_count": 570,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -120,9 +120,9 @@
     "vector-search"
   ],
   "visibility": "public",
-  "forks": 569,
+  "forks": 570,
   "open_issues": 67,
-  "watchers": 7373,
+  "watchers": 7377,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 748
+  "_index": 750
 }

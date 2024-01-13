@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/usefulness/easylauncher-gradle-plugin/releases{/id}",
   "deployments_url": "https://api.github.com/repos/usefulness/easylauncher-gradle-plugin/deployments",
   "created_at": "2020-07-27T20:08:33Z",
-  "updated_at": "2024-01-11T11:59:49Z",
-  "pushed_at": "2024-01-04T15:32:41Z",
+  "updated_at": "2024-01-12T18:14:28Z",
+  "pushed_at": "2024-01-12T20:01:57Z",
   "git_url": "git://github.com/usefulness/easylauncher-gradle-plugin.git",
   "ssh_url": "git@github.com:usefulness/easylauncher-gradle-plugin.git",
   "clone_url": "https://github.com/usefulness/easylauncher-gradle-plugin.git",
   "svn_url": "https://github.com/usefulness/easylauncher-gradle-plugin",
   "homepage": "https://medium.com/@cycki/ribbonize-your-android-application-laucher-icon-again-c52e08d58172?source=friends_link&sk=4747a61844ce085a648d2116780ec4d3",
-  "size": 9342,
-  "stargazers_count": 369,
-  "watchers_count": 369,
+  "size": 9344,
+  "stargazers_count": 368,
+  "watchers_count": 368,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 16,
   "open_issues": 5,
-  "watchers": 369,
+  "watchers": 368,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2138
+  "_index": 2140
 }

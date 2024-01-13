@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/style-aligned/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/style-aligned/deployments",
   "created_at": "2023-11-20T13:58:14Z",
-  "updated_at": "2024-01-10T17:16:13Z",
+  "updated_at": "2024-01-12T10:11:45Z",
   "pushed_at": "2023-12-29T21:26:34Z",
   "git_url": "git://github.com/google/style-aligned.git",
   "ssh_url": "git@github.com:google/style-aligned.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 11,
+  "open_issues_count": 10,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 106,
-  "open_issues": 11,
+  "open_issues": 10,
   "watchers": 941,
   "default_branch": "main",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 104
+  "_index": 106
 }

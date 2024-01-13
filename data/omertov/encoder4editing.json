@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 153,
+  "forks_count": 152,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,7 +105,7 @@
     "stylegan-image-manipulation"
   ],
   "visibility": "public",
-  "forks": 153,
+  "forks": 152,
   "open_issues": 27,
   "watchers": 888,
   "default_branch": "main",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 226
+  "_index": 228
 }

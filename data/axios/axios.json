@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/axios/axios/releases{/id}",
   "deployments_url": "https://api.github.com/repos/axios/axios/deployments",
   "created_at": "2014-08-18T22:30:27Z",
-  "updated_at": "2024-01-12T01:40:11Z",
+  "updated_at": "2024-01-13T01:22:57Z",
   "pushed_at": "2024-01-08T18:21:29Z",
   "git_url": "git://github.com/axios/axios.git",
   "ssh_url": "git@github.com:axios/axios.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/axios/axios",
   "homepage": "https://axios-http.com",
   "size": 11004,
-  "stargazers_count": 103033,
-  "watchers_count": 103033,
+  "stargazers_count": 103034,
+  "watchers_count": 103034,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 10870,
   "open_issues": 606,
-  "watchers": 103033,
+  "watchers": 103034,
   "default_branch": "v1.x",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3250
+  "_index": 3252
 }

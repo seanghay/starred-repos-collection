@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/Stranger6667/css-inline/deployments",
   "created_at": "2020-06-21T12:32:19Z",
   "updated_at": "2024-01-11T09:41:06Z",
-  "pushed_at": "2024-01-11T21:01:23Z",
+  "pushed_at": "2024-01-12T09:06:43Z",
   "git_url": "git://github.com/Stranger6667/css-inline.git",
   "ssh_url": "git@github.com:Stranger6667/css-inline.git",
   "clone_url": "https://github.com/Stranger6667/css-inline.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 29,
+  "forks_count": 30,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 13,
+  "open_issues_count": 12,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,8 +109,8 @@
     "wasm"
   ],
   "visibility": "public",
-  "forks": 29,
-  "open_issues": 13,
+  "forks": 30,
+  "open_issues": 12,
   "watchers": 195,
   "default_branch": "master",
   "permissions": {
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 582
+  "_index": 584
 }

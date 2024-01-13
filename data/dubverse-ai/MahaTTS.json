@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/dubverse-ai/MahaTTS/deployments",
   "created_at": "2023-11-16T09:44:54Z",
   "updated_at": "2024-01-10T14:06:16Z",
-  "pushed_at": "2024-01-09T10:14:47Z",
+  "pushed_at": "2024-01-12T12:02:28Z",
   "git_url": "git://github.com/dubverse-ai/MahaTTS.git",
   "ssh_url": "git@github.com:dubverse-ai/MahaTTS.git",
   "clone_url": "https://github.com/dubverse-ai/MahaTTS.git",
   "svn_url": "https://github.com/dubverse-ai/MahaTTS",
   "homepage": null,
-  "size": 168,
+  "size": 172,
   "stargazers_count": 54,
   "watchers_count": 54,
   "language": "Python",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 52
+  "_index": 54
 }
