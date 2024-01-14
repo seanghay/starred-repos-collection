@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/wenet-e2e/wetts/deployments",
   "created_at": "2022-02-19T02:09:40Z",
   "updated_at": "2024-01-12T13:10:08Z",
-  "pushed_at": "2024-01-12T07:43:18Z",
+  "pushed_at": "2024-01-13T13:22:10Z",
   "git_url": "git://github.com/wenet-e2e/wetts.git",
   "ssh_url": "git@github.com:wenet-e2e/wetts.git",
   "clone_url": "https://github.com/wenet-e2e/wetts.git",
   "svn_url": "https://github.com/wenet-e2e/wetts",
   "homepage": null,
-  "size": 3547,
+  "size": 3552,
   "stargazers_count": 309,
   "watchers_count": 309,
   "language": "Python",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 451
+  "_index": 452
 }

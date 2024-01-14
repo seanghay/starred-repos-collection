@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/microsoft/NeuralSpeech/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microsoft/NeuralSpeech/deployments",
   "created_at": "2021-11-04T10:53:56Z",
-  "updated_at": "2024-01-11T08:37:05Z",
+  "updated_at": "2024-01-13T07:48:56Z",
   "pushed_at": "2023-10-13T10:41:43Z",
   "git_url": "git://github.com/microsoft/NeuralSpeech.git",
   "ssh_url": "git@github.com:microsoft/NeuralSpeech.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/microsoft/NeuralSpeech",
   "homepage": "",
   "size": 39577,
-  "stargazers_count": 1184,
-  "watchers_count": 1184,
+  "stargazers_count": 1185,
+  "watchers_count": 1185,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 159,
   "open_issues": 12,
-  "watchers": 1184,
+  "watchers": 1185,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 271
+  "_index": 272
 }

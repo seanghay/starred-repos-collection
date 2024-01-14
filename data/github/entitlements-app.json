@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/github/entitlements-app/releases{/id}",
   "deployments_url": "https://api.github.com/repos/github/entitlements-app/deployments",
   "created_at": "2022-06-07T16:19:51Z",
-  "updated_at": "2024-01-12T13:20:15Z",
-  "pushed_at": "2023-12-18T17:35:36Z",
+  "updated_at": "2024-01-14T00:03:10Z",
+  "pushed_at": "2024-01-13T05:34:29Z",
   "git_url": "git://github.com/github/entitlements-app.git",
   "ssh_url": "git@github.com:github/entitlements-app.git",
   "clone_url": "https://github.com/github/entitlements-app.git",
   "svn_url": "https://github.com/github/entitlements-app",
   "homepage": "",
   "size": 10820,
-  "stargazers_count": 385,
-  "watchers_count": 385,
+  "stargazers_count": 387,
+  "watchers_count": 387,
   "language": "Ruby",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 18,
+  "forks_count": 19,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2,
+  "open_issues_count": 3,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,9 +103,9 @@
     "security"
   ],
   "visibility": "public",
-  "forks": 18,
-  "open_issues": 2,
-  "watchers": 385,
+  "forks": 19,
+  "open_issues": 3,
+  "watchers": 387,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1310
+  "_index": 1311
 }

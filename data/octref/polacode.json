@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/octref/polacode/releases{/id}",
   "deployments_url": "https://api.github.com/repos/octref/polacode/deployments",
   "created_at": "2018-02-09T23:10:07Z",
-  "updated_at": "2024-01-12T13:15:11Z",
+  "updated_at": "2024-01-13T23:57:53Z",
   "pushed_at": "2022-08-24T11:09:12Z",
   "git_url": "git://github.com/octref/polacode.git",
   "ssh_url": "git@github.com:octref/polacode.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/octref/polacode",
   "homepage": "https://marketplace.visualstudio.com/items?itemName=pnp.polacode",
   "size": 26618,
-  "stargazers_count": 6816,
-  "watchers_count": 6816,
+  "stargazers_count": 6817,
+  "watchers_count": 6817,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -100,7 +100,7 @@
   "visibility": "public",
   "forks": 211,
   "open_issues": 80,
-  "watchers": 6816,
+  "watchers": 6817,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3357
+  "_index": 3358
 }

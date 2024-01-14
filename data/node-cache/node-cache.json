@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/node-cache/node-cache/releases{/id}",
   "deployments_url": "https://api.github.com/repos/node-cache/node-cache/deployments",
   "created_at": "2011-10-18T14:30:09Z",
-  "updated_at": "2024-01-12T17:58:10Z",
+  "updated_at": "2024-01-13T14:42:17Z",
   "pushed_at": "2023-11-14T17:07:36Z",
   "git_url": "git://github.com/node-cache/node-cache.git",
   "ssh_url": "git@github.com:node-cache/node-cache.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/node-cache/node-cache",
   "homepage": "",
   "size": 1725,
-  "stargazers_count": 2145,
-  "watchers_count": 2145,
+  "stargazers_count": 2148,
+  "watchers_count": 2148,
   "language": "CoffeeScript",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 137,
   "open_issues": 70,
-  "watchers": 2145,
+  "watchers": 2148,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1540
+  "_index": 1541
 }

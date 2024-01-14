@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mozilla/send/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mozilla/send/deployments",
   "created_at": "2017-05-22T22:27:01Z",
-  "updated_at": "2024-01-12T22:29:05Z",
+  "updated_at": "2024-01-13T23:56:46Z",
   "pushed_at": "2021-05-21T21:29:10Z",
   "git_url": "git://github.com/mozilla/send.git",
   "ssh_url": "git@github.com:mozilla/send.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mozilla/send",
   "homepage": "https://send.firefox.com",
   "size": 64574,
-  "stargazers_count": 13221,
-  "watchers_count": 13221,
+  "stargazers_count": 13222,
+  "watchers_count": 13222,
   "language": "FreeMarker",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1610,
+  "forks_count": 1611,
   "mirror_url": null,
   "archived": true,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 1610,
+  "forks": 1611,
   "open_issues": 156,
-  "watchers": 13221,
+  "watchers": 13222,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3126
+  "_index": 3127
 }

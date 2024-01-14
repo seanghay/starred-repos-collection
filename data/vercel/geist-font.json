@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/vercel/geist-font/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vercel/geist-font/deployments",
   "created_at": "2023-10-16T17:02:23Z",
-  "updated_at": "2024-01-12T18:04:40Z",
-  "pushed_at": "2024-01-12T19:07:11Z",
+  "updated_at": "2024-01-13T21:28:37Z",
+  "pushed_at": "2024-01-13T17:48:02Z",
   "git_url": "git://github.com/vercel/geist-font.git",
   "ssh_url": "git@github.com:vercel/geist-font.git",
   "clone_url": "https://github.com/vercel/geist-font.git",
   "svn_url": "https://github.com/vercel/geist-font",
   "homepage": "https://vercel.com/font",
-  "size": 5209,
-  "stargazers_count": 1689,
-  "watchers_count": 1689,
+  "size": 6020,
+  "stargazers_count": 1695,
+  "watchers_count": 1695,
   "language": null,
   "has_issues": true,
   "has_projects": false,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 37,
   "open_issues": 27,
-  "watchers": 1689,
+  "watchers": 1695,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 168
+  "_index": 169
 }

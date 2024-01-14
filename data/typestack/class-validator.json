@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/typestack/class-validator/releases{/id}",
   "deployments_url": "https://api.github.com/repos/typestack/class-validator/deployments",
   "created_at": "2015-10-03T13:27:09Z",
-  "updated_at": "2024-01-12T21:39:49Z",
+  "updated_at": "2024-01-14T01:29:58Z",
   "pushed_at": "2024-01-12T13:16:09Z",
   "git_url": "git://github.com/typestack/class-validator.git",
   "ssh_url": "git@github.com:typestack/class-validator.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3280
+  "_index": 3281
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/deepinsight/insightface/releases{/id}",
   "deployments_url": "https://api.github.com/repos/deepinsight/insightface/deployments",
   "created_at": "2017-09-01T00:36:51Z",
-  "updated_at": "2024-01-13T01:35:16Z",
+  "updated_at": "2024-01-14T01:15:48Z",
   "pushed_at": "2023-12-24T05:29:03Z",
   "git_url": "git://github.com/deepinsight/insightface.git",
   "ssh_url": "git@github.com:deepinsight/insightface.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/deepinsight/insightface",
   "homepage": "https://insightface.ai",
   "size": 31822,
-  "stargazers_count": 19861,
-  "watchers_count": 19861,
+  "stargazers_count": 19871,
+  "watchers_count": 19871,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 4995,
+  "forks_count": 4996,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "retinaface"
   ],
   "visibility": "public",
-  "forks": 4995,
+  "forks": 4996,
   "open_issues": 1028,
-  "watchers": 19861,
+  "watchers": 19871,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 302
+  "_index": 303
 }

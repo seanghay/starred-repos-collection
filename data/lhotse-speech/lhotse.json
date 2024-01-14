@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/lhotse-speech/lhotse/deployments",
   "created_at": "2020-04-24T14:08:10Z",
   "updated_at": "2024-01-12T13:09:52Z",
-  "pushed_at": "2024-01-12T15:35:33Z",
+  "pushed_at": "2024-01-13T21:45:23Z",
   "git_url": "git://github.com/lhotse-speech/lhotse.git",
   "ssh_url": "git@github.com:lhotse-speech/lhotse.git",
   "clone_url": "https://github.com/lhotse-speech/lhotse.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 191,
+  "forks_count": 192,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 107,
+  "open_issues_count": 106,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -110,8 +110,8 @@
     "speech-recognition"
   ],
   "visibility": "public",
-  "forks": 191,
-  "open_issues": 107,
+  "forks": 192,
+  "open_issues": 106,
   "watchers": 790,
   "default_branch": "master",
   "permissions": {
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 99
+  "_index": 100
 }

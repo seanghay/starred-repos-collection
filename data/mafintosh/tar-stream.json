@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/mafintosh/tar-stream/deployments",
   "created_at": "2013-12-20T14:21:55Z",
   "updated_at": "2023-12-23T13:34:48Z",
-  "pushed_at": "2023-07-26T03:42:33Z",
+  "pushed_at": "2024-01-13T15:33:23Z",
   "git_url": "git://github.com/mafintosh/tar-stream.git",
   "ssh_url": "git@github.com:mafintosh/tar-stream.git",
   "clone_url": "https://github.com/mafintosh/tar-stream.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 96,
+  "forks_count": 97,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,7 +99,7 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 96,
+  "forks": 97,
   "open_issues": 5,
   "watchers": 389,
   "default_branch": "master",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 978
+  "_index": 979
 }

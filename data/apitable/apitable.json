@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/apitable/apitable/releases{/id}",
   "deployments_url": "https://api.github.com/repos/apitable/apitable/deployments",
   "created_at": "2022-08-17T07:25:40Z",
-  "updated_at": "2024-01-13T00:21:01Z",
+  "updated_at": "2024-01-14T00:03:13Z",
   "pushed_at": "2024-01-08T09:06:57Z",
   "git_url": "git://github.com/apitable/apitable.git",
   "ssh_url": "git@github.com:apitable/apitable.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/apitable/apitable",
   "homepage": "https://aitable.ai",
   "size": 370248,
-  "stargazers_count": 11113,
-  "watchers_count": 11113,
+  "stargazers_count": 11117,
+  "watchers_count": 11117,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -121,7 +121,7 @@
   "visibility": "public",
   "forks": 933,
   "open_issues": 382,
-  "watchers": 11113,
+  "watchers": 11117,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 923
+  "_index": 924
 }
