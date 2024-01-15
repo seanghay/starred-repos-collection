@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/electerm/electerm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/electerm/electerm/deployments",
   "created_at": "2017-10-07T09:54:11Z",
-  "updated_at": "2024-01-13T11:09:14Z",
-  "pushed_at": "2024-01-12T10:29:42Z",
+  "updated_at": "2024-01-15T01:23:52Z",
+  "pushed_at": "2024-01-14T10:55:18Z",
   "git_url": "git://github.com/electerm/electerm.git",
   "ssh_url": "git@github.com:electerm/electerm.git",
   "clone_url": "https://github.com/electerm/electerm.git",
   "svn_url": "https://github.com/electerm/electerm",
   "homepage": "https://electerm.html5beta.com",
-  "size": 11400,
-  "stargazers_count": 9802,
-  "watchers_count": 9802,
+  "size": 11678,
+  "stargazers_count": 9809,
+  "watchers_count": 9809,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -114,7 +114,7 @@
   "visibility": "public",
   "forks": 884,
   "open_issues": 320,
-  "watchers": 9802,
+  "watchers": 9809,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 34
+  "_index": 40
 }

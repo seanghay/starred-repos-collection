@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/charmbracelet/gum/releases{/id}",
   "deployments_url": "https://api.github.com/repos/charmbracelet/gum/deployments",
   "created_at": "2022-06-10T22:09:42Z",
-  "updated_at": "2024-01-13T23:57:57Z",
-  "pushed_at": "2024-01-13T20:33:59Z",
+  "updated_at": "2024-01-15T01:13:12Z",
+  "pushed_at": "2024-01-14T04:12:04Z",
   "git_url": "git://github.com/charmbracelet/gum.git",
   "ssh_url": "git@github.com:charmbracelet/gum.git",
   "clone_url": "https://github.com/charmbracelet/gum.git",
   "svn_url": "https://github.com/charmbracelet/gum",
   "homepage": "",
   "size": 542,
-  "stargazers_count": 15684,
-  "watchers_count": 15684,
+  "stargazers_count": 15687,
+  "watchers_count": 15687,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 304,
+  "forks_count": 305,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 103,
+  "open_issues_count": 102,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -102,9 +102,9 @@
     "shell"
   ],
   "visibility": "public",
-  "forks": 304,
-  "open_issues": 103,
-  "watchers": 15684,
+  "forks": 305,
+  "open_issues": 102,
+  "watchers": 15687,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1212
+  "_index": 1218
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/WenzheLiu-Speech/awesome-speech-enhancement/releases{/id}",
   "deployments_url": "https://api.github.com/repos/WenzheLiu-Speech/awesome-speech-enhancement/deployments",
   "created_at": "2020-03-20T17:09:38Z",
-  "updated_at": "2024-01-13T00:46:32Z",
+  "updated_at": "2024-01-14T20:31:51Z",
   "pushed_at": "2023-11-14T09:00:38Z",
   "git_url": "git://github.com/WenzheLiu-Speech/awesome-speech-enhancement.git",
   "ssh_url": "git@github.com:WenzheLiu-Speech/awesome-speech-enhancement.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/WenzheLiu-Speech/awesome-speech-enhancement",
   "homepage": null,
   "size": 282,
-  "stargazers_count": 852,
-  "watchers_count": 852,
+  "stargazers_count": 854,
+  "watchers_count": 854,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 206,
   "open_issues": 0,
-  "watchers": 852,
+  "watchers": 854,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 588
+  "_index": 594
 }

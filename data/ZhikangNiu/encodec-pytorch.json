@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/ZhikangNiu/encodec-pytorch/deployments",
   "created_at": "2023-04-15T12:41:02Z",
   "updated_at": "2024-01-11T11:06:02Z",
-  "pushed_at": "2023-12-13T03:12:56Z",
+  "pushed_at": "2024-01-14T04:44:44Z",
   "git_url": "git://github.com/ZhikangNiu/encodec-pytorch.git",
   "ssh_url": "git@github.com:ZhikangNiu/encodec-pytorch.git",
   "clone_url": "https://github.com/ZhikangNiu/encodec-pytorch.git",
   "svn_url": "https://github.com/ZhikangNiu/encodec-pytorch",
   "homepage": "",
-  "size": 1471,
+  "size": 1475,
   "stargazers_count": 72,
   "watchers_count": 72,
   "language": "Python",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2,
+  "open_issues_count": 1,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,7 +105,7 @@
   ],
   "visibility": "public",
   "forks": 5,
-  "open_issues": 2,
+  "open_issues": 1,
   "watchers": 72,
   "default_branch": "main",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 277
+  "_index": 283
 }

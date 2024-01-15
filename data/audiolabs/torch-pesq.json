@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/audiolabs/torch-pesq/releases{/id}",
   "deployments_url": "https://api.github.com/repos/audiolabs/torch-pesq/deployments",
   "created_at": "2022-05-04T08:32:22Z",
-  "updated_at": "2024-01-12T09:29:16Z",
+  "updated_at": "2024-01-14T05:00:16Z",
   "pushed_at": "2023-07-14T08:04:43Z",
   "git_url": "git://github.com/audiolabs/torch-pesq.git",
   "ssh_url": "git@github.com:audiolabs/torch-pesq.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/audiolabs/torch-pesq",
   "homepage": "",
   "size": 5886,
-  "stargazers_count": 99,
-  "watchers_count": 99,
+  "stargazers_count": 100,
+  "watchers_count": 100,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 9,
   "open_issues": 2,
-  "watchers": 99,
+  "watchers": 100,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 446
+  "_index": 452
 }

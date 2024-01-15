@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kelseyhightower/nocode/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kelseyhightower/nocode/deployments",
   "created_at": "2018-02-06T23:54:00Z",
-  "updated_at": "2024-01-13T22:33:05Z",
+  "updated_at": "2024-01-15T00:22:06Z",
   "pushed_at": "2024-01-09T18:03:34Z",
   "git_url": "git://github.com/kelseyhightower/nocode.git",
   "ssh_url": "git@github.com:kelseyhightower/nocode.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/kelseyhightower/nocode",
   "homepage": null,
   "size": 5,
-  "stargazers_count": 58443,
-  "watchers_count": 58443,
+  "stargazers_count": 58445,
+  "watchers_count": 58445,
   "language": "Dockerfile",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 4726,
   "open_issues": 4381,
-  "watchers": 58443,
+  "watchers": 58445,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3249
+  "_index": 3255
 }

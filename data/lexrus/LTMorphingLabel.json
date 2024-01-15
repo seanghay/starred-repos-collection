@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lexrus/LTMorphingLabel/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lexrus/LTMorphingLabel/deployments",
   "created_at": "2014-06-25T04:48:55Z",
-  "updated_at": "2024-01-11T13:32:51Z",
+  "updated_at": "2024-01-14T12:59:18Z",
   "pushed_at": "2021-08-10T06:21:45Z",
   "git_url": "git://github.com/lexrus/LTMorphingLabel.git",
   "ssh_url": "git@github.com:lexrus/LTMorphingLabel.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lexrus/LTMorphingLabel",
   "homepage": "",
   "size": 1640,
-  "stargazers_count": 7958,
-  "watchers_count": 7958,
+  "stargazers_count": 7959,
+  "watchers_count": 7959,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 791,
+  "forks_count": 792,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 791,
+  "forks": 792,
   "open_issues": 25,
-  "watchers": 7958,
+  "watchers": 7959,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1468
+  "_index": 1474
 }

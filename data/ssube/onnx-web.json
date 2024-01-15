@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/ssube/onnx-web/deployments",
   "created_at": "2023-01-05T16:41:20Z",
   "updated_at": "2024-01-11T09:33:39Z",
-  "pushed_at": "2024-01-13T17:32:55Z",
+  "pushed_at": "2024-01-15T01:51:20Z",
   "git_url": "git://github.com/ssube/onnx-web.git",
   "ssh_url": "git@github.com:ssube/onnx-web.git",
   "clone_url": "https://github.com/ssube/onnx-web.git",
   "svn_url": "https://github.com/ssube/onnx-web",
   "homepage": "https://discord.gg/7CdQmutGuw",
-  "size": 25092,
+  "size": 24660,
   "stargazers_count": 152,
   "watchers_count": 152,
   "language": "Python",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 64,
+  "open_issues_count": 69,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -120,7 +120,7 @@
   ],
   "visibility": "public",
   "forks": 18,
-  "open_issues": 64,
+  "open_issues": 69,
   "watchers": 152,
   "default_branch": "main",
   "permissions": {
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 31
+  "_index": 37
 }

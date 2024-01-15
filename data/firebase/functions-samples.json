@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/firebase/functions-samples/deployments",
   "created_at": "2016-10-18T17:40:55Z",
   "updated_at": "2024-01-12T17:58:54Z",
-  "pushed_at": "2024-01-13T09:45:56Z",
+  "pushed_at": "2024-01-14T09:45:24Z",
   "git_url": "git://github.com/firebase/functions-samples.git",
   "ssh_url": "git@github.com:firebase/functions-samples.git",
   "clone_url": "https://github.com/firebase/functions-samples.git",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2743
+  "_index": 2749
 }

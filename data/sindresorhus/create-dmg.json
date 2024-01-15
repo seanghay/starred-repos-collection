@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/create-dmg/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/create-dmg/deployments",
   "created_at": "2017-03-27T17:24:44Z",
-  "updated_at": "2024-01-13T14:07:27Z",
+  "updated_at": "2024-01-15T00:09:18Z",
   "pushed_at": "2023-11-11T09:28:11Z",
   "git_url": "git://github.com/sindresorhus/create-dmg.git",
   "ssh_url": "git@github.com:sindresorhus/create-dmg.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sindresorhus/create-dmg",
   "homepage": "",
   "size": 5400,
-  "stargazers_count": 4103,
-  "watchers_count": 4103,
+  "stargazers_count": 4106,
+  "watchers_count": 4106,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 206,
   "open_issues": 12,
-  "watchers": 4103,
+  "watchers": 4106,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 956
+  "_index": 962
 }

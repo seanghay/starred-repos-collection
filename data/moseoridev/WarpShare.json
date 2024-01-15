@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 28,
+  "forks_count": 27,
   "mirror_url": null,
   "archived": true,
   "disabled": false,
@@ -103,7 +103,7 @@
     "android-application"
   ],
   "visibility": "public",
-  "forks": 28,
+  "forks": 27,
   "open_issues": 20,
   "watchers": 557,
   "default_branch": "master",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 374
+  "_index": 380
 }

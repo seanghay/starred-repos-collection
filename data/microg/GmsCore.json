@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/microg/GmsCore/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microg/GmsCore/deployments",
   "created_at": "2014-04-23T19:28:47Z",
-  "updated_at": "2024-01-13T22:50:00Z",
+  "updated_at": "2024-01-15T01:27:32Z",
   "pushed_at": "2024-01-11T22:55:51Z",
   "git_url": "git://github.com/microg/GmsCore.git",
   "ssh_url": "git@github.com:microg/GmsCore.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1369,
+  "forks_count": 1370,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 878,
+  "open_issues_count": 880,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -114,8 +114,8 @@
     "push-notifications"
   ],
   "visibility": "public",
-  "forks": 1369,
-  "open_issues": 878,
+  "forks": 1370,
+  "open_issues": 880,
   "watchers": 6366,
   "default_branch": "master",
   "permissions": {
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1838
+  "_index": 1844
 }

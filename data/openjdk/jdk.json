@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/openjdk/jdk/releases{/id}",
   "deployments_url": "https://api.github.com/repos/openjdk/jdk/deployments",
   "created_at": "2018-09-17T12:29:20Z",
-  "updated_at": "2024-01-13T16:54:40Z",
-  "pushed_at": "2024-01-14T01:31:22Z",
+  "updated_at": "2024-01-15T01:49:39Z",
+  "pushed_at": "2024-01-14T23:09:17Z",
   "git_url": "git://github.com/openjdk/jdk.git",
   "ssh_url": "git@github.com:openjdk/jdk.git",
   "clone_url": "https://github.com/openjdk/jdk.git",
   "svn_url": "https://github.com/openjdk/jdk",
   "homepage": "",
-  "size": 1184344,
-  "stargazers_count": 17602,
-  "watchers_count": 17602,
+  "size": 1183651,
+  "stargazers_count": 17604,
+  "watchers_count": 17604,
   "language": "Java",
   "has_issues": false,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 5099,
+  "forks_count": 5101,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,9 +103,9 @@
     "openjdk"
   ],
   "visibility": "public",
-  "forks": 5099,
+  "forks": 5101,
   "open_issues": 283,
-  "watchers": 17602,
+  "watchers": 17604,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2263
+  "_index": 2269
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/pocketbase/pocketbase/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pocketbase/pocketbase/deployments",
   "created_at": "2022-07-05T06:06:21Z",
-  "updated_at": "2024-01-14T01:41:46Z",
-  "pushed_at": "2024-01-13T16:02:54Z",
+  "updated_at": "2024-01-15T01:45:49Z",
+  "pushed_at": "2024-01-14T20:20:56Z",
   "git_url": "git://github.com/pocketbase/pocketbase.git",
   "ssh_url": "git@github.com:pocketbase/pocketbase.git",
   "clone_url": "https://github.com/pocketbase/pocketbase.git",
   "svn_url": "https://github.com/pocketbase/pocketbase",
   "homepage": "https://pocketbase.io",
-  "size": 60023,
-  "stargazers_count": 30234,
-  "watchers_count": 30234,
+  "size": 60046,
+  "stargazers_count": 30289,
+  "watchers_count": 30289,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1347,
+  "forks_count": 1352,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "realtime"
   ],
   "visibility": "public",
-  "forks": 1347,
+  "forks": 1352,
   "open_issues": 35,
-  "watchers": 30234,
+  "watchers": 30289,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1163
+  "_index": 1169
 }

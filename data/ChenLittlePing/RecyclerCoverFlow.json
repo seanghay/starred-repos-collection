@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ChenLittlePing/RecyclerCoverFlow/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ChenLittlePing/RecyclerCoverFlow/deployments",
   "created_at": "2017-04-18T02:51:11Z",
-  "updated_at": "2023-11-15T02:49:06Z",
+  "updated_at": "2024-01-14T10:44:34Z",
   "pushed_at": "2020-09-01T01:59:52Z",
   "git_url": "git://github.com/ChenLittlePing/RecyclerCoverFlow.git",
   "ssh_url": "git@github.com:ChenLittlePing/RecyclerCoverFlow.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ChenLittlePing/RecyclerCoverFlow",
   "homepage": null,
   "size": 15778,
-  "stargazers_count": 821,
-  "watchers_count": 821,
+  "stargazers_count": 822,
+  "watchers_count": 822,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 151,
   "open_issues": 22,
-  "watchers": 821,
+  "watchers": 822,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2239
+  "_index": 2245
 }

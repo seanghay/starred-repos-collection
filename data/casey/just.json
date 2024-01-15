@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/casey/just/releases{/id}",
   "deployments_url": "https://api.github.com/repos/casey/just/deployments",
   "created_at": "2016-06-17T06:08:08Z",
-  "updated_at": "2024-01-14T00:53:52Z",
-  "pushed_at": "2024-01-14T01:15:47Z",
+  "updated_at": "2024-01-15T00:44:46Z",
+  "pushed_at": "2024-01-14T10:55:12Z",
   "git_url": "git://github.com/casey/just.git",
   "ssh_url": "git@github.com:casey/just.git",
   "clone_url": "https://github.com/casey/just.git",
   "svn_url": "https://github.com/casey/just",
   "homepage": "https://just.systems",
   "size": 7837,
-  "stargazers_count": 15494,
-  "watchers_count": 15494,
+  "stargazers_count": 15503,
+  "watchers_count": 15503,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 367,
   "open_issues": 208,
-  "watchers": 15494,
+  "watchers": 15503,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 115
+  "_index": 121
 }

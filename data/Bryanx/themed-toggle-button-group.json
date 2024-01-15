@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Bryanx/themed-toggle-button-group/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Bryanx/themed-toggle-button-group/deployments",
   "created_at": "2020-03-01T21:57:20Z",
-  "updated_at": "2024-01-11T06:37:55Z",
+  "updated_at": "2024-01-14T15:58:51Z",
   "pushed_at": "2022-01-29T09:58:33Z",
   "git_url": "git://github.com/Bryanx/themed-toggle-button-group.git",
   "ssh_url": "git@github.com:Bryanx/themed-toggle-button-group.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Bryanx/themed-toggle-button-group",
   "homepage": "",
   "size": 6353,
-  "stargazers_count": 744,
-  "watchers_count": 744,
+  "stargazers_count": 745,
+  "watchers_count": 745,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 45,
   "open_issues": 10,
-  "watchers": 744,
+  "watchers": 745,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2102
+  "_index": 2108
 }
