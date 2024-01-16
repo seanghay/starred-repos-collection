@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 104,
+  "forks_count": 105,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -112,7 +112,7 @@
     "vocoder"
   ],
   "visibility": "public",
-  "forks": 104,
+  "forks": 105,
   "open_issues": 13,
   "watchers": 693,
   "default_branch": "master",

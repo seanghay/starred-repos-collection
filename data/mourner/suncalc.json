@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mourner/suncalc/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mourner/suncalc/deployments",
   "created_at": "2011-08-25T11:40:01Z",
-  "updated_at": "2024-01-10T17:24:10Z",
+  "updated_at": "2024-01-15T15:01:02Z",
   "pushed_at": "2023-04-23T18:40:49Z",
   "git_url": "git://github.com/mourner/suncalc.git",
   "ssh_url": "git@github.com:mourner/suncalc.git",
