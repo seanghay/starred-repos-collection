@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/unilight/s3prl-vc/releases{/id}",
   "deployments_url": "https://api.github.com/repos/unilight/s3prl-vc/deployments",
   "created_at": "2022-11-21T13:41:34Z",
-  "updated_at": "2024-01-12T13:10:19Z",
+  "updated_at": "2024-01-16T11:00:27Z",
   "pushed_at": "2023-07-27T02:28:13Z",
   "git_url": "git://github.com/unilight/s3prl-vc.git",
   "ssh_url": "git@github.com:unilight/s3prl-vc.git",
