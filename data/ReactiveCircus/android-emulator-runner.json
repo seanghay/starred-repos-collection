@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ReactiveCircus/android-emulator-runner/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ReactiveCircus/android-emulator-runner/deployments",
   "created_at": "2019-11-05T15:45:42Z",
-  "updated_at": "2024-01-11T16:04:18Z",
+  "updated_at": "2024-01-17T04:11:28Z",
   "pushed_at": "2023-12-06T07:34:42Z",
   "git_url": "git://github.com/ReactiveCircus/android-emulator-runner.git",
   "ssh_url": "git@github.com:ReactiveCircus/android-emulator-runner.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ReactiveCircus/android-emulator-runner",
   "homepage": "",
   "size": 2001,
-  "stargazers_count": 812,
-  "watchers_count": 812,
+  "stargazers_count": 813,
+  "watchers_count": 813,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 171,
   "open_issues": 51,
-  "watchers": 812,
+  "watchers": 813,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1211
+  "_index": 1221
 }

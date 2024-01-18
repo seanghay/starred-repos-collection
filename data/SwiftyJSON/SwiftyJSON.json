@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/SwiftyJSON/SwiftyJSON/releases{/id}",
   "deployments_url": "https://api.github.com/repos/SwiftyJSON/SwiftyJSON/deployments",
   "created_at": "2014-06-18T14:41:15Z",
-  "updated_at": "2024-01-16T19:54:17Z",
-  "pushed_at": "2023-11-08T13:42:48Z",
+  "updated_at": "2024-01-18T00:56:24Z",
+  "pushed_at": "2024-01-17T19:13:04Z",
   "git_url": "git://github.com/SwiftyJSON/SwiftyJSON.git",
   "ssh_url": "git@github.com:SwiftyJSON/SwiftyJSON.git",
   "clone_url": "https://github.com/SwiftyJSON/SwiftyJSON.git",
   "svn_url": "https://github.com/SwiftyJSON/SwiftyJSON",
   "homepage": "",
   "size": 1116,
-  "stargazers_count": 22300,
-  "watchers_count": 22300,
+  "stargazers_count": 22298,
+  "watchers_count": 22298,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3456,
+  "forks_count": 3457,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 136,
+  "open_issues_count": 137,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,9 +112,9 @@
     "xcode10"
   ],
   "visibility": "public",
-  "forks": 3456,
-  "open_issues": 136,
-  "watchers": 22300,
+  "forks": 3457,
+  "open_issues": 137,
+  "watchers": 22298,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2607
+  "_index": 2617
 }

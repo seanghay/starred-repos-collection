@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/withastro/action/releases{/id}",
   "deployments_url": "https://api.github.com/repos/withastro/action/deployments",
   "created_at": "2022-08-07T21:29:17Z",
-  "updated_at": "2024-01-16T21:49:37Z",
+  "updated_at": "2024-01-17T06:42:37Z",
   "pushed_at": "2024-01-06T14:30:51Z",
   "git_url": "git://github.com/withastro/action.git",
   "ssh_url": "git@github.com:withastro/action.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/withastro/action",
   "homepage": "",
   "size": 73,
-  "stargazers_count": 113,
-  "watchers_count": 113,
+  "stargazers_count": 114,
+  "watchers_count": 114,
   "language": null,
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 21,
   "open_issues": 3,
-  "watchers": 113,
+  "watchers": 114,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1133
+  "_index": 1143
 }

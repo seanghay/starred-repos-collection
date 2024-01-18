@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/DroidNinja/Android-FilePicker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/DroidNinja/Android-FilePicker/deployments",
   "created_at": "2016-07-31T20:07:34Z",
-  "updated_at": "2024-01-11T02:18:28Z",
+  "updated_at": "2024-01-18T01:39:32Z",
   "pushed_at": "2023-08-27T05:36:17Z",
   "git_url": "git://github.com/DroidNinja/Android-FilePicker.git",
   "ssh_url": "git@github.com:DroidNinja/Android-FilePicker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/DroidNinja/Android-FilePicker",
   "homepage": "https://arunsharma.me/blog/integrate-android-file-picker-photopicker-document-picker-android/",
   "size": 557,
-  "stargazers_count": 2644,
-  "watchers_count": 2644,
+  "stargazers_count": 2645,
+  "watchers_count": 2645,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 554,
+  "forks_count": 555,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -101,9 +101,9 @@
     "whatsapp-like-picker"
   ],
   "visibility": "public",
-  "forks": 554,
+  "forks": 555,
   "open_issues": 89,
-  "watchers": 2644,
+  "watchers": 2645,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2995
+  "_index": 3005
 }

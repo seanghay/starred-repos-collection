@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/zeromicro/go-zero/releases{/id}",
   "deployments_url": "https://api.github.com/repos/zeromicro/go-zero/deployments",
   "created_at": "2020-08-07T15:37:57Z",
-  "updated_at": "2024-01-17T01:34:20Z",
-  "pushed_at": "2024-01-16T09:50:34Z",
+  "updated_at": "2024-01-18T01:28:02Z",
+  "pushed_at": "2024-01-17T16:11:56Z",
   "git_url": "git://github.com/zeromicro/go-zero.git",
   "ssh_url": "git@github.com:zeromicro/go-zero.git",
   "clone_url": "https://github.com/zeromicro/go-zero.git",
   "svn_url": "https://github.com/zeromicro/go-zero",
   "homepage": "https://go-zero.dev",
-  "size": 20630,
-  "stargazers_count": 26834,
-  "watchers_count": 26834,
+  "size": 20641,
+  "stargazers_count": 26840,
+  "watchers_count": 26840,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -122,7 +122,7 @@
   "visibility": "public",
   "forks": 3789,
   "open_issues": 444,
-  "watchers": 26834,
+  "watchers": 26840,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1839
+  "_index": 1849
 }

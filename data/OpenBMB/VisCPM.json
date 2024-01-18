@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/OpenBMB/VisCPM",
-  "description": "Chinese and English Multimodal Large Model Series (Chat and Paint) | 基于CPM基础模型的中英双语多模态大模型系列",
+  "description": "[ICLR'24 spotlight] Chinese and English Multimodal Large Model Series (Chat and Paint) | 基于CPM基础模型的中英双语多模态大模型系列",
   "fork": false,
   "url": "https://api.github.com/repos/OpenBMB/VisCPM",
   "forks_url": "https://api.github.com/repos/OpenBMB/VisCPM/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/OpenBMB/VisCPM/releases{/id}",
   "deployments_url": "https://api.github.com/repos/OpenBMB/VisCPM/deployments",
   "created_at": "2023-06-30T03:35:01Z",
-  "updated_at": "2024-01-16T03:48:43Z",
-  "pushed_at": "2023-10-13T06:19:06Z",
+  "updated_at": "2024-01-17T15:51:28Z",
+  "pushed_at": "2024-01-17T03:30:00Z",
   "git_url": "git://github.com/OpenBMB/VisCPM.git",
   "ssh_url": "git@github.com:OpenBMB/VisCPM.git",
   "clone_url": "https://github.com/OpenBMB/VisCPM.git",
   "svn_url": "https://github.com/OpenBMB/VisCPM",
   "homepage": "",
-  "size": 7688,
-  "stargazers_count": 913,
-  "watchers_count": 913,
+  "size": 7689,
+  "stargazers_count": 914,
+  "watchers_count": 914,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -100,7 +100,7 @@
   "visibility": "public",
   "forks": 84,
   "open_issues": 6,
-  "watchers": 913,
+  "watchers": 914,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 138
+  "_index": 148
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/systemed/tilemaker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/systemed/tilemaker/deployments",
   "created_at": "2015-06-29T01:06:21Z",
-  "updated_at": "2024-01-16T18:19:44Z",
+  "updated_at": "2024-01-17T04:49:56Z",
   "pushed_at": "2024-01-15T15:11:11Z",
   "git_url": "git://github.com/systemed/tilemaker.git",
   "ssh_url": "git@github.com:systemed/tilemaker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/systemed/tilemaker",
   "homepage": "https://tilemaker.org/",
   "size": 43235,
-  "stargazers_count": 1243,
-  "watchers_count": 1243,
+  "stargazers_count": 1244,
+  "watchers_count": 1244,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 209,
   "open_issues": 51,
-  "watchers": 1243,
+  "watchers": 1244,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 159
+  "_index": 169
 }

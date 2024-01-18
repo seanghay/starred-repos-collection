@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/tinylibs/tinybench/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tinylibs/tinybench/deployments",
   "created_at": "2022-07-30T07:57:59Z",
-  "updated_at": "2024-01-17T01:19:01Z",
-  "pushed_at": "2024-01-16T10:44:28Z",
+  "updated_at": "2024-01-17T21:57:54Z",
+  "pushed_at": "2024-01-17T18:35:54Z",
   "git_url": "git://github.com/tinylibs/tinybench.git",
   "ssh_url": "git@github.com:tinylibs/tinybench.git",
   "clone_url": "https://github.com/tinylibs/tinybench.git",
   "svn_url": "https://github.com/tinylibs/tinybench",
   "homepage": "",
-  "size": 567,
-  "stargazers_count": 918,
-  "watchers_count": 918,
+  "size": 574,
+  "stargazers_count": 965,
+  "watchers_count": 965,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 9,
+  "open_issues_count": 8,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 24,
-  "open_issues": 9,
-  "watchers": 918,
+  "open_issues": 8,
+  "watchers": 965,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1147
+  "_index": 1157
 }

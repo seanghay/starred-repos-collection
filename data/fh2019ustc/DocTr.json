@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fh2019ustc/DocTr/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fh2019ustc/DocTr/deployments",
   "created_at": "2021-10-08T09:27:44Z",
-  "updated_at": "2024-01-16T14:43:04Z",
+  "updated_at": "2024-01-17T13:31:39Z",
   "pushed_at": "2024-01-15T09:07:42Z",
   "git_url": "git://github.com/fh2019ustc/DocTr.git",
   "ssh_url": "git@github.com:fh2019ustc/DocTr.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/fh2019ustc/DocTr",
   "homepage": "",
   "size": 53140,
-  "stargazers_count": 311,
-  "watchers_count": 311,
+  "stargazers_count": 312,
+  "watchers_count": 312,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 46,
   "open_issues": 13,
-  "watchers": 311,
+  "watchers": 312,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 99
+  "_index": 109
 }

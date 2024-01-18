@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/dmlc/decord/releases{/id}",
   "deployments_url": "https://api.github.com/repos/dmlc/decord/deployments",
   "created_at": "2019-01-18T23:07:31Z",
-  "updated_at": "2024-01-16T10:54:12Z",
+  "updated_at": "2024-01-17T12:00:04Z",
   "pushed_at": "2023-12-26T11:45:16Z",
   "git_url": "git://github.com/dmlc/decord.git",
   "ssh_url": "git@github.com:dmlc/decord.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/dmlc/decord",
   "homepage": "",
   "size": 20424,
-  "stargazers_count": 1517,
-  "watchers_count": 1517,
+  "stargazers_count": 1519,
+  "watchers_count": 1519,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 128,
+  "forks_count": 129,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -101,9 +101,9 @@
     "video-loader"
   ],
   "visibility": "public",
-  "forks": 128,
+  "forks": 129,
   "open_issues": 149,
-  "watchers": 1517,
+  "watchers": 1519,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 160
+  "_index": 170
 }

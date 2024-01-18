@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/celery/celery/releases{/id}",
   "deployments_url": "https://api.github.com/repos/celery/celery/deployments",
   "created_at": "2009-04-24T11:31:24Z",
-  "updated_at": "2024-01-16T21:18:18Z",
-  "pushed_at": "2024-01-17T01:46:16Z",
+  "updated_at": "2024-01-18T01:01:58Z",
+  "pushed_at": "2024-01-18T01:40:15Z",
   "git_url": "git://github.com/celery/celery.git",
   "ssh_url": "git@github.com:celery/celery.git",
   "clone_url": "https://github.com/celery/celery.git",
   "svn_url": "https://github.com/celery/celery",
   "homepage": "https://docs.celeryq.dev",
-  "size": 35008,
-  "stargazers_count": 22893,
-  "watchers_count": 22893,
+  "size": 35146,
+  "stargazers_count": 22896,
+  "watchers_count": 22896,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 4603,
+  "forks_count": 4604,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 666,
+  "open_issues_count": 664,
   "license": {
     "key": "other",
     "name": "Other",
@@ -114,9 +114,9 @@
     "task-scheduler"
   ],
   "visibility": "public",
-  "forks": 4603,
-  "open_issues": 666,
-  "watchers": 22893,
+  "forks": 4604,
+  "open_issues": 664,
+  "watchers": 22896,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 151
+  "_index": 161
 }

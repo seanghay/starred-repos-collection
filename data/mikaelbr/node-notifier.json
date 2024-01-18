@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mikaelbr/node-notifier/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mikaelbr/node-notifier/deployments",
   "created_at": "2012-12-02T09:53:24Z",
-  "updated_at": "2024-01-16T15:04:43Z",
+  "updated_at": "2024-01-17T18:08:28Z",
   "pushed_at": "2023-07-18T21:38:24Z",
   "git_url": "git://github.com/mikaelbr/node-notifier.git",
   "ssh_url": "git@github.com:mikaelbr/node-notifier.git",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3358
+  "_index": 3368
 }

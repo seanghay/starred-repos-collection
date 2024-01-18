@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/mage-ai/mage-ai/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mage-ai/mage-ai/deployments",
   "created_at": "2022-05-16T22:11:39Z",
-  "updated_at": "2024-01-16T20:17:27Z",
-  "pushed_at": "2024-01-17T01:11:21Z",
+  "updated_at": "2024-01-17T23:22:50Z",
+  "pushed_at": "2024-01-18T01:29:33Z",
   "git_url": "git://github.com/mage-ai/mage-ai.git",
   "ssh_url": "git@github.com:mage-ai/mage-ai.git",
   "clone_url": "https://github.com/mage-ai/mage-ai.git",
   "svn_url": "https://github.com/mage-ai/mage-ai",
   "homepage": "https://www.mage.ai/",
-  "size": 167584,
-  "stargazers_count": 6255,
-  "watchers_count": 6255,
+  "size": 175277,
+  "stargazers_count": 6264,
+  "watchers_count": 6264,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 580,
+  "forks_count": 581,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 200,
+  "open_issues_count": 190,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -118,9 +118,9 @@
     "transformation"
   ],
   "visibility": "public",
-  "forks": 580,
-  "open_issues": 200,
-  "watchers": 6255,
+  "forks": 581,
+  "open_issues": 190,
+  "watchers": 6264,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1210
+  "_index": 1220
 }

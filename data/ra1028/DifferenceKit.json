@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ra1028/DifferenceKit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ra1028/DifferenceKit/deployments",
   "created_at": "2018-08-03T12:29:06Z",
-  "updated_at": "2024-01-16T17:03:32Z",
+  "updated_at": "2024-01-18T01:50:40Z",
   "pushed_at": "2023-05-31T08:48:36Z",
   "git_url": "git://github.com/ra1028/DifferenceKit.git",
   "ssh_url": "git@github.com:ra1028/DifferenceKit.git",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1779
+  "_index": 1789
 }
