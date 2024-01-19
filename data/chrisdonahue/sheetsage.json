@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/chrisdonahue/sheetsage/releases{/id}",
   "deployments_url": "https://api.github.com/repos/chrisdonahue/sheetsage/deployments",
   "created_at": "2022-06-10T18:11:54Z",
-  "updated_at": "2024-01-17T13:32:25Z",
+  "updated_at": "2024-01-18T02:25:12Z",
   "pushed_at": "2023-09-17T18:27:46Z",
   "git_url": "git://github.com/chrisdonahue/sheetsage.git",
   "ssh_url": "git@github.com:chrisdonahue/sheetsage.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/chrisdonahue/sheetsage",
   "homepage": "https://chrisdonahue.com/sheetsage",
   "size": 261211,
-  "stargazers_count": 211,
-  "watchers_count": 211,
+  "stargazers_count": 212,
+  "watchers_count": 212,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 26,
   "open_issues": 15,
-  "watchers": 211,
+  "watchers": 212,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 25
+  "_index": 29
 }

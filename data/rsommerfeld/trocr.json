@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/rsommerfeld/trocr/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rsommerfeld/trocr/deployments",
   "created_at": "2022-02-08T16:00:59Z",
-  "updated_at": "2024-01-14T15:25:53Z",
+  "updated_at": "2024-01-18T11:22:05Z",
   "pushed_at": "2022-11-03T18:15:02Z",
   "git_url": "git://github.com/rsommerfeld/trocr.git",
   "ssh_url": "git@github.com:rsommerfeld/trocr.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/rsommerfeld/trocr",
   "homepage": "",
   "size": 1378,
-  "stargazers_count": 131,
-  "watchers_count": 131,
+  "stargazers_count": 132,
+  "watchers_count": 132,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 22,
   "open_issues": 5,
-  "watchers": 131,
+  "watchers": 132,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 141
+  "_index": 145
 }

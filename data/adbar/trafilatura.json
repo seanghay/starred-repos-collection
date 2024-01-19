@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/adbar/trafilatura/releases{/id}",
   "deployments_url": "https://api.github.com/repos/adbar/trafilatura/deployments",
   "created_at": "2019-04-08T11:38:48Z",
-  "updated_at": "2024-01-17T18:08:59Z",
-  "pushed_at": "2024-01-08T14:33:57Z",
+  "updated_at": "2024-01-18T13:07:45Z",
+  "pushed_at": "2024-01-18T15:25:33Z",
   "git_url": "git://github.com/adbar/trafilatura.git",
   "ssh_url": "git@github.com:adbar/trafilatura.git",
   "clone_url": "https://github.com/adbar/trafilatura.git",
   "svn_url": "https://github.com/adbar/trafilatura",
   "homepage": "https://trafilatura.readthedocs.io",
-  "size": 23800,
-  "stargazers_count": 2419,
-  "watchers_count": 2419,
+  "size": 23817,
+  "stargazers_count": 2421,
+  "watchers_count": 2421,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 66,
+  "open_issues_count": 67,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -121,8 +121,8 @@
   ],
   "visibility": "public",
   "forks": 191,
-  "open_issues": 66,
-  "watchers": 2419,
+  "open_issues": 67,
+  "watchers": 2421,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 79
+  "_index": 83
 }

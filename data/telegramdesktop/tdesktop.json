@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/telegramdesktop/tdesktop/releases{/id}",
   "deployments_url": "https://api.github.com/repos/telegramdesktop/tdesktop/deployments",
   "created_at": "2014-05-02T12:36:31Z",
-  "updated_at": "2024-01-17T22:09:00Z",
-  "pushed_at": "2024-01-16T19:28:48Z",
+  "updated_at": "2024-01-18T23:43:37Z",
+  "pushed_at": "2024-01-18T19:39:54Z",
   "git_url": "git://github.com/telegramdesktop/tdesktop.git",
   "ssh_url": "git@github.com:telegramdesktop/tdesktop.git",
   "clone_url": "https://github.com/telegramdesktop/tdesktop.git",
   "svn_url": "https://github.com/telegramdesktop/tdesktop",
   "homepage": "https://desktop.telegram.org/",
-  "size": 215939,
-  "stargazers_count": 23719,
-  "watchers_count": 23719,
+  "size": 216008,
+  "stargazers_count": 23725,
+  "watchers_count": 23725,
   "language": "C++",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 4869,
+  "forks_count": 4871,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 820,
+  "open_issues_count": 823,
   "license": {
     "key": "other",
     "name": "Other",
@@ -105,9 +105,9 @@
     "telegram-solution"
   ],
   "visibility": "public",
-  "forks": 4869,
-  "open_issues": 820,
-  "watchers": 23719,
+  "forks": 4871,
+  "open_issues": 823,
+  "watchers": 23725,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3229
+  "_index": 3233
 }

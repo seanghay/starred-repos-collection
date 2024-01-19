@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/vercel/geist-font/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vercel/geist-font/deployments",
   "created_at": "2023-10-16T17:02:23Z",
-  "updated_at": "2024-01-18T00:07:51Z",
-  "pushed_at": "2024-01-16T18:20:56Z",
+  "updated_at": "2024-01-19T01:41:10Z",
+  "pushed_at": "2024-01-19T01:20:13Z",
   "git_url": "git://github.com/vercel/geist-font.git",
   "ssh_url": "git@github.com:vercel/geist-font.git",
   "clone_url": "https://github.com/vercel/geist-font.git",
   "svn_url": "https://github.com/vercel/geist-font",
   "homepage": "https://vercel.com/font",
-  "size": 6020,
-  "stargazers_count": 1705,
-  "watchers_count": 1705,
+  "size": 6026,
+  "stargazers_count": 1712,
+  "watchers_count": 1712,
   "language": null,
   "has_issues": true,
   "has_projects": false,
@@ -88,11 +88,11 @@
   "disabled": false,
   "open_issues_count": 28,
   "license": {
-    "key": "other",
-    "name": "Other",
-    "spdx_id": "NOASSERTION",
-    "url": null,
-    "node_id": "MDc6TGljZW5zZTA="
+    "key": "ofl-1.1",
+    "name": "SIL Open Font License 1.1",
+    "spdx_id": "OFL-1.1",
+    "url": "https://api.github.com/licenses/ofl-1.1",
+    "node_id": "MDc6TGljZW5zZTE3"
   },
   "allow_forking": true,
   "is_template": false,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 36,
   "open_issues": 28,
-  "watchers": 1705,
+  "watchers": 1712,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 185
+  "_index": 189
 }

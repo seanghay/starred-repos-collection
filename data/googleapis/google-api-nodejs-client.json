@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/googleapis/google-api-nodejs-client/deployments",
   "created_at": "2013-03-06T17:02:23Z",
   "updated_at": "2024-01-17T01:53:18Z",
-  "pushed_at": "2024-01-18T01:33:58Z",
+  "pushed_at": "2024-01-19T01:34:15Z",
   "git_url": "git://github.com/googleapis/google-api-nodejs-client.git",
   "ssh_url": "git@github.com:googleapis/google-api-nodejs-client.git",
   "clone_url": "https://github.com/googleapis/google-api-nodejs-client.git",
   "svn_url": "https://github.com/googleapis/google-api-nodejs-client",
   "homepage": "https://googleapis.dev/nodejs/googleapis/latest/",
-  "size": 347574,
+  "size": 347393,
   "stargazers_count": 11012,
   "watchers_count": 11012,
   "language": "TypeScript",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2006,
+  "forks_count": 2008,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 192,
+  "open_issues_count": 194,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -105,8 +105,8 @@
     "nodejs"
   ],
   "visibility": "public",
-  "forks": 2006,
-  "open_issues": 192,
+  "forks": 2008,
+  "open_issues": 194,
   "watchers": 11012,
   "default_branch": "main",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2428
+  "_index": 2432
 }

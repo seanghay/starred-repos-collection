@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/smeetrs/deep_avsr/releases{/id}",
   "deployments_url": "https://api.github.com/repos/smeetrs/deep_avsr/deployments",
   "created_at": "2019-12-07T16:51:27Z",
-  "updated_at": "2024-01-04T16:40:20Z",
+  "updated_at": "2024-01-18T16:34:44Z",
   "pushed_at": "2023-05-16T17:49:56Z",
   "git_url": "git://github.com/smeetrs/deep_avsr.git",
   "ssh_url": "git@github.com:smeetrs/deep_avsr.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/smeetrs/deep_avsr",
   "homepage": "",
   "size": 43,
-  "stargazers_count": 162,
-  "watchers_count": 162,
+  "stargazers_count": 163,
+  "watchers_count": 163,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 38,
   "open_issues": 0,
-  "watchers": 162,
+  "watchers": 163,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 349
+  "_index": 353
 }

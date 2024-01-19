@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bayesiains/nflows/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bayesiains/nflows/deployments",
   "created_at": "2020-02-17T12:36:32Z",
-  "updated_at": "2024-01-14T07:36:40Z",
+  "updated_at": "2024-01-18T21:26:28Z",
   "pushed_at": "2023-11-19T16:03:40Z",
   "git_url": "git://github.com/bayesiains/nflows.git",
   "ssh_url": "git@github.com:bayesiains/nflows.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/bayesiains/nflows",
   "homepage": "",
   "size": 1434,
-  "stargazers_count": 776,
-  "watchers_count": 776,
+  "stargazers_count": 777,
+  "watchers_count": 777,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 118,
+  "forks_count": 119,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "pytorch"
   ],
   "visibility": "public",
-  "forks": 118,
+  "forks": 119,
   "open_issues": 12,
-  "watchers": 776,
+  "watchers": 777,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 332
+  "_index": 336
 }

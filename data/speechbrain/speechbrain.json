@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/speechbrain/speechbrain/releases{/id}",
   "deployments_url": "https://api.github.com/repos/speechbrain/speechbrain/deployments",
   "created_at": "2020-04-28T17:48:45Z",
-  "updated_at": "2024-01-18T01:05:04Z",
-  "pushed_at": "2024-01-17T17:06:07Z",
+  "updated_at": "2024-01-18T22:49:25Z",
+  "pushed_at": "2024-01-18T20:46:48Z",
   "git_url": "git://github.com/speechbrain/speechbrain.git",
   "ssh_url": "git@github.com:speechbrain/speechbrain.git",
   "clone_url": "https://github.com/speechbrain/speechbrain.git",
   "svn_url": "https://github.com/speechbrain/speechbrain",
   "homepage": "http://speechbrain.github.io",
-  "size": 88944,
-  "stargazers_count": 7115,
-  "watchers_count": 7115,
+  "size": 88969,
+  "stargazers_count": 7127,
+  "watchers_count": 7127,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -122,7 +122,7 @@
   "visibility": "public",
   "forks": 1214,
   "open_issues": 144,
-  "watchers": 7115,
+  "watchers": 7127,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 670
+  "_index": 674
 }

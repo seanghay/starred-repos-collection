@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/microsoft/terminal/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microsoft/terminal/deployments",
   "created_at": "2017-08-11T18:38:22Z",
-  "updated_at": "2024-01-18T01:38:19Z",
-  "pushed_at": "2024-01-17T22:10:59Z",
+  "updated_at": "2024-01-19T01:35:14Z",
+  "pushed_at": "2024-01-18T17:58:14Z",
   "git_url": "git://github.com/microsoft/terminal.git",
   "ssh_url": "git@github.com:microsoft/terminal.git",
   "clone_url": "https://github.com/microsoft/terminal.git",
   "svn_url": "https://github.com/microsoft/terminal",
   "homepage": "",
-  "size": 138159,
-  "stargazers_count": 92149,
-  "watchers_count": 92149,
+  "size": 138176,
+  "stargazers_count": 92153,
+  "watchers_count": 92153,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 8264,
   "open_issues": 1522,
-  "watchers": 92149,
+  "watchers": 92153,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2958
+  "_index": 2962
 }

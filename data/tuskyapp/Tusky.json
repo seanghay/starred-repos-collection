@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/tuskyapp/Tusky/deployments",
   "created_at": "2017-01-02T23:20:55Z",
   "updated_at": "2024-01-16T14:01:40Z",
-  "pushed_at": "2024-01-17T05:17:03Z",
+  "pushed_at": "2024-01-19T00:34:20Z",
   "git_url": "git://github.com/tuskyapp/Tusky.git",
   "ssh_url": "git@github.com:tuskyapp/Tusky.git",
   "clone_url": "https://github.com/tuskyapp/Tusky.git",
   "svn_url": "https://github.com/tuskyapp/Tusky",
   "homepage": "https://tusky.app",
-  "size": 45438,
+  "size": 45439,
   "stargazers_count": 2339,
   "watchers_count": 2339,
   "language": "Kotlin",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2818
+  "_index": 2822
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/WebAssembly/binaryen/releases{/id}",
   "deployments_url": "https://api.github.com/repos/WebAssembly/binaryen/deployments",
   "created_at": "2015-10-29T20:26:28Z",
-  "updated_at": "2024-01-17T15:59:06Z",
-  "pushed_at": "2024-01-17T23:03:51Z",
+  "updated_at": "2024-01-18T10:43:25Z",
+  "pushed_at": "2024-01-18T21:40:22Z",
   "git_url": "git://github.com/WebAssembly/binaryen.git",
   "ssh_url": "git@github.com:WebAssembly/binaryen.git",
   "clone_url": "https://github.com/WebAssembly/binaryen.git",
   "svn_url": "https://github.com/WebAssembly/binaryen",
   "homepage": "",
   "size": 128914,
-  "stargazers_count": 6918,
-  "watchers_count": 6918,
+  "stargazers_count": 6920,
+  "watchers_count": 6920,
   "language": "WebAssembly",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 709,
+  "forks_count": 708,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "webassembly"
   ],
   "visibility": "public",
-  "forks": 709,
+  "forks": 708,
   "open_issues": 651,
-  "watchers": 6918,
+  "watchers": 6920,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 212
+  "_index": 216
 }

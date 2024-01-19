@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/xuchenglin28/speaker_extraction_SpEx/releases{/id}",
   "deployments_url": "https://api.github.com/repos/xuchenglin28/speaker_extraction_SpEx/deployments",
   "created_at": "2020-03-09T00:00:32Z",
-  "updated_at": "2023-12-28T02:25:18Z",
+  "updated_at": "2024-01-18T15:31:28Z",
   "pushed_at": "2021-06-07T09:18:29Z",
   "git_url": "git://github.com/xuchenglin28/speaker_extraction_SpEx.git",
   "ssh_url": "git@github.com:xuchenglin28/speaker_extraction_SpEx.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/xuchenglin28/speaker_extraction_SpEx",
   "homepage": null,
   "size": 7190,
-  "stargazers_count": 47,
-  "watchers_count": 47,
+  "stargazers_count": 48,
+  "watchers_count": 48,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 18,
+  "forks_count": 19,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 18,
+  "forks": 19,
   "open_issues": 2,
-  "watchers": 47,
+  "watchers": 48,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 120
+  "_index": 124
 }

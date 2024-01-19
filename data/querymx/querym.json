@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/querymx/querym/releases{/id}",
   "deployments_url": "https://api.github.com/repos/querymx/querym/deployments",
   "created_at": "2023-05-15T13:09:55Z",
-  "updated_at": "2023-12-14T10:36:49Z",
+  "updated_at": "2024-01-18T04:48:11Z",
   "pushed_at": "2024-01-10T17:21:07Z",
   "git_url": "git://github.com/querymx/querym.git",
   "ssh_url": "git@github.com:querymx/querym.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/querymx/querym",
   "homepage": "https://querym.net/",
   "size": 7033,
-  "stargazers_count": 69,
-  "watchers_count": 69,
+  "stargazers_count": 70,
+  "watchers_count": 70,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 27,
   "open_issues": 20,
-  "watchers": 69,
+  "watchers": 70,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 695
+  "_index": 699
 }

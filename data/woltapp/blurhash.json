@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/woltapp/blurhash/releases{/id}",
   "deployments_url": "https://api.github.com/repos/woltapp/blurhash/deployments",
   "created_at": "2019-06-26T10:45:33Z",
-  "updated_at": "2024-01-17T18:37:16Z",
+  "updated_at": "2024-01-18T02:44:33Z",
   "pushed_at": "2024-01-15T13:13:25Z",
   "git_url": "git://github.com/woltapp/blurhash.git",
   "ssh_url": "git@github.com:woltapp/blurhash.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/woltapp/blurhash",
   "homepage": "https://blurha.sh",
   "size": 12238,
-  "stargazers_count": 14697,
-  "watchers_count": 14697,
+  "stargazers_count": 14698,
+  "watchers_count": 14698,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 329,
   "open_issues": 46,
-  "watchers": 14697,
+  "watchers": 14698,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2277
+  "_index": 2281
 }

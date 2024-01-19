@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/colinlienard/gitlight/releases{/id}",
   "deployments_url": "https://api.github.com/repos/colinlienard/gitlight/deployments",
   "created_at": "2023-02-26T16:48:08Z",
-  "updated_at": "2024-01-18T00:22:02Z",
-  "pushed_at": "2024-01-18T00:34:23Z",
+  "updated_at": "2024-01-18T19:34:41Z",
+  "pushed_at": "2024-01-19T01:14:39Z",
   "git_url": "git://github.com/colinlienard/gitlight.git",
   "ssh_url": "git@github.com:colinlienard/gitlight.git",
   "clone_url": "https://github.com/colinlienard/gitlight.git",
   "svn_url": "https://github.com/colinlienard/gitlight",
   "homepage": "https://gitlight.app",
-  "size": 9979,
-  "stargazers_count": 593,
-  "watchers_count": 593,
+  "size": 9989,
+  "stargazers_count": 594,
+  "watchers_count": 594,
   "language": "Svelte",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 4,
+  "open_issues_count": 5,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 25,
-  "open_issues": 4,
-  "watchers": 593,
+  "open_issues": 5,
+  "watchers": 594,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 658
+  "_index": 662
 }
