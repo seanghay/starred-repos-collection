@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/KhronosGroup/MoltenVK/releases{/id}",
   "deployments_url": "https://api.github.com/repos/KhronosGroup/MoltenVK/deployments",
   "created_at": "2017-11-07T18:41:56Z",
-  "updated_at": "2024-01-18T04:26:35Z",
-  "pushed_at": "2024-01-16T23:13:22Z",
+  "updated_at": "2024-01-19T08:49:58Z",
+  "pushed_at": "2024-01-19T13:02:57Z",
   "git_url": "git://github.com/KhronosGroup/MoltenVK.git",
   "ssh_url": "git@github.com:KhronosGroup/MoltenVK.git",
   "clone_url": "https://github.com/KhronosGroup/MoltenVK.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 223,
+  "open_issues_count": 225,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 406,
-  "open_issues": 223,
+  "open_issues": 225,
   "watchers": 4392,
   "default_branch": "main",
   "permissions": {

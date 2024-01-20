@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Audio-AGI/AudioSep/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Audio-AGI/AudioSep/deployments",
   "created_at": "2023-08-08T19:18:47Z",
-  "updated_at": "2024-01-18T12:15:58Z",
+  "updated_at": "2024-01-19T21:17:18Z",
   "pushed_at": "2024-01-17T23:26:25Z",
   "git_url": "git://github.com/Audio-AGI/AudioSep.git",
   "ssh_url": "git@github.com:Audio-AGI/AudioSep.git",

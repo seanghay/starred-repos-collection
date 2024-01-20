@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 61,
+  "forks_count": 62,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -114,7 +114,7 @@
     "rwkv"
   ],
   "visibility": "public",
-  "forks": 61,
+  "forks": 62,
   "open_issues": 46,
   "watchers": 823,
   "default_branch": "main",
