@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/jcvasquezc/DisVoice/deployments",
   "created_at": "2017-08-05T17:53:13Z",
   "updated_at": "2024-01-19T10:42:03Z",
-  "pushed_at": "2023-11-03T15:43:18Z",
+  "pushed_at": "2024-01-21T18:21:44Z",
   "git_url": "git://github.com/jcvasquezc/DisVoice.git",
   "ssh_url": "git@github.com:jcvasquezc/DisVoice.git",
   "clone_url": "https://github.com/jcvasquezc/DisVoice.git",
   "svn_url": "https://github.com/jcvasquezc/DisVoice",
   "homepage": "https://disvoice.readthedocs.io/en/latest/",
-  "size": 53615,
+  "size": 53617,
   "stargazers_count": 304,
   "watchers_count": 304,
   "language": "Jupyter Notebook",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 14,
+  "open_issues_count": 15,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,7 +107,7 @@
   ],
   "visibility": "public",
   "forks": 72,
-  "open_issues": 14,
+  "open_issues": 15,
   "watchers": 304,
   "default_branch": "master",
   "permissions": {
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 400
+  "_index": 402
 }

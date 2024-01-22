@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/Homebrew/homebrew-autoupdate/deployments",
   "created_at": "2015-04-22T15:36:13Z",
   "updated_at": "2024-01-18T05:23:59Z",
-  "pushed_at": "2024-01-20T12:58:34Z",
+  "pushed_at": "2024-01-21T18:46:38Z",
   "git_url": "git://github.com/Homebrew/homebrew-autoupdate.git",
   "ssh_url": "git@github.com:Homebrew/homebrew-autoupdate.git",
   "clone_url": "https://github.com/Homebrew/homebrew-autoupdate.git",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1763
+  "_index": 1765
 }

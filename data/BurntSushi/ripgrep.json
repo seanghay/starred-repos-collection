@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/BurntSushi/ripgrep/releases{/id}",
   "deployments_url": "https://api.github.com/repos/BurntSushi/ripgrep/deployments",
   "created_at": "2016-03-11T02:02:33Z",
-  "updated_at": "2024-01-21T01:37:03Z",
+  "updated_at": "2024-01-22T01:51:10Z",
   "pushed_at": "2024-01-14T14:32:31Z",
   "git_url": "git://github.com/BurntSushi/ripgrep.git",
   "ssh_url": "git@github.com:BurntSushi/ripgrep.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/BurntSushi/ripgrep",
   "homepage": "",
   "size": 4613,
-  "stargazers_count": 42761,
-  "watchers_count": 42761,
+  "stargazers_count": 42784,
+  "watchers_count": 42784,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1895,
+  "forks_count": 1897,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,9 +110,9 @@
     "search"
   ],
   "visibility": "public",
-  "forks": 1895,
+  "forks": 1897,
   "open_issues": 79,
-  "watchers": 42761,
+  "watchers": 42784,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 180
+  "_index": 182
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/arthurflor23/handwritten-text-recognition/releases{/id}",
   "deployments_url": "https://api.github.com/repos/arthurflor23/handwritten-text-recognition/deployments",
   "created_at": "2019-04-14T14:46:57Z",
-  "updated_at": "2024-01-16T04:17:09Z",
+  "updated_at": "2024-01-21T20:10:21Z",
   "pushed_at": "2024-01-12T17:05:58Z",
   "git_url": "git://github.com/arthurflor23/handwritten-text-recognition.git",
   "ssh_url": "git@github.com:arthurflor23/handwritten-text-recognition.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/arthurflor23/handwritten-text-recognition",
   "homepage": "https://medium.com/@arthurflor23/handwritten-text-recognition-using-tensorflow-2-0-f4352b7afe16?sk=33aaa571c8f07dab4368c1fd8624f005",
   "size": 4945,
-  "stargazers_count": 214,
-  "watchers_count": 214,
+  "stargazers_count": 215,
+  "watchers_count": 215,
   "language": "Python",
   "has_issues": false,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 80,
   "open_issues": 1,
-  "watchers": 214,
+  "watchers": 215,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 118
+  "_index": 120
 }

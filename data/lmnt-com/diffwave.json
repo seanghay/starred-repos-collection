@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lmnt-com/diffwave/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lmnt-com/diffwave/deployments",
   "created_at": "2020-09-23T03:50:07Z",
-  "updated_at": "2024-01-19T10:42:23Z",
+  "updated_at": "2024-01-21T20:56:36Z",
   "pushed_at": "2023-07-18T01:28:06Z",
   "git_url": "git://github.com/lmnt-com/diffwave.git",
   "ssh_url": "git@github.com:lmnt-com/diffwave.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lmnt-com/diffwave",
   "homepage": "",
   "size": 21,
-  "stargazers_count": 693,
-  "watchers_count": 693,
+  "stargazers_count": 694,
+  "watchers_count": 694,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -114,7 +114,7 @@
   "visibility": "public",
   "forks": 104,
   "open_issues": 13,
-  "watchers": 693,
+  "watchers": 694,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 560
+  "_index": 562
 }

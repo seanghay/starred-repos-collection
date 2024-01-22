@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/porsager/postgres/releases{/id}",
   "deployments_url": "https://api.github.com/repos/porsager/postgres/deployments",
   "created_at": "2019-11-22T22:48:11Z",
-  "updated_at": "2024-01-20T21:09:42Z",
+  "updated_at": "2024-01-21T23:13:10Z",
   "pushed_at": "2024-01-14T23:26:14Z",
   "git_url": "git://github.com/porsager/postgres.git",
   "ssh_url": "git@github.com:porsager/postgres.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/porsager/postgres",
   "homepage": "",
   "size": 1592,
-  "stargazers_count": 6298,
-  "watchers_count": 6298,
+  "stargazers_count": 6301,
+  "watchers_count": 6301,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 232,
+  "forks_count": 233,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 77,
+  "open_issues_count": 78,
   "license": {
     "key": "unlicense",
     "name": "The Unlicense",
@@ -108,9 +108,9 @@
     "postgresql"
   ],
   "visibility": "public",
-  "forks": 232,
-  "open_issues": 77,
-  "watchers": 6298,
+  "forks": 233,
+  "open_issues": 78,
+  "watchers": 6301,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 898
+  "_index": 900
 }

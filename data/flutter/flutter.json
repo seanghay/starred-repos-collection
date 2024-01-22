@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/flutter/flutter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/flutter/flutter/deployments",
   "created_at": "2015-03-06T22:54:58Z",
-  "updated_at": "2024-01-20T23:56:56Z",
-  "pushed_at": "2024-01-21T00:32:47Z",
+  "updated_at": "2024-01-21T21:27:02Z",
+  "pushed_at": "2024-01-21T19:10:07Z",
   "git_url": "git://github.com/flutter/flutter.git",
   "ssh_url": "git@github.com:flutter/flutter.git",
   "clone_url": "https://github.com/flutter/flutter.git",
   "svn_url": "https://github.com/flutter/flutter",
   "homepage": "https://flutter.dev",
-  "size": 85057,
-  "stargazers_count": 159385,
-  "watchers_count": 159385,
+  "size": 85076,
+  "stargazers_count": 159398,
+  "watchers_count": 159398,
   "language": "Dart",
   "has_issues": true,
   "has_projects": true,
@@ -121,7 +121,7 @@
   "visibility": "public",
   "forks": 26746,
   "open_issues": 12278,
-  "watchers": 159385,
+  "watchers": 159398,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2027
+  "_index": 2029
 }

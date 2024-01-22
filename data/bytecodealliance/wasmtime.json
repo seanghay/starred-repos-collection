@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bytecodealliance/wasmtime/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bytecodealliance/wasmtime/deployments",
   "created_at": "2017-08-29T14:01:55Z",
-  "updated_at": "2024-01-20T23:11:37Z",
+  "updated_at": "2024-01-22T01:35:03Z",
   "pushed_at": "2024-01-20T22:10:10Z",
   "git_url": "git://github.com/bytecodealliance/wasmtime.git",
   "ssh_url": "git@github.com:bytecodealliance/wasmtime.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/bytecodealliance/wasmtime",
   "homepage": "https://wasmtime.dev/",
   "size": 90113,
-  "stargazers_count": 13783,
-  "watchers_count": 13783,
+  "stargazers_count": 13791,
+  "watchers_count": 13791,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1133,
+  "forks_count": 1134,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -111,9 +111,9 @@
     "webassembly"
   ],
   "visibility": "public",
-  "forks": 1133,
+  "forks": 1134,
   "open_issues": 675,
-  "watchers": 13783,
+  "watchers": 13791,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1234
+  "_index": 1236
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/jaywcjlove/awesome-mac/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jaywcjlove/awesome-mac/deployments",
   "created_at": "2016-07-17T15:33:47Z",
-  "updated_at": "2024-01-21T01:57:30Z",
-  "pushed_at": "2024-01-21T00:47:10Z",
+  "updated_at": "2024-01-22T01:55:44Z",
+  "pushed_at": "2024-01-21T03:53:21Z",
   "git_url": "git://github.com/jaywcjlove/awesome-mac.git",
   "ssh_url": "git@github.com:jaywcjlove/awesome-mac.git",
   "clone_url": "https://github.com/jaywcjlove/awesome-mac.git",
   "svn_url": "https://github.com/jaywcjlove/awesome-mac",
   "homepage": "https://git.io/macx",
-  "size": 12335,
-  "stargazers_count": 68202,
-  "watchers_count": 68202,
+  "size": 12478,
+  "stargazers_count": 68357,
+  "watchers_count": 68357,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 6144,
+  "forks_count": 6148,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 144,
+  "open_issues_count": 142,
   "license": {
     "key": "cc0-1.0",
     "name": "Creative Commons Zero v1.0 Universal",
@@ -110,9 +110,9 @@
     "software"
   ],
   "visibility": "public",
-  "forks": 6144,
-  "open_issues": 144,
-  "watchers": 68202,
+  "forks": 6148,
+  "open_issues": 142,
+  "watchers": 68357,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1301
+  "_index": 1303
 }

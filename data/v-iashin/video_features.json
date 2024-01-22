@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/v-iashin/video_features",
-  "description": "Extract video features from raw videos using multiple GPUs. We support RAFT and PWC flow frames as well as S3D, I3D, R(2+1)D, VGGish, CLIP, ResNet features.",
+  "description": "Extract video features from raw videos using multiple GPUs. We support RAFT flow frames as well as S3D, I3D, R(2+1)D, VGGish, CLIP, ResNet features.",
   "fork": false,
   "url": "https://api.github.com/repos/v-iashin/video_features",
   "forks_url": "https://api.github.com/repos/v-iashin/video_features/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/v-iashin/video_features/releases{/id}",
   "deployments_url": "https://api.github.com/repos/v-iashin/video_features/deployments",
   "created_at": "2020-06-01T17:57:03Z",
-  "updated_at": "2024-01-20T21:58:51Z",
-  "pushed_at": "2024-01-20T21:52:09Z",
+  "updated_at": "2024-01-21T21:33:36Z",
+  "pushed_at": "2024-01-21T21:27:33Z",
   "git_url": "git://github.com/v-iashin/video_features.git",
   "ssh_url": "git@github.com:v-iashin/video_features.git",
   "clone_url": "https://github.com/v-iashin/video_features.git",
   "svn_url": "https://github.com/v-iashin/video_features",
   "homepage": "https://v-iashin.github.io/video_features",
-  "size": 295534,
-  "stargazers_count": 395,
-  "watchers_count": 395,
+  "size": 295540,
+  "stargazers_count": 396,
+  "watchers_count": 396,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,6 @@
     "multi-gpu",
     "optical-flow",
     "parallel",
-    "pwc-net",
     "pytorch",
     "r2plus1d",
     "raft",
@@ -114,13 +113,12 @@
     "s3d",
     "vggish",
     "video-features",
-    "visual-features",
-    "windows"
+    "visual-features"
   ],
   "visibility": "public",
   "forks": 82,
   "open_issues": 18,
-  "watchers": 395,
+  "watchers": 396,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -129,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 48
+  "_index": 50
 }

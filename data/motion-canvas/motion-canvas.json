@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/motion-canvas/motion-canvas/releases{/id}",
   "deployments_url": "https://api.github.com/repos/motion-canvas/motion-canvas/deployments",
   "created_at": "2022-08-03T16:30:14Z",
-  "updated_at": "2024-01-20T20:23:11Z",
+  "updated_at": "2024-01-22T00:46:04Z",
   "pushed_at": "2024-01-16T08:10:48Z",
   "git_url": "git://github.com/motion-canvas/motion-canvas.git",
   "ssh_url": "git@github.com:motion-canvas/motion-canvas.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/motion-canvas/motion-canvas",
   "homepage": "https://motioncanvas.io",
   "size": 7454,
-  "stargazers_count": 14305,
-  "watchers_count": 14305,
+  "stargazers_count": 14310,
+  "watchers_count": 14310,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 559,
   "open_issues": 70,
-  "watchers": 14305,
+  "watchers": 14310,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 59
+  "_index": 61
 }

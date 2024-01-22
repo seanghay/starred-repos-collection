@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/chaiNNer-org/chaiNNer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/chaiNNer-org/chaiNNer/deployments",
   "created_at": "2021-09-07T22:58:14Z",
-  "updated_at": "2024-01-20T16:05:35Z",
-  "pushed_at": "2024-01-21T01:03:59Z",
+  "updated_at": "2024-01-21T13:11:52Z",
+  "pushed_at": "2024-01-21T19:29:41Z",
   "git_url": "git://github.com/chaiNNer-org/chaiNNer.git",
   "ssh_url": "git@github.com:chaiNNer-org/chaiNNer.git",
   "clone_url": "https://github.com/chaiNNer-org/chaiNNer.git",
   "svn_url": "https://github.com/chaiNNer-org/chaiNNer",
   "homepage": "https://chaiNNer.app",
-  "size": 26913,
-  "stargazers_count": 3665,
-  "watchers_count": 3665,
+  "size": 26994,
+  "stargazers_count": 3671,
+  "watchers_count": 3671,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 211,
+  "open_issues_count": 205,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 237,
-  "open_issues": 211,
-  "watchers": 3665,
+  "open_issues": 205,
+  "watchers": 3671,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 934
+  "_index": 936
 }

@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/lxn/walk/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lxn/walk/deployments",
   "created_at": "2010-09-16T08:11:49Z",
-  "updated_at": "2024-01-18T08:47:03Z",
-  "pushed_at": "2023-10-16T09:07:59Z",
+  "updated_at": "2024-01-22T01:13:09Z",
+  "pushed_at": "2024-01-21T11:56:29Z",
   "git_url": "git://github.com/lxn/walk.git",
   "ssh_url": "git@github.com:lxn/walk.git",
   "clone_url": "https://github.com/lxn/walk.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 926,
+  "forks_count": 928,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,7 +108,7 @@
     "windows-desktop"
   ],
   "visibility": "public",
-  "forks": 926,
+  "forks": 928,
   "open_issues": 347,
   "watchers": 6653,
   "default_branch": "master",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1862
+  "_index": 1864
 }

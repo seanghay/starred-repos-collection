@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/labelmeai/labelme/releases{/id}",
   "deployments_url": "https://api.github.com/repos/labelmeai/labelme/deployments",
   "created_at": "2016-05-09T12:30:26Z",
-  "updated_at": "2024-01-20T18:41:59Z",
-  "pushed_at": "2024-01-07T00:59:36Z",
+  "updated_at": "2024-01-21T15:53:24Z",
+  "pushed_at": "2024-01-21T06:05:18Z",
   "git_url": "git://github.com/labelmeai/labelme.git",
   "ssh_url": "git@github.com:labelmeai/labelme.git",
   "clone_url": "https://github.com/labelmeai/labelme.git",
   "svn_url": "https://github.com/labelmeai/labelme",
   "homepage": "",
-  "size": 46794,
-  "stargazers_count": 11762,
-  "watchers_count": 11762,
+  "size": 46759,
+  "stargazers_count": 11765,
+  "watchers_count": 11765,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 3193,
   "open_issues": 99,
-  "watchers": 11762,
+  "watchers": 11765,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 501
+  "_index": 503
 }

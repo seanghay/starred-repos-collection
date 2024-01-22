@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/livekit/livekit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/livekit/livekit/deployments",
   "created_at": "2020-09-30T06:49:46Z",
-  "updated_at": "2024-01-21T01:21:30Z",
-  "pushed_at": "2024-01-21T00:44:57Z",
+  "updated_at": "2024-01-21T16:30:09Z",
+  "pushed_at": "2024-01-22T00:29:28Z",
   "git_url": "git://github.com/livekit/livekit.git",
   "ssh_url": "git@github.com:livekit/livekit.git",
   "clone_url": "https://github.com/livekit/livekit.git",
   "svn_url": "https://github.com/livekit/livekit",
   "homepage": "https://docs.livekit.io",
-  "size": 8441,
-  "stargazers_count": 6422,
-  "watchers_count": 6422,
+  "size": 8443,
+  "stargazers_count": 6432,
+  "watchers_count": 6432,
   "language": "Go",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 550,
+  "forks_count": 552,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "webrtc"
   ],
   "visibility": "public",
-  "forks": 550,
+  "forks": 552,
   "open_issues": 84,
-  "watchers": 6422,
+  "watchers": 6432,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1841
+  "_index": 1843
 }
