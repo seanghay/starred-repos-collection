@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/jpikl/rew.git",
   "svn_url": "https://github.com/jpikl/rew",
   "homepage": "https://jpikl.github.io/rew/",
-  "size": 1647,
+  "size": 1601,
   "stargazers_count": 38,
   "watchers_count": 38,
   "language": "Rust",
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2075
+  "_index": 2088
 }

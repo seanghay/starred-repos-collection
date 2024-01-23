@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/mymindstorm/setup-emsdk/deployments",
   "created_at": "2019-08-22T19:55:25Z",
   "updated_at": "2024-01-10T08:14:12Z",
-  "pushed_at": "2023-11-22T16:49:20Z",
+  "pushed_at": "2024-01-22T05:12:52Z",
   "git_url": "git://github.com/mymindstorm/setup-emsdk.git",
   "ssh_url": "git@github.com:mymindstorm/setup-emsdk.git",
   "clone_url": "https://github.com/mymindstorm/setup-emsdk.git",
   "svn_url": "https://github.com/mymindstorm/setup-emsdk",
   "homepage": null,
-  "size": 2094,
+  "size": 2377,
   "stargazers_count": 80,
   "watchers_count": 80,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 12,
+  "open_issues_count": 4,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,7 +103,7 @@
   ],
   "visibility": "public",
   "forks": 23,
-  "open_issues": 12,
+  "open_issues": 4,
   "watchers": 80,
   "default_branch": "master",
   "permissions": {
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 838
+  "_index": 851
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/showdownjs/showdown/releases{/id}",
   "deployments_url": "https://api.github.com/repos/showdownjs/showdown/deployments",
   "created_at": "2008-11-13T21:39:21Z",
-  "updated_at": "2024-01-21T21:23:01Z",
+  "updated_at": "2024-01-22T15:12:00Z",
   "pushed_at": "2024-01-18T15:01:59Z",
   "git_url": "git://github.com/showdownjs/showdown.git",
   "ssh_url": "git@github.com:showdownjs/showdown.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/showdownjs/showdown",
   "homepage": "http://www.showdownjs.com/",
   "size": 7964,
-  "stargazers_count": 13723,
-  "watchers_count": 13723,
+  "stargazers_count": 13727,
+  "watchers_count": 13727,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 1639,
   "open_issues": 193,
-  "watchers": 13723,
+  "watchers": 13727,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2194
+  "_index": 2207
 }

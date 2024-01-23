@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/InsertKoinIO/koin/releases{/id}",
   "deployments_url": "https://api.github.com/repos/InsertKoinIO/koin/deployments",
   "created_at": "2017-06-06T12:21:06Z",
-  "updated_at": "2024-01-22T00:53:08Z",
-  "pushed_at": "2024-01-19T21:03:59Z",
+  "updated_at": "2024-01-23T00:14:23Z",
+  "pushed_at": "2024-01-22T10:29:18Z",
   "git_url": "git://github.com/InsertKoinIO/koin.git",
   "ssh_url": "git@github.com:InsertKoinIO/koin.git",
   "clone_url": "https://github.com/InsertKoinIO/koin.git",
   "svn_url": "https://github.com/InsertKoinIO/koin",
   "homepage": "https://insert-koin.io",
   "size": 42328,
-  "stargazers_count": 8459,
-  "watchers_count": 8459,
+  "stargazers_count": 8461,
+  "watchers_count": 8461,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 669,
+  "forks_count": 670,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 90,
+  "open_issues_count": 92,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -107,9 +107,9 @@
     "library"
   ],
   "visibility": "public",
-  "forks": 669,
-  "open_issues": 90,
-  "watchers": 8459,
+  "forks": 670,
+  "open_issues": 92,
+  "watchers": 8461,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3268
+  "_index": 3281
 }

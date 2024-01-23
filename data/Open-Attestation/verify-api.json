@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/Open-Attestation/verify-api/deployments",
   "created_at": "2021-11-19T09:14:13Z",
   "updated_at": "2024-01-18T13:46:42Z",
-  "pushed_at": "2024-01-19T02:13:50Z",
+  "pushed_at": "2024-01-22T06:23:00Z",
   "git_url": "git://github.com/Open-Attestation/verify-api.git",
   "ssh_url": "git@github.com:Open-Attestation/verify-api.git",
   "clone_url": "https://github.com/Open-Attestation/verify-api.git",
   "svn_url": "https://github.com/Open-Attestation/verify-api",
   "homepage": "https://api.verify.gov.sg/verify",
-  "size": 288,
+  "size": 281,
   "stargazers_count": 3,
   "watchers_count": 3,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 15,
+  "open_issues_count": 14,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -94,7 +94,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 2,
-  "open_issues": 15,
+  "open_issues": 14,
   "watchers": 3,
   "default_branch": "master",
   "permissions": {
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1269
+  "_index": 1282
 }

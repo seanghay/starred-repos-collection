@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/UweTrottmann/SeriesGuide/deployments",
   "created_at": "2011-07-03T10:26:37Z",
   "updated_at": "2024-01-19T16:16:46Z",
-  "pushed_at": "2024-01-19T12:39:13Z",
+  "pushed_at": "2024-01-22T11:21:36Z",
   "git_url": "git://github.com/UweTrottmann/SeriesGuide.git",
   "ssh_url": "git@github.com:UweTrottmann/SeriesGuide.git",
   "clone_url": "https://github.com/UweTrottmann/SeriesGuide.git",
   "svn_url": "https://github.com/UweTrottmann/SeriesGuide",
   "homepage": "https://seriesgui.de",
-  "size": 138753,
+  "size": 138754,
   "stargazers_count": 1874,
   "watchers_count": 1874,
   "language": "Kotlin",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2558
+  "_index": 2571
 }

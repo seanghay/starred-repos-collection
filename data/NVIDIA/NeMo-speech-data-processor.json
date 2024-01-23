@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/NVIDIA/NeMo-speech-data-processor/deployments",
   "created_at": "2022-11-04T17:27:24Z",
   "updated_at": "2024-01-21T13:42:36Z",
-  "pushed_at": "2024-01-21T17:00:31Z",
+  "pushed_at": "2024-01-22T17:54:49Z",
   "git_url": "git://github.com/NVIDIA/NeMo-speech-data-processor.git",
   "ssh_url": "git@github.com:NVIDIA/NeMo-speech-data-processor.git",
   "clone_url": "https://github.com/NVIDIA/NeMo-speech-data-processor.git",
   "svn_url": "https://github.com/NVIDIA/NeMo-speech-data-processor",
   "homepage": "https://nvidia.github.io/NeMo-speech-data-processor/",
-  "size": 615,
+  "size": 506,
   "stargazers_count": 47,
   "watchers_count": 47,
   "language": "Python",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 109
+  "_index": 122
 }

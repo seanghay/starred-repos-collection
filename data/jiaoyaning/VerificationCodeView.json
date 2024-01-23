@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jiaoyaning/VerificationCodeView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jiaoyaning/VerificationCodeView/deployments",
   "created_at": "2017-11-02T02:33:50Z",
-  "updated_at": "2024-01-17T09:04:59Z",
+  "updated_at": "2024-01-22T14:18:23Z",
   "pushed_at": "2019-08-09T02:43:53Z",
   "git_url": "git://github.com/jiaoyaning/VerificationCodeView.git",
   "ssh_url": "git@github.com:jiaoyaning/VerificationCodeView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jiaoyaning/VerificationCodeView",
   "homepage": "",
   "size": 4461,
-  "stargazers_count": 329,
-  "watchers_count": 329,
+  "stargazers_count": 330,
+  "watchers_count": 330,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -99,7 +99,7 @@
   "visibility": "public",
   "forks": 66,
   "open_issues": 9,
-  "watchers": 329,
+  "watchers": 330,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -108,5 +108,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2487
+  "_index": 2500
 }

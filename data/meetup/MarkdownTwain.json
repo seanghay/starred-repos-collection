@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/meetup/MarkdownTwain/releases{/id}",
   "deployments_url": "https://api.github.com/repos/meetup/MarkdownTwain/deployments",
   "created_at": "2023-02-22T19:41:55Z",
-  "updated_at": "2024-01-21T17:00:15Z",
+  "updated_at": "2024-01-22T18:07:39Z",
   "pushed_at": "2023-04-21T16:06:44Z",
   "git_url": "git://github.com/meetup/MarkdownTwain.git",
   "ssh_url": "git@github.com:meetup/MarkdownTwain.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/meetup/MarkdownTwain",
   "homepage": null,
   "size": 21830,
-  "stargazers_count": 72,
-  "watchers_count": 72,
+  "stargazers_count": 73,
+  "watchers_count": 73,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 2,
   "open_issues": 2,
-  "watchers": 72,
+  "watchers": 73,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 779
+  "_index": 792
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/oh-my-ocr/text_renderer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/oh-my-ocr/text_renderer/deployments",
   "created_at": "2020-06-18T09:07:13Z",
-  "updated_at": "2024-01-18T09:35:31Z",
+  "updated_at": "2024-01-22T06:44:32Z",
   "pushed_at": "2023-02-09T08:58:46Z",
   "git_url": "git://github.com/oh-my-ocr/text_renderer.git",
   "ssh_url": "git@github.com:oh-my-ocr/text_renderer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/oh-my-ocr/text_renderer",
   "homepage": "https://oh-my-ocr.github.io/text_renderer/README.html",
   "size": 9365,
-  "stargazers_count": 680,
-  "watchers_count": 680,
+  "stargazers_count": 681,
+  "watchers_count": 681,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 144,
   "open_issues": 22,
-  "watchers": 680,
+  "watchers": 681,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 127
+  "_index": 140
 }

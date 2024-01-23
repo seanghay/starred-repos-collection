@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/shuding/nextra/releases{/id}",
   "deployments_url": "https://api.github.com/repos/shuding/nextra/deployments",
   "created_at": "2020-06-15T16:39:34Z",
-  "updated_at": "2024-01-21T20:03:09Z",
-  "pushed_at": "2024-01-19T12:33:53Z",
+  "updated_at": "2024-01-22T22:05:26Z",
+  "pushed_at": "2024-01-22T18:23:41Z",
   "git_url": "git://github.com/shuding/nextra.git",
   "ssh_url": "git@github.com:shuding/nextra.git",
   "clone_url": "https://github.com/shuding/nextra.git",
   "svn_url": "https://github.com/shuding/nextra",
   "homepage": "https://nextra.site",
-  "size": 24470,
-  "stargazers_count": 9684,
-  "watchers_count": 9684,
+  "size": 24441,
+  "stargazers_count": 9693,
+  "watchers_count": 9693,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1091,
+  "forks_count": 1092,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 278,
+  "open_issues_count": 277,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,9 +106,9 @@
     "static-site-generator"
   ],
   "visibility": "public",
-  "forks": 1091,
-  "open_issues": 278,
-  "watchers": 9684,
+  "forks": 1092,
+  "open_issues": 277,
+  "watchers": 9693,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 301
+  "_index": 314
 }

@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 0,
+  "forks_count": 1,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,7 +107,7 @@
     "nodejs-native-addon"
   ],
   "visibility": "public",
-  "forks": 0,
+  "forks": 1,
   "open_issues": 5,
   "watchers": 2,
   "default_branch": "@mvasilkov/cmark-gfm",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1648
+  "_index": 1661
 }

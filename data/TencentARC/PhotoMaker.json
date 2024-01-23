@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/TencentARC/PhotoMaker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/TencentARC/PhotoMaker/deployments",
   "created_at": "2023-12-06T07:46:14Z",
-  "updated_at": "2024-01-22T01:56:41Z",
+  "updated_at": "2024-01-23T01:53:53Z",
   "pushed_at": "2024-01-20T17:23:05Z",
   "git_url": "git://github.com/TencentARC/PhotoMaker.git",
   "ssh_url": "git@github.com:TencentARC/PhotoMaker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/TencentARC/PhotoMaker",
   "homepage": "https://photo-maker.github.io/",
   "size": 9522,
-  "stargazers_count": 5906,
-  "watchers_count": 5906,
+  "stargazers_count": 6118,
+  "watchers_count": 6118,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 410,
+  "forks_count": 435,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 71,
+  "open_issues_count": 72,
   "license": {
     "key": "other",
     "name": "Other",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 410,
-  "open_issues": 71,
-  "watchers": 5906,
+  "forks": 435,
+  "open_issues": 72,
+  "watchers": 6118,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 6
+  "_index": 19
 }
