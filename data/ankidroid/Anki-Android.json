@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ankidroid/Anki-Android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ankidroid/Anki-Android/deployments",
   "created_at": "2013-01-20T13:55:53Z",
-  "updated_at": "2024-01-22T22:45:46Z",
-  "pushed_at": "2024-01-22T21:30:47Z",
+  "updated_at": "2024-01-24T01:10:28Z",
+  "pushed_at": "2024-01-23T23:15:16Z",
   "git_url": "git://github.com/ankidroid/Anki-Android.git",
   "ssh_url": "git@github.com:ankidroid/Anki-Android.git",
   "clone_url": "https://github.com/ankidroid/Anki-Android.git",
   "svn_url": "https://github.com/ankidroid/Anki-Android",
   "homepage": "",
-  "size": 228564,
-  "stargazers_count": 7432,
-  "watchers_count": 7432,
+  "size": 228805,
+  "stargazers_count": 7435,
+  "watchers_count": 7435,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2073,
+  "forks_count": 2072,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 318,
+  "open_issues_count": 327,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -109,9 +109,9 @@
     "srs"
   ],
   "visibility": "public",
-  "forks": 2073,
-  "open_issues": 318,
-  "watchers": 7432,
+  "forks": 2072,
+  "open_issues": 327,
+  "watchers": 7435,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1698
+  "_index": 1704
 }

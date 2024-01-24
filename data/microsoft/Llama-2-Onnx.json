@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/microsoft/Llama-2-Onnx/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microsoft/Llama-2-Onnx/deployments",
   "created_at": "2023-07-17T21:01:49Z",
-  "updated_at": "2024-01-22T14:06:28Z",
+  "updated_at": "2024-01-23T17:26:12Z",
   "pushed_at": "2024-01-04T00:46:46Z",
   "git_url": "git://github.com/microsoft/Llama-2-Onnx.git",
   "ssh_url": "git@github.com:microsoft/Llama-2-Onnx.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 463
+  "_index": 469
 }

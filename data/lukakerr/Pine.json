@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lukakerr/Pine/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lukakerr/Pine/deployments",
   "created_at": "2018-04-26T01:19:42Z",
-  "updated_at": "2024-01-21T10:52:05Z",
+  "updated_at": "2024-01-23T09:14:15Z",
   "pushed_at": "2022-12-20T03:44:32Z",
   "git_url": "git://github.com/lukakerr/Pine.git",
   "ssh_url": "git@github.com:lukakerr/Pine.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lukakerr/Pine",
   "homepage": "https://lukakerr.github.io/Pine",
   "size": 4456,
-  "stargazers_count": 3254,
-  "watchers_count": 3254,
+  "stargazers_count": 3256,
+  "watchers_count": 3256,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 165,
   "open_issues": 46,
-  "watchers": 3254,
+  "watchers": 3256,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1032
+  "_index": 1038
 }

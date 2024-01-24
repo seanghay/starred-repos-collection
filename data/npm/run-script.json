@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/npm/run-script/deployments",
   "created_at": "2020-01-22T22:21:24Z",
   "updated_at": "2024-01-21T03:15:51Z",
-  "pushed_at": "2024-01-22T22:17:41Z",
+  "pushed_at": "2024-01-23T16:18:48Z",
   "git_url": "git://github.com/npm/run-script.git",
   "ssh_url": "git@github.com:npm/run-script.git",
   "clone_url": "https://github.com/npm/run-script.git",
   "svn_url": "https://github.com/npm/run-script",
   "homepage": "",
-  "size": 549,
+  "size": 551,
   "stargazers_count": 51,
   "watchers_count": 51,
   "language": "JavaScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 5,
+  "open_issues_count": 3,
   "license": {
     "key": "isc",
     "name": "ISC License",
@@ -102,7 +102,7 @@
   ],
   "visibility": "public",
   "forks": 22,
-  "open_issues": 5,
+  "open_issues": 3,
   "watchers": 51,
   "default_branch": "main",
   "permissions": {
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2588
+  "_index": 2594
 }

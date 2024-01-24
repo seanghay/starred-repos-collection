@@ -22,7 +22,7 @@
     "events_url": "https://api.github.com/users/terkelg/events{/privacy}",
     "received_events_url": "https://api.github.com/users/terkelg/received_events",
     "type": "User",
-    "site_admin": false
+    "site_admin": true
   },
   "html_url": "https://github.com/terkelg/prompts",
   "description": "❯ Lightweight, beautiful and user-friendly interactive prompts",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/terkelg/prompts/releases{/id}",
   "deployments_url": "https://api.github.com/repos/terkelg/prompts/deployments",
   "created_at": "2018-02-24T10:11:47Z",
-  "updated_at": "2024-01-22T16:53:44Z",
-  "pushed_at": "2024-01-20T18:29:09Z",
+  "updated_at": "2024-01-23T15:57:12Z",
+  "pushed_at": "2024-01-23T20:40:59Z",
   "git_url": "git://github.com/terkelg/prompts.git",
   "ssh_url": "git@github.com:terkelg/prompts.git",
   "clone_url": "https://github.com/terkelg/prompts.git",
   "svn_url": "https://github.com/terkelg/prompts",
   "homepage": "",
-  "size": 8700,
-  "stargazers_count": 8486,
-  "watchers_count": 8486,
+  "size": 8698,
+  "stargazers_count": 8488,
+  "watchers_count": 8488,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 143,
+  "open_issues_count": 142,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,8 +109,8 @@
   ],
   "visibility": "public",
   "forks": 326,
-  "open_issues": 143,
-  "watchers": 8486,
+  "open_issues": 142,
+  "watchers": 8488,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1188
+  "_index": 1194
 }

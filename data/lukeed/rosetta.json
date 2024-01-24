@@ -22,7 +22,7 @@
     "events_url": "https://api.github.com/users/lukeed/events{/privacy}",
     "received_events_url": "https://api.github.com/users/lukeed/received_events",
     "type": "User",
-    "site_admin": false
+    "site_admin": true
   },
   "html_url": "https://github.com/lukeed/rosetta",
   "description": "A general purpose internationalization library in 292 bytes",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2390
+  "_index": 2396
 }

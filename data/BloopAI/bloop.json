@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/BloopAI/bloop/releases{/id}",
   "deployments_url": "https://api.github.com/repos/BloopAI/bloop/deployments",
   "created_at": "2022-12-10T14:04:30Z",
-  "updated_at": "2024-01-22T21:37:52Z",
-  "pushed_at": "2024-01-22T17:14:16Z",
+  "updated_at": "2024-01-24T00:35:27Z",
+  "pushed_at": "2024-01-23T16:31:18Z",
   "git_url": "git://github.com/BloopAI/bloop.git",
   "ssh_url": "git@github.com:BloopAI/bloop.git",
   "clone_url": "https://github.com/BloopAI/bloop.git",
   "svn_url": "https://github.com/BloopAI/bloop",
   "homepage": "https://bloop.ai",
-  "size": 78726,
-  "stargazers_count": 8249,
-  "watchers_count": 8249,
+  "size": 78815,
+  "stargazers_count": 8250,
+  "watchers_count": 8250,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 528,
   "open_issues": 31,
-  "watchers": 8249,
+  "watchers": 8250,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 923
+  "_index": 929
 }

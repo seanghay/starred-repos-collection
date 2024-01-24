@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mozilla/nunjucks/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mozilla/nunjucks/deployments",
   "created_at": "2012-08-09T05:40:44Z",
-  "updated_at": "2024-01-22T18:58:24Z",
+  "updated_at": "2024-01-23T21:41:50Z",
   "pushed_at": "2024-01-16T08:35:13Z",
   "git_url": "git://github.com/mozilla/nunjucks.git",
   "ssh_url": "git@github.com:mozilla/nunjucks.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mozilla/nunjucks",
   "homepage": "https://mozilla.github.io/nunjucks/",
   "size": 7884,
-  "stargazers_count": 8373,
-  "watchers_count": 8373,
+  "stargazers_count": 8376,
+  "watchers_count": 8376,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 329,
+  "open_issues_count": 328,
   "license": {
     "key": "bsd-2-clause",
     "name": "BSD 2-Clause \"Simplified\" License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 686,
-  "open_issues": 329,
-  "watchers": 8373,
+  "open_issues": 328,
+  "watchers": 8376,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1220
+  "_index": 1226
 }

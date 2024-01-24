@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/werman/noise-suppression-for-voice/releases{/id}",
   "deployments_url": "https://api.github.com/repos/werman/noise-suppression-for-voice/deployments",
   "created_at": "2018-01-21T20:21:13Z",
-  "updated_at": "2024-01-23T00:25:51Z",
+  "updated_at": "2024-01-23T23:32:20Z",
   "pushed_at": "2023-10-22T08:37:28Z",
   "git_url": "git://github.com/werman/noise-suppression-for-voice.git",
   "ssh_url": "git@github.com:werman/noise-suppression-for-voice.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/werman/noise-suppression-for-voice",
   "homepage": "",
   "size": 14369,
-  "stargazers_count": 4165,
-  "watchers_count": 4165,
+  "stargazers_count": 4167,
+  "watchers_count": 4167,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 202,
+  "forks_count": 203,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 72,
+  "open_issues_count": 73,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -109,9 +109,9 @@
     "vst3-plugin"
   ],
   "visibility": "public",
-  "forks": 202,
-  "open_issues": 72,
-  "watchers": 4165,
+  "forks": 203,
+  "open_issues": 73,
+  "watchers": 4167,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 438
+  "_index": 444
 }

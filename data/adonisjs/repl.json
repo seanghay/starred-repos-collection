@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/adonisjs/repl/releases{/id}",
   "deployments_url": "https://api.github.com/repos/adonisjs/repl/deployments",
   "created_at": "2020-10-08T16:51:36Z",
-  "updated_at": "2023-12-24T05:41:59Z",
-  "pushed_at": "2024-01-08T01:35:05Z",
+  "updated_at": "2024-01-23T11:30:59Z",
+  "pushed_at": "2024-01-23T11:37:22Z",
   "git_url": "git://github.com/adonisjs/repl.git",
   "ssh_url": "git@github.com:adonisjs/repl.git",
   "clone_url": "https://github.com/adonisjs/repl.git",
   "svn_url": "https://github.com/adonisjs/repl",
-  "homepage": "",
-  "size": 3156,
+  "homepage": "https://docs.adonisjs.com/guides/repl",
+  "size": 3158,
   "stargazers_count": 91,
   "watchers_count": 91,
   "language": "TypeScript",
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2076
+  "_index": 2082
 }

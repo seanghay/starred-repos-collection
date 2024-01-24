@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/LSimon95/megatts2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/LSimon95/megatts2/deployments",
   "created_at": "2023-12-10T15:02:54Z",
-  "updated_at": "2024-01-21T08:40:56Z",
-  "pushed_at": "2024-01-22T16:03:26Z",
+  "updated_at": "2024-01-23T09:57:50Z",
+  "pushed_at": "2024-01-23T15:06:25Z",
   "git_url": "git://github.com/LSimon95/megatts2.git",
   "ssh_url": "git@github.com:LSimon95/megatts2.git",
   "clone_url": "https://github.com/LSimon95/megatts2.git",
   "svn_url": "https://github.com/LSimon95/megatts2",
   "homepage": "",
-  "size": 279,
-  "stargazers_count": 80,
-  "watchers_count": 80,
+  "size": 288,
+  "stargazers_count": 84,
+  "watchers_count": 84,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 8,
   "open_issues": 2,
-  "watchers": 80,
+  "watchers": 84,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 58
+  "_index": 64
 }
