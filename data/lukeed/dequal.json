@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lukeed/dequal/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lukeed/dequal/deployments",
   "created_at": "2019-03-07T21:17:50Z",
-  "updated_at": "2024-01-21T08:41:08Z",
+  "updated_at": "2024-01-24T11:18:22Z",
   "pushed_at": "2024-01-20T17:55:26Z",
   "git_url": "git://github.com/lukeed/dequal.git",
   "ssh_url": "git@github.com:lukeed/dequal.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1162
+  "_index": 1166
 }

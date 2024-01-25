@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/francoischalifour/medium-zoom/releases{/id}",
   "deployments_url": "https://api.github.com/repos/francoischalifour/medium-zoom/deployments",
   "created_at": "2016-07-26T20:48:35Z",
-  "updated_at": "2024-01-23T09:10:38Z",
+  "updated_at": "2024-01-24T17:59:01Z",
   "pushed_at": "2023-11-16T11:28:45Z",
   "git_url": "git://github.com/francoischalifour/medium-zoom.git",
   "ssh_url": "git@github.com:francoischalifour/medium-zoom.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/francoischalifour/medium-zoom",
   "homepage": "https://medium-zoom.francoischalifour.com",
   "size": 23631,
-  "stargazers_count": 3462,
-  "watchers_count": 3462,
+  "stargazers_count": 3461,
+  "watchers_count": 3461,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 36,
+  "open_issues_count": 37,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -115,8 +115,8 @@
   ],
   "visibility": "public",
   "forks": 160,
-  "open_issues": 36,
-  "watchers": 3462,
+  "open_issues": 37,
+  "watchers": 3461,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1440
+  "_index": 1444
 }

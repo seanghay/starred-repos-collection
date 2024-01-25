@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/myshell-ai/OpenVoice/releases{/id}",
   "deployments_url": "https://api.github.com/repos/myshell-ai/OpenVoice/deployments",
   "created_at": "2023-11-29T12:17:01Z",
-  "updated_at": "2024-01-24T01:35:42Z",
-  "pushed_at": "2024-01-20T03:40:00Z",
+  "updated_at": "2024-01-25T01:41:01Z",
+  "pushed_at": "2024-01-24T03:20:30Z",
   "git_url": "git://github.com/myshell-ai/OpenVoice.git",
   "ssh_url": "git@github.com:myshell-ai/OpenVoice.git",
   "clone_url": "https://github.com/myshell-ai/OpenVoice.git",
   "svn_url": "https://github.com/myshell-ai/OpenVoice",
   "homepage": "https://research.myshell.ai/open-voice",
-  "size": 2947,
-  "stargazers_count": 12863,
-  "watchers_count": 12863,
+  "size": 2949,
+  "stargazers_count": 12955,
+  "watchers_count": 12955,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1088,
+  "forks_count": 1099,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "zero-shot-tts"
   ],
   "visibility": "public",
-  "forks": 1088,
+  "forks": 1099,
   "open_issues": 63,
-  "watchers": 12863,
+  "watchers": 12955,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 66
+  "_index": 70
 }

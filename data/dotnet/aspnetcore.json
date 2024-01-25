@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/dotnet/aspnetcore/releases{/id}",
   "deployments_url": "https://api.github.com/repos/dotnet/aspnetcore/deployments",
   "created_at": "2014-03-11T06:09:42Z",
-  "updated_at": "2024-01-23T22:06:49Z",
-  "pushed_at": "2024-01-24T00:26:14Z",
+  "updated_at": "2024-01-25T01:47:56Z",
+  "pushed_at": "2024-01-25T01:28:11Z",
   "git_url": "git://github.com/dotnet/aspnetcore.git",
   "ssh_url": "git@github.com:dotnet/aspnetcore.git",
   "clone_url": "https://github.com/dotnet/aspnetcore.git",
   "svn_url": "https://github.com/dotnet/aspnetcore",
   "homepage": "https://asp.net",
-  "size": 420278,
-  "stargazers_count": 33537,
-  "watchers_count": 33537,
+  "size": 420209,
+  "stargazers_count": 33550,
+  "watchers_count": 33550,
   "language": "C#",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 9614,
+  "forks_count": 9618,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2962,
+  "open_issues_count": 2958,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,9 +104,9 @@
     "help-wanted"
   ],
   "visibility": "public",
-  "forks": 9614,
-  "open_issues": 2962,
-  "watchers": 33537,
+  "forks": 9618,
+  "open_issues": 2958,
+  "watchers": 33550,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2340
+  "_index": 2344
 }

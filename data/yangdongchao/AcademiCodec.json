@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yangdongchao/AcademiCodec/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yangdongchao/AcademiCodec/deployments",
   "created_at": "2022-12-23T13:08:35Z",
-  "updated_at": "2024-01-19T10:42:48Z",
+  "updated_at": "2024-01-24T02:45:13Z",
   "pushed_at": "2023-12-27T08:22:56Z",
   "git_url": "git://github.com/yangdongchao/AcademiCodec.git",
   "ssh_url": "git@github.com:yangdongchao/AcademiCodec.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yangdongchao/AcademiCodec",
   "homepage": "",
   "size": 259,
-  "stargazers_count": 438,
-  "watchers_count": 438,
+  "stargazers_count": 439,
+  "watchers_count": 439,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 60,
   "open_issues": 20,
-  "watchers": 438,
+  "watchers": 439,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 28
+  "_index": 32
 }

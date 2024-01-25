@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/topjohnwu/Magisk/releases{/id}",
   "deployments_url": "https://api.github.com/repos/topjohnwu/Magisk/deployments",
   "created_at": "2016-09-08T12:42:53Z",
-  "updated_at": "2024-01-24T00:11:16Z",
+  "updated_at": "2024-01-25T01:34:43Z",
   "pushed_at": "2024-01-23T02:10:31Z",
   "git_url": "git://github.com/topjohnwu/Magisk.git",
   "ssh_url": "git@github.com:topjohnwu/Magisk.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/topjohnwu/Magisk",
   "homepage": "",
   "size": 58902,
-  "stargazers_count": 41698,
-  "watchers_count": 41698,
+  "stargazers_count": 41724,
+  "watchers_count": 41724,
   "language": "C++",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 10817,
+  "forks_count": 10823,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 10817,
+  "forks": 10823,
   "open_issues": 32,
-  "watchers": 41698,
+  "watchers": 41724,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2770
+  "_index": 2774
 }

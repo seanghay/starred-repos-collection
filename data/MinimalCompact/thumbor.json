@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/MinimalCompact/thumbor/deployments",
   "created_at": "2018-07-01T19:40:19Z",
   "updated_at": "2024-01-23T14:23:44Z",
-  "pushed_at": "2024-01-18T14:00:38Z",
+  "pushed_at": "2024-01-24T17:12:30Z",
   "git_url": "git://github.com/MinimalCompact/thumbor.git",
   "ssh_url": "git@github.com:MinimalCompact/thumbor.git",
   "clone_url": "https://github.com/MinimalCompact/thumbor.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 84,
+  "forks_count": 85,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 5,
+  "open_issues_count": 3,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -99,8 +99,8 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 84,
-  "open_issues": 5,
+  "forks": 85,
+  "open_issues": 3,
   "watchers": 257,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1513
+  "_index": 1517
 }

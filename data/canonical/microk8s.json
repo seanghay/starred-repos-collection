@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/canonical/microk8s/releases{/id}",
   "deployments_url": "https://api.github.com/repos/canonical/microk8s/deployments",
   "created_at": "2018-05-09T09:19:36Z",
-  "updated_at": "2024-01-23T15:51:12Z",
-  "pushed_at": "2024-01-13T10:05:19Z",
+  "updated_at": "2024-01-24T11:11:14Z",
+  "pushed_at": "2024-01-24T13:55:18Z",
   "git_url": "git://github.com/canonical/microk8s.git",
   "ssh_url": "git@github.com:canonical/microk8s.git",
   "clone_url": "https://github.com/canonical/microk8s.git",
   "svn_url": "https://github.com/canonical/microk8s",
   "homepage": "https://microk8s.io",
   "size": 11708,
-  "stargazers_count": 7928,
-  "watchers_count": 7928,
+  "stargazers_count": 7930,
+  "watchers_count": 7930,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 752,
+  "forks_count": 753,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 220,
+  "open_issues_count": 221,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -107,9 +107,9 @@
     "snap"
   ],
   "visibility": "public",
-  "forks": 752,
-  "open_issues": 220,
-  "watchers": 7928,
+  "forks": 753,
+  "open_issues": 221,
+  "watchers": 7930,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1850
+  "_index": 1854
 }

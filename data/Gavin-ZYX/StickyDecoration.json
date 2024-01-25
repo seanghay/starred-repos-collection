@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Gavin-ZYX/StickyDecoration/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Gavin-ZYX/StickyDecoration/deployments",
   "created_at": "2017-05-31T07:38:49Z",
-  "updated_at": "2024-01-22T13:59:17Z",
+  "updated_at": "2024-01-24T09:35:48Z",
   "pushed_at": "2022-11-15T03:06:40Z",
   "git_url": "git://github.com/Gavin-ZYX/StickyDecoration.git",
   "ssh_url": "git@github.com:Gavin-ZYX/StickyDecoration.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Gavin-ZYX/StickyDecoration",
   "homepage": null,
   "size": 1018,
-  "stargazers_count": 1032,
-  "watchers_count": 1032,
+  "stargazers_count": 1031,
+  "watchers_count": 1031,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 170,
+  "forks_count": 169,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 170,
+  "forks": 169,
   "open_issues": 3,
-  "watchers": 1032,
+  "watchers": 1031,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2622
+  "_index": 2626
 }

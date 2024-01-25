@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kotlin-orm/ktorm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kotlin-orm/ktorm/deployments",
   "created_at": "2018-11-30T07:28:36Z",
-  "updated_at": "2024-01-23T11:06:15Z",
+  "updated_at": "2024-01-24T14:55:29Z",
   "pushed_at": "2023-11-18T16:57:00Z",
   "git_url": "git://github.com/kotlin-orm/ktorm.git",
   "ssh_url": "git@github.com:kotlin-orm/ktorm.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3046
+  "_index": 3050
 }

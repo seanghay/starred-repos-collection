@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Yalantis/StarWars.Android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Yalantis/StarWars.Android/deployments",
   "created_at": "2015-12-14T08:50:11Z",
-  "updated_at": "2024-01-15T15:04:56Z",
+  "updated_at": "2024-01-24T15:03:37Z",
   "pushed_at": "2022-09-22T09:35:33Z",
   "git_url": "git://github.com/Yalantis/StarWars.Android.git",
   "ssh_url": "git@github.com:Yalantis/StarWars.Android.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Yalantis/StarWars.Android",
   "homepage": "https://yalantis.com/blog/star-wars-the-force-awakens-or-how-to-crumble-view-into-tiny-pieces-on-android/",
   "size": 18294,
-  "stargazers_count": 1943,
-  "watchers_count": 1943,
+  "stargazers_count": 1942,
+  "watchers_count": 1942,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 307,
   "open_issues": 14,
-  "watchers": 1943,
+  "watchers": 1942,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2982
+  "_index": 2986
 }

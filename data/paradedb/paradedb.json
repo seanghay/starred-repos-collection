@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/paradedb/paradedb",
-  "description": "PostgreSQL for Search",
+  "description": "Postgres for Search & Analytics",
   "fork": false,
   "url": "https://api.github.com/repos/paradedb/paradedb",
   "forks_url": "https://api.github.com/repos/paradedb/paradedb/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/paradedb/paradedb/releases{/id}",
   "deployments_url": "https://api.github.com/repos/paradedb/paradedb/deployments",
   "created_at": "2023-06-30T20:21:47Z",
-  "updated_at": "2024-01-23T22:09:31Z",
-  "pushed_at": "2024-01-24T01:54:24Z",
+  "updated_at": "2024-01-24T18:50:14Z",
+  "pushed_at": "2024-01-25T00:54:27Z",
   "git_url": "git://github.com/paradedb/paradedb.git",
   "ssh_url": "git@github.com:paradedb/paradedb.git",
   "clone_url": "https://github.com/paradedb/paradedb.git",
   "svn_url": "https://github.com/paradedb/paradedb",
   "homepage": "https://paradedb.com",
-  "size": 3405,
-  "stargazers_count": 2409,
-  "watchers_count": 2409,
+  "size": 4382,
+  "stargazers_count": 2413,
+  "watchers_count": 2413,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 38,
+  "open_issues_count": 54,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -98,23 +98,23 @@
   "is_template": false,
   "web_commit_signoff_required": true,
   "topics": [
+    "analytics",
     "bm25",
     "database",
     "elasticsearch",
     "faceting",
     "full-text-search",
+    "htap",
     "hybrid-search",
+    "olap",
     "postgres",
-    "postgresql",
-    "retrieval-augmented-generation",
     "sparse-vector",
-    "splade",
-    "vectors"
+    "splade"
   ],
   "visibility": "public",
   "forks": 70,
-  "open_issues": 38,
-  "watchers": 2409,
+  "open_issues": 54,
+  "watchers": 2413,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 242
+  "_index": 246
 }

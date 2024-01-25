@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/superfly/corrosion/releases{/id}",
   "deployments_url": "https://api.github.com/repos/superfly/corrosion/deployments",
   "created_at": "2023-04-23T15:42:33Z",
-  "updated_at": "2024-01-18T10:27:14Z",
+  "updated_at": "2024-01-24T22:43:24Z",
   "pushed_at": "2024-01-15T15:11:39Z",
   "git_url": "git://github.com/superfly/corrosion.git",
   "ssh_url": "git@github.com:superfly/corrosion.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/superfly/corrosion",
   "homepage": "https://superfly.github.io/corrosion/",
   "size": 24481,
-  "stargazers_count": 543,
-  "watchers_count": 543,
+  "stargazers_count": 545,
+  "watchers_count": 545,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 11,
   "open_issues": 17,
-  "watchers": 543,
+  "watchers": 545,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 304
+  "_index": 308
 }

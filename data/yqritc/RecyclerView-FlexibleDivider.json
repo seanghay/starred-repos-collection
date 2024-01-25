@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yqritc/RecyclerView-FlexibleDivider/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yqritc/RecyclerView-FlexibleDivider/deployments",
   "created_at": "2015-01-15T15:09:34Z",
-  "updated_at": "2024-01-19T21:15:48Z",
+  "updated_at": "2024-01-24T16:17:07Z",
   "pushed_at": "2023-08-23T10:06:19Z",
   "git_url": "git://github.com/yqritc/RecyclerView-FlexibleDivider.git",
   "ssh_url": "git@github.com:yqritc/RecyclerView-FlexibleDivider.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2452
+  "_index": 2456
 }

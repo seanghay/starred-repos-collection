@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/innnky/emotional-vits/releases{/id}",
   "deployments_url": "https://api.github.com/repos/innnky/emotional-vits/deployments",
   "created_at": "2022-08-01T23:06:29Z",
-  "updated_at": "2024-01-22T19:23:51Z",
+  "updated_at": "2024-01-24T11:20:45Z",
   "pushed_at": "2023-03-30T11:10:17Z",
   "git_url": "git://github.com/innnky/emotional-vits.git",
   "ssh_url": "git@github.com:innnky/emotional-vits.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 83
+  "_index": 87
 }

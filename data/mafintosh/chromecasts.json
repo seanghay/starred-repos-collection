@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mafintosh/chromecasts/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mafintosh/chromecasts/deployments",
   "created_at": "2015-04-12T06:04:00Z",
-  "updated_at": "2024-01-17T15:49:32Z",
+  "updated_at": "2024-01-25T00:18:54Z",
   "pushed_at": "2021-10-04T14:15:31Z",
   "git_url": "git://github.com/mafintosh/chromecasts.git",
   "ssh_url": "git@github.com:mafintosh/chromecasts.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1021
+  "_index": 1025
 }

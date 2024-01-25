@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yyx990803/vite-vs-next-turbo-hmr/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yyx990803/vite-vs-next-turbo-hmr/deployments",
   "created_at": "2022-10-28T08:09:12Z",
-  "updated_at": "2024-01-04T17:12:59Z",
+  "updated_at": "2024-01-24T11:21:34Z",
   "pushed_at": "2023-02-16T06:08:38Z",
   "git_url": "git://github.com/yyx990803/vite-vs-next-turbo-hmr.git",
   "ssh_url": "git@github.com:yyx990803/vite-vs-next-turbo-hmr.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yyx990803/vite-vs-next-turbo-hmr",
   "homepage": null,
   "size": 219,
-  "stargazers_count": 920,
-  "watchers_count": 920,
+  "stargazers_count": 921,
+  "watchers_count": 921,
   "language": "JavaScript",
   "has_issues": false,
   "has_projects": false,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 37,
   "open_issues": 0,
-  "watchers": 920,
+  "watchers": 921,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1096
+  "_index": 1100
 }

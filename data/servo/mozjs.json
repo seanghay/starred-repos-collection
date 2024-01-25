@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/servo/mozjs/deployments",
   "created_at": "2012-05-06T07:37:35Z",
   "updated_at": "2024-01-21T14:26:26Z",
-  "pushed_at": "2024-01-23T19:06:20Z",
+  "pushed_at": "2024-01-24T09:50:08Z",
   "git_url": "git://github.com/servo/mozjs.git",
   "ssh_url": "git@github.com:servo/mozjs.git",
   "clone_url": "https://github.com/servo/mozjs.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 29,
+  "open_issues_count": 30,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -94,7 +94,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 106,
-  "open_issues": 29,
+  "open_issues": 30,
   "watchers": 191,
   "default_branch": "main",
   "permissions": {
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 19
+  "_index": 23
 }

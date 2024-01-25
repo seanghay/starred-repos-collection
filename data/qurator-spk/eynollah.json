@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/qurator-spk/eynollah/deployments",
   "created_at": "2020-11-20T11:47:50Z",
   "updated_at": "2024-01-19T18:06:07Z",
-  "pushed_at": "2024-01-19T16:17:10Z",
+  "pushed_at": "2024-01-24T18:33:51Z",
   "git_url": "git://github.com/qurator-spk/eynollah.git",
   "ssh_url": "git@github.com:qurator-spk/eynollah.git",
   "clone_url": "https://github.com/qurator-spk/eynollah.git",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 124
+  "_index": 128
 }

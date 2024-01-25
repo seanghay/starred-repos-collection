@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/Chevrotain/chevrotain/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Chevrotain/chevrotain/deployments",
   "created_at": "2015-04-15T22:10:34Z",
-  "updated_at": "2024-01-14T04:49:22Z",
-  "pushed_at": "2024-01-23T18:03:28Z",
+  "updated_at": "2024-01-24T16:11:37Z",
+  "pushed_at": "2024-01-24T10:24:21Z",
   "git_url": "git://github.com/Chevrotain/chevrotain.git",
   "ssh_url": "git@github.com:Chevrotain/chevrotain.git",
   "clone_url": "https://github.com/Chevrotain/chevrotain.git",
   "svn_url": "https://github.com/Chevrotain/chevrotain",
   "homepage": "https://chevrotain.io",
-  "size": 38267,
+  "size": 38177,
   "stargazers_count": 2350,
   "watchers_count": 2350,
   "language": "TypeScript",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 200
+  "_index": 204
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/visionmedia/node-progress/releases{/id}",
   "deployments_url": "https://api.github.com/repos/visionmedia/node-progress/deployments",
   "created_at": "2011-04-21T01:09:35Z",
-  "updated_at": "2024-01-18T21:03:43Z",
+  "updated_at": "2024-01-24T23:37:40Z",
   "pushed_at": "2023-02-13T23:42:44Z",
   "git_url": "git://github.com/visionmedia/node-progress.git",
   "ssh_url": "git@github.com:visionmedia/node-progress.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1442
+  "_index": 1446
 }

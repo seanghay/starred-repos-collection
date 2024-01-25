@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/f90/Wave-U-Net/releases{/id}",
   "deployments_url": "https://api.github.com/repos/f90/Wave-U-Net/deployments",
   "created_at": "2018-04-24T16:48:57Z",
-  "updated_at": "2024-01-21T11:25:20Z",
+  "updated_at": "2024-01-24T13:27:15Z",
   "pushed_at": "2023-03-24T22:32:47Z",
   "git_url": "git://github.com/f90/Wave-U-Net.git",
   "ssh_url": "git@github.com:f90/Wave-U-Net.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/f90/Wave-U-Net",
   "homepage": "",
   "size": 7448,
-  "stargazers_count": 758,
-  "watchers_count": 758,
+  "stargazers_count": 759,
+  "watchers_count": 759,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 181,
   "open_issues": 15,
-  "watchers": 758,
+  "watchers": 759,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 623
+  "_index": 627
 }

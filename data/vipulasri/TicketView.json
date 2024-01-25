@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/vipulasri/TicketView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vipulasri/TicketView/deployments",
   "created_at": "2017-11-08T03:54:52Z",
-  "updated_at": "2024-01-18T01:53:29Z",
+  "updated_at": "2024-01-24T11:41:14Z",
   "pushed_at": "2022-07-09T18:24:49Z",
   "git_url": "git://github.com/vipulasri/TicketView.git",
   "ssh_url": "git@github.com:vipulasri/TicketView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/vipulasri/TicketView",
   "homepage": "",
   "size": 8792,
-  "stargazers_count": 1284,
-  "watchers_count": 1284,
+  "stargazers_count": 1283,
+  "watchers_count": 1283,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 220,
   "open_issues": 14,
-  "watchers": 1284,
+  "watchers": 1283,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2734
+  "_index": 2738
 }

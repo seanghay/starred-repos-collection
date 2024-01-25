@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/AnyImageKit/AnyImageKit/deployments",
   "created_at": "2019-09-16T04:59:59Z",
   "updated_at": "2024-01-23T10:30:13Z",
-  "pushed_at": "2024-01-12T07:29:22Z",
+  "pushed_at": "2024-01-24T03:20:31Z",
   "git_url": "git://github.com/AnyImageKit/AnyImageKit.git",
   "ssh_url": "git@github.com:AnyImageKit/AnyImageKit.git",
   "clone_url": "https://github.com/AnyImageKit/AnyImageKit.git",
   "svn_url": "https://github.com/AnyImageKit/AnyImageKit",
   "homepage": "",
-  "size": 7246,
+  "size": 7257,
   "stargazers_count": 690,
   "watchers_count": 690,
   "language": "Swift",
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1732
+  "_index": 1736
 }
