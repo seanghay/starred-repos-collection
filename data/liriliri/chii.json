@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/liriliri/chii/releases{/id}",
   "deployments_url": "https://api.github.com/repos/liriliri/chii/deployments",
   "created_at": "2020-04-14T04:34:18Z",
-  "updated_at": "2024-01-24T12:35:43Z",
+  "updated_at": "2024-01-25T16:26:50Z",
   "pushed_at": "2023-11-04T07:39:09Z",
   "git_url": "git://github.com/liriliri/chii.git",
   "ssh_url": "git@github.com:liriliri/chii.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/liriliri/chii",
   "homepage": "https://chii.liriliri.io",
   "size": 1025,
-  "stargazers_count": 1425,
-  "watchers_count": 1425,
+  "stargazers_count": 1426,
+  "watchers_count": 1426,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 133,
   "open_issues": 19,
-  "watchers": 1425,
+  "watchers": 1426,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 188
+  "_index": 205
 }

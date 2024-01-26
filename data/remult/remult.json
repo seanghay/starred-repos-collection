@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/remult/remult/deployments",
   "created_at": "2017-10-30T15:55:17Z",
   "updated_at": "2024-01-25T01:25:24Z",
-  "pushed_at": "2024-01-24T14:23:24Z",
+  "pushed_at": "2024-01-25T17:05:32Z",
   "git_url": "git://github.com/remult/remult.git",
   "ssh_url": "git@github.com:remult/remult.git",
   "clone_url": "https://github.com/remult/remult.git",
   "svn_url": "https://github.com/remult/remult",
   "homepage": "https://remult.dev",
-  "size": 33426,
+  "size": 34922,
   "stargazers_count": 2464,
   "watchers_count": 2464,
   "language": "TypeScript",
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1241
+  "_index": 1258
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/GoogleChromeLabs/squoosh/releases{/id}",
   "deployments_url": "https://api.github.com/repos/GoogleChromeLabs/squoosh/deployments",
   "created_at": "2018-03-07T22:42:03Z",
-  "updated_at": "2024-01-24T21:54:47Z",
-  "pushed_at": "2024-01-24T08:04:56Z",
+  "updated_at": "2024-01-26T01:40:51Z",
+  "pushed_at": "2024-01-25T08:22:41Z",
   "git_url": "git://github.com/GoogleChromeLabs/squoosh.git",
   "ssh_url": "git@github.com:GoogleChromeLabs/squoosh.git",
   "clone_url": "https://github.com/GoogleChromeLabs/squoosh.git",
   "svn_url": "https://github.com/GoogleChromeLabs/squoosh",
   "homepage": "https://squoosh.app",
   "size": 145973,
-  "stargazers_count": 20335,
-  "watchers_count": 20335,
+  "stargazers_count": 20341,
+  "watchers_count": 20341,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 1431,
   "open_issues": 202,
-  "watchers": 20335,
+  "watchers": 20341,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2683
+  "_index": 2700
 }

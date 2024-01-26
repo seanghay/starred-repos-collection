@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/vuejs/vue/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vuejs/vue/deployments",
   "created_at": "2013-07-29T03:24:51Z",
-  "updated_at": "2024-01-25T01:45:28Z",
-  "pushed_at": "2024-01-19T23:05:33Z",
+  "updated_at": "2024-01-26T01:20:36Z",
+  "pushed_at": "2024-01-25T11:31:16Z",
   "git_url": "git://github.com/vuejs/vue.git",
   "ssh_url": "git@github.com:vuejs/vue.git",
   "clone_url": "https://github.com/vuejs/vue.git",
   "svn_url": "https://github.com/vuejs/vue",
   "homepage": "http://v2.vuejs.org",
   "size": 32405,
-  "stargazers_count": 206220,
-  "watchers_count": 206220,
+  "stargazers_count": 206232,
+  "watchers_count": 206232,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 34655,
   "open_issues": 608,
-  "watchers": 206220,
+  "watchers": 206232,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3417
+  "_index": 3434
 }

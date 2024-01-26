@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/diegomura/react-pdf/releases{/id}",
   "deployments_url": "https://api.github.com/repos/diegomura/react-pdf/deployments",
   "created_at": "2016-10-18T21:33:58Z",
-  "updated_at": "2024-01-25T01:08:40Z",
+  "updated_at": "2024-01-26T01:22:50Z",
   "pushed_at": "2024-01-23T23:55:37Z",
   "git_url": "git://github.com/diegomura/react-pdf.git",
   "ssh_url": "git@github.com:diegomura/react-pdf.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/diegomura/react-pdf",
   "homepage": "https://react-pdf.org",
   "size": 30346,
-  "stargazers_count": 13735,
-  "watchers_count": 13735,
+  "stargazers_count": 13745,
+  "watchers_count": 13745,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1120,
+  "forks_count": 1121,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 441,
+  "open_issues_count": 442,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,9 +104,9 @@
     "renderer"
   ],
   "visibility": "public",
-  "forks": 1120,
-  "open_issues": 441,
-  "watchers": 13735,
+  "forks": 1121,
+  "open_issues": 442,
+  "watchers": 13745,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1346
+  "_index": 1363
 }

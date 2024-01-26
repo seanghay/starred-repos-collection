@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/idealo/image-super-resolution/releases{/id}",
   "deployments_url": "https://api.github.com/repos/idealo/image-super-resolution/deployments",
   "created_at": "2018-11-26T13:41:13Z",
-  "updated_at": "2024-01-24T18:49:33Z",
+  "updated_at": "2024-01-25T09:05:46Z",
   "pushed_at": "2023-12-31T12:14:36Z",
   "git_url": "git://github.com/idealo/image-super-resolution.git",
   "ssh_url": "git@github.com:idealo/image-super-resolution.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 106,
+  "open_issues_count": 107,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -116,7 +116,7 @@
   ],
   "visibility": "public",
   "forks": 741,
-  "open_issues": 106,
+  "open_issues": 107,
   "watchers": 4414,
   "default_branch": "master",
   "permissions": {
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 950
+  "_index": 967
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/BVLC/caffe/releases{/id}",
   "deployments_url": "https://api.github.com/repos/BVLC/caffe/deployments",
   "created_at": "2013-09-12T18:39:48Z",
-  "updated_at": "2024-01-25T01:48:24Z",
+  "updated_at": "2024-01-25T17:46:39Z",
   "pushed_at": "2023-11-22T06:10:02Z",
   "git_url": "git://github.com/BVLC/caffe.git",
   "ssh_url": "git@github.com:BVLC/caffe.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/BVLC/caffe",
   "homepage": "http://caffe.berkeleyvision.org/",
   "size": 76170,
-  "stargazers_count": 33740,
-  "watchers_count": 33740,
+  "stargazers_count": 33742,
+  "watchers_count": 33742,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 18967,
+  "forks_count": 18966,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1181,
+  "open_issues_count": 1180,
   "license": {
     "key": "other",
     "name": "Other",
@@ -103,9 +103,9 @@
     "vision"
   ],
   "visibility": "public",
-  "forks": 18967,
-  "open_issues": 1181,
-  "watchers": 33740,
+  "forks": 18966,
+  "open_issues": 1180,
+  "watchers": 33742,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 173
+  "_index": 190
 }

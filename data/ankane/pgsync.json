@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ankane/pgsync/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ankane/pgsync/deployments",
   "created_at": "2015-12-08T05:37:40Z",
-  "updated_at": "2024-01-24T17:10:54Z",
+  "updated_at": "2024-01-25T21:48:23Z",
   "pushed_at": "2023-12-26T15:14:42Z",
   "git_url": "git://github.com/ankane/pgsync.git",
   "ssh_url": "git@github.com:ankane/pgsync.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ankane/pgsync",
   "homepage": "",
   "size": 496,
-  "stargazers_count": 2857,
-  "watchers_count": 2857,
+  "stargazers_count": 2859,
+  "watchers_count": 2859,
   "language": "Ruby",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 191,
+  "forks_count": 190,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 12,
+  "open_issues_count": 11,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -101,9 +101,9 @@
     "postgresql"
   ],
   "visibility": "public",
-  "forks": 191,
-  "open_issues": 12,
-  "watchers": 2857,
+  "forks": 190,
+  "open_issues": 11,
+  "watchers": 2859,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1211
+  "_index": 1228
 }

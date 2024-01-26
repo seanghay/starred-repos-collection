@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Plutoberth/SonyHeadphonesClient/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Plutoberth/SonyHeadphonesClient/deployments",
   "created_at": "2020-08-03T12:10:43Z",
-  "updated_at": "2024-01-24T10:06:17Z",
+  "updated_at": "2024-01-26T01:23:34Z",
   "pushed_at": "2023-12-23T16:22:02Z",
   "git_url": "git://github.com/Plutoberth/SonyHeadphonesClient.git",
   "ssh_url": "git@github.com:Plutoberth/SonyHeadphonesClient.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Plutoberth/SonyHeadphonesClient",
   "homepage": "",
   "size": 2874,
-  "stargazers_count": 905,
-  "watchers_count": 905,
+  "stargazers_count": 907,
+  "watchers_count": 907,
   "language": "C++",
   "has_issues": true,
   "has_projects": false,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 68,
   "open_issues": 21,
-  "watchers": 905,
+  "watchers": 907,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2035
+  "_index": 2052
 }

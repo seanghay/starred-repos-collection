@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/theonedev/onedev",
-  "description": "Self-hosted Git Server with CI/CD and Kanban",
+  "description": "Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.",
   "fork": false,
   "url": "https://api.github.com/repos/theonedev/onedev",
   "forks_url": "https://api.github.com/repos/theonedev/onedev/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/theonedev/onedev/releases{/id}",
   "deployments_url": "https://api.github.com/repos/theonedev/onedev/deployments",
   "created_at": "2018-11-06T02:57:01Z",
-  "updated_at": "2024-01-24T15:31:09Z",
-  "pushed_at": "2024-01-24T06:03:17Z",
+  "updated_at": "2024-01-26T01:30:59Z",
+  "pushed_at": "2024-01-25T06:24:39Z",
   "git_url": "git://github.com/theonedev/onedev.git",
   "ssh_url": "git@github.com:theonedev/onedev.git",
   "clone_url": "https://github.com/theonedev/onedev.git",
   "svn_url": "https://github.com/theonedev/onedev",
   "homepage": "https://onedev.io",
-  "size": 211886,
-  "stargazers_count": 12212,
-  "watchers_count": 12212,
+  "size": 209113,
+  "stargazers_count": 12222,
+  "watchers_count": 12222,
   "language": "Java",
   "has_issues": false,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 818,
+  "forks_count": 819,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -98,14 +98,17 @@
   "is_template": false,
   "web_commit_signoff_required": false,
   "topics": [
+    "ci-cd",
     "devops",
     "git",
+    "kanban",
+    "packages",
     "self-hosted"
   ],
   "visibility": "public",
-  "forks": 818,
+  "forks": 819,
   "open_issues": 0,
-  "watchers": 12212,
+  "watchers": 12222,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2610
+  "_index": 2627
 }

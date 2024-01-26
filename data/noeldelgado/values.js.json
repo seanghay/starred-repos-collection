@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/noeldelgado/values.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/noeldelgado/values.js/deployments",
   "created_at": "2013-04-24T08:01:31Z",
-  "updated_at": "2024-01-24T05:38:23Z",
+  "updated_at": "2024-01-26T01:07:11Z",
   "pushed_at": "2024-01-20T01:44:43Z",
   "git_url": "git://github.com/noeldelgado/values.js.git",
   "ssh_url": "git@github.com:noeldelgado/values.js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/noeldelgado/values.js",
   "homepage": "https://noeldelgado.github.io/values.js/",
   "size": 579,
-  "stargazers_count": 263,
-  "watchers_count": 263,
+  "stargazers_count": 264,
+  "watchers_count": 264,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -121,7 +121,7 @@
   "visibility": "public",
   "forks": 29,
   "open_issues": 5,
-  "watchers": 263,
+  "watchers": 264,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 989
+  "_index": 1006
 }

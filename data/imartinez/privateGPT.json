@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/imartinez/privateGPT/releases{/id}",
   "deployments_url": "https://api.github.com/repos/imartinez/privateGPT/deployments",
   "created_at": "2023-05-02T09:15:31Z",
-  "updated_at": "2024-01-25T01:46:49Z",
-  "pushed_at": "2024-01-23T04:20:37Z",
+  "updated_at": "2024-01-26T01:08:59Z",
+  "pushed_at": "2024-01-25T09:56:26Z",
   "git_url": "git://github.com/imartinez/privateGPT.git",
   "ssh_url": "git@github.com:imartinez/privateGPT.git",
   "clone_url": "https://github.com/imartinez/privateGPT.git",
   "svn_url": "https://github.com/imartinez/privateGPT",
   "homepage": "https://docs.privategpt.dev",
-  "size": 1376,
-  "stargazers_count": 46862,
-  "watchers_count": 46862,
+  "size": 1371,
+  "stargazers_count": 46901,
+  "watchers_count": 46901,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 517,
+  "open_issues_count": 516,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 6240,
-  "open_issues": 517,
-  "watchers": 46862,
+  "open_issues": 516,
+  "watchers": 46901,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 725
+  "_index": 742
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/JakeWharton/hugo/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JakeWharton/hugo/deployments",
   "created_at": "2013-11-25T09:16:40Z",
-  "updated_at": "2024-01-23T15:24:04Z",
+  "updated_at": "2024-01-25T14:42:16Z",
   "pushed_at": "2022-01-05T11:19:51Z",
   "git_url": "git://github.com/JakeWharton/hugo.git",
   "ssh_url": "git@github.com:JakeWharton/hugo.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/JakeWharton/hugo",
   "homepage": null,
   "size": 201,
-  "stargazers_count": 7905,
-  "watchers_count": 7905,
+  "stargazers_count": 7906,
+  "watchers_count": 7906,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 808,
   "open_issues": 60,
-  "watchers": 7905,
+  "watchers": 7906,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3284
+  "_index": 3301
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/just-js/just/releases{/id}",
   "deployments_url": "https://api.github.com/repos/just-js/just/deployments",
   "created_at": "2020-07-17T03:07:34Z",
-  "updated_at": "2024-01-24T17:59:51Z",
+  "updated_at": "2024-01-25T21:34:49Z",
   "pushed_at": "2023-11-17T12:28:54Z",
   "git_url": "git://github.com/just-js/just.git",
   "ssh_url": "git@github.com:just-js/just.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/just-js/just",
   "homepage": "https://just.billywhizz.io/",
   "size": 345,
-  "stargazers_count": 3472,
-  "watchers_count": 3472,
+  "stargazers_count": 3474,
+  "watchers_count": 3474,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 118,
   "open_issues": 9,
-  "watchers": 3472,
+  "watchers": 3474,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1920
+  "_index": 1937
 }

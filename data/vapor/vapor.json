@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/vapor/vapor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vapor/vapor/deployments",
   "created_at": "2016-01-18T22:37:52Z",
-  "updated_at": "2024-01-24T17:24:35Z",
-  "pushed_at": "2024-01-24T13:51:14Z",
+  "updated_at": "2024-01-25T23:12:54Z",
+  "pushed_at": "2024-01-25T17:10:14Z",
   "git_url": "git://github.com/vapor/vapor.git",
   "ssh_url": "git@github.com:vapor/vapor.git",
   "clone_url": "https://github.com/vapor/vapor.git",
   "svn_url": "https://github.com/vapor/vapor",
   "homepage": "https://vapor.codes",
-  "size": 16705,
-  "stargazers_count": 23540,
-  "watchers_count": 23540,
+  "size": 16706,
+  "stargazers_count": 23544,
+  "watchers_count": 23544,
   "language": "Swift",
   "has_issues": true,
   "has_projects": false,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 1450,
   "open_issues": 97,
-  "watchers": 23540,
+  "watchers": 23544,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1728
+  "_index": 1745
 }

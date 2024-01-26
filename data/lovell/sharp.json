@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lovell/sharp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lovell/sharp/deployments",
   "created_at": "2013-08-19T20:24:24Z",
-  "updated_at": "2024-01-24T20:52:27Z",
+  "updated_at": "2024-01-25T18:11:52Z",
   "pushed_at": "2024-01-21T18:34:21Z",
   "git_url": "git://github.com/lovell/sharp.git",
   "ssh_url": "git@github.com:lovell/sharp.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lovell/sharp",
   "homepage": "https://sharp.pixelplumbing.com",
   "size": 48101,
-  "stargazers_count": 27271,
-  "watchers_count": 27271,
+  "stargazers_count": 27281,
+  "watchers_count": 27281,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 96,
+  "open_issues_count": 95,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -118,8 +118,8 @@
   ],
   "visibility": "public",
   "forks": 1307,
-  "open_issues": 96,
-  "watchers": 27271,
+  "open_issues": 95,
+  "watchers": 27281,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3254
+  "_index": 3271
 }

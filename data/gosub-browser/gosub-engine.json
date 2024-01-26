@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/gosub-browser/gosub-engine/deployments",
   "created_at": "2023-08-08T17:20:38Z",
   "updated_at": "2024-01-24T15:27:00Z",
-  "pushed_at": "2024-01-23T16:17:12Z",
+  "pushed_at": "2024-01-25T16:55:08Z",
   "git_url": "git://github.com/gosub-browser/gosub-engine.git",
   "ssh_url": "git@github.com:gosub-browser/gosub-engine.git",
   "clone_url": "https://github.com/gosub-browser/gosub-engine.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 16,
+  "open_issues_count": 17,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,7 +104,7 @@
   ],
   "visibility": "public",
   "forks": 134,
-  "open_issues": 16,
+  "open_issues": 17,
   "watchers": 2068,
   "default_branch": "main",
   "permissions": {
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 305
+  "_index": 322
 }

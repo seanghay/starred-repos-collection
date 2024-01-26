@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/wq2012/awesome-diarization/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wq2012/awesome-diarization/deployments",
   "created_at": "2019-01-19T04:28:41Z",
-  "updated_at": "2024-01-24T17:32:37Z",
-  "pushed_at": "2024-01-24T14:26:09Z",
+  "updated_at": "2024-01-25T20:30:10Z",
+  "pushed_at": "2024-01-25T14:00:18Z",
   "git_url": "git://github.com/wq2012/awesome-diarization.git",
   "ssh_url": "git@github.com:wq2012/awesome-diarization.git",
   "clone_url": "https://github.com/wq2012/awesome-diarization.git",
   "svn_url": "https://github.com/wq2012/awesome-diarization",
   "homepage": "https://wq2012.github.io/awesome-diarization/",
-  "size": 151,
-  "stargazers_count": 1382,
-  "watchers_count": 1382,
+  "size": 165,
+  "stargazers_count": 1385,
+  "watchers_count": 1385,
   "language": null,
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2,
+  "open_issues_count": 3,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -108,8 +108,8 @@
   ],
   "visibility": "public",
   "forks": 219,
-  "open_issues": 2,
-  "watchers": 1382,
+  "open_issues": 3,
+  "watchers": 1385,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 623
+  "_index": 640
 }

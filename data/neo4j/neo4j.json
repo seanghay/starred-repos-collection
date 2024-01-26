@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/neo4j/neo4j/releases{/id}",
   "deployments_url": "https://api.github.com/repos/neo4j/neo4j/deployments",
   "created_at": "2012-11-12T08:46:15Z",
-  "updated_at": "2024-01-24T21:07:46Z",
-  "pushed_at": "2024-01-22T15:24:05Z",
+  "updated_at": "2024-01-25T15:16:26Z",
+  "pushed_at": "2024-01-25T11:24:06Z",
   "git_url": "git://github.com/neo4j/neo4j.git",
   "ssh_url": "git@github.com:neo4j/neo4j.git",
   "clone_url": "https://github.com/neo4j/neo4j.git",
   "svn_url": "https://github.com/neo4j/neo4j",
   "homepage": "http://neo4j.com",
-  "size": 617832,
-  "stargazers_count": 12180,
-  "watchers_count": 12180,
+  "size": 617901,
+  "stargazers_count": 12184,
+  "watchers_count": 12184,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2329,
+  "forks_count": 2328,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 298,
+  "open_issues_count": 299,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -107,9 +107,9 @@
     "nosql"
   ],
   "visibility": "public",
-  "forks": 2329,
-  "open_issues": 298,
-  "watchers": 12180,
+  "forks": 2328,
+  "open_issues": 299,
+  "watchers": 12184,
   "default_branch": "5.13",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1930
+  "_index": 1947
 }

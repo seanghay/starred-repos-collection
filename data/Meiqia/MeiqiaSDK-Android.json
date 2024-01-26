@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/Meiqia/MeiqiaSDK-Android.git",
   "svn_url": "https://github.com/Meiqia/MeiqiaSDK-Android",
   "homepage": null,
-  "size": 12367,
+  "size": 12591,
   "stargazers_count": 179,
   "watchers_count": 179,
   "language": "Java",
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2512
+  "_index": 2529
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/v-iashin/video_features/releases{/id}",
   "deployments_url": "https://api.github.com/repos/v-iashin/video_features/deployments",
   "created_at": "2020-06-01T17:57:03Z",
-  "updated_at": "2024-01-24T20:29:16Z",
-  "pushed_at": "2024-01-24T21:01:55Z",
+  "updated_at": "2024-01-25T21:05:17Z",
+  "pushed_at": "2024-01-25T20:55:39Z",
   "git_url": "git://github.com/v-iashin/video_features.git",
   "ssh_url": "git@github.com:v-iashin/video_features.git",
   "clone_url": "https://github.com/v-iashin/video_features.git",
   "svn_url": "https://github.com/v-iashin/video_features",
   "homepage": "https://v-iashin.github.io/video_features",
-  "size": 295763,
-  "stargazers_count": 396,
-  "watchers_count": 396,
+  "size": 295772,
+  "stargazers_count": 397,
+  "watchers_count": 397,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 20,
+  "open_issues_count": 19,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,6 +103,7 @@
     "feature-extraction",
     "i3d",
     "ig65m",
+    "laion",
     "multi-gpu",
     "optical-flow",
     "parallel",
@@ -111,14 +112,17 @@
     "raft",
     "resnet",
     "s3d",
+    "swin",
+    "timm",
     "vggish",
     "video-features",
-    "visual-features"
+    "visual-features",
+    "vit"
   ],
   "visibility": "public",
   "forks": 82,
-  "open_issues": 20,
-  "watchers": 396,
+  "open_issues": 19,
+  "watchers": 397,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -127,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 73
+  "_index": 90
 }

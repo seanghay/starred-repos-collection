@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/gunnarmorling/1brc/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gunnarmorling/1brc/deployments",
   "created_at": "2023-12-28T09:13:24Z",
-  "updated_at": "2024-01-25T01:47:02Z",
-  "pushed_at": "2024-01-25T01:30:26Z",
+  "updated_at": "2024-01-26T01:38:12Z",
+  "pushed_at": "2024-01-26T01:13:15Z",
   "git_url": "git://github.com/gunnarmorling/1brc.git",
   "ssh_url": "git@github.com:gunnarmorling/1brc.git",
   "clone_url": "https://github.com/gunnarmorling/1brc.git",
   "svn_url": "https://github.com/gunnarmorling/1brc",
   "homepage": "https://www.morling.dev/blog/one-billion-row-challenge/",
-  "size": 1863,
-  "stargazers_count": 2502,
-  "watchers_count": 2502,
+  "size": 1986,
+  "stargazers_count": 2527,
+  "watchers_count": 2527,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 971,
+  "forks_count": 975,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 53,
+  "open_issues_count": 48,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -102,9 +102,9 @@
     "challenges"
   ],
   "visibility": "public",
-  "forks": 971,
-  "open_issues": 53,
-  "watchers": 2502,
+  "forks": 975,
+  "open_issues": 48,
+  "watchers": 2527,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 64
+  "_index": 81
 }
