@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/TangXiaoLv/TelegramGallery/releases{/id}",
   "deployments_url": "https://api.github.com/repos/TangXiaoLv/TelegramGallery/deployments",
   "created_at": "2016-08-19T07:19:28Z",
-  "updated_at": "2024-01-24T11:55:35Z",
+  "updated_at": "2024-01-26T09:58:15Z",
   "pushed_at": "2022-07-27T04:57:26Z",
   "git_url": "git://github.com/TangXiaoLv/TelegramGallery.git",
   "ssh_url": "git@github.com:TangXiaoLv/TelegramGallery.git",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3079
+  "_index": 3083
 }

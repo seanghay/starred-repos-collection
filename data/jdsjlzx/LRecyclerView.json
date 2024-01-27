@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jdsjlzx/LRecyclerView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jdsjlzx/LRecyclerView/deployments",
   "created_at": "2016-05-19T10:12:08Z",
-  "updated_at": "2024-01-24T16:26:52Z",
+  "updated_at": "2024-01-26T09:57:33Z",
   "pushed_at": "2019-06-27T02:37:21Z",
   "git_url": "git://github.com/jdsjlzx/LRecyclerView.git",
   "ssh_url": "git@github.com:jdsjlzx/LRecyclerView.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2501
+  "_index": 2505
 }

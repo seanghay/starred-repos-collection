@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/raphamorim/rio/releases{/id}",
   "deployments_url": "https://api.github.com/repos/raphamorim/rio/deployments",
   "created_at": "2022-10-05T15:18:41Z",
-  "updated_at": "2024-01-25T21:21:13Z",
-  "pushed_at": "2024-01-26T01:24:20Z",
+  "updated_at": "2024-01-26T19:51:25Z",
+  "pushed_at": "2024-01-27T01:22:20Z",
   "git_url": "git://github.com/raphamorim/rio.git",
   "ssh_url": "git@github.com:raphamorim/rio.git",
   "clone_url": "https://github.com/raphamorim/rio.git",
   "svn_url": "https://github.com/raphamorim/rio",
   "homepage": "https://raphamorim.io/rio",
   "size": 73925,
-  "stargazers_count": 2695,
-  "watchers_count": 2695,
+  "stargazers_count": 2696,
+  "watchers_count": 2696,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 66,
+  "open_issues_count": 67,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,8 +112,8 @@
   ],
   "visibility": "public",
   "forks": 84,
-  "open_issues": 66,
-  "watchers": 2695,
+  "open_issues": 67,
+  "watchers": 2696,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 70
+  "_index": 74
 }

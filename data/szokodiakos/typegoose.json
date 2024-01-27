@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/szokodiakos/typegoose/releases{/id}",
   "deployments_url": "https://api.github.com/repos/szokodiakos/typegoose/deployments",
   "created_at": "2017-03-17T21:50:35Z",
-  "updated_at": "2024-01-24T11:18:57Z",
+  "updated_at": "2024-01-26T09:59:45Z",
   "pushed_at": "2021-05-10T22:53:43Z",
   "git_url": "git://github.com/szokodiakos/typegoose.git",
   "ssh_url": "git@github.com:szokodiakos/typegoose.git",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3269
+  "_index": 3273
 }

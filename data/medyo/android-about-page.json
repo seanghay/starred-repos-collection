@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/medyo/android-about-page/releases{/id}",
   "deployments_url": "https://api.github.com/repos/medyo/android-about-page/deployments",
   "created_at": "2016-04-20T23:26:30Z",
-  "updated_at": "2024-01-24T15:22:18Z",
+  "updated_at": "2024-01-26T09:57:21Z",
   "pushed_at": "2023-04-14T17:10:58Z",
   "git_url": "git://github.com/medyo/android-about-page.git",
   "ssh_url": "git@github.com:medyo/android-about-page.git",
@@ -107,5 +107,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2055
+  "_index": 2059
 }

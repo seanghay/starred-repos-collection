@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ggerganov/ggwave/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ggerganov/ggwave/deployments",
   "created_at": "2020-11-29T09:02:43Z",
-  "updated_at": "2024-01-26T01:34:42Z",
+  "updated_at": "2024-01-26T10:09:37Z",
   "pushed_at": "2023-09-08T10:19:11Z",
   "git_url": "git://github.com/ggerganov/ggwave.git",
   "ssh_url": "git@github.com:ggerganov/ggwave.git",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 760
+  "_index": 764
 }

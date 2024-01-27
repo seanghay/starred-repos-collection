@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/soldair/node-qrcode/releases{/id}",
   "deployments_url": "https://api.github.com/repos/soldair/node-qrcode/deployments",
   "created_at": "2010-12-21T01:45:11Z",
-  "updated_at": "2024-01-25T22:14:50Z",
+  "updated_at": "2024-01-26T13:55:28Z",
   "pushed_at": "2024-01-09T17:57:44Z",
   "git_url": "git://github.com/soldair/node-qrcode.git",
   "ssh_url": "git@github.com:soldair/node-qrcode.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/soldair/node-qrcode",
   "homepage": "",
   "size": 1519,
-  "stargazers_count": 7015,
-  "watchers_count": 7015,
+  "stargazers_count": 7018,
+  "watchers_count": 7018,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 608,
   "open_issues": 77,
-  "watchers": 7015,
+  "watchers": 7018,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1008
+  "_index": 1012
 }

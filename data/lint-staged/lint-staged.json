@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lint-staged/lint-staged/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lint-staged/lint-staged/deployments",
   "created_at": "2016-01-15T07:51:21Z",
-  "updated_at": "2024-01-25T15:18:26Z",
+  "updated_at": "2024-01-26T18:09:34Z",
   "pushed_at": "2024-01-24T16:29:06Z",
   "git_url": "git://github.com/lint-staged/lint-staged.git",
   "ssh_url": "git@github.com:lint-staged/lint-staged.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lint-staged/lint-staged",
   "homepage": "https://www.npmjs.com/package/lint-staged",
   "size": 5491,
-  "stargazers_count": 12573,
-  "watchers_count": 12573,
+  "stargazers_count": 12577,
+  "watchers_count": 12577,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 444,
+  "forks_count": 445,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "workflow"
   ],
   "visibility": "public",
-  "forks": 444,
+  "forks": 445,
   "open_issues": 107,
-  "watchers": 12573,
+  "watchers": 12577,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1437
+  "_index": 1441
 }

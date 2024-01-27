@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/gunnarmorling/1brc/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gunnarmorling/1brc/deployments",
   "created_at": "2023-12-28T09:13:24Z",
-  "updated_at": "2024-01-26T01:38:12Z",
-  "pushed_at": "2024-01-26T01:13:15Z",
+  "updated_at": "2024-01-27T01:33:24Z",
+  "pushed_at": "2024-01-26T23:03:19Z",
   "git_url": "git://github.com/gunnarmorling/1brc.git",
   "ssh_url": "git@github.com:gunnarmorling/1brc.git",
   "clone_url": "https://github.com/gunnarmorling/1brc.git",
   "svn_url": "https://github.com/gunnarmorling/1brc",
   "homepage": "https://www.morling.dev/blog/one-billion-row-challenge/",
-  "size": 1986,
-  "stargazers_count": 2527,
-  "watchers_count": 2527,
+  "size": 1916,
+  "stargazers_count": 2588,
+  "watchers_count": 2588,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 975,
+  "forks_count": 982,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,9 +102,9 @@
     "challenges"
   ],
   "visibility": "public",
-  "forks": 975,
+  "forks": 982,
   "open_issues": 48,
-  "watchers": 2527,
+  "watchers": 2588,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 81
+  "_index": 85
 }

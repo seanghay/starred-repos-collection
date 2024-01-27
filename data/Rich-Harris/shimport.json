@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Rich-Harris/shimport/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Rich-Harris/shimport/deployments",
   "created_at": "2018-08-26T04:17:02Z",
-  "updated_at": "2024-01-24T12:17:11Z",
+  "updated_at": "2024-01-26T10:04:47Z",
   "pushed_at": "2022-12-07T23:59:52Z",
   "git_url": "git://github.com/Rich-Harris/shimport.git",
   "ssh_url": "git@github.com:Rich-Harris/shimport.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3304
+  "_index": 3308
 }

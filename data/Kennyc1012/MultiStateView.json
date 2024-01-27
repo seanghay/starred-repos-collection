@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Kennyc1012/MultiStateView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Kennyc1012/MultiStateView/deployments",
   "created_at": "2015-04-21T22:19:39Z",
-  "updated_at": "2024-01-24T11:13:38Z",
+  "updated_at": "2024-01-26T09:54:47Z",
   "pushed_at": "2021-02-13T14:21:40Z",
   "git_url": "git://github.com/Kennyc1012/MultiStateView.git",
   "ssh_url": "git@github.com:Kennyc1012/MultiStateView.git",
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2471
+  "_index": 2475
 }

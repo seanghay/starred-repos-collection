@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/iammert/MultiSearchView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/iammert/MultiSearchView/deployments",
   "created_at": "2019-04-06T10:03:00Z",
-  "updated_at": "2024-01-24T11:08:00Z",
+  "updated_at": "2024-01-26T10:06:07Z",
   "pushed_at": "2021-05-15T08:03:02Z",
   "git_url": "git://github.com/iammert/MultiSearchView.git",
   "ssh_url": "git@github.com:iammert/MultiSearchView.git",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3061
+  "_index": 3065
 }

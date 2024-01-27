@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/maticzav/emma-cli/releases{/id}",
   "deployments_url": "https://api.github.com/repos/maticzav/emma-cli/deployments",
   "created_at": "2018-03-06T15:33:46Z",
-  "updated_at": "2024-01-24T11:16:20Z",
+  "updated_at": "2024-01-26T10:02:21Z",
   "pushed_at": "2024-01-03T18:21:18Z",
   "git_url": "git://github.com/maticzav/emma-cli.git",
   "ssh_url": "git@github.com:maticzav/emma-cli.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3248
+  "_index": 3252
 }

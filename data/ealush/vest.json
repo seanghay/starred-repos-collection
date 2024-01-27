@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/ealush/vest/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ealush/vest/deployments",
   "created_at": "2019-11-26T22:10:41Z",
-  "updated_at": "2024-01-24T16:25:29Z",
-  "pushed_at": "2024-01-26T01:00:30Z",
+  "updated_at": "2024-01-26T10:07:26Z",
+  "pushed_at": "2024-01-27T00:58:44Z",
   "git_url": "git://github.com/ealush/vest.git",
   "ssh_url": "git@github.com:ealush/vest.git",
   "clone_url": "https://github.com/ealush/vest.git",
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1349
+  "_index": 1353
 }

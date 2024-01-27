@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/corbanbrook/dsp.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/corbanbrook/dsp.js/deployments",
   "created_at": "2010-02-24T16:42:00Z",
-  "updated_at": "2024-01-24T14:08:34Z",
+  "updated_at": "2024-01-26T09:48:18Z",
   "pushed_at": "2022-04-16T16:00:57Z",
   "git_url": "git://github.com/corbanbrook/dsp.js.git",
   "ssh_url": "git@github.com:corbanbrook/dsp.js.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 74
+  "_index": 78
 }

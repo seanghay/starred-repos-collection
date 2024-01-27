@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/georust/geo/releases{/id}",
   "deployments_url": "https://api.github.com/repos/georust/geo/deployments",
   "created_at": "2015-01-16T01:00:41Z",
-  "updated_at": "2024-01-25T19:27:58Z",
+  "updated_at": "2024-01-26T09:54:08Z",
   "pushed_at": "2024-01-25T20:07:53Z",
   "git_url": "git://github.com/georust/geo.git",
   "ssh_url": "git@github.com:georust/geo.git",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 223
+  "_index": 227
 }

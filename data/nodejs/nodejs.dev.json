@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nodejs/nodejs.dev/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nodejs/nodejs.dev/deployments",
   "created_at": "2019-01-29T17:59:15Z",
-  "updated_at": "2024-01-24T16:04:33Z",
+  "updated_at": "2024-01-26T10:05:42Z",
   "pushed_at": "2023-07-03T11:27:46Z",
   "git_url": "git://github.com/nodejs/nodejs.dev.git",
   "ssh_url": "git@github.com:nodejs/nodejs.dev.git",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2102
+  "_index": 2106
 }

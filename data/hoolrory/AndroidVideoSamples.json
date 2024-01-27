@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/hoolrory/AndroidVideoSamples/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hoolrory/AndroidVideoSamples/deployments",
   "created_at": "2014-04-27T02:47:00Z",
-  "updated_at": "2023-10-06T20:59:32Z",
+  "updated_at": "2024-01-26T12:14:21Z",
   "pushed_at": "2014-05-12T22:53:22Z",
   "git_url": "git://github.com/hoolrory/AndroidVideoSamples.git",
   "ssh_url": "git@github.com:hoolrory/AndroidVideoSamples.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/hoolrory/AndroidVideoSamples",
   "homepage": null,
   "size": 2024,
-  "stargazers_count": 120,
-  "watchers_count": 120,
+  "stargazers_count": 121,
+  "watchers_count": 121,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 40,
   "open_issues": 5,
-  "watchers": 120,
+  "watchers": 121,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3028
+  "_index": 3032
 }

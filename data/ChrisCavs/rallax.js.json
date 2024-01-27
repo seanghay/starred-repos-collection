@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ChrisCavs/rallax.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ChrisCavs/rallax.js/deployments",
   "created_at": "2018-12-02T21:37:03Z",
-  "updated_at": "2024-01-24T18:56:25Z",
+  "updated_at": "2024-01-26T10:05:21Z",
   "pushed_at": "2019-06-12T17:26:08Z",
   "git_url": "git://github.com/ChrisCavs/rallax.js.git",
   "ssh_url": "git@github.com:ChrisCavs/rallax.js.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3255
+  "_index": 3259
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/MZCretin/ExpandableTextView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/MZCretin/ExpandableTextView/deployments",
   "created_at": "2018-08-17T13:34:46Z",
-  "updated_at": "2024-01-25T03:13:18Z",
+  "updated_at": "2024-01-26T10:04:43Z",
   "pushed_at": "2024-01-11T01:46:21Z",
   "git_url": "git://github.com/MZCretin/ExpandableTextView.git",
   "ssh_url": "git@github.com:MZCretin/ExpandableTextView.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 163,
+  "forks_count": 162,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -96,7 +96,7 @@
     "textview"
   ],
   "visibility": "public",
-  "forks": 163,
+  "forks": 162,
   "open_issues": 44,
   "watchers": 1376,
   "default_branch": "master",
@@ -107,5 +107,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2388
+  "_index": 2392
 }

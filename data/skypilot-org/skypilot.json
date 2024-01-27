@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/skypilot-org/skypilot/releases{/id}",
   "deployments_url": "https://api.github.com/repos/skypilot-org/skypilot/deployments",
   "created_at": "2021-08-11T23:32:15Z",
-  "updated_at": "2024-01-26T00:47:41Z",
-  "pushed_at": "2024-01-26T01:07:47Z",
+  "updated_at": "2024-01-26T16:13:59Z",
+  "pushed_at": "2024-01-27T01:35:00Z",
   "git_url": "git://github.com/skypilot-org/skypilot.git",
   "ssh_url": "git@github.com:skypilot-org/skypilot.git",
   "clone_url": "https://github.com/skypilot-org/skypilot.git",
   "svn_url": "https://github.com/skypilot-org/skypilot",
   "homepage": "https://skypilot.readthedocs.io",
-  "size": 115906,
-  "stargazers_count": 4980,
-  "watchers_count": 4980,
+  "size": 116013,
+  "stargazers_count": 4991,
+  "watchers_count": 4991,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 333,
+  "open_issues_count": 338,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -121,8 +121,8 @@
   ],
   "visibility": "public",
   "forks": 320,
-  "open_issues": 333,
-  "watchers": 4980,
+  "open_issues": 338,
+  "watchers": 4991,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 97
+  "_index": 101
 }

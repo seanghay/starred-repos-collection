@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Frank-Zhu/PullZoomView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Frank-Zhu/PullZoomView/deployments",
   "created_at": "2014-09-04T11:48:46Z",
-  "updated_at": "2024-01-24T16:08:21Z",
+  "updated_at": "2024-01-26T09:53:25Z",
   "pushed_at": "2019-10-03T20:10:34Z",
   "git_url": "git://github.com/Frank-Zhu/PullZoomView.git",
   "ssh_url": "git@github.com:Frank-Zhu/PullZoomView.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2291
+  "_index": 2295
 }

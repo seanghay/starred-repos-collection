@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/nocobase/nocobase/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nocobase/nocobase/deployments",
   "created_at": "2020-10-24T07:27:48Z",
-  "updated_at": "2024-01-25T18:33:32Z",
-  "pushed_at": "2024-01-26T01:40:55Z",
+  "updated_at": "2024-01-26T09:30:00Z",
+  "pushed_at": "2024-01-27T01:37:44Z",
   "git_url": "git://github.com/nocobase/nocobase.git",
   "ssh_url": "git@github.com:nocobase/nocobase.git",
   "clone_url": "https://github.com/nocobase/nocobase.git",
   "svn_url": "https://github.com/nocobase/nocobase",
   "homepage": "https://www.nocobase.com",
-  "size": 131048,
-  "stargazers_count": 5154,
-  "watchers_count": 5154,
+  "size": 131325,
+  "stargazers_count": 5155,
+  "watchers_count": 5155,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 717,
+  "forks_count": 719,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 95,
+  "open_issues_count": 97,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -119,9 +119,9 @@
     "workflows"
   ],
   "visibility": "public",
-  "forks": 717,
-  "open_issues": 95,
-  "watchers": 5154,
+  "forks": 719,
+  "open_issues": 97,
+  "watchers": 5155,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1400
+  "_index": 1404
 }

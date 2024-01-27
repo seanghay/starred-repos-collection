@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Mikubill/sd-webui-controlnet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Mikubill/sd-webui-controlnet/deployments",
   "created_at": "2023-02-12T16:26:27Z",
-  "updated_at": "2024-01-26T01:26:42Z",
-  "pushed_at": "2024-01-26T00:34:23Z",
+  "updated_at": "2024-01-27T00:41:16Z",
+  "pushed_at": "2024-01-26T21:33:23Z",
   "git_url": "git://github.com/Mikubill/sd-webui-controlnet.git",
   "ssh_url": "git@github.com:Mikubill/sd-webui-controlnet.git",
   "clone_url": "https://github.com/Mikubill/sd-webui-controlnet.git",
   "svn_url": "https://github.com/Mikubill/sd-webui-controlnet",
   "homepage": "",
-  "size": 18148,
-  "stargazers_count": 14799,
-  "watchers_count": 14799,
+  "size": 18146,
+  "stargazers_count": 14812,
+  "watchers_count": 14812,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 47,
+  "open_issues_count": 48,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 1893,
-  "open_issues": 47,
-  "watchers": 14799,
+  "open_issues": 48,
+  "watchers": 14812,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 946
+  "_index": 950
 }

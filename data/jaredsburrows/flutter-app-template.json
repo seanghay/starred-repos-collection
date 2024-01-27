@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/jaredsburrows/flutter-app-template/deployments",
   "created_at": "2021-07-03T13:19:06Z",
   "updated_at": "2024-01-12T18:21:04Z",
-  "pushed_at": "2024-01-26T01:41:27Z",
+  "pushed_at": "2024-01-26T21:33:57Z",
   "git_url": "git://github.com/jaredsburrows/flutter-app-template.git",
   "ssh_url": "git@github.com:jaredsburrows/flutter-app-template.git",
   "clone_url": "https://github.com/jaredsburrows/flutter-app-template.git",
   "svn_url": "https://github.com/jaredsburrows/flutter-app-template",
   "homepage": "https://jaredsburrows.github.io/flutter-app-template/",
-  "size": 42281,
+  "size": 42291,
   "stargazers_count": 3,
   "watchers_count": 3,
   "language": "Dart",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1908
+  "_index": 1912
 }

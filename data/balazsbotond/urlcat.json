@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/balazsbotond/urlcat/releases{/id}",
   "deployments_url": "https://api.github.com/repos/balazsbotond/urlcat/deployments",
   "created_at": "2020-09-15T20:55:10Z",
-  "updated_at": "2024-01-24T14:32:29Z",
-  "pushed_at": "2024-01-22T20:23:20Z",
+  "updated_at": "2024-01-26T10:09:17Z",
+  "pushed_at": "2024-01-26T19:08:06Z",
   "git_url": "git://github.com/balazsbotond/urlcat.git",
   "ssh_url": "git@github.com:balazsbotond/urlcat.git",
   "clone_url": "https://github.com/balazsbotond/urlcat.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 54,
+  "forks_count": 55,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 18,
+  "open_issues_count": 19,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,8 +104,8 @@
     "url"
   ],
   "visibility": "public",
-  "forks": 54,
-  "open_issues": 18,
+  "forks": 55,
+  "open_issues": 19,
   "watchers": 1803,
   "default_branch": "master",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2197
+  "_index": 2201
 }

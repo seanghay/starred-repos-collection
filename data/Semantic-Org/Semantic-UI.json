@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Semantic-Org/Semantic-UI/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Semantic-Org/Semantic-UI/deployments",
   "created_at": "2013-04-08T23:32:04Z",
-  "updated_at": "2024-01-25T23:55:14Z",
+  "updated_at": "2024-01-26T22:24:32Z",
   "pushed_at": "2023-12-08T10:19:17Z",
   "git_url": "git://github.com/Semantic-Org/Semantic-UI.git",
   "ssh_url": "git@github.com:Semantic-Org/Semantic-UI.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 5095,
+  "forks_count": 5097,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,7 +110,7 @@
     "ui-components"
   ],
   "visibility": "public",
-  "forks": 5095,
+  "forks": 5097,
   "open_issues": 1077,
   "watchers": 50919,
   "default_branch": "master",
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3392
+  "_index": 3396
 }

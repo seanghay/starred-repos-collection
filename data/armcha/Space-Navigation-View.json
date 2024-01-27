@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/armcha/Space-Navigation-View/releases{/id}",
   "deployments_url": "https://api.github.com/repos/armcha/Space-Navigation-View/deployments",
   "created_at": "2016-08-10T19:07:41Z",
-  "updated_at": "2024-01-25T17:47:56Z",
+  "updated_at": "2024-01-26T09:58:11Z",
   "pushed_at": "2021-04-29T10:21:15Z",
   "git_url": "git://github.com/armcha/Space-Navigation-View.git",
   "ssh_url": "git@github.com:armcha/Space-Navigation-View.git",
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3246
+  "_index": 3250
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/glennreyes/graphpack/releases{/id}",
   "deployments_url": "https://api.github.com/repos/glennreyes/graphpack/deployments",
   "created_at": "2018-07-11T07:06:29Z",
-  "updated_at": "2024-01-24T15:13:39Z",
+  "updated_at": "2024-01-26T10:11:50Z",
   "pushed_at": "2021-09-20T23:06:10Z",
   "git_url": "git://github.com/glennreyes/graphpack.git",
   "ssh_url": "git@github.com:glennreyes/graphpack.git",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3262
+  "_index": 3266
 }

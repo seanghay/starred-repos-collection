@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/svaarala/duktape/releases{/id}",
   "deployments_url": "https://api.github.com/repos/svaarala/duktape/deployments",
   "created_at": "2014-01-12T22:16:14Z",
-  "updated_at": "2024-01-25T17:46:45Z",
+  "updated_at": "2024-01-26T08:07:22Z",
   "pushed_at": "2024-01-22T22:38:55Z",
   "git_url": "git://github.com/svaarala/duktape.git",
   "ssh_url": "git@github.com:svaarala/duktape.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/svaarala/duktape",
   "homepage": null,
   "size": 76234,
-  "stargazers_count": 5775,
-  "watchers_count": 5775,
+  "stargazers_count": 5777,
+  "watchers_count": 5777,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 543,
+  "forks_count": 544,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,9 +103,9 @@
     "javascript-engine"
   ],
   "visibility": "public",
-  "forks": 543,
+  "forks": 544,
   "open_issues": 454,
-  "watchers": 5775,
+  "watchers": 5777,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 168
+  "_index": 172
 }

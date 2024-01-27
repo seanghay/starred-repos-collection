@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/daybrush/scenejs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/daybrush/scenejs/deployments",
   "created_at": "2017-03-24T08:20:40Z",
-  "updated_at": "2024-01-25T21:26:14Z",
+  "updated_at": "2024-01-26T09:59:47Z",
   "pushed_at": "2023-06-19T22:39:08Z",
   "git_url": "git://github.com/daybrush/scenejs.git",
   "ssh_url": "git@github.com:daybrush/scenejs.git",
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 890
+  "_index": 894
 }

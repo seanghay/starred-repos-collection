@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/npm/minipass-fetch/deployments",
   "created_at": "2019-09-23T21:36:10Z",
   "updated_at": "2023-11-15T23:33:39Z",
-  "pushed_at": "2023-12-07T22:35:09Z",
+  "pushed_at": "2024-01-26T03:19:45Z",
   "git_url": "git://github.com/npm/minipass-fetch.git",
   "ssh_url": "git@github.com:npm/minipass-fetch.git",
   "clone_url": "https://github.com/npm/minipass-fetch.git",
   "svn_url": "https://github.com/npm/minipass-fetch",
   "homepage": "",
-  "size": 392,
+  "size": 393,
   "stargazers_count": 51,
   "watchers_count": 51,
   "language": "JavaScript",
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1460
+  "_index": 1464
 }

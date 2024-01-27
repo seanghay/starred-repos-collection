@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/firebase/functions-samples/releases{/id}",
   "deployments_url": "https://api.github.com/repos/firebase/functions-samples/deployments",
   "created_at": "2016-10-18T17:40:55Z",
-  "updated_at": "2024-01-25T15:15:00Z",
-  "pushed_at": "2024-01-25T09:52:27Z",
+  "updated_at": "2024-01-26T22:25:16Z",
+  "pushed_at": "2024-01-26T09:45:00Z",
   "git_url": "git://github.com/firebase/functions-samples.git",
   "ssh_url": "git@github.com:firebase/functions-samples.git",
   "clone_url": "https://github.com/firebase/functions-samples.git",
   "svn_url": "https://github.com/firebase/functions-samples",
   "homepage": "https://firebase.google.com/docs/functions",
   "size": 7557,
-  "stargazers_count": 11910,
-  "watchers_count": 11910,
+  "stargazers_count": 11911,
+  "watchers_count": 11911,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 3958,
   "open_issues": 161,
-  "watchers": 11910,
+  "watchers": 11911,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2805
+  "_index": 2809
 }
