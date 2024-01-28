@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/Rich-Harris/degit/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Rich-Harris/degit/deployments",
   "created_at": "2017-07-31T17:44:38Z",
-  "updated_at": "2024-01-26T20:01:20Z",
-  "pushed_at": "2024-01-12T02:06:07Z",
+  "updated_at": "2024-01-27T19:56:04Z",
+  "pushed_at": "2024-01-27T07:20:31Z",
   "git_url": "git://github.com/Rich-Harris/degit.git",
   "ssh_url": "git@github.com:Rich-Harris/degit.git",
   "clone_url": "https://github.com/Rich-Harris/degit.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 232,
+  "forks_count": 233,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 85,
+  "open_issues_count": 86,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -99,8 +99,8 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 232,
-  "open_issues": 85,
+  "forks": 233,
+  "open_issues": 86,
   "watchers": 6453,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1318
+  "_index": 1333
 }

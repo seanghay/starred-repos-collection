@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Mozilla-Ocho/llamafile/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Mozilla-Ocho/llamafile/deployments",
   "created_at": "2023-09-10T21:12:32Z",
-  "updated_at": "2024-01-26T23:34:28Z",
-  "pushed_at": "2024-01-24T00:32:35Z",
+  "updated_at": "2024-01-28T00:21:40Z",
+  "pushed_at": "2024-01-27T21:38:02Z",
   "git_url": "git://github.com/Mozilla-Ocho/llamafile.git",
   "ssh_url": "git@github.com:Mozilla-Ocho/llamafile.git",
   "clone_url": "https://github.com/Mozilla-Ocho/llamafile.git",
   "svn_url": "https://github.com/Mozilla-Ocho/llamafile",
   "homepage": "https://llamafile.ai",
-  "size": 4028,
-  "stargazers_count": 8812,
-  "watchers_count": 8812,
+  "size": 4200,
+  "stargazers_count": 8826,
+  "watchers_count": 8826,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 27,
+  "open_issues_count": 24,
   "license": {
     "key": "other",
     "name": "Other",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 450,
-  "open_issues": 27,
-  "watchers": 8812,
+  "open_issues": 24,
+  "watchers": 8826,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 178
+  "_index": 193
 }

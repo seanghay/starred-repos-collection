@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/AriesHoo/UIWidget/releases{/id}",
   "deployments_url": "https://api.github.com/repos/AriesHoo/UIWidget/deployments",
   "created_at": "2017-04-10T09:02:29Z",
-  "updated_at": "2024-01-09T20:48:33Z",
+  "updated_at": "2024-01-27T16:25:10Z",
   "pushed_at": "2021-08-09T01:03:45Z",
   "git_url": "git://github.com/AriesHoo/UIWidget.git",
   "ssh_url": "git@github.com:AriesHoo/UIWidget.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/AriesHoo/UIWidget",
   "homepage": "",
   "size": 197788,
-  "stargazers_count": 423,
-  "watchers_count": 423,
+  "stargazers_count": 424,
+  "watchers_count": 424,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 75,
+  "forks_count": 76,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,9 +108,9 @@
     "toolbar"
   ],
   "visibility": "public",
-  "forks": 75,
+  "forks": 76,
   "open_issues": 8,
-  "watchers": 423,
+  "watchers": 424,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2663
+  "_index": 2678
 }

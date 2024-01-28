@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/KoljaB/RealtimeTTS/releases{/id}",
   "deployments_url": "https://api.github.com/repos/KoljaB/RealtimeTTS/deployments",
   "created_at": "2023-08-26T18:52:29Z",
-  "updated_at": "2024-01-27T01:16:04Z",
+  "updated_at": "2024-01-28T00:01:43Z",
   "pushed_at": "2024-01-18T04:53:15Z",
   "git_url": "git://github.com/KoljaB/RealtimeTTS.git",
   "ssh_url": "git@github.com:KoljaB/RealtimeTTS.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/KoljaB/RealtimeTTS",
   "homepage": "",
   "size": 9087,
-  "stargazers_count": 752,
-  "watchers_count": 752,
+  "stargazers_count": 754,
+  "watchers_count": 754,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -100,7 +100,7 @@
   "visibility": "public",
   "forks": 47,
   "open_issues": 14,
-  "watchers": 752,
+  "watchers": 754,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 203
+  "_index": 218
 }

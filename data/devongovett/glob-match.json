@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/devongovett/glob-match/releases{/id}",
   "deployments_url": "https://api.github.com/repos/devongovett/glob-match/deployments",
   "created_at": "2023-01-16T18:58:57Z",
-  "updated_at": "2024-01-26T14:27:34Z",
+  "updated_at": "2024-01-27T08:15:08Z",
   "pushed_at": "2023-09-14T00:11:51Z",
   "git_url": "git://github.com/devongovett/glob-match.git",
   "ssh_url": "git@github.com:devongovett/glob-match.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/devongovett/glob-match",
   "homepage": null,
   "size": 28,
-  "stargazers_count": 293,
-  "watchers_count": 293,
+  "stargazers_count": 294,
+  "watchers_count": 294,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 14,
   "open_issues": 6,
-  "watchers": 293,
+  "watchers": 294,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1011
+  "_index": 1026
 }

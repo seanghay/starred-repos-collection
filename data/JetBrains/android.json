@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/JetBrains/android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JetBrains/android/deployments",
   "created_at": "2016-06-08T13:46:48Z",
-  "updated_at": "2024-01-24T03:16:45Z",
+  "updated_at": "2024-01-27T21:00:27Z",
   "pushed_at": "2024-01-26T13:36:32Z",
   "git_url": "git://github.com/JetBrains/android.git",
   "ssh_url": "git@github.com:JetBrains/android.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1490
+  "_index": 1505
 }

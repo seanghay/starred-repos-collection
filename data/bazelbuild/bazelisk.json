@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bazelbuild/bazelisk/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bazelbuild/bazelisk/deployments",
   "created_at": "2018-09-20T19:42:08Z",
-  "updated_at": "2024-01-26T10:04:55Z",
+  "updated_at": "2024-01-27T17:11:52Z",
   "pushed_at": "2024-01-23T16:56:06Z",
   "git_url": "git://github.com/bazelbuild/bazelisk.git",
   "ssh_url": "git@github.com:bazelbuild/bazelisk.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/bazelbuild/bazelisk",
   "homepage": null,
   "size": 428,
-  "stargazers_count": 1757,
-  "watchers_count": 1757,
+  "stargazers_count": 1759,
+  "watchers_count": 1759,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 321,
   "open_issues": 104,
-  "watchers": 1757,
+  "watchers": 1759,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 488
+  "_index": 503
 }

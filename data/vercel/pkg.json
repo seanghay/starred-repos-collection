@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/vercel/pkg/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vercel/pkg/deployments",
   "created_at": "2016-08-08T19:41:59Z",
-  "updated_at": "2024-01-26T20:35:17Z",
+  "updated_at": "2024-01-27T21:51:42Z",
   "pushed_at": "2024-01-03T01:38:16Z",
   "git_url": "git://github.com/vercel/pkg.git",
   "ssh_url": "git@github.com:vercel/pkg.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1052,
+  "forks_count": 1051,
   "mirror_url": null,
   "archived": true,
   "disabled": false,
@@ -104,7 +104,7 @@
     "nodejs"
   ],
   "visibility": "public",
-  "forks": 1052,
+  "forks": 1051,
   "open_issues": 0,
   "watchers": 24130,
   "default_branch": "main",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3419
+  "_index": 3434
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/facebook/Ax/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebook/Ax/deployments",
   "created_at": "2019-02-09T15:23:44Z",
-  "updated_at": "2024-01-26T22:06:06Z",
-  "pushed_at": "2024-01-27T00:32:16Z",
+  "updated_at": "2024-01-27T16:33:02Z",
+  "pushed_at": "2024-01-27T02:02:58Z",
   "git_url": "git://github.com/facebook/Ax.git",
   "ssh_url": "git@github.com:facebook/Ax.git",
   "clone_url": "https://github.com/facebook/Ax.git",
   "svn_url": "https://github.com/facebook/Ax",
   "homepage": "https://ax.dev",
   "size": 344569,
-  "stargazers_count": 2217,
-  "watchers_count": 2217,
+  "stargazers_count": 2219,
+  "watchers_count": 2219,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 289,
   "open_issues": 66,
-  "watchers": 2217,
+  "watchers": 2219,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 641
+  "_index": 656
 }

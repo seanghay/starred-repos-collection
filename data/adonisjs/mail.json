@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/adonisjs/mail/deployments",
   "created_at": "2016-02-08T08:33:25Z",
   "updated_at": "2024-01-25T12:26:19Z",
-  "pushed_at": "2024-01-09T07:24:14Z",
+  "pushed_at": "2024-01-28T00:01:34Z",
   "git_url": "git://github.com/adonisjs/mail.git",
   "ssh_url": "git@github.com:adonisjs/mail.git",
   "clone_url": "https://github.com/adonisjs/mail.git",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1445
+  "_index": 1460
 }

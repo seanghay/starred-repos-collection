@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/pndurette/gTTS/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pndurette/gTTS/deployments",
   "created_at": "2014-05-15T02:52:58Z",
-  "updated_at": "2024-01-26T09:52:47Z",
-  "pushed_at": "2024-01-07T16:36:16Z",
+  "updated_at": "2024-01-27T13:08:54Z",
+  "pushed_at": "2024-01-27T08:50:07Z",
   "git_url": "git://github.com/pndurette/gTTS.git",
   "ssh_url": "git@github.com:pndurette/gTTS.git",
   "clone_url": "https://github.com/pndurette/gTTS.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 348,
+  "forks_count": 349,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 11,
+  "open_issues_count": 12,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,8 +109,8 @@
     "tts"
   ],
   "visibility": "public",
-  "forks": 348,
-  "open_issues": 11,
+  "forks": 349,
+  "open_issues": 12,
   "watchers": 2092,
   "default_branch": "main",
   "permissions": {
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 275
+  "_index": 290
 }

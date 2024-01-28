@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/skydoves/landscapist/releases{/id}",
   "deployments_url": "https://api.github.com/repos/skydoves/landscapist/deployments",
   "created_at": "2020-09-24T16:18:03Z",
-  "updated_at": "2024-01-26T10:09:20Z",
+  "updated_at": "2024-01-27T09:33:43Z",
   "pushed_at": "2024-01-25T14:24:14Z",
   "git_url": "git://github.com/skydoves/landscapist.git",
   "ssh_url": "git@github.com:skydoves/landscapist.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/skydoves/landscapist",
   "homepage": "https://skydoves.github.io/landscapist/",
   "size": 6504,
-  "stargazers_count": 1808,
-  "watchers_count": 1808,
+  "stargazers_count": 1809,
+  "watchers_count": 1809,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -115,7 +115,7 @@
   "visibility": "public",
   "forks": 98,
   "open_issues": 6,
-  "watchers": 1808,
+  "watchers": 1809,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2134
+  "_index": 2149
 }

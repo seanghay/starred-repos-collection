@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/zhihu/Matisse/releases{/id}",
   "deployments_url": "https://api.github.com/repos/zhihu/Matisse/deployments",
   "created_at": "2017-04-13T01:31:05Z",
-  "updated_at": "2024-01-26T02:04:19Z",
+  "updated_at": "2024-01-27T14:38:03Z",
   "pushed_at": "2023-05-15T09:55:57Z",
   "git_url": "git://github.com/zhihu/Matisse.git",
   "ssh_url": "git@github.com:zhihu/Matisse.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/zhihu/Matisse",
   "homepage": "",
   "size": 1991,
-  "stargazers_count": 12466,
-  "watchers_count": 12466,
+  "stargazers_count": 12467,
+  "watchers_count": 12467,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 2089,
   "open_issues": 462,
-  "watchers": 12466,
+  "watchers": 12467,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3187
+  "_index": 3202
 }

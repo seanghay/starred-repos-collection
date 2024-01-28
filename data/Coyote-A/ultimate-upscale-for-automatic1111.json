@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Coyote-A/ultimate-upscale-for-automatic1111/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Coyote-A/ultimate-upscale-for-automatic1111/deployments",
   "created_at": "2023-01-02T22:07:55Z",
-  "updated_at": "2024-01-26T15:05:31Z",
+  "updated_at": "2024-01-27T23:35:12Z",
   "pushed_at": "2023-11-21T13:11:36Z",
   "git_url": "git://github.com/Coyote-A/ultimate-upscale-for-automatic1111.git",
   "ssh_url": "git@github.com:Coyote-A/ultimate-upscale-for-automatic1111.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Coyote-A/ultimate-upscale-for-automatic1111",
   "homepage": null,
   "size": 33004,
-  "stargazers_count": 1352,
-  "watchers_count": 1352,
+  "stargazers_count": 1355,
+  "watchers_count": 1355,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 140,
+  "forks_count": 141,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 140,
+  "forks": 141,
   "open_issues": 46,
-  "watchers": 1352,
+  "watchers": 1355,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 39
+  "_index": 54
 }

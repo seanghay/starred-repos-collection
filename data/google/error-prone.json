@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/google/error-prone.git",
   "svn_url": "https://github.com/google/error-prone",
   "homepage": "https://errorprone.info",
-  "size": 126704,
+  "size": 126707,
   "stargazers_count": 6652,
   "watchers_count": 6652,
   "language": "Java",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2173
+  "_index": 2188
 }

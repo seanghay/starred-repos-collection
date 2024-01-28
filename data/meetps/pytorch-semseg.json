@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/meetps/pytorch-semseg/releases{/id}",
   "deployments_url": "https://api.github.com/repos/meetps/pytorch-semseg/deployments",
   "created_at": "2017-03-22T20:28:59Z",
-  "updated_at": "2024-01-26T23:02:01Z",
+  "updated_at": "2024-01-27T12:34:53Z",
   "pushed_at": "2023-10-11T05:27:04Z",
   "git_url": "git://github.com/meetps/pytorch-semseg.git",
   "ssh_url": "git@github.com:meetps/pytorch-semseg.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/meetps/pytorch-semseg",
   "homepage": "https://meetshah.dev/semantic-segmentation/deep-learning/pytorch/visdom/2017/06/01/semantic-segmentation-over-the-years.html",
   "size": 279,
-  "stargazers_count": 3360,
-  "watchers_count": 3360,
+  "stargazers_count": 3361,
+  "watchers_count": 3361,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 808,
   "open_issues": 133,
-  "watchers": 3360,
+  "watchers": 3361,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 15
+  "_index": 30
 }

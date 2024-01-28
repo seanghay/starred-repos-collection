@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/HuanTanSheng/EasyPhotos/releases{/id}",
   "deployments_url": "https://api.github.com/repos/HuanTanSheng/EasyPhotos/deployments",
   "created_at": "2017-10-19T03:32:05Z",
-  "updated_at": "2024-01-24T17:16:08Z",
+  "updated_at": "2024-01-27T12:28:41Z",
   "pushed_at": "2024-01-16T08:15:35Z",
   "git_url": "git://github.com/HuanTanSheng/EasyPhotos.git",
   "ssh_url": "git@github.com:HuanTanSheng/EasyPhotos.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/HuanTanSheng/EasyPhotos",
   "homepage": "",
   "size": 104128,
-  "stargazers_count": 2916,
-  "watchers_count": 2916,
+  "stargazers_count": 2917,
+  "watchers_count": 2917,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 493,
   "open_issues": 82,
-  "watchers": 2916,
+  "watchers": 2917,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1031
+  "_index": 1046
 }
