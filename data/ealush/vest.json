@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/ealush/vest/deployments",
   "created_at": "2019-11-26T22:10:41Z",
   "updated_at": "2024-01-27T03:15:53Z",
-  "pushed_at": "2024-01-28T01:03:43Z",
+  "pushed_at": "2024-01-29T00:59:52Z",
   "git_url": "git://github.com/ealush/vest.git",
   "ssh_url": "git@github.com:ealush/vest.git",
   "clone_url": "https://github.com/ealush/vest.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 86,
+  "forks_count": 85,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -113,7 +113,7 @@
     "vue-validation"
   ],
   "visibility": "public",
-  "forks": 86,
+  "forks": 85,
   "open_issues": 20,
   "watchers": 2459,
   "default_branch": "latest",
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1368
+  "_index": 1377
 }

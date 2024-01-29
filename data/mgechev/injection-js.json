@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mgechev/injection-js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mgechev/injection-js/deployments",
   "created_at": "2017-01-23T04:11:05Z",
-  "updated_at": "2024-01-26T09:59:20Z",
+  "updated_at": "2024-01-28T16:14:58Z",
   "pushed_at": "2023-07-19T13:49:55Z",
   "git_url": "git://github.com/mgechev/injection-js.git",
   "ssh_url": "git@github.com:mgechev/injection-js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mgechev/injection-js",
   "homepage": "",
   "size": 138,
-  "stargazers_count": 1166,
-  "watchers_count": 1166,
+  "stargazers_count": 1167,
+  "watchers_count": 1167,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 67,
   "open_issues": 2,
-  "watchers": 1166,
+  "watchers": 1167,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3287
+  "_index": 3296
 }

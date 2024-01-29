@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 1823,
+  "forks_count": 1822,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 294,
+  "open_issues_count": 295,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -103,8 +103,8 @@
     "kotlin"
   ],
   "visibility": "public",
-  "forks": 1823,
-  "open_issues": 294,
+  "forks": 1822,
+  "open_issues": 295,
   "watchers": 12558,
   "default_branch": "master",
   "permissions": {
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3030
+  "_index": 3039
 }

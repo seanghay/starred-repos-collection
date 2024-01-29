@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sindresorhus/p-memoize/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sindresorhus/p-memoize/deployments",
   "created_at": "2016-10-21T08:17:59Z",
-  "updated_at": "2024-01-24T10:57:37Z",
+  "updated_at": "2024-01-28T02:26:34Z",
   "pushed_at": "2023-06-21T00:29:21Z",
   "git_url": "git://github.com/sindresorhus/p-memoize.git",
   "ssh_url": "git@github.com:sindresorhus/p-memoize.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sindresorhus/p-memoize",
   "homepage": null,
   "size": 63,
-  "stargazers_count": 365,
-  "watchers_count": 365,
+  "stargazers_count": 366,
+  "watchers_count": 366,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 32,
   "open_issues": 6,
-  "watchers": 365,
+  "watchers": 366,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1513
+  "_index": 1522
 }

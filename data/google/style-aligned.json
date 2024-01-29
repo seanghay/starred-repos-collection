@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/style-aligned/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/style-aligned/deployments",
   "created_at": "2023-11-20T13:58:14Z",
-  "updated_at": "2024-01-27T17:28:40Z",
+  "updated_at": "2024-01-28T19:25:53Z",
   "pushed_at": "2023-12-29T21:26:34Z",
   "git_url": "git://github.com/google/style-aligned.git",
   "ssh_url": "git@github.com:google/style-aligned.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/style-aligned",
   "homepage": "",
   "size": 16271,
-  "stargazers_count": 969,
-  "watchers_count": 969,
+  "stargazers_count": 972,
+  "watchers_count": 972,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 107,
   "open_issues": 10,
-  "watchers": 969,
+  "watchers": 972,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 188
+  "_index": 197
 }

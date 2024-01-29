@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yxlu-0102/MP-SENet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yxlu-0102/MP-SENet/deployments",
   "created_at": "2023-05-18T01:51:08Z",
-  "updated_at": "2024-01-27T12:36:24Z",
+  "updated_at": "2024-01-28T17:02:15Z",
   "pushed_at": "2024-01-25T01:38:08Z",
   "git_url": "git://github.com/yxlu-0102/MP-SENet.git",
   "ssh_url": "git@github.com:yxlu-0102/MP-SENet.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yxlu-0102/MP-SENet",
   "homepage": "",
   "size": 9347,
-  "stargazers_count": 146,
-  "watchers_count": 146,
+  "stargazers_count": 147,
+  "watchers_count": 147,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 22,
   "open_issues": 12,
-  "watchers": 146,
+  "watchers": 147,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 38
+  "_index": 47
 }

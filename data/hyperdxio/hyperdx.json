@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/hyperdxio/hyperdx/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hyperdxio/hyperdx/deployments",
   "created_at": "2023-09-13T00:46:19Z",
-  "updated_at": "2024-01-27T14:53:54Z",
-  "pushed_at": "2024-01-26T23:04:51Z",
+  "updated_at": "2024-01-28T21:18:22Z",
+  "pushed_at": "2024-01-28T09:50:58Z",
   "git_url": "git://github.com/hyperdxio/hyperdx.git",
   "ssh_url": "git@github.com:hyperdxio/hyperdx.git",
   "clone_url": "https://github.com/hyperdxio/hyperdx.git",
   "svn_url": "https://github.com/hyperdxio/hyperdx",
   "homepage": "https://hyperdx.io/",
-  "size": 10842,
-  "stargazers_count": 5530,
-  "watchers_count": 5530,
+  "size": 10861,
+  "stargazers_count": 5533,
+  "watchers_count": 5533,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 41,
+  "open_issues_count": 42,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -120,8 +120,8 @@
   ],
   "visibility": "public",
   "forks": 153,
-  "open_issues": 41,
-  "watchers": 5530,
+  "open_issues": 42,
+  "watchers": 5533,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 351
+  "_index": 360
 }

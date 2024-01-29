@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/auth0/JWTDecode.Android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/auth0/JWTDecode.Android/deployments",
   "created_at": "2016-10-17T21:44:20Z",
-  "updated_at": "2024-01-23T23:59:18Z",
+  "updated_at": "2024-01-28T06:19:15Z",
   "pushed_at": "2024-01-26T02:15:37Z",
   "git_url": "git://github.com/auth0/JWTDecode.Android.git",
   "ssh_url": "org-2824157@github.com:auth0/JWTDecode.Android.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/auth0/JWTDecode.Android",
   "homepage": "https://jwt.io",
   "size": 344,
-  "stargazers_count": 426,
-  "watchers_count": 426,
+  "stargazers_count": 427,
+  "watchers_count": 427,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -103,7 +103,7 @@
   "visibility": "public",
   "forks": 82,
   "open_issues": 7,
-  "watchers": 426,
+  "watchers": 427,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2607
+  "_index": 2616
 }

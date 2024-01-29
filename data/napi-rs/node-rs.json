@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/napi-rs/node-rs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/napi-rs/node-rs/deployments",
   "created_at": "2020-03-17T16:04:58Z",
-  "updated_at": "2024-01-28T00:31:48Z",
-  "pushed_at": "2024-01-25T08:12:08Z",
+  "updated_at": "2024-01-28T02:48:20Z",
+  "pushed_at": "2024-01-28T13:58:03Z",
   "git_url": "git://github.com/napi-rs/node-rs.git",
   "ssh_url": "git@github.com:napi-rs/node-rs.git",
   "clone_url": "https://github.com/napi-rs/node-rs.git",
   "svn_url": "https://github.com/napi-rs/node-rs",
   "homepage": "",
-  "size": 11353,
-  "stargazers_count": 906,
-  "watchers_count": 906,
+  "size": 11481,
+  "stargazers_count": 907,
+  "watchers_count": 907,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 31,
+  "open_issues_count": 32,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,8 +109,8 @@
   ],
   "visibility": "public",
   "forks": 31,
-  "open_issues": 31,
-  "watchers": 906,
+  "open_issues": 32,
+  "watchers": 907,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1758
+  "_index": 1767
 }

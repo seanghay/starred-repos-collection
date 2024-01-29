@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Speaker-Identification/You-Only-Speak-Once/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Speaker-Identification/You-Only-Speak-Once/deployments",
   "created_at": "2019-11-20T07:12:33Z",
-  "updated_at": "2024-01-27T10:21:06Z",
+  "updated_at": "2024-01-29T00:58:59Z",
   "pushed_at": "2022-06-21T21:36:05Z",
   "git_url": "git://github.com/Speaker-Identification/You-Only-Speak-Once.git",
   "ssh_url": "git@github.com:Speaker-Identification/You-Only-Speak-Once.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Speaker-Identification/You-Only-Speak-Once",
   "homepage": "",
   "size": 13631,
-  "stargazers_count": 127,
-  "watchers_count": 127,
+  "stargazers_count": 128,
+  "watchers_count": 128,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 31,
   "open_issues": 7,
-  "watchers": 127,
+  "watchers": 128,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 6
+  "_index": 15
 }

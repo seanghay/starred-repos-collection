@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/pybind/pybind11/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pybind/pybind11/deployments",
   "created_at": "2015-07-05T19:46:48Z",
-  "updated_at": "2024-01-27T11:59:56Z",
-  "pushed_at": "2024-01-26T14:55:33Z",
+  "updated_at": "2024-01-28T14:54:18Z",
+  "pushed_at": "2024-01-28T17:10:03Z",
   "git_url": "git://github.com/pybind/pybind11.git",
   "ssh_url": "git@github.com:pybind/pybind11.git",
   "clone_url": "https://github.com/pybind/pybind11.git",
   "svn_url": "https://github.com/pybind/pybind11",
   "homepage": "https://pybind11.readthedocs.io/",
-  "size": 11010,
-  "stargazers_count": 14359,
-  "watchers_count": 14359,
+  "size": 11002,
+  "stargazers_count": 14364,
+  "watchers_count": 14364,
   "language": "C++",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2083,
+  "forks_count": 2084,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 618,
+  "open_issues_count": 617,
   "license": {
     "key": "other",
     "name": "Other",
@@ -102,9 +102,9 @@
     "python"
   ],
   "visibility": "public",
-  "forks": 2083,
-  "open_issues": 618,
-  "watchers": 14359,
+  "forks": 2084,
+  "open_issues": 617,
+  "watchers": 14364,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 180
+  "_index": 189
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/refined-github/refined-github/releases{/id}",
   "deployments_url": "https://api.github.com/repos/refined-github/refined-github/deployments",
   "created_at": "2016-02-15T16:45:02Z",
-  "updated_at": "2024-01-27T08:07:17Z",
+  "updated_at": "2024-01-29T01:12:07Z",
   "pushed_at": "2024-01-25T10:45:31Z",
   "git_url": "git://github.com/refined-github/refined-github.git",
   "ssh_url": "git@github.com:refined-github/refined-github.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1554,
+  "forks_count": 1556,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,7 +107,7 @@
     "userstyle"
   ],
   "visibility": "public",
-  "forks": 1554,
+  "forks": 1556,
   "open_issues": 140,
   "watchers": 22521,
   "default_branch": "main",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2652
+  "_index": 2661
 }

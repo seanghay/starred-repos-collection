@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/expressjs/express/releases{/id}",
   "deployments_url": "https://api.github.com/repos/expressjs/express/deployments",
   "created_at": "2009-06-26T18:56:01Z",
-  "updated_at": "2024-01-27T21:53:59Z",
+  "updated_at": "2024-01-28T22:12:18Z",
   "pushed_at": "2024-01-27T18:34:25Z",
   "git_url": "git://github.com/expressjs/express.git",
   "ssh_url": "git@github.com:expressjs/express.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/expressjs/express",
   "homepage": "https://expressjs.com",
   "size": 9098,
-  "stargazers_count": 62852,
-  "watchers_count": 62852,
+  "stargazers_count": 62862,
+  "watchers_count": 62862,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 12902,
+  "forks_count": 12911,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 200,
+  "open_issues_count": 198,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,9 +104,9 @@
     "server"
   ],
   "visibility": "public",
-  "forks": 12902,
-  "open_issues": 200,
-  "watchers": 62852,
+  "forks": 12911,
+  "open_issues": 198,
+  "watchers": 62862,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1560
+  "_index": 1569
 }

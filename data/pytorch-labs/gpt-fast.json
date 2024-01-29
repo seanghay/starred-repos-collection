@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pytorch-labs/gpt-fast/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pytorch-labs/gpt-fast/deployments",
   "created_at": "2023-10-17T05:30:32Z",
-  "updated_at": "2024-01-27T22:45:55Z",
+  "updated_at": "2024-01-28T14:55:01Z",
   "pushed_at": "2024-01-21T15:18:40Z",
   "git_url": "git://github.com/pytorch-labs/gpt-fast.git",
   "ssh_url": "git@github.com:pytorch-labs/gpt-fast.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 194
+  "_index": 203
 }

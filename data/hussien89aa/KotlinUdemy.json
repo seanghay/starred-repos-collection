@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/hussien89aa/KotlinUdemy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hussien89aa/KotlinUdemy/deployments",
   "created_at": "2017-05-19T17:24:22Z",
-  "updated_at": "2024-01-27T19:00:53Z",
+  "updated_at": "2024-01-28T22:05:24Z",
   "pushed_at": "2021-03-15T19:58:10Z",
   "git_url": "git://github.com/hussien89aa/KotlinUdemy.git",
   "ssh_url": "git@github.com:hussien89aa/KotlinUdemy.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/hussien89aa/KotlinUdemy",
   "homepage": "https://www.udemy.com/the-complete-kotlin-developer-course/?couponCode=UDMEYGITHUB",
   "size": 2791,
-  "stargazers_count": 1776,
-  "watchers_count": 1776,
+  "stargazers_count": 1779,
+  "watchers_count": 1779,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 5121,
+  "forks_count": 5120,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,9 +102,9 @@
     "kotlin-android"
   ],
   "visibility": "public",
-  "forks": 5121,
+  "forks": 5120,
   "open_issues": 15,
-  "watchers": 1776,
+  "watchers": 1779,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2969
+  "_index": 2978
 }
