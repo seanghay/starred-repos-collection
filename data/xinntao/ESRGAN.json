@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/xinntao/ESRGAN/releases{/id}",
   "deployments_url": "https://api.github.com/repos/xinntao/ESRGAN/deployments",
   "created_at": "2018-08-31T08:18:41Z",
-  "updated_at": "2024-01-28T10:05:31Z",
+  "updated_at": "2024-01-29T17:51:52Z",
   "pushed_at": "2022-10-19T02:33:55Z",
   "git_url": "git://github.com/xinntao/ESRGAN.git",
   "ssh_url": "git@github.com:xinntao/ESRGAN.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/xinntao/ESRGAN",
   "homepage": "https://github.com/xinntao/BasicSR",
   "size": 25459,
-  "stargazers_count": 5572,
-  "watchers_count": 5572,
+  "stargazers_count": 5574,
+  "watchers_count": 5574,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -103,7 +103,7 @@
   "visibility": "public",
   "forks": 1016,
   "open_issues": 95,
-  "watchers": 5572,
+  "watchers": 5574,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1003
+  "_index": 1005
 }

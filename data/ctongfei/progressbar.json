@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ctongfei/progressbar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ctongfei/progressbar/deployments",
   "created_at": "2015-02-09T19:16:21Z",
-  "updated_at": "2024-01-26T12:57:00Z",
+  "updated_at": "2024-01-29T13:57:24Z",
   "pushed_at": "2024-01-02T06:23:54Z",
   "git_url": "git://github.com/ctongfei/progressbar.git",
   "ssh_url": "git@github.com:ctongfei/progressbar.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ctongfei/progressbar",
   "homepage": "http://tongfei.me/progressbar/",
   "size": 2616,
-  "stargazers_count": 1017,
-  "watchers_count": 1017,
+  "stargazers_count": 1018,
+  "watchers_count": 1018,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 102,
   "open_issues": 20,
-  "watchers": 1017,
+  "watchers": 1018,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2410
+  "_index": 2412
 }

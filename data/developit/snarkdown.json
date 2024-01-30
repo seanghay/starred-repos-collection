@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/developit/snarkdown/releases{/id}",
   "deployments_url": "https://api.github.com/repos/developit/snarkdown/deployments",
   "created_at": "2014-11-05T01:16:49Z",
-  "updated_at": "2024-01-26T09:53:46Z",
+  "updated_at": "2024-01-29T17:26:03Z",
   "pushed_at": "2022-11-29T17:36:42Z",
   "git_url": "git://github.com/developit/snarkdown.git",
   "ssh_url": "git@github.com:developit/snarkdown.git",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2386
+  "_index": 2388
 }

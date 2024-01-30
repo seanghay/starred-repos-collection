@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/svaarala/duktape/deployments",
   "created_at": "2014-01-12T22:16:14Z",
   "updated_at": "2024-01-28T01:21:18Z",
-  "pushed_at": "2024-01-22T22:38:55Z",
+  "pushed_at": "2024-01-29T11:58:30Z",
   "git_url": "git://github.com/svaarala/duktape.git",
   "ssh_url": "git@github.com:svaarala/duktape.git",
   "clone_url": "https://github.com/svaarala/duktape.git",
   "svn_url": "https://github.com/svaarala/duktape",
   "homepage": null,
-  "size": 76234,
+  "size": 76239,
   "stargazers_count": 5780,
   "watchers_count": 5780,
   "language": "JavaScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 455,
+  "open_issues_count": 454,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,7 +104,7 @@
   ],
   "visibility": "public",
   "forks": 544,
-  "open_issues": 455,
+  "open_issues": 454,
   "watchers": 5780,
   "default_branch": "master",
   "permissions": {
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 196
+  "_index": 198
 }

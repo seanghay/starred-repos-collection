@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yangdongchao/AcademiCodec/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yangdongchao/AcademiCodec/deployments",
   "created_at": "2022-12-23T13:08:35Z",
-  "updated_at": "2024-01-27T22:50:48Z",
+  "updated_at": "2024-01-29T22:01:43Z",
   "pushed_at": "2023-12-27T08:22:56Z",
   "git_url": "git://github.com/yangdongchao/AcademiCodec.git",
   "ssh_url": "git@github.com:yangdongchao/AcademiCodec.git",
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 77
+  "_index": 79
 }

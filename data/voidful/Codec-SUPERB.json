@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/voidful/Codec-SUPERB/releases{/id}",
   "deployments_url": "https://api.github.com/repos/voidful/Codec-SUPERB/deployments",
   "created_at": "2023-10-19T12:06:14Z",
-  "updated_at": "2024-01-29T01:38:05Z",
-  "pushed_at": "2024-01-28T14:44:34Z",
+  "updated_at": "2024-01-29T06:33:45Z",
+  "pushed_at": "2024-01-29T17:01:14Z",
   "git_url": "git://github.com/voidful/Codec-SUPERB.git",
   "ssh_url": "git@github.com:voidful/Codec-SUPERB.git",
   "clone_url": "https://github.com/voidful/Codec-SUPERB.git",
   "svn_url": "https://github.com/voidful/Codec-SUPERB",
   "homepage": "https://huggingface.co/AudioDecBenchmark",
-  "size": 2851,
-  "stargazers_count": 92,
-  "watchers_count": 92,
+  "size": 2852,
+  "stargazers_count": 96,
+  "watchers_count": 96,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 9,
   "open_issues": 1,
-  "watchers": 92,
+  "watchers": 96,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 26
+  "_index": 28
 }

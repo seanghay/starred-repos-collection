@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Strumenta/antlr-kotlin/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Strumenta/antlr-kotlin/deployments",
   "created_at": "2018-08-20T17:40:29Z",
-  "updated_at": "2024-01-25T20:11:03Z",
+  "updated_at": "2024-01-29T18:16:18Z",
   "pushed_at": "2024-01-26T11:37:45Z",
   "git_url": "git://github.com/Strumenta/antlr-kotlin.git",
   "ssh_url": "git@github.com:Strumenta/antlr-kotlin.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Strumenta/antlr-kotlin",
   "homepage": null,
   "size": 9706,
-  "stargazers_count": 189,
-  "watchers_count": 189,
+  "stargazers_count": 191,
+  "watchers_count": 191,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 20,
+  "open_issues_count": 21,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 47,
-  "open_issues": 20,
-  "watchers": 189,
+  "open_issues": 21,
+  "watchers": 191,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1783
+  "_index": 1785
 }

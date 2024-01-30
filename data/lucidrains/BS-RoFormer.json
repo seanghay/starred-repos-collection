@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lucidrains/BS-RoFormer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lucidrains/BS-RoFormer/deployments",
   "created_at": "2023-09-09T17:48:36Z",
-  "updated_at": "2024-01-25T01:36:06Z",
+  "updated_at": "2024-01-29T12:17:58Z",
   "pushed_at": "2023-12-12T16:31:08Z",
   "git_url": "git://github.com/lucidrains/BS-RoFormer.git",
   "ssh_url": "git@github.com:lucidrains/BS-RoFormer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lucidrains/BS-RoFormer",
   "homepage": "",
   "size": 222,
-  "stargazers_count": 170,
-  "watchers_count": 170,
+  "stargazers_count": 171,
+  "watchers_count": 171,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 9,
   "open_issues": 2,
-  "watchers": 170,
+  "watchers": 171,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 60
+  "_index": 62
 }

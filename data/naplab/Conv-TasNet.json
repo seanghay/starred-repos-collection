@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/naplab/Conv-TasNet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/naplab/Conv-TasNet/deployments",
   "created_at": "2019-04-20T05:39:15Z",
-  "updated_at": "2024-01-26T19:23:11Z",
+  "updated_at": "2024-01-29T22:01:03Z",
   "pushed_at": "2020-02-28T10:18:20Z",
   "git_url": "git://github.com/naplab/Conv-TasNet.git",
   "ssh_url": "git@github.com:naplab/Conv-TasNet.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/naplab/Conv-TasNet",
   "homepage": null,
   "size": 19,
-  "stargazers_count": 261,
-  "watchers_count": 261,
+  "stargazers_count": 260,
+  "watchers_count": 260,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 73,
   "open_issues": 3,
-  "watchers": 261,
+  "watchers": 260,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 54
+  "_index": 56
 }

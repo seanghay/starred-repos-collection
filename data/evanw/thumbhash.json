@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/evanw/thumbhash/releases{/id}",
   "deployments_url": "https://api.github.com/repos/evanw/thumbhash/deployments",
   "created_at": "2023-03-22T06:59:53Z",
-  "updated_at": "2024-01-28T16:09:08Z",
+  "updated_at": "2024-01-29T08:22:57Z",
   "pushed_at": "2024-01-08T13:28:42Z",
   "git_url": "git://github.com/evanw/thumbhash.git",
   "ssh_url": "git@github.com:evanw/thumbhash.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/evanw/thumbhash",
   "homepage": "https://evanw.github.io/thumbhash/",
   "size": 105,
-  "stargazers_count": 3106,
-  "watchers_count": 3106,
+  "stargazers_count": 3108,
+  "watchers_count": 3108,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 57,
   "open_issues": 11,
-  "watchers": 3106,
+  "watchers": 3108,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 883
+  "_index": 885
 }

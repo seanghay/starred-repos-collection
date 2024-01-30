@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/open-cli-tools/concurrently/releases{/id}",
   "deployments_url": "https://api.github.com/repos/open-cli-tools/concurrently/deployments",
   "created_at": "2015-02-05T22:27:51Z",
-  "updated_at": "2024-01-29T01:36:37Z",
+  "updated_at": "2024-01-29T20:46:40Z",
   "pushed_at": "2024-01-12T20:14:32Z",
   "git_url": "git://github.com/open-cli-tools/concurrently.git",
   "ssh_url": "git@github.com:open-cli-tools/concurrently.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/open-cli-tools/concurrently",
   "homepage": "https://www.npmjs.com/package/concurrently",
   "size": 2497,
-  "stargazers_count": 6617,
-  "watchers_count": 6617,
+  "stargazers_count": 6619,
+  "watchers_count": 6619,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 244,
   "open_issues": 63,
-  "watchers": 6617,
+  "watchers": 6619,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2701
+  "_index": 2703
 }

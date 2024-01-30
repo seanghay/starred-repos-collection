@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/glideapps/quicktype/releases{/id}",
   "deployments_url": "https://api.github.com/repos/glideapps/quicktype/deployments",
   "created_at": "2017-07-13T00:22:50Z",
-  "updated_at": "2024-01-29T00:36:44Z",
-  "pushed_at": "2024-01-27T16:15:51Z",
+  "updated_at": "2024-01-29T17:15:26Z",
+  "pushed_at": "2024-01-29T04:47:11Z",
   "git_url": "git://github.com/glideapps/quicktype.git",
   "ssh_url": "git@github.com:glideapps/quicktype.git",
   "clone_url": "https://github.com/glideapps/quicktype.git",
   "svn_url": "https://github.com/glideapps/quicktype",
   "homepage": "https://app.quicktype.io",
   "size": 12796,
-  "stargazers_count": 11116,
-  "watchers_count": 11116,
+  "stargazers_count": 11124,
+  "watchers_count": 11124,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 480,
+  "open_issues_count": 481,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -114,8 +114,8 @@
   ],
   "visibility": "public",
   "forks": 992,
-  "open_issues": 480,
-  "watchers": 11116,
+  "open_issues": 481,
+  "watchers": 11124,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1786
+  "_index": 1788
 }

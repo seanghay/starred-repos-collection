@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/RVC-Boss/GPT-SoVITS/releases{/id}",
   "deployments_url": "https://api.github.com/repos/RVC-Boss/GPT-SoVITS/deployments",
   "created_at": "2024-01-14T18:05:21Z",
-  "updated_at": "2024-01-29T01:39:51Z",
-  "pushed_at": "2024-01-28T14:01:48Z",
+  "updated_at": "2024-01-30T01:33:48Z",
+  "pushed_at": "2024-01-29T16:55:28Z",
   "git_url": "git://github.com/RVC-Boss/GPT-SoVITS.git",
   "ssh_url": "git@github.com:RVC-Boss/GPT-SoVITS.git",
   "clone_url": "https://github.com/RVC-Boss/GPT-SoVITS.git",
   "svn_url": "https://github.com/RVC-Boss/GPT-SoVITS",
   "homepage": "",
-  "size": 2852,
-  "stargazers_count": 6540,
-  "watchers_count": 6540,
+  "size": 2829,
+  "stargazers_count": 7126,
+  "watchers_count": 7126,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 668,
+  "forks_count": 727,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 79,
+  "open_issues_count": 95,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,9 +106,9 @@
     "voice-cloning"
   ],
   "visibility": "public",
-  "forks": 668,
-  "open_issues": 79,
-  "watchers": 6540,
+  "forks": 727,
+  "open_issues": 95,
+  "watchers": 7126,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 82
+  "_index": 84
 }

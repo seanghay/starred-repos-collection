@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/qdrant/qdrant/releases{/id}",
   "deployments_url": "https://api.github.com/repos/qdrant/qdrant/deployments",
   "created_at": "2020-05-30T21:37:01Z",
-  "updated_at": "2024-01-29T01:35:43Z",
-  "pushed_at": "2024-01-28T09:58:04Z",
+  "updated_at": "2024-01-30T00:33:33Z",
+  "pushed_at": "2024-01-29T18:19:01Z",
   "git_url": "git://github.com/qdrant/qdrant.git",
   "ssh_url": "git@github.com:qdrant/qdrant.git",
   "clone_url": "https://github.com/qdrant/qdrant.git",
   "svn_url": "https://github.com/qdrant/qdrant",
   "homepage": "https://qdrant.tech",
-  "size": 14617,
-  "stargazers_count": 15865,
-  "watchers_count": 15865,
+  "size": 14949,
+  "stargazers_count": 15881,
+  "watchers_count": 15881,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 960,
+  "forks_count": 963,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 216,
+  "open_issues_count": 221,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -120,9 +120,9 @@
     "vector-search-engine"
   ],
   "visibility": "public",
-  "forks": 960,
-  "open_issues": 216,
-  "watchers": 15865,
+  "forks": 963,
+  "open_issues": 221,
+  "watchers": 15881,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 977
+  "_index": 979
 }

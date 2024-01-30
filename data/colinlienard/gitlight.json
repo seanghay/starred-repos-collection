@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/colinlienard/gitlight/releases{/id}",
   "deployments_url": "https://api.github.com/repos/colinlienard/gitlight/deployments",
   "created_at": "2023-02-26T16:48:08Z",
-  "updated_at": "2024-01-28T21:02:50Z",
-  "pushed_at": "2024-01-27T19:28:14Z",
+  "updated_at": "2024-01-29T09:05:49Z",
+  "pushed_at": "2024-01-29T20:29:43Z",
   "git_url": "git://github.com/colinlienard/gitlight.git",
   "ssh_url": "git@github.com:colinlienard/gitlight.git",
   "clone_url": "https://github.com/colinlienard/gitlight.git",
   "svn_url": "https://github.com/colinlienard/gitlight",
   "homepage": "https://gitlight.app",
-  "size": 9913,
-  "stargazers_count": 609,
-  "watchers_count": 609,
+  "size": 9915,
+  "stargazers_count": 610,
+  "watchers_count": 610,
   "language": "Svelte",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 26,
   "open_issues": 6,
-  "watchers": 609,
+  "watchers": 610,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 732
+  "_index": 734
 }

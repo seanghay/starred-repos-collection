@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sail-sg/EditAnything/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sail-sg/EditAnything/deployments",
   "created_at": "2023-04-09T08:48:36Z",
-  "updated_at": "2024-01-28T17:06:38Z",
+  "updated_at": "2024-01-29T15:51:07Z",
   "pushed_at": "2023-08-14T02:46:22Z",
   "git_url": "git://github.com/sail-sg/EditAnything.git",
   "ssh_url": "git@github.com:sail-sg/EditAnything.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sail-sg/EditAnything",
   "homepage": "",
   "size": 33783,
-  "stargazers_count": 2999,
-  "watchers_count": 2999,
+  "stargazers_count": 3002,
+  "watchers_count": 3002,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 41,
+  "open_issues_count": 42,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 166,
-  "open_issues": 41,
-  "watchers": 2999,
+  "open_issues": 42,
+  "watchers": 3002,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 837
+  "_index": 839
 }

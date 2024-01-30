@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/PaddlePaddle/Paddle/releases{/id}",
   "deployments_url": "https://api.github.com/repos/PaddlePaddle/Paddle/deployments",
   "created_at": "2016-08-15T06:59:08Z",
-  "updated_at": "2024-01-28T12:43:55Z",
-  "pushed_at": "2024-01-29T01:38:27Z",
+  "updated_at": "2024-01-29T11:52:20Z",
+  "pushed_at": "2024-01-30T01:12:29Z",
   "git_url": "git://github.com/PaddlePaddle/Paddle.git",
   "ssh_url": "git@github.com:PaddlePaddle/Paddle.git",
   "clone_url": "https://github.com/PaddlePaddle/Paddle.git",
   "svn_url": "https://github.com/PaddlePaddle/Paddle",
   "homepage": "http://www.paddlepaddle.org/",
-  "size": 408375,
-  "stargazers_count": 21282,
-  "watchers_count": 21282,
+  "size": 408642,
+  "stargazers_count": 21288,
+  "watchers_count": 21288,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 5417,
+  "forks_count": 5421,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1937,
+  "open_issues_count": 1954,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -108,9 +108,9 @@
     "scalability"
   ],
   "visibility": "public",
-  "forks": 5417,
-  "open_issues": 1937,
-  "watchers": 21282,
+  "forks": 5421,
+  "open_issues": 1954,
+  "watchers": 21288,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 225
+  "_index": 227
 }

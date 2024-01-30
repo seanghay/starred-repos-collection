@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/SwiftyJSON/SwiftyJSON/releases{/id}",
   "deployments_url": "https://api.github.com/repos/SwiftyJSON/SwiftyJSON/deployments",
   "created_at": "2014-06-18T14:41:15Z",
-  "updated_at": "2024-01-28T20:24:02Z",
+  "updated_at": "2024-01-29T21:13:26Z",
   "pushed_at": "2024-01-17T19:13:04Z",
   "git_url": "git://github.com/SwiftyJSON/SwiftyJSON.git",
   "ssh_url": "git@github.com:SwiftyJSON/SwiftyJSON.git",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2691
+  "_index": 2693
 }

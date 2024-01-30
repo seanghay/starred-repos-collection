@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/oh-my-ocr/text_renderer/deployments",
   "created_at": "2020-06-18T09:07:13Z",
   "updated_at": "2024-01-25T15:21:23Z",
-  "pushed_at": "2023-02-09T08:58:46Z",
+  "pushed_at": "2024-01-29T13:37:31Z",
   "git_url": "git://github.com/oh-my-ocr/text_renderer.git",
   "ssh_url": "git@github.com:oh-my-ocr/text_renderer.git",
   "clone_url": "https://github.com/oh-my-ocr/text_renderer.git",
   "svn_url": "https://github.com/oh-my-ocr/text_renderer",
   "homepage": "https://oh-my-ocr.github.io/text_renderer/README.html",
-  "size": 9365,
+  "size": 9367,
   "stargazers_count": 683,
   "watchers_count": 683,
   "language": "Python",
@@ -86,15 +86,21 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 22,
-  "license": null,
+  "open_issues_count": 23,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
   "allow_forking": true,
   "is_template": false,
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
   "forks": 145,
-  "open_issues": 22,
+  "open_issues": 23,
   "watchers": 683,
   "default_branch": "master",
   "permissions": {
@@ -104,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 195
+  "_index": 197
 }

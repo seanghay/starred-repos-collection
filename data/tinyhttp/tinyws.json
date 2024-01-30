@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tinyhttp/tinyws/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tinyhttp/tinyws/deployments",
   "created_at": "2021-05-10T15:48:25Z",
-  "updated_at": "2024-01-11T01:05:24Z",
+  "updated_at": "2024-01-29T18:45:11Z",
   "pushed_at": "2023-09-24T15:43:14Z",
   "git_url": "git://github.com/tinyhttp/tinyws.git",
   "ssh_url": "git@github.com:tinyhttp/tinyws.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/tinyhttp/tinyws",
   "homepage": "https://npm.im/tinyws",
   "size": 279,
-  "stargazers_count": 392,
-  "watchers_count": 392,
+  "stargazers_count": 393,
+  "watchers_count": 393,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 14,
   "open_issues": 1,
-  "watchers": 392,
+  "watchers": 393,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1407
+  "_index": 1409
 }

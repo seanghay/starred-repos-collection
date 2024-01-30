@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/rhasspy/piper/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rhasspy/piper/deployments",
   "created_at": "2023-01-10T22:25:40Z",
-  "updated_at": "2024-01-29T00:26:28Z",
-  "pushed_at": "2024-01-22T21:37:46Z",
+  "updated_at": "2024-01-30T01:00:03Z",
+  "pushed_at": "2024-01-29T11:38:02Z",
   "git_url": "git://github.com/rhasspy/piper.git",
   "ssh_url": "git@github.com:rhasspy/piper.git",
   "clone_url": "https://github.com/rhasspy/piper.git",
   "svn_url": "https://github.com/rhasspy/piper",
   "homepage": "https://rhasspy.github.io/piper-samples/",
   "size": 182522,
-  "stargazers_count": 2730,
-  "watchers_count": 2730,
+  "stargazers_count": 2749,
+  "watchers_count": 2749,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 183,
+  "forks_count": 185,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 167,
+  "open_issues_count": 169,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,9 +103,9 @@
     "tts"
   ],
   "visibility": "public",
-  "forks": 183,
-  "open_issues": 167,
-  "watchers": 2730,
+  "forks": 185,
+  "open_issues": 169,
+  "watchers": 2749,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 424
+  "_index": 426
 }
