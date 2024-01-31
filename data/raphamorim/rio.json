@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/raphamorim/rio/releases{/id}",
   "deployments_url": "https://api.github.com/repos/raphamorim/rio/deployments",
   "created_at": "2022-10-05T15:18:41Z",
-  "updated_at": "2024-01-30T00:06:20Z",
-  "pushed_at": "2024-01-30T01:23:11Z",
+  "updated_at": "2024-01-31T00:26:28Z",
+  "pushed_at": "2024-01-31T01:23:41Z",
   "git_url": "git://github.com/raphamorim/rio.git",
   "ssh_url": "git@github.com:raphamorim/rio.git",
   "clone_url": "https://github.com/raphamorim/rio.git",
   "svn_url": "https://github.com/raphamorim/rio",
   "homepage": "https://raphamorim.io/rio",
-  "size": 73932,
-  "stargazers_count": 2700,
-  "watchers_count": 2700,
+  "size": 73933,
+  "stargazers_count": 2706,
+  "watchers_count": 2706,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 84,
+  "forks_count": 85,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -111,9 +111,9 @@
     "wpgu"
   ],
   "visibility": "public",
-  "forks": 84,
+  "forks": 85,
   "open_issues": 70,
-  "watchers": 2700,
+  "watchers": 2706,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 100
+  "_index": 102
 }

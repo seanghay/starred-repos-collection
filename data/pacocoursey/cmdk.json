@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/pacocoursey/cmdk/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pacocoursey/cmdk/deployments",
   "created_at": "2022-07-15T20:22:47Z",
-  "updated_at": "2024-01-29T23:18:04Z",
-  "pushed_at": "2024-01-18T14:13:43Z",
+  "updated_at": "2024-01-30T22:48:11Z",
+  "pushed_at": "2024-01-31T01:18:53Z",
   "git_url": "git://github.com/pacocoursey/cmdk.git",
   "ssh_url": "git@github.com:pacocoursey/cmdk.git",
   "clone_url": "https://github.com/pacocoursey/cmdk.git",
   "svn_url": "https://github.com/pacocoursey/cmdk",
   "homepage": "https://cmdk.paco.me",
-  "size": 653,
-  "stargazers_count": 7770,
-  "watchers_count": 7770,
+  "size": 826,
+  "stargazers_count": 7780,
+  "watchers_count": 7780,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 69,
+  "open_issues_count": 41,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 213,
-  "open_issues": 69,
-  "watchers": 7770,
+  "open_issues": 41,
+  "watchers": 7780,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1292
+  "_index": 1294
 }

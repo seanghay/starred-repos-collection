@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/napi-rs/node-rs/deployments",
   "created_at": "2020-03-17T16:04:58Z",
   "updated_at": "2024-01-29T15:13:28Z",
-  "pushed_at": "2024-01-29T17:38:02Z",
+  "pushed_at": "2024-01-30T21:32:45Z",
   "git_url": "git://github.com/napi-rs/node-rs.git",
   "ssh_url": "git@github.com:napi-rs/node-rs.git",
   "clone_url": "https://github.com/napi-rs/node-rs.git",
   "svn_url": "https://github.com/napi-rs/node-rs",
   "homepage": "",
-  "size": 11487,
+  "size": 12455,
   "stargazers_count": 908,
   "watchers_count": 908,
   "language": "JavaScript",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1769
+  "_index": 1771
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yuruiyin/RichEditor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yuruiyin/RichEditor/deployments",
   "created_at": "2019-04-29T02:48:51Z",
-  "updated_at": "2024-01-26T03:38:59Z",
+  "updated_at": "2024-01-30T11:18:48Z",
   "pushed_at": "2020-05-15T10:24:27Z",
   "git_url": "git://github.com/yuruiyin/RichEditor.git",
   "ssh_url": "git@github.com:yuruiyin/RichEditor.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yuruiyin/RichEditor",
   "homepage": null,
   "size": 103411,
-  "stargazers_count": 299,
-  "watchers_count": 299,
+  "stargazers_count": 300,
+  "watchers_count": 300,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 36,
   "open_issues": 11,
-  "watchers": 299,
+  "watchers": 300,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2307
+  "_index": 2309
 }

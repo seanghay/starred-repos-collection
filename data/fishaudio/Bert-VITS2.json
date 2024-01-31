@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/fishaudio/Bert-VITS2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fishaudio/Bert-VITS2/deployments",
   "created_at": "2023-07-29T10:45:35Z",
-  "updated_at": "2024-01-30T00:57:22Z",
-  "pushed_at": "2024-01-29T18:44:00Z",
+  "updated_at": "2024-01-31T00:40:30Z",
+  "pushed_at": "2024-01-30T17:30:40Z",
   "git_url": "git://github.com/fishaudio/Bert-VITS2.git",
   "ssh_url": "git@github.com:fishaudio/Bert-VITS2.git",
   "clone_url": "https://github.com/fishaudio/Bert-VITS2.git",
   "svn_url": "https://github.com/fishaudio/Bert-VITS2",
   "homepage": "",
-  "size": 10478,
-  "stargazers_count": 5530,
-  "watchers_count": 5530,
+  "size": 10670,
+  "stargazers_count": 5552,
+  "watchers_count": 5552,
   "language": "Python",
   "has_issues": false,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 816,
+  "forks_count": 818,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 4,
+  "open_issues_count": 3,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -106,9 +106,9 @@
     "vits2"
   ],
   "visibility": "public",
-  "forks": 816,
-  "open_issues": 4,
-  "watchers": 5530,
+  "forks": 818,
+  "open_issues": 3,
+  "watchers": 5552,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 135
+  "_index": 137
 }

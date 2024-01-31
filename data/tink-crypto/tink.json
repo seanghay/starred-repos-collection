@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tink-crypto/tink/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tink-crypto/tink/deployments",
   "created_at": "2014-06-06T16:21:09Z",
-  "updated_at": "2024-01-29T14:10:33Z",
+  "updated_at": "2024-01-30T14:42:50Z",
   "pushed_at": "2024-01-29T14:59:24Z",
   "git_url": "git://github.com/tink-crypto/tink.git",
   "ssh_url": "git@github.com:tink-crypto/tink.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/tink-crypto/tink",
   "homepage": "https://developers.google.com/tink",
   "size": 58227,
-  "stargazers_count": 13416,
-  "watchers_count": 13416,
+  "stargazers_count": 13417,
+  "watchers_count": 13417,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 1229,
   "open_issues": 7,
-  "watchers": 13416,
+  "watchers": 13417,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2865
+  "_index": 2867
 }

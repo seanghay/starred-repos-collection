@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/daybrush/selecto/releases{/id}",
   "deployments_url": "https://api.github.com/repos/daybrush/selecto/deployments",
   "created_at": "2019-12-28T19:16:33Z",
-  "updated_at": "2024-01-28T05:48:11Z",
+  "updated_at": "2024-01-30T07:23:07Z",
   "pushed_at": "2023-12-03T09:53:12Z",
   "git_url": "git://github.com/daybrush/selecto.git",
   "ssh_url": "git@github.com:daybrush/selecto.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/daybrush/selecto",
   "homepage": "https://daybrush.com/selecto",
   "size": 29358,
-  "stargazers_count": 1850,
-  "watchers_count": 1850,
+  "stargazers_count": 1851,
+  "watchers_count": 1851,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -114,7 +114,7 @@
   "visibility": "public",
   "forks": 73,
   "open_issues": 80,
-  "watchers": 1850,
+  "watchers": 1851,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 923
+  "_index": 925
 }

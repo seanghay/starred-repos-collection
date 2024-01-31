@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/bytedance/SALMONN/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bytedance/SALMONN/deployments",
   "created_at": "2023-08-11T07:28:25Z",
-  "updated_at": "2024-01-29T08:07:45Z",
-  "pushed_at": "2024-01-29T08:05:15Z",
+  "updated_at": "2024-01-30T06:01:20Z",
+  "pushed_at": "2024-01-30T09:23:25Z",
   "git_url": "git://github.com/bytedance/SALMONN.git",
   "ssh_url": "git@github.com:bytedance/SALMONN.git",
   "clone_url": "https://github.com/bytedance/SALMONN.git",
   "svn_url": "https://github.com/bytedance/SALMONN",
   "homepage": "https://bytedance.github.io/SALMONN/",
-  "size": 7031,
-  "stargazers_count": 714,
-  "watchers_count": 714,
+  "size": 7032,
+  "stargazers_count": 715,
+  "watchers_count": 715,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 50,
   "open_issues": 4,
-  "watchers": 714,
+  "watchers": 715,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 272
+  "_index": 274
 }

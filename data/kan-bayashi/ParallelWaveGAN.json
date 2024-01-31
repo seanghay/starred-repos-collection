@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/kan-bayashi/ParallelWaveGAN/deployments",
   "created_at": "2019-10-29T02:32:35Z",
   "updated_at": "2024-01-26T14:16:27Z",
-  "pushed_at": "2023-11-20T06:04:00Z",
+  "pushed_at": "2024-01-30T23:31:01Z",
   "git_url": "git://github.com/kan-bayashi/ParallelWaveGAN.git",
   "ssh_url": "git@github.com:kan-bayashi/ParallelWaveGAN.git",
   "clone_url": "https://github.com/kan-bayashi/ParallelWaveGAN.git",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 582
+  "_index": 584
 }

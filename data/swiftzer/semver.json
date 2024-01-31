@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/swiftzer/semver/deployments",
   "created_at": "2017-10-21T07:09:43Z",
   "updated_at": "2024-01-16T07:08:46Z",
-  "pushed_at": "2024-01-27T04:34:31Z",
+  "pushed_at": "2024-01-30T16:11:57Z",
   "git_url": "git://github.com/swiftzer/semver.git",
   "ssh_url": "git@github.com:swiftzer/semver.git",
   "clone_url": "https://github.com/swiftzer/semver.git",
   "svn_url": "https://github.com/swiftzer/semver",
   "homepage": null,
-  "size": 226,
+  "size": 225,
   "stargazers_count": 68,
   "watchers_count": 68,
   "language": "Kotlin",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 7,
+  "open_issues_count": 6,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,7 +103,7 @@
   ],
   "visibility": "public",
   "forks": 13,
-  "open_issues": 7,
+  "open_issues": 6,
   "watchers": 68,
   "default_branch": "main",
   "permissions": {
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2268
+  "_index": 2270
 }

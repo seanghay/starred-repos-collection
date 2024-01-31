@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/julienschmidt/httprouter/releases{/id}",
   "deployments_url": "https://api.github.com/repos/julienschmidt/httprouter/deployments",
   "created_at": "2013-12-05T15:10:55Z",
-  "updated_at": "2024-01-29T17:20:41Z",
-  "pushed_at": "2024-01-26T20:18:38Z",
+  "updated_at": "2024-01-30T21:13:43Z",
+  "pushed_at": "2024-01-30T10:56:57Z",
   "git_url": "git://github.com/julienschmidt/httprouter.git",
   "ssh_url": "git@github.com:julienschmidt/httprouter.git",
   "clone_url": "https://github.com/julienschmidt/httprouter.git",
   "svn_url": "https://github.com/julienschmidt/httprouter",
   "homepage": "https://pkg.go.dev/github.com/julienschmidt/httprouter",
-  "size": 269,
-  "stargazers_count": 16090,
-  "watchers_count": 16090,
+  "size": 265,
+  "stargazers_count": 16094,
+  "watchers_count": 16094,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1471,
+  "forks_count": 1469,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 88,
+  "open_issues_count": 79,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -106,9 +106,9 @@
     "router"
   ],
   "visibility": "public",
-  "forks": 1471,
-  "open_issues": 88,
-  "watchers": 16090,
+  "forks": 1469,
+  "open_issues": 79,
+  "watchers": 16094,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1951
+  "_index": 1953
 }

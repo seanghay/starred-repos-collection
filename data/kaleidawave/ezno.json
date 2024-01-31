@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/kaleidawave/ezno/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kaleidawave/ezno/deployments",
   "created_at": "2023-02-03T19:27:20Z",
-  "updated_at": "2024-01-30T01:28:03Z",
-  "pushed_at": "2024-01-29T11:57:51Z",
+  "updated_at": "2024-01-30T20:37:29Z",
+  "pushed_at": "2024-01-30T15:00:19Z",
   "git_url": "git://github.com/kaleidawave/ezno.git",
   "ssh_url": "git@github.com:kaleidawave/ezno.git",
   "clone_url": "https://github.com/kaleidawave/ezno.git",
   "svn_url": "https://github.com/kaleidawave/ezno",
   "homepage": "https://kaleidawave.github.io/posts/introducing-ezno/",
-  "size": 2587,
-  "stargazers_count": 2008,
-  "watchers_count": 2008,
+  "size": 2530,
+  "stargazers_count": 2015,
+  "watchers_count": 2015,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 28,
+  "forks_count": 29,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 31,
+  "open_issues_count": 33,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,9 +105,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 28,
-  "open_issues": 31,
-  "watchers": 2008,
+  "forks": 29,
+  "open_issues": 33,
+  "watchers": 2015,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 978
+  "_index": 980
 }

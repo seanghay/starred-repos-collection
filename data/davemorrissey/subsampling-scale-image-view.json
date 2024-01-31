@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/davemorrissey/subsampling-scale-image-view/releases{/id}",
   "deployments_url": "https://api.github.com/repos/davemorrissey/subsampling-scale-image-view/deployments",
   "created_at": "2013-08-26T16:45:25Z",
-  "updated_at": "2024-01-27T21:30:26Z",
+  "updated_at": "2024-01-30T10:50:41Z",
   "pushed_at": "2022-03-30T10:42:13Z",
   "git_url": "git://github.com/davemorrissey/subsampling-scale-image-view.git",
   "ssh_url": "git@github.com:davemorrissey/subsampling-scale-image-view.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/davemorrissey/subsampling-scale-image-view",
   "homepage": "",
   "size": 57935,
-  "stargazers_count": 7729,
-  "watchers_count": 7729,
+  "stargazers_count": 7730,
+  "watchers_count": 7730,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 1191,
+  "forks_count": 1193,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,9 +110,9 @@
     "zoom-images"
   ],
   "visibility": "public",
-  "forks": 1191,
+  "forks": 1193,
   "open_issues": 44,
-  "watchers": 7729,
+  "watchers": 7730,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2797
+  "_index": 2799
 }

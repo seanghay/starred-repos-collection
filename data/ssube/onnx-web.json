@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/ssube/onnx-web/deployments",
   "created_at": "2023-01-05T16:41:20Z",
   "updated_at": "2024-01-29T13:47:25Z",
-  "pushed_at": "2024-01-29T23:02:57Z",
+  "pushed_at": "2024-01-31T00:12:46Z",
   "git_url": "git://github.com/ssube/onnx-web.git",
   "ssh_url": "git@github.com:ssube/onnx-web.git",
   "clone_url": "https://github.com/ssube/onnx-web.git",
   "svn_url": "https://github.com/ssube/onnx-web",
   "homepage": "https://discord.gg/7CdQmutGuw",
-  "size": 24749,
+  "size": 24760,
   "stargazers_count": 157,
   "watchers_count": 157,
   "language": "Python",
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 123
+  "_index": 125
 }

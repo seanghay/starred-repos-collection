@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/microsoft/unilm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microsoft/unilm/deployments",
   "created_at": "2019-07-23T04:15:28Z",
-  "updated_at": "2024-01-30T01:32:05Z",
+  "updated_at": "2024-01-31T01:22:12Z",
   "pushed_at": "2024-01-30T00:22:49Z",
   "git_url": "git://github.com/microsoft/unilm.git",
   "ssh_url": "git@github.com:microsoft/unilm.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/microsoft/unilm",
   "homepage": "https://aka.ms/GeneralAI",
   "size": 56880,
-  "stargazers_count": 17002,
-  "watchers_count": 17002,
+  "stargazers_count": 17009,
+  "watchers_count": 17009,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2269,
+  "forks_count": 2270,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 519,
+  "open_issues_count": 521,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -119,9 +119,9 @@
     "xlm-e"
   ],
   "visibility": "public",
-  "forks": 2269,
-  "open_issues": 519,
-  "watchers": 17002,
+  "forks": 2270,
+  "open_issues": 521,
+  "watchers": 17009,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 964
+  "_index": 966
 }

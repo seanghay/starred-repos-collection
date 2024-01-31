@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jiang111/Awesome-RecyclerView-LayoutManager/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jiang111/Awesome-RecyclerView-LayoutManager/deployments",
   "created_at": "2017-03-29T08:09:11Z",
-  "updated_at": "2024-01-29T02:51:44Z",
+  "updated_at": "2024-01-30T19:28:34Z",
   "pushed_at": "2021-10-15T05:02:27Z",
   "git_url": "git://github.com/jiang111/Awesome-RecyclerView-LayoutManager.git",
   "ssh_url": "git@github.com:jiang111/Awesome-RecyclerView-LayoutManager.git",
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2219
+  "_index": 2221
 }

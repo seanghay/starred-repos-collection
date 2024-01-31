@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kdrkdrkdr/JK-VITS/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kdrkdrkdr/JK-VITS/deployments",
   "created_at": "2023-06-22T11:26:31Z",
-  "updated_at": "2024-01-17T03:00:12Z",
+  "updated_at": "2024-01-30T11:17:39Z",
   "pushed_at": "2023-07-01T08:08:42Z",
   "git_url": "git://github.com/kdrkdrkdr/JK-VITS.git",
   "ssh_url": "git@github.com:kdrkdrkdr/JK-VITS.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/kdrkdrkdr/JK-VITS",
   "homepage": null,
   "size": 2727,
-  "stargazers_count": 21,
-  "watchers_count": 21,
+  "stargazers_count": 22,
+  "watchers_count": 22,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 5,
   "open_issues": 0,
-  "watchers": 21,
+  "watchers": 22,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 166
+  "_index": 168
 }

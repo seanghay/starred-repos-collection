@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/open-mmlab/mmocr/releases{/id}",
   "deployments_url": "https://api.github.com/repos/open-mmlab/mmocr/deployments",
   "created_at": "2021-04-07T13:40:21Z",
-  "updated_at": "2024-01-29T13:08:15Z",
+  "updated_at": "2024-01-30T21:16:05Z",
   "pushed_at": "2023-10-28T04:01:29Z",
   "git_url": "git://github.com/open-mmlab/mmocr.git",
   "ssh_url": "git@github.com:open-mmlab/mmocr.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/open-mmlab/mmocr",
   "homepage": "https://mmocr.readthedocs.io/en/dev-1.x/",
   "size": 16630,
-  "stargazers_count": 3909,
-  "watchers_count": 3909,
+  "stargazers_count": 3911,
+  "watchers_count": 3911,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 714,
+  "forks_count": 713,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -120,9 +120,9 @@
     "text-recognition"
   ],
   "visibility": "public",
-  "forks": 714,
+  "forks": 713,
   "open_issues": 163,
-  "watchers": 3909,
+  "watchers": 3911,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 216
+  "_index": 218
 }

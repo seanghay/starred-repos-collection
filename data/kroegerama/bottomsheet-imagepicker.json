@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kroegerama/bottomsheet-imagepicker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kroegerama/bottomsheet-imagepicker/deployments",
   "created_at": "2019-04-07T11:01:19Z",
-  "updated_at": "2024-01-23T11:53:41Z",
+  "updated_at": "2024-01-30T13:08:00Z",
   "pushed_at": "2022-04-14T20:26:48Z",
   "git_url": "git://github.com/kroegerama/bottomsheet-imagepicker.git",
   "ssh_url": "git@github.com:kroegerama/bottomsheet-imagepicker.git",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3092
+  "_index": 3094
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wiseman/py-webrtcvad/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wiseman/py-webrtcvad/deployments",
   "created_at": "2016-04-23T05:03:52Z",
-  "updated_at": "2024-01-29T02:41:23Z",
+  "updated_at": "2024-01-30T08:44:39Z",
   "pushed_at": "2023-06-02T14:39:34Z",
   "git_url": "git://github.com/wiseman/py-webrtcvad.git",
   "ssh_url": "git@github.com:wiseman/py-webrtcvad.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wiseman/py-webrtcvad",
   "homepage": null,
   "size": 250,
-  "stargazers_count": 1818,
-  "watchers_count": 1818,
+  "stargazers_count": 1820,
+  "watchers_count": 1820,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 392,
   "open_issues": 44,
-  "watchers": 1818,
+  "watchers": 1820,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 378
+  "_index": 380
 }

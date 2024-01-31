@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/volsahin/bottomify-navigation-view/releases{/id}",
   "deployments_url": "https://api.github.com/repos/volsahin/bottomify-navigation-view/deployments",
   "created_at": "2018-08-13T20:57:48Z",
-  "updated_at": "2023-09-11T13:13:32Z",
+  "updated_at": "2024-01-30T19:29:34Z",
   "pushed_at": "2021-01-24T11:09:23Z",
   "git_url": "git://github.com/volsahin/bottomify-navigation-view.git",
   "ssh_url": "git@github.com:volsahin/bottomify-navigation-view.git",
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2843
+  "_index": 2845
 }

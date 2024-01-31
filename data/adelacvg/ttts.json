@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/adelacvg/ttts/releases{/id}",
   "deployments_url": "https://api.github.com/repos/adelacvg/ttts/deployments",
   "created_at": "2023-10-24T15:04:51Z",
-  "updated_at": "2024-01-25T02:23:58Z",
+  "updated_at": "2024-01-30T09:18:14Z",
   "pushed_at": "2024-01-29T18:07:32Z",
   "git_url": "git://github.com/adelacvg/ttts.git",
   "ssh_url": "git@github.com:adelacvg/ttts.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/adelacvg/ttts",
   "homepage": "",
   "size": 63577,
-  "stargazers_count": 97,
-  "watchers_count": 97,
+  "stargazers_count": 99,
+  "watchers_count": 99,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 3,
+  "open_issues_count": 4,
   "license": {
     "key": "mpl-2.0",
     "name": "Mozilla Public License 2.0",
@@ -103,8 +103,8 @@
   ],
   "visibility": "public",
   "forks": 12,
-  "open_issues": 3,
-  "watchers": 97,
+  "open_issues": 4,
+  "watchers": 99,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 208
+  "_index": 210
 }

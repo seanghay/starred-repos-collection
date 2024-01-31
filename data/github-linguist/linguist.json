@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/github-linguist/linguist/releases{/id}",
   "deployments_url": "https://api.github.com/repos/github-linguist/linguist/deployments",
   "created_at": "2011-05-09T22:53:13Z",
-  "updated_at": "2024-01-29T22:02:13Z",
-  "pushed_at": "2024-01-28T00:42:00Z",
+  "updated_at": "2024-01-30T11:25:16Z",
+  "pushed_at": "2024-01-30T23:12:52Z",
   "git_url": "git://github.com/github-linguist/linguist.git",
   "ssh_url": "git@github.com:github-linguist/linguist.git",
   "clone_url": "https://github.com/github-linguist/linguist.git",
   "svn_url": "https://github.com/github-linguist/linguist",
   "homepage": "",
   "size": 39436,
-  "stargazers_count": 11549,
-  "watchers_count": 11549,
+  "stargazers_count": 11551,
+  "watchers_count": 11551,
   "language": "Ruby",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 4420,
+  "forks_count": 4421,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 165,
+  "open_issues_count": 166,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,9 +104,9 @@
     "syntax-highlighting"
   ],
   "visibility": "public",
-  "forks": 4420,
-  "open_issues": 165,
-  "watchers": 11549,
+  "forks": 4421,
+  "open_issues": 166,
+  "watchers": 11551,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2277
+  "_index": 2279
 }

@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/withastro/astro",
-  "description": "The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!",
+  "description": "The web framework for content-driven websites. ⭐️ Star to support our work!",
   "fork": false,
   "url": "https://api.github.com/repos/withastro/astro",
   "forks_url": "https://api.github.com/repos/withastro/astro/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/withastro/astro/releases{/id}",
   "deployments_url": "https://api.github.com/repos/withastro/astro/deployments",
   "created_at": "2021-03-15T17:19:47Z",
-  "updated_at": "2024-01-30T00:44:06Z",
-  "pushed_at": "2024-01-29T23:26:12Z",
+  "updated_at": "2024-01-31T00:08:38Z",
+  "pushed_at": "2024-01-31T01:19:26Z",
   "git_url": "git://github.com/withastro/astro.git",
   "ssh_url": "git@github.com:withastro/astro.git",
   "clone_url": "https://github.com/withastro/astro.git",
   "svn_url": "https://github.com/withastro/astro",
   "homepage": "https://astro.build",
-  "size": 164761,
-  "stargazers_count": 39280,
-  "watchers_count": 39280,
+  "size": 167799,
+  "stargazers_count": 39311,
+  "watchers_count": 39311,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2070,
+  "forks_count": 2078,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 131,
+  "open_issues_count": 136,
   "license": {
     "key": "other",
     "name": "Other",
@@ -111,9 +111,9 @@
     "universal"
   ],
   "visibility": "public",
-  "forks": 2070,
-  "open_issues": 131,
-  "watchers": 39280,
+  "forks": 2078,
+  "open_issues": 136,
+  "watchers": 39311,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1911
+  "_index": 1913
 }

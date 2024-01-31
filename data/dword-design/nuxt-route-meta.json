@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/dword-design/nuxt-route-meta.git",
   "svn_url": "https://github.com/dword-design/nuxt-route-meta",
   "homepage": "",
-  "size": 2914,
+  "size": 2915,
   "stargazers_count": 43,
   "watchers_count": 43,
   "language": "JavaScript",
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1672
+  "_index": 1674
 }

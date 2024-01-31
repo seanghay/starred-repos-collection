@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/clovaai/synthtiger/releases{/id}",
   "deployments_url": "https://api.github.com/repos/clovaai/synthtiger/deployments",
   "created_at": "2021-04-30T12:08:20Z",
-  "updated_at": "2024-01-29T05:06:08Z",
+  "updated_at": "2024-01-31T01:34:03Z",
   "pushed_at": "2023-11-10T06:18:28Z",
   "git_url": "git://github.com/clovaai/synthtiger.git",
   "ssh_url": "git@github.com:clovaai/synthtiger.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/clovaai/synthtiger",
   "homepage": "https://clovaai.github.io/synthtiger/",
   "size": 19630,
-  "stargazers_count": 392,
-  "watchers_count": 392,
+  "stargazers_count": 394,
+  "watchers_count": 394,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 76,
   "open_issues": 24,
-  "watchers": 392,
+  "watchers": 394,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 89
+  "_index": 91
 }

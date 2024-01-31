@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/JakeWharton/diffuse/deployments",
   "created_at": "2015-12-28T08:43:22Z",
   "updated_at": "2024-01-27T17:30:31Z",
-  "pushed_at": "2024-01-29T21:27:52Z",
+  "pushed_at": "2024-01-30T18:23:36Z",
   "git_url": "git://github.com/JakeWharton/diffuse.git",
   "ssh_url": "git@github.com:JakeWharton/diffuse.git",
   "clone_url": "https://github.com/JakeWharton/diffuse.git",
   "svn_url": "https://github.com/JakeWharton/diffuse",
   "homepage": "",
-  "size": 3293,
+  "size": 3305,
   "stargazers_count": 1815,
   "watchers_count": 1815,
   "language": "Kotlin",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 103,
+  "forks_count": 104,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,7 +99,7 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 103,
+  "forks": 104,
   "open_issues": 17,
   "watchers": 1815,
   "default_branch": "trunk",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2063
+  "_index": 2065
 }

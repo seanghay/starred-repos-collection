@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/YannickJadoul/Parselmouth/deployments",
   "created_at": "2017-06-06T15:57:13Z",
   "updated_at": "2024-01-27T07:06:08Z",
-  "pushed_at": "2024-01-23T23:32:41Z",
+  "pushed_at": "2024-01-30T11:40:37Z",
   "git_url": "git://github.com/YannickJadoul/Parselmouth.git",
   "ssh_url": "git@github.com:YannickJadoul/Parselmouth.git",
   "clone_url": "https://github.com/YannickJadoul/Parselmouth.git",
   "svn_url": "https://github.com/YannickJadoul/Parselmouth",
   "homepage": "https://parselmouth.readthedocs.io/",
-  "size": 79998,
+  "size": 80000,
   "stargazers_count": 963,
   "watchers_count": 963,
   "language": "C++",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 732
+  "_index": 734
 }

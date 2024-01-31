@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/IDEA-Research/Grounded-Segment-Anything/releases{/id}",
   "deployments_url": "https://api.github.com/repos/IDEA-Research/Grounded-Segment-Anything/deployments",
   "created_at": "2023-04-06T04:03:28Z",
-  "updated_at": "2024-01-29T20:57:35Z",
-  "pushed_at": "2024-01-26T05:32:45Z",
+  "updated_at": "2024-01-31T01:33:36Z",
+  "pushed_at": "2024-01-30T16:07:39Z",
   "git_url": "git://github.com/IDEA-Research/Grounded-Segment-Anything.git",
   "ssh_url": "git@github.com:IDEA-Research/Grounded-Segment-Anything.git",
   "clone_url": "https://github.com/IDEA-Research/Grounded-Segment-Anything.git",
   "svn_url": "https://github.com/IDEA-Research/Grounded-Segment-Anything",
   "homepage": "https://arxiv.org/abs/2401.14159",
-  "size": 124689,
-  "stargazers_count": 12434,
-  "watchers_count": 12434,
+  "size": 124693,
+  "stargazers_count": 12453,
+  "watchers_count": 12453,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1116,
+  "forks_count": 1117,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 230,
+  "open_issues_count": 233,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -108,9 +108,9 @@
     "speech"
   ],
   "visibility": "public",
-  "forks": 1116,
-  "open_issues": 230,
-  "watchers": 12434,
+  "forks": 1117,
+  "open_issues": 233,
+  "watchers": 12453,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 835
+  "_index": 837
 }
