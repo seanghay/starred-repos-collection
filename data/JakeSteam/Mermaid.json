@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 32,
+  "forks_count": 33,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "mermaidjs"
   ],
   "visibility": "public",
-  "forks": 32,
+  "forks": 33,
   "open_issues": 0,
   "watchers": 235,
   "default_branch": "main",

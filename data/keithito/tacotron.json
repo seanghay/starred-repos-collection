@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/keithito/tacotron/releases{/id}",
   "deployments_url": "https://api.github.com/repos/keithito/tacotron/deployments",
   "created_at": "2017-07-08T17:03:31Z",
-  "updated_at": "2024-01-30T02:54:12Z",
+  "updated_at": "2024-01-31T10:56:49Z",
   "pushed_at": "2023-07-06T21:12:04Z",
   "git_url": "git://github.com/keithito/tacotron.git",
   "ssh_url": "git@github.com:keithito/tacotron.git",

@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 46,
+  "forks_count": 45,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -101,7 +101,7 @@
     "torchscript"
   ],
   "visibility": "public",
-  "forks": 46,
+  "forks": 45,
   "open_issues": 7,
   "watchers": 254,
   "default_branch": "master",

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ddosify/ddosify/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ddosify/ddosify/deployments",
   "created_at": "2021-08-04T07:43:53Z",
-  "updated_at": "2024-01-30T19:32:33Z",
+  "updated_at": "2024-01-31T23:05:02Z",
   "pushed_at": "2024-01-18T22:50:36Z",
   "git_url": "git://github.com/ddosify/ddosify.git",
   "ssh_url": "git@github.com:ddosify/ddosify.git",
