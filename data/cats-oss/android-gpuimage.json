@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/cats-oss/android-gpuimage/releases{/id}",
   "deployments_url": "https://api.github.com/repos/cats-oss/android-gpuimage/deployments",
   "created_at": "2012-10-04T08:11:58Z",
-  "updated_at": "2024-01-31T18:45:19Z",
+  "updated_at": "2024-02-01T16:54:03Z",
   "pushed_at": "2022-08-03T16:07:30Z",
   "git_url": "git://github.com/cats-oss/android-gpuimage.git",
   "ssh_url": "git@github.com:cats-oss/android-gpuimage.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/cats-oss/android-gpuimage",
   "homepage": null,
   "size": 1368,
-  "stargazers_count": 8841,
-  "watchers_count": 8841,
+  "stargazers_count": 8842,
+  "watchers_count": 8842,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -100,7 +100,7 @@
   "visibility": "public",
   "forks": 2308,
   "open_issues": 340,
-  "watchers": 8841,
+  "watchers": 8842,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3275
+  "_index": 3281
 }

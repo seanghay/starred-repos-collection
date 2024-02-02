@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/orpatashnik/StyleCLIP/releases{/id}",
   "deployments_url": "https://api.github.com/repos/orpatashnik/StyleCLIP/deployments",
   "created_at": "2021-02-14T10:32:57Z",
-  "updated_at": "2024-01-31T12:09:43Z",
+  "updated_at": "2024-02-01T16:12:19Z",
   "pushed_at": "2023-05-30T19:57:17Z",
   "git_url": "git://github.com/orpatashnik/StyleCLIP.git",
   "ssh_url": "git@github.com:orpatashnik/StyleCLIP.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/orpatashnik/StyleCLIP",
   "homepage": "",
   "size": 200172,
-  "stargazers_count": 3814,
-  "watchers_count": 3814,
+  "stargazers_count": 3815,
+  "watchers_count": 3815,
   "language": "HTML",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 544,
+  "forks_count": 546,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 544,
+  "forks": 546,
   "open_issues": 54,
-  "watchers": 3814,
+  "watchers": 3815,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 169
+  "_index": 175
 }

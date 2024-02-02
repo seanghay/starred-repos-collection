@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/orizens/ngx-infinite-scroll/releases{/id}",
   "deployments_url": "https://api.github.com/repos/orizens/ngx-infinite-scroll/deployments",
   "created_at": "2016-02-05T09:19:39Z",
-  "updated_at": "2024-01-30T02:27:35Z",
+  "updated_at": "2024-02-01T03:36:28Z",
   "pushed_at": "2023-11-15T15:31:45Z",
   "git_url": "git://github.com/orizens/ngx-infinite-scroll.git",
   "ssh_url": "git@github.com:orizens/ngx-infinite-scroll.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/orizens/ngx-infinite-scroll",
   "homepage": "https://www.npmjs.com/package/ngx-infinite-scroll",
   "size": 2443,
-  "stargazers_count": 1214,
-  "watchers_count": 1214,
+  "stargazers_count": 1215,
+  "watchers_count": 1215,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 225,
+  "forks_count": 226,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,9 +108,9 @@
     "utility"
   ],
   "visibility": "public",
-  "forks": 225,
+  "forks": 226,
   "open_issues": 43,
-  "watchers": 1214,
+  "watchers": 1215,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3417
+  "_index": 3423
 }

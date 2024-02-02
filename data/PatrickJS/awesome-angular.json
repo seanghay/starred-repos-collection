@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/PatrickJS/awesome-angular/releases{/id}",
   "deployments_url": "https://api.github.com/repos/PatrickJS/awesome-angular/deployments",
   "created_at": "2015-09-01T05:12:10Z",
-  "updated_at": "2024-01-31T04:53:11Z",
+  "updated_at": "2024-02-01T20:03:50Z",
   "pushed_at": "2023-10-31T16:36:28Z",
   "git_url": "git://github.com/PatrickJS/awesome-angular.git",
   "ssh_url": "git@github.com:PatrickJS/awesome-angular.git",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3416
+  "_index": 3422
 }

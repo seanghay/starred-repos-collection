@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/feross/buffer.git",
   "svn_url": "https://github.com/feross/buffer",
   "homepage": "",
-  "size": 1051,
+  "size": 1054,
   "stargazers_count": 1707,
   "watchers_count": 1707,
   "language": "JavaScript",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1056
+  "_index": 1062
 }

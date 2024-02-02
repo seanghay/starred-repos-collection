@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/marioizquierdo/jquery.serializeJSON/releases{/id}",
   "deployments_url": "https://api.github.com/repos/marioizquierdo/jquery.serializeJSON/deployments",
   "created_at": "2012-08-20T03:35:18Z",
-  "updated_at": "2024-01-26T09:50:10Z",
+  "updated_at": "2024-02-01T17:50:41Z",
   "pushed_at": "2022-12-05T19:32:51Z",
   "git_url": "git://github.com/marioizquierdo/jquery.serializeJSON.git",
   "ssh_url": "git@github.com:marioizquierdo/jquery.serializeJSON.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/marioizquierdo/jquery.serializeJSON",
   "homepage": "",
   "size": 634,
-  "stargazers_count": 1708,
-  "watchers_count": 1708,
+  "stargazers_count": 1709,
+  "watchers_count": 1709,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 439,
   "open_issues": 7,
-  "watchers": 1708,
+  "watchers": 1709,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2478
+  "_index": 2484
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/vercel/pkg/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vercel/pkg/deployments",
   "created_at": "2016-08-08T19:41:59Z",
-  "updated_at": "2024-01-31T18:59:22Z",
+  "updated_at": "2024-02-01T13:53:50Z",
   "pushed_at": "2024-01-03T01:38:16Z",
   "git_url": "git://github.com/vercel/pkg.git",
   "ssh_url": "git@github.com:vercel/pkg.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/vercel/pkg",
   "homepage": "https://npmjs.com/pkg",
   "size": 41320,
-  "stargazers_count": 24134,
-  "watchers_count": 24134,
+  "stargazers_count": 24135,
+  "watchers_count": 24135,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 1055,
   "open_issues": 0,
-  "watchers": 24134,
+  "watchers": 24135,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3447
+  "_index": 3453
 }

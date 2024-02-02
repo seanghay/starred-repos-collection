@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kizitonwose/Calendar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kizitonwose/Calendar/deployments",
   "created_at": "2019-04-20T14:43:36Z",
-  "updated_at": "2024-02-01T01:41:24Z",
+  "updated_at": "2024-02-01T10:17:59Z",
   "pushed_at": "2024-01-31T10:57:10Z",
   "git_url": "git://github.com/kizitonwose/Calendar.git",
   "ssh_url": "git@github.com:kizitonwose/Calendar.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/kizitonwose/Calendar",
   "homepage": "",
   "size": 4273,
-  "stargazers_count": 4211,
-  "watchers_count": 4211,
+  "stargazers_count": 4212,
+  "watchers_count": 4212,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 12,
+  "open_issues_count": 13,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -118,8 +118,8 @@
   ],
   "visibility": "public",
   "forks": 485,
-  "open_issues": 12,
-  "watchers": 4211,
+  "open_issues": 13,
+  "watchers": 4212,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3007
+  "_index": 3013
 }

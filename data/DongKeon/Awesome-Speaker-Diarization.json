@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/DongKeon/Awesome-Speaker-Diarization/releases{/id}",
   "deployments_url": "https://api.github.com/repos/DongKeon/Awesome-Speaker-Diarization/deployments",
   "created_at": "2023-05-24T02:17:15Z",
-  "updated_at": "2024-01-28T09:06:33Z",
-  "pushed_at": "2024-01-31T05:22:14Z",
+  "updated_at": "2024-02-01T08:56:23Z",
+  "pushed_at": "2024-02-01T04:57:27Z",
   "git_url": "git://github.com/DongKeon/Awesome-Speaker-Diarization.git",
   "ssh_url": "git@github.com:DongKeon/Awesome-Speaker-Diarization.git",
   "clone_url": "https://github.com/DongKeon/Awesome-Speaker-Diarization.git",
   "svn_url": "https://github.com/DongKeon/Awesome-Speaker-Diarization",
   "homepage": "",
-  "size": 103,
-  "stargazers_count": 87,
-  "watchers_count": 87,
+  "size": 137,
+  "stargazers_count": 88,
+  "watchers_count": 88,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2,
+  "forks_count": 3,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -97,9 +97,9 @@
     "speaker-diarization"
   ],
   "visibility": "public",
-  "forks": 2,
+  "forks": 3,
   "open_issues": 0,
-  "watchers": 87,
+  "watchers": 88,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -108,5 +108,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 35
+  "_index": 41
 }

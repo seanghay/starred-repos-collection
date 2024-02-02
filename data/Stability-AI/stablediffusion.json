@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Stability-AI/stablediffusion/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Stability-AI/stablediffusion/deployments",
   "created_at": "2022-11-23T23:59:50Z",
-  "updated_at": "2024-01-31T22:55:46Z",
+  "updated_at": "2024-02-02T01:09:41Z",
   "pushed_at": "2023-12-21T18:39:11Z",
   "git_url": "git://github.com/Stability-AI/stablediffusion.git",
   "ssh_url": "git@github.com:Stability-AI/stablediffusion.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Stability-AI/stablediffusion",
   "homepage": null,
   "size": 75093,
-  "stargazers_count": 34101,
-  "watchers_count": 34101,
+  "stargazers_count": 34127,
+  "watchers_count": 34127,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 4530,
+  "forks_count": 4534,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 249,
+  "open_issues_count": 248,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 4530,
-  "open_issues": 249,
-  "watchers": 34101,
+  "forks": 4534,
+  "open_issues": 248,
+  "watchers": 34127,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1111
+  "_index": 1117
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Manuiq/ZoomableTextureView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Manuiq/ZoomableTextureView/deployments",
   "created_at": "2015-08-24T23:43:58Z",
-  "updated_at": "2024-01-09T03:09:45Z",
+  "updated_at": "2024-02-01T03:26:40Z",
   "pushed_at": "2018-06-16T11:24:15Z",
   "git_url": "git://github.com/Manuiq/ZoomableTextureView.git",
   "ssh_url": "git@github.com:Manuiq/ZoomableTextureView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Manuiq/ZoomableTextureView",
   "homepage": "",
   "size": 16901,
-  "stargazers_count": 140,
-  "watchers_count": 140,
+  "stargazers_count": 141,
+  "watchers_count": 141,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 31,
+  "forks_count": 32,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
     "video"
   ],
   "visibility": "public",
-  "forks": 31,
+  "forks": 32,
   "open_issues": 16,
-  "watchers": 140,
+  "watchers": 141,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3126
+  "_index": 3132
 }

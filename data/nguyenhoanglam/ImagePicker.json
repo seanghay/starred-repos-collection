@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nguyenhoanglam/ImagePicker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nguyenhoanglam/ImagePicker/deployments",
   "created_at": "2016-08-04T01:58:16Z",
-  "updated_at": "2024-01-29T05:05:09Z",
+  "updated_at": "2024-02-01T09:52:56Z",
   "pushed_at": "2024-01-22T10:37:04Z",
   "git_url": "git://github.com/nguyenhoanglam/ImagePicker.git",
   "ssh_url": "git@github.com:nguyenhoanglam/ImagePicker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nguyenhoanglam/ImagePicker",
   "homepage": "",
   "size": 31877,
-  "stargazers_count": 567,
-  "watchers_count": 567,
+  "stargazers_count": 569,
+  "watchers_count": 569,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 155,
+  "forks_count": 157,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -101,9 +101,9 @@
     "image-picker"
   ],
   "visibility": "public",
-  "forks": 155,
+  "forks": 157,
   "open_issues": 18,
-  "watchers": 567,
+  "watchers": 569,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2605
+  "_index": 2611
 }

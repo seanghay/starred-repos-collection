@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/JetBrains/amper/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JetBrains/amper/deployments",
   "created_at": "2023-10-24T15:45:20Z",
-  "updated_at": "2024-01-31T19:35:44Z",
-  "pushed_at": "2024-01-29T08:44:57Z",
+  "updated_at": "2024-02-01T16:28:12Z",
+  "pushed_at": "2024-02-01T14:44:26Z",
   "git_url": "git://github.com/JetBrains/amper.git",
   "ssh_url": "git@github.com:JetBrains/amper.git",
   "clone_url": "https://github.com/JetBrains/amper.git",
   "svn_url": "https://github.com/JetBrains/amper",
   "homepage": "",
-  "size": 19203,
+  "size": 21574,
   "stargazers_count": 511,
   "watchers_count": 511,
   "language": "Kotlin",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1,
+  "open_issues_count": 0,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -109,9 +109,9 @@
   ],
   "visibility": "public",
   "forks": 18,
-  "open_issues": 1,
+  "open_issues": 0,
   "watchers": 511,
-  "default_branch": "0.1",
+  "default_branch": "0.2",
   "permissions": {
     "admin": false,
     "maintain": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 241
+  "_index": 247
 }

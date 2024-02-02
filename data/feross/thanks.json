@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/feross/thanks/releases{/id}",
   "deployments_url": "https://api.github.com/repos/feross/thanks/deployments",
   "created_at": "2018-02-07T06:48:13Z",
-  "updated_at": "2024-01-29T20:16:29Z",
+  "updated_at": "2024-02-01T10:41:32Z",
   "pushed_at": "2023-07-10T20:45:07Z",
   "git_url": "git://github.com/feross/thanks.git",
   "ssh_url": "git@github.com:feross/thanks.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/feross/thanks",
   "homepage": "",
   "size": 523,
-  "stargazers_count": 2762,
-  "watchers_count": 2762,
+  "stargazers_count": 2763,
+  "watchers_count": 2763,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 136,
   "open_issues": 11,
-  "watchers": 2762,
+  "watchers": 2763,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3309
+  "_index": 3315
 }

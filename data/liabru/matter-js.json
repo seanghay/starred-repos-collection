@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/liabru/matter-js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/liabru/matter-js/deployments",
   "created_at": "2014-02-19T14:16:17Z",
-  "updated_at": "2024-01-31T14:28:58Z",
+  "updated_at": "2024-02-02T00:52:28Z",
   "pushed_at": "2023-12-22T17:34:50Z",
   "git_url": "git://github.com/liabru/matter-js.git",
   "ssh_url": "git@github.com:liabru/matter-js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/liabru/matter-js",
   "homepage": "",
   "size": 22663,
-  "stargazers_count": 15676,
-  "watchers_count": 15676,
+  "stargazers_count": 15678,
+  "watchers_count": 15678,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 241,
+  "open_issues_count": 240,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 1978,
-  "open_issues": 241,
-  "watchers": 15676,
+  "open_issues": 240,
+  "watchers": 15678,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 588
+  "_index": 594
 }

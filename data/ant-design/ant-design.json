@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ant-design/ant-design/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ant-design/ant-design/deployments",
   "created_at": "2015-04-24T15:37:24Z",
-  "updated_at": "2024-02-01T01:34:06Z",
-  "pushed_at": "2024-02-01T01:44:34Z",
+  "updated_at": "2024-02-02T01:21:38Z",
+  "pushed_at": "2024-02-02T01:39:29Z",
   "git_url": "git://github.com/ant-design/ant-design.git",
   "ssh_url": "git@github.com:ant-design/ant-design.git",
   "clone_url": "https://github.com/ant-design/ant-design.git",
   "svn_url": "https://github.com/ant-design/ant-design",
   "homepage": "https://ant.design",
-  "size": 183175,
-  "stargazers_count": 89164,
-  "watchers_count": 89164,
+  "size": 185764,
+  "stargazers_count": 89182,
+  "watchers_count": 89182,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 44284,
+  "forks_count": 44309,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1105,
+  "open_issues_count": 1112,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,9 +107,9 @@
     "ui-library"
   ],
   "visibility": "public",
-  "forks": 44284,
-  "open_issues": 1105,
-  "watchers": 89164,
+  "forks": 44309,
+  "open_issues": 1112,
+  "watchers": 89182,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2013
+  "_index": 2019
 }

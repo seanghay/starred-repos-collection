@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/HeyAlex/CornerSheet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/HeyAlex/CornerSheet/deployments",
   "created_at": "2020-01-04T21:13:57Z",
-  "updated_at": "2024-01-31T06:39:55Z",
+  "updated_at": "2024-02-01T18:32:20Z",
   "pushed_at": "2022-04-23T09:42:20Z",
   "git_url": "git://github.com/HeyAlex/CornerSheet.git",
   "ssh_url": "git@github.com:HeyAlex/CornerSheet.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/HeyAlex/CornerSheet",
   "homepage": "https://m2.material.io/components/sheets-bottom#expanding-bottom-sheet",
   "size": 5864,
-  "stargazers_count": 295,
-  "watchers_count": 295,
+  "stargazers_count": 296,
+  "watchers_count": 296,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 13,
+  "forks_count": 14,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "corner-sheet"
   ],
   "visibility": "public",
-  "forks": 13,
+  "forks": 14,
   "open_issues": 1,
-  "watchers": 295,
+  "watchers": 296,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2334
+  "_index": 2340
 }

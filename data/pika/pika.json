@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pika/pika/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pika/pika/deployments",
   "created_at": "2009-10-19T23:22:02Z",
-  "updated_at": "2024-01-31T21:50:10Z",
+  "updated_at": "2024-02-01T14:42:21Z",
   "pushed_at": "2023-08-04T00:07:13Z",
   "git_url": "git://github.com/pika/pika.git",
   "ssh_url": "git@github.com:pika/pika.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/pika/pika",
   "homepage": "https://pika.readthedocs.io",
   "size": 8013,
-  "stargazers_count": 3414,
-  "watchers_count": 3414,
+  "stargazers_count": 3416,
+  "watchers_count": 3416,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 844,
   "open_issues": 32,
-  "watchers": 3414,
+  "watchers": 3416,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 242
+  "_index": 248
 }
