@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/salesforce/LAVIS/releases{/id}",
   "deployments_url": "https://api.github.com/repos/salesforce/LAVIS/deployments",
   "created_at": "2022-08-24T02:36:01Z",
-  "updated_at": "2024-02-02T01:32:07Z",
+  "updated_at": "2024-02-02T12:36:15Z",
   "pushed_at": "2024-01-31T03:57:32Z",
   "git_url": "git://github.com/salesforce/LAVIS.git",
   "ssh_url": "git@github.com:salesforce/LAVIS.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/salesforce/LAVIS",
   "homepage": "",
   "size": 88039,
-  "stargazers_count": 8057,
-  "watchers_count": 8057,
+  "stargazers_count": 8063,
+  "watchers_count": 8063,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 807,
   "open_issues": 377,
-  "watchers": 8057,
+  "watchers": 8063,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 959
+  "_index": 962
 }

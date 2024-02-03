@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/CainKernel/CainCamera/releases{/id}",
   "deployments_url": "https://api.github.com/repos/CainKernel/CainCamera/deployments",
   "created_at": "2017-07-19T01:44:55Z",
-  "updated_at": "2024-02-01T09:44:55Z",
+  "updated_at": "2024-02-03T01:11:33Z",
   "pushed_at": "2021-10-01T12:53:27Z",
   "git_url": "git://github.com/CainKernel/CainCamera.git",
   "ssh_url": "git@github.com:CainKernel/CainCamera.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/CainKernel/CainCamera",
   "homepage": "",
   "size": 92046,
-  "stargazers_count": 2783,
-  "watchers_count": 2783,
+  "stargazers_count": 2784,
+  "watchers_count": 2784,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 59,
+  "open_issues_count": 60,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -103,8 +103,8 @@
   ],
   "visibility": "public",
   "forks": 766,
-  "open_issues": 59,
-  "watchers": 2783,
+  "open_issues": 60,
+  "watchers": 2784,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3173
+  "_index": 3176
 }

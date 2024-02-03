@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/DiffEqML/torchdyn/releases{/id}",
   "deployments_url": "https://api.github.com/repos/DiffEqML/torchdyn/deployments",
   "created_at": "2020-04-27T01:18:41Z",
-  "updated_at": "2024-02-02T00:24:31Z",
-  "pushed_at": "2024-01-02T18:41:51Z",
+  "updated_at": "2024-02-02T01:42:43Z",
+  "pushed_at": "2024-02-02T17:27:25Z",
   "git_url": "git://github.com/DiffEqML/torchdyn.git",
   "ssh_url": "git@github.com:DiffEqML/torchdyn.git",
   "clone_url": "https://github.com/DiffEqML/torchdyn.git",
   "svn_url": "https://github.com/DiffEqML/torchdyn",
   "homepage": "https://torchdyn.org",
   "size": 34898,
-  "stargazers_count": 1214,
-  "watchers_count": 1214,
+  "stargazers_count": 1215,
+  "watchers_count": 1215,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 118,
+  "forks_count": 119,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 34,
+  "open_issues_count": 35,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -110,9 +110,9 @@
     "pytorch"
   ],
   "visibility": "public",
-  "forks": 118,
-  "open_issues": 34,
-  "watchers": 1214,
+  "forks": 119,
+  "open_issues": 35,
+  "watchers": 1215,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 15
+  "_index": 18
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/XcodesOrg/XcodesApp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/XcodesOrg/XcodesApp/deployments",
   "created_at": "2020-11-25T03:51:02Z",
-  "updated_at": "2024-02-01T18:47:55Z",
-  "pushed_at": "2024-02-01T10:19:32Z",
+  "updated_at": "2024-02-02T06:46:56Z",
+  "pushed_at": "2024-02-02T10:07:37Z",
   "git_url": "git://github.com/XcodesOrg/XcodesApp.git",
   "ssh_url": "git@github.com:XcodesOrg/XcodesApp.git",
   "clone_url": "https://github.com/XcodesOrg/XcodesApp.git",
   "svn_url": "https://github.com/XcodesOrg/XcodesApp",
   "homepage": "",
-  "size": 14967,
-  "stargazers_count": 6194,
-  "watchers_count": 6194,
+  "size": 14971,
+  "stargazers_count": 6198,
+  "watchers_count": 6198,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 256,
+  "forks_count": 257,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "xcode-releases"
   ],
   "visibility": "public",
-  "forks": 256,
+  "forks": 257,
   "open_issues": 88,
-  "watchers": 6194,
+  "watchers": 6198,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2068
+  "_index": 2071
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/OpenBMB/VisCPM/releases{/id}",
   "deployments_url": "https://api.github.com/repos/OpenBMB/VisCPM/deployments",
   "created_at": "2023-06-30T03:35:01Z",
-  "updated_at": "2024-02-01T08:30:49Z",
+  "updated_at": "2024-02-02T11:08:59Z",
   "pushed_at": "2024-01-17T03:30:00Z",
   "git_url": "git://github.com/OpenBMB/VisCPM.git",
   "ssh_url": "git@github.com:OpenBMB/VisCPM.git",
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 232
+  "_index": 235
 }

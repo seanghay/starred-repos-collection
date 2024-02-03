@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 70,
+  "open_issues_count": 71,
   "license": {
     "key": "gpl-2.0",
     "name": "GNU General Public License v2.0",
@@ -107,7 +107,7 @@
   ],
   "visibility": "public",
   "forks": 200,
-  "open_issues": 70,
+  "open_issues": 71,
   "watchers": 926,
   "default_branch": "dev",
   "permissions": {
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 271
+  "_index": 274
 }

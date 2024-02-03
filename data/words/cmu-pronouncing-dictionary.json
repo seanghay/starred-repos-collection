@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/words/cmu-pronouncing-dictionary/releases{/id}",
   "deployments_url": "https://api.github.com/repos/words/cmu-pronouncing-dictionary/deployments",
   "created_at": "2015-06-06T05:38:09Z",
-  "updated_at": "2024-01-03T11:30:32Z",
+  "updated_at": "2024-02-03T00:23:13Z",
   "pushed_at": "2021-08-12T00:55:18Z",
   "git_url": "git://github.com/words/cmu-pronouncing-dictionary.git",
   "ssh_url": "git@github.com:words/cmu-pronouncing-dictionary.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/words/cmu-pronouncing-dictionary",
   "homepage": "http://npm.im/cmu-pronouncing-dictionary",
   "size": 2848,
-  "stargazers_count": 60,
-  "watchers_count": 60,
+  "stargazers_count": 61,
+  "watchers_count": 61,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 13,
   "open_issues": 0,
-  "watchers": 60,
+  "watchers": 61,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 121
+  "_index": 124
 }

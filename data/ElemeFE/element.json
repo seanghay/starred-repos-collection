@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ElemeFE/element/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ElemeFE/element/deployments",
   "created_at": "2016-09-03T06:19:26Z",
-  "updated_at": "2024-02-02T00:39:51Z",
+  "updated_at": "2024-02-02T17:28:28Z",
   "pushed_at": "2024-01-29T07:29:47Z",
   "git_url": "git://github.com/ElemeFE/element.git",
   "ssh_url": "git@github.com:ElemeFE/element.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ElemeFE/element",
   "homepage": "https://element.eleme.io/",
   "size": 94400,
-  "stargazers_count": 53869,
-  "watchers_count": 53869,
+  "stargazers_count": 53867,
+  "watchers_count": 53867,
   "language": "Vue",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 14748,
   "open_issues": 2719,
-  "watchers": 53869,
+  "watchers": 53867,
   "default_branch": "dev",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3415
+  "_index": 3418
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/vuejs/vue/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vuejs/vue/deployments",
   "created_at": "2013-07-29T03:24:51Z",
-  "updated_at": "2024-02-02T00:44:34Z",
-  "pushed_at": "2024-01-31T12:41:00Z",
+  "updated_at": "2024-02-02T22:34:10Z",
+  "pushed_at": "2024-02-02T11:32:28Z",
   "git_url": "git://github.com/vuejs/vue.git",
   "ssh_url": "git@github.com:vuejs/vue.git",
   "clone_url": "https://github.com/vuejs/vue.git",
   "svn_url": "https://github.com/vuejs/vue",
   "homepage": "http://v2.vuejs.org",
   "size": 32405,
-  "stargazers_count": 206295,
-  "watchers_count": 206295,
+  "stargazers_count": 206303,
+  "watchers_count": 206303,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 34665,
+  "forks_count": 34668,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 609,
+  "open_issues_count": 608,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,9 +104,9 @@
     "vue"
   ],
   "visibility": "public",
-  "forks": 34665,
-  "open_issues": 609,
-  "watchers": 206295,
+  "forks": 34668,
+  "open_issues": 608,
+  "watchers": 206303,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3472
+  "_index": 3475
 }

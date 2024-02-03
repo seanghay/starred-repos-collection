@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/quilljs/awesome-quill/releases{/id}",
   "deployments_url": "https://api.github.com/repos/quilljs/awesome-quill/deployments",
   "created_at": "2017-09-04T03:44:20Z",
-  "updated_at": "2024-01-22T17:14:58Z",
+  "updated_at": "2024-02-02T05:20:33Z",
   "pushed_at": "2024-01-21T14:18:21Z",
   "git_url": "git://github.com/quilljs/awesome-quill.git",
   "ssh_url": "git@github.com:quilljs/awesome-quill.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/quilljs/awesome-quill",
   "homepage": null,
   "size": 56,
-  "stargazers_count": 936,
-  "watchers_count": 936,
+  "stargazers_count": 937,
+  "watchers_count": 937,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 83,
   "open_issues": 17,
-  "watchers": 936,
+  "watchers": 937,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2529
+  "_index": 2532
 }

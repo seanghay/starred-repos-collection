@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/awesome-selfhosted/awesome-selfhosted/releases{/id}",
   "deployments_url": "https://api.github.com/repos/awesome-selfhosted/awesome-selfhosted/deployments",
   "created_at": "2015-06-01T02:33:17Z",
-  "updated_at": "2024-02-02T01:32:40Z",
+  "updated_at": "2024-02-03T01:25:35Z",
   "pushed_at": "2024-02-01T17:38:50Z",
   "git_url": "git://github.com/awesome-selfhosted/awesome-selfhosted.git",
   "ssh_url": "git@github.com:awesome-selfhosted/awesome-selfhosted.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
   "homepage": "https://awesome-selfhosted.net/",
   "size": 15986,
-  "stargazers_count": 167365,
-  "watchers_count": 167365,
+  "stargazers_count": 167484,
+  "watchers_count": 167484,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 9116,
+  "forks_count": 9115,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,9 +108,9 @@
     "selfhosted"
   ],
   "visibility": "public",
-  "forks": 9116,
+  "forks": 9115,
   "open_issues": 0,
-  "watchers": 167365,
+  "watchers": 167484,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1918
+  "_index": 1921
 }

@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 286,
+  "forks_count": 285,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,7 +106,7 @@
     "rxjava-bindings"
   ],
   "visibility": "public",
-  "forks": 286,
+  "forks": 285,
   "open_issues": 5,
   "watchers": 1807,
   "default_branch": "master",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2623
+  "_index": 2626
 }

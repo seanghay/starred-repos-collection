@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/viarotel-org/escrcpy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/viarotel-org/escrcpy/deployments",
   "created_at": "2023-09-15T02:42:13Z",
-  "updated_at": "2024-01-31T18:19:25Z",
+  "updated_at": "2024-02-02T12:02:12Z",
   "pushed_at": "2024-01-04T07:53:21Z",
   "git_url": "git://github.com/viarotel-org/escrcpy.git",
   "ssh_url": "git@github.com:viarotel-org/escrcpy.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/viarotel-org/escrcpy",
   "homepage": "https://github.com/viarotel-org/escrcpy",
   "size": 34884,
-  "stargazers_count": 622,
-  "watchers_count": 622,
+  "stargazers_count": 624,
+  "watchers_count": 624,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -118,7 +118,7 @@
   "visibility": "public",
   "forks": 40,
   "open_issues": 17,
-  "watchers": 622,
+  "watchers": 624,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 233
+  "_index": 236
 }

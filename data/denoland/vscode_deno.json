@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/denoland/vscode_deno/releases{/id}",
   "deployments_url": "https://api.github.com/repos/denoland/vscode_deno/deployments",
   "created_at": "2020-05-07T16:10:02Z",
-  "updated_at": "2024-01-28T12:35:21Z",
+  "updated_at": "2024-02-02T10:45:41Z",
   "pushed_at": "2024-01-31T19:39:22Z",
   "git_url": "git://github.com/denoland/vscode_deno.git",
   "ssh_url": "git@github.com:denoland/vscode_deno.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/denoland/vscode_deno",
   "homepage": "https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno",
   "size": 25090,
-  "stargazers_count": 1450,
-  "watchers_count": 1450,
+  "stargazers_count": 1449,
+  "watchers_count": 1449,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 148,
   "open_issues": 82,
-  "watchers": 1450,
+  "watchers": 1449,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2384
+  "_index": 2387
 }

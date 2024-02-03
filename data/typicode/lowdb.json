@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/typicode/lowdb/releases{/id}",
   "deployments_url": "https://api.github.com/repos/typicode/lowdb/deployments",
   "created_at": "2014-04-02T02:16:06Z",
-  "updated_at": "2024-02-02T00:15:24Z",
+  "updated_at": "2024-02-03T01:30:49Z",
   "pushed_at": "2023-12-26T23:26:22Z",
   "git_url": "git://github.com/typicode/lowdb.git",
   "ssh_url": "git@github.com:typicode/lowdb.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/typicode/lowdb",
   "homepage": "",
   "size": 1396,
-  "stargazers_count": 20563,
-  "watchers_count": 20563,
+  "stargazers_count": 20568,
+  "watchers_count": 20568,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 946,
   "open_issues": 0,
-  "watchers": 20563,
+  "watchers": 20568,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2248
+  "_index": 2251
 }

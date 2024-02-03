@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/rvanwijnen/spectral.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rvanwijnen/spectral.js/deployments",
   "created_at": "2023-04-03T20:52:31Z",
-  "updated_at": "2024-02-01T10:19:55Z",
+  "updated_at": "2024-02-02T09:11:32Z",
   "pushed_at": "2024-01-21T17:44:42Z",
   "git_url": "git://github.com/rvanwijnen/spectral.js.git",
   "ssh_url": "git@github.com:rvanwijnen/spectral.js.git",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 854
+  "_index": 857
 }

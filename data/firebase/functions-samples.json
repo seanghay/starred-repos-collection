@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/firebase/functions-samples/releases{/id}",
   "deployments_url": "https://api.github.com/repos/firebase/functions-samples/deployments",
   "created_at": "2016-10-18T17:40:55Z",
-  "updated_at": "2024-02-01T21:33:19Z",
-  "pushed_at": "2024-02-01T09:45:47Z",
+  "updated_at": "2024-02-02T05:48:04Z",
+  "pushed_at": "2024-02-02T09:45:25Z",
   "git_url": "git://github.com/firebase/functions-samples.git",
   "ssh_url": "git@github.com:firebase/functions-samples.git",
   "clone_url": "https://github.com/firebase/functions-samples.git",
   "svn_url": "https://github.com/firebase/functions-samples",
   "homepage": "https://firebase.google.com/docs/functions",
-  "size": 7557,
-  "stargazers_count": 11918,
-  "watchers_count": 11918,
+  "size": 7564,
+  "stargazers_count": 11919,
+  "watchers_count": 11919,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 3957,
+  "forks_count": 3955,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 161,
+  "open_issues_count": 162,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -108,9 +108,9 @@
     "serverless"
   ],
   "visibility": "public",
-  "forks": 3957,
-  "open_issues": 161,
-  "watchers": 11918,
+  "forks": 3955,
+  "open_issues": 162,
+  "watchers": 11919,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2843
+  "_index": 2846
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/cortinico/slidetoact/deployments",
   "created_at": "2016-05-09T00:47:18Z",
   "updated_at": "2024-01-31T20:47:56Z",
-  "pushed_at": "2024-01-30T10:36:56Z",
+  "pushed_at": "2024-02-02T21:35:04Z",
   "git_url": "git://github.com/cortinico/slidetoact.git",
   "ssh_url": "git@github.com:cortinico/slidetoact.git",
   "clone_url": "https://github.com/cortinico/slidetoact.git",
   "svn_url": "https://github.com/cortinico/slidetoact",
   "homepage": "",
-  "size": 7304,
+  "size": 7305,
   "stargazers_count": 1118,
   "watchers_count": 1118,
   "language": "Kotlin",
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2205
+  "_index": 2208
 }

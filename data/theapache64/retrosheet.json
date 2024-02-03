@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/theapache64/retrosheet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/theapache64/retrosheet/deployments",
   "created_at": "2020-07-20T23:25:54Z",
-  "updated_at": "2024-01-23T10:06:36Z",
+  "updated_at": "2024-02-02T11:35:17Z",
   "pushed_at": "2023-12-18T02:20:14Z",
   "git_url": "git://github.com/theapache64/retrosheet.git",
   "ssh_url": "git@github.com:theapache64/retrosheet.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/theapache64/retrosheet",
   "homepage": "",
   "size": 18357,
-  "stargazers_count": 821,
-  "watchers_count": 821,
+  "stargazers_count": 820,
+  "watchers_count": 820,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 38,
   "open_issues": 15,
-  "watchers": 821,
+  "watchers": 820,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1989
+  "_index": 1992
 }

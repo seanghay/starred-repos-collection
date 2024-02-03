@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/ajalt/colormath/deployments",
   "created_at": "2018-07-05T01:01:41Z",
   "updated_at": "2024-02-01T02:16:58Z",
-  "pushed_at": "2024-02-01T21:41:43Z",
+  "pushed_at": "2024-02-02T18:40:14Z",
   "git_url": "git://github.com/ajalt/colormath.git",
   "ssh_url": "git@github.com:ajalt/colormath.git",
   "clone_url": "https://github.com/ajalt/colormath.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2246
+  "_index": 2249
 }

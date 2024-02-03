@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/fondesa/kpermissions/deployments",
   "created_at": "2018-01-05T18:07:15Z",
   "updated_at": "2024-01-18T11:58:00Z",
-  "pushed_at": "2024-02-02T01:26:06Z",
+  "pushed_at": "2024-02-02T22:34:41Z",
   "git_url": "git://github.com/fondesa/kpermissions.git",
   "ssh_url": "git@github.com:fondesa/kpermissions.git",
   "clone_url": "https://github.com/fondesa/kpermissions.git",
   "svn_url": "https://github.com/fondesa/kpermissions",
   "homepage": "",
-  "size": 1114,
+  "size": 1115,
   "stargazers_count": 458,
   "watchers_count": 458,
   "language": "Kotlin",
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2229
+  "_index": 2232
 }

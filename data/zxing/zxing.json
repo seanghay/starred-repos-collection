@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/zxing/zxing/releases{/id}",
   "deployments_url": "https://api.github.com/repos/zxing/zxing/deployments",
   "created_at": "2011-10-12T14:07:27Z",
-  "updated_at": "2024-02-01T20:55:43Z",
+  "updated_at": "2024-02-02T15:41:03Z",
   "pushed_at": "2024-01-31T15:31:52Z",
   "git_url": "git://github.com/zxing/zxing.git",
   "ssh_url": "git@github.com:zxing/zxing.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 9473,
+  "forks_count": 9472,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,7 +108,7 @@
     "zxing"
   ],
   "visibility": "public",
-  "forks": 9473,
+  "forks": 9472,
   "open_issues": 3,
   "watchers": 31955,
   "default_branch": "master",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2891
+  "_index": 2894
 }

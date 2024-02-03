@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Tencent/ncnn/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Tencent/ncnn/deployments",
   "created_at": "2017-06-30T10:55:37Z",
-  "updated_at": "2024-02-01T18:56:21Z",
-  "pushed_at": "2024-01-31T19:42:40Z",
+  "updated_at": "2024-02-02T17:39:27Z",
+  "pushed_at": "2024-02-02T16:34:51Z",
   "git_url": "git://github.com/Tencent/ncnn.git",
   "ssh_url": "git@github.com:Tencent/ncnn.git",
   "clone_url": "https://github.com/Tencent/ncnn.git",
   "svn_url": "https://github.com/Tencent/ncnn",
   "homepage": "",
-  "size": 24665,
-  "stargazers_count": 18737,
-  "watchers_count": 18737,
+  "size": 24783,
+  "stargazers_count": 18741,
+  "watchers_count": 18741,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1013,
+  "open_issues_count": 1011,
   "license": {
     "key": "other",
     "name": "Other",
@@ -121,8 +121,8 @@
   ],
   "visibility": "public",
   "forks": 4065,
-  "open_issues": 1013,
-  "watchers": 18737,
+  "open_issues": 1011,
+  "watchers": 18741,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 229
+  "_index": 232
 }

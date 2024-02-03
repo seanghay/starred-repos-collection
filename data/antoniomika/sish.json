@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/antoniomika/sish/releases{/id}",
   "deployments_url": "https://api.github.com/repos/antoniomika/sish/deployments",
   "created_at": "2019-02-15T15:36:23Z",
-  "updated_at": "2024-02-01T18:04:59Z",
+  "updated_at": "2024-02-02T15:39:34Z",
   "pushed_at": "2024-01-29T15:30:08Z",
   "git_url": "git://github.com/antoniomika/sish.git",
   "ssh_url": "git@github.com:antoniomika/sish.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/antoniomika/sish",
   "homepage": "https://ssi.sh",
   "size": 7536,
-  "stargazers_count": 3653,
-  "watchers_count": 3653,
+  "stargazers_count": 3656,
+  "watchers_count": 3656,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 290,
   "open_issues": 8,
-  "watchers": 3653,
+  "watchers": 3656,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 867
+  "_index": 870
 }

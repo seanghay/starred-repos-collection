@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lucidrains/naturalspeech2-pytorch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lucidrains/naturalspeech2-pytorch/deployments",
   "created_at": "2023-04-19T14:27:06Z",
-  "updated_at": "2024-02-01T09:52:01Z",
+  "updated_at": "2024-02-02T03:03:30Z",
   "pushed_at": "2023-09-24T16:20:12Z",
   "git_url": "git://github.com/lucidrains/naturalspeech2-pytorch.git",
   "ssh_url": "git@github.com:lucidrains/naturalspeech2-pytorch.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lucidrains/naturalspeech2-pytorch",
   "homepage": "",
   "size": 524,
-  "stargazers_count": 1103,
-  "watchers_count": 1103,
+  "stargazers_count": 1104,
+  "watchers_count": 1104,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 94,
+  "forks_count": 95,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 7,
+  "open_issues_count": 8,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,9 +107,9 @@
     "zero-shot"
   ],
   "visibility": "public",
-  "forks": 94,
-  "open_issues": 7,
-  "watchers": 1103,
+  "forks": 95,
+  "open_issues": 8,
+  "watchers": 1104,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 369
+  "_index": 372
 }

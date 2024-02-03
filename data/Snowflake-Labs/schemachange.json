@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Snowflake-Labs/schemachange/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Snowflake-Labs/schemachange/deployments",
   "created_at": "2018-08-27T06:24:28Z",
-  "updated_at": "2024-01-29T19:00:15Z",
-  "pushed_at": "2024-01-31T17:04:16Z",
+  "updated_at": "2024-02-02T01:54:14Z",
+  "pushed_at": "2024-02-02T15:13:33Z",
   "git_url": "git://github.com/Snowflake-Labs/schemachange.git",
   "ssh_url": "git@github.com:Snowflake-Labs/schemachange.git",
   "clone_url": "https://github.com/Snowflake-Labs/schemachange.git",
   "svn_url": "https://github.com/Snowflake-Labs/schemachange",
   "homepage": "",
   "size": 1071,
-  "stargazers_count": 432,
-  "watchers_count": 432,
+  "stargazers_count": 433,
+  "watchers_count": 433,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 51,
+  "open_issues_count": 52,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 204,
-  "open_issues": 51,
-  "watchers": 432,
+  "open_issues": 52,
+  "watchers": 433,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 136
+  "_index": 139
 }
