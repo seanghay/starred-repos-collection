@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Belval/TextRecognitionDataGenerator/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Belval/TextRecognitionDataGenerator/deployments",
   "created_at": "2017-07-01T20:11:40Z",
-  "updated_at": "2024-02-01T14:21:47Z",
+  "updated_at": "2024-02-03T06:58:48Z",
   "pushed_at": "2023-12-25T14:12:16Z",
   "git_url": "git://github.com/Belval/TextRecognitionDataGenerator.git",
   "ssh_url": "git@github.com:Belval/TextRecognitionDataGenerator.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 907,
+  "forks_count": 908,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,7 +108,7 @@
     "training-set-generator"
   ],
   "visibility": "public",
-  "forks": 907,
+  "forks": 908,
   "open_issues": 138,
   "watchers": 2953,
   "default_branch": "master",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 223
+  "_index": 227
 }

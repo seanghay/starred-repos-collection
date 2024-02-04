@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/alibaba-damo-academy/FunASR/releases{/id}",
   "deployments_url": "https://api.github.com/repos/alibaba-damo-academy/FunASR/deployments",
   "created_at": "2022-11-24T02:28:11Z",
-  "updated_at": "2024-02-02T23:30:47Z",
-  "pushed_at": "2024-02-03T01:37:43Z",
+  "updated_at": "2024-02-03T12:14:44Z",
+  "pushed_at": "2024-02-03T05:05:08Z",
   "git_url": "git://github.com/alibaba-damo-academy/FunASR.git",
   "ssh_url": "git@github.com:alibaba-damo-academy/FunASR.git",
   "clone_url": "https://github.com/alibaba-damo-academy/FunASR.git",
   "svn_url": "https://github.com/alibaba-damo-academy/FunASR",
   "homepage": "https://www.funasr.com",
-  "size": 97059,
-  "stargazers_count": 2393,
-  "watchers_count": 2393,
+  "size": 97063,
+  "stargazers_count": 2397,
+  "watchers_count": 2397,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 293,
+  "forks_count": 294,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -113,9 +113,9 @@
     "whisper"
   ],
   "visibility": "public",
-  "forks": 293,
+  "forks": 294,
   "open_issues": 173,
-  "watchers": 2393,
+  "watchers": 2397,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 393
+  "_index": 397
 }

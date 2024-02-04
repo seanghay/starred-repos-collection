@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/StephenVinouze/MaterialNumberPicker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/StephenVinouze/MaterialNumberPicker/deployments",
   "created_at": "2017-09-26T09:46:52Z",
-  "updated_at": "2023-09-20T13:37:04Z",
+  "updated_at": "2024-02-04T00:43:35Z",
   "pushed_at": "2023-01-25T03:22:47Z",
   "git_url": "git://github.com/StephenVinouze/MaterialNumberPicker.git",
   "ssh_url": "git@github.com:StephenVinouze/MaterialNumberPicker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/StephenVinouze/MaterialNumberPicker",
   "homepage": null,
   "size": 290,
-  "stargazers_count": 130,
-  "watchers_count": 130,
+  "stargazers_count": 131,
+  "watchers_count": 131,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 20,
   "open_issues": 8,
-  "watchers": 130,
+  "watchers": 131,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2462
+  "_index": 2466
 }

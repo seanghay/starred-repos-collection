@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/GraphiteEditor/Graphite/releases{/id}",
   "deployments_url": "https://api.github.com/repos/GraphiteEditor/Graphite/deployments",
   "created_at": "2020-04-26T07:29:29Z",
-  "updated_at": "2024-02-02T16:30:39Z",
-  "pushed_at": "2024-02-02T16:22:24Z",
+  "updated_at": "2024-02-03T15:09:13Z",
+  "pushed_at": "2024-02-03T22:30:17Z",
   "git_url": "git://github.com/GraphiteEditor/Graphite.git",
   "ssh_url": "git@github.com:GraphiteEditor/Graphite.git",
   "clone_url": "https://github.com/GraphiteEditor/Graphite.git",
   "svn_url": "https://github.com/GraphiteEditor/Graphite",
   "homepage": "https://graphite.rs",
-  "size": 27015,
-  "stargazers_count": 5213,
-  "watchers_count": 5213,
+  "size": 27045,
+  "stargazers_count": 5216,
+  "watchers_count": 5216,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -99,7 +99,6 @@
   "web_commit_signoff_required": false,
   "topics": [
     "2d-graphics",
-    "ai-art",
     "art",
     "compositor",
     "design",
@@ -115,14 +114,13 @@
     "procedural",
     "procedural-art",
     "procedural-drawing",
-    "stable-diffusion",
     "svg-editor",
     "vector-editor"
   ],
   "visibility": "public",
   "forks": 228,
   "open_issues": 138,
-  "watchers": 5213,
+  "watchers": 5216,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 553
+  "_index": 557
 }

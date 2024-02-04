@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/VSCodium/vscodium/releases{/id}",
   "deployments_url": "https://api.github.com/repos/VSCodium/vscodium/deployments",
   "created_at": "2018-08-13T14:26:58Z",
-  "updated_at": "2024-02-03T00:36:37Z",
-  "pushed_at": "2024-01-30T21:52:04Z",
+  "updated_at": "2024-02-04T01:03:07Z",
+  "pushed_at": "2024-02-03T18:30:34Z",
   "git_url": "git://github.com/VSCodium/vscodium.git",
   "ssh_url": "git@github.com:VSCodium/vscodium.git",
   "clone_url": "https://github.com/VSCodium/vscodium.git",
   "svn_url": "https://github.com/VSCodium/vscodium",
   "homepage": "https://vscodium.com",
-  "size": 29849,
-  "stargazers_count": 22932,
-  "watchers_count": 22932,
+  "size": 29881,
+  "stargazers_count": 22940,
+  "watchers_count": 22940,
   "language": "Shell",
   "has_issues": true,
   "has_projects": false,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 981,
   "open_issues": 123,
-  "watchers": 22932,
+  "watchers": 22940,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2145
+  "_index": 2149
 }

@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/Kong/mockbin.git",
   "svn_url": "https://github.com/Kong/mockbin",
   "homepage": "http://mockbin.com",
-  "size": 692,
+  "size": 698,
   "stargazers_count": 2014,
   "watchers_count": 2014,
   "language": "JavaScript",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2277
+  "_index": 2281
 }

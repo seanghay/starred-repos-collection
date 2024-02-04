@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yl4579/StarGANv2-VC/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yl4579/StarGANv2-VC/deployments",
   "created_at": "2021-07-21T23:28:29Z",
-  "updated_at": "2024-02-01T19:11:31Z",
+  "updated_at": "2024-02-03T08:21:17Z",
   "pushed_at": "2023-05-16T12:07:42Z",
   "git_url": "git://github.com/yl4579/StarGANv2-VC.git",
   "ssh_url": "git@github.com:yl4579/StarGANv2-VC.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yl4579/StarGANv2-VC",
   "homepage": "",
   "size": 269718,
-  "stargazers_count": 443,
-  "watchers_count": 443,
+  "stargazers_count": 444,
+  "watchers_count": 444,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 106,
   "open_issues": 11,
-  "watchers": 443,
+  "watchers": 444,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 520
+  "_index": 524
 }

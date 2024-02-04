@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/GcsSloop/pager-layoutmanager/releases{/id}",
   "deployments_url": "https://api.github.com/repos/GcsSloop/pager-layoutmanager/deployments",
   "created_at": "2017-10-05T17:55:46Z",
-  "updated_at": "2024-01-26T10:01:14Z",
+  "updated_at": "2024-02-03T19:23:44Z",
   "pushed_at": "2023-08-03T08:05:04Z",
   "git_url": "git://github.com/GcsSloop/pager-layoutmanager.git",
   "ssh_url": "git@github.com:GcsSloop/pager-layoutmanager.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/GcsSloop/pager-layoutmanager",
   "homepage": "http://www.gcssloop.com/",
   "size": 1029,
-  "stargazers_count": 1123,
-  "watchers_count": 1123,
+  "stargazers_count": 1124,
+  "watchers_count": 1124,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 183,
   "open_issues": 31,
-  "watchers": 1123,
+  "watchers": 1124,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2637
+  "_index": 2641
 }

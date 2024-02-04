@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ConnectAI-E/feishu-openai/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ConnectAI-E/feishu-openai/deployments",
   "created_at": "2023-02-07T10:18:28Z",
-  "updated_at": "2024-02-02T11:27:29Z",
+  "updated_at": "2024-02-03T20:44:01Z",
   "pushed_at": "2024-02-01T05:45:04Z",
   "git_url": "git://github.com/ConnectAI-E/feishu-openai.git",
   "ssh_url": "git@github.com:ConnectAI-E/feishu-openai.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 905,
+  "forks_count": 904,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 83,
+  "open_issues_count": 84,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -108,8 +108,8 @@
     "openai"
   ],
   "visibility": "public",
-  "forks": 905,
-  "open_issues": 83,
+  "forks": 904,
+  "open_issues": 84,
   "watchers": 5218,
   "default_branch": "master",
   "permissions": {
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 923
+  "_index": 927
 }

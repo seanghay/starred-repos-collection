@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/deployments",
   "created_at": "2018-03-18T00:35:50Z",
-  "updated_at": "2024-01-28T16:03:13Z",
-  "pushed_at": "2024-02-02T20:04:24Z",
+  "updated_at": "2024-02-04T01:14:54Z",
+  "pushed_at": "2024-02-03T21:44:06Z",
   "git_url": "git://github.com/ZacSweers/redacted-compiler-plugin.git",
   "ssh_url": "git@github.com:ZacSweers/redacted-compiler-plugin.git",
   "clone_url": "https://github.com/ZacSweers/redacted-compiler-plugin.git",
   "svn_url": "https://github.com/ZacSweers/redacted-compiler-plugin",
   "homepage": "",
-  "size": 742,
-  "stargazers_count": 352,
-  "watchers_count": 352,
+  "size": 758,
+  "stargazers_count": 353,
+  "watchers_count": 353,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 11,
+  "open_issues_count": 5,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 27,
-  "open_issues": 11,
-  "watchers": 352,
+  "open_issues": 5,
+  "watchers": 353,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2619
+  "_index": 2623
 }

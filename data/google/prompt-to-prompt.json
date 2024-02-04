@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/prompt-to-prompt/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/prompt-to-prompt/deployments",
   "created_at": "2022-10-03T09:58:43Z",
-  "updated_at": "2024-02-02T17:19:26Z",
+  "updated_at": "2024-02-03T06:00:41Z",
   "pushed_at": "2024-01-30T07:10:33Z",
   "git_url": "git://github.com/google/prompt-to-prompt.git",
   "ssh_url": "git@github.com:google/prompt-to-prompt.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/prompt-to-prompt",
   "homepage": null,
   "size": 6177,
-  "stargazers_count": 2679,
-  "watchers_count": 2679,
+  "stargazers_count": 2681,
+  "watchers_count": 2681,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 252,
   "open_issues": 46,
-  "watchers": 2679,
+  "watchers": 2681,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 875
+  "_index": 879
 }

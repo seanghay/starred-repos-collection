@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nickbutcher/plaid/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nickbutcher/plaid/deployments",
   "created_at": "2015-10-30T16:10:56Z",
-  "updated_at": "2024-02-01T13:15:04Z",
+  "updated_at": "2024-02-03T18:46:43Z",
   "pushed_at": "2024-01-04T20:49:31Z",
   "git_url": "git://github.com/nickbutcher/plaid.git",
   "ssh_url": "git@github.com:nickbutcher/plaid.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nickbutcher/plaid",
   "homepage": "",
   "size": 33949,
-  "stargazers_count": 16242,
-  "watchers_count": 16242,
+  "stargazers_count": 16243,
+  "watchers_count": 16243,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3211,
+  "forks_count": 3212,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 3211,
+  "forks": 3212,
   "open_issues": 104,
-  "watchers": 16242,
+  "watchers": 16243,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3046
+  "_index": 3050
 }

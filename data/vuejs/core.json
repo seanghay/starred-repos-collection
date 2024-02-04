@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/vuejs/core/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vuejs/core/deployments",
   "created_at": "2018-06-12T13:49:36Z",
-  "updated_at": "2024-02-02T20:34:15Z",
+  "updated_at": "2024-02-04T00:24:22Z",
   "pushed_at": "2024-02-02T22:34:29Z",
   "git_url": "git://github.com/vuejs/core.git",
   "ssh_url": "git@github.com:vuejs/core.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/vuejs/core",
   "homepage": "https://vuejs.org/",
   "size": 26402,
-  "stargazers_count": 43041,
-  "watchers_count": 43041,
+  "stargazers_count": 43057,
+  "watchers_count": 43057,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 7789,
+  "forks_count": 7792,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 7789,
+  "forks": 7792,
   "open_issues": 1070,
-  "watchers": 43041,
+  "watchers": 43057,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1923
+  "_index": 1927
 }

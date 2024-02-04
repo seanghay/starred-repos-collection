@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/fondesa/kpermissions/deployments",
   "created_at": "2018-01-05T18:07:15Z",
   "updated_at": "2024-01-18T11:58:00Z",
-  "pushed_at": "2024-02-02T22:34:41Z",
+  "pushed_at": "2024-02-04T00:07:03Z",
   "git_url": "git://github.com/fondesa/kpermissions.git",
   "ssh_url": "git@github.com:fondesa/kpermissions.git",
   "clone_url": "https://github.com/fondesa/kpermissions.git",
   "svn_url": "https://github.com/fondesa/kpermissions",
   "homepage": "",
-  "size": 1115,
+  "size": 1116,
   "stargazers_count": 458,
   "watchers_count": 458,
   "language": "Kotlin",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 12,
+  "open_issues_count": 13,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -114,7 +114,7 @@
   ],
   "visibility": "public",
   "forks": 30,
-  "open_issues": 12,
+  "open_issues": 13,
   "watchers": 458,
   "default_branch": "master",
   "permissions": {
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2232
+  "_index": 2236
 }

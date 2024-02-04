@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/oobabooga/text-generation-webui/releases{/id}",
   "deployments_url": "https://api.github.com/repos/oobabooga/text-generation-webui/deployments",
   "created_at": "2022-12-21T04:17:37Z",
-  "updated_at": "2024-02-03T01:20:57Z",
+  "updated_at": "2024-02-04T01:00:40Z",
   "pushed_at": "2024-02-01T23:09:30Z",
   "git_url": "git://github.com/oobabooga/text-generation-webui.git",
   "ssh_url": "git@github.com:oobabooga/text-generation-webui.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/oobabooga/text-generation-webui",
   "homepage": "",
   "size": 26765,
-  "stargazers_count": 32080,
-  "watchers_count": 32080,
+  "stargazers_count": 32116,
+  "watchers_count": 32116,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 4361,
+  "forks_count": 4364,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 258,
+  "open_issues_count": 256,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 4361,
-  "open_issues": 258,
-  "watchers": 32080,
+  "forks": 4364,
+  "open_issues": 256,
+  "watchers": 32116,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 956
+  "_index": 960
 }

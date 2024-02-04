@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/s0md3v/roop/releases{/id}",
   "deployments_url": "https://api.github.com/repos/s0md3v/roop/deployments",
   "created_at": "2023-05-28T14:37:54Z",
-  "updated_at": "2024-02-03T01:03:28Z",
+  "updated_at": "2024-02-04T01:44:48Z",
   "pushed_at": "2024-02-02T17:19:21Z",
   "git_url": "git://github.com/s0md3v/roop.git",
   "ssh_url": "git@github.com:s0md3v/roop.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/s0md3v/roop",
   "homepage": "",
   "size": 99768,
-  "stargazers_count": 23610,
-  "watchers_count": 23610,
+  "stargazers_count": 23621,
+  "watchers_count": 23621,
   "language": "Python",
   "has_issues": false,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 5793,
+  "forks_count": 5799,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,9 +102,9 @@
     "face-swap"
   ],
   "visibility": "public",
-  "forks": 5793,
+  "forks": 5799,
   "open_issues": 5,
-  "watchers": 23610,
+  "watchers": 23621,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 715
+  "_index": 719
 }

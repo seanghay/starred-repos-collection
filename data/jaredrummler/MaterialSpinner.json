@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/jaredrummler/MaterialSpinner/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jaredrummler/MaterialSpinner/deployments",
   "created_at": "2016-01-26T22:29:00Z",
-  "updated_at": "2024-02-02T16:29:06Z",
+  "updated_at": "2024-02-03T14:21:21Z",
   "pushed_at": "2021-06-04T14:44:47Z",
   "git_url": "git://github.com/jaredrummler/MaterialSpinner.git",
   "ssh_url": "git@github.com:jaredrummler/MaterialSpinner.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/jaredrummler/MaterialSpinner",
   "homepage": "",
   "size": 718,
-  "stargazers_count": 1304,
-  "watchers_count": 1304,
+  "stargazers_count": 1305,
+  "watchers_count": 1305,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 220,
   "open_issues": 45,
-  "watchers": 1304,
+  "watchers": 1305,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3222
+  "_index": 3226
 }

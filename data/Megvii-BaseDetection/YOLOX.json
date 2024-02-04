@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2096,
+  "forks_count": 2097,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 710,
+  "open_issues_count": 709,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -111,8 +111,8 @@
     "yolox"
   ],
   "visibility": "public",
-  "forks": 2096,
-  "open_issues": 710,
+  "forks": 2097,
+  "open_issues": 709,
   "watchers": 8835,
   "default_branch": "main",
   "permissions": {
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1034
+  "_index": 1038
 }

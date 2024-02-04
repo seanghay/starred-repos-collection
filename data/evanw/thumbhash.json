@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/evanw/thumbhash/releases{/id}",
   "deployments_url": "https://api.github.com/repos/evanw/thumbhash/deployments",
   "created_at": "2023-03-22T06:59:53Z",
-  "updated_at": "2024-02-02T20:38:28Z",
+  "updated_at": "2024-02-03T20:45:09Z",
   "pushed_at": "2024-01-08T13:28:42Z",
   "git_url": "git://github.com/evanw/thumbhash.git",
   "ssh_url": "git@github.com:evanw/thumbhash.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 896
+  "_index": 900
 }

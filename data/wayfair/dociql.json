@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/wayfair/dociql/deployments",
   "created_at": "2019-02-08T13:34:11Z",
   "updated_at": "2023-11-27T20:16:54Z",
-  "pushed_at": "2024-01-16T18:33:41Z",
+  "pushed_at": "2024-02-03T10:22:26Z",
   "git_url": "git://github.com/wayfair/dociql.git",
   "ssh_url": "git@github.com:wayfair/dociql.git",
   "clone_url": "https://github.com/wayfair/dociql.git",
   "svn_url": "https://github.com/wayfair/dociql",
   "homepage": "https://github.com/wayfair/dociql",
-  "size": 2445,
+  "size": 2428,
   "stargazers_count": 346,
   "watchers_count": 346,
   "language": "JavaScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 19,
+  "open_issues_count": 18,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -102,7 +102,7 @@
   ],
   "visibility": "public",
   "forks": 97,
-  "open_issues": 19,
+  "open_issues": 18,
   "watchers": 346,
   "default_branch": "master",
   "permissions": {
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1810
+  "_index": 1814
 }
