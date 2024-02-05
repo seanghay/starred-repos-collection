@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/Jungjee/RawNet/deployments",
   "created_at": "2019-03-18T07:21:51Z",
   "updated_at": "2024-01-31T20:58:42Z",
-  "pushed_at": "2022-06-22T08:53:05Z",
+  "pushed_at": "2024-02-04T23:13:34Z",
   "git_url": "git://github.com/Jungjee/RawNet.git",
   "ssh_url": "git@github.com:Jungjee/RawNet.git",
   "clone_url": "https://github.com/Jungjee/RawNet.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 55,
+  "forks_count": 56,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 0,
+  "open_issues_count": 1,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,8 +107,8 @@
     "voxceleb2"
   ],
   "visibility": "public",
-  "forks": 55,
-  "open_issues": 0,
+  "forks": 56,
+  "open_issues": 1,
   "watchers": 313,
   "default_branch": "master",
   "permissions": {
