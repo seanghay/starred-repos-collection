@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Kotlin/multik/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Kotlin/multik/deployments",
   "created_at": "2020-05-21T07:37:29Z",
-  "updated_at": "2024-02-04T02:47:38Z",
-  "pushed_at": "2024-02-05T00:48:06Z",
+  "updated_at": "2024-02-05T15:24:18Z",
+  "pushed_at": "2024-02-05T11:11:14Z",
   "git_url": "git://github.com/Kotlin/multik.git",
   "ssh_url": "git@github.com:Kotlin/multik.git",
   "clone_url": "https://github.com/Kotlin/multik.git",
   "svn_url": "https://github.com/Kotlin/multik",
   "homepage": "https://kotlin.github.io/multik/",
-  "size": 2988,
-  "stargazers_count": 597,
-  "watchers_count": 597,
+  "size": 2993,
+  "stargazers_count": 598,
+  "watchers_count": 598,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 42,
   "open_issues": 53,
-  "watchers": 597,
+  "watchers": 598,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1820
+  "_index": 1826
 }

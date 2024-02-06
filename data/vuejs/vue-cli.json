@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/vuejs/vue-cli/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vuejs/vue-cli/deployments",
   "created_at": "2015-12-26T23:11:20Z",
-  "updated_at": "2024-02-04T19:24:04Z",
+  "updated_at": "2024-02-05T17:04:38Z",
   "pushed_at": "2024-01-05T13:42:33Z",
   "git_url": "git://github.com/vuejs/vue-cli.git",
   "ssh_url": "git@github.com:vuejs/vue-cli.git",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 6480,
+  "forks_count": 6482,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,7 +99,7 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 6480,
+  "forks": 6482,
   "open_issues": 1070,
   "watchers": 29750,
   "default_branch": "dev",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3386
+  "_index": 3392
 }

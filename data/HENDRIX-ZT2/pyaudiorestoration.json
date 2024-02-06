@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/HENDRIX-ZT2/pyaudiorestoration/releases{/id}",
   "deployments_url": "https://api.github.com/repos/HENDRIX-ZT2/pyaudiorestoration/deployments",
   "created_at": "2017-11-22T00:33:23Z",
-  "updated_at": "2024-02-03T21:40:20Z",
-  "pushed_at": "2023-11-25T11:52:05Z",
+  "updated_at": "2024-02-05T19:38:28Z",
+  "pushed_at": "2024-02-05T20:14:20Z",
   "git_url": "git://github.com/HENDRIX-ZT2/pyaudiorestoration.git",
   "ssh_url": "git@github.com:HENDRIX-ZT2/pyaudiorestoration.git",
   "clone_url": "https://github.com/HENDRIX-ZT2/pyaudiorestoration.git",
   "svn_url": "https://github.com/HENDRIX-ZT2/pyaudiorestoration",
   "homepage": "",
-  "size": 7491,
+  "size": 7492,
   "stargazers_count": 66,
   "watchers_count": 66,
   "language": "Python",
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 725
+  "_index": 731
 }

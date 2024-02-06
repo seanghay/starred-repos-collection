@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/skydoves/landscapist",
-  "description": "🌻 A pluggable, highly optimized Jetpack Compose image loading library that fetches and displays network images with Glide, Coil, and Fresco.",
+  "description": "🌻 A pluggable, highly optimized Jetpack Compose and Kotlin Multiplatform image loading library that fetches and displays network images with Glide, Coil, and Fresco.",
   "fork": false,
   "url": "https://api.github.com/repos/skydoves/landscapist",
   "forks_url": "https://api.github.com/repos/skydoves/landscapist/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/skydoves/landscapist/releases{/id}",
   "deployments_url": "https://api.github.com/repos/skydoves/landscapist/deployments",
   "created_at": "2020-09-24T16:18:03Z",
-  "updated_at": "2024-02-03T13:42:39Z",
-  "pushed_at": "2024-02-05T00:08:40Z",
+  "updated_at": "2024-02-05T19:20:12Z",
+  "pushed_at": "2024-02-05T15:30:58Z",
   "git_url": "git://github.com/skydoves/landscapist.git",
   "ssh_url": "git@github.com:skydoves/landscapist.git",
   "clone_url": "https://github.com/skydoves/landscapist.git",
   "svn_url": "https://github.com/skydoves/landscapist",
   "homepage": "https://skydoves.github.io/landscapist/",
-  "size": 6769,
-  "stargazers_count": 1818,
-  "watchers_count": 1818,
+  "size": 6759,
+  "stargazers_count": 1820,
+  "watchers_count": 1820,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 6,
+  "open_issues_count": 5,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -114,8 +114,8 @@
   ],
   "visibility": "public",
   "forks": 99,
-  "open_issues": 6,
-  "watchers": 1818,
+  "open_issues": 5,
+  "watchers": 1820,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2175
+  "_index": 2181
 }

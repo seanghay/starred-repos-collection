@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/antfu/log-editor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/antfu/log-editor/deployments",
   "created_at": "2021-08-05T08:06:05Z",
-  "updated_at": "2024-01-04T17:00:03Z",
+  "updated_at": "2024-02-05T09:22:16Z",
   "pushed_at": "2021-08-05T08:36:19Z",
   "git_url": "git://github.com/antfu/log-editor.git",
   "ssh_url": "git@github.com:antfu/log-editor.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/antfu/log-editor",
   "homepage": "",
   "size": 57,
-  "stargazers_count": 86,
-  "watchers_count": 86,
+  "stargazers_count": 87,
+  "watchers_count": 87,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 1,
   "open_issues": 0,
-  "watchers": 86,
+  "watchers": 87,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1897
+  "_index": 1903
 }

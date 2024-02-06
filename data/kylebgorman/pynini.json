@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/kylebgorman/pynini/releases{/id}",
   "deployments_url": "https://api.github.com/repos/kylebgorman/pynini/deployments",
   "created_at": "2017-12-29T18:17:43Z",
-  "updated_at": "2024-01-10T11:36:28Z",
+  "updated_at": "2024-02-05T07:02:02Z",
   "pushed_at": "2024-01-20T17:46:50Z",
   "git_url": "git://github.com/kylebgorman/pynini.git",
   "ssh_url": "git@github.com:kylebgorman/pynini.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/kylebgorman/pynini",
   "homepage": "http://pynini.opengrm.org",
   "size": 4139,
-  "stargazers_count": 105,
-  "watchers_count": 105,
+  "stargazers_count": 106,
+  "watchers_count": 106,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 22,
   "open_issues": 2,
-  "watchers": 105,
+  "watchers": 106,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 460
+  "_index": 466
 }

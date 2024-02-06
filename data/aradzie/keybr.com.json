@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/aradzie/keybr.com/releases{/id}",
   "deployments_url": "https://api.github.com/repos/aradzie/keybr.com/deployments",
   "created_at": "2023-09-25T06:58:26Z",
-  "updated_at": "2024-02-04T23:07:20Z",
+  "updated_at": "2024-02-06T00:09:46Z",
   "pushed_at": "2024-01-31T15:43:10Z",
   "git_url": "git://github.com/aradzie/keybr.com.git",
   "ssh_url": "git@github.com:aradzie/keybr.com.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/aradzie/keybr.com",
   "homepage": "https://www.keybr.com/",
   "size": 15339,
-  "stargazers_count": 556,
-  "watchers_count": 556,
+  "stargazers_count": 560,
+  "watchers_count": 560,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 56,
+  "forks_count": 58,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "typing-tutor"
   ],
   "visibility": "public",
-  "forks": 56,
+  "forks": 58,
   "open_issues": 67,
-  "watchers": 556,
+  "watchers": 560,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 30
+  "_index": 36
 }

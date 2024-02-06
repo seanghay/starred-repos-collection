@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/wasabeef/compose-gap/deployments",
   "created_at": "2021-10-12T07:19:48Z",
   "updated_at": "2024-01-18T05:42:21Z",
-  "pushed_at": "2024-02-04T16:43:44Z",
+  "pushed_at": "2024-02-05T19:39:00Z",
   "git_url": "git://github.com/wasabeef/compose-gap.git",
   "ssh_url": "git@github.com:wasabeef/compose-gap.git",
   "clone_url": "https://github.com/wasabeef/compose-gap.git",
   "svn_url": "https://github.com/wasabeef/compose-gap",
   "homepage": "",
-  "size": 653,
+  "size": 712,
   "stargazers_count": 33,
   "watchers_count": 33,
   "language": "Kotlin",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1712
+  "_index": 1718
 }

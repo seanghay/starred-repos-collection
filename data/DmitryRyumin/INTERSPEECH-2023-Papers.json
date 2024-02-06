@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/DmitryRyumin/INTERSPEECH-2023-Papers/releases{/id}",
   "deployments_url": "https://api.github.com/repos/DmitryRyumin/INTERSPEECH-2023-Papers/deployments",
   "created_at": "2023-06-26T10:10:43Z",
-  "updated_at": "2024-02-01T17:03:15Z",
+  "updated_at": "2024-02-05T12:28:41Z",
   "pushed_at": "2024-01-12T23:14:24Z",
   "git_url": "git://github.com/DmitryRyumin/INTERSPEECH-2023-Papers.git",
   "ssh_url": "git@github.com:DmitryRyumin/INTERSPEECH-2023-Papers.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers",
   "homepage": "",
   "size": 5788,
-  "stargazers_count": 529,
-  "watchers_count": 529,
+  "stargazers_count": 530,
+  "watchers_count": 530,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -122,7 +122,7 @@
   "visibility": "public",
   "forks": 38,
   "open_issues": 0,
-  "watchers": 529,
+  "watchers": 530,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 415
+  "_index": 421
 }

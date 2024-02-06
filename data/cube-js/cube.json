@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/cube-js/cube/releases{/id}",
   "deployments_url": "https://api.github.com/repos/cube-js/cube/deployments",
   "created_at": "2018-09-16T18:58:46Z",
-  "updated_at": "2024-02-04T22:33:37Z",
-  "pushed_at": "2024-02-04T01:32:19Z",
+  "updated_at": "2024-02-05T19:48:26Z",
+  "pushed_at": "2024-02-05T20:41:43Z",
   "git_url": "git://github.com/cube-js/cube.git",
   "ssh_url": "git@github.com:cube-js/cube.git",
   "clone_url": "https://github.com/cube-js/cube.git",
   "svn_url": "https://github.com/cube-js/cube",
   "homepage": "https://cube.dev",
-  "size": 278482,
-  "stargazers_count": 16841,
-  "watchers_count": 16841,
+  "size": 278511,
+  "stargazers_count": 16844,
+  "watchers_count": 16844,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -115,7 +115,7 @@
   "visibility": "public",
   "forks": 1673,
   "open_issues": 837,
-  "watchers": 16841,
+  "watchers": 16844,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2267
+  "_index": 2273
 }

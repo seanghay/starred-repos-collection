@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/maum-ai/univnet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/maum-ai/univnet/deployments",
   "created_at": "2021-08-02T09:26:41Z",
-  "updated_at": "2024-01-27T06:46:17Z",
+  "updated_at": "2024-02-05T09:10:38Z",
   "pushed_at": "2021-10-08T09:47:18Z",
   "git_url": "git://github.com/maum-ai/univnet.git",
   "ssh_url": "git@github.com:maum-ai/univnet.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/maum-ai/univnet",
   "homepage": "https://mindslab-ai.github.io/univnet/",
   "size": 23798,
-  "stargazers_count": 241,
-  "watchers_count": 241,
+  "stargazers_count": 242,
+  "watchers_count": 242,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 45,
   "open_issues": 5,
-  "watchers": 241,
+  "watchers": 242,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 34
+  "_index": 40
 }

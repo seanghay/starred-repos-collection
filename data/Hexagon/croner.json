@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Hexagon/croner/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Hexagon/croner/deployments",
   "created_at": "2015-12-09T20:43:12Z",
-  "updated_at": "2024-02-04T09:23:50Z",
-  "pushed_at": "2024-01-31T23:09:45Z",
+  "updated_at": "2024-02-05T01:50:01Z",
+  "pushed_at": "2024-02-05T21:03:31Z",
   "git_url": "git://github.com/Hexagon/croner.git",
   "ssh_url": "git@github.com:Hexagon/croner.git",
   "clone_url": "https://github.com/Hexagon/croner.git",
   "svn_url": "https://github.com/Hexagon/croner",
   "homepage": "https://croner.56k.guru",
-  "size": 3110,
-  "stargazers_count": 1784,
-  "watchers_count": 1784,
+  "size": 3122,
+  "stargazers_count": 1785,
+  "watchers_count": 1785,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2,
+  "open_issues_count": 3,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -116,8 +116,8 @@
   ],
   "visibility": "public",
   "forks": 45,
-  "open_issues": 2,
-  "watchers": 1784,
+  "open_issues": 3,
+  "watchers": 1785,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 628
+  "_index": 634
 }

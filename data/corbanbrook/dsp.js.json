@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/corbanbrook/dsp.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/corbanbrook/dsp.js/deployments",
   "created_at": "2010-02-24T16:42:00Z",
-  "updated_at": "2024-02-05T01:17:45Z",
+  "updated_at": "2024-02-05T05:07:19Z",
   "pushed_at": "2022-04-16T16:00:57Z",
   "git_url": "git://github.com/corbanbrook/dsp.js.git",
   "ssh_url": "git@github.com:corbanbrook/dsp.js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/corbanbrook/dsp.js",
   "homepage": "http://weare.buildingsky.net",
   "size": 497,
-  "stargazers_count": 1709,
-  "watchers_count": 1709,
+  "stargazers_count": 1710,
+  "watchers_count": 1710,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 275,
   "open_issues": 30,
-  "watchers": 1709,
+  "watchers": 1710,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 119
+  "_index": 125
 }

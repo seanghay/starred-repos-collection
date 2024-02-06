@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/remirror/remirror/releases{/id}",
   "deployments_url": "https://api.github.com/repos/remirror/remirror/deployments",
   "created_at": "2019-01-21T08:59:53Z",
-  "updated_at": "2024-02-04T03:17:49Z",
-  "pushed_at": "2024-02-03T03:34:00Z",
+  "updated_at": "2024-02-05T12:07:30Z",
+  "pushed_at": "2024-02-06T00:10:31Z",
   "git_url": "git://github.com/remirror/remirror.git",
   "ssh_url": "git@github.com:remirror/remirror.git",
   "clone_url": "https://github.com/remirror/remirror.git",
   "svn_url": "https://github.com/remirror/remirror",
   "homepage": "https://remirror.io",
-  "size": 74307,
-  "stargazers_count": 2547,
-  "watchers_count": 2547,
+  "size": 74309,
+  "stargazers_count": 2550,
+  "watchers_count": 2550,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 170,
+  "open_issues_count": 171,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -111,8 +111,8 @@
   ],
   "visibility": "public",
   "forks": 221,
-  "open_issues": 170,
-  "watchers": 2547,
+  "open_issues": 171,
+  "watchers": 2550,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2392
+  "_index": 2398
 }
