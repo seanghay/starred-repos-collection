@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/google/sentencepiece/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/sentencepiece/deployments",
   "created_at": "2017-03-07T10:03:48Z",
-  "updated_at": "2024-02-05T18:18:41Z",
-  "pushed_at": "2024-02-01T16:00:55Z",
+  "updated_at": "2024-02-06T22:15:48Z",
+  "pushed_at": "2024-02-06T09:12:34Z",
   "git_url": "git://github.com/google/sentencepiece.git",
   "ssh_url": "git@github.com:google/sentencepiece.git",
   "clone_url": "https://github.com/google/sentencepiece.git",
   "svn_url": "https://github.com/google/sentencepiece",
   "homepage": "",
-  "size": 24528,
-  "stargazers_count": 8921,
-  "watchers_count": 8921,
+  "size": 24543,
+  "stargazers_count": 8926,
+  "watchers_count": 8926,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 36,
+  "open_issues_count": 35,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -104,8 +104,8 @@
   ],
   "visibility": "public",
   "forks": 1085,
-  "open_issues": 36,
-  "watchers": 8921,
+  "open_issues": 35,
+  "watchers": 8926,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 833
+  "_index": 838
 }

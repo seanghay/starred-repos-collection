@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Rudrabha/Wav2Lip/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Rudrabha/Wav2Lip/deployments",
   "created_at": "2020-08-07T08:06:38Z",
-  "updated_at": "2024-02-05T22:50:12Z",
+  "updated_at": "2024-02-06T13:58:16Z",
   "pushed_at": "2024-02-03T13:09:17Z",
   "git_url": "git://github.com/Rudrabha/Wav2Lip.git",
   "ssh_url": "git@github.com:Rudrabha/Wav2Lip.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Rudrabha/Wav2Lip",
   "homepage": "https://synclabs.so",
   "size": 530,
-  "stargazers_count": 8403,
-  "watchers_count": 8403,
+  "stargazers_count": 8416,
+  "watchers_count": 8416,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1879,
+  "forks_count": 1878,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -93,9 +93,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 1879,
+  "forks": 1878,
   "open_issues": 245,
-  "watchers": 8403,
+  "watchers": 8416,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 14
+  "_index": 19
 }

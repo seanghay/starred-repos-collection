@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mljs/ml/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mljs/ml/deployments",
   "created_at": "2014-10-27T13:04:38Z",
-  "updated_at": "2024-02-03T19:54:02Z",
+  "updated_at": "2024-02-06T19:22:55Z",
   "pushed_at": "2024-02-02T10:40:32Z",
   "git_url": "git://github.com/mljs/ml.git",
   "ssh_url": "git@github.com:mljs/ml.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mljs/ml",
   "homepage": "",
   "size": 8741,
-  "stargazers_count": 2424,
-  "watchers_count": 2424,
+  "stargazers_count": 2423,
+  "watchers_count": 2423,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 264,
   "open_issues": 26,
-  "watchers": 2424,
+  "watchers": 2423,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1144
+  "_index": 1149
 }

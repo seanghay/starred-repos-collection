@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/keonlee9420/Parallel-Tacotron2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/keonlee9420/Parallel-Tacotron2/deployments",
   "created_at": "2021-04-30T07:21:44Z",
-  "updated_at": "2024-01-19T10:42:27Z",
+  "updated_at": "2024-02-06T12:40:34Z",
   "pushed_at": "2021-11-18T15:43:37Z",
   "git_url": "git://github.com/keonlee9420/Parallel-Tacotron2.git",
   "ssh_url": "git@github.com:keonlee9420/Parallel-Tacotron2.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/keonlee9420/Parallel-Tacotron2",
   "homepage": "",
   "size": 104114,
-  "stargazers_count": 183,
-  "watchers_count": 183,
+  "stargazers_count": 184,
+  "watchers_count": 184,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -115,7 +115,7 @@
   "visibility": "public",
   "forks": 44,
   "open_issues": 9,
-  "watchers": 183,
+  "watchers": 184,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 386
+  "_index": 391
 }

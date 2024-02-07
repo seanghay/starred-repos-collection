@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/amitness/colab-connect/releases{/id}",
   "deployments_url": "https://api.github.com/repos/amitness/colab-connect/deployments",
   "created_at": "2023-04-17T20:03:42Z",
-  "updated_at": "2024-02-05T07:10:22Z",
+  "updated_at": "2024-02-06T13:03:49Z",
   "pushed_at": "2023-06-15T09:37:05Z",
   "git_url": "git://github.com/amitness/colab-connect.git",
   "ssh_url": "git@github.com:amitness/colab-connect.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/amitness/colab-connect",
   "homepage": "",
   "size": 25,
-  "stargazers_count": 169,
-  "watchers_count": 169,
+  "stargazers_count": 170,
+  "watchers_count": 170,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 20,
   "open_issues": 1,
-  "watchers": 169,
+  "watchers": 170,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 835
+  "_index": 840
 }

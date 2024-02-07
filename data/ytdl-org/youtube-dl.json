@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ytdl-org/youtube-dl/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ytdl-org/youtube-dl/deployments",
   "created_at": "2010-10-31T14:35:07Z",
-  "updated_at": "2024-02-06T01:26:29Z",
+  "updated_at": "2024-02-07T00:04:09Z",
   "pushed_at": "2024-02-02T12:36:06Z",
   "git_url": "git://github.com/ytdl-org/youtube-dl.git",
   "ssh_url": "git@github.com:ytdl-org/youtube-dl.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ytdl-org/youtube-dl",
   "homepage": "http://ytdl-org.github.io/youtube-dl/",
   "size": 64812,
-  "stargazers_count": 126832,
-  "watchers_count": 126832,
+  "stargazers_count": 126852,
+  "watchers_count": 126852,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 9773,
+  "forks_count": 9778,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 9773,
+  "forks": 9778,
   "open_issues": 4267,
-  "watchers": 126832,
+  "watchers": 126852,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2198
+  "_index": 2203
 }

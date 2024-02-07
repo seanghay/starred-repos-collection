@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/logto-io/logto",
-  "description": "🧑‍🚀 Every app needs authentication and authorization. Logto is an Auth0 alternative designed for modern apps and SaaS products.",
+  "description": "🧑‍🚀 The better identity infrastructure that works universally.",
   "fork": false,
   "url": "https://api.github.com/repos/logto-io/logto",
   "forks_url": "https://api.github.com/repos/logto-io/logto/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/logto-io/logto/releases{/id}",
   "deployments_url": "https://api.github.com/repos/logto-io/logto/deployments",
   "created_at": "2021-06-19T03:01:50Z",
-  "updated_at": "2024-02-05T08:49:46Z",
-  "pushed_at": "2024-02-05T14:54:35Z",
+  "updated_at": "2024-02-06T20:19:59Z",
+  "pushed_at": "2024-02-06T09:19:00Z",
   "git_url": "git://github.com/logto-io/logto.git",
   "ssh_url": "git@github.com:logto-io/logto.git",
   "clone_url": "https://github.com/logto-io/logto.git",
   "svn_url": "https://github.com/logto-io/logto",
   "homepage": "https://logto.io",
-  "size": 40344,
-  "stargazers_count": 6809,
-  "watchers_count": 6809,
+  "size": 40420,
+  "stargazers_count": 6811,
+  "watchers_count": 6811,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 312,
+  "forks_count": 313,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 89,
+  "open_issues_count": 85,
   "license": {
     "key": "mpl-2.0",
     "name": "Mozilla Public License 2.0",
@@ -117,9 +117,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 312,
-  "open_issues": 89,
-  "watchers": 6809,
+  "forks": 313,
+  "open_issues": 85,
+  "watchers": 6811,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1308
+  "_index": 1313
 }

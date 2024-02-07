@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/silvia-odwyer/photon/releases{/id}",
   "deployments_url": "https://api.github.com/repos/silvia-odwyer/photon/deployments",
   "created_at": "2019-02-13T19:46:04Z",
-  "updated_at": "2024-02-05T10:11:26Z",
+  "updated_at": "2024-02-06T18:37:50Z",
   "pushed_at": "2024-01-31T16:44:43Z",
   "git_url": "git://github.com/silvia-odwyer/photon.git",
   "ssh_url": "git@github.com:silvia-odwyer/photon.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/silvia-odwyer/photon",
   "homepage": "https://silvia-odwyer.github.io/photon",
   "size": 67975,
-  "stargazers_count": 2385,
-  "watchers_count": 2385,
+  "stargazers_count": 2384,
+  "watchers_count": 2384,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 125,
   "open_issues": 39,
-  "watchers": 2385,
+  "watchers": 2384,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1788
+  "_index": 1793
 }

@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/C2FO/fast-csv.git",
   "svn_url": "https://github.com/C2FO/fast-csv",
   "homepage": "http://c2fo.github.io/fast-csv",
-  "size": 6232,
+  "size": 6231,
   "stargazers_count": 1551,
   "watchers_count": 1551,
   "language": "TypeScript",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2223
+  "_index": 2228
 }

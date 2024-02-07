@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/AykutSarac/jsoncrack.com/releases{/id}",
   "deployments_url": "https://api.github.com/repos/AykutSarac/jsoncrack.com/deployments",
   "created_at": "2022-01-30T15:25:18Z",
-  "updated_at": "2024-02-06T01:39:32Z",
+  "updated_at": "2024-02-07T01:37:37Z",
   "pushed_at": "2024-02-05T22:34:39Z",
   "git_url": "git://github.com/AykutSarac/jsoncrack.com.git",
   "ssh_url": "git@github.com:AykutSarac/jsoncrack.com.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/AykutSarac/jsoncrack.com",
   "homepage": "https://jsoncrack.com/",
   "size": 14558,
-  "stargazers_count": 27846,
-  "watchers_count": 27846,
+  "stargazers_count": 27873,
+  "watchers_count": 27873,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 1611,
+  "forks_count": 1614,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -109,9 +109,9 @@
     "yaml"
   ],
   "visibility": "public",
-  "forks": 1611,
+  "forks": 1614,
   "open_issues": 47,
-  "watchers": 27846,
+  "watchers": 27873,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1495
+  "_index": 1500
 }

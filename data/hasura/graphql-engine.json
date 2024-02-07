@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/hasura/graphql-engine/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hasura/graphql-engine/deployments",
   "created_at": "2018-06-18T07:57:36Z",
-  "updated_at": "2024-02-06T01:07:23Z",
-  "pushed_at": "2024-02-05T23:11:46Z",
+  "updated_at": "2024-02-06T18:59:27Z",
+  "pushed_at": "2024-02-06T22:08:02Z",
   "git_url": "git://github.com/hasura/graphql-engine.git",
   "ssh_url": "git@github.com:hasura/graphql-engine.git",
   "clone_url": "https://github.com/hasura/graphql-engine.git",
   "svn_url": "https://github.com/hasura/graphql-engine",
   "homepage": "https://hasura.io",
-  "size": 5091102,
-  "stargazers_count": 30659,
-  "watchers_count": 30659,
+  "size": 5091152,
+  "stargazers_count": 30664,
+  "watchers_count": 30664,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 2784,
+  "forks_count": 2786,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -113,9 +113,9 @@
     "sql-server"
   ],
   "visibility": "public",
-  "forks": 2784,
+  "forks": 2786,
   "open_issues": 2150,
-  "watchers": 30659,
+  "watchers": 30664,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3330
+  "_index": 3335
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/google-research/seanet/deployments",
   "created_at": "2020-08-11T14:01:08Z",
   "updated_at": "2024-02-05T14:28:51Z",
-  "pushed_at": "2024-01-18T19:27:30Z",
+  "pushed_at": "2024-02-06T18:52:47Z",
   "git_url": "git://github.com/google-research/seanet.git",
   "ssh_url": "git@github.com:google-research/seanet.git",
   "clone_url": "https://github.com/google-research/seanet.git",
   "svn_url": "https://github.com/google-research/seanet",
   "homepage": null,
-  "size": 1046036,
+  "size": 1309500,
   "stargazers_count": 111,
   "watchers_count": 111,
   "language": "HTML",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 81
+  "_index": 86
 }

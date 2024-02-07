@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/JetBrains/skiko/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JetBrains/skiko/deployments",
   "created_at": "2020-07-27T10:27:13Z",
-  "updated_at": "2024-02-05T22:25:22Z",
-  "pushed_at": "2024-02-05T13:52:03Z",
+  "updated_at": "2024-02-06T19:15:39Z",
+  "pushed_at": "2024-02-06T14:35:48Z",
   "git_url": "git://github.com/JetBrains/skiko.git",
   "ssh_url": "git@github.com:JetBrains/skiko.git",
   "clone_url": "https://github.com/JetBrains/skiko.git",
   "svn_url": "https://github.com/JetBrains/skiko",
   "homepage": null,
-  "size": 20938,
-  "stargazers_count": 1642,
-  "watchers_count": 1642,
+  "size": 20939,
+  "stargazers_count": 1643,
+  "watchers_count": 1643,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 120,
+  "open_issues_count": 118,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 95,
-  "open_issues": 120,
-  "watchers": 1642,
+  "open_issues": 118,
+  "watchers": 1643,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2191
+  "_index": 2196
 }
