@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/fschmid56/EfficientAT/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fschmid56/EfficientAT/deployments",
   "created_at": "2022-10-13T07:09:48Z",
-  "updated_at": "2024-02-05T10:40:18Z",
-  "pushed_at": "2024-02-06T14:48:27Z",
+  "updated_at": "2024-02-07T03:19:10Z",
+  "pushed_at": "2024-02-07T09:59:00Z",
   "git_url": "git://github.com/fschmid56/EfficientAT.git",
   "ssh_url": "git@github.com:fschmid56/EfficientAT.git",
   "clone_url": "https://github.com/fschmid56/EfficientAT.git",
   "svn_url": "https://github.com/fschmid56/EfficientAT",
   "homepage": "",
-  "size": 2678,
-  "stargazers_count": 165,
-  "watchers_count": 165,
+  "size": 2684,
+  "stargazers_count": 166,
+  "watchers_count": 166,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2,
+  "open_issues_count": 1,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 25,
-  "open_issues": 2,
-  "watchers": 165,
+  "open_issues": 1,
+  "watchers": 166,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 26
+  "_index": 29
 }

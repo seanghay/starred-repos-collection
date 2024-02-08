@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/wasmerio/winterjs/deployments",
   "created_at": "2023-09-21T17:46:09Z",
   "updated_at": "2024-01-31T13:49:12Z",
-  "pushed_at": "2024-02-05T08:52:27Z",
+  "pushed_at": "2024-02-07T12:45:26Z",
   "git_url": "git://github.com/wasmerio/winterjs.git",
   "ssh_url": "git@github.com:wasmerio/winterjs.git",
   "clone_url": "https://github.com/wasmerio/winterjs.git",
   "svn_url": "https://github.com/wasmerio/winterjs",
   "homepage": "",
-  "size": 225586,
+  "size": 225622,
   "stargazers_count": 853,
   "watchers_count": 853,
   "language": "JavaScript",
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 290
+  "_index": 293
 }

@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 1602,
+  "forks_count": 1601,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,7 +108,7 @@
     "opencv-java"
   ],
   "visibility": "public",
-  "forks": 1602,
+  "forks": 1601,
   "open_issues": 397,
   "watchers": 7146,
   "default_branch": "master",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3276
+  "_index": 3279
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/EmbarkStudios/rust-gpu/releases{/id}",
   "deployments_url": "https://api.github.com/repos/EmbarkStudios/rust-gpu/deployments",
   "created_at": "2020-07-24T09:36:51Z",
-  "updated_at": "2024-02-06T19:00:20Z",
-  "pushed_at": "2024-02-05T18:11:03Z",
+  "updated_at": "2024-02-08T00:48:49Z",
+  "pushed_at": "2024-02-07T21:45:39Z",
   "git_url": "git://github.com/EmbarkStudios/rust-gpu.git",
   "ssh_url": "git@github.com:EmbarkStudios/rust-gpu.git",
   "clone_url": "https://github.com/EmbarkStudios/rust-gpu.git",
   "svn_url": "https://github.com/EmbarkStudios/rust-gpu",
   "homepage": "https://shader.rs",
-  "size": 258099,
-  "stargazers_count": 6756,
-  "watchers_count": 6756,
+  "size": 258137,
+  "stargazers_count": 6760,
+  "watchers_count": 6760,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 232,
+  "forks_count": 233,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 106,
+  "open_issues_count": 105,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -103,9 +103,9 @@
     "shaders"
   ],
   "visibility": "public",
-  "forks": 232,
-  "open_issues": 106,
-  "watchers": 6756,
+  "forks": 233,
+  "open_issues": 105,
+  "watchers": 6760,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1438
+  "_index": 1441
 }

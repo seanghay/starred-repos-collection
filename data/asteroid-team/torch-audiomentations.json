@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/asteroid-team/torch-audiomentations/deployments",
   "created_at": "2020-06-22T16:28:52Z",
   "updated_at": "2024-02-06T18:49:39Z",
-  "pushed_at": "2024-01-10T11:38:24Z",
+  "pushed_at": "2024-02-07T10:03:13Z",
   "git_url": "git://github.com/asteroid-team/torch-audiomentations.git",
   "ssh_url": "git@github.com:asteroid-team/torch-audiomentations.git",
   "clone_url": "https://github.com/asteroid-team/torch-audiomentations.git",
   "svn_url": "https://github.com/asteroid-team/torch-audiomentations",
   "homepage": "",
-  "size": 2406,
+  "size": 2408,
   "stargazers_count": 837,
   "watchers_count": 837,
   "language": "Python",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 49,
+  "open_issues_count": 48,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -116,7 +116,7 @@
   ],
   "visibility": "public",
   "forks": 84,
-  "open_issues": 49,
+  "open_issues": 48,
   "watchers": 837,
   "default_branch": "main",
   "permissions": {
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 825
+  "_index": 828
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/facebookresearch/MetaCLIP/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookresearch/MetaCLIP/deployments",
   "created_at": "2023-09-28T04:56:22Z",
-  "updated_at": "2024-02-06T15:36:06Z",
+  "updated_at": "2024-02-07T07:06:32Z",
   "pushed_at": "2024-01-20T19:10:18Z",
   "git_url": "git://github.com/facebookresearch/MetaCLIP.git",
   "ssh_url": "git@github.com:facebookresearch/MetaCLIP.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/facebookresearch/MetaCLIP",
   "homepage": "",
   "size": 20280,
-  "stargazers_count": 907,
-  "watchers_count": 907,
+  "stargazers_count": 908,
+  "watchers_count": 908,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 44,
   "open_issues": 17,
-  "watchers": 907,
+  "watchers": 908,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 365
+  "_index": 368
 }

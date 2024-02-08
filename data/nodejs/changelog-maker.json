@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/nodejs/changelog-maker/deployments",
   "created_at": "2015-02-18T07:21:53Z",
   "updated_at": "2024-01-25T18:02:11Z",
-  "pushed_at": "2024-01-10T10:49:06Z",
+  "pushed_at": "2024-02-07T13:11:43Z",
   "git_url": "git://github.com/nodejs/changelog-maker.git",
   "ssh_url": "git@github.com:nodejs/changelog-maker.git",
   "clone_url": "https://github.com/nodejs/changelog-maker.git",
   "svn_url": "https://github.com/nodejs/changelog-maker",
   "homepage": null,
-  "size": 542,
+  "size": 549,
   "stargazers_count": 225,
   "watchers_count": 225,
   "language": "JavaScript",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1663
+  "_index": 1666
 }

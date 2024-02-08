@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/winstonjs/winston/releases{/id}",
   "deployments_url": "https://api.github.com/repos/winstonjs/winston/deployments",
   "created_at": "2010-12-29T18:49:51Z",
-  "updated_at": "2024-02-06T16:34:57Z",
-  "pushed_at": "2024-02-05T19:53:58Z",
+  "updated_at": "2024-02-08T00:24:29Z",
+  "pushed_at": "2024-02-07T05:30:14Z",
   "git_url": "git://github.com/winstonjs/winston.git",
   "ssh_url": "git@github.com:winstonjs/winston.git",
   "clone_url": "https://github.com/winstonjs/winston.git",
   "svn_url": "https://github.com/winstonjs/winston",
   "homepage": "http://github.com/winstonjs/winston",
   "size": 4594,
-  "stargazers_count": 21728,
-  "watchers_count": 21728,
+  "stargazers_count": 21736,
+  "watchers_count": 21736,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 480,
+  "open_issues_count": 479,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 1835,
-  "open_issues": 480,
-  "watchers": 21728,
+  "open_issues": 479,
+  "watchers": 21736,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3480
+  "_index": 3483
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/keycloak/keycloak/releases{/id}",
   "deployments_url": "https://api.github.com/repos/keycloak/keycloak/deployments",
   "created_at": "2013-07-02T13:38:51Z",
-  "updated_at": "2024-02-06T23:04:02Z",
-  "pushed_at": "2024-02-07T00:58:49Z",
+  "updated_at": "2024-02-07T23:30:24Z",
+  "pushed_at": "2024-02-08T01:08:13Z",
   "git_url": "git://github.com/keycloak/keycloak.git",
   "ssh_url": "git@github.com:keycloak/keycloak.git",
   "clone_url": "https://github.com/keycloak/keycloak.git",
   "svn_url": "https://github.com/keycloak/keycloak",
   "homepage": "https://www.keycloak.org",
-  "size": 482937,
-  "stargazers_count": 18972,
-  "watchers_count": 18972,
+  "size": 483054,
+  "stargazers_count": 18978,
+  "watchers_count": 18978,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 6091,
+  "forks_count": 6093,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,9 +103,9 @@
     "saml"
   ],
   "visibility": "public",
-  "forks": 6091,
+  "forks": 6093,
   "open_issues": 2125,
-  "watchers": 18972,
+  "watchers": 18978,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1506
+  "_index": 1509
 }

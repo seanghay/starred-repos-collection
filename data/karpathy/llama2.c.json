@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/karpathy/llama2.c/releases{/id}",
   "deployments_url": "https://api.github.com/repos/karpathy/llama2.c/deployments",
   "created_at": "2023-07-23T05:15:06Z",
-  "updated_at": "2024-02-06T22:43:24Z",
-  "pushed_at": "2024-02-01T05:25:30Z",
+  "updated_at": "2024-02-08T00:35:15Z",
+  "pushed_at": "2024-02-07T09:36:53Z",
   "git_url": "git://github.com/karpathy/llama2.c.git",
   "ssh_url": "git@github.com:karpathy/llama2.c.git",
   "clone_url": "https://github.com/karpathy/llama2.c.git",
   "svn_url": "https://github.com/karpathy/llama2.c",
   "homepage": "",
   "size": 1183,
-  "stargazers_count": 14139,
-  "watchers_count": 14139,
+  "stargazers_count": 14148,
+  "watchers_count": 14148,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 1522,
   "open_issues": 145,
-  "watchers": 14139,
+  "watchers": 14148,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 594
+  "_index": 597
 }

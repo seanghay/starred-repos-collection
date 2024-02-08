@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/googleapis/nodejs-storage/releases{/id}",
   "deployments_url": "https://api.github.com/repos/googleapis/nodejs-storage/deployments",
   "created_at": "2017-07-26T20:53:32Z",
-  "updated_at": "2024-01-31T15:20:07Z",
-  "pushed_at": "2024-02-05T22:14:28Z",
+  "updated_at": "2024-02-07T08:55:03Z",
+  "pushed_at": "2024-02-07T23:21:17Z",
   "git_url": "git://github.com/googleapis/nodejs-storage.git",
   "ssh_url": "git@github.com:googleapis/nodejs-storage.git",
   "clone_url": "https://github.com/googleapis/nodejs-storage.git",
   "svn_url": "https://github.com/googleapis/nodejs-storage",
   "homepage": "https://cloud.google.com/storage/",
-  "size": 10317,
-  "stargazers_count": 872,
-  "watchers_count": 872,
+  "size": 10406,
+  "stargazers_count": 874,
+  "watchers_count": 874,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 399,
   "open_issues": 33,
-  "watchers": 872,
+  "watchers": 874,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1270
+  "_index": 1273
 }

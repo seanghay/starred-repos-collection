@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/vbelz/Speech-enhancement/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vbelz/Speech-enhancement/deployments",
   "created_at": "2019-12-14T12:57:36Z",
-  "updated_at": "2024-02-06T12:33:47Z",
+  "updated_at": "2024-02-07T13:23:24Z",
   "pushed_at": "2023-10-15T17:43:31Z",
   "git_url": "git://github.com/vbelz/Speech-enhancement.git",
   "ssh_url": "git@github.com:vbelz/Speech-enhancement.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/vbelz/Speech-enhancement",
   "homepage": null,
   "size": 48316,
-  "stargazers_count": 557,
-  "watchers_count": 557,
+  "stargazers_count": 558,
+  "watchers_count": 558,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 119,
   "open_issues": 18,
-  "watchers": 557,
+  "watchers": 558,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 713
+  "_index": 716
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Canjie-Luo/MORAN_v2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Canjie-Luo/MORAN_v2/deployments",
   "created_at": "2019-01-09T02:43:29Z",
-  "updated_at": "2024-01-30T07:37:53Z",
+  "updated_at": "2024-02-08T00:38:39Z",
   "pushed_at": "2022-12-06T08:16:54Z",
   "git_url": "git://github.com/Canjie-Luo/MORAN_v2.git",
   "ssh_url": "git@github.com:Canjie-Luo/MORAN_v2.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Canjie-Luo/MORAN_v2",
   "homepage": null,
   "size": 2759,
-  "stargazers_count": 613,
-  "watchers_count": 613,
+  "stargazers_count": 612,
+  "watchers_count": 612,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 151,
   "open_issues": 24,
-  "watchers": 613,
+  "watchers": 612,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 49
+  "_index": 52
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/flutter.widgets/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/flutter.widgets/deployments",
   "created_at": "2018-02-26T05:19:26Z",
-  "updated_at": "2024-01-31T16:21:43Z",
+  "updated_at": "2024-02-07T13:44:04Z",
   "pushed_at": "2024-02-06T18:16:17Z",
   "git_url": "git://github.com/google/flutter.widgets.git",
   "ssh_url": "git@github.com:google/flutter.widgets.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/flutter.widgets",
   "homepage": "https://pub.dev/packages/flutter_widgets",
   "size": 717,
-  "stargazers_count": 1267,
-  "watchers_count": 1267,
+  "stargazers_count": 1268,
+  "watchers_count": 1268,
   "language": "Dart",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 447,
   "open_issues": 224,
-  "watchers": 1267,
+  "watchers": 1268,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1827
+  "_index": 1830
 }

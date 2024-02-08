@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/futuredapp/donut/releases{/id}",
   "deployments_url": "https://api.github.com/repos/futuredapp/donut/deployments",
   "created_at": "2019-10-16T08:49:19Z",
-  "updated_at": "2024-02-01T17:03:51Z",
+  "updated_at": "2024-02-07T14:03:34Z",
   "pushed_at": "2024-01-31T11:25:37Z",
   "git_url": "git://github.com/futuredapp/donut.git",
   "ssh_url": "git@github.com:futuredapp/donut.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/futuredapp/donut",
   "homepage": "",
   "size": 821,
-  "stargazers_count": 525,
-  "watchers_count": 525,
+  "stargazers_count": 526,
+  "watchers_count": 526,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 47,
   "open_issues": 11,
-  "watchers": 525,
+  "watchers": 526,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2569
+  "_index": 2572
 }

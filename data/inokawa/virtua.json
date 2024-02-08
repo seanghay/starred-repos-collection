@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/inokawa/virtua/releases{/id}",
   "deployments_url": "https://api.github.com/repos/inokawa/virtua/deployments",
   "created_at": "2022-10-11T14:16:42Z",
-  "updated_at": "2024-02-06T21:06:49Z",
-  "pushed_at": "2024-02-06T13:33:13Z",
+  "updated_at": "2024-02-07T22:00:10Z",
+  "pushed_at": "2024-02-08T01:37:01Z",
   "git_url": "git://github.com/inokawa/virtua.git",
   "ssh_url": "git@github.com:inokawa/virtua.git",
   "clone_url": "https://github.com/inokawa/virtua.git",
   "svn_url": "https://github.com/inokawa/virtua",
   "homepage": "https://inokawa.github.io/virtua/",
-  "size": 91747,
-  "stargazers_count": 787,
-  "watchers_count": 787,
+  "size": 91752,
+  "stargazers_count": 789,
+  "watchers_count": 789,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 34,
+  "open_issues_count": 36,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -115,8 +115,8 @@
   ],
   "visibility": "public",
   "forks": 23,
-  "open_issues": 34,
-  "watchers": 787,
+  "open_issues": 36,
+  "watchers": 789,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 571
+  "_index": 574
 }

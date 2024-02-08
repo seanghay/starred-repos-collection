@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/graphql/dataloader/releases{/id}",
   "deployments_url": "https://api.github.com/repos/graphql/dataloader/deployments",
   "created_at": "2015-09-10T10:05:23Z",
-  "updated_at": "2024-02-06T16:45:35Z",
+  "updated_at": "2024-02-07T13:10:37Z",
   "pushed_at": "2023-11-17T17:59:40Z",
   "git_url": "git://github.com/graphql/dataloader.git",
   "ssh_url": "git@github.com:graphql/dataloader.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2205
+  "_index": 2208
 }

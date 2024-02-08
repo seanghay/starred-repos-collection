@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/exentriquesolutions/nip.io/releases{/id}",
   "deployments_url": "https://api.github.com/repos/exentriquesolutions/nip.io/deployments",
   "created_at": "2019-02-08T07:08:41Z",
-  "updated_at": "2024-02-05T13:14:49Z",
+  "updated_at": "2024-02-07T21:10:23Z",
   "pushed_at": "2023-10-26T17:50:53Z",
   "git_url": "git://github.com/exentriquesolutions/nip.io.git",
   "ssh_url": "git@github.com:exentriquesolutions/nip.io.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/exentriquesolutions/nip.io",
   "homepage": "http://nip.io",
   "size": 93,
-  "stargazers_count": 1169,
-  "watchers_count": 1169,
+  "stargazers_count": 1171,
+  "watchers_count": 1171,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 137,
+  "forks_count": 138,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 137,
+  "forks": 138,
   "open_issues": 6,
-  "watchers": 1169,
+  "watchers": 1171,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2268
+  "_index": 2271
 }

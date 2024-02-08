@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/isomorphic-git/isomorphic-git/releases{/id}",
   "deployments_url": "https://api.github.com/repos/isomorphic-git/isomorphic-git/deployments",
   "created_at": "2017-07-30T02:26:00Z",
-  "updated_at": "2024-02-06T20:17:09Z",
-  "pushed_at": "2024-01-27T17:11:02Z",
+  "updated_at": "2024-02-07T14:41:15Z",
+  "pushed_at": "2024-02-07T21:29:30Z",
   "git_url": "git://github.com/isomorphic-git/isomorphic-git.git",
   "ssh_url": "git@github.com:isomorphic-git/isomorphic-git.git",
   "clone_url": "https://github.com/isomorphic-git/isomorphic-git.git",
   "svn_url": "https://github.com/isomorphic-git/isomorphic-git",
   "homepage": "https://isomorphic-git.org",
   "size": 44167,
-  "stargazers_count": 7176,
-  "watchers_count": 7176,
+  "stargazers_count": 7175,
+  "watchers_count": 7175,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 362,
+  "forks_count": 363,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 298,
+  "open_issues_count": 299,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,9 +107,9 @@
     "vcs"
   ],
   "visibility": "public",
-  "forks": 362,
-  "open_issues": 298,
-  "watchers": 7176,
+  "forks": 363,
+  "open_issues": 299,
+  "watchers": 7175,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2323
+  "_index": 2326
 }

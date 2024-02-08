@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/apache/arrow/releases{/id}",
   "deployments_url": "https://api.github.com/repos/apache/arrow/deployments",
   "created_at": "2016-02-17T08:00:23Z",
-  "updated_at": "2024-02-06T19:33:39Z",
-  "pushed_at": "2024-02-06T22:44:32Z",
+  "updated_at": "2024-02-07T21:40:57Z",
+  "pushed_at": "2024-02-08T01:38:22Z",
   "git_url": "git://github.com/apache/arrow.git",
   "ssh_url": "git@github.com:apache/arrow.git",
   "clone_url": "https://github.com/apache/arrow.git",
   "svn_url": "https://github.com/apache/arrow",
   "homepage": "https://arrow.apache.org/",
-  "size": 180774,
-  "stargazers_count": 13119,
-  "watchers_count": 13119,
+  "size": 180911,
+  "stargazers_count": 13123,
+  "watchers_count": 13123,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 3235,
+  "forks_count": 3236,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 4198,
+  "open_issues_count": 4200,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -101,9 +101,9 @@
     "arrow"
   ],
   "visibility": "public",
-  "forks": 3235,
-  "open_issues": 4198,
-  "watchers": 13119,
+  "forks": 3236,
+  "open_issues": 4200,
+  "watchers": 13123,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 813
+  "_index": 816
 }
