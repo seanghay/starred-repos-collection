@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/GoogleChromeLabs/comlink/releases{/id}",
   "deployments_url": "https://api.github.com/repos/GoogleChromeLabs/comlink/deployments",
   "created_at": "2017-09-06T11:43:38Z",
-  "updated_at": "2024-02-07T21:59:17Z",
+  "updated_at": "2024-02-08T19:39:13Z",
   "pushed_at": "2024-01-24T16:52:13Z",
   "git_url": "git://github.com/GoogleChromeLabs/comlink.git",
   "ssh_url": "git@github.com:GoogleChromeLabs/comlink.git",

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/airbnb/epoxy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/airbnb/epoxy/deployments",
   "created_at": "2016-08-08T23:05:11Z",
-  "updated_at": "2024-02-07T07:53:11Z",
+  "updated_at": "2024-02-08T23:19:55Z",
   "pushed_at": "2024-01-25T20:50:25Z",
   "git_url": "git://github.com/airbnb/epoxy.git",
   "ssh_url": "git@github.com:airbnb/epoxy.git",
