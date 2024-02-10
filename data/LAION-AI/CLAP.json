@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/LAION-AI/CLAP/releases{/id}",
   "deployments_url": "https://api.github.com/repos/LAION-AI/CLAP/deployments",
   "created_at": "2022-03-06T20:12:49Z",
-  "updated_at": "2024-02-08T20:25:07Z",
+  "updated_at": "2024-02-09T02:22:35Z",
   "pushed_at": "2024-02-05T20:58:38Z",
   "git_url": "git://github.com/LAION-AI/CLAP.git",
   "ssh_url": "git@github.com:LAION-AI/CLAP.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/LAION-AI/CLAP",
   "homepage": "https://arxiv.org/abs/2211.06687",
   "size": 7149,
-  "stargazers_count": 1033,
-  "watchers_count": 1033,
+  "stargazers_count": 1034,
+  "watchers_count": 1034,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 112,
   "open_issues": 37,
-  "watchers": 1033,
+  "watchers": 1034,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 678
+  "_index": 679
 }

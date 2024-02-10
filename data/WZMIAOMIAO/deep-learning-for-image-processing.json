@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/WZMIAOMIAO/deep-learning-for-image-processing/releases{/id}",
   "deployments_url": "https://api.github.com/repos/WZMIAOMIAO/deep-learning-for-image-processing/deployments",
   "created_at": "2019-11-14T15:02:27Z",
-  "updated_at": "2024-02-08T16:47:21Z",
+  "updated_at": "2024-02-09T15:20:42Z",
   "pushed_at": "2024-01-27T07:25:05Z",
   "git_url": "git://github.com/WZMIAOMIAO/deep-learning-for-image-processing.git",
   "ssh_url": "git@github.com:WZMIAOMIAO/deep-learning-for-image-processing.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
   "homepage": "",
   "size": 23948,
-  "stargazers_count": 19559,
-  "watchers_count": 19559,
+  "stargazers_count": 19560,
+  "watchers_count": 19560,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 7601,
+  "forks_count": 7602,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "tensorflow2"
   ],
   "visibility": "public",
-  "forks": 7601,
+  "forks": 7602,
   "open_issues": 61,
-  "watchers": 19559,
+  "watchers": 19560,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 203
+  "_index": 204
 }

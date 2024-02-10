@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/MishaLaskin/vqvae/releases{/id}",
   "deployments_url": "https://api.github.com/repos/MishaLaskin/vqvae/deployments",
   "created_at": "2019-06-06T19:40:57Z",
-  "updated_at": "2024-02-07T15:15:24Z",
+  "updated_at": "2024-02-09T04:50:28Z",
   "pushed_at": "2022-12-08T05:13:20Z",
   "git_url": "git://github.com/MishaLaskin/vqvae.git",
   "ssh_url": "git@github.com:MishaLaskin/vqvae.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/MishaLaskin/vqvae",
   "homepage": null,
   "size": 5002,
-  "stargazers_count": 419,
-  "watchers_count": 419,
+  "stargazers_count": 420,
+  "watchers_count": 420,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 58,
+  "forks_count": 59,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -93,9 +93,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 58,
+  "forks": 59,
   "open_issues": 8,
-  "watchers": 419,
+  "watchers": 420,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 47
+  "_index": 48
 }

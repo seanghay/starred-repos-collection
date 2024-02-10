@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bevacqua/hash-sum/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bevacqua/hash-sum/deployments",
   "created_at": "2015-07-14T17:55:54Z",
-  "updated_at": "2024-01-25T18:02:14Z",
+  "updated_at": "2024-02-09T02:40:17Z",
   "pushed_at": "2022-11-01T20:17:34Z",
   "git_url": "git://github.com/bevacqua/hash-sum.git",
   "ssh_url": "git@github.com:bevacqua/hash-sum.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1324
+  "_index": 1325
 }

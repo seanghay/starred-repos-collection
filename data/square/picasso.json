@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/square/picasso/releases{/id}",
   "deployments_url": "https://api.github.com/repos/square/picasso/deployments",
   "created_at": "2013-05-14T15:07:47Z",
-  "updated_at": "2024-02-08T07:14:12Z",
-  "pushed_at": "2024-02-07T19:48:53Z",
+  "updated_at": "2024-02-09T15:45:17Z",
+  "pushed_at": "2024-02-09T22:31:53Z",
   "git_url": "git://github.com/square/picasso.git",
   "ssh_url": "git@github.com:square/picasso.git",
   "clone_url": "https://github.com/square/picasso.git",
   "svn_url": "https://github.com/square/picasso",
   "homepage": "https://square.github.io/picasso/",
-  "size": 5776,
-  "stargazers_count": 18628,
-  "watchers_count": 18628,
+  "size": 5777,
+  "stargazers_count": 18629,
+  "watchers_count": 18629,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 221,
+  "open_issues_count": 222,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 4019,
-  "open_issues": 221,
-  "watchers": 18628,
+  "open_issues": 222,
+  "watchers": 18629,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1478
+  "_index": 1479
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/bundletool/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/bundletool/deployments",
   "created_at": "2018-05-04T07:24:09Z",
-  "updated_at": "2024-02-09T00:35:34Z",
+  "updated_at": "2024-02-09T13:08:05Z",
   "pushed_at": "2023-11-07T17:50:21Z",
   "git_url": "git://github.com/google/bundletool.git",
   "ssh_url": "git@github.com:google/bundletool.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/bundletool",
   "homepage": "https://g.co/androidappbundle",
   "size": 10912,
-  "stargazers_count": 3298,
-  "watchers_count": 3298,
+  "stargazers_count": 3299,
+  "watchers_count": 3299,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 387,
   "open_issues": 59,
-  "watchers": 3298,
+  "watchers": 3299,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3045
+  "_index": 3046
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/git-chglog/git-chglog/deployments",
   "created_at": "2018-02-02T13:57:20Z",
   "updated_at": "2024-02-08T18:06:52Z",
-  "pushed_at": "2024-01-28T13:35:48Z",
+  "pushed_at": "2024-02-09T16:49:27Z",
   "git_url": "git://github.com/git-chglog/git-chglog.git",
   "ssh_url": "git@github.com:git-chglog/git-chglog.git",
   "clone_url": "https://github.com/git-chglog/git-chglog.git",
   "svn_url": "https://github.com/git-chglog/git-chglog",
   "homepage": "https://godoc.org/github.com/git-chglog/git-chglog",
-  "size": 2862,
+  "size": 2863,
   "stargazers_count": 2574,
   "watchers_count": 2574,
   "language": "Go",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 105,
+  "open_issues_count": 106,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -113,7 +113,7 @@
   ],
   "visibility": "public",
   "forks": 280,
-  "open_issues": 105,
+  "open_issues": 106,
   "watchers": 2574,
   "default_branch": "master",
   "permissions": {
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2168
+  "_index": 2169
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Moya/Moya/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Moya/Moya/deployments",
   "created_at": "2014-08-16T07:41:21Z",
-  "updated_at": "2024-02-08T10:35:32Z",
+  "updated_at": "2024-02-09T10:08:05Z",
   "pushed_at": "2024-02-02T15:50:39Z",
   "git_url": "git://github.com/Moya/Moya.git",
   "ssh_url": "git@github.com:Moya/Moya.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Moya/Moya",
   "homepage": "https://moya.github.io",
   "size": 18281,
-  "stargazers_count": 14888,
-  "watchers_count": 14888,
+  "stargazers_count": 14889,
+  "watchers_count": 14889,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 1969,
   "open_issues": 163,
-  "watchers": 14888,
+  "watchers": 14889,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3077
+  "_index": 3078
 }

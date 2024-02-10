@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pacocoursey/cmdk/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pacocoursey/cmdk/deployments",
   "created_at": "2022-07-15T20:22:47Z",
-  "updated_at": "2024-02-08T23:11:59Z",
+  "updated_at": "2024-02-09T17:09:40Z",
   "pushed_at": "2024-02-08T20:09:54Z",
   "git_url": "git://github.com/pacocoursey/cmdk.git",
   "ssh_url": "git@github.com:pacocoursey/cmdk.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/pacocoursey/cmdk",
   "homepage": "https://cmdk.paco.me",
   "size": 665,
-  "stargazers_count": 7843,
-  "watchers_count": 7843,
+  "stargazers_count": 7848,
+  "watchers_count": 7848,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 217,
   "open_issues": 40,
-  "watchers": 7843,
+  "watchers": 7848,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1321
+  "_index": 1322
 }

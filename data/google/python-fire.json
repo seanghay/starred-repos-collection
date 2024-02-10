@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/python-fire/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/python-fire/deployments",
   "created_at": "2017-02-21T21:35:07Z",
-  "updated_at": "2024-02-08T19:09:35Z",
+  "updated_at": "2024-02-10T00:10:20Z",
   "pushed_at": "2024-01-30T03:01:06Z",
   "git_url": "git://github.com/google/python-fire.git",
   "ssh_url": "git@github.com:google/python-fire.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/python-fire",
   "homepage": "",
   "size": 6117,
-  "stargazers_count": 25914,
-  "watchers_count": 25914,
+  "stargazers_count": 25918,
+  "watchers_count": 25918,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 1501,
   "open_issues": 148,
-  "watchers": 25914,
+  "watchers": 25918,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 33
+  "_index": 34
 }

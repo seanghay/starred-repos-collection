@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/pterm/pterm/deployments",
   "created_at": "2020-09-17T15:52:59Z",
   "updated_at": "2024-02-08T22:16:49Z",
-  "pushed_at": "2024-02-08T01:35:29Z",
+  "pushed_at": "2024-02-09T18:58:36Z",
   "git_url": "git://github.com/pterm/pterm.git",
   "ssh_url": "git@github.com:pterm/pterm.git",
   "clone_url": "https://github.com/pterm/pterm.git",
   "svn_url": "https://github.com/pterm/pterm",
   "homepage": "https://pterm.sh",
-  "size": 22020,
+  "size": 22155,
   "stargazers_count": 4433,
   "watchers_count": 4433,
   "language": "Go",
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1394
+  "_index": 1395
 }

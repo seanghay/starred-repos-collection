@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/neuml/txtai/releases{/id}",
   "deployments_url": "https://api.github.com/repos/neuml/txtai/deployments",
   "created_at": "2020-08-09T19:14:59Z",
-  "updated_at": "2024-02-08T22:08:15Z",
-  "pushed_at": "2024-02-06T16:46:01Z",
+  "updated_at": "2024-02-09T20:22:36Z",
+  "pushed_at": "2024-02-09T12:06:58Z",
   "git_url": "git://github.com/neuml/txtai.git",
   "ssh_url": "git@github.com:neuml/txtai.git",
   "clone_url": "https://github.com/neuml/txtai.git",
   "svn_url": "https://github.com/neuml/txtai",
   "homepage": "https://neuml.github.io/txtai",
-  "size": 45294,
-  "stargazers_count": 6379,
-  "watchers_count": 6379,
+  "size": 45307,
+  "stargazers_count": 6383,
+  "watchers_count": 6383,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 460,
+  "forks_count": 461,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 14,
+  "open_issues_count": 15,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -120,9 +120,9 @@
     "vector-search-engine"
   ],
   "visibility": "public",
-  "forks": 460,
-  "open_issues": 14,
-  "watchers": 6379,
+  "forks": 461,
+  "open_issues": 15,
+  "watchers": 6383,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 732
+  "_index": 733
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/skydoves/Balloon/releases{/id}",
   "deployments_url": "https://api.github.com/repos/skydoves/Balloon/deployments",
   "created_at": "2019-07-14T07:14:32Z",
-  "updated_at": "2024-02-08T08:20:29Z",
+  "updated_at": "2024-02-09T14:35:59Z",
   "pushed_at": "2024-02-08T04:01:12Z",
   "git_url": "git://github.com/skydoves/Balloon.git",
   "ssh_url": "git@github.com:skydoves/Balloon.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/skydoves/Balloon",
   "homepage": "https://skydoves.github.io/libraries/balloon/html/balloon/com.skydoves.balloon/index.html",
   "size": 2651,
-  "stargazers_count": 3501,
-  "watchers_count": 3501,
+  "stargazers_count": 3504,
+  "watchers_count": 3504,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -115,7 +115,7 @@
   "visibility": "public",
   "forks": 279,
   "open_issues": 18,
-  "watchers": 3501,
+  "watchers": 3504,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3016
+  "_index": 3017
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/microsoft/typespec/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microsoft/typespec/deployments",
   "created_at": "2021-06-30T23:29:49Z",
-  "updated_at": "2024-02-08T23:27:40Z",
-  "pushed_at": "2024-02-09T01:39:03Z",
+  "updated_at": "2024-02-09T23:01:57Z",
+  "pushed_at": "2024-02-09T22:47:38Z",
   "git_url": "git://github.com/microsoft/typespec.git",
   "ssh_url": "git@github.com:microsoft/typespec.git",
   "clone_url": "https://github.com/microsoft/typespec.git",
   "svn_url": "https://github.com/microsoft/typespec",
   "homepage": "https://microsoft.github.io/typespec/",
-  "size": 15199,
-  "stargazers_count": 1981,
-  "watchers_count": 1981,
+  "size": 14754,
+  "stargazers_count": 1990,
+  "watchers_count": 1990,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 395,
+  "open_issues_count": 393,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -102,8 +102,8 @@
   ],
   "visibility": "public",
   "forks": 120,
-  "open_issues": 395,
-  "watchers": 1981,
+  "open_issues": 393,
+  "watchers": 1990,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 43
+  "_index": 44
 }
