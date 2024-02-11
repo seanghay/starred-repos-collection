@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/facebookresearch/llama-recipes/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookresearch/llama-recipes/deployments",
   "created_at": "2023-07-17T07:33:48Z",
-  "updated_at": "2024-02-10T00:12:29Z",
+  "updated_at": "2024-02-11T00:49:09Z",
   "pushed_at": "2024-02-09T07:47:00Z",
   "git_url": "git://github.com/facebookresearch/llama-recipes.git",
   "ssh_url": "git@github.com:facebookresearch/llama-recipes.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/facebookresearch/llama-recipes",
   "homepage": "",
   "size": 17726,
-  "stargazers_count": 7416,
-  "watchers_count": 7416,
+  "stargazers_count": 7420,
+  "watchers_count": 7420,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1056,
+  "forks_count": 1055,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,9 +110,9 @@
     "vllm"
   ],
   "visibility": "public",
-  "forks": 1056,
+  "forks": 1055,
   "open_issues": 127,
-  "watchers": 7416,
+  "watchers": 7420,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 551
+  "_index": 554
 }

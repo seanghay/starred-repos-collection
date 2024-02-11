@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/chalk/chalk/releases{/id}",
   "deployments_url": "https://api.github.com/repos/chalk/chalk/deployments",
   "created_at": "2013-08-03T00:20:12Z",
-  "updated_at": "2024-02-09T14:29:24Z",
+  "updated_at": "2024-02-11T00:41:39Z",
   "pushed_at": "2024-01-19T14:36:11Z",
   "git_url": "git://github.com/chalk/chalk.git",
   "ssh_url": "git@github.com:chalk/chalk.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 3,
+  "open_issues_count": 4,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,7 +112,7 @@
   ],
   "visibility": "public",
   "forks": 889,
-  "open_issues": 3,
+  "open_issues": 4,
   "watchers": 21175,
   "default_branch": "main",
   "permissions": {
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1233
+  "_index": 1236
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tiny-craft/tiny-rdm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tiny-craft/tiny-rdm/deployments",
   "created_at": "2023-06-27T07:06:25Z",
-  "updated_at": "2024-02-10T00:57:28Z",
+  "updated_at": "2024-02-10T22:51:34Z",
   "pushed_at": "2024-02-09T08:24:52Z",
   "git_url": "git://github.com/tiny-craft/tiny-rdm.git",
   "ssh_url": "git@github.com:tiny-craft/tiny-rdm.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/tiny-craft/tiny-rdm",
   "homepage": "https://redis.tinycraft.cc/",
   "size": 13658,
-  "stargazers_count": 4822,
-  "watchers_count": 4822,
+  "stargazers_count": 4831,
+  "watchers_count": 4831,
   "language": "Vue",
   "has_issues": true,
   "has_projects": true,
@@ -115,7 +115,7 @@
   "visibility": "public",
   "forks": 184,
   "open_issues": 43,
-  "watchers": 4822,
+  "watchers": 4831,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 26
+  "_index": 29
 }

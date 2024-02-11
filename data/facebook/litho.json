@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/facebook/litho.git",
   "svn_url": "https://github.com/facebook/litho",
   "homepage": "https://fblitho.com",
-  "size": 734973,
+  "size": 735003,
   "stargazers_count": 7633,
   "watchers_count": 7633,
   "language": "Java",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3424
+  "_index": 3427
 }

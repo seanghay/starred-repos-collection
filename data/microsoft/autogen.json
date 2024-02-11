@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/microsoft/autogen/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microsoft/autogen/deployments",
   "created_at": "2023-08-18T11:43:45Z",
-  "updated_at": "2024-02-10T01:38:10Z",
-  "pushed_at": "2024-02-10T00:31:12Z",
+  "updated_at": "2024-02-10T23:17:29Z",
+  "pushed_at": "2024-02-10T21:26:26Z",
   "git_url": "git://github.com/microsoft/autogen.git",
   "ssh_url": "git@github.com:microsoft/autogen.git",
   "clone_url": "https://github.com/microsoft/autogen.git",
   "svn_url": "https://github.com/microsoft/autogen",
   "homepage": "https://microsoft.github.io/autogen/",
-  "size": 249034,
-  "stargazers_count": 21651,
-  "watchers_count": 21651,
+  "size": 250628,
+  "stargazers_count": 21680,
+  "watchers_count": 21680,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 2893,
+  "forks_count": 2900,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 493,
+  "open_issues_count": 495,
   "license": {
     "key": "cc-by-4.0",
     "name": "Creative Commons Attribution 4.0 International",
@@ -113,9 +113,9 @@
     "llmops"
   ],
   "visibility": "public",
-  "forks": 2893,
-  "open_issues": 493,
-  "watchers": 21651,
+  "forks": 2900,
+  "open_issues": 495,
+  "watchers": 21680,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 370
+  "_index": 373
 }

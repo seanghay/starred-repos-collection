@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/remorses/genql/releases{/id}",
   "deployments_url": "https://api.github.com/repos/remorses/genql/deployments",
   "created_at": "2020-05-14T20:39:29Z",
-  "updated_at": "2024-02-09T19:36:30Z",
+  "updated_at": "2024-02-10T15:32:13Z",
   "pushed_at": "2024-02-05T11:59:29Z",
   "git_url": "git://github.com/remorses/genql.git",
   "ssh_url": "git@github.com:remorses/genql.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/remorses/genql",
   "homepage": "https://genql.dev",
   "size": 9402,
-  "stargazers_count": 772,
-  "watchers_count": 772,
+  "stargazers_count": 773,
+  "watchers_count": 773,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 29,
   "open_issues": 16,
-  "watchers": 772,
+  "watchers": 773,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2049
+  "_index": 2052
 }

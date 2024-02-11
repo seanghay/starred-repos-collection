@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/romainguy/kotlin-explorer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/romainguy/kotlin-explorer/deployments",
   "created_at": "2023-08-12T00:14:26Z",
-  "updated_at": "2024-02-09T21:25:25Z",
+  "updated_at": "2024-02-10T19:57:18Z",
   "pushed_at": "2024-02-08T02:39:52Z",
   "git_url": "git://github.com/romainguy/kotlin-explorer.git",
   "ssh_url": "git@github.com:romainguy/kotlin-explorer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/romainguy/kotlin-explorer",
   "homepage": "",
   "size": 12545,
-  "stargazers_count": 492,
-  "watchers_count": 492,
+  "stargazers_count": 496,
+  "watchers_count": 496,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 13,
   "open_issues": 3,
-  "watchers": 492,
+  "watchers": 496,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 6
+  "_index": 9
 }
