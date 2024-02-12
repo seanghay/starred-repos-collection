@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/adelacvg/ttts/deployments",
   "created_at": "2023-10-24T15:04:51Z",
   "updated_at": "2024-02-02T09:02:17Z",
-  "pushed_at": "2024-01-29T18:07:32Z",
+  "pushed_at": "2024-02-11T07:41:40Z",
   "git_url": "git://github.com/adelacvg/ttts.git",
   "ssh_url": "git@github.com:adelacvg/ttts.git",
   "clone_url": "https://github.com/adelacvg/ttts.git",
   "svn_url": "https://github.com/adelacvg/ttts",
   "homepage": "",
-  "size": 63577,
+  "size": 62647,
   "stargazers_count": 101,
   "watchers_count": 101,
   "language": "Python",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 241
+  "_index": 243
 }

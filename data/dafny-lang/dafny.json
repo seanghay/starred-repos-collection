@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/dafny-lang/dafny/deployments",
   "created_at": "2016-04-16T20:05:38Z",
   "updated_at": "2024-02-09T18:13:51Z",
-  "pushed_at": "2024-02-11T00:25:56Z",
+  "pushed_at": "2024-02-11T16:32:24Z",
   "git_url": "git://github.com/dafny-lang/dafny.git",
   "ssh_url": "git@github.com:dafny-lang/dafny.git",
   "clone_url": "https://github.com/dafny-lang/dafny.git",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3358
+  "_index": 3360
 }

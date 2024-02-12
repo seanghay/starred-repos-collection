@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/resemble-ai/resemble-enhance/releases{/id}",
   "deployments_url": "https://api.github.com/repos/resemble-ai/resemble-enhance/deployments",
   "created_at": "2023-11-15T08:15:51Z",
-  "updated_at": "2024-02-10T19:07:53Z",
+  "updated_at": "2024-02-11T03:51:49Z",
   "pushed_at": "2024-02-05T08:54:35Z",
   "git_url": "git://github.com/resemble-ai/resemble-enhance.git",
   "ssh_url": "git@github.com:resemble-ai/resemble-enhance.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/resemble-ai/resemble-enhance",
   "homepage": "https://huggingface.co/spaces/ResembleAI/resemble-enhance",
   "size": 36,
-  "stargazers_count": 679,
-  "watchers_count": 679,
+  "stargazers_count": 680,
+  "watchers_count": 680,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 60,
   "open_issues": 13,
-  "watchers": 679,
+  "watchers": 680,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 215
+  "_index": 217
 }

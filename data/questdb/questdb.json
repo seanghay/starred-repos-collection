@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/questdb/questdb/deployments",
   "created_at": "2014-04-28T23:29:15Z",
   "updated_at": "2024-02-10T01:07:59Z",
-  "pushed_at": "2024-02-10T17:48:16Z",
+  "pushed_at": "2024-02-11T08:04:31Z",
   "git_url": "git://github.com/questdb/questdb.git",
   "ssh_url": "git@github.com:questdb/questdb.git",
   "clone_url": "https://github.com/questdb/questdb.git",
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1703
+  "_index": 1705
 }
