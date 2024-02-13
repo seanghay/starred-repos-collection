@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/directus/directus/releases{/id}",
   "deployments_url": "https://api.github.com/repos/directus/directus/deployments",
   "created_at": "2012-12-12T01:35:36Z",
-  "updated_at": "2024-02-11T23:53:25Z",
-  "pushed_at": "2024-02-12T00:59:26Z",
+  "updated_at": "2024-02-13T00:17:32Z",
+  "pushed_at": "2024-02-13T00:23:02Z",
   "git_url": "git://github.com/directus/directus.git",
   "ssh_url": "git@github.com:directus/directus.git",
   "clone_url": "https://github.com/directus/directus.git",
   "svn_url": "https://github.com/directus/directus",
   "homepage": "https://directus.io",
-  "size": 386623,
-  "stargazers_count": 24679,
-  "watchers_count": 24679,
+  "size": 387563,
+  "stargazers_count": 24686,
+  "watchers_count": 24686,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 3475,
+  "forks_count": 3474,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 451,
+  "open_issues_count": 455,
   "license": {
     "key": "other",
     "name": "Other",
@@ -120,9 +120,9 @@
     "vue"
   ],
   "visibility": "public",
-  "forks": 3475,
-  "open_issues": 451,
-  "watchers": 24679,
+  "forks": 3474,
+  "open_issues": 455,
+  "watchers": 24686,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1411
+  "_index": 1419
 }

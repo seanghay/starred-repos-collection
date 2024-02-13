@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/facebookincubator/AITemplate/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookincubator/AITemplate/deployments",
   "created_at": "2022-07-15T15:40:58Z",
-  "updated_at": "2024-02-11T03:40:05Z",
-  "pushed_at": "2024-01-31T20:16:46Z",
+  "updated_at": "2024-02-12T11:17:40Z",
+  "pushed_at": "2024-02-12T22:44:11Z",
   "git_url": "git://github.com/facebookincubator/AITemplate.git",
   "ssh_url": "git@github.com:facebookincubator/AITemplate.git",
   "clone_url": "https://github.com/facebookincubator/AITemplate.git",
   "svn_url": "https://github.com/facebookincubator/AITemplate",
   "homepage": "",
   "size": 4934,
-  "stargazers_count": 4389,
-  "watchers_count": 4389,
+  "stargazers_count": 4390,
+  "watchers_count": 4390,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 140,
+  "open_issues_count": 141,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 357,
-  "open_issues": 140,
-  "watchers": 4389,
+  "open_issues": 141,
+  "watchers": 4390,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 762
+  "_index": 770
 }

@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/DongKeon/Awesome-Speaker-Diarization/deployments",
   "created_at": "2023-05-24T02:17:15Z",
   "updated_at": "2024-02-11T11:20:56Z",
-  "pushed_at": "2024-02-07T01:17:20Z",
+  "pushed_at": "2024-02-13T01:25:38Z",
   "git_url": "git://github.com/DongKeon/Awesome-Speaker-Diarization.git",
   "ssh_url": "git@github.com:DongKeon/Awesome-Speaker-Diarization.git",
   "clone_url": "https://github.com/DongKeon/Awesome-Speaker-Diarization.git",
@@ -108,5 +108,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 68
+  "_index": 76
 }

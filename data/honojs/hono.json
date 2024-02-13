@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/honojs/hono/releases{/id}",
   "deployments_url": "https://api.github.com/repos/honojs/hono/deployments",
   "created_at": "2021-12-14T20:05:30Z",
-  "updated_at": "2024-02-12T00:28:00Z",
-  "pushed_at": "2024-02-12T01:23:55Z",
+  "updated_at": "2024-02-13T01:38:08Z",
+  "pushed_at": "2024-02-12T04:24:36Z",
   "git_url": "git://github.com/honojs/hono.git",
   "ssh_url": "git@github.com:honojs/hono.git",
   "clone_url": "https://github.com/honojs/hono.git",
   "svn_url": "https://github.com/honojs/hono",
   "homepage": "https://hono.dev",
-  "size": 5127,
-  "stargazers_count": 11444,
-  "watchers_count": 11444,
+  "size": 5135,
+  "stargazers_count": 11518,
+  "watchers_count": 11518,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 307,
+  "forks_count": 308,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 153,
+  "open_issues_count": 154,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,9 +109,9 @@
     "web-framework"
   ],
   "visibility": "public",
-  "forks": 307,
-  "open_issues": 153,
-  "watchers": 11444,
+  "forks": 308,
+  "open_issues": 154,
+  "watchers": 11518,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1397
+  "_index": 1405
 }

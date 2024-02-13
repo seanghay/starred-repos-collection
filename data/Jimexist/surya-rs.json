@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Jimexist/surya-rs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Jimexist/surya-rs/deployments",
   "created_at": "2024-01-25T02:50:57Z",
-  "updated_at": "2024-02-09T22:25:56Z",
+  "updated_at": "2024-02-12T23:58:15Z",
   "pushed_at": "2024-02-02T15:43:34Z",
   "git_url": "git://github.com/Jimexist/surya-rs.git",
   "ssh_url": "git@github.com:Jimexist/surya-rs.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Jimexist/surya-rs",
   "homepage": "",
   "size": 56,
-  "stargazers_count": 6,
-  "watchers_count": 6,
+  "stargazers_count": 7,
+  "watchers_count": 7,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 1,
   "open_issues": 0,
-  "watchers": 6,
+  "watchers": 7,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 66
+  "_index": 74
 }

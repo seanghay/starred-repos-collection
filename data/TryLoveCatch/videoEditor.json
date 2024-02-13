@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/TryLoveCatch/videoEditor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/TryLoveCatch/videoEditor/deployments",
   "created_at": "2017-07-05T03:31:12Z",
-  "updated_at": "2023-05-25T08:16:30Z",
+  "updated_at": "2024-02-12T05:59:48Z",
   "pushed_at": "2017-07-11T06:01:39Z",
   "git_url": "git://github.com/TryLoveCatch/videoEditor.git",
   "ssh_url": "git@github.com:TryLoveCatch/videoEditor.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/TryLoveCatch/videoEditor",
   "homepage": null,
   "size": 5115,
-  "stargazers_count": 26,
-  "watchers_count": 26,
+  "stargazers_count": 27,
+  "watchers_count": 27,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 13,
   "open_issues": 0,
-  "watchers": 26,
+  "watchers": 27,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3213
+  "_index": 3221
 }

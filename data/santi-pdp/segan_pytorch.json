@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/santi-pdp/segan_pytorch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/santi-pdp/segan_pytorch/deployments",
   "created_at": "2018-02-13T16:46:36Z",
-  "updated_at": "2024-02-07T01:02:42Z",
+  "updated_at": "2024-02-12T10:53:57Z",
   "pushed_at": "2023-08-16T00:14:13Z",
   "git_url": "git://github.com/santi-pdp/segan_pytorch.git",
   "ssh_url": "git@github.com:santi-pdp/segan_pytorch.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/santi-pdp/segan_pytorch",
   "homepage": "",
   "size": 566,
-  "stargazers_count": 369,
-  "watchers_count": 369,
+  "stargazers_count": 370,
+  "watchers_count": 370,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 110,
   "open_issues": 29,
-  "watchers": 369,
+  "watchers": 370,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 707
+  "_index": 715
 }

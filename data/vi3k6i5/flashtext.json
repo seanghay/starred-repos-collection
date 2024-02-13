@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/vi3k6i5/flashtext/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vi3k6i5/flashtext/deployments",
   "created_at": "2017-08-15T18:03:01Z",
-  "updated_at": "2024-02-11T19:17:47Z",
+  "updated_at": "2024-02-12T19:38:34Z",
   "pushed_at": "2023-10-23T02:26:28Z",
   "git_url": "git://github.com/vi3k6i5/flashtext.git",
   "ssh_url": "git@github.com:vi3k6i5/flashtext.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/vi3k6i5/flashtext",
   "homepage": null,
   "size": 447,
-  "stargazers_count": 5503,
-  "watchers_count": 5503,
+  "stargazers_count": 5506,
+  "watchers_count": 5506,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 608,
   "open_issues": 70,
-  "watchers": 5503,
+  "watchers": 5506,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 188
+  "_index": 196
 }
