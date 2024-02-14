@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tdlib/telegram-bot-api/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tdlib/telegram-bot-api/deployments",
   "created_at": "2020-11-04T14:03:23Z",
-  "updated_at": "2024-02-12T19:03:27Z",
+  "updated_at": "2024-02-13T11:19:44Z",
   "pushed_at": "2024-01-18T05:47:46Z",
   "git_url": "git://github.com/tdlib/telegram-bot-api.git",
   "ssh_url": "git@github.com:tdlib/telegram-bot-api.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/tdlib/telegram-bot-api",
   "homepage": "https://core.telegram.org/bots",
   "size": 490,
-  "stargazers_count": 2650,
-  "watchers_count": 2650,
+  "stargazers_count": 2652,
+  "watchers_count": 2652,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 17,
+  "open_issues_count": 18,
   "license": {
     "key": "bsl-1.0",
     "name": "Boost Software License 1.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 549,
-  "open_issues": 17,
-  "watchers": 2650,
+  "open_issues": 18,
+  "watchers": 2652,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 38
+  "_index": 42
 }

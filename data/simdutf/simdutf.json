@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/simdutf/simdutf/releases{/id}",
   "deployments_url": "https://api.github.com/repos/simdutf/simdutf/deployments",
   "created_at": "2021-02-04T01:01:56Z",
-  "updated_at": "2024-02-13T00:22:25Z",
+  "updated_at": "2024-02-13T11:08:09Z",
   "pushed_at": "2024-02-12T16:14:30Z",
   "git_url": "git://github.com/simdutf/simdutf.git",
   "ssh_url": "git@github.com:simdutf/simdutf.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/simdutf/simdutf",
   "homepage": "https://simdutf.github.io/simdutf/",
   "size": 4504,
-  "stargazers_count": 878,
-  "watchers_count": 878,
+  "stargazers_count": 879,
+  "watchers_count": 879,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 58,
   "open_issues": 24,
-  "watchers": 878,
+  "watchers": 879,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 320
+  "_index": 324
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/motion-canvas/motion-canvas/releases{/id}",
   "deployments_url": "https://api.github.com/repos/motion-canvas/motion-canvas/deployments",
   "created_at": "2022-08-03T16:30:14Z",
-  "updated_at": "2024-02-12T20:44:19Z",
-  "pushed_at": "2024-02-11T00:13:41Z",
+  "updated_at": "2024-02-14T01:20:41Z",
+  "pushed_at": "2024-02-13T19:59:12Z",
   "git_url": "git://github.com/motion-canvas/motion-canvas.git",
   "ssh_url": "git@github.com:motion-canvas/motion-canvas.git",
   "clone_url": "https://github.com/motion-canvas/motion-canvas.git",
   "svn_url": "https://github.com/motion-canvas/motion-canvas",
   "homepage": "https://motioncanvas.io",
-  "size": 7534,
-  "stargazers_count": 14625,
-  "watchers_count": 14625,
+  "size": 7535,
+  "stargazers_count": 14634,
+  "watchers_count": 14634,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 567,
+  "forks_count": 568,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 77,
+  "open_issues_count": 79,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,9 +103,9 @@
     "visualization"
   ],
   "visibility": "public",
-  "forks": 567,
-  "open_issues": 77,
-  "watchers": 14625,
+  "forks": 568,
+  "open_issues": 79,
+  "watchers": 14634,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 174
+  "_index": 178
 }

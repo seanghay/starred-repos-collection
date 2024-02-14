@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/DongKeon/Awesome-Speaker-Diarization.git",
   "svn_url": "https://github.com/DongKeon/Awesome-Speaker-Diarization",
   "homepage": "",
-  "size": 204,
+  "size": 221,
   "stargazers_count": 95,
   "watchers_count": 95,
   "language": null,
@@ -108,5 +108,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 76
+  "_index": 80
 }

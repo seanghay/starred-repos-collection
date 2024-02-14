@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/kizitonwose/Calendar/deployments",
   "created_at": "2019-04-20T14:43:36Z",
   "updated_at": "2024-02-12T20:05:12Z",
-  "pushed_at": "2024-02-11T16:40:34Z",
+  "pushed_at": "2024-02-13T10:04:22Z",
   "git_url": "git://github.com/kizitonwose/Calendar.git",
   "ssh_url": "git@github.com:kizitonwose/Calendar.git",
   "clone_url": "https://github.com/kizitonwose/Calendar.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 13,
+  "open_issues_count": 12,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -118,7 +118,7 @@
   ],
   "visibility": "public",
   "forks": 486,
-  "open_issues": 13,
+  "open_issues": 12,
   "watchers": 4235,
   "default_branch": "main",
   "permissions": {
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3048
+  "_index": 3052
 }

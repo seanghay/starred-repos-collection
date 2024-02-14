@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/then/then-request/releases{/id}",
   "deployments_url": "https://api.github.com/repos/then/then-request/deployments",
   "created_at": "2014-02-09T11:50:03Z",
-  "updated_at": "2024-01-26T13:53:10Z",
+  "updated_at": "2024-02-13T15:41:42Z",
   "pushed_at": "2024-01-26T14:25:06Z",
   "git_url": "git://github.com/then/then-request.git",
   "ssh_url": "git@github.com:then/then-request.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/then/then-request",
   "homepage": null,
   "size": 109,
-  "stargazers_count": 245,
-  "watchers_count": 245,
+  "stargazers_count": 244,
+  "watchers_count": 244,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 19,
   "open_issues": 11,
-  "watchers": 245,
+  "watchers": 244,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1096
+  "_index": 1100
 }

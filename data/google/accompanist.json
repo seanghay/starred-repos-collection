@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/google/accompanist/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/accompanist/deployments",
   "created_at": "2020-05-05T07:48:10Z",
-  "updated_at": "2024-02-12T18:21:26Z",
-  "pushed_at": "2024-02-07T19:17:09Z",
+  "updated_at": "2024-02-13T18:50:31Z",
+  "pushed_at": "2024-02-13T08:57:57Z",
   "git_url": "git://github.com/google/accompanist.git",
   "ssh_url": "git@github.com:google/accompanist.git",
   "clone_url": "https://github.com/google/accompanist.git",
   "svn_url": "https://github.com/google/accompanist",
   "homepage": "https://google.github.io/accompanist",
   "size": 55373,
-  "stargazers_count": 7091,
-  "watchers_count": 7091,
+  "stargazers_count": 7093,
+  "watchers_count": 7093,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 572,
+  "forks_count": 573,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 22,
+  "open_issues_count": 23,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -102,9 +102,9 @@
     "jetpack-compose"
   ],
   "visibility": "public",
-  "forks": 572,
-  "open_issues": 22,
-  "watchers": 7091,
+  "forks": 573,
+  "open_issues": 23,
+  "watchers": 7093,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1935
+  "_index": 1939
 }

@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/jxmorris12/vec2text.git",
   "svn_url": "https://github.com/jxmorris12/vec2text",
   "homepage": "",
-  "size": 7271,
+  "size": 7277,
   "stargazers_count": 450,
   "watchers_count": 450,
   "language": "Python",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 4,
+  "open_issues_count": 3,
   "license": {
     "key": "other",
     "name": "Other",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 46,
-  "open_issues": 4,
+  "open_issues": 3,
   "watchers": 450,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 330
+  "_index": 334
 }

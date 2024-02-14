@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/remy/nodemon/releases{/id}",
   "deployments_url": "https://api.github.com/repos/remy/nodemon/deployments",
   "created_at": "2010-10-03T12:50:52Z",
-  "updated_at": "2024-02-12T22:19:00Z",
+  "updated_at": "2024-02-13T22:15:58Z",
   "pushed_at": "2024-02-07T09:35:57Z",
   "git_url": "git://github.com/remy/nodemon.git",
   "ssh_url": "git@github.com:remy/nodemon.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/remy/nodemon",
   "homepage": "http://nodemon.io/",
   "size": 2635,
-  "stargazers_count": 25861,
-  "watchers_count": 25861,
+  "stargazers_count": 25862,
+  "watchers_count": 25862,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1761,
+  "forks_count": 1760,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "watch"
   ],
   "visibility": "public",
-  "forks": 1761,
+  "forks": 1760,
   "open_issues": 13,
-  "watchers": 25861,
+  "watchers": 25862,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3420
+  "_index": 3424
 }

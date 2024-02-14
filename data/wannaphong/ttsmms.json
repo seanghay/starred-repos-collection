@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wannaphong/ttsmms/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wannaphong/ttsmms/deployments",
   "created_at": "2023-05-23T05:14:12Z",
-  "updated_at": "2024-02-01T22:11:02Z",
+  "updated_at": "2024-02-13T06:29:59Z",
   "pushed_at": "2023-05-30T14:51:00Z",
   "git_url": "git://github.com/wannaphong/ttsmms.git",
   "ssh_url": "git@github.com:wannaphong/ttsmms.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wannaphong/ttsmms",
   "homepage": "",
   "size": 3438,
-  "stargazers_count": 206,
-  "watchers_count": 206,
+  "stargazers_count": 207,
+  "watchers_count": 207,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 34,
   "open_issues": 6,
-  "watchers": 206,
+  "watchers": 207,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 798
+  "_index": 802
 }

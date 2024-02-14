@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yoyo-nb/Thin-Plate-Spline-Motion-Model/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yoyo-nb/Thin-Plate-Spline-Motion-Model/deployments",
   "created_at": "2021-11-24T16:10:46Z",
-  "updated_at": "2024-02-12T13:35:27Z",
+  "updated_at": "2024-02-13T17:12:19Z",
   "pushed_at": "2024-02-10T23:29:11Z",
   "git_url": "git://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model.git",
   "ssh_url": "git@github.com:yoyo-nb/Thin-Plate-Spline-Motion-Model.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model",
   "homepage": "",
   "size": 33138,
-  "stargazers_count": 3164,
-  "watchers_count": 3164,
+  "stargazers_count": 3165,
+  "watchers_count": 3165,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 523,
   "open_issues": 81,
-  "watchers": 3164,
+  "watchers": 3165,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 27
+  "_index": 31
 }

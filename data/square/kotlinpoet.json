@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/square/kotlinpoet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/square/kotlinpoet/deployments",
   "created_at": "2017-03-01T04:59:42Z",
-  "updated_at": "2024-02-12T14:36:21Z",
-  "pushed_at": "2024-02-12T14:29:20Z",
+  "updated_at": "2024-02-13T18:12:40Z",
+  "pushed_at": "2024-02-13T10:00:36Z",
   "git_url": "git://github.com/square/kotlinpoet.git",
   "ssh_url": "git@github.com:square/kotlinpoet.git",
   "clone_url": "https://github.com/square/kotlinpoet.git",
   "svn_url": "https://github.com/square/kotlinpoet",
   "homepage": "https://square.github.io/kotlinpoet/",
   "size": 6247,
-  "stargazers_count": 3743,
-  "watchers_count": 3743,
+  "stargazers_count": 3744,
+  "watchers_count": 3744,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 279,
+  "forks_count": 280,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,9 +103,9 @@
     "kotlin"
   ],
   "visibility": "public",
-  "forks": 279,
+  "forks": 280,
   "open_issues": 66,
-  "watchers": 3743,
+  "watchers": 3744,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3354
+  "_index": 3358
 }

@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 244,
+  "open_issues_count": 245,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -118,7 +118,7 @@
   ],
   "visibility": "public",
   "forks": 1041,
-  "open_issues": 244,
+  "open_issues": 245,
   "watchers": 4510,
   "default_branch": "tengine-lite",
   "permissions": {
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 257
+  "_index": 261
 }

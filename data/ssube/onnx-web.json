@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/ssube/onnx-web/deployments",
   "created_at": "2023-01-05T16:41:20Z",
   "updated_at": "2024-02-11T01:50:32Z",
-  "pushed_at": "2024-02-12T21:14:56Z",
+  "pushed_at": "2024-02-13T21:19:50Z",
   "git_url": "git://github.com/ssube/onnx-web.git",
   "ssh_url": "git@github.com:ssube/onnx-web.git",
   "clone_url": "https://github.com/ssube/onnx-web.git",
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 166
+  "_index": 170
 }

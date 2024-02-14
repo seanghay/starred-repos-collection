@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ali-vilab/dreamtalk/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ali-vilab/dreamtalk/deployments",
   "created_at": "2023-12-28T05:39:31Z",
-  "updated_at": "2024-02-12T04:58:00Z",
+  "updated_at": "2024-02-14T00:29:48Z",
   "pushed_at": "2024-01-15T19:11:17Z",
   "git_url": "git://github.com/ali-vilab/dreamtalk.git",
   "ssh_url": "git@github.com:ali-vilab/dreamtalk.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ali-vilab/dreamtalk",
   "homepage": "https://dreamtalk-project.github.io/",
   "size": 33164,
-  "stargazers_count": 958,
-  "watchers_count": 958,
+  "stargazers_count": 962,
+  "watchers_count": 962,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 107,
+  "forks_count": 108,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "video-generation"
   ],
   "visibility": "public",
-  "forks": 107,
+  "forks": 108,
   "open_issues": 23,
-  "watchers": 958,
+  "watchers": 962,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 30
+  "_index": 34
 }
