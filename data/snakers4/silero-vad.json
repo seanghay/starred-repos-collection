@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/snakers4/silero-vad/releases{/id}",
   "deployments_url": "https://api.github.com/repos/snakers4/silero-vad/deployments",
   "created_at": "2020-11-23T09:54:16Z",
-  "updated_at": "2024-02-13T23:35:49Z",
-  "pushed_at": "2024-01-22T06:15:44Z",
+  "updated_at": "2024-02-14T10:39:22Z",
+  "pushed_at": "2024-02-14T22:14:48Z",
   "git_url": "git://github.com/snakers4/silero-vad.git",
   "ssh_url": "git@github.com:snakers4/silero-vad.git",
   "clone_url": "https://github.com/snakers4/silero-vad.git",
   "svn_url": "https://github.com/snakers4/silero-vad",
   "homepage": "",
   "size": 91763,
-  "stargazers_count": 2474,
-  "watchers_count": 2474,
+  "stargazers_count": 2475,
+  "watchers_count": 2475,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 281,
+  "forks_count": 282,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 13,
+  "open_issues_count": 14,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,9 +107,9 @@
     "voice-recognition"
   ],
   "visibility": "public",
-  "forks": 281,
-  "open_issues": 13,
-  "watchers": 2474,
+  "forks": 282,
+  "open_issues": 14,
+  "watchers": 2475,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 784
+  "_index": 788
 }

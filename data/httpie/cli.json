@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/httpie/cli/releases{/id}",
   "deployments_url": "https://api.github.com/repos/httpie/cli/deployments",
   "created_at": "2012-02-25T12:39:13Z",
-  "updated_at": "2024-02-13T21:09:35Z",
+  "updated_at": "2024-02-15T01:02:56Z",
   "pushed_at": "2024-02-08T08:15:26Z",
   "git_url": "git://github.com/httpie/cli.git",
   "ssh_url": "git@github.com:httpie/cli.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/httpie/cli",
   "homepage": "https://httpie.io",
   "size": 6906,
-  "stargazers_count": 31100,
-  "watchers_count": 31100,
+  "stargazers_count": 31112,
+  "watchers_count": 31112,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 180,
+  "open_issues_count": 185,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -121,8 +121,8 @@
   ],
   "visibility": "public",
   "forks": 3858,
-  "open_issues": 180,
-  "watchers": 31100,
+  "open_issues": 185,
+  "watchers": 31112,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1536
+  "_index": 1540
 }

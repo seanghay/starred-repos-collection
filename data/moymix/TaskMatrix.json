@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/moymix/TaskMatrix/releases{/id}",
   "deployments_url": "https://api.github.com/repos/moymix/TaskMatrix/deployments",
   "created_at": "2023-03-02T09:04:28Z",
-  "updated_at": "2024-02-13T18:03:24Z",
+  "updated_at": "2024-02-15T01:15:50Z",
   "pushed_at": "2024-01-06T02:41:20Z",
   "git_url": "git://github.com/moymix/TaskMatrix.git",
   "ssh_url": "git@github.com:moymix/TaskMatrix.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/moymix/TaskMatrix",
   "homepage": "",
   "size": 41169,
-  "stargazers_count": 34444,
-  "watchers_count": 34444,
+  "stargazers_count": 34441,
+  "watchers_count": 34441,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 3407,
   "open_issues": 251,
-  "watchers": 34444,
+  "watchers": 34441,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 977
+  "_index": 981
 }

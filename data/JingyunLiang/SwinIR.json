@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/JingyunLiang/SwinIR/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JingyunLiang/SwinIR/deployments",
   "created_at": "2021-08-16T11:50:30Z",
-  "updated_at": "2024-02-13T17:47:26Z",
+  "updated_at": "2024-02-14T16:36:20Z",
   "pushed_at": "2023-04-27T20:52:27Z",
   "git_url": "git://github.com/JingyunLiang/SwinIR.git",
   "ssh_url": "git@github.com:JingyunLiang/SwinIR.git",
@@ -127,5 +127,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 956
+  "_index": 960
 }

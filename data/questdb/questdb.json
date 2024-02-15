@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/questdb/questdb/releases{/id}",
   "deployments_url": "https://api.github.com/repos/questdb/questdb/deployments",
   "created_at": "2014-04-28T23:29:15Z",
-  "updated_at": "2024-02-13T20:01:36Z",
-  "pushed_at": "2024-02-13T23:06:54Z",
+  "updated_at": "2024-02-14T21:10:10Z",
+  "pushed_at": "2024-02-14T22:24:21Z",
   "git_url": "git://github.com/questdb/questdb.git",
   "ssh_url": "git@github.com:questdb/questdb.git",
   "clone_url": "https://github.com/questdb/questdb.git",
   "svn_url": "https://github.com/questdb/questdb",
   "homepage": "https://questdb.io",
-  "size": 468046,
-  "stargazers_count": 13225,
-  "watchers_count": 13225,
+  "size": 473101,
+  "stargazers_count": 13228,
+  "watchers_count": 13228,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1044,
+  "forks_count": 1045,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 461,
+  "open_issues_count": 459,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -118,9 +118,9 @@
     "tsdb"
   ],
   "visibility": "public",
-  "forks": 1044,
-  "open_issues": 461,
-  "watchers": 13225,
+  "forks": 1045,
+  "open_issues": 459,
+  "watchers": 13228,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1717
+  "_index": 1721
 }

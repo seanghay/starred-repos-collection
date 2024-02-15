@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fh2019ustc/DocTr/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fh2019ustc/DocTr/deployments",
   "created_at": "2021-10-08T09:27:44Z",
-  "updated_at": "2024-01-25T17:43:50Z",
+  "updated_at": "2024-02-14T05:28:54Z",
   "pushed_at": "2024-01-15T09:07:42Z",
   "git_url": "git://github.com/fh2019ustc/DocTr.git",
   "ssh_url": "git@github.com:fh2019ustc/DocTr.git",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 232
+  "_index": 236
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/WebReflection/uhtml/releases{/id}",
   "deployments_url": "https://api.github.com/repos/WebReflection/uhtml/deployments",
   "created_at": "2020-02-15T17:45:33Z",
-  "updated_at": "2024-02-13T12:18:06Z",
-  "pushed_at": "2024-02-12T10:20:08Z",
+  "updated_at": "2024-02-14T17:40:19Z",
+  "pushed_at": "2024-02-14T08:36:18Z",
   "git_url": "git://github.com/WebReflection/uhtml.git",
   "ssh_url": "git@github.com:WebReflection/uhtml.git",
   "clone_url": "https://github.com/WebReflection/uhtml.git",
   "svn_url": "https://github.com/WebReflection/uhtml",
   "homepage": null,
-  "size": 1324,
-  "stargazers_count": 805,
-  "watchers_count": 805,
+  "size": 1327,
+  "stargazers_count": 806,
+  "watchers_count": 806,
   "language": "HTML",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2,
+  "open_issues_count": 1,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 33,
-  "open_issues": 2,
-  "watchers": 805,
+  "open_issues": 1,
+  "watchers": 806,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1403
+  "_index": 1407
 }

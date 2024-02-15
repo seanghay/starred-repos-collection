@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/githubharald/CTCWordBeamSearch/deployments",
   "created_at": "2018-03-01T09:58:56Z",
   "updated_at": "2024-02-13T17:28:27Z",
-  "pushed_at": "2023-01-27T08:56:23Z",
+  "pushed_at": "2024-02-14T14:28:30Z",
   "git_url": "git://github.com/githubharald/CTCWordBeamSearch.git",
   "ssh_url": "git@github.com:githubharald/CTCWordBeamSearch.git",
   "clone_url": "https://github.com/githubharald/CTCWordBeamSearch.git",
   "svn_url": "https://github.com/githubharald/CTCWordBeamSearch",
   "homepage": "https://towardsdatascience.com/b051d28f3d2e",
-  "size": 1862,
+  "size": 1931,
   "stargazers_count": 535,
   "watchers_count": 535,
   "language": "C++",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2,
+  "open_issues_count": 0,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -108,7 +108,7 @@
   ],
   "visibility": "public",
   "forks": 159,
-  "open_issues": 2,
+  "open_issues": 0,
   "watchers": 535,
   "default_branch": "master",
   "permissions": {
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 230
+  "_index": 234
 }

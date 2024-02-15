@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/skydoves/Balloon.git",
   "svn_url": "https://github.com/skydoves/Balloon",
   "homepage": "https://skydoves.github.io/libraries/balloon/html/balloon/com.skydoves.balloon/index.html",
-  "size": 2651,
+  "size": 2652,
   "stargazers_count": 3504,
   "watchers_count": 3504,
   "language": "Kotlin",
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3034
+  "_index": 3038
 }

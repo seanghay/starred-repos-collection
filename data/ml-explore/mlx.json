@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ml-explore/mlx/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ml-explore/mlx/deployments",
   "created_at": "2023-11-28T23:33:45Z",
-  "updated_at": "2024-02-14T00:38:56Z",
-  "pushed_at": "2024-02-14T01:07:07Z",
+  "updated_at": "2024-02-15T01:05:13Z",
+  "pushed_at": "2024-02-15T00:24:28Z",
   "git_url": "git://github.com/ml-explore/mlx.git",
   "ssh_url": "git@github.com:ml-explore/mlx.git",
   "clone_url": "https://github.com/ml-explore/mlx.git",
   "svn_url": "https://github.com/ml-explore/mlx",
   "homepage": null,
-  "size": 8639,
-  "stargazers_count": 12496,
-  "watchers_count": 12496,
+  "size": 8634,
+  "stargazers_count": 12527,
+  "watchers_count": 12527,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 103,
+  "open_issues_count": 99,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 777,
-  "open_issues": 103,
-  "watchers": 12496,
+  "open_issues": 99,
+  "watchers": 12527,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 242
+  "_index": 246
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/krallin/tini/releases{/id}",
   "deployments_url": "https://api.github.com/repos/krallin/tini/deployments",
   "created_at": "2015-02-27T18:13:59Z",
-  "updated_at": "2024-02-13T16:07:49Z",
+  "updated_at": "2024-02-14T22:02:57Z",
   "pushed_at": "2023-02-08T17:43:21Z",
   "git_url": "git://github.com/krallin/tini.git",
   "ssh_url": "git@github.com:krallin/tini.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/krallin/tini",
   "homepage": "",
   "size": 241,
-  "stargazers_count": 9289,
-  "watchers_count": 9289,
+  "stargazers_count": 9291,
+  "watchers_count": 9291,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 463,
   "open_issues": 37,
-  "watchers": 9289,
+  "watchers": 9291,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 33
+  "_index": 37
 }

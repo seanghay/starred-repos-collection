@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/timeplus-io/proton/releases{/id}",
   "deployments_url": "https://api.github.com/repos/timeplus-io/proton/deployments",
   "created_at": "2023-08-14T03:11:43Z",
-  "updated_at": "2024-02-13T22:55:19Z",
-  "pushed_at": "2024-02-13T12:41:41Z",
+  "updated_at": "2024-02-15T01:21:49Z",
+  "pushed_at": "2024-02-14T12:19:42Z",
   "git_url": "git://github.com/timeplus-io/proton.git",
   "ssh_url": "git@github.com:timeplus-io/proton.git",
   "clone_url": "https://github.com/timeplus-io/proton.git",
   "svn_url": "https://github.com/timeplus-io/proton",
   "homepage": "https://timeplus.com",
   "size": 477875,
-  "stargazers_count": 772,
-  "watchers_count": 772,
+  "stargazers_count": 774,
+  "watchers_count": 774,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 112,
+  "open_issues_count": 113,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -116,8 +116,8 @@
   ],
   "visibility": "public",
   "forks": 34,
-  "open_issues": 112,
-  "watchers": 772,
+  "open_issues": 113,
+  "watchers": 774,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 121
+  "_index": 125
 }

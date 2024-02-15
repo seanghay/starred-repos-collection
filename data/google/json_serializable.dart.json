@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/json_serializable.dart/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/json_serializable.dart/deployments",
   "created_at": "2017-07-18T20:48:49Z",
-  "updated_at": "2024-02-13T23:20:13Z",
+  "updated_at": "2024-02-14T15:20:27Z",
   "pushed_at": "2024-02-01T04:11:00Z",
   "git_url": "git://github.com/google/json_serializable.dart.git",
   "ssh_url": "git@github.com:google/json_serializable.dart.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/json_serializable.dart",
   "homepage": "https://pub.dev/packages/json_serializable",
   "size": 2655,
-  "stargazers_count": 1510,
-  "watchers_count": 1510,
+  "stargazers_count": 1511,
+  "watchers_count": 1511,
   "language": "Dart",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 391,
   "open_issues": 117,
-  "watchers": 1510,
+  "watchers": 1511,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1895
+  "_index": 1899
 }

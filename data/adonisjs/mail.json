@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/adonisjs/mail/releases{/id}",
   "deployments_url": "https://api.github.com/repos/adonisjs/mail/deployments",
   "created_at": "2016-02-08T08:33:25Z",
-  "updated_at": "2024-02-09T00:26:40Z",
+  "updated_at": "2024-02-14T06:17:29Z",
   "pushed_at": "2024-02-10T02:58:39Z",
   "git_url": "git://github.com/adonisjs/mail.git",
   "ssh_url": "git@github.com:adonisjs/mail.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/adonisjs/mail",
   "homepage": "",
   "size": 1256,
-  "stargazers_count": 94,
-  "watchers_count": 94,
+  "stargazers_count": 95,
+  "watchers_count": 95,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 31,
   "open_issues": 1,
-  "watchers": 94,
+  "watchers": 95,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1518
+  "_index": 1522
 }

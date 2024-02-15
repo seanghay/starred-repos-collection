@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/google-research/google-research/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google-research/google-research/deployments",
   "created_at": "2018-10-04T18:42:48Z",
-  "updated_at": "2024-02-13T22:03:20Z",
-  "pushed_at": "2024-02-09T21:19:42Z",
+  "updated_at": "2024-02-14T23:28:11Z",
+  "pushed_at": "2024-02-14T20:15:41Z",
   "git_url": "git://github.com/google-research/google-research.git",
   "ssh_url": "git@github.com:google-research/google-research.git",
   "clone_url": "https://github.com/google-research/google-research.git",
   "svn_url": "https://github.com/google-research/google-research",
   "homepage": "https://research.google",
-  "size": 628101,
-  "stargazers_count": 32148,
-  "watchers_count": 32148,
+  "size": 628123,
+  "stargazers_count": 32155,
+  "watchers_count": 32155,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 7804,
+  "forks_count": 7805,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1261,
+  "open_issues_count": 1262,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -103,9 +103,9 @@
     "research"
   ],
   "visibility": "public",
-  "forks": 7804,
-  "open_issues": 1261,
-  "watchers": 32148,
+  "forks": 7805,
+  "open_issues": 1262,
+  "watchers": 32155,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 644
+  "_index": 648
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/schollz/croc/releases{/id}",
   "deployments_url": "https://api.github.com/repos/schollz/croc/deployments",
   "created_at": "2017-10-17T15:20:18Z",
-  "updated_at": "2024-02-13T21:49:08Z",
+  "updated_at": "2024-02-14T18:44:37Z",
   "pushed_at": "2024-02-12T15:08:01Z",
   "git_url": "git://github.com/schollz/croc.git",
   "ssh_url": "git@github.com:schollz/croc.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/schollz/croc",
   "homepage": "https://schollz.com/software/croc6",
   "size": 24600,
-  "stargazers_count": 25742,
-  "watchers_count": 25742,
+  "stargazers_count": 25747,
+  "watchers_count": 25747,
   "language": "Go",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1055,
+  "forks_count": 1056,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "transfer"
   ],
   "visibility": "public",
-  "forks": 1055,
+  "forks": 1056,
   "open_issues": 122,
-  "watchers": 25742,
+  "watchers": 25747,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 398
+  "_index": 402
 }
