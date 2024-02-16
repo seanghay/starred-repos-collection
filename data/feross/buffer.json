@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/feross/buffer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/feross/buffer/deployments",
   "created_at": "2013-11-18T14:16:18Z",
-  "updated_at": "2024-02-12T02:48:59Z",
+  "updated_at": "2024-02-15T19:47:30Z",
   "pushed_at": "2024-02-08T01:09:59Z",
   "git_url": "git://github.com/feross/buffer.git",
   "ssh_url": "git@github.com:feross/buffer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/feross/buffer",
   "homepage": "",
   "size": 1143,
-  "stargazers_count": 1708,
-  "watchers_count": 1708,
+  "stargazers_count": 1709,
+  "watchers_count": 1709,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 245,
   "open_issues": 46,
-  "watchers": 1708,
+  "watchers": 1709,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1105
+  "_index": 1113
 }

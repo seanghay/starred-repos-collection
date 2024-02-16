@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/CUNY-CL/wikipron/deployments",
   "created_at": "2019-06-12T17:25:31Z",
   "updated_at": "2024-02-14T00:58:33Z",
-  "pushed_at": "2024-02-07T20:20:07Z",
+  "pushed_at": "2024-02-15T14:52:57Z",
   "git_url": "git://github.com/CUNY-CL/wikipron.git",
   "ssh_url": "git@github.com:CUNY-CL/wikipron.git",
   "clone_url": "https://github.com/CUNY-CL/wikipron.git",
   "svn_url": "https://github.com/CUNY-CL/wikipron",
   "homepage": "",
-  "size": 156325,
+  "size": 156334,
   "stargazers_count": 279,
   "watchers_count": 279,
   "language": "Python",
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 61
+  "_index": 69
 }

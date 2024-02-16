@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/henrymaas/AudioSlicer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/henrymaas/AudioSlicer/deployments",
   "created_at": "2018-07-17T16:59:26Z",
-  "updated_at": "2024-02-14T19:53:30Z",
+  "updated_at": "2024-02-15T09:07:32Z",
   "pushed_at": "2024-02-14T17:25:24Z",
   "git_url": "git://github.com/henrymaas/AudioSlicer.git",
   "ssh_url": "git@github.com:henrymaas/AudioSlicer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/henrymaas/AudioSlicer",
   "homepage": "",
   "size": 13,
-  "stargazers_count": 250,
-  "watchers_count": 250,
+  "stargazers_count": 251,
+  "watchers_count": 251,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 57,
   "open_issues": 6,
-  "watchers": 250,
+  "watchers": 251,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 533
+  "_index": 541
 }

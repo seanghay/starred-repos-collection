@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pytorch-labs/gpt-fast/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pytorch-labs/gpt-fast/deployments",
   "created_at": "2023-10-17T05:30:32Z",
-  "updated_at": "2024-02-14T17:07:19Z",
+  "updated_at": "2024-02-16T01:01:48Z",
   "pushed_at": "2024-02-15T00:48:58Z",
   "git_url": "git://github.com/pytorch-labs/gpt-fast.git",
   "ssh_url": "git@github.com:pytorch-labs/gpt-fast.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/pytorch-labs/gpt-fast",
   "homepage": "",
   "size": 105,
-  "stargazers_count": 4671,
-  "watchers_count": 4671,
+  "stargazers_count": 4679,
+  "watchers_count": 4679,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 491,
+  "forks_count": 492,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 491,
+  "forks": 492,
   "open_issues": 65,
-  "watchers": 4671,
+  "watchers": 4679,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 256
+  "_index": 264
 }

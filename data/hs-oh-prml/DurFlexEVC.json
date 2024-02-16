@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/hs-oh-prml/DurFlexEVC/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hs-oh-prml/DurFlexEVC/deployments",
   "created_at": "2023-12-18T08:06:51Z",
-  "updated_at": "2024-02-14T02:52:40Z",
+  "updated_at": "2024-02-15T10:55:37Z",
   "pushed_at": "2024-02-07T01:43:33Z",
   "git_url": "git://github.com/hs-oh-prml/DurFlexEVC.git",
   "ssh_url": "git@github.com:hs-oh-prml/DurFlexEVC.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/hs-oh-prml/DurFlexEVC",
   "homepage": null,
   "size": 171,
-  "stargazers_count": 22,
-  "watchers_count": 22,
+  "stargazers_count": 24,
+  "watchers_count": 24,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 3,
   "open_issues": 0,
-  "watchers": 22,
+  "watchers": 24,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 20
+  "_index": 28
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/opentypejs/opentype.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/opentypejs/opentype.js/deployments",
   "created_at": "2013-09-27T12:36:16Z",
-  "updated_at": "2024-02-14T03:06:46Z",
-  "pushed_at": "2024-01-31T19:51:18Z",
+  "updated_at": "2024-02-16T01:08:44Z",
+  "pushed_at": "2024-02-15T11:39:20Z",
   "git_url": "git://github.com/opentypejs/opentype.js.git",
   "ssh_url": "git@github.com:opentypejs/opentype.js.git",
   "clone_url": "https://github.com/opentypejs/opentype.js.git",
   "svn_url": "https://github.com/opentypejs/opentype.js",
   "homepage": "https://opentype.js.org/",
   "size": 7081,
-  "stargazers_count": 4217,
-  "watchers_count": 4217,
+  "stargazers_count": 4218,
+  "watchers_count": 4218,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 513,
   "open_issues": 157,
-  "watchers": 4217,
+  "watchers": 4218,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1744
+  "_index": 1752
 }

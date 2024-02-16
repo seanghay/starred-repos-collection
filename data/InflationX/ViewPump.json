@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 57,
+  "forks_count": 58,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,7 +106,7 @@
     "pre-inflation-interceptors"
   ],
   "visibility": "public",
-  "forks": 57,
+  "forks": 58,
   "open_issues": 9,
   "watchers": 871,
   "default_branch": "main",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2283
+  "_index": 2291
 }

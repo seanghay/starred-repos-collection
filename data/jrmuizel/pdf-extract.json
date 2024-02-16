@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/jrmuizel/pdf-extract/releases{/id}",
   "deployments_url": "https://api.github.com/repos/jrmuizel/pdf-extract/deployments",
   "created_at": "2017-02-01T05:01:50Z",
-  "updated_at": "2024-02-14T19:04:16Z",
-  "pushed_at": "2024-02-14T19:13:38Z",
+  "updated_at": "2024-02-15T22:13:20Z",
+  "pushed_at": "2024-02-15T02:31:24Z",
   "git_url": "git://github.com/jrmuizel/pdf-extract.git",
   "ssh_url": "git@github.com:jrmuizel/pdf-extract.git",
   "clone_url": "https://github.com/jrmuizel/pdf-extract.git",
   "svn_url": "https://github.com/jrmuizel/pdf-extract",
   "homepage": "",
-  "size": 385,
-  "stargazers_count": 269,
-  "watchers_count": 269,
+  "size": 279,
+  "stargazers_count": 271,
+  "watchers_count": 271,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 49,
+  "open_issues_count": 47,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -94,8 +94,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 66,
-  "open_issues": 49,
-  "watchers": 269,
+  "open_issues": 47,
+  "watchers": 271,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 607
+  "_index": 615
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/metavoiceio/metavoice-src/releases{/id}",
   "deployments_url": "https://api.github.com/repos/metavoiceio/metavoice-src/deployments",
   "created_at": "2024-02-06T17:04:29Z",
-  "updated_at": "2024-02-15T01:33:13Z",
+  "updated_at": "2024-02-16T01:37:08Z",
   "pushed_at": "2024-02-13T11:49:10Z",
   "git_url": "git://github.com/metavoiceio/metavoice-src.git",
   "ssh_url": "git@github.com:metavoiceio/metavoice-src.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/metavoiceio/metavoice-src",
   "homepage": "https://themetavoice.xyz/",
   "size": 19409,
-  "stargazers_count": 1962,
-  "watchers_count": 1962,
+  "stargazers_count": 2029,
+  "watchers_count": 2029,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 249,
+  "forks_count": 257,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 19,
+  "open_issues_count": 20,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -97,11 +97,21 @@
   "allow_forking": true,
   "is_template": false,
   "web_commit_signoff_required": true,
-  "topics": [],
+  "topics": [
+    "ai",
+    "deep-learning",
+    "pytorch",
+    "speech",
+    "speech-synthesis",
+    "text-to-speech",
+    "tts",
+    "voice-clone",
+    "zero-shot-tts"
+  ],
   "visibility": "public",
-  "forks": 249,
-  "open_issues": 19,
-  "watchers": 1962,
+  "forks": 257,
+  "open_issues": 20,
+  "watchers": 2029,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 25
+  "_index": 33
 }

@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/tristanhimmelman/ObjectMapper/deployments",
   "created_at": "2014-10-16T16:14:49Z",
   "updated_at": "2024-02-13T13:33:27Z",
-  "pushed_at": "2023-12-14T07:03:37Z",
+  "pushed_at": "2024-02-15T04:41:29Z",
   "git_url": "git://github.com/tristanhimmelman/ObjectMapper.git",
   "ssh_url": "git@github.com:tristanhimmelman/ObjectMapper.git",
   "clone_url": "https://github.com/tristanhimmelman/ObjectMapper.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 56,
+  "open_issues_count": 57,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 1028,
-  "open_issues": 56,
+  "open_issues": 57,
   "watchers": 9093,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1823
+  "_index": 1831
 }

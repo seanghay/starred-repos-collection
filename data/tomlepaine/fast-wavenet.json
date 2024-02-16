@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tomlepaine/fast-wavenet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tomlepaine/fast-wavenet/deployments",
   "created_at": "2016-09-16T21:57:30Z",
-  "updated_at": "2024-02-09T12:34:31Z",
+  "updated_at": "2024-02-16T01:08:30Z",
   "pushed_at": "2017-06-20T14:29:01Z",
   "git_url": "git://github.com/tomlepaine/fast-wavenet.git",
   "ssh_url": "git@github.com:tomlepaine/fast-wavenet.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/tomlepaine/fast-wavenet",
   "homepage": "",
   "size": 313,
-  "stargazers_count": 1758,
-  "watchers_count": 1758,
+  "stargazers_count": 1759,
+  "watchers_count": 1759,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 312,
   "open_issues": 16,
-  "watchers": 1758,
+  "watchers": 1759,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 200
+  "_index": 208
 }

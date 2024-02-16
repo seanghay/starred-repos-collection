@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fishaudio/fish-speech/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fishaudio/fish-speech/deployments",
   "created_at": "2023-10-10T03:16:51Z",
-  "updated_at": "2024-02-14T19:43:59Z",
+  "updated_at": "2024-02-15T17:30:47Z",
   "pushed_at": "2024-02-05T18:37:52Z",
   "git_url": "git://github.com/fishaudio/fish-speech.git",
   "ssh_url": "git@github.com:fishaudio/fish-speech.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/fishaudio/fish-speech",
   "homepage": "https://speech.fish.audio",
   "size": 16482,
-  "stargazers_count": 679,
-  "watchers_count": 679,
+  "stargazers_count": 680,
+  "watchers_count": 680,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 17,
+  "open_issues_count": 18,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 63,
-  "open_issues": 17,
-  "watchers": 679,
+  "open_issues": 18,
+  "watchers": 680,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 132
+  "_index": 140
 }

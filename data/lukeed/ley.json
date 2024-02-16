@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lukeed/ley/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lukeed/ley/deployments",
   "created_at": "2020-02-10T07:58:53Z",
-  "updated_at": "2024-02-14T17:28:27Z",
+  "updated_at": "2024-02-15T09:35:15Z",
   "pushed_at": "2024-02-06T20:29:23Z",
   "git_url": "git://github.com/lukeed/ley.git",
   "ssh_url": "git@github.com:lukeed/ley.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lukeed/ley",
   "homepage": "",
   "size": 129,
-  "stargazers_count": 247,
-  "watchers_count": 247,
+  "stargazers_count": 248,
+  "watchers_count": 248,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 11,
   "open_issues": 10,
-  "watchers": 247,
+  "watchers": 248,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1246
+  "_index": 1254
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/actarian/vscode-glsl-canvas/releases{/id}",
   "deployments_url": "https://api.github.com/repos/actarian/vscode-glsl-canvas/deployments",
   "created_at": "2018-01-31T14:12:09Z",
-  "updated_at": "2024-02-04T03:48:19Z",
+  "updated_at": "2024-02-15T09:34:04Z",
   "pushed_at": "2023-03-04T02:33:36Z",
   "git_url": "git://github.com/actarian/vscode-glsl-canvas.git",
   "ssh_url": "git@github.com:actarian/vscode-glsl-canvas.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/actarian/vscode-glsl-canvas",
   "homepage": null,
   "size": 112875,
-  "stargazers_count": 313,
-  "watchers_count": 313,
+  "stargazers_count": 315,
+  "watchers_count": 315,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 21,
   "open_issues": 29,
-  "watchers": 313,
+  "watchers": 315,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2214
+  "_index": 2222
 }

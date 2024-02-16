@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/microsoft/vscode/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microsoft/vscode/deployments",
   "created_at": "2015-09-03T20:23:38Z",
-  "updated_at": "2024-02-15T01:38:57Z",
-  "pushed_at": "2024-02-15T00:30:08Z",
+  "updated_at": "2024-02-16T01:36:00Z",
+  "pushed_at": "2024-02-16T01:38:11Z",
   "git_url": "git://github.com/microsoft/vscode.git",
   "ssh_url": "git@github.com:microsoft/vscode.git",
   "clone_url": "https://github.com/microsoft/vscode.git",
   "svn_url": "https://github.com/microsoft/vscode",
   "homepage": "https://code.visualstudio.com",
-  "size": 894805,
-  "stargazers_count": 155918,
-  "watchers_count": 155918,
+  "size": 895445,
+  "stargazers_count": 156049,
+  "watchers_count": 156049,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 28262,
+  "forks_count": 28277,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 7650,
+  "open_issues_count": 7634,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,9 +105,9 @@
     "visual-studio-code"
   ],
   "visibility": "public",
-  "forks": 28262,
-  "open_issues": 7650,
-  "watchers": 155918,
+  "forks": 28277,
+  "open_issues": 7634,
+  "watchers": 156049,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3523
+  "_index": 3531
 }

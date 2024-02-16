@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/AndreyGuzhov/AudioCLIP/releases{/id}",
   "deployments_url": "https://api.github.com/repos/AndreyGuzhov/AudioCLIP/deployments",
   "created_at": "2021-06-24T13:07:49Z",
-  "updated_at": "2024-01-31T16:18:12Z",
+  "updated_at": "2024-02-15T11:00:25Z",
   "pushed_at": "2021-09-30T07:32:24Z",
   "git_url": "git://github.com/AndreyGuzhov/AudioCLIP.git",
   "ssh_url": "git@github.com:AndreyGuzhov/AudioCLIP.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/AndreyGuzhov/AudioCLIP",
   "homepage": "",
   "size": 13100,
-  "stargazers_count": 679,
-  "watchers_count": 679,
+  "stargazers_count": 680,
+  "watchers_count": 680,
   "language": "Python",
   "has_issues": false,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 86,
   "open_issues": 3,
-  "watchers": 679,
+  "watchers": 680,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 719
+  "_index": 727
 }

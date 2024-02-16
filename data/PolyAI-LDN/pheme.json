@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 8,
+  "open_issues_count": 10,
   "license": {
     "key": "cc-by-4.0",
     "name": "Creative Commons Attribution 4.0 International",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 20,
-  "open_issues": 8,
+  "open_issues": 10,
   "watchers": 201,
   "default_branch": "main",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 159
+  "_index": 167
 }

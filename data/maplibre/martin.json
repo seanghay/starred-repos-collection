@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/maplibre/martin/releases{/id}",
   "deployments_url": "https://api.github.com/repos/maplibre/martin/deployments",
   "created_at": "2017-09-30T10:53:46Z",
-  "updated_at": "2024-02-13T14:20:58Z",
+  "updated_at": "2024-02-16T01:05:55Z",
   "pushed_at": "2024-02-13T23:31:15Z",
   "git_url": "git://github.com/maplibre/martin.git",
   "ssh_url": "git@github.com:maplibre/martin.git",
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 292
+  "_index": 300
 }

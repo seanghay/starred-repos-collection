@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/autonise/CRAFT-Remade/releases{/id}",
   "deployments_url": "https://api.github.com/repos/autonise/CRAFT-Remade/deployments",
   "created_at": "2019-07-23T11:08:39Z",
-  "updated_at": "2024-02-09T14:21:47Z",
+  "updated_at": "2024-02-15T03:55:26Z",
   "pushed_at": "2023-07-06T21:42:20Z",
   "git_url": "git://github.com/autonise/CRAFT-Remade.git",
   "ssh_url": "git@github.com:autonise/CRAFT-Remade.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/autonise/CRAFT-Remade",
   "homepage": "",
   "size": 2784,
-  "stargazers_count": 189,
-  "watchers_count": 189,
+  "stargazers_count": 190,
+  "watchers_count": 190,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 45,
   "open_issues": 8,
-  "watchers": 189,
+  "watchers": 190,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 88
+  "_index": 96
 }

@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/ORI-Muchim/One-Click-MB-iSTFT-VITS2",
-  "description": null,
+  "description": "MB-iSTFT-VITS2(Data Preprocessing + Whisper + Text Preprocessing + Making config.json + Training, Inference) ONE-CLICK",
   "fork": false,
   "url": "https://api.github.com/repos/ORI-Muchim/One-Click-MB-iSTFT-VITS2",
   "forks_url": "https://api.github.com/repos/ORI-Muchim/One-Click-MB-iSTFT-VITS2/forks",
@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/ORI-Muchim/One-Click-MB-iSTFT-VITS2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ORI-Muchim/One-Click-MB-iSTFT-VITS2/deployments",
   "created_at": "2024-02-13T09:56:06Z",
-  "updated_at": "2024-02-14T13:12:43Z",
-  "pushed_at": "2024-02-14T18:31:11Z",
+  "updated_at": "2024-02-15T08:18:33Z",
+  "pushed_at": "2024-02-15T09:41:52Z",
   "git_url": "git://github.com/ORI-Muchim/One-Click-MB-iSTFT-VITS2.git",
   "ssh_url": "git@github.com:ORI-Muchim/One-Click-MB-iSTFT-VITS2.git",
   "clone_url": "https://github.com/ORI-Muchim/One-Click-MB-iSTFT-VITS2.git",
   "svn_url": "https://github.com/ORI-Muchim/One-Click-MB-iSTFT-VITS2",
-  "homepage": null,
-  "size": 28203,
+  "homepage": "",
+  "size": 30168,
   "stargazers_count": 6,
   "watchers_count": 6,
   "language": "Python",
@@ -97,7 +97,16 @@
   "allow_forking": true,
   "is_template": false,
   "web_commit_signoff_required": false,
-  "topics": [],
+  "topics": [
+    "asr",
+    "multilanguage",
+    "one-click",
+    "speech-recognition",
+    "speech-synthesis",
+    "tts",
+    "vits",
+    "vits2"
+  ],
   "visibility": "public",
   "forks": 0,
   "open_issues": 0,
@@ -110,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 0
+  "_index": 8
 }
