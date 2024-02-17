@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pndurette/gTTS/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pndurette/gTTS/deployments",
   "created_at": "2014-05-15T02:52:58Z",
-  "updated_at": "2024-02-15T17:35:55Z",
+  "updated_at": "2024-02-16T07:05:21Z",
   "pushed_at": "2024-02-05T14:19:43Z",
   "git_url": "git://github.com/pndurette/gTTS.git",
   "ssh_url": "git@github.com:pndurette/gTTS.git",
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 360
+  "_index": 361
 }

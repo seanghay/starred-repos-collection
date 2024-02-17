@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/SayaSS/vits-finetuning/releases{/id}",
   "deployments_url": "https://api.github.com/repos/SayaSS/vits-finetuning/deployments",
   "created_at": "2023-02-14T14:25:17Z",
-  "updated_at": "2024-02-03T01:58:21Z",
+  "updated_at": "2024-02-16T18:19:36Z",
   "pushed_at": "2023-05-02T13:05:47Z",
   "git_url": "git://github.com/SayaSS/vits-finetuning.git",
   "ssh_url": "git@github.com:SayaSS/vits-finetuning.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/SayaSS/vits-finetuning",
   "homepage": null,
   "size": 12390,
-  "stargazers_count": 508,
-  "watchers_count": 508,
+  "stargazers_count": 509,
+  "watchers_count": 509,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 82,
+  "forks_count": 83,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 82,
+  "forks": 83,
   "open_issues": 14,
-  "watchers": 508,
+  "watchers": 509,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 220
+  "_index": 221
 }

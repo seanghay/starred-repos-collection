@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/thunderbird/thunderbird-android/releases{/id}",
   "deployments_url": "https://api.github.com/repos/thunderbird/thunderbird-android/deployments",
   "created_at": "2011-02-04T02:40:00Z",
-  "updated_at": "2024-02-15T20:39:28Z",
-  "pushed_at": "2024-02-15T14:48:20Z",
+  "updated_at": "2024-02-16T21:00:55Z",
+  "pushed_at": "2024-02-16T17:24:06Z",
   "git_url": "git://github.com/thunderbird/thunderbird-android.git",
   "ssh_url": "git@github.com:thunderbird/thunderbird-android.git",
   "clone_url": "https://github.com/thunderbird/thunderbird-android.git",
   "svn_url": "https://github.com/thunderbird/thunderbird-android",
   "homepage": "https://k9mail.app/",
-  "size": 99905,
+  "size": 99909,
   "stargazers_count": 9082,
   "watchers_count": 9082,
   "language": "Kotlin",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 2447,
+  "forks_count": 2446,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "email"
   ],
   "visibility": "public",
-  "forks": 2447,
+  "forks": 2446,
   "open_issues": 748,
   "watchers": 9082,
   "default_branch": "main",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2737
+  "_index": 2738
 }

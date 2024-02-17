@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/PaddlePaddle/PaddleOCR/releases{/id}",
   "deployments_url": "https://api.github.com/repos/PaddlePaddle/PaddleOCR/deployments",
   "created_at": "2020-05-08T10:38:16Z",
-  "updated_at": "2024-02-15T22:10:31Z",
+  "updated_at": "2024-02-17T01:33:19Z",
   "pushed_at": "2024-02-08T12:38:39Z",
   "git_url": "git://github.com/PaddlePaddle/PaddleOCR.git",
   "ssh_url": "git@github.com:PaddlePaddle/PaddleOCR.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/PaddlePaddle/PaddleOCR",
   "homepage": "",
   "size": 353652,
-  "stargazers_count": 36426,
-  "watchers_count": 36426,
+  "stargazers_count": 36447,
+  "watchers_count": 36447,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 7106,
+  "forks_count": 7107,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "ocrlite"
   ],
   "visibility": "public",
-  "forks": 7106,
+  "forks": 7107,
   "open_issues": 1060,
-  "watchers": 36426,
+  "watchers": 36447,
   "default_branch": "release/2.7",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 147
+  "_index": 148
 }

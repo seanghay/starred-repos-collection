@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sheosi/ogg-opus/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sheosi/ogg-opus/deployments",
   "created_at": "2021-05-18T13:15:31Z",
-  "updated_at": "2024-02-14T03:00:09Z",
+  "updated_at": "2024-02-16T12:15:39Z",
   "pushed_at": "2021-05-22T12:17:42Z",
   "git_url": "git://github.com/sheosi/ogg-opus.git",
   "ssh_url": "git@github.com:sheosi/ogg-opus.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sheosi/ogg-opus",
   "homepage": null,
   "size": 287,
-  "stargazers_count": 24,
-  "watchers_count": 24,
+  "stargazers_count": 25,
+  "watchers_count": 25,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 6,
   "open_issues": 1,
-  "watchers": 24,
+  "watchers": 25,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 11
+  "_index": 12
 }

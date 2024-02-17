@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/lokalise/i18n-ally/deployments",
   "created_at": "2019-05-05T16:54:17Z",
   "updated_at": "2024-02-14T18:45:54Z",
-  "pushed_at": "2024-02-06T22:35:09Z",
+  "pushed_at": "2024-02-16T16:36:36Z",
   "git_url": "git://github.com/lokalise/i18n-ally.git",
   "ssh_url": "git@github.com:lokalise/i18n-ally.git",
   "clone_url": "https://github.com/lokalise/i18n-ally.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 261,
+  "forks_count": 262,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 248,
+  "open_issues_count": 249,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -111,8 +111,8 @@
     "vue-i18n"
   ],
   "visibility": "public",
-  "forks": 261,
-  "open_issues": 248,
+  "forks": 262,
+  "open_issues": 249,
   "watchers": 3379,
   "default_branch": "main",
   "permissions": {
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2274
+  "_index": 2275
 }

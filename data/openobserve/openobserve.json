@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/openobserve/openobserve/releases{/id}",
   "deployments_url": "https://api.github.com/repos/openobserve/openobserve/deployments",
   "created_at": "2023-02-02T03:29:51Z",
-  "updated_at": "2024-02-15T22:52:15Z",
-  "pushed_at": "2024-02-15T14:55:04Z",
+  "updated_at": "2024-02-17T01:01:37Z",
+  "pushed_at": "2024-02-17T00:10:50Z",
   "git_url": "git://github.com/openobserve/openobserve.git",
   "ssh_url": "git@github.com:openobserve/openobserve.git",
   "clone_url": "https://github.com/openobserve/openobserve.git",
   "svn_url": "https://github.com/openobserve/openobserve",
   "homepage": "https://openobserve.ai",
-  "size": 28954,
-  "stargazers_count": 8371,
-  "watchers_count": 8371,
+  "size": 29055,
+  "stargazers_count": 8391,
+  "watchers_count": 8391,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 330,
+  "forks_count": 332,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 263,
+  "open_issues_count": 264,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -119,9 +119,9 @@
     "traces"
   ],
   "visibility": "public",
-  "forks": 330,
-  "open_issues": 263,
-  "watchers": 8371,
+  "forks": 332,
+  "open_issues": 264,
+  "watchers": 8391,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 756
+  "_index": 757
 }

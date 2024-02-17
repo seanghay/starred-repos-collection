@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 655,
+  "forks_count": 654,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,7 +108,7 @@
     "vtuber"
   ],
   "visibility": "public",
-  "forks": 655,
+  "forks": 654,
   "open_issues": 31,
   "watchers": 5133,
   "default_branch": "main",
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1704
+  "_index": 1705
 }

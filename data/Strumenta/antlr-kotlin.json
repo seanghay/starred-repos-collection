@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/Strumenta/antlr-kotlin/deployments",
   "created_at": "2018-08-20T17:40:29Z",
   "updated_at": "2024-02-07T02:38:51Z",
-  "pushed_at": "2024-02-15T18:24:22Z",
+  "pushed_at": "2024-02-16T14:18:45Z",
   "git_url": "git://github.com/Strumenta/antlr-kotlin.git",
   "ssh_url": "git@github.com:Strumenta/antlr-kotlin.git",
   "clone_url": "https://github.com/Strumenta/antlr-kotlin.git",
   "svn_url": "https://github.com/Strumenta/antlr-kotlin",
   "homepage": "",
-  "size": 10476,
+  "size": 10486,
   "stargazers_count": 193,
   "watchers_count": 193,
   "language": "Kotlin",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1844
+  "_index": 1845
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mapbox/tippecanoe/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mapbox/tippecanoe/deployments",
   "created_at": "2014-09-26T22:16:45Z",
-  "updated_at": "2024-02-15T13:30:29Z",
+  "updated_at": "2024-02-16T20:37:15Z",
   "pushed_at": "2023-10-05T19:31:37Z",
   "git_url": "git://github.com/mapbox/tippecanoe.git",
   "ssh_url": "git@github.com:mapbox/tippecanoe.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mapbox/tippecanoe",
   "homepage": "",
   "size": 32394,
-  "stargazers_count": 2532,
-  "watchers_count": 2532,
+  "stargazers_count": 2536,
+  "watchers_count": 2536,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 420,
   "open_issues": 211,
-  "watchers": 2532,
+  "watchers": 2536,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 314
+  "_index": 315
 }

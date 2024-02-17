@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/vitest-dev/vscode/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vitest-dev/vscode/deployments",
   "created_at": "2022-03-13T09:35:13Z",
-  "updated_at": "2024-02-11T11:05:55Z",
-  "pushed_at": "2024-02-08T13:40:53Z",
+  "updated_at": "2024-02-16T09:03:35Z",
+  "pushed_at": "2024-02-16T17:49:28Z",
   "git_url": "git://github.com/vitest-dev/vscode.git",
   "ssh_url": "git@github.com:vitest-dev/vscode.git",
   "clone_url": "https://github.com/vitest-dev/vscode.git",
   "svn_url": "https://github.com/vitest-dev/vscode",
   "homepage": "https://marketplace.visualstudio.com/items?itemName=ZixuanChen.vitest-explorer",
-  "size": 951,
-  "stargazers_count": 629,
-  "watchers_count": 629,
+  "size": 1043,
+  "stargazers_count": 630,
+  "watchers_count": 630,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 66,
   "open_issues": 91,
-  "watchers": 629,
+  "watchers": 630,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1540
+  "_index": 1541
 }
