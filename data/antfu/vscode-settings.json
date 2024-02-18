@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/antfu/vscode-settings/releases{/id}",
   "deployments_url": "https://api.github.com/repos/antfu/vscode-settings/deployments",
   "created_at": "2022-03-10T10:13:20Z",
-  "updated_at": "2024-02-16T19:08:03Z",
+  "updated_at": "2024-02-17T06:27:00Z",
   "pushed_at": "2024-01-27T18:23:09Z",
   "git_url": "git://github.com/antfu/vscode-settings.git",
   "ssh_url": "git@github.com:antfu/vscode-settings.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/antfu/vscode-settings",
   "homepage": "",
   "size": 20,
-  "stargazers_count": 1755,
-  "watchers_count": 1755,
+  "stargazers_count": 1756,
+  "watchers_count": 1756,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 260,
   "open_issues": 0,
-  "watchers": 1755,
+  "watchers": 1756,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1593
+  "_index": 1602
 }

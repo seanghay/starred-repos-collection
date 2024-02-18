@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/wanliyang1990/wlmusic/releases{/id}",
   "deployments_url": "https://api.github.com/repos/wanliyang1990/wlmusic/deployments",
   "created_at": "2018-03-05T07:26:05Z",
-  "updated_at": "2024-01-09T07:18:05Z",
+  "updated_at": "2024-02-17T10:39:33Z",
   "pushed_at": "2020-01-13T02:20:39Z",
   "git_url": "git://github.com/wanliyang1990/wlmusic.git",
   "ssh_url": "git@github.com:wanliyang1990/wlmusic.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/wanliyang1990/wlmusic",
   "homepage": "",
   "size": 92816,
-  "stargazers_count": 589,
-  "watchers_count": 589,
+  "stargazers_count": 590,
+  "watchers_count": 590,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 128,
   "open_issues": 4,
-  "watchers": 589,
+  "watchers": 590,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2730
+  "_index": 2739
 }

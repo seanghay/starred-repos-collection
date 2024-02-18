@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ton-blockchain/ton/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ton-blockchain/ton/deployments",
   "created_at": "2019-09-07T09:33:40Z",
-  "updated_at": "2024-02-17T00:17:00Z",
-  "pushed_at": "2024-02-16T14:32:10Z",
+  "updated_at": "2024-02-17T20:32:33Z",
+  "pushed_at": "2024-02-17T14:07:55Z",
   "git_url": "git://github.com/ton-blockchain/ton.git",
   "ssh_url": "git@github.com:ton-blockchain/ton.git",
   "clone_url": "https://github.com/ton-blockchain/ton.git",
   "svn_url": "https://github.com/ton-blockchain/ton",
   "homepage": "",
-  "size": 19456,
-  "stargazers_count": 2202,
-  "watchers_count": 2202,
+  "size": 19458,
+  "stargazers_count": 2204,
+  "watchers_count": 2204,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 627,
   "open_issues": 108,
-  "watchers": 2202,
+  "watchers": 2204,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1232
+  "_index": 1241
 }

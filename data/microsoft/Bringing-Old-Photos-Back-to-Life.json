@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/microsoft/Bringing-Old-Photos-Back-to-Life/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microsoft/Bringing-Old-Photos-Back-to-Life/deployments",
   "created_at": "2020-06-24T06:37:58Z",
-  "updated_at": "2024-02-16T21:34:43Z",
+  "updated_at": "2024-02-18T00:09:48Z",
   "pushed_at": "2023-10-26T08:06:57Z",
   "git_url": "git://github.com/microsoft/Bringing-Old-Photos-Back-to-Life.git",
   "ssh_url": "git@github.com:microsoft/Bringing-Old-Photos-Back-to-Life.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
   "homepage": "https://arxiv.org/abs/2004.09484",
   "size": 41892,
-  "stargazers_count": 14233,
-  "watchers_count": 14233,
+  "stargazers_count": 14239,
+  "watchers_count": 14239,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 1873,
   "open_issues": 98,
-  "watchers": 14233,
+  "watchers": 14239,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 546
+  "_index": 555
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/seaweedfs/seaweedfs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/seaweedfs/seaweedfs/deployments",
   "created_at": "2014-07-14T16:41:37Z",
-  "updated_at": "2024-02-17T01:32:15Z",
+  "updated_at": "2024-02-17T23:46:39Z",
   "pushed_at": "2024-02-15T13:12:56Z",
   "git_url": "git://github.com/seaweedfs/seaweedfs.git",
   "ssh_url": "git@github.com:seaweedfs/seaweedfs.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/seaweedfs/seaweedfs",
   "homepage": "",
   "size": 55093,
-  "stargazers_count": 20421,
-  "watchers_count": 20421,
+  "stargazers_count": 20446,
+  "watchers_count": 20446,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 2155,
+  "forks_count": 2156,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -117,9 +117,9 @@
     "tiered-file-system"
   ],
   "visibility": "public",
-  "forks": 2155,
+  "forks": 2156,
   "open_issues": 325,
-  "watchers": 20421,
+  "watchers": 20446,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 49
+  "_index": 58
 }

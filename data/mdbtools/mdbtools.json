@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/mdbtools/mdbtools/deployments",
   "created_at": "2010-06-16T12:24:02Z",
   "updated_at": "2024-02-15T05:13:15Z",
-  "pushed_at": "2024-01-18T17:32:21Z",
+  "pushed_at": "2024-02-17T18:18:12Z",
   "git_url": "git://github.com/mdbtools/mdbtools.git",
   "ssh_url": "git@github.com:mdbtools/mdbtools.git",
   "clone_url": "https://github.com/mdbtools/mdbtools.git",
   "svn_url": "https://github.com/mdbtools/mdbtools",
   "homepage": "",
-  "size": 4162,
+  "size": 4151,
   "stargazers_count": 932,
   "watchers_count": 932,
   "language": "C",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 72,
+  "open_issues_count": 71,
   "license": {
     "key": "gpl-2.0",
     "name": "GNU General Public License v2.0",
@@ -107,7 +107,7 @@
   ],
   "visibility": "public",
   "forks": 200,
-  "open_issues": 72,
+  "open_issues": 71,
   "watchers": 932,
   "default_branch": "dev",
   "permissions": {
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 323
+  "_index": 332
 }

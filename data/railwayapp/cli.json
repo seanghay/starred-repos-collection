@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/railwayapp/cli/releases{/id}",
   "deployments_url": "https://api.github.com/repos/railwayapp/cli/deployments",
   "created_at": "2020-10-01T18:34:48Z",
-  "updated_at": "2024-02-13T00:43:32Z",
+  "updated_at": "2024-02-17T09:15:50Z",
   "pushed_at": "2024-02-16T15:42:53Z",
   "git_url": "git://github.com/railwayapp/cli.git",
   "ssh_url": "git@github.com:railwayapp/cli.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/railwayapp/cli",
   "homepage": "https://railway.app",
   "size": 791,
-  "stargazers_count": 278,
-  "watchers_count": 278,
+  "stargazers_count": 279,
+  "watchers_count": 279,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 70,
   "open_issues": 26,
-  "watchers": 278,
+  "watchers": 279,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2102
+  "_index": 2111
 }

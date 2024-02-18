@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/vitest-dev/vscode/deployments",
   "created_at": "2022-03-13T09:35:13Z",
   "updated_at": "2024-02-16T09:03:35Z",
-  "pushed_at": "2024-02-16T17:49:28Z",
+  "pushed_at": "2024-02-17T20:46:27Z",
   "git_url": "git://github.com/vitest-dev/vscode.git",
   "ssh_url": "git@github.com:vitest-dev/vscode.git",
   "clone_url": "https://github.com/vitest-dev/vscode.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 66,
+  "forks_count": 67,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 91,
+  "open_issues_count": 97,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,8 +103,8 @@
     "vscode-extension"
   ],
   "visibility": "public",
-  "forks": 66,
-  "open_issues": 91,
+  "forks": 67,
+  "open_issues": 97,
   "watchers": 630,
   "default_branch": "main",
   "permissions": {
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1541
+  "_index": 1550
 }

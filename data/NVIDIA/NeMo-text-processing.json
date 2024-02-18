@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/NVIDIA/NeMo-text-processing.git",
   "svn_url": "https://github.com/NVIDIA/NeMo-text-processing",
   "homepage": "https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/nlp/text_normalization/wfst/wfst_text_normalization.html",
-  "size": 28471,
+  "size": 34826,
   "stargazers_count": 191,
   "watchers_count": 191,
   "language": "Python",
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 638
+  "_index": 647
 }

@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/iron-fish/ironfish.git",
   "svn_url": "https://github.com/iron-fish/ironfish",
   "homepage": "https://ironfish.network",
-  "size": 1546713,
+  "size": 1546714,
   "stargazers_count": 955,
   "watchers_count": 955,
   "language": "TypeScript",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1674
+  "_index": 1683
 }

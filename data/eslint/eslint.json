@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/eslint/eslint/releases{/id}",
   "deployments_url": "https://api.github.com/repos/eslint/eslint/deployments",
   "created_at": "2013-06-29T23:59:48Z",
-  "updated_at": "2024-02-16T11:12:18Z",
-  "pushed_at": "2024-02-16T20:21:11Z",
+  "updated_at": "2024-02-17T23:40:41Z",
+  "pushed_at": "2024-02-17T22:54:24Z",
   "git_url": "git://github.com/eslint/eslint.git",
   "ssh_url": "git@github.com:eslint/eslint.git",
   "clone_url": "https://github.com/eslint/eslint.git",
   "svn_url": "https://github.com/eslint/eslint",
   "homepage": "https://eslint.org",
   "size": 41309,
-  "stargazers_count": 23952,
-  "watchers_count": 23952,
+  "stargazers_count": 23953,
+  "watchers_count": 23953,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 4601,
+  "forks_count": 4604,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "static-code-analysis"
   ],
   "visibility": "public",
-  "forks": 4601,
+  "forks": 4604,
   "open_issues": 106,
-  "watchers": 23952,
+  "watchers": 23953,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2342
+  "_index": 2351
 }

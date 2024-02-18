@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/cashapp/sqldelight/releases{/id}",
   "deployments_url": "https://api.github.com/repos/cashapp/sqldelight/deployments",
   "created_at": "2015-10-21T13:21:18Z",
-  "updated_at": "2024-02-16T21:23:45Z",
-  "pushed_at": "2024-02-16T19:32:50Z",
+  "updated_at": "2024-02-17T15:34:01Z",
+  "pushed_at": "2024-02-17T16:43:18Z",
   "git_url": "git://github.com/cashapp/sqldelight.git",
   "ssh_url": "git@github.com:cashapp/sqldelight.git",
   "clone_url": "https://github.com/cashapp/sqldelight.git",
   "svn_url": "https://github.com/cashapp/sqldelight",
   "homepage": "https://cashapp.github.io/sqldelight/",
-  "size": 194353,
-  "stargazers_count": 5791,
-  "watchers_count": 5791,
+  "size": 194351,
+  "stargazers_count": 5792,
+  "watchers_count": 5792,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 503,
+  "forks_count": 504,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 407,
+  "open_issues_count": 406,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -103,9 +103,9 @@
     "sqldelight"
   ],
   "visibility": "public",
-  "forks": 503,
-  "open_issues": 407,
-  "watchers": 5791,
+  "forks": 504,
+  "open_issues": 406,
+  "watchers": 5792,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3029
+  "_index": 3038
 }

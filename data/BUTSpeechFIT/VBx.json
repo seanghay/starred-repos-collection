@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/BUTSpeechFIT/VBx/releases{/id}",
   "deployments_url": "https://api.github.com/repos/BUTSpeechFIT/VBx/deployments",
   "created_at": "2020-02-11T18:27:11Z",
-  "updated_at": "2024-02-13T17:24:12Z",
+  "updated_at": "2024-02-17T07:58:22Z",
   "pushed_at": "2024-01-15T09:52:16Z",
   "git_url": "git://github.com/BUTSpeechFIT/VBx.git",
   "ssh_url": "git@github.com:BUTSpeechFIT/VBx.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/BUTSpeechFIT/VBx",
   "homepage": "",
   "size": 582774,
-  "stargazers_count": 222,
-  "watchers_count": 222,
+  "stargazers_count": 223,
+  "watchers_count": 223,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -95,7 +95,7 @@
   "visibility": "public",
   "forks": 57,
   "open_issues": 0,
-  "watchers": 222,
+  "watchers": 223,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 483
+  "_index": 492
 }

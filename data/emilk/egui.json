@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/emilk/egui/releases{/id}",
   "deployments_url": "https://api.github.com/repos/emilk/egui/deployments",
   "created_at": "2019-01-13T15:39:15Z",
-  "updated_at": "2024-02-16T22:12:20Z",
-  "pushed_at": "2024-02-16T23:59:25Z",
+  "updated_at": "2024-02-18T00:17:48Z",
+  "pushed_at": "2024-02-17T22:53:26Z",
   "git_url": "git://github.com/emilk/egui.git",
   "ssh_url": "git@github.com:emilk/egui.git",
   "clone_url": "https://github.com/emilk/egui.git",
   "svn_url": "https://github.com/emilk/egui",
   "homepage": "",
-  "size": 79714,
-  "stargazers_count": 18450,
-  "watchers_count": 18450,
+  "size": 79776,
+  "stargazers_count": 18457,
+  "watchers_count": 18457,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 1364,
+  "forks_count": 1362,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 645,
+  "open_issues_count": 641,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -106,9 +106,9 @@
     "wasm"
   ],
   "visibility": "public",
-  "forks": 1364,
-  "open_issues": 645,
-  "watchers": 18450,
+  "forks": 1362,
+  "open_issues": 641,
+  "watchers": 18457,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1604
+  "_index": 1613
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/NVIDIA/apex/releases{/id}",
   "deployments_url": "https://api.github.com/repos/NVIDIA/apex/deployments",
   "created_at": "2018-04-23T16:28:52Z",
-  "updated_at": "2024-02-16T08:33:36Z",
+  "updated_at": "2024-02-17T19:34:34Z",
   "pushed_at": "2024-02-09T01:23:36Z",
   "git_url": "git://github.com/NVIDIA/apex.git",
   "ssh_url": "git@github.com:NVIDIA/apex.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/NVIDIA/apex",
   "homepage": "",
   "size": 15495,
-  "stargazers_count": 7852,
-  "watchers_count": 7852,
+  "stargazers_count": 7854,
+  "watchers_count": 7854,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 1316,
   "open_issues": 691,
-  "watchers": 7852,
+  "watchers": 7854,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 41
+  "_index": 50
 }

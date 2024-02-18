@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/xiph/LPCNet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/xiph/LPCNet/deployments",
   "created_at": "2018-10-25T23:14:29Z",
-  "updated_at": "2024-02-10T17:11:55Z",
+  "updated_at": "2024-02-17T06:17:44Z",
   "pushed_at": "2023-08-19T17:50:15Z",
   "git_url": "git://github.com/xiph/LPCNet.git",
   "ssh_url": "git@github.com:xiph/LPCNet.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/xiph/LPCNet",
   "homepage": null,
   "size": 1080,
-  "stargazers_count": 1089,
-  "watchers_count": 1089,
+  "stargazers_count": 1090,
+  "watchers_count": 1090,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 293,
+  "forks_count": 294,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 293,
+  "forks": 294,
   "open_issues": 66,
-  "watchers": 1089,
+  "watchers": 1090,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 595
+  "_index": 604
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/adrienverge/yamllint/releases{/id}",
   "deployments_url": "https://api.github.com/repos/adrienverge/yamllint/deployments",
   "created_at": "2016-01-11T08:26:36Z",
-  "updated_at": "2024-02-16T19:08:41Z",
+  "updated_at": "2024-02-17T04:02:20Z",
   "pushed_at": "2024-02-16T10:49:04Z",
   "git_url": "git://github.com/adrienverge/yamllint.git",
   "ssh_url": "git@github.com:adrienverge/yamllint.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/adrienverge/yamllint",
   "homepage": "",
   "size": 810,
-  "stargazers_count": 2628,
-  "watchers_count": 2628,
+  "stargazers_count": 2629,
+  "watchers_count": 2629,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 264,
   "open_issues": 108,
-  "watchers": 2628,
+  "watchers": 2629,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1911
+  "_index": 1920
 }

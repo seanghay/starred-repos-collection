@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/unplugin/unplugin-icons/releases{/id}",
   "deployments_url": "https://api.github.com/repos/unplugin/unplugin-icons/deployments",
   "created_at": "2020-12-24T05:26:15Z",
-  "updated_at": "2024-02-16T09:42:40Z",
+  "updated_at": "2024-02-17T16:11:33Z",
   "pushed_at": "2024-02-17T01:00:16Z",
   "git_url": "git://github.com/unplugin/unplugin-icons.git",
   "ssh_url": "git@github.com:unplugin/unplugin-icons.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/unplugin/unplugin-icons",
   "homepage": "https://www.npmjs.com/package/unplugin-icons",
   "size": 2745,
-  "stargazers_count": 3355,
-  "watchers_count": 3355,
+  "stargazers_count": 3356,
+  "watchers_count": 3356,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -111,7 +111,7 @@
   "visibility": "public",
   "forks": 125,
   "open_issues": 73,
-  "watchers": 3355,
+  "watchers": 3356,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1892
+  "_index": 1901
 }

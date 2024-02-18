@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1385,
+  "forks_count": 1384,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,7 +107,7 @@
     "u2net"
   ],
   "visibility": "public",
-  "forks": 1385,
+  "forks": 1384,
   "open_issues": 224,
   "watchers": 7873,
   "default_branch": "master",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1358
+  "_index": 1367
 }

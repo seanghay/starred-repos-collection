@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/GetStream/AvengersChat/releases{/id}",
   "deployments_url": "https://api.github.com/repos/GetStream/AvengersChat/deployments",
   "created_at": "2021-10-22T09:07:11Z",
-  "updated_at": "2024-01-30T19:32:48Z",
+  "updated_at": "2024-02-17T16:24:32Z",
   "pushed_at": "2023-04-18T16:27:15Z",
   "git_url": "git://github.com/GetStream/AvengersChat.git",
   "ssh_url": "git@github.com:GetStream/AvengersChat.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/GetStream/AvengersChat",
   "homepage": "",
   "size": 87216,
-  "stargazers_count": 362,
-  "watchers_count": 362,
+  "stargazers_count": 363,
+  "watchers_count": 363,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": false,
@@ -116,7 +116,7 @@
   "visibility": "public",
   "forks": 37,
   "open_issues": 1,
-  "watchers": 362,
+  "watchers": 363,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1692
+  "_index": 1701
 }

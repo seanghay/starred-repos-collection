@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sanchit-gandhi/whisper-jax/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sanchit-gandhi/whisper-jax/deployments",
   "created_at": "2023-03-02T12:30:52Z",
-  "updated_at": "2024-02-16T19:48:47Z",
+  "updated_at": "2024-02-18T01:39:24Z",
   "pushed_at": "2024-02-09T13:23:25Z",
   "git_url": "git://github.com/sanchit-gandhi/whisper-jax.git",
   "ssh_url": "git@github.com:sanchit-gandhi/whisper-jax.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sanchit-gandhi/whisper-jax",
   "homepage": "",
   "size": 9170,
-  "stargazers_count": 3893,
-  "watchers_count": 3893,
+  "stargazers_count": 3897,
+  "watchers_count": 3897,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 334,
   "open_issues": 116,
-  "watchers": 3893,
+  "watchers": 3897,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 865
+  "_index": 874
 }
