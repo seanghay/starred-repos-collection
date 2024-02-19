@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/trax/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/trax/deployments",
   "created_at": "2019-10-05T15:09:14Z",
-  "updated_at": "2024-02-16T12:46:49Z",
+  "updated_at": "2024-02-18T13:08:42Z",
   "pushed_at": "2024-02-01T02:29:47Z",
   "git_url": "git://github.com/google/trax.git",
   "ssh_url": "git@github.com:google/trax.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/trax",
   "homepage": "",
   "size": 169282,
-  "stargazers_count": 7881,
-  "watchers_count": 7881,
+  "stargazers_count": 7882,
+  "watchers_count": 7882,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 818,
+  "forks_count": 819,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "transformer"
   ],
   "visibility": "public",
-  "forks": 818,
+  "forks": 819,
   "open_issues": 122,
-  "watchers": 7881,
+  "watchers": 7882,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 545
+  "_index": 548
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/tiny-craft/tiny-rdm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tiny-craft/tiny-rdm/deployments",
   "created_at": "2023-06-27T07:06:25Z",
-  "updated_at": "2024-02-18T01:34:30Z",
-  "pushed_at": "2024-02-14T06:46:47Z",
+  "updated_at": "2024-02-19T00:15:02Z",
+  "pushed_at": "2024-02-18T16:41:38Z",
   "git_url": "git://github.com/tiny-craft/tiny-rdm.git",
   "ssh_url": "git@github.com:tiny-craft/tiny-rdm.git",
   "clone_url": "https://github.com/tiny-craft/tiny-rdm.git",
   "svn_url": "https://github.com/tiny-craft/tiny-rdm",
   "homepage": "https://redis.tinycraft.cc/",
-  "size": 13660,
-  "stargazers_count": 4914,
-  "watchers_count": 4914,
+  "size": 13702,
+  "stargazers_count": 4933,
+  "watchers_count": 4933,
   "language": "Vue",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 186,
+  "forks_count": 187,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -113,9 +113,9 @@
     "web-view"
   ],
   "visibility": "public",
-  "forks": 186,
+  "forks": 187,
   "open_issues": 44,
-  "watchers": 4914,
+  "watchers": 4933,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 65
+  "_index": 68
 }

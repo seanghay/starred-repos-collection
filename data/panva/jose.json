@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/panva/jose/releases{/id}",
   "deployments_url": "https://api.github.com/repos/panva/jose/deployments",
   "created_at": "2018-11-06T08:46:01Z",
-  "updated_at": "2024-02-17T16:57:15Z",
-  "pushed_at": "2024-02-16T09:53:31Z",
+  "updated_at": "2024-02-19T01:08:47Z",
+  "pushed_at": "2024-02-18T11:09:11Z",
   "git_url": "git://github.com/panva/jose.git",
   "ssh_url": "git@github.com:panva/jose.git",
   "clone_url": "https://github.com/panva/jose.git",
   "svn_url": "https://github.com/panva/jose",
   "homepage": "",
   "size": 11992,
-  "stargazers_count": 4498,
-  "watchers_count": 4498,
+  "stargazers_count": 4502,
+  "watchers_count": 4502,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 295,
+  "forks_count": 296,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 0,
+  "open_issues_count": 1,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -118,9 +118,9 @@
     "verify"
   ],
   "visibility": "public",
-  "forks": 295,
-  "open_issues": 0,
-  "watchers": 4498,
+  "forks": 296,
+  "open_issues": 1,
+  "watchers": 4502,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1119
+  "_index": 1122
 }

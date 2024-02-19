@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/daybrush/moveable/releases{/id}",
   "deployments_url": "https://api.github.com/repos/daybrush/moveable/deployments",
   "created_at": "2019-07-05T15:04:30Z",
-  "updated_at": "2024-02-17T20:37:47Z",
+  "updated_at": "2024-02-18T09:22:29Z",
   "pushed_at": "2023-12-06T13:13:50Z",
   "git_url": "git://github.com/daybrush/moveable.git",
   "ssh_url": "git@github.com:daybrush/moveable.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/daybrush/moveable",
   "homepage": "https://daybrush.com/moveable/",
   "size": 80957,
-  "stargazers_count": 9313,
-  "watchers_count": 9313,
+  "stargazers_count": 9315,
+  "watchers_count": 9315,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 586,
   "open_issues": 399,
-  "watchers": 9313,
+  "watchers": 9315,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 991
+  "_index": 994
 }

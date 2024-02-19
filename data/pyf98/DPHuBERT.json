@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pyf98/DPHuBERT/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pyf98/DPHuBERT/deployments",
   "created_at": "2023-05-27T22:59:45Z",
-  "updated_at": "2024-02-14T16:45:20Z",
+  "updated_at": "2024-02-18T14:53:57Z",
   "pushed_at": "2024-01-26T17:19:43Z",
   "git_url": "git://github.com/pyf98/DPHuBERT.git",
   "ssh_url": "git@github.com:pyf98/DPHuBERT.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/pyf98/DPHuBERT",
   "homepage": "",
   "size": 1725,
-  "stargazers_count": 88,
-  "watchers_count": 88,
+  "stargazers_count": 89,
+  "watchers_count": 89,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 9,
   "open_issues": 0,
-  "watchers": 88,
+  "watchers": 89,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 457
+  "_index": 460
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/google/angle/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/angle/deployments",
   "created_at": "2014-08-26T14:59:07Z",
-  "updated_at": "2024-02-17T16:34:34Z",
-  "pushed_at": "2024-02-17T23:52:49Z",
+  "updated_at": "2024-02-18T21:42:49Z",
+  "pushed_at": "2024-02-18T16:03:48Z",
   "git_url": "git://github.com/google/angle.git",
   "ssh_url": "git@github.com:google/angle.git",
   "clone_url": "https://github.com/google/angle.git",
   "svn_url": "https://github.com/google/angle",
   "homepage": "http://angleproject.org",
   "size": 148727,
-  "stargazers_count": 3159,
-  "watchers_count": 3159,
+  "stargazers_count": 3164,
+  "watchers_count": 3164,
   "language": "C++",
   "has_issues": false,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 566,
   "open_issues": 3,
-  "watchers": 3159,
+  "watchers": 3164,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2326
+  "_index": 2329
 }

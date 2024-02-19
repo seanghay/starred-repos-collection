@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/huggingface/candle/releases{/id}",
   "deployments_url": "https://api.github.com/repos/huggingface/candle/deployments",
   "created_at": "2023-06-19T16:06:31Z",
-  "updated_at": "2024-02-18T01:44:10Z",
-  "pushed_at": "2024-02-17T17:51:08Z",
+  "updated_at": "2024-02-19T00:51:12Z",
+  "pushed_at": "2024-02-18T21:51:31Z",
   "git_url": "git://github.com/huggingface/candle.git",
   "ssh_url": "git@github.com:huggingface/candle.git",
   "clone_url": "https://github.com/huggingface/candle.git",
   "svn_url": "https://github.com/huggingface/candle",
   "homepage": null,
-  "size": 9364,
-  "stargazers_count": 12126,
-  "watchers_count": 12126,
+  "size": 9391,
+  "stargazers_count": 12139,
+  "watchers_count": 12139,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 222,
+  "open_issues_count": 221,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 634,
-  "open_issues": 222,
-  "watchers": 12126,
+  "open_issues": 221,
+  "watchers": 12139,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 99
+  "_index": 102
 }

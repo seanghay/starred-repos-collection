@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/asciinema/asciinema/releases{/id}",
   "deployments_url": "https://api.github.com/repos/asciinema/asciinema/deployments",
   "created_at": "2011-11-21T21:45:44Z",
-  "updated_at": "2024-02-17T22:57:40Z",
-  "pushed_at": "2024-02-15T20:41:47Z",
+  "updated_at": "2024-02-18T21:20:40Z",
+  "pushed_at": "2024-02-18T15:51:09Z",
   "git_url": "git://github.com/asciinema/asciinema.git",
   "ssh_url": "git@github.com:asciinema/asciinema.git",
   "clone_url": "https://github.com/asciinema/asciinema.git",
   "svn_url": "https://github.com/asciinema/asciinema",
   "homepage": "https://asciinema.org",
   "size": 2489,
-  "stargazers_count": 12862,
-  "watchers_count": 12862,
+  "stargazers_count": 12868,
+  "watchers_count": 12868,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 918,
+  "forks_count": 919,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 7,
+  "open_issues_count": 8,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -106,9 +106,9 @@
     "terminal-recording"
   ],
   "visibility": "public",
-  "forks": 918,
-  "open_issues": 7,
-  "watchers": 12862,
+  "forks": 919,
+  "open_issues": 8,
+  "watchers": 12868,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2001
+  "_index": 2004
 }

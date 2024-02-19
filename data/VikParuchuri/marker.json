@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/VikParuchuri/marker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/VikParuchuri/marker/deployments",
   "created_at": "2023-10-30T20:14:08Z",
-  "updated_at": "2024-02-18T01:38:02Z",
+  "updated_at": "2024-02-19T01:21:43Z",
   "pushed_at": "2024-02-12T10:39:51Z",
   "git_url": "git://github.com/VikParuchuri/marker.git",
   "ssh_url": "git@github.com:VikParuchuri/marker.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/VikParuchuri/marker",
   "homepage": "",
   "size": 760,
-  "stargazers_count": 6536,
-  "watchers_count": 6536,
+  "stargazers_count": 6547,
+  "watchers_count": 6547,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 237,
   "open_issues": 37,
-  "watchers": 6536,
+  "watchers": 6547,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 275
+  "_index": 278
 }

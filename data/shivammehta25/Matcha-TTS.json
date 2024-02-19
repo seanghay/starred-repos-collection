@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/shivammehta25/Matcha-TTS/releases{/id}",
   "deployments_url": "https://api.github.com/repos/shivammehta25/Matcha-TTS/deployments",
   "created_at": "2023-09-05T22:08:15Z",
-  "updated_at": "2024-02-16T11:50:05Z",
+  "updated_at": "2024-02-19T01:12:57Z",
   "pushed_at": "2024-02-13T13:57:47Z",
   "git_url": "git://github.com/shivammehta25/Matcha-TTS.git",
   "ssh_url": "git@github.com:shivammehta25/Matcha-TTS.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/shivammehta25/Matcha-TTS",
   "homepage": "https://shivammehta25.github.io/Matcha-TTS/",
   "size": 65567,
-  "stargazers_count": 296,
-  "watchers_count": 296,
+  "stargazers_count": 297,
+  "watchers_count": 297,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -114,7 +114,7 @@
   "visibility": "public",
   "forks": 35,
   "open_issues": 4,
-  "watchers": 296,
+  "watchers": 297,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 28
+  "_index": 31
 }

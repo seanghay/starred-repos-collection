@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/image-rs/image/releases{/id}",
   "deployments_url": "https://api.github.com/repos/image-rs/image/deployments",
   "created_at": "2014-05-25T11:39:07Z",
-  "updated_at": "2024-02-17T17:38:26Z",
-  "pushed_at": "2024-02-13T17:33:28Z",
+  "updated_at": "2024-02-18T15:44:17Z",
+  "pushed_at": "2024-02-18T23:09:12Z",
   "git_url": "git://github.com/image-rs/image.git",
   "ssh_url": "git@github.com:image-rs/image.git",
   "clone_url": "https://github.com/image-rs/image.git",
   "svn_url": "https://github.com/image-rs/image",
   "homepage": "",
-  "size": 23728,
-  "stargazers_count": 4361,
-  "watchers_count": 4361,
+  "size": 24091,
+  "stargazers_count": 4363,
+  "watchers_count": 4363,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 571,
+  "forks_count": 572,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 281,
+  "open_issues_count": 280,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -104,9 +104,9 @@
     "rust"
   ],
   "visibility": "public",
-  "forks": 571,
-  "open_issues": 281,
-  "watchers": 4361,
+  "forks": 572,
+  "open_issues": 280,
+  "watchers": 4363,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1349
+  "_index": 1352
 }

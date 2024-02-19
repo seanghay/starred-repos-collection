@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/davidmerfield/Blot/releases{/id}",
   "deployments_url": "https://api.github.com/repos/davidmerfield/Blot/deployments",
   "created_at": "2016-01-29T01:04:05Z",
-  "updated_at": "2024-02-14T20:02:23Z",
+  "updated_at": "2024-02-18T12:31:27Z",
   "pushed_at": "2024-02-16T14:00:45Z",
   "git_url": "git://github.com/davidmerfield/Blot.git",
   "ssh_url": "git@github.com:davidmerfield/Blot.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/davidmerfield/Blot",
   "homepage": "https://blot.im",
   "size": 3620139,
-  "stargazers_count": 1712,
-  "watchers_count": 1712,
+  "stargazers_count": 1714,
+  "watchers_count": 1714,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 84,
   "open_issues": 16,
-  "watchers": 1712,
+  "watchers": 1714,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 395
+  "_index": 398
 }

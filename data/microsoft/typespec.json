@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/microsoft/typespec/releases{/id}",
   "deployments_url": "https://api.github.com/repos/microsoft/typespec/deployments",
   "created_at": "2021-06-30T23:29:49Z",
-  "updated_at": "2024-02-17T12:53:30Z",
+  "updated_at": "2024-02-19T00:44:32Z",
   "pushed_at": "2024-02-17T22:04:06Z",
   "git_url": "git://github.com/microsoft/typespec.git",
   "ssh_url": "git@github.com:microsoft/typespec.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/microsoft/typespec",
   "homepage": "https://microsoft.github.io/typespec/",
   "size": 14840,
-  "stargazers_count": 2022,
-  "watchers_count": 2022,
+  "stargazers_count": 2031,
+  "watchers_count": 2031,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -103,7 +103,7 @@
   "visibility": "public",
   "forks": 120,
   "open_issues": 411,
-  "watchers": 2022,
+  "watchers": 2031,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 83
+  "_index": 86
 }

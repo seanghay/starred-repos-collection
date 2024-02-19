@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/metavoiceio/metavoice-src/releases{/id}",
   "deployments_url": "https://api.github.com/repos/metavoiceio/metavoice-src/deployments",
   "created_at": "2024-02-06T17:04:29Z",
-  "updated_at": "2024-02-18T01:44:07Z",
-  "pushed_at": "2024-02-17T18:13:29Z",
+  "updated_at": "2024-02-19T01:27:09Z",
+  "pushed_at": "2024-02-19T01:17:27Z",
   "git_url": "git://github.com/metavoiceio/metavoice-src.git",
   "ssh_url": "git@github.com:metavoiceio/metavoice-src.git",
   "clone_url": "https://github.com/metavoiceio/metavoice-src.git",
   "svn_url": "https://github.com/metavoiceio/metavoice-src",
   "homepage": "https://themetavoice.xyz/",
-  "size": 19409,
-  "stargazers_count": 2182,
-  "watchers_count": 2182,
+  "size": 19454,
+  "stargazers_count": 2252,
+  "watchers_count": 2252,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 267,
+  "forks_count": 272,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 21,
+  "open_issues_count": 22,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -109,9 +109,9 @@
     "zero-shot-tts"
   ],
   "visibility": "public",
-  "forks": 267,
-  "open_issues": 21,
-  "watchers": 2182,
+  "forks": 272,
+  "open_issues": 22,
+  "watchers": 2252,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 43
+  "_index": 46
 }

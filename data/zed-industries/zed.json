@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/zed-industries/zed/releases{/id}",
   "deployments_url": "https://api.github.com/repos/zed-industries/zed/deployments",
   "created_at": "2021-02-20T03:01:06Z",
-  "updated_at": "2024-02-18T01:31:57Z",
-  "pushed_at": "2024-02-18T00:58:38Z",
+  "updated_at": "2024-02-19T01:25:57Z",
+  "pushed_at": "2024-02-19T01:10:59Z",
   "git_url": "git://github.com/zed-industries/zed.git",
   "ssh_url": "git@github.com:zed-industries/zed.git",
   "clone_url": "https://github.com/zed-industries/zed.git",
   "svn_url": "https://github.com/zed-industries/zed",
   "homepage": "https://zed.dev",
-  "size": 79034,
-  "stargazers_count": 22527,
-  "watchers_count": 22527,
+  "size": 79152,
+  "stargazers_count": 22742,
+  "watchers_count": 22742,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 779,
+  "forks_count": 791,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1457,
+  "open_issues_count": 1458,
   "license": {
     "key": "other",
     "name": "Other",
@@ -103,9 +103,9 @@
     "zed"
   ],
   "visibility": "public",
-  "forks": 779,
-  "open_issues": 1457,
-  "watchers": 22527,
+  "forks": 791,
+  "open_issues": 1458,
+  "watchers": 22742,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 113
+  "_index": 116
 }

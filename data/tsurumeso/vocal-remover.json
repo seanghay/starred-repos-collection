@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tsurumeso/vocal-remover/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tsurumeso/vocal-remover/deployments",
   "created_at": "2019-07-21T12:14:04Z",
-  "updated_at": "2024-02-17T18:00:27Z",
+  "updated_at": "2024-02-18T10:31:48Z",
   "pushed_at": "2024-02-15T13:26:19Z",
   "git_url": "git://github.com/tsurumeso/vocal-remover.git",
   "ssh_url": "git@github.com:tsurumeso/vocal-remover.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/tsurumeso/vocal-remover",
   "homepage": "",
   "size": 157,
-  "stargazers_count": 1276,
-  "watchers_count": 1276,
+  "stargazers_count": 1279,
+  "watchers_count": 1279,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 196,
+  "forks_count": 197,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,9 +106,9 @@
     "vocal-separation"
   ],
   "visibility": "public",
-  "forks": 196,
+  "forks": 197,
   "open_issues": 59,
-  "watchers": 1276,
+  "watchers": 1279,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1081
+  "_index": 1084
 }

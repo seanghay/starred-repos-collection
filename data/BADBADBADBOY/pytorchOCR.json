@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/BADBADBADBOY/pytorchOCR/releases{/id}",
   "deployments_url": "https://api.github.com/repos/BADBADBADBOY/pytorchOCR/deployments",
   "created_at": "2020-09-04T13:48:38Z",
-  "updated_at": "2024-02-04T11:18:48Z",
+  "updated_at": "2024-02-18T03:20:40Z",
   "pushed_at": "2021-05-19T12:19:51Z",
   "git_url": "git://github.com/BADBADBADBOY/pytorchOCR.git",
   "ssh_url": "git@github.com:BADBADBADBOY/pytorchOCR.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/BADBADBADBOY/pytorchOCR",
   "homepage": "",
   "size": 3760,
-  "stargazers_count": 641,
-  "watchers_count": 641,
+  "stargazers_count": 642,
+  "watchers_count": 642,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 126,
+  "forks_count": 127,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,9 +102,9 @@
     "textrecognition"
   ],
   "visibility": "public",
-  "forks": 126,
+  "forks": 127,
   "open_issues": 3,
-  "watchers": 641,
+  "watchers": 642,
   "default_branch": "version2",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 119
+  "_index": 122
 }

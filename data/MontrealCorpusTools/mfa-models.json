@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/MontrealCorpusTools/mfa-models/releases{/id}",
   "deployments_url": "https://api.github.com/repos/MontrealCorpusTools/mfa-models/deployments",
   "created_at": "2016-07-05T17:36:28Z",
-  "updated_at": "2024-02-12T22:24:30Z",
+  "updated_at": "2024-02-18T20:41:05Z",
   "pushed_at": "2023-09-12T03:59:41Z",
   "git_url": "git://github.com/MontrealCorpusTools/mfa-models.git",
   "ssh_url": "git@github.com:MontrealCorpusTools/mfa-models.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/MontrealCorpusTools/mfa-models",
   "homepage": null,
   "size": 1419618,
-  "stargazers_count": 91,
-  "watchers_count": 91,
+  "stargazers_count": 92,
+  "watchers_count": 92,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 17,
   "open_issues": 14,
-  "watchers": 91,
+  "watchers": 92,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 834
+  "_index": 837
 }
