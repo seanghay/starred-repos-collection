@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/qiuqiangkong/audioset_tagging_cnn/releases{/id}",
   "deployments_url": "https://api.github.com/repos/qiuqiangkong/audioset_tagging_cnn/deployments",
   "created_at": "2019-06-05T15:37:35Z",
-  "updated_at": "2024-02-17T22:26:09Z",
+  "updated_at": "2024-02-19T16:09:02Z",
   "pushed_at": "2021-07-13T14:18:51Z",
   "git_url": "git://github.com/qiuqiangkong/audioset_tagging_cnn.git",
   "ssh_url": "git@github.com:qiuqiangkong/audioset_tagging_cnn.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/qiuqiangkong/audioset_tagging_cnn",
   "homepage": null,
   "size": 4089,
-  "stargazers_count": 1171,
-  "watchers_count": 1171,
+  "stargazers_count": 1172,
+  "watchers_count": 1172,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 234,
   "open_issues": 52,
-  "watchers": 1171,
+  "watchers": 1172,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 807
+  "_index": 808
 }

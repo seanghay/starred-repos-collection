@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/FredKSchott/snowpack/releases{/id}",
   "deployments_url": "https://api.github.com/repos/FredKSchott/snowpack/deployments",
   "created_at": "2019-02-26T15:45:38Z",
-  "updated_at": "2024-02-17T14:20:42Z",
+  "updated_at": "2024-02-19T08:20:43Z",
   "pushed_at": "2023-03-05T16:10:07Z",
   "git_url": "git://github.com/FredKSchott/snowpack.git",
   "ssh_url": "git@github.com:FredKSchott/snowpack.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/FredKSchott/snowpack",
   "homepage": "https://www.snowpack.dev",
   "size": 82221,
-  "stargazers_count": 19555,
-  "watchers_count": 19555,
+  "stargazers_count": 19554,
+  "watchers_count": 19554,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 942,
   "open_issues": 395,
-  "watchers": 19555,
+  "watchers": 19554,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3315
+  "_index": 3316
 }

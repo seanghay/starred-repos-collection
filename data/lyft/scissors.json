@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 240,
+  "forks_count": 239,
   "mirror_url": null,
   "archived": true,
   "disabled": false,
@@ -101,7 +101,7 @@
     "lyft"
   ],
   "visibility": "public",
-  "forks": 240,
+  "forks": 239,
   "open_issues": 0,
   "watchers": 1838,
   "default_branch": "master",
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2840
+  "_index": 2841
 }

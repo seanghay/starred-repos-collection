@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 460,
+  "forks_count": 461,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -120,7 +120,7 @@
     "wavlm"
   ],
   "visibility": "public",
-  "forks": 460,
+  "forks": 461,
   "open_issues": 59,
   "watchers": 2024,
   "default_branch": "main",
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 624
+  "_index": 625
 }

@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/swift-server/vscode-swift/deployments",
   "created_at": "2021-11-23T10:47:27Z",
   "updated_at": "2024-02-13T19:19:22Z",
-  "pushed_at": "2024-02-18T12:39:27Z",
+  "pushed_at": "2024-02-19T17:30:49Z",
   "git_url": "git://github.com/swift-server/vscode-swift.git",
   "ssh_url": "git@github.com:swift-server/vscode-swift.git",
   "clone_url": "https://github.com/swift-server/vscode-swift.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 40,
+  "open_issues_count": 41,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -104,7 +104,7 @@
   ],
   "visibility": "public",
   "forks": 35,
-  "open_issues": 40,
+  "open_issues": 41,
   "watchers": 584,
   "default_branch": "main",
   "permissions": {
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1663
+  "_index": 1664
 }

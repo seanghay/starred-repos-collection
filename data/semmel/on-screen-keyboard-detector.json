@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/semmel/on-screen-keyboard-detector/releases{/id}",
   "deployments_url": "https://api.github.com/repos/semmel/on-screen-keyboard-detector/deployments",
   "created_at": "2020-03-23T20:04:12Z",
-  "updated_at": "2023-11-22T02:07:35Z",
+  "updated_at": "2024-02-19T08:34:32Z",
   "pushed_at": "2023-01-10T13:06:11Z",
   "git_url": "git://github.com/semmel/on-screen-keyboard-detector.git",
   "ssh_url": "git@github.com:semmel/on-screen-keyboard-detector.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/semmel/on-screen-keyboard-detector",
   "homepage": "",
   "size": 290,
-  "stargazers_count": 46,
-  "watchers_count": 46,
+  "stargazers_count": 47,
+  "watchers_count": 47,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 8,
   "open_issues": 8,
-  "watchers": 46,
+  "watchers": 47,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1990
+  "_index": 1991
 }

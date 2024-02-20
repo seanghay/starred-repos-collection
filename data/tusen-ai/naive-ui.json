@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/tusen-ai/naive-ui/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tusen-ai/naive-ui/deployments",
   "created_at": "2021-06-04T13:47:28Z",
-  "updated_at": "2024-02-18T12:56:04Z",
-  "pushed_at": "2024-02-18T19:36:32Z",
+  "updated_at": "2024-02-19T22:43:12Z",
+  "pushed_at": "2024-02-19T10:11:37Z",
   "git_url": "git://github.com/tusen-ai/naive-ui.git",
   "ssh_url": "git@github.com:tusen-ai/naive-ui.git",
   "clone_url": "https://github.com/tusen-ai/naive-ui.git",
   "svn_url": "https://github.com/tusen-ai/naive-ui",
   "homepage": "https://www.naiveui.com",
-  "size": 24819,
-  "stargazers_count": 14727,
-  "watchers_count": 14727,
+  "size": 24368,
+  "stargazers_count": 14742,
+  "watchers_count": 14742,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 1565,
   "open_issues": 689,
-  "watchers": 14727,
+  "watchers": 14742,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2064
+  "_index": 2065
 }

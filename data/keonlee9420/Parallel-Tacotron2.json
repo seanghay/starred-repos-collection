@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 45,
+  "forks_count": 44,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -113,7 +113,7 @@
     "vae"
   ],
   "visibility": "public",
-  "forks": 45,
+  "forks": 44,
   "open_issues": 9,
   "watchers": 184,
   "default_branch": "main",
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 437
+  "_index": 438
 }

@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 150,
+  "forks_count": 149,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 15,
+  "open_issues_count": 14,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,8 +109,8 @@
     "tensorflow"
   ],
   "visibility": "public",
-  "forks": 150,
-  "open_issues": 15,
+  "forks": 149,
+  "open_issues": 14,
   "watchers": 907,
   "default_branch": "master",
   "permissions": {
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 397
+  "_index": 398
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bernaferrari/FigmaToCode/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bernaferrari/FigmaToCode/deployments",
   "created_at": "2020-06-19T21:02:32Z",
-  "updated_at": "2024-02-18T20:10:19Z",
+  "updated_at": "2024-02-19T16:13:14Z",
   "pushed_at": "2024-02-02T03:44:03Z",
   "git_url": "git://github.com/bernaferrari/FigmaToCode.git",
   "ssh_url": "git@github.com:bernaferrari/FigmaToCode.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/bernaferrari/FigmaToCode",
   "homepage": "https://www.figma.com/community/plugin/842128343887142055",
   "size": 12085,
-  "stargazers_count": 3400,
-  "watchers_count": 3400,
+  "stargazers_count": 3401,
+  "watchers_count": 3401,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 257,
+  "forks_count": 258,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -112,9 +112,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 257,
+  "forks": 258,
   "open_issues": 26,
-  "watchers": 3400,
+  "watchers": 3401,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 399
+  "_index": 400
 }

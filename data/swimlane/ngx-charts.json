@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/swimlane/ngx-charts/releases{/id}",
   "deployments_url": "https://api.github.com/repos/swimlane/ngx-charts/deployments",
   "created_at": "2016-07-22T15:58:41Z",
-  "updated_at": "2024-02-14T12:14:45Z",
-  "pushed_at": "2024-02-15T13:46:01Z",
+  "updated_at": "2024-02-19T11:23:51Z",
+  "pushed_at": "2024-02-19T16:56:36Z",
   "git_url": "git://github.com/swimlane/ngx-charts.git",
   "ssh_url": "git@github.com:swimlane/ngx-charts.git",
   "clone_url": "https://github.com/swimlane/ngx-charts.git",
   "svn_url": "https://github.com/swimlane/ngx-charts",
   "homepage": "https://swimlane.github.io/ngx-charts/",
   "size": 58556,
-  "stargazers_count": 4263,
-  "watchers_count": 4263,
+  "stargazers_count": 4264,
+  "watchers_count": 4264,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 846,
+  "open_issues_count": 847,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -110,8 +110,8 @@
   ],
   "visibility": "public",
   "forks": 1160,
-  "open_issues": 846,
-  "watchers": 4263,
+  "open_issues": 847,
+  "watchers": 4264,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3489
+  "_index": 3490
 }

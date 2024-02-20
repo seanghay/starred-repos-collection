@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/PolyAI-LDN/pheme/releases{/id}",
   "deployments_url": "https://api.github.com/repos/PolyAI-LDN/pheme/deployments",
   "created_at": "2024-01-01T13:32:54Z",
-  "updated_at": "2024-02-06T20:48:58Z",
+  "updated_at": "2024-02-19T17:00:40Z",
   "pushed_at": "2024-02-03T16:36:38Z",
   "git_url": "git://github.com/PolyAI-LDN/pheme.git",
   "ssh_url": "git@github.com:PolyAI-LDN/pheme.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/PolyAI-LDN/pheme",
   "homepage": null,
   "size": 10310,
-  "stargazers_count": 201,
-  "watchers_count": 201,
+  "stargazers_count": 203,
+  "watchers_count": 203,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 10,
+  "open_issues_count": 11,
   "license": {
     "key": "cc-by-4.0",
     "name": "Creative Commons Attribution 4.0 International",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 20,
-  "open_issues": 10,
-  "watchers": 201,
+  "open_issues": 11,
+  "watchers": 203,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 180
+  "_index": 181
 }

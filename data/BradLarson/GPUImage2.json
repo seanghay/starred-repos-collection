@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/BradLarson/GPUImage2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/BradLarson/GPUImage2/deployments",
   "created_at": "2016-04-16T17:16:16Z",
-  "updated_at": "2024-02-12T02:57:11Z",
+  "updated_at": "2024-02-19T03:10:28Z",
   "pushed_at": "2024-02-16T05:43:58Z",
   "git_url": "git://github.com/BradLarson/GPUImage2.git",
   "ssh_url": "git@github.com:BradLarson/GPUImage2.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/BradLarson/GPUImage2",
   "homepage": null,
   "size": 8778,
-  "stargazers_count": 4820,
-  "watchers_count": 4820,
+  "stargazers_count": 4822,
+  "watchers_count": 4822,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 620,
   "open_issues": 200,
-  "watchers": 4820,
+  "watchers": 4822,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 36
+  "_index": 37
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/speechbrain/speechbrain/releases{/id}",
   "deployments_url": "https://api.github.com/repos/speechbrain/speechbrain/deployments",
   "created_at": "2020-04-28T17:48:45Z",
-  "updated_at": "2024-02-19T01:23:07Z",
-  "pushed_at": "2024-02-19T01:35:49Z",
+  "updated_at": "2024-02-19T02:27:47Z",
+  "pushed_at": "2024-02-19T18:25:53Z",
   "git_url": "git://github.com/speechbrain/speechbrain.git",
   "ssh_url": "git@github.com:speechbrain/speechbrain.git",
   "clone_url": "https://github.com/speechbrain/speechbrain.git",
   "svn_url": "https://github.com/speechbrain/speechbrain",
   "homepage": "http://speechbrain.github.io",
   "size": 88949,
-  "stargazers_count": 7274,
-  "watchers_count": 7274,
+  "stargazers_count": 7275,
+  "watchers_count": 7275,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1227,
+  "forks_count": 1228,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 121,
+  "open_issues_count": 122,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -120,9 +120,9 @@
     "voice-recognition"
   ],
   "visibility": "public",
-  "forks": 1227,
-  "open_issues": 121,
-  "watchers": 7274,
+  "forks": 1228,
+  "open_issues": 122,
+  "watchers": 7275,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 818
+  "_index": 819
 }

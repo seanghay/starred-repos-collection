@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mattdesl/canvas-sketch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mattdesl/canvas-sketch/deployments",
   "created_at": "2018-06-14T06:01:46Z",
-  "updated_at": "2024-02-18T00:42:15Z",
+  "updated_at": "2024-02-19T20:06:33Z",
   "pushed_at": "2024-02-08T15:47:59Z",
   "git_url": "git://github.com/mattdesl/canvas-sketch.git",
   "ssh_url": "git@github.com:mattdesl/canvas-sketch.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mattdesl/canvas-sketch",
   "homepage": "",
   "size": 21059,
-  "stargazers_count": 4855,
-  "watchers_count": 4855,
+  "stargazers_count": 4857,
+  "watchers_count": 4857,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 387,
   "open_issues": 58,
-  "watchers": 4855,
+  "watchers": 4857,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 772
+  "_index": 773
 }

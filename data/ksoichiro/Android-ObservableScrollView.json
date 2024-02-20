@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ksoichiro/Android-ObservableScrollView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ksoichiro/Android-ObservableScrollView/deployments",
   "created_at": "2014-11-08T14:45:20Z",
-  "updated_at": "2024-02-18T09:42:58Z",
+  "updated_at": "2024-02-19T05:30:43Z",
   "pushed_at": "2021-06-01T03:54:51Z",
   "git_url": "git://github.com/ksoichiro/Android-ObservableScrollView.git",
   "ssh_url": "git@github.com:ksoichiro/Android-ObservableScrollView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ksoichiro/Android-ObservableScrollView",
   "homepage": "http://ksoichiro.github.io/Android-ObservableScrollView/",
   "size": 13780,
-  "stargazers_count": 9640,
-  "watchers_count": 9640,
+  "stargazers_count": 9641,
+  "watchers_count": 9641,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 2085,
+  "forks_count": 2086,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "material-design"
   ],
   "visibility": "public",
-  "forks": 2085,
+  "forks": 2086,
   "open_issues": 179,
-  "watchers": 9640,
+  "watchers": 9641,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3275
+  "_index": 3276
 }

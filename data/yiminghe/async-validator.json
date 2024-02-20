@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yiminghe/async-validator/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yiminghe/async-validator/deployments",
   "created_at": "2015-03-10T03:04:31Z",
-  "updated_at": "2024-02-18T07:42:23Z",
+  "updated_at": "2024-02-19T09:32:12Z",
   "pushed_at": "2024-01-07T15:26:26Z",
   "git_url": "git://github.com/yiminghe/async-validator.git",
   "ssh_url": "git@github.com:yiminghe/async-validator.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yiminghe/async-validator",
   "homepage": null,
   "size": 1128,
-  "stargazers_count": 8670,
-  "watchers_count": 8670,
+  "stargazers_count": 8668,
+  "watchers_count": 8668,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 156,
+  "open_issues_count": 157,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 761,
-  "open_issues": 156,
-  "watchers": 8670,
+  "open_issues": 157,
+  "watchers": 8668,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1797
+  "_index": 1798
 }

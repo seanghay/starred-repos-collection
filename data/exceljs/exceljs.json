@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/exceljs/exceljs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/exceljs/exceljs/deployments",
   "created_at": "2014-12-09T20:57:12Z",
-  "updated_at": "2024-02-18T05:45:44Z",
-  "pushed_at": "2024-02-15T11:38:30Z",
+  "updated_at": "2024-02-20T00:54:59Z",
+  "pushed_at": "2024-02-19T18:28:19Z",
   "git_url": "git://github.com/exceljs/exceljs.git",
   "ssh_url": "git@github.com:exceljs/exceljs.git",
   "clone_url": "https://github.com/exceljs/exceljs.git",
   "svn_url": "https://github.com/exceljs/exceljs",
   "homepage": "",
   "size": 21787,
-  "stargazers_count": 12581,
-  "watchers_count": 12581,
+  "stargazers_count": 12586,
+  "watchers_count": 12586,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1629,
+  "forks_count": 1631,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 569,
+  "open_issues_count": 571,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -111,9 +111,9 @@
     "xlsxwriter"
   ],
   "visibility": "public",
-  "forks": 1629,
-  "open_issues": 569,
-  "watchers": 12581,
+  "forks": 1631,
+  "open_issues": 571,
+  "watchers": 12586,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 805
+  "_index": 806
 }

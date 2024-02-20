@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/Tunous/SwipeActionView/deployments",
   "created_at": "2016-08-18T19:07:04Z",
   "updated_at": "2024-02-13T08:21:32Z",
-  "pushed_at": "2023-10-29T15:33:49Z",
+  "pushed_at": "2024-02-19T21:17:16Z",
   "git_url": "git://github.com/Tunous/SwipeActionView.git",
   "ssh_url": "git@github.com:Tunous/SwipeActionView.git",
   "clone_url": "https://github.com/Tunous/SwipeActionView.git",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 14,
+  "forks_count": 15,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 4,
+  "open_issues_count": 5,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -104,8 +104,8 @@
     "swipe-gestures"
   ],
   "visibility": "public",
-  "forks": 14,
-  "open_issues": 4,
+  "forks": 15,
+  "open_issues": 5,
   "watchers": 182,
   "default_branch": "master",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2815
+  "_index": 2816
 }

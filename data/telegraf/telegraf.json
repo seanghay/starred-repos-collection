@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/telegraf/telegraf/releases{/id}",
   "deployments_url": "https://api.github.com/repos/telegraf/telegraf/deployments",
   "created_at": "2016-04-16T18:05:48Z",
-  "updated_at": "2024-02-18T23:30:37Z",
-  "pushed_at": "2024-02-16T13:25:55Z",
+  "updated_at": "2024-02-19T23:50:07Z",
+  "pushed_at": "2024-02-19T23:06:26Z",
   "git_url": "git://github.com/telegraf/telegraf.git",
   "ssh_url": "git@github.com:telegraf/telegraf.git",
   "clone_url": "https://github.com/telegraf/telegraf.git",
   "svn_url": "https://github.com/telegraf/telegraf",
   "homepage": "https://telegraf.js.org",
-  "size": 6103,
-  "stargazers_count": 7427,
-  "watchers_count": 7427,
+  "size": 6302,
+  "stargazers_count": 7428,
+  "watchers_count": 7428,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 900,
   "open_issues": 33,
-  "watchers": 7427,
+  "watchers": 7428,
   "default_branch": "v4",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1100
+  "_index": 1101
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/danielmiessler/fabric/releases{/id}",
   "deployments_url": "https://api.github.com/repos/danielmiessler/fabric/deployments",
   "created_at": "2024-01-03T23:18:31Z",
-  "updated_at": "2024-02-19T00:45:38Z",
-  "pushed_at": "2024-02-19T01:27:30Z",
+  "updated_at": "2024-02-20T01:07:23Z",
+  "pushed_at": "2024-02-20T01:34:25Z",
   "git_url": "git://github.com/danielmiessler/fabric.git",
   "ssh_url": "git@github.com:danielmiessler/fabric.git",
   "clone_url": "https://github.com/danielmiessler/fabric.git",
   "svn_url": "https://github.com/danielmiessler/fabric",
   "homepage": "https://danielmiessler.com/p/fabric-origin-story",
-  "size": 52434,
-  "stargazers_count": 5424,
-  "watchers_count": 5424,
+  "size": 52438,
+  "stargazers_count": 5462,
+  "watchers_count": 5462,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 444,
+  "forks_count": 449,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2,
+  "open_issues_count": 1,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,9 +105,9 @@
     "work"
   ],
   "visibility": "public",
-  "forks": 444,
-  "open_issues": 2,
-  "watchers": 5424,
+  "forks": 449,
+  "open_issues": 1,
+  "watchers": 5462,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 64
+  "_index": 65
 }

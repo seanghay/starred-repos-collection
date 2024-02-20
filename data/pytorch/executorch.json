@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/pytorch/executorch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pytorch/executorch/deployments",
   "created_at": "2022-02-25T17:58:31Z",
-  "updated_at": "2024-02-18T21:40:06Z",
-  "pushed_at": "2024-02-18T15:06:38Z",
+  "updated_at": "2024-02-19T12:04:44Z",
+  "pushed_at": "2024-02-20T01:07:54Z",
   "git_url": "git://github.com/pytorch/executorch.git",
   "ssh_url": "git@github.com:pytorch/executorch.git",
   "clone_url": "https://github.com/pytorch/executorch.git",
   "svn_url": "https://github.com/pytorch/executorch",
   "homepage": "https://pytorch.org/executorch/",
-  "size": 39841,
-  "stargazers_count": 611,
-  "watchers_count": 611,
+  "size": 39851,
+  "stargazers_count": 612,
+  "watchers_count": 612,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 217,
+  "open_issues_count": 218,
   "license": {
     "key": "other",
     "name": "Other",
@@ -108,8 +108,8 @@
   ],
   "visibility": "public",
   "forks": 102,
-  "open_issues": 217,
-  "watchers": 611,
+  "open_issues": 218,
+  "watchers": 612,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 119
+  "_index": 120
 }

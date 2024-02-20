@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/github/branch-deploy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/github/branch-deploy/deployments",
   "created_at": "2022-04-28T13:51:25Z",
-  "updated_at": "2024-02-09T10:56:40Z",
+  "updated_at": "2024-02-19T02:48:25Z",
   "pushed_at": "2024-02-17T21:58:02Z",
   "git_url": "git://github.com/github/branch-deploy.git",
   "ssh_url": "git@github.com:github/branch-deploy.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/github/branch-deploy",
   "homepage": "https://github.com/marketplace/actions/branch-deploy",
   "size": 7860,
-  "stargazers_count": 295,
-  "watchers_count": 295,
+  "stargazers_count": 296,
+  "watchers_count": 296,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 47,
+  "forks_count": 48,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -112,9 +112,9 @@
     "workflows"
   ],
   "visibility": "public",
-  "forks": 47,
+  "forks": 48,
   "open_issues": 1,
-  "watchers": 295,
+  "watchers": 296,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1103
+  "_index": 1104
 }

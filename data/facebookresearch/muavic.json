@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/facebookresearch/muavic/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookresearch/muavic/deployments",
   "created_at": "2023-02-23T01:20:44Z",
-  "updated_at": "2024-02-15T03:52:05Z",
+  "updated_at": "2024-02-19T18:28:08Z",
   "pushed_at": "2023-09-11T18:32:18Z",
   "git_url": "git://github.com/facebookresearch/muavic.git",
   "ssh_url": "git@github.com:facebookresearch/muavic.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/facebookresearch/muavic",
   "homepage": "",
   "size": 204,
-  "stargazers_count": 319,
-  "watchers_count": 319,
+  "stargazers_count": 320,
+  "watchers_count": 320,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 26,
   "open_issues": 6,
-  "watchers": 319,
+  "watchers": 320,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 462
+  "_index": 463
 }
