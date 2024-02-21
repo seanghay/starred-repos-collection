@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2246,
+  "forks_count": 2228,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "luban"
   ],
   "visibility": "public",
-  "forks": 2246,
+  "forks": 2228,
   "open_issues": 153,
   "watchers": 13457,
   "default_branch": "master",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2878
+  "_index": 2879
 }

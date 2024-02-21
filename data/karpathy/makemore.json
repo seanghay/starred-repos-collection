@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/karpathy/makemore/releases{/id}",
   "deployments_url": "https://api.github.com/repos/karpathy/makemore/deployments",
   "created_at": "2022-06-09T19:29:36Z",
-  "updated_at": "2024-02-20T00:26:00Z",
+  "updated_at": "2024-02-20T19:33:38Z",
   "pushed_at": "2024-01-29T06:41:13Z",
   "git_url": "git://github.com/karpathy/makemore.git",
   "ssh_url": "git@github.com:karpathy/makemore.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/karpathy/makemore",
   "homepage": "",
   "size": 175,
-  "stargazers_count": 1804,
-  "watchers_count": 1804,
+  "stargazers_count": 1809,
+  "watchers_count": 1809,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 464,
+  "forks_count": 467,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 464,
+  "forks": 467,
   "open_issues": 10,
-  "watchers": 1804,
+  "watchers": 1809,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 645
+  "_index": 646
 }

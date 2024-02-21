@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/yt-dlp/yt-dlp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yt-dlp/yt-dlp/deployments",
   "created_at": "2020-10-26T04:22:55Z",
-  "updated_at": "2024-02-20T01:39:59Z",
-  "pushed_at": "2024-02-19T23:36:42Z",
+  "updated_at": "2024-02-21T01:12:04Z",
+  "pushed_at": "2024-02-20T18:30:28Z",
   "git_url": "git://github.com/yt-dlp/yt-dlp.git",
   "ssh_url": "git@github.com:yt-dlp/yt-dlp.git",
   "clone_url": "https://github.com/yt-dlp/yt-dlp.git",
   "svn_url": "https://github.com/yt-dlp/yt-dlp",
   "homepage": "https://discord.gg/H5MNcFW63r",
-  "size": 45811,
-  "stargazers_count": 66395,
-  "watchers_count": 66395,
+  "size": 45972,
+  "stargazers_count": 66445,
+  "watchers_count": 66445,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 5495,
+  "forks_count": 5496,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,9 +108,9 @@
     "yt-dlp"
   ],
   "visibility": "public",
-  "forks": 5495,
+  "forks": 5496,
   "open_issues": 1425,
-  "watchers": 66395,
+  "watchers": 66445,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1930
+  "_index": 1931
 }

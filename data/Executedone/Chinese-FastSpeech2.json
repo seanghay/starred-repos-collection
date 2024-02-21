@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Executedone/Chinese-FastSpeech2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Executedone/Chinese-FastSpeech2/deployments",
   "created_at": "2022-11-12T08:57:15Z",
-  "updated_at": "2024-02-12T12:30:11Z",
+  "updated_at": "2024-02-20T08:40:42Z",
   "pushed_at": "2023-09-10T03:05:15Z",
   "git_url": "git://github.com/Executedone/Chinese-FastSpeech2.git",
   "ssh_url": "git@github.com:Executedone/Chinese-FastSpeech2.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Executedone/Chinese-FastSpeech2",
   "homepage": "",
   "size": 6154,
-  "stargazers_count": 195,
-  "watchers_count": 195,
+  "stargazers_count": 196,
+  "watchers_count": 196,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -103,7 +103,7 @@
   "visibility": "public",
   "forks": 32,
   "open_issues": 13,
-  "watchers": 195,
+  "watchers": 196,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 33
+  "_index": 34
 }

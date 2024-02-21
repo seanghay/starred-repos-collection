@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/githubharald/CTCDecoder/releases{/id}",
   "deployments_url": "https://api.github.com/repos/githubharald/CTCDecoder/deployments",
   "created_at": "2017-10-09T16:56:55Z",
-  "updated_at": "2024-02-11T18:30:13Z",
+  "updated_at": "2024-02-20T15:47:00Z",
   "pushed_at": "2021-07-26T21:09:18Z",
   "git_url": "git://github.com/githubharald/CTCDecoder.git",
   "ssh_url": "git@github.com:githubharald/CTCDecoder.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/githubharald/CTCDecoder",
   "homepage": "https://towardsdatascience.com/3797e43a86c",
   "size": 1030,
-  "stargazers_count": 793,
-  "watchers_count": 793,
+  "stargazers_count": 794,
+  "watchers_count": 794,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 177,
+  "forks_count": 178,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -113,9 +113,9 @@
     "token-passing"
   ],
   "visibility": "public",
-  "forks": 177,
+  "forks": 178,
   "open_issues": 0,
-  "watchers": 793,
+  "watchers": 794,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 242
+  "_index": 243
 }

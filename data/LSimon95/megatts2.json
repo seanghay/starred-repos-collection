@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/LSimon95/megatts2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/LSimon95/megatts2/deployments",
   "created_at": "2023-12-10T15:02:54Z",
-  "updated_at": "2024-02-19T08:07:34Z",
-  "pushed_at": "2024-02-19T12:03:51Z",
+  "updated_at": "2024-02-20T21:12:33Z",
+  "pushed_at": "2024-02-20T15:31:02Z",
   "git_url": "git://github.com/LSimon95/megatts2.git",
   "ssh_url": "git@github.com:LSimon95/megatts2.git",
   "clone_url": "https://github.com/LSimon95/megatts2.git",
   "svn_url": "https://github.com/LSimon95/megatts2",
   "homepage": "",
-  "size": 234,
-  "stargazers_count": 133,
-  "watchers_count": 133,
+  "size": 236,
+  "stargazers_count": 140,
+  "watchers_count": 140,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 17,
+  "forks_count": 18,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 6,
+  "open_issues_count": 3,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -102,9 +102,9 @@
     "voice-clone"
   ],
   "visibility": "public",
-  "forks": 17,
-  "open_issues": 6,
-  "watchers": 133,
+  "forks": 18,
+  "open_issues": 3,
+  "watchers": 140,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 188
+  "_index": 189
 }

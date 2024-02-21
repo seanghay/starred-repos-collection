@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/starship/starship/releases{/id}",
   "deployments_url": "https://api.github.com/repos/starship/starship/deployments",
   "created_at": "2019-04-02T03:23:12Z",
-  "updated_at": "2024-02-19T23:39:02Z",
-  "pushed_at": "2024-02-20T01:18:33Z",
+  "updated_at": "2024-02-20T21:55:07Z",
+  "pushed_at": "2024-02-20T06:54:38Z",
   "git_url": "git://github.com/starship/starship.git",
   "ssh_url": "git@github.com:starship/starship.git",
   "clone_url": "https://github.com/starship/starship.git",
   "svn_url": "https://github.com/starship/starship",
   "homepage": "https://starship.rs",
-  "size": 33722,
-  "stargazers_count": 39369,
-  "watchers_count": 39369,
+  "size": 33782,
+  "stargazers_count": 39377,
+  "watchers_count": 39377,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1733,
+  "forks_count": 1736,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -112,9 +112,9 @@
     "zsh-theme"
   ],
   "visibility": "public",
-  "forks": 1733,
+  "forks": 1736,
   "open_issues": 661,
-  "watchers": 39369,
+  "watchers": 39377,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2441
+  "_index": 2442
 }

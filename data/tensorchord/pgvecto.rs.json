@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/tensorchord/pgvecto.rs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tensorchord/pgvecto.rs/deployments",
   "created_at": "2023-04-15T09:56:24Z",
-  "updated_at": "2024-02-19T22:14:30Z",
-  "pushed_at": "2024-02-19T16:06:13Z",
+  "updated_at": "2024-02-21T01:29:14Z",
+  "pushed_at": "2024-02-20T17:59:31Z",
   "git_url": "git://github.com/tensorchord/pgvecto.rs.git",
   "ssh_url": "git@github.com:tensorchord/pgvecto.rs.git",
   "clone_url": "https://github.com/tensorchord/pgvecto.rs.git",
   "svn_url": "https://github.com/tensorchord/pgvecto.rs",
   "homepage": "https://docs.pgvecto.rs/getting-started/overview.html",
-  "size": 890,
-  "stargazers_count": 1049,
-  "watchers_count": 1049,
+  "size": 902,
+  "stargazers_count": 1053,
+  "watchers_count": 1053,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 55,
+  "open_issues_count": 54,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -111,8 +111,8 @@
   ],
   "visibility": "public",
   "forks": 47,
-  "open_issues": 55,
-  "watchers": 1049,
+  "open_issues": 54,
+  "watchers": 1053,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 879
+  "_index": 880
 }

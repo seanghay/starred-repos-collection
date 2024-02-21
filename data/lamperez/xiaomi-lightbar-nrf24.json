@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/lamperez/xiaomi-lightbar-nrf24/deployments",
   "created_at": "2024-01-03T00:01:35Z",
   "updated_at": "2024-02-11T10:25:53Z",
-  "pushed_at": "2024-02-19T14:27:21Z",
+  "pushed_at": "2024-02-20T22:21:54Z",
   "git_url": "git://github.com/lamperez/xiaomi-lightbar-nrf24.git",
   "ssh_url": "git@github.com:lamperez/xiaomi-lightbar-nrf24.git",
   "clone_url": "https://github.com/lamperez/xiaomi-lightbar-nrf24.git",
   "svn_url": "https://github.com/lamperez/xiaomi-lightbar-nrf24",
   "homepage": "",
-  "size": 147,
+  "size": 165,
   "stargazers_count": 5,
   "watchers_count": 5,
   "language": "Python",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 3,
+  "open_issues_count": 2,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -112,7 +112,7 @@
   ],
   "visibility": "public",
   "forks": 2,
-  "open_issues": 3,
+  "open_issues": 2,
   "watchers": 5,
   "default_branch": "main",
   "permissions": {
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 121
+  "_index": 122
 }

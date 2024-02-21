@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/shivammehta25/Matcha-TTS/releases{/id}",
   "deployments_url": "https://api.github.com/repos/shivammehta25/Matcha-TTS/deployments",
   "created_at": "2023-09-05T22:08:15Z",
-  "updated_at": "2024-02-20T01:29:44Z",
+  "updated_at": "2024-02-20T16:30:53Z",
   "pushed_at": "2024-02-20T00:57:22Z",
   "git_url": "git://github.com/shivammehta25/Matcha-TTS.git",
   "ssh_url": "git@github.com:shivammehta25/Matcha-TTS.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/shivammehta25/Matcha-TTS",
   "homepage": "https://shivammehta25.github.io/Matcha-TTS/",
   "size": 65567,
-  "stargazers_count": 299,
-  "watchers_count": 299,
+  "stargazers_count": 303,
+  "watchers_count": 303,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 35,
+  "forks_count": 36,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 4,
+  "open_issues_count": 3,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,9 +112,9 @@
     "tts-engines"
   ],
   "visibility": "public",
-  "forks": 35,
-  "open_issues": 4,
-  "watchers": 299,
+  "forks": 36,
+  "open_issues": 3,
+  "watchers": 303,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 32
+  "_index": 33
 }

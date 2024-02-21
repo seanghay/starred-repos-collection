@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/adonisjs/core",
-  "description": "🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence",
+  "description": "AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.",
   "fork": false,
   "url": "https://api.github.com/repos/adonisjs/core",
   "forks_url": "https://api.github.com/repos/adonisjs/core/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/adonisjs/core/releases{/id}",
   "deployments_url": "https://api.github.com/repos/adonisjs/core/deployments",
   "created_at": "2015-08-15T17:03:54Z",
-  "updated_at": "2024-02-19T22:08:07Z",
-  "pushed_at": "2024-02-19T21:51:01Z",
+  "updated_at": "2024-02-20T22:37:32Z",
+  "pushed_at": "2024-02-20T23:12:24Z",
   "git_url": "git://github.com/adonisjs/core.git",
   "ssh_url": "git@github.com:adonisjs/core.git",
   "clone_url": "https://github.com/adonisjs/core.git",
   "svn_url": "https://github.com/adonisjs/core",
   "homepage": "https://adonisjs.com",
   "size": 5810,
-  "stargazers_count": 14998,
-  "watchers_count": 14998,
+  "stargazers_count": 15020,
+  "watchers_count": 15020,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 6,
+  "open_issues_count": 5,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,8 +109,8 @@
   ],
   "visibility": "public",
   "forks": 628,
-  "open_issues": 6,
-  "watchers": 14998,
+  "open_issues": 5,
+  "watchers": 15020,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1577
+  "_index": 1578
 }

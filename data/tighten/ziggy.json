@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/tighten/ziggy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tighten/ziggy/deployments",
   "created_at": "2017-08-02T21:07:04Z",
-  "updated_at": "2024-02-19T15:15:43Z",
-  "pushed_at": "2024-02-18T08:04:20Z",
+  "updated_at": "2024-02-20T21:32:22Z",
+  "pushed_at": "2024-02-21T00:07:40Z",
   "git_url": "git://github.com/tighten/ziggy.git",
   "ssh_url": "git@github.com:tighten/ziggy.git",
   "clone_url": "https://github.com/tighten/ziggy.git",
   "svn_url": "https://github.com/tighten/ziggy",
   "homepage": "",
-  "size": 2779,
-  "stargazers_count": 3648,
-  "watchers_count": 3648,
+  "size": 2777,
+  "stargazers_count": 3649,
+  "watchers_count": 3649,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 7,
+  "open_issues_count": 5,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -98,7 +98,6 @@
   "is_template": false,
   "web_commit_signoff_required": false,
   "topics": [
-    "hacktoberfest",
     "javascript",
     "laravel",
     "routes",
@@ -106,9 +105,9 @@
   ],
   "visibility": "public",
   "forks": 281,
-  "open_issues": 7,
-  "watchers": 3648,
-  "default_branch": "main",
+  "open_issues": 5,
+  "watchers": 3649,
+  "default_branch": "2.x",
   "permissions": {
     "admin": false,
     "maintain": false,
@@ -116,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2126
+  "_index": 2127
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/CapSoftware/cap/releases{/id}",
   "deployments_url": "https://api.github.com/repos/CapSoftware/cap/deployments",
   "created_at": "2023-11-17T20:31:46Z",
-  "updated_at": "2024-02-19T13:15:58Z",
+  "updated_at": "2024-02-20T23:46:56Z",
   "pushed_at": "2024-02-19T07:37:37Z",
   "git_url": "git://github.com/CapSoftware/cap.git",
   "ssh_url": "git@github.com:CapSoftware/cap.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/CapSoftware/cap",
   "homepage": "https://cap.so",
   "size": 4242,
-  "stargazers_count": 871,
-  "watchers_count": 871,
+  "stargazers_count": 875,
+  "watchers_count": 875,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -117,7 +117,7 @@
   "visibility": "public",
   "forks": 22,
   "open_issues": 1,
-  "watchers": 871,
+  "watchers": 875,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 288
+  "_index": 289
 }

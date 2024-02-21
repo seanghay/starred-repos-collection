@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/joblib/joblib/releases{/id}",
   "deployments_url": "https://api.github.com/repos/joblib/joblib/deployments",
   "created_at": "2010-05-07T06:48:26Z",
-  "updated_at": "2024-02-18T22:39:40Z",
-  "pushed_at": "2024-02-16T21:24:13Z",
+  "updated_at": "2024-02-20T15:17:27Z",
+  "pushed_at": "2024-02-21T01:05:28Z",
   "git_url": "git://github.com/joblib/joblib.git",
   "ssh_url": "git@github.com:joblib/joblib.git",
   "clone_url": "https://github.com/joblib/joblib.git",
   "svn_url": "https://github.com/joblib/joblib",
   "homepage": "http://joblib.readthedocs.org",
   "size": 4450,
-  "stargazers_count": 3576,
-  "watchers_count": 3576,
+  "stargazers_count": 3577,
+  "watchers_count": 3577,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 441,
+  "forks_count": 442,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 418,
+  "open_issues_count": 420,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -106,9 +106,9 @@
     "threading"
   ],
   "visibility": "public",
-  "forks": 441,
-  "open_issues": 418,
-  "watchers": 3576,
+  "forks": 442,
+  "open_issues": 420,
+  "watchers": 3577,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1028
+  "_index": 1029
 }

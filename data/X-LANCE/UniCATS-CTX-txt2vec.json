@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/X-LANCE/UniCATS-CTX-txt2vec/releases{/id}",
   "deployments_url": "https://api.github.com/repos/X-LANCE/UniCATS-CTX-txt2vec/deployments",
   "created_at": "2023-10-31T10:49:05Z",
-  "updated_at": "2024-02-07T06:35:27Z",
+  "updated_at": "2024-02-20T23:32:31Z",
   "pushed_at": "2023-12-23T08:38:56Z",
   "git_url": "git://github.com/X-LANCE/UniCATS-CTX-txt2vec.git",
   "ssh_url": "git@github.com:X-LANCE/UniCATS-CTX-txt2vec.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/X-LANCE/UniCATS-CTX-txt2vec",
   "homepage": "https://cpdu.github.io/unicats",
   "size": 1004,
-  "stargazers_count": 40,
-  "watchers_count": 40,
+  "stargazers_count": 42,
+  "watchers_count": 42,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 4,
+  "forks_count": 5,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -101,9 +101,9 @@
     "vq-diffusion"
   ],
   "visibility": "public",
-  "forks": 4,
+  "forks": 5,
   "open_issues": 4,
-  "watchers": 40,
+  "watchers": 42,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 206
+  "_index": 207
 }

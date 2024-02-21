@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/sp-nitech/diffsptk/deployments",
   "created_at": "2022-03-08T14:28:14Z",
   "updated_at": "2024-02-15T11:18:58Z",
-  "pushed_at": "2024-02-19T05:58:01Z",
+  "pushed_at": "2024-02-20T14:33:05Z",
   "git_url": "git://github.com/sp-nitech/diffsptk.git",
   "ssh_url": "git@github.com:sp-nitech/diffsptk.git",
   "clone_url": "https://github.com/sp-nitech/diffsptk.git",
   "svn_url": "https://github.com/sp-nitech/diffsptk",
   "homepage": "http://sp-tk.sourceforge.net",
-  "size": 942,
+  "size": 976,
   "stargazers_count": 146,
   "watchers_count": 146,
   "language": "Python",
@@ -125,5 +125,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 600
+  "_index": 601
 }

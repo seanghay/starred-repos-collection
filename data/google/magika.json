@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/google/magika/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/magika/deployments",
   "created_at": "2023-08-22T09:36:55Z",
-  "updated_at": "2024-02-20T01:39:24Z",
-  "pushed_at": "2024-02-20T01:23:35Z",
+  "updated_at": "2024-02-21T01:40:05Z",
+  "pushed_at": "2024-02-20T21:10:44Z",
   "git_url": "git://github.com/google/magika.git",
   "ssh_url": "git@github.com:google/magika.git",
   "clone_url": "https://github.com/google/magika.git",
   "svn_url": "https://github.com/google/magika",
   "homepage": "https://google.github.io/magika/",
-  "size": 6076,
-  "stargazers_count": 4927,
-  "watchers_count": 4927,
+  "size": 6015,
+  "stargazers_count": 5584,
+  "watchers_count": 5584,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 213,
+  "forks_count": 279,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 85,
+  "open_issues_count": 61,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -105,9 +105,9 @@
     "mime-types"
   ],
   "visibility": "public",
-  "forks": 213,
-  "open_issues": 85,
-  "watchers": 4927,
+  "forks": 279,
+  "open_issues": 61,
+  "watchers": 5584,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 10
+  "_index": 11
 }
