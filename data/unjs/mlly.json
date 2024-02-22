@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/unjs/mlly",
-  "description": "🤝 Missing ECMAScript module utils for Node.js",
+  "description": "🤝 Common ECMAScript module utils ",
   "fork": false,
   "url": "https://api.github.com/repos/unjs/mlly",
   "forks_url": "https://api.github.com/repos/unjs/mlly/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/unjs/mlly/releases{/id}",
   "deployments_url": "https://api.github.com/repos/unjs/mlly/deployments",
   "created_at": "2021-07-16T12:33:45Z",
-  "updated_at": "2024-02-20T14:04:06Z",
-  "pushed_at": "2024-02-08T01:21:21Z",
+  "updated_at": "2024-02-21T16:10:11Z",
+  "pushed_at": "2024-02-21T16:19:32Z",
   "git_url": "git://github.com/unjs/mlly.git",
   "ssh_url": "git@github.com:unjs/mlly.git",
   "clone_url": "https://github.com/unjs/mlly.git",
   "svn_url": "https://github.com/unjs/mlly",
   "homepage": "",
-  "size": 951,
-  "stargazers_count": 395,
-  "watchers_count": 395,
+  "size": 978,
+  "stargazers_count": 396,
+  "watchers_count": 396,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 11,
+  "open_issues_count": 9,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 27,
-  "open_issues": 11,
-  "watchers": 395,
+  "open_issues": 9,
+  "watchers": 396,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1886
+  "_index": 1889
 }

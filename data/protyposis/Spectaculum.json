@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/protyposis/Spectaculum/deployments",
   "created_at": "2016-08-21T17:27:02Z",
   "updated_at": "2024-02-20T08:42:07Z",
-  "pushed_at": "2024-02-20T08:41:29Z",
+  "pushed_at": "2024-02-21T09:28:30Z",
   "git_url": "git://github.com/protyposis/Spectaculum.git",
   "ssh_url": "git@github.com:protyposis/Spectaculum.git",
   "clone_url": "https://github.com/protyposis/Spectaculum.git",
   "svn_url": "https://github.com/protyposis/Spectaculum",
   "homepage": "",
-  "size": 2598,
+  "size": 2626,
   "stargazers_count": 94,
   "watchers_count": 94,
   "language": "Java",
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3197
+  "_index": 3200
 }

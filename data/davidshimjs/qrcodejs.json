@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/davidshimjs/qrcodejs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/davidshimjs/qrcodejs/deployments",
   "created_at": "2012-12-26T05:29:39Z",
-  "updated_at": "2024-02-20T17:37:17Z",
+  "updated_at": "2024-02-21T18:07:21Z",
   "pushed_at": "2023-08-16T10:25:27Z",
   "git_url": "git://github.com/davidshimjs/qrcodejs.git",
   "ssh_url": "git@github.com:davidshimjs/qrcodejs.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/davidshimjs/qrcodejs",
   "homepage": null,
   "size": 130,
-  "stargazers_count": 13049,
-  "watchers_count": 13049,
+  "stargazers_count": 13051,
+  "watchers_count": 13051,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 4837,
+  "forks_count": 4743,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 229,
+  "open_issues_count": 230,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 4837,
-  "open_issues": 229,
-  "watchers": 13049,
+  "forks": 4743,
+  "open_issues": 230,
+  "watchers": 13051,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1125
+  "_index": 1128
 }

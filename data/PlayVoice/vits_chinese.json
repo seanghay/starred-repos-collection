@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/PlayVoice/vits_chinese/releases{/id}",
   "deployments_url": "https://api.github.com/repos/PlayVoice/vits_chinese/deployments",
   "created_at": "2021-09-27T03:39:50Z",
-  "updated_at": "2024-02-20T12:19:27Z",
+  "updated_at": "2024-02-21T02:47:31Z",
   "pushed_at": "2024-02-05T03:54:40Z",
   "git_url": "git://github.com/PlayVoice/vits_chinese.git",
   "ssh_url": "git@github.com:PlayVoice/vits_chinese.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/PlayVoice/vits_chinese",
   "homepage": "https://huggingface.co/spaces/maxmax20160403/vits_chinese",
   "size": 3115,
-  "stargazers_count": 1009,
-  "watchers_count": 1009,
+  "stargazers_count": 1010,
+  "watchers_count": 1010,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 149,
   "open_issues": 54,
-  "watchers": 1009,
+  "watchers": 1010,
   "default_branch": "bert_vits",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 608
+  "_index": 611
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mct10/CoBERT/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mct10/CoBERT/deployments",
   "created_at": "2022-11-18T05:24:31Z",
-  "updated_at": "2024-01-04T17:13:29Z",
+  "updated_at": "2024-02-21T12:14:53Z",
   "pushed_at": "2023-11-08T14:01:00Z",
   "git_url": "git://github.com/mct10/CoBERT.git",
   "ssh_url": "git@github.com:mct10/CoBERT.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mct10/CoBERT",
   "homepage": "",
   "size": 320,
-  "stargazers_count": 44,
-  "watchers_count": 44,
+  "stargazers_count": 45,
+  "watchers_count": 45,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 2,
   "open_issues": 0,
-  "watchers": 44,
+  "watchers": 45,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 447
+  "_index": 450
 }

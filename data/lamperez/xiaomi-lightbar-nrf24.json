@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2,
+  "open_issues_count": 1,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -112,7 +112,7 @@
   ],
   "visibility": "public",
   "forks": 2,
-  "open_issues": 2,
+  "open_issues": 1,
   "watchers": 5,
   "default_branch": "main",
   "permissions": {
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 122
+  "_index": 125
 }

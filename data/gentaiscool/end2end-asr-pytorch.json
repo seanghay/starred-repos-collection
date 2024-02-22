@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/gentaiscool/end2end-asr-pytorch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gentaiscool/end2end-asr-pytorch/deployments",
   "created_at": "2019-03-05T18:05:16Z",
-  "updated_at": "2024-01-23T17:24:43Z",
+  "updated_at": "2024-02-21T14:41:51Z",
   "pushed_at": "2022-06-02T00:04:31Z",
   "git_url": "git://github.com/gentaiscool/end2end-asr-pytorch.git",
   "ssh_url": "git@github.com:gentaiscool/end2end-asr-pytorch.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/gentaiscool/end2end-asr-pytorch",
   "homepage": "",
   "size": 217,
-  "stargazers_count": 285,
-  "watchers_count": 285,
+  "stargazers_count": 284,
+  "watchers_count": 284,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 62,
   "open_issues": 20,
-  "watchers": 285,
+  "watchers": 284,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 125
+  "_index": 128
 }

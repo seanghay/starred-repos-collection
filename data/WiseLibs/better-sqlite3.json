@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/WiseLibs/better-sqlite3/releases{/id}",
   "deployments_url": "https://api.github.com/repos/WiseLibs/better-sqlite3/deployments",
   "created_at": "2016-09-07T16:48:37Z",
-  "updated_at": "2024-02-20T17:43:52Z",
-  "pushed_at": "2024-02-20T06:21:24Z",
+  "updated_at": "2024-02-21T14:02:43Z",
+  "pushed_at": "2024-02-22T00:45:32Z",
   "git_url": "git://github.com/WiseLibs/better-sqlite3.git",
   "ssh_url": "git@github.com:WiseLibs/better-sqlite3.git",
   "clone_url": "https://github.com/WiseLibs/better-sqlite3.git",
   "svn_url": "https://github.com/WiseLibs/better-sqlite3",
   "homepage": "",
-  "size": 121234,
-  "stargazers_count": 4857,
-  "watchers_count": 4857,
+  "size": 124208,
+  "stargazers_count": 4860,
+  "watchers_count": 4860,
   "language": "C++",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 100,
+  "open_issues_count": 97,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 388,
-  "open_issues": 100,
-  "watchers": 4857,
+  "open_issues": 97,
+  "watchers": 4860,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 907
+  "_index": 910
 }

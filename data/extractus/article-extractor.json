@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/extractus/article-extractor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/extractus/article-extractor/deployments",
   "created_at": "2015-11-29T04:20:27Z",
-  "updated_at": "2024-02-18T23:01:44Z",
+  "updated_at": "2024-02-21T18:00:33Z",
   "pushed_at": "2024-02-13T02:44:43Z",
   "git_url": "git://github.com/extractus/article-extractor.git",
   "ssh_url": "git@github.com:extractus/article-extractor.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/extractus/article-extractor",
   "homepage": "https://extractor-demos.pages.dev/article-extractor",
   "size": 7702,
-  "stargazers_count": 1321,
-  "watchers_count": 1321,
+  "stargazers_count": 1324,
+  "watchers_count": 1324,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 118,
   "open_issues": 5,
-  "watchers": 1321,
+  "watchers": 1324,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 766
+  "_index": 769
 }

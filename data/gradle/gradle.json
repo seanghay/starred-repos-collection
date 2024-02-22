@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/gradle/gradle/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gradle/gradle/deployments",
   "created_at": "2009-09-09T18:27:19Z",
-  "updated_at": "2024-02-21T01:22:51Z",
-  "pushed_at": "2024-02-21T00:24:55Z",
+  "updated_at": "2024-02-22T00:10:19Z",
+  "pushed_at": "2024-02-22T01:34:55Z",
   "git_url": "git://github.com/gradle/gradle.git",
   "ssh_url": "git@github.com:gradle/gradle.git",
   "clone_url": "https://github.com/gradle/gradle.git",
   "svn_url": "https://github.com/gradle/gradle",
   "homepage": "https://gradle.org",
-  "size": 526042,
-  "stargazers_count": 15893,
-  "watchers_count": 15893,
+  "size": 524931,
+  "stargazers_count": 15905,
+  "watchers_count": 15905,
   "language": "Groovy",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 4668,
+  "forks_count": 4429,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2635,
+  "open_issues_count": 2648,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -108,9 +108,9 @@
     "kotlin"
   ],
   "visibility": "public",
-  "forks": 4668,
-  "open_issues": 2635,
-  "watchers": 15893,
+  "forks": 4429,
+  "open_issues": 2648,
+  "watchers": 15905,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2949
+  "_index": 2952
 }

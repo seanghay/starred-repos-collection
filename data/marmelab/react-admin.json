@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/marmelab/react-admin/releases{/id}",
   "deployments_url": "https://api.github.com/repos/marmelab/react-admin/deployments",
   "created_at": "2016-07-13T07:58:54Z",
-  "updated_at": "2024-02-21T00:16:23Z",
-  "pushed_at": "2024-02-20T15:49:24Z",
+  "updated_at": "2024-02-22T01:39:00Z",
+  "pushed_at": "2024-02-21T17:39:41Z",
   "git_url": "git://github.com/marmelab/react-admin.git",
   "ssh_url": "git@github.com:marmelab/react-admin.git",
   "clone_url": "https://github.com/marmelab/react-admin.git",
   "svn_url": "https://github.com/marmelab/react-admin",
   "homepage": "http://marmelab.com/react-admin",
-  "size": 389349,
-  "stargazers_count": 23571,
-  "watchers_count": 23571,
+  "size": 389417,
+  "stargazers_count": 23578,
+  "watchers_count": 23578,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 5179,
+  "forks_count": 5101,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -112,9 +112,9 @@
     "single-page-app"
   ],
   "visibility": "public",
-  "forks": 5179,
+  "forks": 5101,
   "open_issues": 107,
-  "watchers": 23571,
+  "watchers": 23578,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2193
+  "_index": 2196
 }

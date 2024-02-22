@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/comfyanonymous/ComfyUI/releases{/id}",
   "deployments_url": "https://api.github.com/repos/comfyanonymous/ComfyUI/deployments",
   "created_at": "2023-01-17T03:15:56Z",
-  "updated_at": "2024-02-21T01:36:03Z",
-  "pushed_at": "2024-02-20T21:20:06Z",
+  "updated_at": "2024-02-22T01:39:31Z",
+  "pushed_at": "2024-02-22T01:21:25Z",
   "git_url": "git://github.com/comfyanonymous/ComfyUI.git",
   "ssh_url": "git@github.com:comfyanonymous/ComfyUI.git",
   "clone_url": "https://github.com/comfyanonymous/ComfyUI.git",
   "svn_url": "https://github.com/comfyanonymous/ComfyUI",
   "homepage": "",
   "size": 4134,
-  "stargazers_count": 25926,
-  "watchers_count": 25926,
+  "stargazers_count": 26060,
+  "watchers_count": 26060,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2683,
+  "forks_count": 2702,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1270,
+  "open_issues_count": 1276,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -102,9 +102,9 @@
     "stable-diffusion"
   ],
   "visibility": "public",
-  "forks": 2683,
-  "open_issues": 1270,
-  "watchers": 25926,
+  "forks": 2702,
+  "open_issues": 1276,
+  "watchers": 26060,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1039
+  "_index": 1042
 }

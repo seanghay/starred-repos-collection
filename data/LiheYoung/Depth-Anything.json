@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/LiheYoung/Depth-Anything/releases{/id}",
   "deployments_url": "https://api.github.com/repos/LiheYoung/Depth-Anything/deployments",
   "created_at": "2024-01-22T01:09:25Z",
-  "updated_at": "2024-02-21T01:31:50Z",
-  "pushed_at": "2024-02-16T06:36:28Z",
+  "updated_at": "2024-02-22T01:31:19Z",
+  "pushed_at": "2024-02-21T18:52:31Z",
   "git_url": "git://github.com/LiheYoung/Depth-Anything.git",
   "ssh_url": "git@github.com:LiheYoung/Depth-Anything.git",
   "clone_url": "https://github.com/LiheYoung/Depth-Anything.git",
   "svn_url": "https://github.com/LiheYoung/Depth-Anything",
   "homepage": "https://depth-anything.github.io",
   "size": 243582,
-  "stargazers_count": 4524,
-  "watchers_count": 4524,
+  "stargazers_count": 4569,
+  "watchers_count": 4569,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 295,
+  "forks_count": 294,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 49,
+  "open_issues_count": 51,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -104,9 +104,9 @@
     "monocular-depth-estimation"
   ],
   "visibility": "public",
-  "forks": 295,
-  "open_issues": 49,
-  "watchers": 4524,
+  "forks": 294,
+  "open_issues": 51,
+  "watchers": 4569,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 16
+  "_index": 19
 }

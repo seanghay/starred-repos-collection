@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/roboflow/supervision/releases{/id}",
   "deployments_url": "https://api.github.com/repos/roboflow/supervision/deployments",
   "created_at": "2022-11-28T14:08:44Z",
-  "updated_at": "2024-02-21T01:29:28Z",
-  "pushed_at": "2024-02-21T00:15:44Z",
+  "updated_at": "2024-02-22T00:22:19Z",
+  "pushed_at": "2024-02-21T21:20:42Z",
   "git_url": "git://github.com/roboflow/supervision.git",
   "ssh_url": "git@github.com:roboflow/supervision.git",
   "clone_url": "https://github.com/roboflow/supervision.git",
   "svn_url": "https://github.com/roboflow/supervision",
   "homepage": "https://supervision.roboflow.com",
-  "size": 69214,
-  "stargazers_count": 9629,
-  "watchers_count": 9629,
+  "size": 69421,
+  "stargazers_count": 9642,
+  "watchers_count": 9642,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 754,
+  "forks_count": 736,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 98,
+  "open_issues_count": 97,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -118,9 +118,9 @@
     "yolo"
   ],
   "visibility": "public",
-  "forks": 754,
-  "open_issues": 98,
-  "watchers": 9629,
+  "forks": 736,
+  "open_issues": 97,
+  "watchers": 9642,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 384
+  "_index": 387
 }

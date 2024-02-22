@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mcxiaoke/kotlin-koi/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mcxiaoke/kotlin-koi/deployments",
   "created_at": "2016-01-26T10:19:24Z",
-  "updated_at": "2023-10-26T02:11:13Z",
+  "updated_at": "2024-02-21T10:32:57Z",
   "pushed_at": "2017-08-25T09:22:36Z",
   "git_url": "git://github.com/mcxiaoke/kotlin-koi.git",
   "ssh_url": "git@github.com:mcxiaoke/kotlin-koi.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mcxiaoke/kotlin-koi",
   "homepage": "https://github.com/mcxiaoke/kotlin-koi",
   "size": 210,
-  "stargazers_count": 515,
-  "watchers_count": 515,
+  "stargazers_count": 514,
+  "watchers_count": 514,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 54,
   "open_issues": 4,
-  "watchers": 515,
+  "watchers": 514,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3281
+  "_index": 3284
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/CUNY-CL/wikipron/deployments",
   "created_at": "2019-06-12T17:25:31Z",
   "updated_at": "2024-02-18T04:04:16Z",
-  "pushed_at": "2024-02-15T14:52:57Z",
+  "pushed_at": "2024-02-21T23:49:52Z",
   "git_url": "git://github.com/CUNY-CL/wikipron.git",
   "ssh_url": "git@github.com:CUNY-CL/wikipron.git",
   "clone_url": "https://github.com/CUNY-CL/wikipron.git",
   "svn_url": "https://github.com/CUNY-CL/wikipron",
   "homepage": "",
-  "size": 156334,
+  "size": 158493,
   "stargazers_count": 280,
   "watchers_count": 280,
   "language": "Python",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 13,
+  "open_issues_count": 12,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -112,7 +112,7 @@
   ],
   "visibility": "public",
   "forks": 65,
-  "open_issues": 13,
+  "open_issues": 12,
   "watchers": 280,
   "default_branch": "master",
   "permissions": {
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 84
+  "_index": 87
 }

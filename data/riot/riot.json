@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/riot/riot/releases{/id}",
   "deployments_url": "https://api.github.com/repos/riot/riot/deployments",
   "created_at": "2013-09-27T05:21:01Z",
-  "updated_at": "2024-02-20T18:19:58Z",
+  "updated_at": "2024-02-21T18:14:56Z",
   "pushed_at": "2024-02-16T23:30:55Z",
   "git_url": "git://github.com/riot/riot.git",
   "ssh_url": "git@github.com:riot/riot.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1012,
+  "forks_count": 972,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -112,7 +112,7 @@
     "webcomponents"
   ],
   "visibility": "public",
-  "forks": 1012,
+  "forks": 972,
   "open_issues": 4,
   "watchers": 14822,
   "default_branch": "main",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3483
+  "_index": 3486
 }

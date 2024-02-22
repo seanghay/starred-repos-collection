@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/okdroid/checkable-chip-view/releases{/id}",
   "deployments_url": "https://api.github.com/repos/okdroid/checkable-chip-view/deployments",
   "created_at": "2018-08-14T16:36:22Z",
-  "updated_at": "2023-12-13T06:31:56Z",
+  "updated_at": "2024-02-21T05:33:50Z",
   "pushed_at": "2022-07-18T19:03:10Z",
   "git_url": "git://github.com/okdroid/checkable-chip-view.git",
   "ssh_url": "git@github.com:okdroid/checkable-chip-view.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/okdroid/checkable-chip-view",
   "homepage": "",
   "size": 920,
-  "stargazers_count": 524,
-  "watchers_count": 524,
+  "stargazers_count": 522,
+  "watchers_count": 522,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 25,
   "open_issues": 8,
-  "watchers": 524,
+  "watchers": 522,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3139
+  "_index": 3142
 }

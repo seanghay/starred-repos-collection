@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/bytebase/bytebase/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bytebase/bytebase/deployments",
   "created_at": "2021-01-27T04:33:50Z",
-  "updated_at": "2024-02-20T17:27:27Z",
-  "pushed_at": "2024-02-20T03:37:59Z",
+  "updated_at": "2024-02-21T21:55:35Z",
+  "pushed_at": "2024-02-22T01:31:43Z",
   "git_url": "git://github.com/bytebase/bytebase.git",
   "ssh_url": "git@github.com:bytebase/bytebase.git",
   "clone_url": "https://github.com/bytebase/bytebase.git",
   "svn_url": "https://github.com/bytebase/bytebase",
   "homepage": "https://www.bytebase.com",
-  "size": 922851,
-  "stargazers_count": 9429,
-  "watchers_count": 9429,
+  "size": 923606,
+  "stargazers_count": 9436,
+  "watchers_count": 9436,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 52,
+  "open_issues_count": 54,
   "license": {
     "key": "other",
     "name": "Other",
@@ -121,8 +121,8 @@
   ],
   "visibility": "public",
   "forks": 639,
-  "open_issues": 52,
-  "watchers": 9429,
+  "open_issues": 54,
+  "watchers": 9436,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 203
+  "_index": 206
 }

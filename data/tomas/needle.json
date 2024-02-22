@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tomas/needle/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tomas/needle/deployments",
   "created_at": "2011-12-11T03:09:37Z",
-  "updated_at": "2024-02-12T07:11:49Z",
+  "updated_at": "2024-02-21T06:10:02Z",
   "pushed_at": "2024-01-07T15:26:04Z",
   "git_url": "git://github.com/tomas/needle.git",
   "ssh_url": "git@github.com:tomas/needle.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/tomas/needle",
   "homepage": "https://www.npmjs.com/package/needle",
   "size": 1148,
-  "stargazers_count": 1610,
-  "watchers_count": 1610,
+  "stargazers_count": 1609,
+  "watchers_count": 1609,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 247,
   "open_issues": 83,
-  "watchers": 1610,
+  "watchers": 1609,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2214
+  "_index": 2217
 }

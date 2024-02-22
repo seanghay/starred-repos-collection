@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/dodohow1011/SpeechAdvReprogram/releases{/id}",
   "deployments_url": "https://api.github.com/repos/dodohow1011/SpeechAdvReprogram/deployments",
   "created_at": "2021-10-04T15:36:22Z",
-  "updated_at": "2023-10-22T06:30:56Z",
+  "updated_at": "2024-02-21T15:30:15Z",
   "pushed_at": "2023-10-12T00:17:34Z",
   "git_url": "git://github.com/dodohow1011/SpeechAdvReprogram.git",
   "ssh_url": "git@github.com:dodohow1011/SpeechAdvReprogram.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/dodohow1011/SpeechAdvReprogram",
   "homepage": "",
   "size": 4900,
-  "stargazers_count": 15,
-  "watchers_count": 15,
+  "stargazers_count": 17,
+  "watchers_count": 17,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -100,7 +100,7 @@
   "visibility": "public",
   "forks": 2,
   "open_issues": 0,
-  "watchers": 15,
+  "watchers": 17,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -109,5 +109,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 471
+  "_index": 474
 }

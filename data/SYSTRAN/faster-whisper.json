@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/SYSTRAN/faster-whisper/releases{/id}",
   "deployments_url": "https://api.github.com/repos/SYSTRAN/faster-whisper/deployments",
   "created_at": "2023-02-11T09:17:27Z",
-  "updated_at": "2024-02-21T01:19:52Z",
-  "pushed_at": "2024-02-20T16:34:54Z",
+  "updated_at": "2024-02-22T01:33:50Z",
+  "pushed_at": "2024-02-21T13:16:14Z",
   "git_url": "git://github.com/SYSTRAN/faster-whisper.git",
   "ssh_url": "git@github.com:SYSTRAN/faster-whisper.git",
   "clone_url": "https://github.com/SYSTRAN/faster-whisper.git",
   "svn_url": "https://github.com/SYSTRAN/faster-whisper",
   "homepage": "",
-  "size": 2964,
-  "stargazers_count": 7403,
-  "watchers_count": 7403,
+  "size": 2971,
+  "stargazers_count": 7427,
+  "watchers_count": 7427,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 163,
+  "open_issues_count": 166,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,8 +109,8 @@
   ],
   "visibility": "public",
   "forks": 604,
-  "open_issues": 163,
-  "watchers": 7403,
+  "open_issues": 166,
+  "watchers": 7427,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 20
+  "_index": 23
 }
