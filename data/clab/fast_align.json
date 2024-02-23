@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/clab/fast_align/releases{/id}",
   "deployments_url": "https://api.github.com/repos/clab/fast_align/deployments",
   "created_at": "2013-04-07T17:32:37Z",
-  "updated_at": "2024-02-20T14:37:45Z",
+  "updated_at": "2024-02-22T09:39:33Z",
   "pushed_at": "2022-07-19T17:12:12Z",
   "git_url": "git://github.com/clab/fast_align.git",
   "ssh_url": "git@github.com:clab/fast_align.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/clab/fast_align",
   "homepage": null,
   "size": 64,
-  "stargazers_count": 717,
-  "watchers_count": 717,
+  "stargazers_count": 718,
+  "watchers_count": 718,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 158,
   "open_issues": 38,
-  "watchers": 717,
+  "watchers": 718,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 130
+  "_index": 134
 }

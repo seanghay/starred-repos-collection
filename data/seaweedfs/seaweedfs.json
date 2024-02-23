@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/seaweedfs/seaweedfs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/seaweedfs/seaweedfs/deployments",
   "created_at": "2014-07-14T16:41:37Z",
-  "updated_at": "2024-02-22T00:26:56Z",
-  "pushed_at": "2024-02-21T11:29:56Z",
+  "updated_at": "2024-02-23T01:34:47Z",
+  "pushed_at": "2024-02-22T20:18:31Z",
   "git_url": "git://github.com/seaweedfs/seaweedfs.git",
   "ssh_url": "git@github.com:seaweedfs/seaweedfs.git",
   "clone_url": "https://github.com/seaweedfs/seaweedfs.git",
   "svn_url": "https://github.com/seaweedfs/seaweedfs",
   "homepage": "",
-  "size": 55101,
-  "stargazers_count": 20486,
-  "watchers_count": 20486,
+  "size": 55106,
+  "stargazers_count": 20494,
+  "watchers_count": 20494,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 2160,
+  "forks_count": 2119,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 327,
+  "open_issues_count": 328,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -117,9 +117,9 @@
     "tiered-file-system"
   ],
   "visibility": "public",
-  "forks": 2160,
-  "open_issues": 327,
-  "watchers": 20486,
+  "forks": 2119,
+  "open_issues": 328,
+  "watchers": 20494,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 66
+  "_index": 70
 }

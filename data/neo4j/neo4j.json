@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/neo4j/neo4j/releases{/id}",
   "deployments_url": "https://api.github.com/repos/neo4j/neo4j/deployments",
   "created_at": "2012-11-12T08:46:15Z",
-  "updated_at": "2024-02-21T23:45:38Z",
+  "updated_at": "2024-02-22T20:25:30Z",
   "pushed_at": "2024-02-06T09:09:46Z",
   "git_url": "git://github.com/neo4j/neo4j.git",
   "ssh_url": "git@github.com:neo4j/neo4j.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 296,
+  "open_issues_count": 298,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -108,9 +108,9 @@
   ],
   "visibility": "public",
   "forks": 2306,
-  "open_issues": 296,
+  "open_issues": 298,
   "watchers": 12246,
-  "default_branch": "5.13",
+  "default_branch": "5.16",
   "permissions": {
     "admin": false,
     "maintain": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2054
+  "_index": 2058
 }

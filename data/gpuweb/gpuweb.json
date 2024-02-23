@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/gpuweb/gpuweb/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gpuweb/gpuweb/deployments",
   "created_at": "2017-02-10T01:17:35Z",
-  "updated_at": "2024-02-21T16:41:15Z",
+  "updated_at": "2024-02-23T01:05:57Z",
   "pushed_at": "2024-02-20T22:27:30Z",
   "git_url": "git://github.com/gpuweb/gpuweb.git",
   "ssh_url": "git@github.com:gpuweb/gpuweb.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/gpuweb/gpuweb",
   "homepage": "http://webgpu.io",
   "size": 133028,
-  "stargazers_count": 4485,
-  "watchers_count": 4485,
+  "stargazers_count": 4489,
+  "watchers_count": 4489,
   "language": "Bikeshed",
   "has_issues": true,
   "has_projects": false,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 296,
   "open_issues": 414,
-  "watchers": 4485,
+  "watchers": 4489,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 7
+  "_index": 11
 }

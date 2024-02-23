@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/mitsuhiko/rye/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mitsuhiko/rye/deployments",
   "created_at": "2023-04-22T22:23:54Z",
-  "updated_at": "2024-02-22T01:34:00Z",
-  "pushed_at": "2024-02-21T21:25:59Z",
+  "updated_at": "2024-02-23T01:21:40Z",
+  "pushed_at": "2024-02-22T21:13:58Z",
   "git_url": "git://github.com/mitsuhiko/rye.git",
   "ssh_url": "git@github.com:mitsuhiko/rye.git",
   "clone_url": "https://github.com/mitsuhiko/rye.git",
   "svn_url": "https://github.com/mitsuhiko/rye",
   "homepage": "https://rye-up.com",
-  "size": 2697,
-  "stargazers_count": 10045,
-  "watchers_count": 10045,
+  "size": 2712,
+  "stargazers_count": 10067,
+  "watchers_count": 10067,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 362,
+  "forks_count": 365,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 96,
+  "open_issues_count": 97,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -103,9 +103,9 @@
     "python"
   ],
   "visibility": "public",
-  "forks": 362,
-  "open_issues": 96,
-  "watchers": 10045,
+  "forks": 365,
+  "open_issues": 97,
+  "watchers": 10067,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 54
+  "_index": 58
 }

@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/henrymaas/AudioSlicer",
-  "description": "Audio Slicer that uses silence detection to split .wav audio files into several .wav samples.",
+  "description": "Audio Slicer that uses silence detection to split .wav audio files into multiple .wav samples.",
   "fork": false,
   "url": "https://api.github.com/repos/henrymaas/AudioSlicer",
   "forks_url": "https://api.github.com/repos/henrymaas/AudioSlicer/forks",
@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/henrymaas/AudioSlicer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/henrymaas/AudioSlicer/deployments",
   "created_at": "2018-07-17T16:59:26Z",
-  "updated_at": "2024-02-15T09:07:32Z",
+  "updated_at": "2024-02-22T16:41:28Z",
   "pushed_at": "2024-02-14T17:25:24Z",
   "git_url": "git://github.com/henrymaas/AudioSlicer.git",
   "ssh_url": "git@github.com:henrymaas/AudioSlicer.git",
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 559
+  "_index": 563
 }

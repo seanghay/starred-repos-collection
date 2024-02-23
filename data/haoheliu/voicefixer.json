@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/haoheliu/voicefixer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/haoheliu/voicefixer/deployments",
   "created_at": "2021-09-06T03:38:22Z",
-  "updated_at": "2024-02-21T21:43:03Z",
+  "updated_at": "2024-02-22T02:02:15Z",
   "pushed_at": "2024-02-03T00:06:35Z",
   "git_url": "git://github.com/haoheliu/voicefixer.git",
   "ssh_url": "git@github.com:haoheliu/voicefixer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/haoheliu/voicefixer",
   "homepage": "https://haoheliu.github.io/demopage-voicefixer/",
   "size": 3934,
-  "stargazers_count": 845,
-  "watchers_count": 845,
+  "stargazers_count": 846,
+  "watchers_count": 846,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -114,7 +114,7 @@
   "visibility": "public",
   "forks": 107,
   "open_issues": 37,
-  "watchers": 845,
+  "watchers": 846,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 723
+  "_index": 727
 }

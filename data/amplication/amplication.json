@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/amplication/amplication/releases{/id}",
   "deployments_url": "https://api.github.com/repos/amplication/amplication/deployments",
   "created_at": "2020-05-10T19:41:49Z",
-  "updated_at": "2024-02-21T23:10:58Z",
-  "pushed_at": "2024-02-21T21:40:18Z",
+  "updated_at": "2024-02-22T14:27:31Z",
+  "pushed_at": "2024-02-22T18:53:47Z",
   "git_url": "git://github.com/amplication/amplication.git",
   "ssh_url": "git@github.com:amplication/amplication.git",
   "clone_url": "https://github.com/amplication/amplication.git",
   "svn_url": "https://github.com/amplication/amplication",
   "homepage": "https://amplication.com",
-  "size": 362677,
+  "size": 362694,
   "stargazers_count": 13141,
   "watchers_count": 13141,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 675,
+  "open_issues_count": 679,
   "license": {
     "key": "other",
     "name": "Other",
@@ -112,7 +112,7 @@
   ],
   "visibility": "public",
   "forks": 1336,
-  "open_issues": 675,
+  "open_issues": 679,
   "watchers": 13141,
   "default_branch": "master",
   "permissions": {
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1370
+  "_index": 1374
 }

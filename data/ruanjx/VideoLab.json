@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ruanjx/VideoLab/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ruanjx/VideoLab/deployments",
   "created_at": "2021-02-21T07:07:34Z",
-  "updated_at": "2024-02-21T23:09:03Z",
+  "updated_at": "2024-02-22T03:14:29Z",
   "pushed_at": "2022-10-31T11:48:35Z",
   "git_url": "git://github.com/ruanjx/VideoLab.git",
   "ssh_url": "git@github.com:ruanjx/VideoLab.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ruanjx/VideoLab",
   "homepage": "",
   "size": 175050,
-  "stargazers_count": 776,
-  "watchers_count": 776,
+  "stargazers_count": 777,
+  "watchers_count": 777,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 159,
+  "forks_count": 160,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,9 +108,9 @@
     "videoeditor"
   ],
   "visibility": "public",
-  "forks": 159,
+  "forks": 160,
   "open_issues": 18,
-  "watchers": 776,
+  "watchers": 777,
   "default_branch": "develop",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1906
+  "_index": 1910
 }

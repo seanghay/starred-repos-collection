@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/apitable/apitable/releases{/id}",
   "deployments_url": "https://api.github.com/repos/apitable/apitable/deployments",
   "created_at": "2022-08-17T07:25:40Z",
-  "updated_at": "2024-02-22T01:08:39Z",
-  "pushed_at": "2024-02-05T11:11:47Z",
+  "updated_at": "2024-02-23T00:40:25Z",
+  "pushed_at": "2024-02-22T13:20:16Z",
   "git_url": "git://github.com/apitable/apitable.git",
   "ssh_url": "git@github.com:apitable/apitable.git",
   "clone_url": "https://github.com/apitable/apitable.git",
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 967,
+  "forks_count": 931,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 400,
+  "open_issues_count": 406,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -119,8 +119,8 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 967,
-  "open_issues": 400,
+  "forks": 931,
+  "open_issues": 406,
   "watchers": 11331,
   "default_branch": "develop",
   "permissions": {
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1093
+  "_index": 1097
 }

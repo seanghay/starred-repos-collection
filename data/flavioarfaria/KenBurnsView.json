@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/flavioarfaria/KenBurnsView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/flavioarfaria/KenBurnsView/deployments",
   "created_at": "2014-03-19T03:10:02Z",
-  "updated_at": "2024-01-24T16:58:21Z",
+  "updated_at": "2024-02-22T11:48:39Z",
   "pushed_at": "2022-08-26T21:23:54Z",
   "git_url": "git://github.com/flavioarfaria/KenBurnsView.git",
   "ssh_url": "git@github.com:flavioarfaria/KenBurnsView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/flavioarfaria/KenBurnsView",
   "homepage": "",
   "size": 13502,
-  "stargazers_count": 2730,
-  "watchers_count": 2730,
+  "stargazers_count": 2731,
+  "watchers_count": 2731,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 445,
   "open_issues": 12,
-  "watchers": 2730,
+  "watchers": 2731,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3305
+  "_index": 3309
 }

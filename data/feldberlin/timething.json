@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/feldberlin/timething/releases{/id}",
   "deployments_url": "https://api.github.com/repos/feldberlin/timething/deployments",
   "created_at": "2022-05-09T14:04:06Z",
-  "updated_at": "2024-02-21T17:31:50Z",
+  "updated_at": "2024-02-22T13:39:59Z",
   "pushed_at": "2023-11-15T14:35:57Z",
   "git_url": "git://github.com/feldberlin/timething.git",
   "ssh_url": "git@github.com:feldberlin/timething.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/feldberlin/timething",
   "homepage": "",
   "size": 31253,
-  "stargazers_count": 61,
-  "watchers_count": 61,
+  "stargazers_count": 62,
+  "watchers_count": 62,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 3,
   "open_issues": 5,
-  "watchers": 61,
+  "watchers": 62,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1
+  "_index": 5
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tdlib/telegram-bot-api/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tdlib/telegram-bot-api/deployments",
   "created_at": "2020-11-04T14:03:23Z",
-  "updated_at": "2024-02-21T18:01:16Z",
+  "updated_at": "2024-02-23T01:30:52Z",
   "pushed_at": "2024-02-18T02:05:37Z",
   "git_url": "git://github.com/tdlib/telegram-bot-api.git",
   "ssh_url": "git@github.com:tdlib/telegram-bot-api.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/tdlib/telegram-bot-api",
   "homepage": "https://core.telegram.org/bots",
   "size": 466,
-  "stargazers_count": 2666,
-  "watchers_count": 2666,
+  "stargazers_count": 2668,
+  "watchers_count": 2668,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 550,
   "open_issues": 20,
-  "watchers": 2666,
+  "watchers": 2668,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 72
+  "_index": 76
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/idealo/image-super-resolution/releases{/id}",
   "deployments_url": "https://api.github.com/repos/idealo/image-super-resolution/deployments",
   "created_at": "2018-11-26T13:41:13Z",
-  "updated_at": "2024-02-21T15:09:52Z",
+  "updated_at": "2024-02-22T08:34:36Z",
   "pushed_at": "2023-12-31T12:14:36Z",
   "git_url": "git://github.com/idealo/image-super-resolution.git",
   "ssh_url": "git@github.com:idealo/image-super-resolution.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/idealo/image-super-resolution",
   "homepage": "https://idealo.github.io/image-super-resolution/",
   "size": 15341,
-  "stargazers_count": 4422,
-  "watchers_count": 4422,
+  "stargazers_count": 4426,
+  "watchers_count": 4426,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -117,7 +117,7 @@
   "visibility": "public",
   "forks": 738,
   "open_issues": 107,
-  "watchers": 4422,
+  "watchers": 4426,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -126,5 +126,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1074
+  "_index": 1078
 }

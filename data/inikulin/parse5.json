@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 284,
+  "forks_count": 229,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,7 +107,7 @@
     "whatwg"
   ],
   "visibility": "public",
-  "forks": 284,
+  "forks": 229,
   "open_issues": 25,
   "watchers": 3517,
   "default_branch": "master",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1359
+  "_index": 1363
 }

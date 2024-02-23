@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/gre/kenburns/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gre/kenburns/deployments",
   "created_at": "2014-09-30T17:37:47Z",
-  "updated_at": "2024-02-21T18:02:15Z",
+  "updated_at": "2024-02-22T15:27:48Z",
   "pushed_at": "2016-12-23T10:17:18Z",
   "git_url": "git://github.com/gre/kenburns.git",
   "ssh_url": "git@github.com:gre/kenburns.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/gre/kenburns",
   "homepage": "http://kenburns.surge.sh/",
   "size": 80,
-  "stargazers_count": 70,
-  "watchers_count": 70,
+  "stargazers_count": 71,
+  "watchers_count": 71,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 8,
   "open_issues": 1,
-  "watchers": 70,
+  "watchers": 71,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3025
+  "_index": 3029
 }
