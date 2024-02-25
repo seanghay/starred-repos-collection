@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/X-LANCE/UniCATS-CTX-txt2vec/deployments",
   "created_at": "2023-10-31T10:49:05Z",
   "updated_at": "2024-02-20T23:32:31Z",
-  "pushed_at": "2023-12-23T08:38:56Z",
+  "pushed_at": "2024-02-23T05:05:59Z",
   "git_url": "git://github.com/X-LANCE/UniCATS-CTX-txt2vec.git",
   "ssh_url": "git@github.com:X-LANCE/UniCATS-CTX-txt2vec.git",
   "clone_url": "https://github.com/X-LANCE/UniCATS-CTX-txt2vec.git",
   "svn_url": "https://github.com/X-LANCE/UniCATS-CTX-txt2vec",
   "homepage": "https://cpdu.github.io/unicats",
-  "size": 1004,
+  "size": 1008,
   "stargazers_count": 42,
   "watchers_count": 42,
   "language": "Python",
@@ -112,5 +112,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 214
+  "_index": 225
 }

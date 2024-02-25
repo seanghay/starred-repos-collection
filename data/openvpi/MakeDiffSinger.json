@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/openvpi/MakeDiffSinger/deployments",
   "created_at": "2023-04-12T04:58:33Z",
   "updated_at": "2024-02-04T12:58:42Z",
-  "pushed_at": "2024-02-06T17:39:01Z",
+  "pushed_at": "2024-02-24T17:50:13Z",
   "git_url": "git://github.com/openvpi/MakeDiffSinger.git",
   "ssh_url": "git@github.com:openvpi/MakeDiffSinger.git",
   "clone_url": "https://github.com/openvpi/MakeDiffSinger.git",
   "svn_url": "https://github.com/openvpi/MakeDiffSinger",
   "homepage": null,
-  "size": 381,
+  "size": 346,
   "stargazers_count": 61,
   "watchers_count": 61,
   "language": "Python",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 787
+  "_index": 798
 }

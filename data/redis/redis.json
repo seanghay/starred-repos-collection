@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/redis/redis/releases{/id}",
   "deployments_url": "https://api.github.com/repos/redis/redis/deployments",
   "created_at": "2009-03-21T22:32:25Z",
-  "updated_at": "2024-02-23T00:22:00Z",
-  "pushed_at": "2024-02-22T13:14:33Z",
+  "updated_at": "2024-02-25T00:22:32Z",
+  "pushed_at": "2024-02-24T12:52:03Z",
   "git_url": "git://github.com/redis/redis.git",
   "ssh_url": "git@github.com:redis/redis.git",
   "clone_url": "https://github.com/redis/redis.git",
   "svn_url": "https://github.com/redis/redis",
   "homepage": "http://redis.io",
   "size": 137364,
-  "stargazers_count": 63425,
-  "watchers_count": 63425,
+  "stargazers_count": 63440,
+  "watchers_count": 63440,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 23014,
+  "forks_count": 23021,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,9 +106,9 @@
     "redis"
   ],
   "visibility": "public",
-  "forks": 23014,
+  "forks": 23021,
   "open_issues": 2509,
-  "watchers": 63425,
+  "watchers": 63440,
   "default_branch": "unstable",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3032
+  "_index": 3043
 }

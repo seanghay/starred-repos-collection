@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/remirror/remirror/releases{/id}",
   "deployments_url": "https://api.github.com/repos/remirror/remirror/deployments",
   "created_at": "2019-01-21T08:59:53Z",
-  "updated_at": "2024-02-22T23:17:58Z",
-  "pushed_at": "2024-02-22T21:43:10Z",
+  "updated_at": "2024-02-24T19:43:23Z",
+  "pushed_at": "2024-02-25T00:28:33Z",
   "git_url": "git://github.com/remirror/remirror.git",
   "ssh_url": "git@github.com:remirror/remirror.git",
   "clone_url": "https://github.com/remirror/remirror.git",
   "svn_url": "https://github.com/remirror/remirror",
   "homepage": "https://remirror.io",
-  "size": 74334,
-  "stargazers_count": 2553,
-  "watchers_count": 2553,
+  "size": 74691,
+  "stargazers_count": 2554,
+  "watchers_count": 2554,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 223,
+  "forks_count": 224,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,9 +110,9 @@
     "wysiwyg"
   ],
   "visibility": "public",
-  "forks": 223,
+  "forks": 224,
   "open_issues": 172,
-  "watchers": 2553,
+  "watchers": 2554,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2458
+  "_index": 2469
 }

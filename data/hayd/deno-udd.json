@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/hayd/deno-udd/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hayd/deno-udd/deployments",
   "created_at": "2020-03-06T04:34:14Z",
-  "updated_at": "2024-02-05T17:28:43Z",
+  "updated_at": "2024-02-24T01:22:40Z",
   "pushed_at": "2024-02-22T19:45:08Z",
   "git_url": "git://github.com/hayd/deno-udd.git",
   "ssh_url": "git@github.com:hayd/deno-udd.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/hayd/deno-udd",
   "homepage": "",
   "size": 120,
-  "stargazers_count": 318,
-  "watchers_count": 318,
+  "stargazers_count": 320,
+  "watchers_count": 320,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 19,
   "open_issues": 28,
-  "watchers": 318,
+  "watchers": 320,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1264
+  "_index": 1275
 }

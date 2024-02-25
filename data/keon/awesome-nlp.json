@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/keon/awesome-nlp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/keon/awesome-nlp/deployments",
   "created_at": "2015-12-01T11:11:33Z",
-  "updated_at": "2024-02-23T00:47:10Z",
+  "updated_at": "2024-02-24T16:57:27Z",
   "pushed_at": "2023-11-13T22:11:09Z",
   "git_url": "git://github.com/keon/awesome-nlp.git",
   "ssh_url": "git@github.com:keon/awesome-nlp.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/keon/awesome-nlp",
   "homepage": "",
   "size": 554,
-  "stargazers_count": 15728,
-  "watchers_count": 15728,
+  "stargazers_count": 15736,
+  "watchers_count": 15736,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 2553,
   "open_issues": 9,
-  "watchers": 15728,
+  "watchers": 15736,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 231
+  "_index": 242
 }

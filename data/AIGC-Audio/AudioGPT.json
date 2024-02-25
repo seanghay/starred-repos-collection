@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/AIGC-Audio/AudioGPT/releases{/id}",
   "deployments_url": "https://api.github.com/repos/AIGC-Audio/AudioGPT/deployments",
   "created_at": "2023-03-16T07:12:18Z",
-  "updated_at": "2024-02-22T13:31:25Z",
+  "updated_at": "2024-02-24T17:46:15Z",
   "pushed_at": "2023-10-05T19:11:58Z",
   "git_url": "git://github.com/AIGC-Audio/AudioGPT.git",
   "ssh_url": "git@github.com:AIGC-Audio/AudioGPT.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 816,
+  "forks_count": 817,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,7 +106,7 @@
     "talking-head"
   ],
   "visibility": "public",
-  "forks": 816,
+  "forks": 817,
   "open_issues": 44,
   "watchers": 9663,
   "default_branch": "main",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 766
+  "_index": 777
 }

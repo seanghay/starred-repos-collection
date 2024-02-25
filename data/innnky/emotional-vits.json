@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/innnky/emotional-vits/releases{/id}",
   "deployments_url": "https://api.github.com/repos/innnky/emotional-vits/deployments",
   "created_at": "2022-08-01T23:06:29Z",
-  "updated_at": "2024-02-22T12:28:15Z",
+  "updated_at": "2024-02-23T08:16:19Z",
   "pushed_at": "2023-03-30T11:10:17Z",
   "git_url": "git://github.com/innnky/emotional-vits.git",
   "ssh_url": "git@github.com:innnky/emotional-vits.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/innnky/emotional-vits",
   "homepage": "",
   "size": 39769,
-  "stargazers_count": 1187,
-  "watchers_count": 1187,
+  "stargazers_count": 1189,
+  "watchers_count": 1189,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 24,
+  "open_issues_count": 25,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 162,
-  "open_issues": 24,
-  "watchers": 1187,
+  "open_issues": 25,
+  "watchers": 1189,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 215
+  "_index": 226
 }

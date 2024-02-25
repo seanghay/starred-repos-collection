@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/karaokenerds/python-audio-separator",
-  "description": "Easy to use vocal separation on CLI or as a python package, using the amazing MDX-Net models from UVR trained by @Anjok07",
+  "description": "Easy to use vocal separation from CLI or as a python package, using a variety of amazing models (primarily trained by @Anjok07 as part of UVR)",
   "fork": false,
   "url": "https://api.github.com/repos/karaokenerds/python-audio-separator",
   "forks_url": "https://api.github.com/repos/karaokenerds/python-audio-separator/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/karaokenerds/python-audio-separator/releases{/id}",
   "deployments_url": "https://api.github.com/repos/karaokenerds/python-audio-separator/deployments",
   "created_at": "2023-06-30T05:57:32Z",
-  "updated_at": "2024-02-20T03:28:39Z",
-  "pushed_at": "2024-02-23T01:28:30Z",
+  "updated_at": "2024-02-25T00:04:41Z",
+  "pushed_at": "2024-02-23T15:36:24Z",
   "git_url": "git://github.com/karaokenerds/python-audio-separator.git",
   "ssh_url": "git@github.com:karaokenerds/python-audio-separator.git",
   "clone_url": "https://github.com/karaokenerds/python-audio-separator.git",
   "svn_url": "https://github.com/karaokenerds/python-audio-separator",
-  "homepage": null,
-  "size": 672,
-  "stargazers_count": 138,
-  "watchers_count": 138,
+  "homepage": "",
+  "size": 689,
+  "stargazers_count": 140,
+  "watchers_count": 140,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 8,
+  "open_issues_count": 7,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 23,
-  "open_issues": 8,
-  "watchers": 138,
+  "open_issues": 7,
+  "watchers": 140,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 575
+  "_index": 586
 }

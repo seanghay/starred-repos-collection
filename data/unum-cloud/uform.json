@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/unum-cloud/uform/releases{/id}",
   "deployments_url": "https://api.github.com/repos/unum-cloud/uform/deployments",
   "created_at": "2023-02-21T10:04:40Z",
-  "updated_at": "2024-02-22T05:57:35Z",
-  "pushed_at": "2024-02-16T12:19:00Z",
+  "updated_at": "2024-02-24T14:16:31Z",
+  "pushed_at": "2024-02-23T18:15:33Z",
   "git_url": "git://github.com/unum-cloud/uform.git",
   "ssh_url": "git@github.com:unum-cloud/uform.git",
   "clone_url": "https://github.com/unum-cloud/uform.git",
   "svn_url": "https://github.com/unum-cloud/uform",
   "homepage": "https://unum-cloud.github.io/uform/",
-  "size": 453,
-  "stargazers_count": 774,
-  "watchers_count": 774,
+  "size": 477,
+  "stargazers_count": 780,
+  "watchers_count": 780,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 5,
+  "open_issues_count": 3,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -121,8 +121,8 @@
   ],
   "visibility": "public",
   "forks": 44,
-  "open_issues": 5,
-  "watchers": 774,
+  "open_issues": 3,
+  "watchers": 780,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1013
+  "_index": 1024
 }

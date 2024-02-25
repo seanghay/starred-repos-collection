@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/rishikksh20/hifigan-denoiser/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rishikksh20/hifigan-denoiser/deployments",
   "created_at": "2021-02-09T18:38:26Z",
-  "updated_at": "2024-02-06T05:42:56Z",
+  "updated_at": "2024-02-23T09:31:43Z",
   "pushed_at": "2021-04-08T12:09:35Z",
   "git_url": "git://github.com/rishikksh20/hifigan-denoiser.git",
   "ssh_url": "git@github.com:rishikksh20/hifigan-denoiser.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/rishikksh20/hifigan-denoiser",
   "homepage": "",
   "size": 6293,
-  "stargazers_count": 185,
-  "watchers_count": 185,
+  "stargazers_count": 186,
+  "watchers_count": 186,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 44,
   "open_issues": 9,
-  "watchers": 185,
+  "watchers": 186,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 102
+  "_index": 113
 }

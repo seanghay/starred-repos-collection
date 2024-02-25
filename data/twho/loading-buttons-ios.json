@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/twho/loading-buttons-ios/releases{/id}",
   "deployments_url": "https://api.github.com/repos/twho/loading-buttons-ios/deployments",
   "created_at": "2019-08-04T18:09:55Z",
-  "updated_at": "2023-12-27T09:30:28Z",
+  "updated_at": "2024-02-24T08:53:46Z",
   "pushed_at": "2021-05-26T19:12:52Z",
   "git_url": "git://github.com/twho/loading-buttons-ios.git",
   "ssh_url": "git@github.com:twho/loading-buttons-ios.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/twho/loading-buttons-ios",
   "homepage": "",
   "size": 11164,
-  "stargazers_count": 391,
-  "watchers_count": 391,
+  "stargazers_count": 390,
+  "watchers_count": 390,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 38,
   "open_issues": 2,
-  "watchers": 391,
+  "watchers": 390,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1905
+  "_index": 1916
 }

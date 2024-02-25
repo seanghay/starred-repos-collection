@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/unjs/nitro",
-  "description": "Create, build and deploy universal web servers. The open engine powering Nuxt and open to everyone.",
+  "description": "Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.",
   "fork": false,
   "url": "https://api.github.com/repos/unjs/nitro",
   "forks_url": "https://api.github.com/repos/unjs/nitro/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/unjs/nitro/releases{/id}",
   "deployments_url": "https://api.github.com/repos/unjs/nitro/deployments",
   "created_at": "2022-01-26T12:37:12Z",
-  "updated_at": "2024-02-22T22:00:12Z",
-  "pushed_at": "2024-02-23T01:35:37Z",
+  "updated_at": "2024-02-24T16:30:40Z",
+  "pushed_at": "2024-02-24T23:47:31Z",
   "git_url": "git://github.com/unjs/nitro.git",
   "ssh_url": "git@github.com:unjs/nitro.git",
   "clone_url": "https://github.com/unjs/nitro.git",
   "svn_url": "https://github.com/unjs/nitro",
   "homepage": "https://nitro.unjs.io",
-  "size": 13471,
-  "stargazers_count": 4404,
-  "watchers_count": 4404,
+  "size": 13625,
+  "stargazers_count": 4410,
+  "watchers_count": 4410,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 432,
+  "open_issues_count": 429,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 392,
-  "open_issues": 432,
-  "watchers": 4404,
+  "open_issues": 429,
+  "watchers": 4410,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1578
+  "_index": 1589
 }

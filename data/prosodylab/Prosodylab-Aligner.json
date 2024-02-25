@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/prosodylab/Prosodylab-Aligner/releases{/id}",
   "deployments_url": "https://api.github.com/repos/prosodylab/Prosodylab-Aligner/deployments",
   "created_at": "2011-05-17T04:18:49Z",
-  "updated_at": "2024-02-21T05:26:05Z",
+  "updated_at": "2024-02-23T19:27:30Z",
   "pushed_at": "2020-06-28T19:03:15Z",
   "git_url": "git://github.com/prosodylab/Prosodylab-Aligner.git",
   "ssh_url": "git@github.com:prosodylab/Prosodylab-Aligner.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/prosodylab/Prosodylab-Aligner",
   "homepage": "http://prosodylab.org/tools/aligner/",
   "size": 5179,
-  "stargazers_count": 320,
-  "watchers_count": 320,
+  "stargazers_count": 321,
+  "watchers_count": 321,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 79,
   "open_issues": 5,
-  "watchers": 320,
+  "watchers": 321,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 898
+  "_index": 909
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pbcquoc/vietocr/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pbcquoc/vietocr/deployments",
   "created_at": "2020-05-08T16:03:21Z",
-  "updated_at": "2024-02-16T15:00:55Z",
+  "updated_at": "2024-02-23T08:50:14Z",
   "pushed_at": "2024-02-20T08:25:37Z",
   "git_url": "git://github.com/pbcquoc/vietocr.git",
   "ssh_url": "git@github.com:pbcquoc/vietocr.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/pbcquoc/vietocr",
   "homepage": "",
   "size": 2107,
-  "stargazers_count": 532,
-  "watchers_count": 532,
+  "stargazers_count": 533,
+  "watchers_count": 533,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 184,
   "open_issues": 16,
-  "watchers": 532,
+  "watchers": 533,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 275
+  "_index": 286
 }

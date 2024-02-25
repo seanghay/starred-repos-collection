@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ChaosLeung/PinView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ChaosLeung/PinView/deployments",
   "created_at": "2017-04-01T10:49:55Z",
-  "updated_at": "2024-02-18T02:30:54Z",
+  "updated_at": "2024-02-24T00:37:30Z",
   "pushed_at": "2022-02-17T10:01:40Z",
   "git_url": "git://github.com/ChaosLeung/PinView.git",
   "ssh_url": "git@github.com:ChaosLeung/PinView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ChaosLeung/PinView",
   "homepage": "",
   "size": 2027,
-  "stargazers_count": 592,
-  "watchers_count": 592,
+  "stargazers_count": 591,
+  "watchers_count": 591,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -110,7 +110,7 @@
   "visibility": "public",
   "forks": 117,
   "open_issues": 32,
-  "watchers": 592,
+  "watchers": 591,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2285
+  "_index": 2296
 }

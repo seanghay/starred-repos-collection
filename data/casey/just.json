@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/casey/just/releases{/id}",
   "deployments_url": "https://api.github.com/repos/casey/just/deployments",
   "created_at": "2016-06-17T06:08:08Z",
-  "updated_at": "2024-02-22T23:27:05Z",
-  "pushed_at": "2024-02-23T01:07:30Z",
+  "updated_at": "2024-02-24T23:44:41Z",
+  "pushed_at": "2024-02-23T15:51:32Z",
   "git_url": "git://github.com/casey/just.git",
   "ssh_url": "git@github.com:casey/just.git",
   "clone_url": "https://github.com/casey/just.git",
   "svn_url": "https://github.com/casey/just",
   "homepage": "https://just.systems",
   "size": 8023,
-  "stargazers_count": 16143,
-  "watchers_count": 16143,
+  "stargazers_count": 16176,
+  "watchers_count": 16176,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 230,
+  "open_issues_count": 229,
   "license": {
     "key": "cc0-1.0",
     "name": "Creative Commons Zero v1.0 Universal",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 375,
-  "open_issues": 230,
-  "watchers": 16143,
+  "open_issues": 229,
+  "watchers": 16176,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 288
+  "_index": 299
 }

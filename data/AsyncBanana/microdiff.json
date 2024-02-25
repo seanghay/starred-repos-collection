@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/AsyncBanana/microdiff/releases{/id}",
   "deployments_url": "https://api.github.com/repos/AsyncBanana/microdiff/deployments",
   "created_at": "2021-10-31T20:07:53Z",
-  "updated_at": "2024-02-19T15:45:13Z",
+  "updated_at": "2024-02-24T09:45:06Z",
   "pushed_at": "2023-04-14T19:45:24Z",
   "git_url": "git://github.com/AsyncBanana/microdiff.git",
   "ssh_url": "git@github.com:AsyncBanana/microdiff.git",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1082
+  "_index": 1093
 }

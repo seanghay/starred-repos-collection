@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nextapps-de/flexsearch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nextapps-de/flexsearch/deployments",
   "created_at": "2018-02-25T12:40:24Z",
-  "updated_at": "2024-02-22T23:22:34Z",
+  "updated_at": "2024-02-24T18:28:47Z",
   "pushed_at": "2024-01-10T10:17:22Z",
   "git_url": "git://github.com/nextapps-de/flexsearch.git",
   "ssh_url": "git@github.com:nextapps-de/flexsearch.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nextapps-de/flexsearch",
   "homepage": "",
   "size": 3119,
-  "stargazers_count": 11341,
-  "watchers_count": 11341,
+  "stargazers_count": 11343,
+  "watchers_count": 11343,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 444,
+  "forks_count": 445,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -119,9 +119,9 @@
     "web-worker"
   ],
   "visibility": "public",
-  "forks": 444,
+  "forks": 445,
   "open_issues": 54,
-  "watchers": 11341,
+  "watchers": 11343,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -130,5 +130,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1630
+  "_index": 1641
 }

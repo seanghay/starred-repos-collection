@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/google/or-tools/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/or-tools/deployments",
   "created_at": "2015-02-21T01:25:35Z",
-  "updated_at": "2024-02-22T17:57:12Z",
-  "pushed_at": "2024-02-22T14:35:05Z",
+  "updated_at": "2024-02-24T21:42:11Z",
+  "pushed_at": "2024-02-23T17:19:07Z",
   "git_url": "git://github.com/google/or-tools.git",
   "ssh_url": "git@github.com:google/or-tools.git",
   "clone_url": "https://github.com/google/or-tools.git",
   "svn_url": "https://github.com/google/or-tools",
   "homepage": "https://developers.google.com/optimization/",
-  "size": 1278012,
-  "stargazers_count": 10209,
-  "watchers_count": 10209,
+  "size": 1277948,
+  "stargazers_count": 10214,
+  "watchers_count": 10214,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 2030,
   "open_issues": 51,
-  "watchers": 10209,
+  "watchers": 10214,
   "default_branch": "stable",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 177
+  "_index": 188
 }

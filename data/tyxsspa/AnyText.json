@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tyxsspa/AnyText/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tyxsspa/AnyText/deployments",
   "created_at": "2023-09-18T02:10:40Z",
-  "updated_at": "2024-02-23T01:38:40Z",
+  "updated_at": "2024-02-24T21:48:42Z",
   "pushed_at": "2024-02-21T08:57:56Z",
   "git_url": "git://github.com/tyxsspa/AnyText.git",
   "ssh_url": "git@github.com:tyxsspa/AnyText.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/tyxsspa/AnyText",
   "homepage": "",
   "size": 32431,
-  "stargazers_count": 3341,
-  "watchers_count": 3341,
+  "stargazers_count": 3425,
+  "watchers_count": 3425,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 214,
+  "forks_count": 219,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 52,
+  "open_issues_count": 54,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 214,
-  "open_issues": 52,
-  "watchers": 3341,
+  "forks": 219,
+  "open_issues": 54,
+  "watchers": 3425,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 199
+  "_index": 210
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/KevinWang676/Bark-Voice-Cloning/releases{/id}",
   "deployments_url": "https://api.github.com/repos/KevinWang676/Bark-Voice-Cloning/deployments",
   "created_at": "2023-06-11T22:16:56Z",
-  "updated_at": "2024-02-23T01:07:40Z",
+  "updated_at": "2024-02-24T17:23:24Z",
   "pushed_at": "2024-01-31T12:28:21Z",
   "git_url": "git://github.com/KevinWang676/Bark-Voice-Cloning.git",
   "ssh_url": "git@github.com:KevinWang676/Bark-Voice-Cloning.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/KevinWang676/Bark-Voice-Cloning",
   "homepage": "",
   "size": 3194,
-  "stargazers_count": 1917,
-  "watchers_count": 1917,
+  "stargazers_count": 1929,
+  "watchers_count": 1929,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 266,
+  "forks_count": 269,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 65,
+  "open_issues_count": 64,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 266,
-  "open_issues": 65,
-  "watchers": 1917,
+  "forks": 269,
+  "open_issues": 64,
+  "watchers": 1929,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 31
+  "_index": 42
 }

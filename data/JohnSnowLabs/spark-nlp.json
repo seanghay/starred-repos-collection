@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/JohnSnowLabs/spark-nlp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/JohnSnowLabs/spark-nlp/deployments",
   "created_at": "2017-09-24T19:36:44Z",
-  "updated_at": "2024-02-22T13:30:52Z",
+  "updated_at": "2024-02-24T03:31:29Z",
   "pushed_at": "2024-02-20T17:10:20Z",
   "git_url": "git://github.com/JohnSnowLabs/spark-nlp.git",
   "ssh_url": "git@github.com:JohnSnowLabs/spark-nlp.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/JohnSnowLabs/spark-nlp",
   "homepage": "https://sparknlp.org/",
   "size": 1547832,
-  "stargazers_count": 3615,
-  "watchers_count": 3615,
+  "stargazers_count": 3618,
+  "watchers_count": 3618,
   "language": "Scala",
   "has_issues": true,
   "has_projects": true,
@@ -122,7 +122,7 @@
   "visibility": "public",
   "forks": 697,
   "open_issues": 45,
-  "watchers": 3615,
+  "watchers": 3618,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 14
+  "_index": 25
 }

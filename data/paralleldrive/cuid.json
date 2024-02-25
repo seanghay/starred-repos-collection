@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/paralleldrive/cuid/releases{/id}",
   "deployments_url": "https://api.github.com/repos/paralleldrive/cuid/deployments",
   "created_at": "2012-09-01T01:42:42Z",
-  "updated_at": "2024-02-21T06:00:49Z",
-  "pushed_at": "2024-02-14T22:33:35Z",
+  "updated_at": "2024-02-24T04:29:21Z",
+  "pushed_at": "2024-02-23T23:11:05Z",
   "git_url": "git://github.com/paralleldrive/cuid.git",
   "ssh_url": "git@github.com:paralleldrive/cuid.git",
   "clone_url": "https://github.com/paralleldrive/cuid.git",
   "svn_url": "https://github.com/paralleldrive/cuid",
   "homepage": "",
   "size": 980,
-  "stargazers_count": 3298,
-  "watchers_count": 3298,
+  "stargazers_count": 3300,
+  "watchers_count": 3300,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 133,
   "open_issues": 21,
-  "watchers": 3298,
+  "watchers": 3300,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2352
+  "_index": 2363
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/Yahweasel/libav.js/deployments",
   "created_at": "2019-08-21T20:04:18Z",
   "updated_at": "2024-02-22T21:28:41Z",
-  "pushed_at": "2024-02-22T23:12:17Z",
+  "pushed_at": "2024-02-24T00:56:38Z",
   "git_url": "git://github.com/Yahweasel/libav.js.git",
   "ssh_url": "git@github.com:Yahweasel/libav.js.git",
   "clone_url": "https://github.com/Yahweasel/libav.js.git",
   "svn_url": "https://github.com/Yahweasel/libav.js",
   "homepage": "",
-  "size": 8037,
+  "size": 8094,
   "stargazers_count": 248,
   "watchers_count": 248,
   "language": "JavaScript",
@@ -104,5 +104,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 311
+  "_index": 322
 }

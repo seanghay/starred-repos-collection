@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/fschmid56/EfficientAT/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fschmid56/EfficientAT/deployments",
   "created_at": "2022-10-13T07:09:48Z",
-  "updated_at": "2024-02-17T07:22:09Z",
+  "updated_at": "2024-02-23T15:31:36Z",
   "pushed_at": "2024-02-07T09:59:00Z",
   "git_url": "git://github.com/fschmid56/EfficientAT.git",
   "ssh_url": "git@github.com:fschmid56/EfficientAT.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/fschmid56/EfficientAT",
   "homepage": "",
   "size": 2684,
-  "stargazers_count": 167,
-  "watchers_count": 167,
+  "stargazers_count": 168,
+  "watchers_count": 168,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 26,
   "open_issues": 1,
-  "watchers": 167,
+  "watchers": 168,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 81
+  "_index": 92
 }

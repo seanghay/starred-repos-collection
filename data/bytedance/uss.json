@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bytedance/uss/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bytedance/uss/deployments",
   "created_at": "2023-03-22T01:51:33Z",
-  "updated_at": "2024-02-20T10:03:04Z",
+  "updated_at": "2024-02-23T02:37:32Z",
   "pushed_at": "2023-09-01T01:22:55Z",
   "git_url": "git://github.com/bytedance/uss.git",
   "ssh_url": "git@github.com:bytedance/uss.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/bytedance/uss",
   "homepage": null,
   "size": 2267,
-  "stargazers_count": 298,
-  "watchers_count": 298,
+  "stargazers_count": 299,
+  "watchers_count": 299,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 8,
+  "open_issues_count": 9,
   "license": {
     "key": "other",
     "name": "Other",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 14,
-  "open_issues": 8,
-  "watchers": 298,
+  "open_issues": 9,
+  "watchers": 299,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 817
+  "_index": 828
 }

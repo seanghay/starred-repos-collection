@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/duckdb/duckdb/releases{/id}",
   "deployments_url": "https://api.github.com/repos/duckdb/duckdb/deployments",
   "created_at": "2018-06-26T15:04:45Z",
-  "updated_at": "2024-02-22T23:38:16Z",
-  "pushed_at": "2024-02-22T21:52:04Z",
+  "updated_at": "2024-02-24T23:20:17Z",
+  "pushed_at": "2024-02-24T19:38:07Z",
   "git_url": "git://github.com/duckdb/duckdb.git",
   "ssh_url": "git@github.com:duckdb/duckdb.git",
   "clone_url": "https://github.com/duckdb/duckdb.git",
   "svn_url": "https://github.com/duckdb/duckdb",
   "homepage": "http://www.duckdb.org",
-  "size": 248633,
-  "stargazers_count": 14739,
-  "watchers_count": 14739,
+  "size": 266368,
+  "stargazers_count": 14787,
+  "watchers_count": 14787,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1341,
+  "forks_count": 1345,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 289,
+  "open_issues_count": 286,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,9 +105,9 @@
     "sql"
   ],
   "visibility": "public",
-  "forks": 1341,
-  "open_issues": 289,
-  "watchers": 14739,
+  "forks": 1345,
+  "open_issues": 286,
+  "watchers": 14787,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1332
+  "_index": 1343
 }

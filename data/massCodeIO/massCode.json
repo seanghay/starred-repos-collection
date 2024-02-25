@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/massCodeIO/massCode/releases{/id}",
   "deployments_url": "https://api.github.com/repos/massCodeIO/massCode/deployments",
   "created_at": "2022-03-29T07:54:21Z",
-  "updated_at": "2024-02-22T16:23:45Z",
+  "updated_at": "2024-02-25T01:18:27Z",
   "pushed_at": "2024-02-19T05:01:36Z",
   "git_url": "git://github.com/massCodeIO/massCode.git",
   "ssh_url": "git@github.com:massCodeIO/massCode.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/massCodeIO/massCode",
   "homepage": "https://masscode.io",
   "size": 4424,
-  "stargazers_count": 5325,
-  "watchers_count": 5325,
+  "stargazers_count": 5333,
+  "watchers_count": 5333,
   "language": "Vue",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 16,
+  "open_issues_count": 15,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -112,8 +112,8 @@
   ],
   "visibility": "public",
   "forks": 176,
-  "open_issues": 16,
-  "watchers": 5325,
+  "open_issues": 15,
+  "watchers": 5333,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1448
+  "_index": 1459
 }

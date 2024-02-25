@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/bootandy/dust/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bootandy/dust/deployments",
   "created_at": "2018-03-16T19:49:52Z",
-  "updated_at": "2024-02-23T00:12:38Z",
-  "pushed_at": "2024-02-22T04:19:30Z",
+  "updated_at": "2024-02-24T16:15:48Z",
+  "pushed_at": "2024-02-24T15:05:12Z",
   "git_url": "git://github.com/bootandy/dust.git",
   "ssh_url": "git@github.com:bootandy/dust.git",
   "clone_url": "https://github.com/bootandy/dust.git",
   "svn_url": "https://github.com/bootandy/dust",
   "homepage": "",
-  "size": 649,
-  "stargazers_count": 7296,
-  "watchers_count": 7296,
+  "size": 657,
+  "stargazers_count": 7309,
+  "watchers_count": 7309,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 10,
+  "open_issues_count": 8,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 159,
-  "open_issues": 10,
-  "watchers": 7296,
+  "open_issues": 8,
+  "watchers": 7309,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1637
+  "_index": 1648
 }

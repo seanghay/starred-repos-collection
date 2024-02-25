@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lowerquality/gentle/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lowerquality/gentle/deployments",
   "created_at": "2015-10-23T10:00:45Z",
-  "updated_at": "2024-02-22T19:04:19Z",
+  "updated_at": "2024-02-24T13:05:03Z",
   "pushed_at": "2024-02-02T04:13:21Z",
   "git_url": "git://github.com/lowerquality/gentle.git",
   "ssh_url": "git@github.com:lowerquality/gentle.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lowerquality/gentle",
   "homepage": "https://lowerquality.com/gentle/",
   "size": 1504,
-  "stargazers_count": 1359,
-  "watchers_count": 1359,
+  "stargazers_count": 1360,
+  "watchers_count": 1360,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 290,
   "open_issues": 158,
-  "watchers": 1359,
+  "watchers": 1360,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 582
+  "_index": 593
 }

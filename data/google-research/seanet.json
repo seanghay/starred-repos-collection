@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google-research/seanet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google-research/seanet/deployments",
   "created_at": "2020-08-11T14:01:08Z",
-  "updated_at": "2024-02-18T14:53:52Z",
+  "updated_at": "2024-02-24T13:25:14Z",
   "pushed_at": "2024-02-12T09:05:05Z",
   "git_url": "git://github.com/google-research/seanet.git",
   "ssh_url": "git@github.com:google-research/seanet.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google-research/seanet",
   "homepage": null,
   "size": 1309501,
-  "stargazers_count": 111,
-  "watchers_count": 111,
+  "stargazers_count": 113,
+  "watchers_count": 113,
   "language": "HTML",
   "has_issues": false,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 23,
   "open_issues": 2,
-  "watchers": 111,
+  "watchers": 113,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 141
+  "_index": 152
 }
