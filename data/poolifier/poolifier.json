@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/poolifier/poolifier/deployments",
   "created_at": "2020-01-17T10:23:27Z",
   "updated_at": "2024-02-24T07:53:10Z",
-  "pushed_at": "2024-02-24T20:41:05Z",
+  "pushed_at": "2024-02-25T12:16:09Z",
   "git_url": "git://github.com/poolifier/poolifier.git",
   "ssh_url": "git@github.com:poolifier/poolifier.git",
   "clone_url": "https://github.com/poolifier/poolifier.git",
   "svn_url": "https://github.com/poolifier/poolifier",
   "homepage": "https://poolifier.github.io/poolifier/",
-  "size": 20630,
+  "size": 20095,
   "stargazers_count": 303,
   "watchers_count": 303,
   "language": "JavaScript",
@@ -123,5 +123,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 928
+  "_index": 930
 }

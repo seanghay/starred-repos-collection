@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/HBiSoft/HBRecorder/releases{/id}",
   "deployments_url": "https://api.github.com/repos/HBiSoft/HBRecorder/deployments",
   "created_at": "2019-08-14T07:11:00Z",
-  "updated_at": "2024-02-24T19:11:33Z",
+  "updated_at": "2024-02-25T10:37:13Z",
   "pushed_at": "2024-02-24T19:05:23Z",
   "git_url": "git://github.com/HBiSoft/HBRecorder.git",
   "ssh_url": "git@github.com:HBiSoft/HBRecorder.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/HBiSoft/HBRecorder",
   "homepage": "",
   "size": 15846,
-  "stargazers_count": 359,
-  "watchers_count": 359,
+  "stargazers_count": 360,
+  "watchers_count": 360,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 120,
+  "forks_count": 121,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "android-video"
   ],
   "visibility": "public",
-  "forks": 120,
+  "forks": 121,
   "open_issues": 0,
-  "watchers": 359,
+  "watchers": 360,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2643
+  "_index": 2645
 }

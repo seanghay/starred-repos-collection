@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/quickwit-oss/tantivy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/quickwit-oss/tantivy/deployments",
   "created_at": "2016-01-11T08:32:16Z",
-  "updated_at": "2024-02-25T01:33:45Z",
+  "updated_at": "2024-02-25T08:41:52Z",
   "pushed_at": "2024-02-23T04:49:28Z",
   "git_url": "git://github.com/quickwit-oss/tantivy.git",
   "ssh_url": "git@github.com:quickwit-oss/tantivy.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/quickwit-oss/tantivy",
   "homepage": "",
   "size": 62106,
-  "stargazers_count": 9522,
-  "watchers_count": 9522,
+  "stargazers_count": 9525,
+  "watchers_count": 9525,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 561,
   "open_issues": 289,
-  "watchers": 9522,
+  "watchers": 9525,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2188
+  "_index": 2190
 }

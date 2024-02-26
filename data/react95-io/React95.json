@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/react95-io/React95/releases{/id}",
   "deployments_url": "https://api.github.com/repos/react95-io/React95/deployments",
   "created_at": "2019-02-18T22:55:25Z",
-  "updated_at": "2024-02-24T09:01:38Z",
+  "updated_at": "2024-02-25T15:06:50Z",
   "pushed_at": "2024-01-14T20:52:31Z",
   "git_url": "git://github.com/react95-io/React95.git",
   "ssh_url": "git@github.com:react95-io/React95.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/react95-io/React95",
   "homepage": "https://react95.io",
   "size": 67707,
-  "stargazers_count": 6166,
-  "watchers_count": 6166,
+  "stargazers_count": 6167,
+  "watchers_count": 6167,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 180,
   "open_issues": 41,
-  "watchers": 6166,
+  "watchers": 6167,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2011
+  "_index": 2013
 }

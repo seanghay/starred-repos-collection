@@ -65,8 +65,8 @@
   "releases_url": "https://api.github.com/repos/http-party/node-http-proxy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/http-party/node-http-proxy/deployments",
   "created_at": "2010-07-24T18:30:12Z",
-  "updated_at": "2024-02-24T06:30:04Z",
-  "pushed_at": "2024-02-23T12:06:02Z",
+  "updated_at": "2024-02-25T15:26:10Z",
+  "pushed_at": "2024-02-25T13:13:06Z",
   "git_url": "git://github.com/http-party/node-http-proxy.git",
   "ssh_url": "git@github.com:http-party/node-http-proxy.git",
   "clone_url": "https://github.com/http-party/node-http-proxy.git",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1079
+  "_index": 1081
 }

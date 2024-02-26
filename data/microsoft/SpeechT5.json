@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 100,
+  "forks_count": 99,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -111,7 +111,7 @@
     "vatlm"
   ],
   "visibility": "public",
-  "forks": 100,
+  "forks": 99,
   "open_issues": 29,
   "watchers": 947,
   "default_branch": "main",
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 685
+  "_index": 687
 }

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/kcrimi/ToolTipDialog/deployments",
   "created_at": "2020-05-09T01:29:43Z",
   "updated_at": "2023-12-15T20:42:07Z",
-  "pushed_at": "2022-03-05T21:05:03Z",
+  "pushed_at": "2024-02-26T00:27:27Z",
   "git_url": "git://github.com/kcrimi/ToolTipDialog.git",
   "ssh_url": "git@github.com:kcrimi/ToolTipDialog.git",
   "clone_url": "https://github.com/kcrimi/ToolTipDialog.git",
   "svn_url": "https://github.com/kcrimi/ToolTipDialog",
   "homepage": "",
-  "size": 9395,
+  "size": 9385,
   "stargazers_count": 85,
   "watchers_count": 85,
   "language": "Kotlin",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1,
+  "open_issues_count": 0,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -104,7 +104,7 @@
   ],
   "visibility": "public",
   "forks": 17,
-  "open_issues": 1,
+  "open_issues": 0,
   "watchers": 85,
   "default_branch": "master",
   "permissions": {
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2370
+  "_index": 2372
 }

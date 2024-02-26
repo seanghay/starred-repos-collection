@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/budoux/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/budoux/deployments",
   "created_at": "2021-11-18T00:28:23Z",
-  "updated_at": "2024-02-23T15:29:52Z",
+  "updated_at": "2024-02-25T23:50:19Z",
   "pushed_at": "2024-02-23T23:18:32Z",
   "git_url": "git://github.com/google/budoux.git",
   "ssh_url": "git@github.com:google/budoux.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/budoux",
   "homepage": "https://google.github.io/budoux/",
   "size": 2573,
-  "stargazers_count": 1359,
-  "watchers_count": 1359,
+  "stargazers_count": 1360,
+  "watchers_count": 1360,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 7,
+  "open_issues_count": 8,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 28,
-  "open_issues": 7,
-  "watchers": 1359,
+  "open_issues": 8,
+  "watchers": 1360,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 281
+  "_index": 283
 }

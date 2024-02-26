@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/AILab-CVC/YOLO-World/releases{/id}",
   "deployments_url": "https://api.github.com/repos/AILab-CVC/YOLO-World/deployments",
   "created_at": "2024-01-29T02:04:07Z",
-  "updated_at": "2024-02-25T00:55:33Z",
+  "updated_at": "2024-02-26T01:40:31Z",
   "pushed_at": "2024-02-24T09:33:53Z",
   "git_url": "git://github.com/AILab-CVC/YOLO-World.git",
   "ssh_url": "git@github.com:AILab-CVC/YOLO-World.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/AILab-CVC/YOLO-World",
   "homepage": "https://www.yoloworld.cc",
   "size": 581,
-  "stargazers_count": 2222,
-  "watchers_count": 2222,
+  "stargazers_count": 2249,
+  "watchers_count": 2249,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 211,
+  "forks_count": 214,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 211,
+  "forks": 214,
   "open_issues": 36,
-  "watchers": 2222,
+  "watchers": 2249,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 89
+  "_index": 91
 }

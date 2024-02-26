@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/k2-fsa/k2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/k2-fsa/k2/deployments",
   "created_at": "2020-04-17T09:44:05Z",
-  "updated_at": "2024-02-22T02:42:35Z",
+  "updated_at": "2024-02-25T09:15:09Z",
   "pushed_at": "2024-02-24T07:22:17Z",
   "git_url": "git://github.com/k2-fsa/k2.git",
   "ssh_url": "git@github.com:k2-fsa/k2.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/k2-fsa/k2",
   "homepage": "https://k2-fsa.github.io/k2",
   "size": 15523,
-  "stargazers_count": 1014,
-  "watchers_count": 1014,
+  "stargazers_count": 1015,
+  "watchers_count": 1015,
   "language": "Cuda",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 209,
   "open_issues": 113,
-  "watchers": 1014,
+  "watchers": 1015,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 592
+  "_index": 594
 }

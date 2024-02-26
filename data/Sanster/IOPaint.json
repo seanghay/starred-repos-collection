@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Sanster/IOPaint/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Sanster/IOPaint/deployments",
   "created_at": "2021-11-15T14:16:40Z",
-  "updated_at": "2024-02-25T01:29:22Z",
+  "updated_at": "2024-02-26T01:39:34Z",
   "pushed_at": "2024-02-21T05:30:16Z",
   "git_url": "git://github.com/Sanster/IOPaint.git",
   "ssh_url": "git@github.com:Sanster/IOPaint.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Sanster/IOPaint",
   "homepage": "https://www.iopaint.com/",
   "size": 22821,
-  "stargazers_count": 15934,
-  "watchers_count": 15934,
+  "stargazers_count": 15942,
+  "watchers_count": 15942,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 106,
+  "open_issues_count": 105,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -108,8 +108,8 @@
   ],
   "visibility": "public",
   "forks": 1584,
-  "open_issues": 106,
-  "watchers": 15934,
+  "open_issues": 105,
+  "watchers": 15942,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1236
+  "_index": 1238
 }

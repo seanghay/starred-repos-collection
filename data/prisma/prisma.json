@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/prisma/prisma/releases{/id}",
   "deployments_url": "https://api.github.com/repos/prisma/prisma/deployments",
   "created_at": "2019-06-20T13:33:47Z",
-  "updated_at": "2024-02-25T00:57:52Z",
-  "pushed_at": "2024-02-25T00:45:12Z",
+  "updated_at": "2024-02-25T21:30:02Z",
+  "pushed_at": "2024-02-25T05:53:43Z",
   "git_url": "git://github.com/prisma/prisma.git",
   "ssh_url": "git@github.com:prisma/prisma.git",
   "clone_url": "https://github.com/prisma/prisma.git",
   "svn_url": "https://github.com/prisma/prisma",
   "homepage": "https://www.prisma.io",
-  "size": 110468,
-  "stargazers_count": 36376,
-  "watchers_count": 36376,
+  "size": 110470,
+  "stargazers_count": 36389,
+  "watchers_count": 36389,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 3067,
+  "open_issues_count": 3070,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -121,8 +121,8 @@
   ],
   "visibility": "public",
   "forks": 1387,
-  "open_issues": 3067,
-  "watchers": 36376,
+  "open_issues": 3070,
+  "watchers": 36389,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2954
+  "_index": 2956
 }

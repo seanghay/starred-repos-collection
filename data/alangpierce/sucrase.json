@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/alangpierce/sucrase/releases{/id}",
   "deployments_url": "https://api.github.com/repos/alangpierce/sucrase/deployments",
   "created_at": "2017-10-03T16:54:00Z",
-  "updated_at": "2024-02-24T01:06:50Z",
+  "updated_at": "2024-02-25T10:45:20Z",
   "pushed_at": "2024-02-21T03:25:01Z",
   "git_url": "git://github.com/alangpierce/sucrase.git",
   "ssh_url": "git@github.com:alangpierce/sucrase.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/alangpierce/sucrase",
   "homepage": "https://sucrase.io",
   "size": 18882,
-  "stargazers_count": 5539,
-  "watchers_count": 5539,
+  "stargazers_count": 5538,
+  "watchers_count": 5538,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 138,
   "open_issues": 71,
-  "watchers": 5539,
+  "watchers": 5538,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1433
+  "_index": 1435
 }

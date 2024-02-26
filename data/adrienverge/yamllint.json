@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/adrienverge/yamllint/deployments",
   "created_at": "2016-01-11T08:26:36Z",
   "updated_at": "2024-02-24T23:44:30Z",
-  "pushed_at": "2024-02-16T10:49:04Z",
+  "pushed_at": "2024-02-25T14:41:59Z",
   "git_url": "git://github.com/adrienverge/yamllint.git",
   "ssh_url": "git@github.com:adrienverge/yamllint.git",
   "clone_url": "https://github.com/adrienverge/yamllint.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1943
+  "_index": 1945
 }

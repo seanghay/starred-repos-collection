@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/gfx-rs/wgpu/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gfx-rs/wgpu/deployments",
   "created_at": "2018-09-13T19:18:50Z",
-  "updated_at": "2024-02-25T01:36:18Z",
-  "pushed_at": "2024-02-24T16:31:29Z",
+  "updated_at": "2024-02-25T23:43:06Z",
+  "pushed_at": "2024-02-25T19:30:56Z",
   "git_url": "git://github.com/gfx-rs/wgpu.git",
   "ssh_url": "git@github.com:gfx-rs/wgpu.git",
   "clone_url": "https://github.com/gfx-rs/wgpu.git",
   "svn_url": "https://github.com/gfx-rs/wgpu",
   "homepage": "https://wgpu.rs",
-  "size": 49603,
-  "stargazers_count": 10360,
-  "watchers_count": 10360,
+  "size": 49604,
+  "stargazers_count": 10367,
+  "watchers_count": 10367,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 773,
+  "forks_count": 774,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -108,9 +108,9 @@
     "webgpu"
   ],
   "visibility": "public",
-  "forks": 773,
+  "forks": 774,
   "open_issues": 757,
-  "watchers": 10360,
+  "watchers": 10367,
   "default_branch": "trunk",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2656
+  "_index": 2658
 }

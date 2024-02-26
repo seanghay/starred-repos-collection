@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/nodejs/corepack/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nodejs/corepack/deployments",
   "created_at": "2020-03-12T15:14:09Z",
-  "updated_at": "2024-02-24T13:58:13Z",
-  "pushed_at": "2024-02-24T15:38:24Z",
+  "updated_at": "2024-02-25T12:26:59Z",
+  "pushed_at": "2024-02-25T22:28:45Z",
   "git_url": "git://github.com/nodejs/corepack.git",
   "ssh_url": "git@github.com:nodejs/corepack.git",
   "clone_url": "https://github.com/nodejs/corepack.git",
   "svn_url": "https://github.com/nodejs/corepack",
   "homepage": "",
-  "size": 673668,
-  "stargazers_count": 1989,
-  "watchers_count": 1989,
+  "size": 673664,
+  "stargazers_count": 1991,
+  "watchers_count": 1991,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 107,
+  "forks_count": 108,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 59,
+  "open_issues_count": 60,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,9 +104,9 @@
     "yarn"
   ],
   "visibility": "public",
-  "forks": 107,
-  "open_issues": 59,
-  "watchers": 1989,
+  "forks": 108,
+  "open_issues": 60,
+  "watchers": 1991,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1442
+  "_index": 1444
 }

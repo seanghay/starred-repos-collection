@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/ggerganov/llama.cpp",
-  "description": "Port of Facebook's LLaMA model in C/C++",
+  "description": "LLM inference in C/C++",
   "fork": false,
   "url": "https://api.github.com/repos/ggerganov/llama.cpp",
   "forks_url": "https://api.github.com/repos/ggerganov/llama.cpp/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ggerganov/llama.cpp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ggerganov/llama.cpp/deployments",
   "created_at": "2023-03-10T18:58:00Z",
-  "updated_at": "2024-02-25T00:50:01Z",
-  "pushed_at": "2024-02-25T00:17:18Z",
+  "updated_at": "2024-02-26T01:34:39Z",
+  "pushed_at": "2024-02-26T01:37:21Z",
   "git_url": "git://github.com/ggerganov/llama.cpp.git",
   "ssh_url": "git@github.com:ggerganov/llama.cpp.git",
   "clone_url": "https://github.com/ggerganov/llama.cpp.git",
   "svn_url": "https://github.com/ggerganov/llama.cpp",
-  "homepage": null,
-  "size": 23292,
-  "stargazers_count": 51454,
-  "watchers_count": 51454,
+  "homepage": "",
+  "size": 22380,
+  "stargazers_count": 51510,
+  "watchers_count": 51510,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 7235,
+  "forks_count": 7240,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -97,11 +97,14 @@
   "allow_forking": true,
   "is_template": false,
   "web_commit_signoff_required": false,
-  "topics": [],
+  "topics": [
+    "llama",
+    "llm"
+  ],
   "visibility": "public",
-  "forks": 7235,
+  "forks": 7240,
   "open_issues": 1156,
-  "watchers": 51454,
+  "watchers": 51510,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1021
+  "_index": 1023
 }

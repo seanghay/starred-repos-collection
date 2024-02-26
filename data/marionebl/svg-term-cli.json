@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/marionebl/svg-term-cli/releases{/id}",
   "deployments_url": "https://api.github.com/repos/marionebl/svg-term-cli/deployments",
   "created_at": "2017-11-25T16:08:35Z",
-  "updated_at": "2024-02-22T17:14:40Z",
+  "updated_at": "2024-02-25T11:44:39Z",
   "pushed_at": "2022-12-07T09:22:09Z",
   "git_url": "git://github.com/marionebl/svg-term-cli.git",
   "ssh_url": "git@github.com:marionebl/svg-term-cli.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 136,
+  "forks_count": 116,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,7 +99,7 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 136,
+  "forks": 116,
   "open_issues": 46,
   "watchers": 3411,
   "default_branch": "master",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1999
+  "_index": 2001
 }

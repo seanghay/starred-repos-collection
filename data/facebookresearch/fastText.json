@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/facebookresearch/fastText/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookresearch/fastText/deployments",
   "created_at": "2016-07-16T13:38:42Z",
-  "updated_at": "2024-02-24T15:05:48Z",
+  "updated_at": "2024-02-25T19:51:21Z",
   "pushed_at": "2024-02-20T15:36:32Z",
   "git_url": "git://github.com/facebookresearch/fastText.git",
   "ssh_url": "git@github.com:facebookresearch/fastText.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/facebookresearch/fastText",
   "homepage": "https://fasttext.cc/",
   "size": 8314,
-  "stargazers_count": 25429,
-  "watchers_count": 25429,
+  "stargazers_count": 25431,
+  "watchers_count": 25431,
   "language": "HTML",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 4662,
   "open_issues": 556,
-  "watchers": 25429,
+  "watchers": 25431,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 8
+  "_index": 10
 }

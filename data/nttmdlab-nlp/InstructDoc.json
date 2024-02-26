@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nttmdlab-nlp/InstructDoc/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nttmdlab-nlp/InstructDoc/deployments",
   "created_at": "2023-12-19T04:35:30Z",
-  "updated_at": "2024-02-24T23:08:51Z",
+  "updated_at": "2024-02-25T17:01:48Z",
   "pushed_at": "2024-01-24T09:14:01Z",
   "git_url": "git://github.com/nttmdlab-nlp/InstructDoc.git",
   "ssh_url": "git@github.com:nttmdlab-nlp/InstructDoc.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nttmdlab-nlp/InstructDoc",
   "homepage": "",
   "size": 614,
-  "stargazers_count": 44,
-  "watchers_count": 44,
+  "stargazers_count": 45,
+  "watchers_count": 45,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 0,
   "open_issues": 2,
-  "watchers": 44,
+  "watchers": 45,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2
+  "_index": 4
 }

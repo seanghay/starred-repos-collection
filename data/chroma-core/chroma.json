@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/chroma-core/chroma/releases{/id}",
   "deployments_url": "https://api.github.com/repos/chroma-core/chroma/deployments",
   "created_at": "2022-10-05T17:58:44Z",
-  "updated_at": "2024-02-25T01:04:20Z",
+  "updated_at": "2024-02-26T00:31:21Z",
   "pushed_at": "2024-02-24T03:26:34Z",
   "git_url": "git://github.com/chroma-core/chroma.git",
   "ssh_url": "git@github.com:chroma-core/chroma.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/chroma-core/chroma",
   "homepage": "https://www.trychroma.com/",
   "size": 191674,
-  "stargazers_count": 11123,
-  "watchers_count": 11123,
+  "stargazers_count": 11132,
+  "watchers_count": 11132,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 912,
+  "forks_count": 913,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,9 +103,9 @@
     "llms"
   ],
   "visibility": "public",
-  "forks": 912,
+  "forks": 913,
   "open_issues": 334,
-  "watchers": 11123,
+  "watchers": 11132,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 905
+  "_index": 907
 }

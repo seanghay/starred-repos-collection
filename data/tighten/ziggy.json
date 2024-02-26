@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tighten/ziggy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tighten/ziggy/deployments",
   "created_at": "2017-08-02T21:07:04Z",
-  "updated_at": "2024-02-24T17:04:52Z",
+  "updated_at": "2024-02-25T10:42:25Z",
   "pushed_at": "2024-02-24T12:30:45Z",
   "git_url": "git://github.com/tighten/ziggy.git",
   "ssh_url": "git@github.com:tighten/ziggy.git",
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 232,
+  "forks_count": 233,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,7 +104,7 @@
     "ziggy"
   ],
   "visibility": "public",
-  "forks": 232,
+  "forks": 233,
   "open_issues": 6,
   "watchers": 3654,
   "default_branch": "2.x",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2145
+  "_index": 2147
 }
