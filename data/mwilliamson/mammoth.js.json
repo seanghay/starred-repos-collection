@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mwilliamson/mammoth.js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mwilliamson/mammoth.js/deployments",
   "created_at": "2013-03-29T21:41:02Z",
-  "updated_at": "2024-02-22T16:06:13Z",
+  "updated_at": "2024-02-26T06:06:03Z",
   "pushed_at": "2024-02-18T22:33:28Z",
   "git_url": "git://github.com/mwilliamson/mammoth.js.git",
   "ssh_url": "git@github.com:mwilliamson/mammoth.js.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mwilliamson/mammoth.js",
   "homepage": "",
   "size": 1320,
-  "stargazers_count": 4533,
-  "watchers_count": 4533,
+  "stargazers_count": 4534,
+  "watchers_count": 4534,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 527,
   "open_issues": 44,
-  "watchers": 4533,
+  "watchers": 4534,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 681
+  "_index": 687
 }

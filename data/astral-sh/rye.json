@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/astral-sh/rye/releases{/id}",
   "deployments_url": "https://api.github.com/repos/astral-sh/rye/deployments",
   "created_at": "2023-04-22T22:23:54Z",
-  "updated_at": "2024-02-26T01:31:23Z",
-  "pushed_at": "2024-02-26T01:25:35Z",
+  "updated_at": "2024-02-27T00:51:41Z",
+  "pushed_at": "2024-02-26T20:34:17Z",
   "git_url": "git://github.com/astral-sh/rye.git",
   "ssh_url": "git@github.com:astral-sh/rye.git",
   "clone_url": "https://github.com/astral-sh/rye.git",
   "svn_url": "https://github.com/astral-sh/rye",
   "homepage": "https://rye-up.com",
-  "size": 2817,
-  "stargazers_count": 10144,
-  "watchers_count": 10144,
+  "size": 2876,
+  "stargazers_count": 10192,
+  "watchers_count": 10192,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 100,
+  "open_issues_count": 104,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,8 +104,8 @@
   ],
   "visibility": "public",
   "forks": 371,
-  "open_issues": 100,
-  "watchers": 10144,
+  "open_issues": 104,
+  "watchers": 10192,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 71
+  "_index": 77
 }

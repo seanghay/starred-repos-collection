@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/noties/Adapt/deployments",
   "created_at": "2018-06-24T11:40:15Z",
   "updated_at": "2023-09-11T13:24:09Z",
-  "pushed_at": "2024-02-26T01:31:54Z",
+  "pushed_at": "2024-02-27T01:35:20Z",
   "git_url": "git://github.com/noties/Adapt.git",
   "ssh_url": "git@github.com:noties/Adapt.git",
   "clone_url": "https://github.com/noties/Adapt.git",
   "svn_url": "https://github.com/noties/Adapt",
   "homepage": null,
-  "size": 16118,
+  "size": 16149,
   "stargazers_count": 4,
   "watchers_count": 4,
   "language": "Kotlin",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1569
+  "_index": 1575
 }

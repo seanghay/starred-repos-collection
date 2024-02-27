@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/web-infra-dev/rspack/releases{/id}",
   "deployments_url": "https://api.github.com/repos/web-infra-dev/rspack/deployments",
   "created_at": "2022-04-01T08:45:30Z",
-  "updated_at": "2024-02-25T13:54:58Z",
-  "pushed_at": "2024-02-26T00:25:21Z",
+  "updated_at": "2024-02-26T17:06:21Z",
+  "pushed_at": "2024-02-27T00:20:05Z",
   "git_url": "git://github.com/web-infra-dev/rspack.git",
   "ssh_url": "git@github.com:web-infra-dev/rspack.git",
   "clone_url": "https://github.com/web-infra-dev/rspack.git",
   "svn_url": "https://github.com/web-infra-dev/rspack",
   "homepage": "https://rspack.dev",
-  "size": 40516,
-  "stargazers_count": 6965,
-  "watchers_count": 6965,
+  "size": 40199,
+  "stargazers_count": 6969,
+  "watchers_count": 6969,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 415,
+  "forks_count": 417,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 325,
+  "open_issues_count": 326,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -111,9 +111,9 @@
     "web-performance"
   ],
   "visibility": "public",
-  "forks": 415,
-  "open_issues": 325,
-  "watchers": 6965,
+  "forks": 417,
+  "open_issues": 326,
+  "watchers": 6969,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1031
+  "_index": 1037
 }

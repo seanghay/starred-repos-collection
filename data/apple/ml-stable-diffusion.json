@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/apple/ml-stable-diffusion/releases{/id}",
   "deployments_url": "https://api.github.com/repos/apple/ml-stable-diffusion/deployments",
   "created_at": "2022-11-16T00:48:18Z",
-  "updated_at": "2024-02-26T01:26:29Z",
+  "updated_at": "2024-02-26T17:50:20Z",
   "pushed_at": "2024-01-24T00:42:12Z",
   "git_url": "git://github.com/apple/ml-stable-diffusion.git",
   "ssh_url": "git@github.com:apple/ml-stable-diffusion.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/apple/ml-stable-diffusion",
   "homepage": "",
   "size": 24028,
-  "stargazers_count": 15829,
-  "watchers_count": 15829,
+  "stargazers_count": 15839,
+  "watchers_count": 15839,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 836,
+  "forks_count": 837,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 836,
+  "forks": 837,
   "open_issues": 156,
-  "watchers": 15829,
+  "watchers": 15839,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1197
+  "_index": 1203
 }

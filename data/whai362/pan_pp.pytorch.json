@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/whai362/pan_pp.pytorch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/whai362/pan_pp.pytorch/deployments",
   "created_at": "2020-09-02T07:59:14Z",
-  "updated_at": "2024-02-24T06:31:54Z",
+  "updated_at": "2024-02-26T18:46:52Z",
   "pushed_at": "2023-03-09T11:59:29Z",
   "git_url": "git://github.com/whai362/pan_pp.pytorch.git",
   "ssh_url": "git@github.com:whai362/pan_pp.pytorch.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/whai362/pan_pp.pytorch",
   "homepage": "",
   "size": 834,
-  "stargazers_count": 425,
-  "watchers_count": 425,
+  "stargazers_count": 426,
+  "watchers_count": 426,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 89,
+  "forks_count": 90,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "text-spotting"
   ],
   "visibility": "public",
-  "forks": 89,
+  "forks": 90,
   "open_issues": 58,
-  "watchers": 425,
+  "watchers": 426,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 140
+  "_index": 146
 }

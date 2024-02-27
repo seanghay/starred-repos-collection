@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/danielmiessler/fabric/releases{/id}",
   "deployments_url": "https://api.github.com/repos/danielmiessler/fabric/deployments",
   "created_at": "2024-01-03T23:18:31Z",
-  "updated_at": "2024-02-26T00:23:55Z",
+  "updated_at": "2024-02-27T01:34:47Z",
   "pushed_at": "2024-02-25T17:13:15Z",
   "git_url": "git://github.com/danielmiessler/fabric.git",
   "ssh_url": "git@github.com:danielmiessler/fabric.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/danielmiessler/fabric",
   "homepage": "https://danielmiessler.com/p/fabric-origin-story",
   "size": 153527,
-  "stargazers_count": 5610,
-  "watchers_count": 5610,
+  "stargazers_count": 5641,
+  "watchers_count": 5641,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 461,
+  "forks_count": 466,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,9 +105,9 @@
     "work"
   ],
   "visibility": "public",
-  "forks": 461,
+  "forks": 466,
   "open_issues": 3,
-  "watchers": 5610,
+  "watchers": 5641,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 86
+  "_index": 92
 }

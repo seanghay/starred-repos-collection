@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lukas-blecher/LaTeX-OCR/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lukas-blecher/LaTeX-OCR/deployments",
   "created_at": "2020-12-11T16:35:13Z",
-  "updated_at": "2024-02-25T21:40:08Z",
+  "updated_at": "2024-02-26T21:22:49Z",
   "pushed_at": "2024-02-12T00:33:05Z",
   "git_url": "git://github.com/lukas-blecher/LaTeX-OCR.git",
   "ssh_url": "git@github.com:lukas-blecher/LaTeX-OCR.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lukas-blecher/LaTeX-OCR",
   "homepage": "https://lukas-blecher.github.io/LaTeX-OCR/",
   "size": 9465,
-  "stargazers_count": 10098,
-  "watchers_count": 10098,
+  "stargazers_count": 10115,
+  "watchers_count": 10115,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 848,
+  "forks_count": 849,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 105,
+  "open_issues_count": 106,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -117,9 +117,9 @@
     "vit"
   ],
   "visibility": "public",
-  "forks": 848,
-  "open_issues": 105,
-  "watchers": 10098,
+  "forks": 849,
+  "open_issues": 106,
+  "watchers": 10115,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 106
+  "_index": 112
 }

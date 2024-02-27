@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/huggingface/datatrove/releases{/id}",
   "deployments_url": "https://api.github.com/repos/huggingface/datatrove/deployments",
   "created_at": "2023-06-14T12:05:28Z",
-  "updated_at": "2024-02-25T05:03:15Z",
-  "pushed_at": "2024-02-23T14:24:38Z",
+  "updated_at": "2024-02-26T19:43:52Z",
+  "pushed_at": "2024-02-26T17:04:05Z",
   "git_url": "git://github.com/huggingface/datatrove.git",
   "ssh_url": "git@github.com:huggingface/datatrove.git",
   "clone_url": "https://github.com/huggingface/datatrove.git",
   "svn_url": "https://github.com/huggingface/datatrove",
   "homepage": "",
-  "size": 16648,
-  "stargazers_count": 985,
-  "watchers_count": 985,
+  "size": 16652,
+  "stargazers_count": 987,
+  "watchers_count": 987,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 12,
+  "open_issues_count": 14,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 47,
-  "open_issues": 12,
-  "watchers": 985,
+  "open_issues": 14,
+  "watchers": 987,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 165
+  "_index": 171
 }

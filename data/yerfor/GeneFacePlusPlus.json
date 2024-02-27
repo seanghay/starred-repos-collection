@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/yerfor/GeneFacePlusPlus/releases{/id}",
   "deployments_url": "https://api.github.com/repos/yerfor/GeneFacePlusPlus/deployments",
   "created_at": "2024-02-01T05:28:57Z",
-  "updated_at": "2024-02-25T15:38:24Z",
+  "updated_at": "2024-02-26T17:27:06Z",
   "pushed_at": "2024-02-24T13:17:19Z",
   "git_url": "git://github.com/yerfor/GeneFacePlusPlus.git",
   "ssh_url": "git@github.com:yerfor/GeneFacePlusPlus.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/yerfor/GeneFacePlusPlus",
   "homepage": "",
   "size": 38240,
-  "stargazers_count": 385,
-  "watchers_count": 385,
+  "stargazers_count": 396,
+  "watchers_count": 396,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 26,
+  "open_issues_count": 27,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -97,8 +97,8 @@
   ],
   "visibility": "public",
   "forks": 58,
-  "open_issues": 26,
-  "watchers": 385,
+  "open_issues": 27,
+  "watchers": 396,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -107,5 +107,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 88
+  "_index": 94
 }

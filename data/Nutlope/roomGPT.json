@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Nutlope/roomGPT/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Nutlope/roomGPT/deployments",
   "created_at": "2023-02-21T19:54:43Z",
-  "updated_at": "2024-02-25T16:36:42Z",
+  "updated_at": "2024-02-26T11:38:07Z",
   "pushed_at": "2024-02-16T01:38:53Z",
   "git_url": "git://github.com/Nutlope/roomGPT.git",
   "ssh_url": "git@github.com:Nutlope/roomGPT.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Nutlope/roomGPT",
   "homepage": "https://www.roomgpt.io/",
   "size": 22710,
-  "stargazers_count": 9350,
-  "watchers_count": 9350,
+  "stargazers_count": 9352,
+  "watchers_count": 9352,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 1174,
+  "forks_count": 1175,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 1174,
+  "forks": 1175,
   "open_issues": 15,
-  "watchers": 9350,
+  "watchers": 9352,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 772
+  "_index": 778
 }

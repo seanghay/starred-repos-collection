@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mravanelli/pytorch-kaldi/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mravanelli/pytorch-kaldi/deployments",
   "created_at": "2018-02-27T22:16:33Z",
-  "updated_at": "2024-02-23T19:27:40Z",
+  "updated_at": "2024-02-26T06:58:45Z",
   "pushed_at": "2022-03-14T05:10:47Z",
   "git_url": "git://github.com/mravanelli/pytorch-kaldi.git",
   "ssh_url": "git@github.com:mravanelli/pytorch-kaldi.git",
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 93
+  "_index": 99
 }

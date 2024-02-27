@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/hubertsiuzdak/snac/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hubertsiuzdak/snac/deployments",
   "created_at": "2024-02-20T02:33:25Z",
-  "updated_at": "2024-02-25T16:13:50Z",
+  "updated_at": "2024-02-26T17:40:46Z",
   "pushed_at": "2024-02-20T12:42:42Z",
   "git_url": "git://github.com/hubertsiuzdak/snac.git",
   "ssh_url": "git@github.com:hubertsiuzdak/snac.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/hubertsiuzdak/snac",
   "homepage": "",
   "size": 146,
-  "stargazers_count": 50,
-  "watchers_count": 50,
+  "stargazers_count": 55,
+  "watchers_count": 55,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 0,
   "open_issues": 1,
-  "watchers": 50,
+  "watchers": 55,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 11
+  "_index": 17
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/facebookresearch/ImageBind/releases{/id}",
   "deployments_url": "https://api.github.com/repos/facebookresearch/ImageBind/deployments",
   "created_at": "2023-03-23T15:52:47Z",
-  "updated_at": "2024-02-26T00:01:33Z",
+  "updated_at": "2024-02-26T10:43:19Z",
   "pushed_at": "2024-02-21T23:54:44Z",
   "git_url": "git://github.com/facebookresearch/ImageBind.git",
   "ssh_url": "git@github.com:facebookresearch/ImageBind.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/facebookresearch/ImageBind",
   "homepage": null,
   "size": 2682,
-  "stargazers_count": 7669,
-  "watchers_count": 7669,
+  "stargazers_count": 7674,
+  "watchers_count": 7674,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 675,
+  "forks_count": 674,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 675,
+  "forks": 674,
   "open_issues": 76,
-  "watchers": 7669,
+  "watchers": 7674,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 219
+  "_index": 225
 }

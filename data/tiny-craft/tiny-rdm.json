@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/tiny-craft/tiny-rdm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tiny-craft/tiny-rdm/deployments",
   "created_at": "2023-06-27T07:06:25Z",
-  "updated_at": "2024-02-26T01:39:03Z",
-  "pushed_at": "2024-02-23T15:59:41Z",
+  "updated_at": "2024-02-27T01:24:49Z",
+  "pushed_at": "2024-02-26T04:55:52Z",
   "git_url": "git://github.com/tiny-craft/tiny-rdm.git",
   "ssh_url": "git@github.com:tiny-craft/tiny-rdm.git",
   "clone_url": "https://github.com/tiny-craft/tiny-rdm.git",
   "svn_url": "https://github.com/tiny-craft/tiny-rdm",
   "homepage": "https://redis.tinycraft.cc/",
-  "size": 13850,
-  "stargazers_count": 5060,
-  "watchers_count": 5060,
+  "size": 13864,
+  "stargazers_count": 5092,
+  "watchers_count": 5092,
   "language": "Vue",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 200,
+  "forks_count": 203,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 49,
+  "open_issues_count": 43,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -113,9 +113,9 @@
     "web-view"
   ],
   "visibility": "public",
-  "forks": 200,
-  "open_issues": 49,
-  "watchers": 5060,
+  "forks": 203,
+  "open_issues": 43,
+  "watchers": 5092,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 90
+  "_index": 96
 }

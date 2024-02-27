@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/burhanrashid52/YoutubeUX/releases{/id}",
   "deployments_url": "https://api.github.com/repos/burhanrashid52/YoutubeUX/deployments",
   "created_at": "2018-03-29T06:38:05Z",
-  "updated_at": "2023-11-16T04:45:38Z",
+  "updated_at": "2024-02-26T10:45:47Z",
   "pushed_at": "2021-03-19T12:33:38Z",
   "git_url": "git://github.com/burhanrashid52/YoutubeUX.git",
   "ssh_url": "git@github.com:burhanrashid52/YoutubeUX.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/burhanrashid52/YoutubeUX",
   "homepage": null,
   "size": 18274,
-  "stargazers_count": 863,
-  "watchers_count": 863,
+  "stargazers_count": 861,
+  "watchers_count": 861,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -113,7 +113,7 @@
   "visibility": "public",
   "forks": 143,
   "open_issues": 1,
-  "watchers": 863,
+  "watchers": 861,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -122,5 +122,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2944
+  "_index": 2950
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/sony/bigvsan/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sony/bigvsan/deployments",
   "created_at": "2023-09-01T00:42:56Z",
-  "updated_at": "2024-02-21T18:37:35Z",
+  "updated_at": "2024-02-26T15:40:45Z",
   "pushed_at": "2023-10-28T01:20:26Z",
   "git_url": "git://github.com/sony/bigvsan.git",
   "ssh_url": "git@github.com:sony/bigvsan.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/sony/bigvsan",
   "homepage": "",
   "size": 14816,
-  "stargazers_count": 159,
-  "watchers_count": 159,
+  "stargazers_count": 161,
+  "watchers_count": 161,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -108,7 +108,7 @@
   "visibility": "public",
   "forks": 14,
   "open_issues": 0,
-  "watchers": 159,
+  "watchers": 161,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 405
+  "_index": 411
 }

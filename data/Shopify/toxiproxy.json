@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Shopify/toxiproxy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Shopify/toxiproxy/deployments",
   "created_at": "2014-09-04T13:56:38Z",
-  "updated_at": "2024-02-25T19:50:29Z",
-  "pushed_at": "2024-01-08T07:07:56Z",
+  "updated_at": "2024-02-27T01:03:08Z",
+  "pushed_at": "2024-02-26T20:53:52Z",
   "git_url": "git://github.com/Shopify/toxiproxy.git",
   "ssh_url": "git@github.com:Shopify/toxiproxy.git",
   "clone_url": "https://github.com/Shopify/toxiproxy.git",
   "svn_url": "https://github.com/Shopify/toxiproxy",
   "homepage": "https://github.com/shopify/toxiproxy",
-  "size": 3420,
-  "stargazers_count": 10137,
-  "watchers_count": 10137,
+  "size": 3425,
+  "stargazers_count": 10139,
+  "watchers_count": 10139,
   "language": "Go",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 429,
+  "forks_count": 430,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 89,
+  "open_issues_count": 88,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,9 +109,9 @@
     "testing"
   ],
   "visibility": "public",
-  "forks": 429,
-  "open_issues": 89,
-  "watchers": 10137,
+  "forks": 430,
+  "open_issues": 88,
+  "watchers": 10139,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1284
+  "_index": 1290
 }

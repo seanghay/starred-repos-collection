@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Curzibn/Luban/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Curzibn/Luban/deployments",
   "created_at": "2016-07-24T07:43:21Z",
-  "updated_at": "2024-02-24T12:32:48Z",
+  "updated_at": "2024-02-26T10:59:40Z",
   "pushed_at": "2021-11-06T13:32:29Z",
   "git_url": "git://github.com/Curzibn/Luban.git",
   "ssh_url": "git@github.com:Curzibn/Luban.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Curzibn/Luban",
   "homepage": "",
   "size": 5029,
-  "stargazers_count": 13459,
-  "watchers_count": 13459,
+  "stargazers_count": 13463,
+  "watchers_count": 13463,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2230,
+  "forks_count": 2231,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,9 +103,9 @@
     "luban"
   ],
   "visibility": "public",
-  "forks": 2230,
+  "forks": 2231,
   "open_issues": 153,
-  "watchers": 13459,
+  "watchers": 13463,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2899
+  "_index": 2905
 }

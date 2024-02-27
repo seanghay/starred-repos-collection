@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/XPixelGroup/DiffBIR/releases{/id}",
   "deployments_url": "https://api.github.com/repos/XPixelGroup/DiffBIR/deployments",
   "created_at": "2023-08-28T16:11:58Z",
-  "updated_at": "2024-02-24T23:28:04Z",
+  "updated_at": "2024-02-26T15:39:23Z",
   "pushed_at": "2023-09-21T10:14:48Z",
   "git_url": "git://github.com/XPixelGroup/DiffBIR.git",
   "ssh_url": "git@github.com:XPixelGroup/DiffBIR.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/XPixelGroup/DiffBIR",
   "homepage": "",
   "size": 31072,
-  "stargazers_count": 2835,
-  "watchers_count": 2835,
+  "stargazers_count": 2838,
+  "watchers_count": 2838,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 235,
+  "forks_count": 236,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 235,
+  "forks": 236,
   "open_issues": 60,
-  "watchers": 2835,
+  "watchers": 2838,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 206
+  "_index": 212
 }

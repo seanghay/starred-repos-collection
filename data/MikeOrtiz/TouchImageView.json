@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/MikeOrtiz/TouchImageView/releases{/id}",
   "deployments_url": "https://api.github.com/repos/MikeOrtiz/TouchImageView/deployments",
   "created_at": "2011-09-18T00:56:01Z",
-  "updated_at": "2024-02-18T19:32:48Z",
+  "updated_at": "2024-02-26T15:24:12Z",
   "pushed_at": "2024-02-12T00:02:09Z",
   "git_url": "git://github.com/MikeOrtiz/TouchImageView.git",
   "ssh_url": "git@github.com:MikeOrtiz/TouchImageView.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/MikeOrtiz/TouchImageView",
   "homepage": "",
   "size": 9902,
-  "stargazers_count": 2684,
-  "watchers_count": 2684,
+  "stargazers_count": 2685,
+  "watchers_count": 2685,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 873,
   "open_issues": 17,
-  "watchers": 2684,
+  "watchers": 2685,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2821
+  "_index": 2827
 }

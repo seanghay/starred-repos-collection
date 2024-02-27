@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/vitest-dev/vscode/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vitest-dev/vscode/deployments",
   "created_at": "2022-03-13T09:35:13Z",
-  "updated_at": "2024-02-25T18:21:16Z",
-  "pushed_at": "2024-02-25T23:58:00Z",
+  "updated_at": "2024-02-26T10:43:38Z",
+  "pushed_at": "2024-02-26T21:52:42Z",
   "git_url": "git://github.com/vitest-dev/vscode.git",
   "ssh_url": "git@github.com:vitest-dev/vscode.git",
   "clone_url": "https://github.com/vitest-dev/vscode.git",
   "svn_url": "https://github.com/vitest-dev/vscode",
   "homepage": "https://vitest.dev/vscode",
-  "size": 1055,
-  "stargazers_count": 655,
-  "watchers_count": 655,
+  "size": 1084,
+  "stargazers_count": 656,
+  "watchers_count": 656,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 71,
+  "open_issues_count": 69,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -104,8 +104,8 @@
   ],
   "visibility": "public",
   "forks": 72,
-  "open_issues": 71,
-  "watchers": 655,
+  "open_issues": 69,
+  "watchers": 656,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1575
+  "_index": 1581
 }
