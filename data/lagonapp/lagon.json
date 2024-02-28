@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/lagonapp/lagon/deployments",
   "created_at": "2022-06-20T06:08:05Z",
   "updated_at": "2024-02-26T03:33:49Z",
-  "pushed_at": "2023-12-15T17:52:10Z",
+  "pushed_at": "2024-02-27T19:54:03Z",
   "git_url": "git://github.com/lagonapp/lagon.git",
   "ssh_url": "git@github.com:lagonapp/lagon.git",
   "clone_url": "https://github.com/lagonapp/lagon.git",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 940
+  "_index": 944
 }

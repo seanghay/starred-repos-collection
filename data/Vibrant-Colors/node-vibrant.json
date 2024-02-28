@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Vibrant-Colors/node-vibrant/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Vibrant-Colors/node-vibrant/deployments",
   "created_at": "2015-06-04T13:30:08Z",
-  "updated_at": "2024-02-26T13:19:56Z",
+  "updated_at": "2024-02-27T09:32:33Z",
   "pushed_at": "2023-07-24T16:37:00Z",
   "git_url": "git://github.com/Vibrant-Colors/node-vibrant.git",
   "ssh_url": "git@github.com:Vibrant-Colors/node-vibrant.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Vibrant-Colors/node-vibrant",
   "homepage": "",
   "size": 1163,
-  "stargazers_count": 1915,
-  "watchers_count": 1915,
+  "stargazers_count": 1916,
+  "watchers_count": 1916,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 103,
   "open_issues": 30,
-  "watchers": 1915,
+  "watchers": 1916,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2620
+  "_index": 2624
 }

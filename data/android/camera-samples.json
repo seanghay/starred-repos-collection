@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/android/camera-samples/releases{/id}",
   "deployments_url": "https://api.github.com/repos/android/camera-samples/deployments",
   "created_at": "2019-05-05T23:33:22Z",
-  "updated_at": "2024-02-26T06:26:15Z",
+  "updated_at": "2024-02-27T23:55:16Z",
   "pushed_at": "2024-02-17T14:52:05Z",
   "git_url": "git://github.com/android/camera-samples.git",
   "ssh_url": "git@github.com:android/camera-samples.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/android/camera-samples",
   "homepage": "",
   "size": 31149,
-  "stargazers_count": 4695,
-  "watchers_count": 4695,
+  "stargazers_count": 4698,
+  "watchers_count": 4698,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -104,7 +104,7 @@
   "visibility": "public",
   "forks": 2267,
   "open_issues": 142,
-  "watchers": 4695,
+  "watchers": 4698,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3045
+  "_index": 3049
 }

@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 805,
+  "forks_count": 804,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,7 +104,7 @@
     "semantic-segmentation"
   ],
   "visibility": "public",
-  "forks": 805,
+  "forks": 804,
   "open_issues": 133,
   "watchers": 3366,
   "default_branch": "master",
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 141
+  "_index": 145
 }

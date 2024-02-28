@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/vercel/turbo/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vercel/turbo/deployments",
   "created_at": "2021-10-05T17:37:11Z",
-  "updated_at": "2024-02-27T00:01:27Z",
-  "pushed_at": "2024-02-26T22:08:22Z",
+  "updated_at": "2024-02-27T22:00:59Z",
+  "pushed_at": "2024-02-28T01:37:03Z",
   "git_url": "git://github.com/vercel/turbo.git",
   "ssh_url": "git@github.com:vercel/turbo.git",
   "clone_url": "https://github.com/vercel/turbo.git",
   "svn_url": "https://github.com/vercel/turbo",
   "homepage": "https://turbo.build",
-  "size": 706616,
-  "stargazers_count": 24323,
-  "watchers_count": 24323,
+  "size": 707340,
+  "stargazers_count": 24333,
+  "watchers_count": 24333,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 1635,
+  "forks_count": 1637,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 221,
+  "open_issues_count": 225,
   "license": {
     "key": "mpl-2.0",
     "name": "Mozilla Public License 2.0",
@@ -108,9 +108,9 @@
     "webpack"
   ],
   "visibility": "public",
-  "forks": 1635,
-  "open_issues": 221,
-  "watchers": 24323,
+  "forks": 1637,
+  "open_issues": 225,
+  "watchers": 24333,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1615
+  "_index": 1619
 }

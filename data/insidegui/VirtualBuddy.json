@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/insidegui/VirtualBuddy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/insidegui/VirtualBuddy/deployments",
   "created_at": "2022-04-12T00:07:35Z",
-  "updated_at": "2024-02-26T13:54:55Z",
-  "pushed_at": "2024-02-20T18:28:27Z",
+  "updated_at": "2024-02-27T19:29:07Z",
+  "pushed_at": "2024-02-27T19:51:34Z",
   "git_url": "git://github.com/insidegui/VirtualBuddy.git",
   "ssh_url": "git@github.com:insidegui/VirtualBuddy.git",
   "clone_url": "https://github.com/insidegui/VirtualBuddy.git",
   "svn_url": "https://github.com/insidegui/VirtualBuddy",
   "homepage": "",
   "size": 12473,
-  "stargazers_count": 4346,
-  "watchers_count": 4346,
+  "stargazers_count": 4347,
+  "watchers_count": 4347,
   "language": "Swift",
   "has_issues": false,
   "has_projects": false,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2,
+  "open_issues_count": 3,
   "license": {
     "key": "bsd-2-clause",
     "name": "BSD 2-Clause \"Simplified\" License",
@@ -103,8 +103,8 @@
   ],
   "visibility": "public",
   "forks": 116,
-  "open_issues": 2,
-  "watchers": 4346,
+  "open_issues": 3,
+  "watchers": 4347,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1252
+  "_index": 1256
 }

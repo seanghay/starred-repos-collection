@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/csteinmetz1/auraloss/releases{/id}",
   "deployments_url": "https://api.github.com/repos/csteinmetz1/auraloss/deployments",
   "created_at": "2020-10-26T01:44:24Z",
-  "updated_at": "2024-02-25T19:40:05Z",
+  "updated_at": "2024-02-27T07:35:57Z",
   "pushed_at": "2024-02-09T15:52:36Z",
   "git_url": "git://github.com/csteinmetz1/auraloss.git",
   "ssh_url": "git@github.com:csteinmetz1/auraloss.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/csteinmetz1/auraloss",
   "homepage": "",
   "size": 133,
-  "stargazers_count": 637,
-  "watchers_count": 637,
+  "stargazers_count": 639,
+  "watchers_count": 639,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 63,
   "open_issues": 19,
-  "watchers": 637,
+  "watchers": 639,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1034
+  "_index": 1038
 }

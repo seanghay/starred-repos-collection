@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/torvalds/linux/releases{/id}",
   "deployments_url": "https://api.github.com/repos/torvalds/linux/deployments",
   "created_at": "2011-09-04T22:48:12Z",
-  "updated_at": "2024-02-27T00:53:27Z",
-  "pushed_at": "2024-02-26T19:28:21Z",
+  "updated_at": "2024-02-28T01:40:25Z",
+  "pushed_at": "2024-02-28T01:01:57Z",
   "git_url": "git://github.com/torvalds/linux.git",
   "ssh_url": "git@github.com:torvalds/linux.git",
   "clone_url": "https://github.com/torvalds/linux.git",
   "svn_url": "https://github.com/torvalds/linux",
   "homepage": "",
   "size": 4911828,
-  "stargazers_count": 166542,
-  "watchers_count": 166542,
+  "stargazers_count": 166607,
+  "watchers_count": 166607,
   "language": "C",
   "has_issues": false,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 51089,
+  "forks_count": 51091,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 51089,
+  "forks": 51091,
   "open_issues": 310,
-  "watchers": 166542,
+  "watchers": 166607,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3406
+  "_index": 3410
 }

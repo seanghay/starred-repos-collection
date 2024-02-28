@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bvaughn/react-resizable-panels/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bvaughn/react-resizable-panels/deployments",
   "created_at": "2022-12-22T19:06:17Z",
-  "updated_at": "2024-02-26T22:02:20Z",
+  "updated_at": "2024-02-27T17:16:55Z",
   "pushed_at": "2024-02-24T21:55:22Z",
   "git_url": "git://github.com/bvaughn/react-resizable-panels.git",
   "ssh_url": "git@github.com:bvaughn/react-resizable-panels.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/bvaughn/react-resizable-panels",
   "homepage": "https://react-resizable-panels.vercel.app/",
   "size": 885,
-  "stargazers_count": 3049,
-  "watchers_count": 3049,
+  "stargazers_count": 3051,
+  "watchers_count": 3051,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 95,
   "open_issues": 3,
-  "watchers": 3049,
+  "watchers": 3051,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 243
+  "_index": 247
 }

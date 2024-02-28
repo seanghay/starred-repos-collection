@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/VSCodium/vscodium/releases{/id}",
   "deployments_url": "https://api.github.com/repos/VSCodium/vscodium/deployments",
   "created_at": "2018-08-13T14:26:58Z",
-  "updated_at": "2024-02-26T20:56:10Z",
-  "pushed_at": "2024-02-27T01:19:08Z",
+  "updated_at": "2024-02-27T23:09:28Z",
+  "pushed_at": "2024-02-27T10:36:25Z",
   "git_url": "git://github.com/VSCodium/vscodium.git",
   "ssh_url": "git@github.com:VSCodium/vscodium.git",
   "clone_url": "https://github.com/VSCodium/vscodium.git",
   "svn_url": "https://github.com/VSCodium/vscodium",
   "homepage": "https://vscodium.com",
-  "size": 30094,
-  "stargazers_count": 23132,
-  "watchers_count": 23132,
+  "size": 30103,
+  "stargazers_count": 23140,
+  "watchers_count": 23140,
   "language": "Shell",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 971,
+  "forks_count": 970,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 110,
+  "open_issues_count": 112,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,9 +106,9 @@
     "vscode"
   ],
   "visibility": "public",
-  "forks": 971,
-  "open_issues": 110,
-  "watchers": 23132,
+  "forks": 970,
+  "open_issues": 112,
+  "watchers": 23140,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2234
+  "_index": 2238
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/pinojs/pino/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pinojs/pino/deployments",
   "created_at": "2016-02-16T14:14:29Z",
-  "updated_at": "2024-02-27T00:16:04Z",
-  "pushed_at": "2024-02-26T17:05:47Z",
+  "updated_at": "2024-02-28T00:19:35Z",
+  "pushed_at": "2024-02-27T17:05:10Z",
   "git_url": "git://github.com/pinojs/pino.git",
   "ssh_url": "git@github.com:pinojs/pino.git",
   "clone_url": "https://github.com/pinojs/pino.git",
   "svn_url": "https://github.com/pinojs/pino",
   "homepage": "http://getpino.io",
   "size": 3018,
-  "stargazers_count": 12912,
-  "watchers_count": 12912,
+  "stargazers_count": 12922,
+  "watchers_count": 12922,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 91,
+  "open_issues_count": 92,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 829,
-  "open_issues": 91,
-  "watchers": 12912,
+  "open_issues": 92,
+  "watchers": 12922,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2184
+  "_index": 2188
 }

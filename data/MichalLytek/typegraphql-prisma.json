@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 103,
+  "forks_count": 102,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,7 +107,7 @@
     "typegraphql"
   ],
   "visibility": "public",
-  "forks": 103,
+  "forks": 102,
   "open_issues": 58,
   "watchers": 843,
   "default_branch": "main",
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2280
+  "_index": 2284
 }

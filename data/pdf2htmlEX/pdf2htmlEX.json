@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/pdf2htmlEX/pdf2htmlEX/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pdf2htmlEX/pdf2htmlEX/deployments",
   "created_at": "2018-01-22T15:26:50Z",
-  "updated_at": "2024-02-26T17:20:00Z",
+  "updated_at": "2024-02-28T01:06:54Z",
   "pushed_at": "2024-02-01T15:12:42Z",
   "git_url": "git://github.com/pdf2htmlEX/pdf2htmlEX.git",
   "ssh_url": "git@github.com:pdf2htmlEX/pdf2htmlEX.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/pdf2htmlEX/pdf2htmlEX",
   "homepage": "https://pdf2htmlEX.github.io/pdf2htmlEX/",
   "size": 139169,
-  "stargazers_count": 3256,
-  "watchers_count": 3256,
+  "stargazers_count": 3257,
+  "watchers_count": 3257,
   "language": "HTML",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 324,
+  "forks_count": 325,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -104,9 +104,9 @@
     "pdf-viewer"
   ],
   "visibility": "public",
-  "forks": 324,
+  "forks": 325,
   "open_issues": 92,
-  "watchers": 3256,
+  "watchers": 3257,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 406
+  "_index": 410
 }

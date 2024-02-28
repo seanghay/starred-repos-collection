@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/plaidml/plaidml/releases{/id}",
   "deployments_url": "https://api.github.com/repos/plaidml/plaidml/deployments",
   "created_at": "2017-08-15T01:43:24Z",
-  "updated_at": "2024-02-23T19:27:55Z",
+  "updated_at": "2024-02-27T08:09:47Z",
   "pushed_at": "2023-07-23T20:16:29Z",
   "git_url": "git://github.com/plaidml/plaidml.git",
   "ssh_url": "git@github.com:plaidml/plaidml.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/plaidml/plaidml",
   "homepage": "https://ai.intel.com/plaidml",
   "size": 158660,
-  "stargazers_count": 4570,
-  "watchers_count": 4570,
+  "stargazers_count": 4571,
+  "watchers_count": 4571,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 410,
   "open_issues": 265,
-  "watchers": 4570,
+  "watchers": 4571,
   "default_branch": "plaidml-v1",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 31
+  "_index": 35
 }

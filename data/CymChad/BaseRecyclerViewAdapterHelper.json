@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/CymChad/BaseRecyclerViewAdapterHelper/releases{/id}",
   "deployments_url": "https://api.github.com/repos/CymChad/BaseRecyclerViewAdapterHelper/deployments",
   "created_at": "2016-04-10T07:40:11Z",
-  "updated_at": "2024-02-26T19:45:54Z",
+  "updated_at": "2024-02-27T11:33:36Z",
   "pushed_at": "2024-01-19T19:36:24Z",
   "git_url": "git://github.com/CymChad/BaseRecyclerViewAdapterHelper.git",
   "ssh_url": "git@github.com:CymChad/BaseRecyclerViewAdapterHelper.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/CymChad/BaseRecyclerViewAdapterHelper",
   "homepage": "http://www.recyclerview.org/",
   "size": 67421,
-  "stargazers_count": 23959,
-  "watchers_count": 23959,
+  "stargazers_count": 23960,
+  "watchers_count": 23960,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 5078,
+  "forks_count": 5079,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 386,
+  "open_issues_count": 387,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,9 +105,9 @@
     "recyclerview-item-animation"
   ],
   "visibility": "public",
-  "forks": 5078,
-  "open_issues": 386,
-  "watchers": 23959,
+  "forks": 5079,
+  "open_issues": 387,
+  "watchers": 23960,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3419
+  "_index": 3423
 }

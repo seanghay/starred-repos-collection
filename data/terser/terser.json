@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/terser/terser/releases{/id}",
   "deployments_url": "https://api.github.com/repos/terser/terser/deployments",
   "created_at": "2015-01-11T16:06:46Z",
-  "updated_at": "2024-02-26T13:35:14Z",
-  "pushed_at": "2024-02-24T03:04:48Z",
+  "updated_at": "2024-02-27T21:45:35Z",
+  "pushed_at": "2024-02-27T22:43:59Z",
   "git_url": "git://github.com/terser/terser.git",
   "ssh_url": "git@github.com:terser/terser.git",
   "clone_url": "https://github.com/terser/terser.git",
   "svn_url": "https://github.com/terser/terser",
   "homepage": "https://terser.org",
-  "size": 13265,
-  "stargazers_count": 8302,
-  "watchers_count": 8302,
+  "size": 13282,
+  "stargazers_count": 8303,
+  "watchers_count": 8303,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 278,
+  "open_issues_count": 281,
   "license": {
     "key": "other",
     "name": "Other",
@@ -107,8 +107,8 @@
   ],
   "visibility": "public",
   "forks": 386,
-  "open_issues": 278,
-  "watchers": 8302,
+  "open_issues": 281,
+  "watchers": 8303,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1348
+  "_index": 1352
 }

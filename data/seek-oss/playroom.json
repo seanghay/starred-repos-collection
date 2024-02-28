@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/seek-oss/playroom/deployments",
   "created_at": "2018-10-29T07:14:53Z",
   "updated_at": "2024-02-26T17:23:12Z",
-  "pushed_at": "2024-02-26T04:12:19Z",
+  "pushed_at": "2024-02-28T00:58:49Z",
   "git_url": "git://github.com/seek-oss/playroom.git",
   "ssh_url": "git@github.com:seek-oss/playroom.git",
   "clone_url": "https://github.com/seek-oss/playroom.git",
   "svn_url": "https://github.com/seek-oss/playroom",
   "homepage": "",
-  "size": 4745,
+  "size": 4775,
   "stargazers_count": 4403,
   "watchers_count": 4403,
   "language": "TypeScript",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 56,
+  "open_issues_count": 59,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -105,7 +105,7 @@
   ],
   "visibility": "public",
   "forks": 187,
-  "open_issues": 56,
+  "open_issues": 59,
   "watchers": 4403,
   "default_branch": "master",
   "permissions": {
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3389
+  "_index": 3393
 }

@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 92,
+  "open_issues_count": 93,
   "license": {
     "key": "unlicense",
     "name": "The Unlicense",
@@ -109,7 +109,7 @@
   ],
   "visibility": "public",
   "forks": 240,
-  "open_issues": 92,
+  "open_issues": 93,
   "watchers": 6437,
   "default_branch": "master",
   "permissions": {
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1070
+  "_index": 1074
 }

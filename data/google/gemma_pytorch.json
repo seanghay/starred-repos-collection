@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/gemma_pytorch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/gemma_pytorch/deployments",
   "created_at": "2024-02-20T17:53:21Z",
-  "updated_at": "2024-02-27T01:29:52Z",
+  "updated_at": "2024-02-28T01:38:35Z",
   "pushed_at": "2024-02-25T18:56:04Z",
   "git_url": "git://github.com/google/gemma_pytorch.git",
   "ssh_url": "git@github.com:google/gemma_pytorch.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/gemma_pytorch",
   "homepage": "https://ai.google.dev/gemma",
   "size": 2079,
-  "stargazers_count": 3880,
-  "watchers_count": 3880,
+  "stargazers_count": 4038,
+  "watchers_count": 4038,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 358,
+  "forks_count": 363,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 10,
+  "open_issues_count": 12,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -103,9 +103,9 @@
     "pytorch"
   ],
   "visibility": "public",
-  "forks": 358,
-  "open_issues": 10,
-  "watchers": 3880,
+  "forks": 363,
+  "open_issues": 12,
+  "watchers": 4038,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 23
+  "_index": 27
 }

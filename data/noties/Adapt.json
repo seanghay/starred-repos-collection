@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/noties/Adapt.git",
   "svn_url": "https://github.com/noties/Adapt",
   "homepage": null,
-  "size": 16149,
+  "size": 16153,
   "stargazers_count": 4,
   "watchers_count": 4,
   "language": "Kotlin",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1575
+  "_index": 1579
 }

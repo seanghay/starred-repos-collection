@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/airbnb/epoxy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/airbnb/epoxy/deployments",
   "created_at": "2016-08-08T23:05:11Z",
-  "updated_at": "2024-02-25T17:16:37Z",
+  "updated_at": "2024-02-27T08:28:16Z",
   "pushed_at": "2024-01-25T20:50:25Z",
   "git_url": "git://github.com/airbnb/epoxy.git",
   "ssh_url": "git@github.com:airbnb/epoxy.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/airbnb/epoxy",
   "homepage": "https://goo.gl/eIK82p",
   "size": 34091,
-  "stargazers_count": 8422,
-  "watchers_count": 8422,
+  "stargazers_count": 8423,
+  "watchers_count": 8423,
   "language": "Java",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 738,
   "open_issues": 305,
-  "watchers": 8422,
+  "watchers": 8423,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3127
+  "_index": 3131
 }

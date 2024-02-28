@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/charmbracelet/bubbletea/releases{/id}",
   "deployments_url": "https://api.github.com/repos/charmbracelet/bubbletea/deployments",
   "created_at": "2020-01-10T21:04:03Z",
-  "updated_at": "2024-02-27T01:34:44Z",
-  "pushed_at": "2024-02-26T17:27:22Z",
+  "updated_at": "2024-02-28T01:25:47Z",
+  "pushed_at": "2024-02-27T19:22:31Z",
   "git_url": "git://github.com/charmbracelet/bubbletea.git",
   "ssh_url": "git@github.com:charmbracelet/bubbletea.git",
   "clone_url": "https://github.com/charmbracelet/bubbletea.git",
   "svn_url": "https://github.com/charmbracelet/bubbletea",
   "homepage": "",
-  "size": 4229,
-  "stargazers_count": 22798,
-  "watchers_count": 22798,
+  "size": 4238,
+  "stargazers_count": 22824,
+  "watchers_count": 22824,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 105,
+  "open_issues_count": 102,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,8 +109,8 @@
   ],
   "visibility": "public",
   "forks": 671,
-  "open_issues": 105,
-  "watchers": 22798,
+  "open_issues": 102,
+  "watchers": 22824,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,5 +119,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1402
+  "_index": 1406
 }

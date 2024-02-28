@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 72,
+  "forks_count": 73,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "vscode"
   ],
   "visibility": "public",
-  "forks": 72,
+  "forks": 73,
   "open_issues": 69,
   "watchers": 656,
   "default_branch": "main",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1581
+  "_index": 1585
 }

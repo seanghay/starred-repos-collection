@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/cue-lang/cue/releases{/id}",
   "deployments_url": "https://api.github.com/repos/cue-lang/cue/deployments",
   "created_at": "2021-07-02T14:55:44Z",
-  "updated_at": "2024-02-26T17:34:51Z",
-  "pushed_at": "2024-02-26T18:28:08Z",
+  "updated_at": "2024-02-27T20:46:56Z",
+  "pushed_at": "2024-02-27T20:34:44Z",
   "git_url": "git://github.com/cue-lang/cue.git",
   "ssh_url": "git@github.com:cue-lang/cue.git",
   "clone_url": "https://github.com/cue-lang/cue.git",
   "svn_url": "https://github.com/cue-lang/cue",
   "homepage": "https://cuelang.org",
-  "size": 29702,
-  "stargazers_count": 4638,
-  "watchers_count": 4638,
+  "size": 30303,
+  "stargazers_count": 4639,
+  "watchers_count": 4639,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 786,
+  "open_issues_count": 790,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -105,8 +105,8 @@
   ],
   "visibility": "public",
   "forks": 266,
-  "open_issues": 786,
-  "watchers": 4638,
+  "open_issues": 790,
+  "watchers": 4639,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1588
+  "_index": 1592
 }

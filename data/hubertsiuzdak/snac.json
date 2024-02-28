@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/hubertsiuzdak/snac",
-  "description": "[WIP] Multi-Scale Neural Audio Codec (SNAC) compresses 44.1 kHz audio into discrete codes at a 2.2 kbps bitrate",
+  "description": "Multi-Scale Neural Audio Codec (SNAC) compresses audio into discrete codes at a low bitrate",
   "fork": false,
   "url": "https://api.github.com/repos/hubertsiuzdak/snac",
   "forks_url": "https://api.github.com/repos/hubertsiuzdak/snac/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/hubertsiuzdak/snac/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hubertsiuzdak/snac/deployments",
   "created_at": "2024-02-20T02:33:25Z",
-  "updated_at": "2024-02-26T17:40:46Z",
-  "pushed_at": "2024-02-20T12:42:42Z",
+  "updated_at": "2024-02-27T20:01:30Z",
+  "pushed_at": "2024-02-27T20:38:30Z",
   "git_url": "git://github.com/hubertsiuzdak/snac.git",
   "ssh_url": "git@github.com:hubertsiuzdak/snac.git",
   "clone_url": "https://github.com/hubertsiuzdak/snac.git",
   "svn_url": "https://github.com/hubertsiuzdak/snac",
   "homepage": "",
-  "size": 146,
-  "stargazers_count": 55,
-  "watchers_count": 55,
+  "size": 150,
+  "stargazers_count": 59,
+  "watchers_count": 59,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 0,
   "open_issues": 1,
-  "watchers": 55,
+  "watchers": 59,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 17
+  "_index": 21
 }

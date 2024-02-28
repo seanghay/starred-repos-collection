@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/w-okada/voice-changer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/w-okada/voice-changer/deployments",
   "created_at": "2022-08-22T05:08:43Z",
-  "updated_at": "2024-02-27T01:00:02Z",
+  "updated_at": "2024-02-28T00:13:09Z",
   "pushed_at": "2024-02-20T23:54:45Z",
   "git_url": "git://github.com/w-okada/voice-changer.git",
   "ssh_url": "git@github.com:w-okada/voice-changer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/w-okada/voice-changer",
   "homepage": "",
   "size": 179756,
-  "stargazers_count": 14020,
-  "watchers_count": 14020,
+  "stargazers_count": 14037,
+  "watchers_count": 14037,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 1476,
   "open_issues": 135,
-  "watchers": 14020,
+  "watchers": 14037,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2
+  "_index": 6
 }

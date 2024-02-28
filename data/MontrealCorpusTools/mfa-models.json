@@ -72,7 +72,7 @@
   "clone_url": "https://github.com/MontrealCorpusTools/mfa-models.git",
   "svn_url": "https://github.com/MontrealCorpusTools/mfa-models",
   "homepage": null,
-  "size": 1427990,
+  "size": 1428045,
   "stargazers_count": 92,
   "watchers_count": 92,
   "language": "Python",
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 865
+  "_index": 869
 }

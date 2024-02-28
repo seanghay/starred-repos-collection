@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/mudler/LocalAI/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mudler/LocalAI/deployments",
   "created_at": "2023-03-18T22:58:02Z",
-  "updated_at": "2024-02-27T00:56:09Z",
-  "pushed_at": "2024-02-26T20:18:19Z",
+  "updated_at": "2024-02-28T00:23:25Z",
+  "pushed_at": "2024-02-28T01:22:37Z",
   "git_url": "git://github.com/mudler/LocalAI.git",
   "ssh_url": "git@github.com:mudler/LocalAI.git",
   "clone_url": "https://github.com/mudler/LocalAI.git",
   "svn_url": "https://github.com/mudler/LocalAI",
   "homepage": "https://localai.io",
-  "size": 3305,
-  "stargazers_count": 16917,
-  "watchers_count": 16917,
+  "size": 3258,
+  "stargazers_count": 17012,
+  "watchers_count": 17012,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 1219,
+  "forks_count": 1225,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -118,9 +118,9 @@
     "tts"
   ],
   "visibility": "public",
-  "forks": 1219,
+  "forks": 1225,
   "open_issues": 235,
-  "watchers": 16917,
+  "watchers": 17012,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -129,5 +129,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 927
+  "_index": 931
 }

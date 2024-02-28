@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/CASIA-IVA-Lab/FastSAM/releases{/id}",
   "deployments_url": "https://api.github.com/repos/CASIA-IVA-Lab/FastSAM/deployments",
   "created_at": "2023-06-21T02:05:15Z",
-  "updated_at": "2024-02-26T16:05:22Z",
+  "updated_at": "2024-02-27T21:18:28Z",
   "pushed_at": "2023-12-31T01:03:39Z",
   "git_url": "git://github.com/CASIA-IVA-Lab/FastSAM.git",
   "ssh_url": "git@github.com:CASIA-IVA-Lab/FastSAM.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/CASIA-IVA-Lab/FastSAM",
   "homepage": null,
   "size": 74206,
-  "stargazers_count": 6585,
-  "watchers_count": 6585,
+  "stargazers_count": 6590,
+  "watchers_count": 6590,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 615,
   "open_issues": 86,
-  "watchers": 6585,
+  "watchers": 6590,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 766
+  "_index": 770
 }

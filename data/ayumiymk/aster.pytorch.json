@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ayumiymk/aster.pytorch/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ayumiymk/aster.pytorch/deployments",
   "created_at": "2019-07-13T06:56:34Z",
-  "updated_at": "2024-01-27T14:46:56Z",
+  "updated_at": "2024-02-27T16:09:06Z",
   "pushed_at": "2021-12-09T11:26:06Z",
   "git_url": "git://github.com/ayumiymk/aster.pytorch.git",
   "ssh_url": "git@github.com:ayumiymk/aster.pytorch.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ayumiymk/aster.pytorch",
   "homepage": "",
   "size": 120,
-  "stargazers_count": 646,
-  "watchers_count": 646,
+  "stargazers_count": 647,
+  "watchers_count": 647,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 166,
   "open_issues": 22,
-  "watchers": 646,
+  "watchers": 647,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 113
+  "_index": 117
 }

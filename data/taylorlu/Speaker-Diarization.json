@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 125,
+  "forks_count": 124,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -105,7 +105,7 @@
     "vgg-speaker-recognition"
   ],
   "visibility": "public",
-  "forks": 125,
+  "forks": 124,
   "open_issues": 44,
   "watchers": 441,
   "default_branch": "master",
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 445
+  "_index": 449
 }

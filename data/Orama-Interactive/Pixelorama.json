@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Orama-Interactive/Pixelorama/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Orama-Interactive/Pixelorama/deployments",
   "created_at": "2019-08-18T09:28:54Z",
-  "updated_at": "2024-02-26T16:28:03Z",
-  "pushed_at": "2024-02-26T23:48:11Z",
+  "updated_at": "2024-02-27T21:58:46Z",
+  "pushed_at": "2024-02-27T15:28:52Z",
   "git_url": "git://github.com/Orama-Interactive/Pixelorama.git",
   "ssh_url": "git@github.com:Orama-Interactive/Pixelorama.git",
   "clone_url": "https://github.com/Orama-Interactive/Pixelorama.git",
   "svn_url": "https://github.com/Orama-Interactive/Pixelorama",
   "homepage": "https://orama-interactive.itch.io/pixelorama",
-  "size": 62558,
-  "stargazers_count": 5866,
-  "watchers_count": 5866,
+  "size": 59279,
+  "stargazers_count": 5874,
+  "watchers_count": 5874,
   "language": "GDScript",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 33,
+  "open_issues_count": 32,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -121,8 +121,8 @@
   ],
   "visibility": "public",
   "forks": 327,
-  "open_issues": 33,
-  "watchers": 5866,
+  "open_issues": 32,
+  "watchers": 5874,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -131,5 +131,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 349
+  "_index": 353
 }

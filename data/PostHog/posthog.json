@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/PostHog/posthog/releases{/id}",
   "deployments_url": "https://api.github.com/repos/PostHog/posthog/deployments",
   "created_at": "2020-01-23T22:46:58Z",
-  "updated_at": "2024-02-27T01:33:06Z",
-  "pushed_at": "2024-02-27T00:51:26Z",
+  "updated_at": "2024-02-28T01:39:40Z",
+  "pushed_at": "2024-02-28T00:30:51Z",
   "git_url": "git://github.com/PostHog/posthog.git",
   "ssh_url": "git@github.com:PostHog/posthog.git",
   "clone_url": "https://github.com/PostHog/posthog.git",
   "svn_url": "https://github.com/PostHog/posthog",
   "homepage": "https://posthog.com",
-  "size": 828488,
-  "stargazers_count": 15882,
-  "watchers_count": 15882,
+  "size": 826486,
+  "stargazers_count": 15894,
+  "watchers_count": 15894,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 932,
+  "forks_count": 933,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1688,
+  "open_issues_count": 1676,
   "license": {
     "key": "other",
     "name": "Other",
@@ -109,9 +109,9 @@
     "typescript"
   ],
   "visibility": "public",
-  "forks": 932,
-  "open_issues": 1688,
-  "watchers": 15882,
+  "forks": 933,
+  "open_issues": 1676,
+  "watchers": 15894,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -120,5 +120,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1578
+  "_index": 1582
 }
