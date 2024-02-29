@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/VikParuchuri/surya/releases{/id}",
   "deployments_url": "https://api.github.com/repos/VikParuchuri/surya/deployments",
   "created_at": "2024-01-10T05:17:42Z",
-  "updated_at": "2024-02-28T01:22:17Z",
+  "updated_at": "2024-02-28T17:56:41Z",
   "pushed_at": "2024-02-27T18:08:30Z",
   "git_url": "git://github.com/VikParuchuri/surya.git",
   "ssh_url": "git@github.com:VikParuchuri/surya.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/VikParuchuri/surya",
   "homepage": "",
   "size": 20190,
-  "stargazers_count": 4878,
-  "watchers_count": 4878,
+  "stargazers_count": 4882,
+  "watchers_count": 4882,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 13,
+  "open_issues_count": 12,
   "license": {
     "key": "gpl-3.0",
     "name": "GNU General Public License v3.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 279,
-  "open_issues": 13,
-  "watchers": 4878,
+  "open_issues": 12,
+  "watchers": 4882,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 196
+  "_index": 197
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/aradzie/keybr.com/releases{/id}",
   "deployments_url": "https://api.github.com/repos/aradzie/keybr.com/deployments",
   "created_at": "2023-09-25T06:58:26Z",
-  "updated_at": "2024-02-27T17:19:44Z",
-  "pushed_at": "2024-02-27T12:30:31Z",
+  "updated_at": "2024-02-28T17:25:05Z",
+  "pushed_at": "2024-02-28T13:41:11Z",
   "git_url": "git://github.com/aradzie/keybr.com.git",
   "ssh_url": "git@github.com:aradzie/keybr.com.git",
   "clone_url": "https://github.com/aradzie/keybr.com.git",
   "svn_url": "https://github.com/aradzie/keybr.com",
   "homepage": "https://www.keybr.com/",
   "size": 16025,
-  "stargazers_count": 654,
-  "watchers_count": 654,
+  "stargazers_count": 655,
+  "watchers_count": 655,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 70,
+  "forks_count": 71,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 79,
+  "open_issues_count": 80,
   "license": {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
@@ -104,9 +104,9 @@
     "typing-tutor"
   ],
   "visibility": "public",
-  "forks": 70,
-  "open_issues": 79,
-  "watchers": 654,
+  "forks": 71,
+  "open_issues": 80,
+  "watchers": 655,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 119
+  "_index": 120
 }

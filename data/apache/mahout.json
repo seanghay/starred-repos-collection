@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 959,
+  "forks_count": 944,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,7 +103,7 @@
     "mahout"
   ],
   "visibility": "public",
-  "forks": 959,
+  "forks": 944,
   "open_issues": 2,
   "watchers": 2113,
   "default_branch": "trunk",
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1555
+  "_index": 1556
 }

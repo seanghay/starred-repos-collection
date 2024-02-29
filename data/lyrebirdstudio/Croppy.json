@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/lyrebirdstudio/Croppy/releases{/id}",
   "deployments_url": "https://api.github.com/repos/lyrebirdstudio/Croppy/deployments",
   "created_at": "2019-10-04T06:33:25Z",
-  "updated_at": "2024-02-06T05:50:41Z",
+  "updated_at": "2024-02-28T10:45:03Z",
   "pushed_at": "2022-06-02T15:31:31Z",
   "git_url": "git://github.com/lyrebirdstudio/Croppy.git",
   "ssh_url": "git@github.com:lyrebirdstudio/Croppy.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/lyrebirdstudio/Croppy",
   "homepage": null,
   "size": 21850,
-  "stargazers_count": 1104,
-  "watchers_count": 1104,
+  "stargazers_count": 1105,
+  "watchers_count": 1105,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 80,
+  "forks_count": 81,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -102,9 +102,9 @@
     "view"
   ],
   "visibility": "public",
-  "forks": 80,
+  "forks": 81,
   "open_issues": 16,
-  "watchers": 1104,
+  "watchers": 1105,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3012
+  "_index": 3013
 }

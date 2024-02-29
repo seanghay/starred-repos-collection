@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Const-me/Whisper/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Const-me/Whisper/deployments",
   "created_at": "2023-01-07T17:25:57Z",
-  "updated_at": "2024-02-28T01:01:39Z",
+  "updated_at": "2024-02-29T00:54:21Z",
   "pushed_at": "2023-10-17T17:34:11Z",
   "git_url": "git://github.com/Const-me/Whisper.git",
   "ssh_url": "git@github.com:Const-me/Whisper.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Const-me/Whisper",
   "homepage": null,
   "size": 4520,
-  "stargazers_count": 6592,
-  "watchers_count": 6592,
+  "stargazers_count": 6611,
+  "watchers_count": 6611,
   "language": "C++",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 586,
+  "forks_count": 587,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 586,
+  "forks": 587,
   "open_issues": 126,
-  "watchers": 6592,
+  "watchers": 6611,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 372
+  "_index": 373
 }

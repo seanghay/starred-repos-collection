@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/Stability-AI/StableCascade/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Stability-AI/StableCascade/deployments",
   "created_at": "2024-01-25T21:48:25Z",
-  "updated_at": "2024-02-28T00:30:55Z",
+  "updated_at": "2024-02-29T01:21:01Z",
   "pushed_at": "2024-02-21T07:51:35Z",
   "git_url": "git://github.com/Stability-AI/StableCascade.git",
   "ssh_url": "git@github.com:Stability-AI/StableCascade.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/Stability-AI/StableCascade",
   "homepage": "",
   "size": 121976,
-  "stargazers_count": 5731,
-  "watchers_count": 5731,
+  "stargazers_count": 5773,
+  "watchers_count": 5773,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 428,
+  "forks_count": 431,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 78,
+  "open_issues_count": 79,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 428,
-  "open_issues": 78,
-  "watchers": 5731,
+  "forks": 431,
+  "open_issues": 79,
+  "watchers": 5773,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 57
+  "_index": 58
 }

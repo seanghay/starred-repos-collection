@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 610,
+  "forks_count": 601,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -106,7 +106,7 @@
     "kotlin"
   ],
   "visibility": "public",
-  "forks": 610,
+  "forks": 601,
   "open_issues": 86,
   "watchers": 5529,
   "default_branch": "main",
@@ -117,5 +117,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3379
+  "_index": 3380
 }

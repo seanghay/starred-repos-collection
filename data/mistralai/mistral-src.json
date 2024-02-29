@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/mistralai/mistral-src/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mistralai/mistral-src/deployments",
   "created_at": "2023-09-27T13:05:24Z",
-  "updated_at": "2024-02-28T00:51:38Z",
-  "pushed_at": "2024-02-22T03:15:22Z",
+  "updated_at": "2024-02-29T01:35:21Z",
+  "pushed_at": "2024-02-28T17:45:23Z",
   "git_url": "git://github.com/mistralai/mistral-src.git",
   "ssh_url": "git@github.com:mistralai/mistral-src.git",
   "clone_url": "https://github.com/mistralai/mistral-src.git",
   "svn_url": "https://github.com/mistralai/mistral-src",
   "homepage": "https://mistral.ai/",
   "size": 274,
-  "stargazers_count": 7740,
-  "watchers_count": 7740,
+  "stargazers_count": 7836,
+  "watchers_count": 7836,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 629,
+  "forks_count": 636,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,9 +103,9 @@
     "mistralai"
   ],
   "visibility": "public",
-  "forks": 629,
+  "forks": 636,
   "open_issues": 94,
-  "watchers": 7740,
+  "watchers": 7836,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 206
+  "_index": 207
 }

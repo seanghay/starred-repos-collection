@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/requarks/wiki/releases{/id}",
   "deployments_url": "https://api.github.com/repos/requarks/wiki/deployments",
   "created_at": "2016-08-16T19:35:26Z",
-  "updated_at": "2024-02-27T23:09:58Z",
-  "pushed_at": "2024-02-27T05:25:29Z",
+  "updated_at": "2024-02-28T22:45:12Z",
+  "pushed_at": "2024-02-28T21:07:20Z",
   "git_url": "git://github.com/requarks/wiki.git",
   "ssh_url": "git@github.com:requarks/wiki.git",
   "clone_url": "https://github.com/requarks/wiki.git",
   "svn_url": "https://github.com/requarks/wiki",
   "homepage": "https://js.wiki",
-  "size": 39394,
-  "stargazers_count": 23054,
-  "watchers_count": 23054,
+  "size": 39405,
+  "stargazers_count": 23067,
+  "watchers_count": 23067,
   "language": "Vue",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2536,
+  "forks_count": 2537,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "wiki"
   ],
   "visibility": "public",
-  "forks": 2536,
+  "forks": 2537,
   "open_issues": 150,
-  "watchers": 23054,
+  "watchers": 23067,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -118,5 +118,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3384
+  "_index": 3385
 }

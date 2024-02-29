@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/google/zopfli/deployments",
   "created_at": "2015-03-09T10:32:36Z",
   "updated_at": "2024-02-27T07:11:27Z",
-  "pushed_at": "2024-02-14T06:29:13Z",
+  "pushed_at": "2024-02-28T13:01:57Z",
   "git_url": "git://github.com/google/zopfli.git",
   "ssh_url": "git@github.com:google/zopfli.git",
   "clone_url": "https://github.com/google/zopfli.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 115,
+  "open_issues_count": 116,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 329,
-  "open_issues": 115,
+  "open_issues": 116,
   "watchers": 3349,
   "default_branch": "master",
   "permissions": {
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3471
+  "_index": 3472
 }

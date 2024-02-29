@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/biodatlab/thonburian-whisper/releases{/id}",
   "deployments_url": "https://api.github.com/repos/biodatlab/thonburian-whisper/deployments",
   "created_at": "2022-12-13T05:10:44Z",
-  "updated_at": "2024-02-23T09:07:50Z",
+  "updated_at": "2024-02-29T01:04:41Z",
   "pushed_at": "2024-02-25T04:07:57Z",
   "git_url": "git://github.com/biodatlab/thonburian-whisper.git",
   "ssh_url": "git@github.com:biodatlab/thonburian-whisper.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/biodatlab/thonburian-whisper",
   "homepage": "https://huggingface.co/spaces/biodatlab/whisper-thai-demo",
   "size": 341,
-  "stargazers_count": 60,
-  "watchers_count": 60,
+  "stargazers_count": 61,
+  "watchers_count": 61,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 3,
   "open_issues": 0,
-  "watchers": 60,
+  "watchers": 61,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 942
+  "_index": 943
 }

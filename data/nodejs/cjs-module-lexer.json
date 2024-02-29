@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/nodejs/cjs-module-lexer/releases{/id}",
   "deployments_url": "https://api.github.com/repos/nodejs/cjs-module-lexer/deployments",
   "created_at": "2020-05-14T04:24:18Z",
-  "updated_at": "2024-02-15T09:36:46Z",
+  "updated_at": "2024-02-28T03:14:46Z",
   "pushed_at": "2024-02-12T13:05:31Z",
   "git_url": "git://github.com/nodejs/cjs-module-lexer.git",
   "ssh_url": "git@github.com:nodejs/cjs-module-lexer.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/nodejs/cjs-module-lexer",
   "homepage": null,
   "size": 2100,
-  "stargazers_count": 204,
-  "watchers_count": 204,
+  "stargazers_count": 205,
+  "watchers_count": 205,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 25,
   "open_issues": 15,
-  "watchers": 204,
+  "watchers": 205,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1742
+  "_index": 1743
 }

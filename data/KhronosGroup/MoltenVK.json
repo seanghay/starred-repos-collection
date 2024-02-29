@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/KhronosGroup/MoltenVK/releases{/id}",
   "deployments_url": "https://api.github.com/repos/KhronosGroup/MoltenVK/deployments",
   "created_at": "2017-11-07T18:41:56Z",
-  "updated_at": "2024-02-27T03:26:24Z",
+  "updated_at": "2024-02-29T01:21:23Z",
   "pushed_at": "2024-02-27T15:20:19Z",
   "git_url": "git://github.com/KhronosGroup/MoltenVK.git",
   "ssh_url": "git@github.com:KhronosGroup/MoltenVK.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/KhronosGroup/MoltenVK",
   "homepage": "",
   "size": 12309,
-  "stargazers_count": 4442,
-  "watchers_count": 4442,
+  "stargazers_count": 4445,
+  "watchers_count": 4445,
   "language": "Objective-C++",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 233,
+  "open_issues_count": 234,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 384,
-  "open_issues": 233,
-  "watchers": 4442,
+  "open_issues": 234,
+  "watchers": 4445,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 2387
+  "_index": 2388
 }

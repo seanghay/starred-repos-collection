@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/isl-org/MiDaS/releases{/id}",
   "deployments_url": "https://api.github.com/repos/isl-org/MiDaS/deployments",
   "created_at": "2019-06-24T14:08:35Z",
-  "updated_at": "2024-02-28T01:36:20Z",
+  "updated_at": "2024-02-29T00:30:33Z",
   "pushed_at": "2024-02-14T09:32:35Z",
   "git_url": "git://github.com/isl-org/MiDaS.git",
   "ssh_url": "git@github.com:isl-org/MiDaS.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/isl-org/MiDaS",
   "homepage": "",
   "size": 3512,
-  "stargazers_count": 3935,
-  "watchers_count": 3935,
+  "stargazers_count": 3944,
+  "watchers_count": 3944,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 562,
+  "forks_count": 563,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -103,9 +103,9 @@
     "single-image-depth-prediction"
   ],
   "visibility": "public",
-  "forks": 562,
+  "forks": 563,
   "open_issues": 147,
-  "watchers": 3935,
+  "watchers": 3944,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 7
+  "_index": 8
 }

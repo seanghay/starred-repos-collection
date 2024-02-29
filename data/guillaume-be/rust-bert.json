@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/guillaume-be/rust-bert/releases{/id}",
   "deployments_url": "https://api.github.com/repos/guillaume-be/rust-bert/deployments",
   "created_at": "2020-01-25T09:40:07Z",
-  "updated_at": "2024-02-27T07:15:14Z",
+  "updated_at": "2024-02-28T10:53:34Z",
   "pushed_at": "2024-02-11T17:29:51Z",
   "git_url": "git://github.com/guillaume-be/rust-bert.git",
   "ssh_url": "git@github.com:guillaume-be/rust-bert.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/guillaume-be/rust-bert",
   "homepage": "https://docs.rs/crate/rust-bert",
   "size": 4146,
-  "stargazers_count": 2354,
-  "watchers_count": 2354,
+  "stargazers_count": 2353,
+  "watchers_count": 2353,
   "language": "Rust",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 191,
+  "forks_count": 192,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -117,9 +117,9 @@
     "translation"
   ],
   "visibility": "public",
-  "forks": 191,
+  "forks": 192,
   "open_issues": 49,
-  "watchers": 2354,
+  "watchers": 2353,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -128,5 +128,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 62
+  "_index": 63
 }

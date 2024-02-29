@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/DiffEqML/torchdyn/releases{/id}",
   "deployments_url": "https://api.github.com/repos/DiffEqML/torchdyn/deployments",
   "created_at": "2020-04-27T01:18:41Z",
-  "updated_at": "2024-02-27T09:08:29Z",
+  "updated_at": "2024-02-28T03:38:13Z",
   "pushed_at": "2024-02-02T17:27:25Z",
   "git_url": "git://github.com/DiffEqML/torchdyn.git",
   "ssh_url": "git@github.com:DiffEqML/torchdyn.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/DiffEqML/torchdyn",
   "homepage": "https://torchdyn.org",
   "size": 34898,
-  "stargazers_count": 1230,
-  "watchers_count": 1230,
+  "stargazers_count": 1231,
+  "watchers_count": 1231,
   "language": "Jupyter Notebook",
   "has_issues": true,
   "has_projects": true,
@@ -112,7 +112,7 @@
   "visibility": "public",
   "forks": 119,
   "open_issues": 34,
-  "watchers": 1230,
+  "watchers": 1231,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 111
+  "_index": 112
 }

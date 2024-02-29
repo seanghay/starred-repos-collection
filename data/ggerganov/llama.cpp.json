@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/ggerganov/llama.cpp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ggerganov/llama.cpp/deployments",
   "created_at": "2023-03-10T18:58:00Z",
-  "updated_at": "2024-02-28T01:40:12Z",
-  "pushed_at": "2024-02-28T01:22:33Z",
+  "updated_at": "2024-02-29T01:36:48Z",
+  "pushed_at": "2024-02-28T22:52:19Z",
   "git_url": "git://github.com/ggerganov/llama.cpp.git",
   "ssh_url": "git@github.com:ggerganov/llama.cpp.git",
   "clone_url": "https://github.com/ggerganov/llama.cpp.git",
   "svn_url": "https://github.com/ggerganov/llama.cpp",
   "homepage": "",
-  "size": 22187,
-  "stargazers_count": 51662,
-  "watchers_count": 51662,
+  "size": 22864,
+  "stargazers_count": 51793,
+  "watchers_count": 51793,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 7265,
+  "forks_count": 7281,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 1172,
+  "open_issues_count": 1181,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -102,9 +102,9 @@
     "llm"
   ],
   "visibility": "public",
-  "forks": 7265,
-  "open_issues": 1172,
-  "watchers": 51662,
+  "forks": 7281,
+  "open_issues": 1181,
+  "watchers": 51793,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -113,5 +113,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1033
+  "_index": 1034
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/vosen/ZLUDA/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vosen/ZLUDA/deployments",
   "created_at": "2020-01-05T18:26:03Z",
-  "updated_at": "2024-02-27T23:53:10Z",
-  "pushed_at": "2024-02-27T18:57:28Z",
+  "updated_at": "2024-02-29T00:55:17Z",
+  "pushed_at": "2024-02-28T12:22:34Z",
   "git_url": "git://github.com/vosen/ZLUDA.git",
   "ssh_url": "git@github.com:vosen/ZLUDA.git",
   "clone_url": "https://github.com/vosen/ZLUDA.git",
   "svn_url": "https://github.com/vosen/ZLUDA",
   "homepage": "",
-  "size": 3891,
-  "stargazers_count": 5981,
-  "watchers_count": 5981,
+  "size": 3895,
+  "stargazers_count": 6023,
+  "watchers_count": 6023,
   "language": "Rust",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 280,
+  "forks_count": 282,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 42,
+  "open_issues_count": 43,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -104,9 +104,9 @@
     "rust"
   ],
   "visibility": "public",
-  "forks": 280,
-  "open_issues": 42,
-  "watchers": 5981,
+  "forks": 282,
+  "open_issues": 43,
+  "watchers": 6023,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 58
+  "_index": 59
 }

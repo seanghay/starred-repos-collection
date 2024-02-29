@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/ultravideo/kvazaar/releases{/id}",
   "deployments_url": "https://api.github.com/repos/ultravideo/kvazaar/deployments",
   "created_at": "2014-01-29T08:35:53Z",
-  "updated_at": "2024-02-26T05:49:35Z",
+  "updated_at": "2024-02-28T21:12:09Z",
   "pushed_at": "2024-02-16T08:01:20Z",
   "git_url": "git://github.com/ultravideo/kvazaar.git",
   "ssh_url": "git@github.com:ultravideo/kvazaar.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/ultravideo/kvazaar",
   "homepage": null,
   "size": 7986,
-  "stargazers_count": 758,
-  "watchers_count": 758,
+  "stargazers_count": 759,
+  "watchers_count": 759,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 171,
   "open_issues": 57,
-  "watchers": 758,
+  "watchers": 759,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 9
+  "_index": 10
 }

@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/karpathy/minbpe/releases{/id}",
   "deployments_url": "https://api.github.com/repos/karpathy/minbpe/deployments",
   "created_at": "2024-02-16T16:18:15Z",
-  "updated_at": "2024-02-28T01:24:28Z",
+  "updated_at": "2024-02-29T01:20:06Z",
   "pushed_at": "2024-02-27T11:48:50Z",
   "git_url": "git://github.com/karpathy/minbpe.git",
   "ssh_url": "git@github.com:karpathy/minbpe.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/karpathy/minbpe",
   "homepage": "",
   "size": 327,
-  "stargazers_count": 7257,
-  "watchers_count": 7257,
+  "stargazers_count": 7314,
+  "watchers_count": 7314,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 582,
+  "forks_count": 584,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 22,
+  "open_issues_count": 24,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 582,
-  "open_issues": 22,
-  "watchers": 7257,
+  "forks": 584,
+  "open_issues": 24,
+  "watchers": 7314,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 43
+  "_index": 44
 }

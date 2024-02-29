@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/mac-cleanup/mac-cleanup-py/releases{/id}",
   "deployments_url": "https://api.github.com/repos/mac-cleanup/mac-cleanup-py/deployments",
   "created_at": "2022-06-29T18:50:23Z",
-  "updated_at": "2024-02-28T01:12:30Z",
+  "updated_at": "2024-02-29T01:39:06Z",
   "pushed_at": "2023-11-25T17:19:20Z",
   "git_url": "git://github.com/mac-cleanup/mac-cleanup-py.git",
   "ssh_url": "git@github.com:mac-cleanup/mac-cleanup-py.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/mac-cleanup/mac-cleanup-py",
   "homepage": "",
   "size": 8483,
-  "stargazers_count": 872,
-  "watchers_count": 872,
+  "stargazers_count": 899,
+  "watchers_count": 899,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -106,7 +106,7 @@
   "visibility": "public",
   "forks": 33,
   "open_issues": 12,
-  "watchers": 872,
+  "watchers": 899,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -115,5 +115,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 545
+  "_index": 546
 }

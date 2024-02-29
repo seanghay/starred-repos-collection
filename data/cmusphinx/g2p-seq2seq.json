@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/cmusphinx/g2p-seq2seq/releases{/id}",
   "deployments_url": "https://api.github.com/repos/cmusphinx/g2p-seq2seq/deployments",
   "created_at": "2016-04-25T12:53:41Z",
-  "updated_at": "2024-01-26T21:11:32Z",
+  "updated_at": "2024-02-28T06:42:29Z",
   "pushed_at": "2019-10-09T10:18:03Z",
   "git_url": "git://github.com/cmusphinx/g2p-seq2seq.git",
   "ssh_url": "git@github.com:cmusphinx/g2p-seq2seq.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/cmusphinx/g2p-seq2seq",
   "homepage": null,
   "size": 887,
-  "stargazers_count": 663,
-  "watchers_count": 663,
+  "stargazers_count": 664,
+  "watchers_count": 664,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -105,7 +105,7 @@
   "visibility": "public",
   "forks": 198,
   "open_issues": 46,
-  "watchers": 663,
+  "watchers": 664,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -114,5 +114,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 732
+  "_index": 733
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/tremorlabs/tremor/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tremorlabs/tremor/deployments",
   "created_at": "2022-04-19T20:54:32Z",
-  "updated_at": "2024-02-27T18:53:24Z",
-  "pushed_at": "2024-02-27T14:27:04Z",
+  "updated_at": "2024-02-28T18:00:10Z",
+  "pushed_at": "2024-02-28T17:57:33Z",
   "git_url": "git://github.com/tremorlabs/tremor.git",
   "ssh_url": "git@github.com:tremorlabs/tremor.git",
   "clone_url": "https://github.com/tremorlabs/tremor.git",
   "svn_url": "https://github.com/tremorlabs/tremor",
   "homepage": "https://tremor.so",
-  "size": 10697,
-  "stargazers_count": 14615,
-  "watchers_count": 14615,
+  "size": 10699,
+  "stargazers_count": 14620,
+  "watchers_count": 14620,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": true,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 421,
   "open_issues": 89,
-  "watchers": 14615,
+  "watchers": 14620,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1301
+  "_index": 1302
 }

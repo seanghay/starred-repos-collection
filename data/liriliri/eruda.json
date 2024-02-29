@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/liriliri/eruda/releases{/id}",
   "deployments_url": "https://api.github.com/repos/liriliri/eruda/deployments",
   "created_at": "2016-03-06T13:45:55Z",
-  "updated_at": "2024-02-28T01:16:50Z",
+  "updated_at": "2024-02-29T00:35:12Z",
   "pushed_at": "2024-02-23T10:20:44Z",
   "git_url": "git://github.com/liriliri/eruda.git",
   "ssh_url": "git@github.com:liriliri/eruda.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/liriliri/eruda",
   "homepage": "https://eruda.liriliri.io",
   "size": 3527,
-  "stargazers_count": 16897,
-  "watchers_count": 16897,
+  "stargazers_count": 16903,
+  "watchers_count": 16903,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": false,
@@ -107,7 +107,7 @@
   "visibility": "public",
   "forks": 1122,
   "open_issues": 53,
-  "watchers": 16897,
+  "watchers": 16903,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 340
+  "_index": 341
 }

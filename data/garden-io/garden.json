@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 285,
+  "forks_count": 261,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 208,
+  "open_issues_count": 209,
   "license": {
     "key": "mpl-2.0",
     "name": "Mozilla Public License 2.0",
@@ -105,8 +105,8 @@
     "testing-tools"
   ],
   "visibility": "public",
-  "forks": 285,
-  "open_issues": 208,
+  "forks": 261,
+  "open_issues": 209,
   "watchers": 3195,
   "default_branch": "main",
   "permissions": {
@@ -116,5 +116,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1526
+  "_index": 1527
 }

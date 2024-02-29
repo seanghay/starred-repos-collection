@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/HumanAIGC/VividTalk/releases{/id}",
   "deployments_url": "https://api.github.com/repos/HumanAIGC/VividTalk/deployments",
   "created_at": "2023-12-04T06:40:21Z",
-  "updated_at": "2024-02-28T01:30:08Z",
+  "updated_at": "2024-02-29T01:37:35Z",
   "pushed_at": "2023-12-05T04:19:52Z",
   "git_url": "git://github.com/HumanAIGC/VividTalk.git",
   "ssh_url": "git@github.com:HumanAIGC/VividTalk.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/HumanAIGC/VividTalk",
   "homepage": null,
   "size": 2315,
-  "stargazers_count": 614,
-  "watchers_count": 614,
+  "stargazers_count": 633,
+  "watchers_count": 633,
   "language": null,
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 21,
+  "forks_count": 24,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 9,
+  "open_issues_count": 10,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 21,
-  "open_issues": 9,
-  "watchers": 614,
+  "forks": 24,
+  "open_issues": 10,
+  "watchers": 633,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 92
+  "_index": 93
 }

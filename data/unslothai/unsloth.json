@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/unslothai/unsloth/releases{/id}",
   "deployments_url": "https://api.github.com/repos/unslothai/unsloth/deployments",
   "created_at": "2023-11-29T16:50:09Z",
-  "updated_at": "2024-02-27T23:59:05Z",
-  "pushed_at": "2024-02-26T22:58:03Z",
+  "updated_at": "2024-02-29T01:37:15Z",
+  "pushed_at": "2024-02-28T13:18:39Z",
   "git_url": "git://github.com/unslothai/unsloth.git",
   "ssh_url": "git@github.com:unslothai/unsloth.git",
   "clone_url": "https://github.com/unslothai/unsloth.git",
   "svn_url": "https://github.com/unslothai/unsloth",
   "homepage": "https://unsloth.ai",
-  "size": 3031,
-  "stargazers_count": 3619,
-  "watchers_count": 3619,
+  "size": 3039,
+  "stargazers_count": 3650,
+  "watchers_count": 3650,
   "language": "Python",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 161,
+  "forks_count": 166,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 57,
+  "open_issues_count": 59,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -110,9 +110,9 @@
     "qlora"
   ],
   "visibility": "public",
-  "forks": 161,
-  "open_issues": 57,
-  "watchers": 3619,
+  "forks": 166,
+  "open_issues": 59,
+  "watchers": 3650,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 49
+  "_index": 50
 }

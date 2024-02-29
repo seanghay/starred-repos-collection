@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/tommybuonomo/dotsindicator/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tommybuonomo/dotsindicator/deployments",
   "created_at": "2017-07-09T20:38:35Z",
-  "updated_at": "2024-02-27T03:09:49Z",
+  "updated_at": "2024-02-28T20:05:13Z",
   "pushed_at": "2024-02-18T23:36:07Z",
   "git_url": "git://github.com/tommybuonomo/dotsindicator.git",
   "ssh_url": "git@github.com:tommybuonomo/dotsindicator.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/tommybuonomo/dotsindicator",
   "homepage": "",
   "size": 408,
-  "stargazers_count": 3295,
-  "watchers_count": 3295,
+  "stargazers_count": 3302,
+  "watchers_count": 3302,
   "language": "Kotlin",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 341,
+  "forks_count": 342,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -110,9 +110,9 @@
     "viewpager-indicator"
   ],
   "visibility": "public",
-  "forks": 341,
+  "forks": 342,
   "open_issues": 45,
-  "watchers": 3295,
+  "watchers": 3302,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -121,5 +121,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 3098
+  "_index": 3099
 }

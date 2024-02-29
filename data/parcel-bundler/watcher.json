@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/parcel-bundler/watcher/releases{/id}",
   "deployments_url": "https://api.github.com/repos/parcel-bundler/watcher/deployments",
   "created_at": "2019-03-12T06:11:04Z",
-  "updated_at": "2024-02-27T21:25:09Z",
+  "updated_at": "2024-02-28T11:00:59Z",
   "pushed_at": "2024-02-23T15:26:36Z",
   "git_url": "git://github.com/parcel-bundler/watcher.git",
   "ssh_url": "git@github.com:parcel-bundler/watcher.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/parcel-bundler/watcher",
   "homepage": "",
   "size": 2090,
-  "stargazers_count": 613,
-  "watchers_count": 613,
+  "stargazers_count": 614,
+  "watchers_count": 614,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 32,
   "open_issues": 40,
-  "watchers": 613,
+  "watchers": 614,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,5 +110,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1834
+  "_index": 1835
 }

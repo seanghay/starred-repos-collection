@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/you-dont-need/You-Dont-Need-Lodash-Underscore/releases{/id}",
   "deployments_url": "https://api.github.com/repos/you-dont-need/You-Dont-Need-Lodash-Underscore/deployments",
   "created_at": "2016-01-26T09:26:42Z",
-  "updated_at": "2024-02-27T18:26:09Z",
+  "updated_at": "2024-02-28T14:31:38Z",
   "pushed_at": "2024-02-19T14:24:04Z",
   "git_url": "git://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore.git",
   "ssh_url": "git@github.com:you-dont-need/You-Dont-Need-Lodash-Underscore.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore",
   "homepage": "",
   "size": 740,
-  "stargazers_count": 18311,
-  "watchers_count": 18311,
+  "stargazers_count": 18312,
+  "watchers_count": 18312,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 811,
+  "forks_count": 812,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -113,9 +113,9 @@
     "utilities"
   ],
   "visibility": "public",
-  "forks": 811,
+  "forks": 812,
   "open_issues": 54,
-  "watchers": 18311,
+  "watchers": 18312,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
     "triage": false,
     "pull": false
   },
-  "_index": 1229
+  "_index": 1230
 }
